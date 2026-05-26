@@ -1,0 +1,39 @@
+{
+  "_comentarios": {
+    "uso": "Copie este arquivo, renomeie para o id da matéria (ex: cpm.json) e preencha. Depois, adicione a matéria em data/manifest.json com ativo:true.",
+    "schema": {
+      "materia": "id curto da matéria (igual ao usado no manifest.json)",
+      "versao": "versão semântica (1.0.0 = primeira publicação)",
+      "atualizadoEm": "data ISO da última atualização (YYYY-MM-DD)",
+      "subtemas": "array de strings com os subtemas usados nas questões (para filtros e estatísticas)",
+      "questoes": [
+        {
+          "id": "identificador único no formato <materia>-NNN (ex: cpm-001). DEVE ser único globalmente — não reaproveite ids ao editar",
+          "subtema": "deve corresponder a um dos itens em subtemas[]",
+          "artigo": "referência normativa exata (ex: 'Art. 9º, II, a, CPM')",
+          "enunciado": "pergunta completa, sem 'a) b)' embutidos",
+          "alternativas": "exatamente 4 strings",
+          "correta": "índice 0-3 da alternativa correta",
+          "explicacao": "fundamento legal + raciocínio + pegadinhas. Markdown leve permitido",
+          "tags": "array de tags-curtas para agrupamento livre (ex: ['homicidio', 'tentativa'])"
+        }
+      ]
+    }
+  },
+  "materia": "exemplo",
+  "versao": "0.0.1",
+  "atualizadoEm": "2026-05-25",
+  "subtemas": ["Subtema 1", "Subtema 2"],
+  "questoes": [
+    {
+      "id": "exemplo-001",
+      "subtema": "Subtema 1",
+      "artigo": "Art. X",
+      "enunciado": "Pergunta de exemplo?",
+      "alternativas": ["Opção A", "Opção B", "Opção C", "Opção D"],
+      "correta": 0,
+      "explicacao": "Explicação de exemplo.",
+      "tags": ["exemplo"]
+    }
+  ]
+}

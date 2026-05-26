@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-05-25",
+  "materias": [
+    {
+      "id": "rdpm",
+      "nome": "RDPM",
+      "nomeCompleto": "Regulamento Disciplinar da Polícia Militar",
+      "norma": "LC nº 893/2001",
+      "arquivo": "data/rdpm.json",
+      "cor": "#7c1a1a",
+      "ativo": true,
+      "ordem": 1
+    },
+    {
+      "id": "i16pm",
+      "nome": "I-16-PM",
+      "nomeCompleto": "Instruções do Processo Administrativo da Polícia Militar",
+      "norma": "Port. Cmt G",
+      "arquivo": "data/i16pm.json",
+      "cor": "#1a4d7c",
+      "ativo": false,
+      "ordem": 2
+    },
+    {
+      "id": "cpm",
+      "nome": "CPM",
+      "nomeCompleto": "Código Penal Militar",
+      "norma": "Decreto-Lei nº 1.001/69",
+      "arquivo": "data/cpm.json",
+      "cor": "#4d1a7c",
+      "ativo": false,
+      "ordem": 3
+    },
+    {
+      "id": "cppm",
+      "nome": "CPPM",
+      "nomeCompleto": "Código de Processo Penal Militar",
+      "norma": "Decreto-Lei nº 1.002/69",
+      "arquivo": "data/cppm.json",
+      "cor": "#1a7c4d",
+      "ativo": false,
+      "ordem": 4
+    },
+    {
+      "id": "ambiental",
+      "nome": "Direito Ambiental",
+      "nomeCompleto": "Legislação Ambiental Federal e Estadual",
+      "norma": "Lei 9.605/98 + correlatas",
+      "arquivo": "data/ambiental.json",
+      "cor": "#2d5016",
+      "ativo": false,
+      "ordem": 5
+    }
+  ]
+}
