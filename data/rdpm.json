@@ -1,24 +1,35 @@
 {
   "materia": "rdpm",
-  "versao": "1.0.0",
-  "atualizadoEm": "2026-05-25",
+  "versao": "2.0.0",
+  "atualizadoEm": "2026-05-27",
   "subtemas": [
-    "Competência disciplinar",
-    "Classificação de transgressão",
-    "Comportamento",
-    "Prescrição",
-    "Recolhimento disciplinar",
-    "Procedimento Disciplinar",
-    "Sanções",
-    "Reincidência",
-    "Processo Regular",
-    "Recursos",
-    "Revisão de atos",
-    "Recompensas",
-    "Definições",
+    "Agravantes",
+    "Aplicação",
+    "Atenuantes",
     "Causas de justificação",
+    "Classificação de transgressão",
+    "Competência disciplinar",
+    "Comportamento",
+    "Conselho de Disciplina",
+    "Cumprimento",
+    "Definições",
+    "Deontologia",
+    "Disciplina",
+    "Disposições finais",
+    "Disposições gerais",
+    "Julgamento",
+    "Prazos",
+    "Prescrição",
+    "Procedimento Disciplinar",
+    "Processo Regular",
+    "Recolhimento disciplinar",
+    "Recompensas",
+    "Recursos",
+    "Reincidência",
+    "Representação",
     "Responsabilidade",
-    "Conselho de Disciplina"
+    "Revisão de atos",
+    "Sanções"
   ],
   "questoes": [
     {
@@ -26,30 +37,57 @@
       "subtema": "Competência disciplinar",
       "artigo": "Art. 32, VI",
       "enunciado": "Qual o limite máximo da sanção de permanência disciplinar que pode ser aplicada por oficial no posto de Capitão?",
-      "alternativas": ["5 (cinco) dias", "10 (dez) dias", "15 (quinze) dias", "20 (vinte) dias"],
+      "alternativas": [
+        "5 (cinco) dias",
+        "10 (dez) dias",
+        "15 (quinze) dias",
+        "20 (vinte) dias"
+      ],
       "correta": 1,
       "explicacao": "Nos termos do art. 32, VI, do RDPM, aos oficiais do posto de Capitão compete aplicar advertência, repreensão e permanência disciplinar de até 10 (dez) dias. Sanções superiores ou detenção devem ser remetidas a autoridade competente.",
-      "tags": ["competencia", "capitao", "limites"]
+      "tags": [
+        "competencia",
+        "capitao",
+        "limites"
+      ]
     },
     {
       "id": "rdpm-002",
       "subtema": "Classificação de transgressão",
       "artigo": "Art. 13, nº 75 c/c Art. 42, III",
       "enunciado": "Faltar ao expediente ou ao serviço para o qual esteja nominalmente escalado é, em regra, transgressão de natureza:",
-      "alternativas": ["Leve", "Média", "Grave", "A classificação depende exclusivamente das circunstâncias do fato"],
+      "alternativas": [
+        "Leve",
+        "Média",
+        "Grave",
+        "A classificação depende exclusivamente das circunstâncias do fato"
+      ],
       "correta": 2,
       "explicacao": "O nº 75 do parágrafo único do art. 13 tipifica expressamente a falta como (G) — grave. Por ser transgressão típica e expressamente classificada, não cabe à autoridade reclassificá-la em função das circunstâncias (que serão sopesadas apenas no quantum da sanção).",
-      "tags": ["transgressao", "falta-servico", "grave"]
+      "tags": [
+        "transgressao",
+        "falta-servico",
+        "grave"
+      ]
     },
     {
       "id": "rdpm-003",
       "subtema": "Comportamento",
       "artigo": "Art. 54, I",
       "enunciado": "Qual o período exigido sem qualquer sanção disciplinar para que a praça atinja o comportamento \"excelente\"?",
-      "alternativas": ["5 (cinco) anos", "9 (nove) anos", "10 (dez) anos", "15 (quinze) anos"],
+      "alternativas": [
+        "5 (cinco) anos",
+        "9 (nove) anos",
+        "10 (dez) anos",
+        "15 (quinze) anos"
+      ],
       "correta": 2,
       "explicacao": "Art. 54, I: comportamento EXCELENTE — quando, no período de 10 (dez) anos, não lhe tenha sido aplicada qualquer sanção disciplinar. O quadro de correlação esclarece que o antigo \"excepcional\" (9 anos) foi substituído pelo \"excelente\" (10 anos).",
-      "tags": ["comportamento", "excelente", "10-anos"]
+      "tags": [
+        "comportamento",
+        "excelente",
+        "10-anos"
+      ]
     },
     {
       "id": "rdpm-004",
@@ -64,17 +102,28 @@
       ],
       "correta": 2,
       "explicacao": "Art. 85, caput: a ação disciplinar prescreve em 5 (cinco) anos, contados da data do COMETIMENTO da transgressão (e não da ciência pela autoridade). Se desconhecida a data exata, toma-se o último dia do período em que teria sido praticada.",
-      "tags": ["prescricao", "5-anos"]
+      "tags": [
+        "prescricao",
+        "5-anos"
+      ]
     },
     {
       "id": "rdpm-005",
       "subtema": "Recolhimento disciplinar",
       "artigo": "Art. 26, §4º",
       "enunciado": "O militar do Estado preso em recolhimento disciplinar poderá permanecer nessa situação pelo prazo máximo de:",
-      "alternativas": ["24 (vinte e quatro) horas", "48 (quarenta e oito) horas", "5 (cinco) dias", "10 (dez) dias"],
+      "alternativas": [
+        "24 (vinte e quatro) horas",
+        "48 (quarenta e oito) horas",
+        "5 (cinco) dias",
+        "10 (dez) dias"
+      ],
       "correta": 2,
       "explicacao": "Art. 26, §4º: prazo máximo de 5 (cinco) dias. A contagem segue a regra do §1º do art. 52 (períodos de 24h, a partir do início do recolhimento). O tempo de recolhimento NÃO é descontado da sanção aplicada ao final da apuração.",
-      "tags": ["recolhimento", "5-dias"]
+      "tags": [
+        "recolhimento",
+        "5-dias"
+      ]
     },
     {
       "id": "rdpm-006",
@@ -89,17 +138,31 @@
       ],
       "correta": 2,
       "explicacao": "Art. 28, §1º: 5 (cinco) dias, contados da constatação ou conhecimento do fato. Ressalva: nas hipóteses de recolhimento disciplinar a comunicação é IMEDIATA.",
-      "tags": ["procedimento", "comunicacao", "prazos"]
+      "tags": [
+        "procedimento",
+        "comunicacao",
+        "prazos"
+      ]
     },
     {
       "id": "rdpm-007",
       "subtema": "Procedimento Disciplinar",
       "artigo": "Art. 28, §3º",
       "enunciado": "Recebido o Termo Acusatório, o militar do Estado acusado dispõe de qual prazo para exercer, por escrito, o seu direito à ampla defesa e ao contraditório?",
-      "alternativas": ["3 (três) dias", "5 (cinco) dias", "10 (dez) dias", "15 (quinze) dias"],
+      "alternativas": [
+        "3 (três) dias",
+        "5 (cinco) dias",
+        "10 (dez) dias",
+        "15 (quinze) dias"
+      ],
       "correta": 1,
       "explicacao": "Art. 28, §3º: 5 (cinco) dias para apresentar defesa escrita após o recebimento do Termo Acusatório. Não confundir com o prazo da manifestação preliminar do §2º (3 dias).",
-      "tags": ["procedimento", "defesa", "prazos", "termo-acusatorio"]
+      "tags": [
+        "procedimento",
+        "defesa",
+        "prazos",
+        "termo-acusatorio"
+      ]
     },
     {
       "id": "rdpm-008",
@@ -114,7 +177,11 @@
       ],
       "correta": 2,
       "explicacao": "Art. 29, §1º: 30 (trinta) dias, prorrogáveis por mais 15 (quinze), com motivação no enquadramento. A prorrogação independe de aprovação. O descumprimento NÃO gera nulidade, mas constitui infração disciplinar do responsável.",
-      "tags": ["procedimento", "solucao", "prazos"]
+      "tags": [
+        "procedimento",
+        "solucao",
+        "prazos"
+      ]
     },
     {
       "id": "rdpm-009",
@@ -129,7 +196,11 @@
       ],
       "correta": 1,
       "explicacao": "Art. 17, par. único: na permanência o militar comparece a todos os atos de instrução e serviço, internos e externos. Art. 20: na detenção fica retido na OPM SEM participar de qualquer serviço, instrução ou atividade, perdendo vantagens e direitos do posto/graduação naqueles dias, que não são computados para efeito algum.",
-      "tags": ["sancoes", "permanencia", "detencao"]
+      "tags": [
+        "sancoes",
+        "permanencia",
+        "detencao"
+      ]
     },
     {
       "id": "rdpm-010",
@@ -144,7 +215,11 @@
       ],
       "correta": 1,
       "explicacao": "Art. 20, §2º: a detenção exige reincidência em transgressão GRAVE. A instrução esclarece que se trata de reincidência genérica (não específica), pois quando o legislador quis especificidade, fez expressamente (art. 36, III, e §2º).",
-      "tags": ["sancoes", "detencao", "reincidencia"]
+      "tags": [
+        "sancoes",
+        "detencao",
+        "reincidencia"
+      ]
     },
     {
       "id": "rdpm-011",
@@ -159,7 +234,10 @@
       ],
       "correta": 2,
       "explicacao": "Art. 36, §2º: reincidência específica é o enquadramento da nova falta no MESMO item do parágrafo único do art. 13 (transgressão tipificada) ou no item 2 do §1º do art. 12 (transgressão atípica, por violação a dever). O prazo de aferição é de 5 anos.",
-      "tags": ["reincidencia", "especifica"]
+      "tags": [
+        "reincidencia",
+        "especifica"
+      ]
     },
     {
       "id": "rdpm-012",
@@ -174,7 +252,10 @@
       ],
       "correta": 2,
       "explicacao": "Art. 71, III: praça com menos de 10 anos — PAD. Se completar 10 anos durante a instrução, dá-se continuidade ao processo já instaurado, sem prejuízo da validade. Rito regulado pelas I-16-PM.",
-      "tags": ["processo-regular", "pad"]
+      "tags": [
+        "processo-regular",
+        "pad"
+      ]
     },
     {
       "id": "rdpm-013",
@@ -189,7 +270,10 @@
       ],
       "correta": 1,
       "explicacao": "Art. 71, II: praça com 10 ou mais anos — Conselho de Disciplina, destinado a declarar a incapacidade moral da praça para permanecer no serviço ativo (art. 76). Aplicam-se, supletivamente, as disposições do CPPM (art. 87).",
-      "tags": ["processo-regular", "conselho-disciplina"]
+      "tags": [
+        "processo-regular",
+        "conselho-disciplina"
+      ]
     },
     {
       "id": "rdpm-014",
@@ -204,7 +288,11 @@
       ],
       "correta": 2,
       "explicacao": "Art. 21: a detenção é aplicada pelo Secretário da Segurança Pública, Comandante Geral e demais oficiais em FUNÇÕES PRÓPRIAS DO POSTO DE CORONEL. Outras autoridades que entenderem cabível a detenção remetem a documentação à autoridade competente, observado o canal hierárquico.",
-      "tags": ["competencia", "detencao", "coronel"]
+      "tags": [
+        "competencia",
+        "detencao",
+        "coronel"
+      ]
     },
     {
       "id": "rdpm-015",
@@ -219,7 +307,11 @@
       ],
       "correta": 1,
       "explicacao": "Art. 57, §2º: 5 (cinco) dias da ciência do ato. O pedido tem efeito SUSPENSIVO, é interposto por uma única vez e dirigido diretamente à autoridade recorrida, sem obediência ao canal hierárquico.",
-      "tags": ["recursos", "reconsideracao", "prazos"]
+      "tags": [
+        "recursos",
+        "reconsideracao",
+        "prazos"
+      ]
     },
     {
       "id": "rdpm-016",
@@ -234,7 +326,11 @@
       ],
       "correta": 1,
       "explicacao": "Art. 58, §3º, 1: 5 dias do conhecimento da solução do pedido de reconsideração (ou do vencimento do prazo do §4º do art. 57, quando não houver solução em 30 dias). O recurso hierárquico exige prévio pedido de reconsideração.",
-      "tags": ["recursos", "hierarquico", "prazos"]
+      "tags": [
+        "recursos",
+        "hierarquico",
+        "prazos"
+      ]
     },
     {
       "id": "rdpm-017",
@@ -249,7 +345,10 @@
       ],
       "correta": 1,
       "explicacao": "Art. 64 — Atenuação. Distingue-se de: retificação (art. 63 — correção formal), anulação (art. 66 — invalidade por ilegalidade, com efeito retroativo) e agravação (art. 65 — ampliação). IMPORTANTE: não cabe agravamento em razão da interposição de recurso (art. 65, par. único — non reformatio in pejus).",
-      "tags": ["revisao", "atenuacao"]
+      "tags": [
+        "revisao",
+        "atenuacao"
+      ]
     },
     {
       "id": "rdpm-018",
@@ -264,17 +363,30 @@
       ],
       "correta": 2,
       "explicacao": "Art. 70, §1º: ato do Comandante Geral, a PEDIDO do interessado, atendidos os \"bons serviços prestados\" (ausência de punições e existência de elogios, cursos, láureas, etc.) e decorridos 10 anos de efetivo serviço sem qualquer outra sanção. §2º: o cancelamento não tem efeito retroativo.",
-      "tags": ["recompensas", "cancelamento", "comandante-geral"]
+      "tags": [
+        "recompensas",
+        "cancelamento",
+        "comandante-geral"
+      ]
     },
     {
       "id": "rdpm-019",
       "subtema": "Sanções",
       "artigo": "Art. 19, §1º",
       "enunciado": "O limite máximo de conversão da permanência disciplinar em prestação de serviço extraordinário é de:",
-      "alternativas": ["3 (três) dias", "5 (cinco) dias", "10 (dez) dias", "15 (quinze) dias"],
+      "alternativas": [
+        "3 (três) dias",
+        "5 (cinco) dias",
+        "10 (dez) dias",
+        "15 (quinze) dias"
+      ],
       "correta": 1,
       "explicacao": "Art. 19, §1º: o limite máximo é de 5 dias. Quando a sanção é superior a 5 dias, a conversão (se concedida) será cumprida na fase final do período. O pedido de conversão elide o pedido de reconsideração (art. 18, §4º), mas cabe representação contra a negativa.",
-      "tags": ["sancoes", "conversao", "permanencia"]
+      "tags": [
+        "sancoes",
+        "conversao",
+        "permanencia"
+      ]
     },
     {
       "id": "rdpm-020",
@@ -289,7 +401,11 @@
       ],
       "correta": 1,
       "explicacao": "Art. 12, §2º: o critério axiológico-finalístico da gravidade está em três pilares — (1) atentatórias às instituições ou ao Estado; (2) atentatórias aos direitos humanos fundamentais; (3) de natureza desonrosa. As demais (não enquadráveis nesses pilares) serão classificadas pela autoridade como médias ou leves, consideradas as circunstâncias (§3º).",
-      "tags": ["transgressao", "grave", "criterio"]
+      "tags": [
+        "transgressao",
+        "grave",
+        "criterio"
+      ]
     },
     {
       "id": "rdpm-021",
@@ -304,7 +420,11 @@
       ],
       "correta": 1,
       "explicacao": "Art. 41, I: quando preponderarem atenuantes, a sanção NÃO será aplicada em seu limite máximo (vedação ao máximo, sem fixação de redução percentual obrigatória). Quando preponderarem agravantes (II), PODERÁ ser aplicada até o limite máximo. Inciso III veda dupla sanção pela mesma transgressão (non bis in idem).",
-      "tags": ["sancoes", "atenuantes", "agravantes"]
+      "tags": [
+        "sancoes",
+        "atenuantes",
+        "agravantes"
+      ]
     },
     {
       "id": "rdpm-022",
@@ -319,7 +439,11 @@
       ],
       "correta": 1,
       "explicacao": "Art. 15 + art. 39, par. único + instruções: a advertência é a forma mais branda, aplicada verbalmente, sem publicação em boletim e sem registro no Assentamento Individual. Constará apenas no RIPO (oficial) ou Nota de Corretivo (praça). É OBRIGATÓRIA, porém, a elaboração do enquadramento disciplinar e a ciência do acusado. A advertência não conta para classificação de comportamento (§4º do art. 54), mas conta para reincidência específica (instrução ao §2º do art. 36).",
-      "tags": ["sancoes", "advertencia", "publicacao"]
+      "tags": [
+        "sancoes",
+        "advertencia",
+        "publicacao"
+      ]
     },
     {
       "id": "rdpm-023",
@@ -334,7 +458,11 @@
       ],
       "correta": 1,
       "explicacao": "Art. 11, §2º, itens 1 e 2: duas hipóteses cumulativas-alternativas — presença + omissão para fazer cessar; OU concorrência por ação/omissão, mesmo ausente. A instrução esclarece que basta superioridade HIERÁRQUICA (art. 3º), sem necessidade de vinculação funcional. As mesmas sanções da transgressão do subordinado serão aplicadas ao superior.",
-      "tags": ["responsabilidade", "superior", "solidariedade"]
+      "tags": [
+        "responsabilidade",
+        "superior",
+        "solidariedade"
+      ]
     },
     {
       "id": "rdpm-024",
@@ -349,7 +477,11 @@
       ],
       "correta": 1,
       "explicacao": "Art. 42, III: faltas graves — permanência até 10 dias OU detenção até 8 dias. Na reincidência específica: permanência até 20 dias ou detenção até 15 dias, desde que não caiba demissão ou expulsão. O inciso III deixa claro que a reincidência específica deve resultar em sanção MAIS SEVERA (tipo ou quantum).",
-      "tags": ["sancoes", "grave", "limites"]
+      "tags": [
+        "sancoes",
+        "grave",
+        "limites"
+      ]
     },
     {
       "id": "rdpm-025",
@@ -364,7 +496,11 @@
       ],
       "correta": 1,
       "explicacao": "Art. 22, par. único: o militar que sofrer reforma administrativa disciplinar recebe remuneração proporcional ao tempo de serviço. Art. 23, par. único: o oficial demitido perde posto e patente; a praça perde a graduação (sem remuneração proporcional). Ambos exigem processo regular (CJ para oficial, CD ou PAD para praça, conforme o tempo de serviço).",
-      "tags": ["sancoes", "reforma", "demissao"]
+      "tags": [
+        "sancoes",
+        "reforma",
+        "demissao"
+      ]
     },
     {
       "id": "rdpm-026",
@@ -379,7 +515,10 @@
       ],
       "correta": 2,
       "explicacao": "Art. 32, I: todas as sanções, EXCETO a demissão de oficiais, que é competência do Governador (art. 32, caput, c/c art. 23, I, e §1º do art. 42 da CF). A demissão de oficial pressupõe sentença passada em julgado no tribunal competente.",
-      "tags": ["competencia", "comandante-geral"]
+      "tags": [
+        "competencia",
+        "comandante-geral"
+      ]
     },
     {
       "id": "rdpm-027",
@@ -394,27 +533,48 @@
       ],
       "correta": 1,
       "explicacao": "Art. 32, II: o Subcomandante PM aplica advertência, repreensão, permanência, detenção e proibição do uso de uniformes — todas até os limites máximos. Reforma, demissão e expulsão exigem processo regular e ato do Cmt G/Governador.",
-      "tags": ["competencia", "subcomandante"]
+      "tags": [
+        "competencia",
+        "subcomandante"
+      ]
     },
     {
       "id": "rdpm-028",
       "subtema": "Competência disciplinar",
       "artigo": "Art. 32, IV",
       "enunciado": "Ao oficial no posto de Tenente-Coronel compete aplicar permanência disciplinar de até:",
-      "alternativas": ["10 (dez) dias", "15 (quinze) dias", "20 (vinte) dias", "30 (trinta) dias"],
+      "alternativas": [
+        "10 (dez) dias",
+        "15 (quinze) dias",
+        "20 (vinte) dias",
+        "30 (trinta) dias"
+      ],
       "correta": 2,
       "explicacao": "Art. 32, IV: TC aplica advertência, repreensão e permanência disciplinar de até 20 dias. Não aplica detenção (essa é privativa de Coronel — art. 21).",
-      "tags": ["competencia", "tenente-coronel", "limites"]
+      "tags": [
+        "competencia",
+        "tenente-coronel",
+        "limites"
+      ]
     },
     {
       "id": "rdpm-029",
       "subtema": "Competência disciplinar",
       "artigo": "Art. 32, V",
       "enunciado": "Permanência disciplinar máxima que pode ser aplicada por oficial no posto de Major:",
-      "alternativas": ["8 (oito) dias", "10 (dez) dias", "15 (quinze) dias", "20 (vinte) dias"],
+      "alternativas": [
+        "8 (oito) dias",
+        "10 (dez) dias",
+        "15 (quinze) dias",
+        "20 (vinte) dias"
+      ],
       "correta": 2,
       "explicacao": "Art. 32, V: Major aplica advertência, repreensão e permanência disciplinar de até 15 dias. Capitão até 10 dias (VI), Major até 15, TC até 20, Coronel até 20 + detenção até 15.",
-      "tags": ["competencia", "major", "limites"]
+      "tags": [
+        "competencia",
+        "major",
+        "limites"
+      ]
     },
     {
       "id": "rdpm-030",
@@ -429,7 +589,10 @@
       ],
       "correta": 2,
       "explicacao": "Art. 34, IV: a obediência só é causa de justificação \"desde que a ordem recebida NÃO seja manifestamente ilegal\". Ordem manifestamente ilegal não justifica conduta; o executante responde pelo abuso ou excesso (art. 10, §2º).",
-      "tags": ["justificacao", "ordem-ilegal"]
+      "tags": [
+        "justificacao",
+        "ordem-ilegal"
+      ]
     },
     {
       "id": "rdpm-031",
@@ -444,7 +607,11 @@
       ],
       "correta": 1,
       "explicacao": "Art. 18, §3º: 3 dias da publicação da sanção. Não confundir com o prazo de 5 dias do art. 52 (início do cumprimento, contado da ciência). O pedido de conversão elide o pedido de reconsideração (§4º).",
-      "tags": ["sancoes", "conversao", "prazos"]
+      "tags": [
+        "sancoes",
+        "conversao",
+        "prazos"
+      ]
     },
     {
       "id": "rdpm-032",
@@ -459,7 +626,11 @@
       ],
       "correta": 2,
       "explicacao": "Art. 29, §3º: 90 dias da data da comunicação. Descumprido esse prazo, o signatário pode solicitar providências pela via hierárquica (§4º). É garantia processual do comunicante, distinta dos prazos de solução do procedimento (§1º).",
-      "tags": ["procedimento", "signatario", "prazos"]
+      "tags": [
+        "procedimento",
+        "signatario",
+        "prazos"
+      ]
     },
     {
       "id": "rdpm-033",
@@ -474,7 +645,10 @@
       ],
       "correta": 1,
       "explicacao": "Art. 30, §2º: a representação contra sanção é \"recurso disciplinar impróprio\" — só cabe APÓS exauridos os próprios (reconsideração + hierárquico) e SE versar sobre legalidade. Prazo de 5 anos quando contenha ilegalidade (§3º + art. 85).",
-      "tags": ["recursos", "representacao"]
+      "tags": [
+        "recursos",
+        "representacao"
+      ]
     },
     {
       "id": "rdpm-034",
@@ -489,7 +663,10 @@
       ],
       "correta": 1,
       "explicacao": "Art. 44, par. único: independência das esferas administrativa, civil e penal. O caput reforça que a sanção disciplinar não exime das responsabilidades civil e criminal. A vinculação só ocorre quando há decisão penal pela inexistência do fato ou negativa de autoria.",
-      "tags": ["sancoes", "independencia-esferas"]
+      "tags": [
+        "sancoes",
+        "independencia-esferas"
+      ]
     },
     {
       "id": "rdpm-035",
@@ -504,7 +681,11 @@
       ],
       "correta": 2,
       "explicacao": "Art. 52, caput: 5 dias da ciência. A instrução esclarece que esse prazo só começa a fluir após decair os prazos recursais (arts. 57 e 58). Interposto recurso, o prazo passa a ser de 3 dias após sua solução (art. 60).",
-      "tags": ["sancoes", "cumprimento", "prazos"]
+      "tags": [
+        "sancoes",
+        "cumprimento",
+        "prazos"
+      ]
     },
     {
       "id": "rdpm-036",
@@ -519,7 +700,10 @@
       ],
       "correta": 1,
       "explicacao": "Art. 54, III: BOM = 2 anos com até 2 permanências disciplinares. A alternativa C corresponde ao ÓTIMO (5 anos com até 2 repreensões — inciso II). A presença de qualquer detenção desclassifica o BOM, remetendo a comportamento inferior.",
-      "tags": ["comportamento", "bom"]
+      "tags": [
+        "comportamento",
+        "bom"
+      ]
     },
     {
       "id": "rdpm-037",
@@ -534,17 +718,29 @@
       ],
       "correta": 0,
       "explicacao": "Art. 54, IV: REGULAR = 1 ano com até 2 permanências OU 1 detenção. Acima disso (mais de 2 permanências ou mais de 1 detenção em 1 ano), o comportamento passa para MAU (inciso V). Lembrar: duas repreensões equivalem a uma permanência (§3º).",
-      "tags": ["comportamento", "regular"]
+      "tags": [
+        "comportamento",
+        "regular"
+      ]
     },
     {
       "id": "rdpm-038",
       "subtema": "Comportamento",
       "artigo": "Art. 55",
       "enunciado": "Ao ser admitida na Polícia Militar, a praça é classificada no comportamento:",
-      "alternativas": ["Excelente", "Ótimo", "Bom", "Regular"],
+      "alternativas": [
+        "Excelente",
+        "Ótimo",
+        "Bom",
+        "Regular"
+      ],
       "correta": 2,
       "explicacao": "Art. 55: a praça ingressa no comportamento BOM. A evolução para ótimo e excelente depende do decurso dos prazos do art. 54, sem sanções acima dos limites de cada categoria.",
-      "tags": ["comportamento", "inicial", "bom"]
+      "tags": [
+        "comportamento",
+        "inicial",
+        "bom"
+      ]
     },
     {
       "id": "rdpm-039",
@@ -559,7 +755,12 @@
       ],
       "correta": 1,
       "explicacao": "Art. 60: 3 dias após (I) solução do pedido de reconsideração, quando não interposto recurso hierárquico, ou (II) solução do recurso hierárquico. Diferente do prazo do art. 52 (5 dias da ciência), quando não há recurso.",
-      "tags": ["sancoes", "cumprimento", "recursos", "prazos"]
+      "tags": [
+        "sancoes",
+        "cumprimento",
+        "recursos",
+        "prazos"
+      ]
     },
     {
       "id": "rdpm-040",
@@ -574,7 +775,11 @@
       ],
       "correta": 2,
       "explicacao": "Art. 62, §1º: 5 anos da publicação. Mesmo prazo prescricional da ação disciplinar (art. 85). A competência para anulação é das autoridades para aplicar sanção, EXCETO Major e Capitão (art. 62, caput).",
-      "tags": ["revisao", "anulacao", "prazos"]
+      "tags": [
+        "revisao",
+        "anulacao",
+        "prazos"
+      ]
     },
     {
       "id": "rdpm-041",
@@ -589,7 +794,10 @@
       ],
       "correta": 1,
       "explicacao": "Art. 65, par. único: princípio da non reformatio in pejus. O recorrente não pode ser prejudicado pelo próprio recurso. A autoridade ainda pode agravar de ofício (art. 62, III), mas não em razão do recurso.",
-      "tags": ["recursos", "non-reformatio"]
+      "tags": [
+        "recursos",
+        "non-reformatio"
+      ]
     },
     {
       "id": "rdpm-042",
@@ -604,7 +812,9 @@
       ],
       "correta": 1,
       "explicacao": "Art. 68: APENAS elogio (I) e cancelamento de sanções (II). Promoção e medalhas seguem legislação própria. A dispensa do serviço, conforme art. 69, NÃO é recompensa — pegadinha clássica.",
-      "tags": ["recompensas"]
+      "tags": [
+        "recompensas"
+      ]
     },
     {
       "id": "rdpm-043",
@@ -619,7 +829,10 @@
       ],
       "correta": 1,
       "explicacao": "Art. 69: a dispensa do serviço NÃO é recompensa. Concedida pelo Cmt de Unidade em motivo de força maior, limitada a 6 dias/ano, sempre publicada em boletim. A instrução veda a concessão para \"gozo oportuno\". Pegadinha frequente em provas.",
-      "tags": ["recompensas", "dispensa-servico"]
+      "tags": [
+        "recompensas",
+        "dispensa-servico"
+      ]
     },
     {
       "id": "rdpm-044",
@@ -634,7 +847,11 @@
       ],
       "correta": 1,
       "explicacao": "Art. 72 + instrução: trata-se de MEDIDA CAUTELAR aplicada pela autoridade instauradora, quando houver risco para a hierarquia, disciplina ou apuração. NÃO se confunde com a sanção do art. 14, VIII (aplicada ao inativo, até 1 ano, art. 25).",
-      "tags": ["processo-regular", "cautelar", "uniforme"]
+      "tags": [
+        "processo-regular",
+        "cautelar",
+        "uniforme"
+      ]
     },
     {
       "id": "rdpm-045",
@@ -649,7 +866,3625 @@
       ],
       "correta": 1,
       "explicacao": "Art. 78 + §1º: 3 oficiais da ativa. O mais antigo (mínimo Capitão) é o presidente; o seguinte em antiguidade, o interrogante; o mais moderno, relator e escrivão. O presidente pode nomear subtenente ou sargento APENAS como escrivão, sem integrar o Conselho (§2º).",
-      "tags": ["conselho-disciplina", "composicao"]
+      "tags": [
+        "conselho-disciplina",
+        "composicao"
+      ]
+    },
+    {
+      "id": "rdpm-046",
+      "subtema": "Disposições gerais",
+      "artigo": "Art. 3º, §1º",
+      "enunciado": "Nos termos da LC 893/01 (RDPM), a ordenação da autoridade na PM se faz por postos e graduações, de acordo com:",
+      "alternativas": [
+        "O escalonamento hierárquico, o tempo de efetivo serviço e a antiguidade no posto.",
+        "O escalonamento hierárquico, a antiguidade e a precedência funcional.",
+        "Os critérios de merecimento, antiguidade e formação profissional.",
+        "A antiguidade no posto e a classificação no curso de formação."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 3º, §1º: a ordenação se faz por escalonamento hierárquico, antiguidade E precedência funcional. A precedência funcional (art. 5º) decorre do cargo ocupado ou da situação ativa/inativa.",
+      "tags": [
+        "hierarquia",
+        "ordenacao"
+      ]
+    },
+    {
+      "id": "rdpm-047",
+      "subtema": "Disposições gerais",
+      "artigo": "Art. 4º",
+      "enunciado": "Dois Capitães da PM, em igualdade de posto, divergem sobre antiguidade. Nos termos do art. 4º do RDPM, a antiguidade entre eles será definida sucessivamente pela:",
+      "alternativas": [
+        "Data de nomeação no posto atual; última promoção; classificação no curso; maior idade.",
+        "Data da última promoção; prevalência dos graus hierárquicos anteriores; classificação no curso de formação ou habilitação; data de nomeação ou admissão; maior idade.",
+        "Classificação no curso; data da última promoção; maior idade; data de nomeação.",
+        "Tempo de efetivo serviço; última promoção; classificação; maior idade."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 4º, I a V, nessa ordem. Pegadinha: tempo de efetivo serviço NÃO é critério de antiguidade.",
+      "tags": [
+        "antiguidade",
+        "criterios"
+      ]
+    },
+    {
+      "id": "rdpm-048",
+      "subtema": "Disposições gerais",
+      "artigo": "Art. 5º",
+      "enunciado": "A precedência funcional, prevista no art. 5º do RDPM, ocorre quando, em igualdade de posto ou graduação, o oficial ou a praça:",
+      "alternativas": [
+        "Possuir maior tempo de efetivo serviço.",
+        "Ocupar cargo ou função que lhe atribua superioridade funcional sobre os integrantes do órgão ou serviço, ou estiver no serviço ativo em relação aos inativos.",
+        "Tiver concluído curso de aperfeiçoamento.",
+        "Estiver designado para função de confiança do Comandante Geral."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 5º, I e II: precedência funcional decorre de cargo/função (I) OU estar no serviço ativo em relação aos inativos (II). Não se confunde com antiguidade.",
+      "tags": [
+        "precedencia-funcional"
+      ]
+    },
+    {
+      "id": "rdpm-049",
+      "subtema": "Disposições gerais",
+      "artigo": "Art. 2º, par. único",
+      "enunciado": "NÃO estão sujeitos ao RDPM:",
+      "alternativas": [
+        "Os militares em gozo de licença prêmio.",
+        "Os militares do Estado ocupantes de cargos públicos ou eletivos e os Magistrados da Justiça Militar.",
+        "Os militares agregados em razão de processo criminal.",
+        "Os militares da reserva remunerada e os reformados."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 2º, par. único, itens 1 e 2. Reserva remunerada, reformados e agregados ESTÃO sujeitos ao RDPM (caput do art. 2º).",
+      "tags": [
+        "sujeicao"
+      ]
+    },
+    {
+      "id": "rdpm-050",
+      "subtema": "Deontologia",
+      "artigo": "Art. 7º",
+      "enunciado": "Sobre os valores fundamentais da moral policial-militar, previstos no art. 7º do RDPM:",
+      "alternativas": [
+        "Compreendem patriotismo, civismo, hierarquia, disciplina, profissionalismo, lealdade, constância, verdade real, honra, dignidade humana, honestidade e coragem.",
+        "Compreendem exclusivamente hierarquia, disciplina e respeito à autoridade.",
+        "Aplicam-se apenas aos oficiais.",
+        "Limitam-se à hierarquia, disciplina, honra e dignidade da função."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 7º enumera 12 valores. Aplicam-se a TODOS os componentes da PM, independentemente de posto (art. 6º, §1º).",
+      "tags": [
+        "valores",
+        "deontologia"
+      ]
+    },
+    {
+      "id": "rdpm-051",
+      "subtema": "Deontologia",
+      "artigo": "Art. 8º, XXI",
+      "enunciado": "Sobre a vedação ao uso das designações hierárquicas pelo militar do Estado, ainda que na inatividade (art. 8º, XXI, do RDPM):",
+      "alternativas": [
+        "É vedado em atividade político-partidária em qualquer hipótese, inclusive quando candidato a cargo eletivo.",
+        "É vedado em atividade político-partidária, salvo quando candidato a cargo eletivo; em atividade comercial ou industrial; em pronunciamento público sobre assunto policial, salvo de natureza técnica; e no exercício de cargo ou função civil.",
+        "É vedado apenas em atividade comercial.",
+        "É vedado apenas ao militar da ativa."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 8º, XXI, alíneas a-d: quatro situações com a ressalva da candidatura. Vale também para inativos.",
+      "tags": [
+        "deveres",
+        "designacoes"
+      ]
+    },
+    {
+      "id": "rdpm-052",
+      "subtema": "Deontologia",
+      "artigo": "Art. 8º, §1º",
+      "enunciado": "O Cap PM \"A\", em serviço ativo, exerce em folga atividade de gerência em sociedade comercial da qual é sócio cotista. Nos termos do art. 8º, §1º, do RDPM:",
+      "alternativas": [
+        "A conduta é permitida, pois fora do horário de serviço e ele é cotista.",
+        "Ao militar do Estado em serviço ativo é vedado exercer atividade de segurança particular, comércio ou tomar parte da administração ou gerência de sociedade comercial, ou dela ser sócio, exceto como acionista, cotista ou comanditário.",
+        "A vedação aplica-se apenas a oficiais superiores.",
+        "A vedação aplica-se apenas durante o horário de serviço."
+      ],
+      "correta": 1,
+      "explicacao": "A permissão para ser cotista exclui a gerência. Ao exercer GERÊNCIA, o Cap \"A\" infringiu a norma, ainda que cotista.",
+      "tags": [
+        "deveres",
+        "comercio"
+      ]
+    },
+    {
+      "id": "rdpm-053",
+      "subtema": "Disciplina",
+      "artigo": "Art. 9º, §1º",
+      "enunciado": "As manifestações essenciais da disciplina, previstas no art. 9º, §1º, do RDPM, compreendem:",
+      "alternativas": [
+        "Observância das prescrições legais; obediência incondicional a qualquer ordem do superior; emprego de energias no serviço.",
+        "Observância rigorosa das prescrições legais; obediência às ordens LEGAIS dos superiores; emprego de todas as energias em benefício do serviço; correção de atitudes; manifestações espontâneas de acatamento dos valores e deveres éticos; colaboração espontânea na disciplina coletiva e na eficiência da Instituição.",
+        "Apenas obediência às ordens e correção de atitudes.",
+        "Obediência hierárquica e respeito aos camaradas."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 9º, §1º, itens 1 a 6: SEIS manifestações. A obediência é apenas a ordens LEGAIS, não às ilegais.",
+      "tags": [
+        "disciplina",
+        "manifestacoes"
+      ]
+    },
+    {
+      "id": "rdpm-054",
+      "subtema": "Disciplina",
+      "artigo": "Art. 10",
+      "enunciado": "Quanto ao cumprimento de ordens legais e à responsabilidade, nos termos do art. 10 do RDPM:",
+      "alternativas": [
+        "As ordens legais devem ser prontamente executadas, cabendo inteira responsabilidade à autoridade que as determinar; em caso de ordem obscura, o subordinado deve solicitar esclarecimentos; o executante que exorbitar responde pelo abuso ou excesso.",
+        "As ordens devem ser executadas sem questionamento, eximindo o executante de responsabilidade.",
+        "Em caso de ordem obscura, o subordinado deve recusar-se a cumpri-la.",
+        "Toda ordem deve ser registrada por escrito, sob pena de não vincular."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 10, caput e §§ 1º-2º: tríplice regra. Obediência tem limite na legalidade.",
+      "tags": [
+        "disciplina",
+        "ordens"
+      ]
+    },
+    {
+      "id": "rdpm-055",
+      "subtema": "Responsabilidade",
+      "artigo": "Art. 11, §3º",
+      "enunciado": "Sobre a gravidade da violação da disciplina em razão do grau hierárquico do agente (art. 11, §3º, do RDPM):",
+      "alternativas": [
+        "A gravidade é a mesma, independentemente do posto, em respeito à isonomia.",
+        "A violação da disciplina será tão mais grave quanto mais elevado for o grau hierárquico de quem a cometer.",
+        "A gravidade é reduzida quando praticada por oficial superior, em razão das responsabilidades do cargo.",
+        "A gravidade é fixada exclusivamente pelo tipo descrito no art. 13."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 11, §3º: gravidade diretamente proporcional ao grau hierárquico. Compõe-se com a agravante do art. 36, VII.",
+      "tags": [
+        "gravidade",
+        "hierarquia"
+      ]
+    },
+    {
+      "id": "rdpm-056",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 12, §1º",
+      "enunciado": "Nos termos do art. 12 do RDPM, as transgressões disciplinares compreendem:",
+      "alternativas": [
+        "Somente ações ou omissões expressamente especificadas no art. 13, em estrita tipicidade fechada.",
+        "Todas as ações ou omissões contrárias à disciplina especificadas no art. 13, bem como todas as não especificadas no art. 13 mas que violem os valores e deveres policiais-militares.",
+        "Apenas condutas tipificadas como crimes militares.",
+        "Qualquer conduta que cause dano à imagem da Polícia Militar."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 12, §1º, itens 1 e 2: sistema MISTO. Tipicidade fechada do direito penal não se aplica.",
+      "tags": [
+        "transgressao",
+        "tipicidade"
+      ]
+    },
+    {
+      "id": "rdpm-057",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 12, §5º",
+      "enunciado": "Sobre a aplicação de sanção disciplinar e eventual ação penal (art. 12, §5º, do RDPM):",
+      "alternativas": [
+        "Depende de sentença penal transitada em julgado sobre o mesmo fato.",
+        "A aplicação das penas disciplinares INDEPENDE do resultado de eventual ação penal.",
+        "Absolvição penal por insuficiência de provas obriga a anular a sanção disciplinar.",
+        "A sanção disciplinar suspende o curso de eventual ação penal."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 12, §5º e art. 44, par. único: independência das esferas administrativa, civil e penal.",
+      "tags": [
+        "independencia"
+      ]
+    },
+    {
+      "id": "rdpm-058",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 1",
+      "enunciado": "Sob o nº 1 do parágrafo único do art. 13 do RDPM, \"desconsiderar os direitos constitucionais da pessoa no ato da prisão\" corresponde aos direitos previstos:",
+      "alternativas": [
+        "Nos incisos LX, LXI e LXII do art. 5º da CF.",
+        "Nos incisos LXII, LXIII e LXIV do art. 5º da CF.",
+        "No art. 144 da CF, exclusivamente.",
+        "Nos arts. 22 a 25 do CPM."
+      ],
+      "correta": 1,
+      "explicacao": "Instrução à transgressão nº 1: incisos LXII (comunicação), LXIII (silêncio/advogado/família) e LXIV (identificação dos responsáveis) do art. 5º da CF.",
+      "tags": [
+        "transgressao",
+        "direitos-preso"
+      ]
+    },
+    {
+      "id": "rdpm-059",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 7",
+      "enunciado": "\"Faltar com a verdade\" é tipificado pelo RDPM como transgressão de natureza:",
+      "alternativas": [
+        "Leve",
+        "Média",
+        "Grave",
+        "Variável conforme o contexto"
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 7: GRAVE. Decorre da centralidade da verdade real como valor (art. 7º, VIII).",
+      "tags": [
+        "transgressao",
+        "verdade"
+      ]
+    },
+    {
+      "id": "rdpm-060",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 36",
+      "enunciado": "\"Dirigir-se, referir-se ou responder a superior de modo desrespeitoso\" é, segundo o RDPM, transgressão de natureza:",
+      "alternativas": [
+        "Leve, por mera quebra de civilidade.",
+        "Média, salvo se praticada em presença de tropa.",
+        "Grave, em qualquer hipótese.",
+        "Grave apenas se causar comoção entre subordinados."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 36: GRAVE, independe do contexto. Não confundir com \"deixar de prestar continência\" (nº 44 — média).",
+      "tags": [
+        "transgressao",
+        "desrespeito"
+      ]
+    },
+    {
+      "id": "rdpm-061",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nºs 89-91",
+      "enunciado": "Considere: I — embriagar-se em serviço; II — ingerir bebida alcoólica em serviço; III — introduzir bebidas em local sob administração PM sem autorização. As classificações respectivas são:",
+      "alternativas": [
+        "Grave, grave e grave.",
+        "Grave, média e média.",
+        "Média, leve e média.",
+        "Grave, leve e leve."
+      ],
+      "correta": 1,
+      "explicacao": "(I) embriaguez em serviço (nº 89) — GRAVE; (II) ingerir bebida ou apresentar-se alcoolizado (nº 90) — MÉDIA; (III) introduzir bebidas (nº 91) — MÉDIA.",
+      "tags": [
+        "transgressao",
+        "embriaguez"
+      ]
+    },
+    {
+      "id": "rdpm-062",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 88",
+      "enunciado": "\"Fazer uso, estar sob ação ou induzir outrem ao uso de substância proibida, entorpecente ou que determine dependência\" é, segundo o RDPM:",
+      "alternativas": [
+        "Leve, salvo reincidência.",
+        "Média.",
+        "Grave, em qualquer hipótese, em serviço ou folga.",
+        "Variável conforme a quantidade."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 88: GRAVE. Diferente da embriaguez por álcool (grave só em serviço), o uso de entorpecente é SEMPRE grave.",
+      "tags": [
+        "transgressao",
+        "entorpecente"
+      ]
+    },
+    {
+      "id": "rdpm-063",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nºs 73-78",
+      "enunciado": "Considere: I — passar a ausente; II — afastar-se da área de patrulhamento; III — afastar-se de lugar onde deva estar por dispositivo/ordem legal. As classificações são:",
+      "alternativas": [
+        "Grave, grave, média.",
+        "Grave, média, leve.",
+        "Média, grave, grave.",
+        "Leve, leve, média."
+      ],
+      "correta": 0,
+      "explicacao": "(I) passar a ausente (nº 73) — GRAVE; (II) afastar-se da área de patrulhamento (nº 77) — GRAVE; (III) afastar-se de lugar onde deva estar (nº 78) — MÉDIA.",
+      "tags": [
+        "transgressao",
+        "ausencia"
+      ]
+    },
+    {
+      "id": "rdpm-064",
+      "subtema": "Sanções",
+      "artigo": "Art. 14",
+      "enunciado": "Nos termos do art. 14 do RDPM, as sanções disciplinares aplicáveis são:",
+      "alternativas": [
+        "Advertência, repreensão, permanência disciplinar, detenção, reforma administrativa disciplinar, demissão, expulsão e proibição do uso do uniforme.",
+        "Advertência verbal, escrita, permanência, detenção, prisão administrativa, demissão e expulsão.",
+        "Apenas as sanções de natureza pecuniária e perda do cargo.",
+        "Repreensão, suspensão, detenção, demissão e cassação."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 14, I a VIII: 8 sanções. Expulsão NÃO se aplica a oficiais (art. 24). A proibição do uso de uniforme do art. 14, VIII é SANÇÃO ao inativo (art. 25), distinta da medida CAUTELAR do art. 72.",
+      "tags": [
+        "sancoes",
+        "rol"
+      ]
+    },
+    {
+      "id": "rdpm-065",
+      "subtema": "Sanções",
+      "artigo": "Art. 15 c/c 39",
+      "enunciado": "O Cap PM \"X\" aplicou advertência ao Sd PM \"Y\". Nos termos do RDPM e da Portaria CORREGPM-001/305/01:",
+      "alternativas": [
+        "A advertência dispensa enquadramento disciplinar e ciência do acusado.",
+        "É obrigatória a elaboração do enquadramento disciplinar e a ciência do acusado, mas a advertência não será publicada em boletim nem constará do Assentamento Individual, figurando apenas na Nota de Corretivo da praça.",
+        "A advertência será publicada em boletim ostensivo.",
+        "A advertência pressupõe sindicância prévia."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 15 + art. 39, par. único + instruções: aplicada verbalmente, sem publicação em boletim, sem registro no AI. Obrigatório enquadramento + ciência. Consta no RIPO (oficial) ou Nota de Corretivo (praça). Não conta para classificação de comportamento, mas conta para reincidência específica.",
+      "tags": [
+        "advertencia",
+        "publicacao"
+      ]
+    },
+    {
+      "id": "rdpm-066",
+      "subtema": "Sanções",
+      "artigo": "Art. 17 + 20",
+      "enunciado": "Considere: I — Na permanência disciplinar o militar fica na OPM, sem estar circunscrito a determinado compartimento, comparecendo a todos os atos de instrução e serviço; II — Na detenção, permanece retido na OPM sem participar de serviço, instrução ou atividade; III — Nos dias de detenção, perderá todas as vantagens e direitos do posto/graduação, tempo não computado para efeito algum. Está(ão) correta(s):",
+      "alternativas": [
+        "Apenas I.",
+        "Apenas I e II.",
+        "Apenas II e III.",
+        "I, II e III."
+      ],
+      "correta": 3,
+      "explicacao": "(I) art. 17 + par. único; (II) art. 20 caput; (III) art. 20, §1º. Na permanência o militar TRABALHA, na detenção NÃO trabalha e perde direitos.",
+      "tags": [
+        "sancoes",
+        "permanencia",
+        "detencao"
+      ]
+    },
+    {
+      "id": "rdpm-067",
+      "subtema": "Sanções",
+      "artigo": "Art. 18",
+      "enunciado": "Sobre a conversão da permanência disciplinar em prestação de serviço extraordinário (art. 18, RDPM):",
+      "alternativas": [
+        "Pode ser concedida de ofício pela Administração.",
+        "Será sempre concedida quando o transgressor requerer.",
+        "Será concedida a PEDIDO do transgressor, a juízo motivado da autoridade que aplicou a punição, desde que não implique prejuízo para a manutenção da hierarquia e da disciplina.",
+        "Deve ser obrigatoriamente convertida a totalidade da permanência."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 18, caput: conversão NÃO é de ofício. Depende de pedido. Pode ser total ou parcial. Limite: 5 dias (art. 19, §1º). Elide reconsideração (§4º).",
+      "tags": [
+        "sancoes",
+        "conversao"
+      ]
+    },
+    {
+      "id": "rdpm-068",
+      "subtema": "Sanções",
+      "artigo": "Art. 19",
+      "enunciado": "Sobre a prestação do serviço extraordinário decorrente da conversão (art. 19, RDPM):",
+      "alternativas": [
+        "Atividades exclusivamente internas, 4 a 6 horas, em dias úteis.",
+        "Atividades internas ou externas, por período nunca inferior a 6 nem superior a 8 horas, nos dias em que o militar estaria de folga, não podendo ser executada imediatamente após o término de serviço ordinário.",
+        "Exclusivamente em dias úteis, na sede do Comando Geral.",
+        "Em qualquer dia, inclusive após serviço ordinário."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 19 + §3º: 6-8h, em folgas, internas ou externas. Intervalo mínimo 8h após ordinário (instrução). Sequencial, ocupando folgas subsequentes.",
+      "tags": [
+        "sancoes",
+        "servico-extraordinario"
+      ]
+    },
+    {
+      "id": "rdpm-069",
+      "subtema": "Sanções",
+      "artigo": "Art. 22",
+      "enunciado": "O Sd PM \"Y\", com 8 anos de serviço, foi submetido a PAD. A autoridade propôs ao Cmt G a reforma administrativa disciplinar. Nos termos do RDPM:",
+      "alternativas": [
+        "Aplica-se apenas a oficiais.",
+        "Aplica-se à praça que se tornar incompatível com a função policial-militar ou nociva à disciplina, e tenha sido julgada passível de reforma; o militar receberá remuneração proporcional ao tempo de serviço.",
+        "Pressupõe trânsito em julgado de sentença penal.",
+        "Implica perda da graduação sem qualquer remuneração."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 22, II + par. único. Distingue-se da demissão (perda + sem remuneração).",
+      "tags": [
+        "sancoes",
+        "reforma"
+      ]
+    },
+    {
+      "id": "rdpm-070",
+      "subtema": "Sanções",
+      "artigo": "Art. 23, II",
+      "enunciado": "À praça será aplicada DEMISSÃO quando (art. 23, II, RDPM):",
+      "alternativas": [
+        "Praticar qualquer transgressão grave, dispensado processo regular.",
+        "For condenada por sentença transitada em julgado a pena restritiva de liberdade superior a 2 anos; ou a pena de perda da função pública; ou praticar atos que revelem incompatibilidade com a função, em processo regular; ou cometer transgressão grave estando mais de 2 anos consecutivos ou 4 alternados no mau comportamento, em processo regular; ou houver cumprido pena de deserção; ou, desertora capturada/apresentada, julgada incapaz definitivamente.",
+        "Cumprir mais de duas detenções em um ano.",
+        "Apresentar-se em serviço alcoolizado em mais de uma oportunidade."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 23, II, alíneas a-f. Alíneas (a), (c) e (d) exigem processo regular; (b), (e) e (f) dispensam (mera execução de decisão).",
+      "tags": [
+        "demissao",
+        "praca"
+      ]
+    },
+    {
+      "id": "rdpm-071",
+      "subtema": "Sanções",
+      "artigo": "Art. 24 c/c 48",
+      "enunciado": "Sobre a EXPULSÃO no RDPM:",
+      "alternativas": [
+        "Aplica-se a oficiais e praças, em paridade disciplinar.",
+        "Aplica-se em regra à praça policial-militar, mediante processo regular, quando condenada judicialmente por crime que também constitua infração disciplinar grave e denote incapacidade moral; NÃO se aplica a oficiais.",
+        "Aplica-se apenas a praças com mais de 10 anos.",
+        "Aplica-se de ofício pelo Cmt G, dispensado processo regular."
+      ],
+      "correta": 1,
+      "explicacao": "Arts. 24 e 48: expulsão privativa de PRAÇA. Exige trânsito em julgado + processo regular.",
+      "tags": [
+        "expulsao",
+        "praca"
+      ]
+    },
+    {
+      "id": "rdpm-072",
+      "subtema": "Sanções",
+      "artigo": "Art. 25",
+      "enunciado": "A proibição do uso de uniformes policiais-militares prevista no art. 25 do RDPM é aplicável:",
+      "alternativas": [
+        "A militares da ativa suspensos preventivamente.",
+        "Aos INATIVOS que atentarem contra o decoro ou a dignidade policial-militar, até o limite de 1 ano, mediante procedimento disciplinar.",
+        "A oficiais demitidos, em caráter perpétuo.",
+        "A qualquer militar do Estado, como sanção alternativa à permanência."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 25: SANÇÃO específica para o INATIVO. Limite máximo: 1 ano. Não confundir com MEDIDA CAUTELAR do art. 72 (proibição durante processo regular).",
+      "tags": [
+        "proibicao-uniforme",
+        "inativo"
+      ]
+    },
+    {
+      "id": "rdpm-073",
+      "subtema": "Recolhimento disciplinar",
+      "artigo": "Art. 26",
+      "enunciado": "Sobre o recolhimento disciplinar (art. 26, RDPM):",
+      "alternativas": [
+        "É sanção definitiva, aplicada após procedimento disciplinar.",
+        "Medida sumária acautelatória, sem nota publicada em boletim, aplicável quando houver indício de autoria de infração penal e necessidade investigatória, ou para preservação da ordem/disciplina (militar agressivo, embriagado, sob entorpecente).",
+        "Aplica-se apenas em flagrante delito de crime militar.",
+        "Compete a qualquer oficial em comando, dispensada comunicação ao Juiz Corregedor."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 26, I-II: medida CAUTELAR, sem publicação. Comunicação OBRIGATÓRIA ao Juiz Corregedor (§3º).",
+      "tags": [
+        "recolhimento",
+        "cautelar"
+      ]
+    },
+    {
+      "id": "rdpm-074",
+      "subtema": "Recolhimento disciplinar",
+      "artigo": "Art. 26, §3º",
+      "enunciado": "Sobre a comunicação do recolhimento disciplinar (art. 26, §3º, RDPM):",
+      "alternativas": [
+        "Basta a comunicação ao Comandante imediato.",
+        "As decisões serão sempre fundamentadas e comunicadas ao Juiz Corregedor da polícia judiciária militar, abrangendo recolhimento e soltura, com nome/RE, Unidade, data-hora precisa, síntese da acusação e local de recolhimento.",
+        "Comunica-se apenas a soltura, dispensada a do recolhimento.",
+        "Compete à Corregedoria PM realizar a comunicação."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 26, §3º + instrução. Cinco elementos obrigatórios. Garantia de controle externo da medida cautelar.",
+      "tags": [
+        "recolhimento",
+        "comunicacao"
+      ]
+    },
+    {
+      "id": "rdpm-075",
+      "subtema": "Recolhimento disciplinar",
+      "artigo": "Art. 26, instrução",
+      "enunciado": "O Cap PM \"A\" determinou recolhimento disciplinar do Cb PM \"B\" por indícios de crime militar. Sobre os direitos do recolhido:",
+      "alternativas": [
+        "O recolhido só terá direito a advogado após 24h do recolhimento.",
+        "Devem ser asseguradas as garantias constitucionais, principalmente a assistência de advogado, independente de horário, ainda que sem procuração; o executor indagará a quem o militar deseja comunicar e providenciará o aviso no mais breve prazo.",
+        "Visitas só após autorização do Cmt G.",
+        "Compete à OPM fornecer alimentação, vedado meios próprios."
+      ],
+      "correta": 1,
+      "explicacao": "Instrução ao art. 26: CF art. 5º LXIII + Lei 8.904/94. Comunicação a familiar/responsável no momento do recolhimento. Visitas: disciplinadas pelo Cmt de Unidade (intervalo máx. 2 dias, mín. 2h).",
+      "tags": [
+        "recolhimento",
+        "garantias"
+      ]
+    },
+    {
+      "id": "rdpm-076",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Art. 27, instrução",
+      "enunciado": "Durante revista a quartel, o Cap PM \"X\", Cmt de Cia, presenciou conduta transgressora de subordinado seu. Nos termos do RDPM e da Portaria CORREGPM:",
+      "alternativas": [
+        "Deve comunicar a outro oficial, que elaborará a comunicação disciplinar, sob pena de impedimento.",
+        "A autoridade competente para aplicar a sanção que presenciar o cometimento de transgressão pode, por despacho fundamentado, formalizar a acusação, observando o caput e §§ 3º e 5º do art. 28, dispensando a comunicação disciplinar.",
+        "Deve aguardar comunicação formal por outro militar.",
+        "Está impedido por ter sido testemunha presencial."
+      ],
+      "correta": 1,
+      "explicacao": "Instrução ao art. 27: presenciar OU sofrer transgressão permite formalização direta da acusação por despacho fundamentado.",
+      "tags": [
+        "procedimento",
+        "presenciar"
+      ]
+    },
+    {
+      "id": "rdpm-077",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Art. 28, §2º",
+      "enunciado": "O prazo para o acusado manifestar-se preliminarmente sobre os fatos da comunicação disciplinar (art. 28, §2º, RDPM) é de:",
+      "alternativas": [
+        "24 horas, sob pena de revelia.",
+        "3 (três) dias.",
+        "5 (cinco) dias.",
+        "10 dias, prorrogáveis por mais 5."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 28, §2º: 3 dias para MANIFESTAÇÃO PRELIMINAR. Não confundir com 5 dias para defesa após Termo Acusatório (§3º).",
+      "tags": [
+        "procedimento",
+        "manifestacao"
+      ]
+    },
+    {
+      "id": "rdpm-078",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Art. 28, §5º",
+      "enunciado": "A manifestação preliminar do acusado, prevista no art. 28, §2º, do RDPM, poderá ser DISPENSADA:",
+      "alternativas": [
+        "Quando a transgressão for leve.",
+        "Quando a autoridade competente tiver elementos de convicção suficientes para a elaboração do termo acusatório, devendo essa circunstância constar do respectivo termo.",
+        "Sempre que houver flagrante delito.",
+        "Mediante autorização do Corregedor PM."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 28, §5º: dispensa motivada com circunstância no Termo Acusatório. Não dispensa o contraditório posterior (defesa escrita do §3º).",
+      "tags": [
+        "procedimento",
+        "dispensa"
+      ]
+    },
+    {
+      "id": "rdpm-079",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Art. 28, §4º",
+      "enunciado": "Após apresentação da defesa escrita pelo acusado, nos termos do art. 28, §4º, do RDPM, a autoridade competente:",
+      "alternativas": [
+        "Encaminha automaticamente os autos ao Corregedor PM.",
+        "Estando convencida do cometimento, providenciará o enquadramento disciplinar mediante nota de culpa; se determinar outra solução, deverá fundamentá-la por despacho nos autos.",
+        "Designa defensor dativo, ainda que haja defensor constituído.",
+        "Convoca audiência de instrução e julgamento."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 28, §4º: convicção → enquadramento (nota de culpa); outra solução → despacho fundamentado. Anexo II da Portaria CORREGPM traz modelos.",
+      "tags": [
+        "procedimento",
+        "enquadramento"
+      ]
+    },
+    {
+      "id": "rdpm-080",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Art. 29, §2º",
+      "enunciado": "No caso de afastamento regulamentar do transgressor durante o Procedimento Disciplinar (art. 29, §2º, RDPM), os prazos:",
+      "alternativas": [
+        "Serão prorrogados pelo tempo do afastamento.",
+        "Serão interrompidos, reiniciando a contagem a partir da reapresentação.",
+        "Serão interrompidos, com EFEITOS DE SUSPENSÃO, prosseguindo a contagem a partir da reapresentação.",
+        "Não serão afetados, sob pena de prescrição."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 29, §2º + instrução: termo legal é \"interrupção\", mas EFEITOS de SUSPENSÃO (continua, não reinicia). Padrão técnico do RDPM.",
+      "tags": [
+        "procedimento",
+        "suspensao"
+      ]
+    },
+    {
+      "id": "rdpm-081",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 8º, I",
+      "enunciado": "Sobre a delegação da instrução do Procedimento Disciplinar (Anexo III da Portaria CORREGPM):",
+      "alternativas": [
+        "É vedada, sendo competência exclusiva da autoridade que elaborou o Termo Acusatório.",
+        "Observadas as regras da hierarquia, a autoridade competente poderá delegar a instrução, por despacho, a Oficial, Praça Especial ou, excepcionalmente, a Subtenente ou Sargento, neste caso motivadamente e quando o faltoso for Cabo ou Soldado.",
+        "Deve ser delegada ao Corregedor da OPM.",
+        "Pode ser delegada a qualquer praça, independentemente da graduação do acusado."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 8º, I: regra a Of/PE; excepcionalmente STen/Sgt, motivado, quando faltoso for Cb/Sd. Delegação após Termo Acusatório.",
+      "tags": [
+        "procedimento",
+        "delegacao"
+      ]
+    },
+    {
+      "id": "rdpm-082",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 8º, VI-VIII",
+      "enunciado": "Sobre o não comparecimento do acusado e seu defensor a atos do PD: I — Ausência justificada: o Presidente adia o ato por uma única vez; II — Ausência injustificada: designação de defensor \"ad hoc\" (Of/PE/STen/Sgt); III — Persistência da ausência: defensor dativo. Está(ão) correta(s):",
+      "alternativas": [
+        "Apenas I e II.",
+        "Apenas II e III.",
+        "Apenas I e III.",
+        "I, II e III."
+      ],
+      "correta": 3,
+      "explicacao": "Anexo III, art. 8º, VI, VII, VIII: progressão lógica. Garante contraditório e celeridade.",
+      "tags": [
+        "procedimento",
+        "defensor"
+      ]
+    },
+    {
+      "id": "rdpm-083",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 8º, IX",
+      "enunciado": "Sobre nulidades no Procedimento Disciplinar (Anexo III da Portaria CORREGPM):",
+      "alternativas": [
+        "Toda inobservância de prazo gera nulidade absoluta.",
+        "A nulidade SOMENTE será declarada se houver efetiva demonstração de prejuízo à defesa ou à Administração, devendo o incidente ser resolvido de plano, com registro nos autos.",
+        "Dependem de manifestação do MP.",
+        "Apenas nulidades absolutas podem ser conhecidas."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 8º, IX: pas de nullité sans grief. Cf. art. 29, §1º: descumprimento dos prazos de solução = infração disciplinar do responsável, mas NÃO gera nulidade.",
+      "tags": [
+        "procedimento",
+        "nulidade"
+      ]
+    },
+    {
+      "id": "rdpm-084",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 9º, par. único",
+      "enunciado": "Sobre os argumentos usados pelo acusado em sua defesa, nos termos do Anexo III da Portaria CORREGPM:",
+      "alternativas": [
+        "Qualquer argumento pode ser objeto de aditamento do Termo Acusatório.",
+        "Nenhum argumento usado em defesa, quando apresentado em termos respeitosos, poderá ser objeto de aditamento do Termo Acusatório ou de nova acusação disciplinar, SALVO se capcioso, fútil ou claramente estranho ao fato motivador.",
+        "Os argumentos são vinculantes para a autoridade.",
+        "Devem ser submetidos a parecer do MP."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 9º, par. único: garantia da ampla defesa — impossibilidade de uso contra o acusado. Vedação de retaliação.",
+      "tags": [
+        "procedimento",
+        "defesa"
+      ]
+    },
+    {
+      "id": "rdpm-085",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 10",
+      "enunciado": "Sobre as alegações finais de defesa no PD (Anexo III da Portaria CORREGPM):",
+      "alternativas": [
+        "Não há previsão no rito do PD, em razão de sua sumariedade.",
+        "Instruído o PD, o prazo para alegações finais é de 5 (cinco) dias, assegurado vistas dos autos em cartório; não apresentadas no prazo, o Presidente nomeia defensor \"ad hoc\" com mesmo prazo.",
+        "Devem ser orais, em audiência pública.",
+        "Sua ausência gera nulidade absoluta."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 10 + par. único: 5 dias com vistas em cartório. Defensor \"ad hoc\" supre a omissão.",
+      "tags": [
+        "procedimento",
+        "alegacoes-finais"
+      ]
+    },
+    {
+      "id": "rdpm-086",
+      "subtema": "Representação",
+      "artigo": "Art. 30",
+      "enunciado": "Define-se REPRESENTAÇÃO, nos termos do art. 30 do RDPM, como:",
+      "alternativas": [
+        "Documento dirigido ao Cmt G para solicitar revisão de transferência.",
+        "Toda comunicação que se referir a ato praticado ou aprovado por superior hierárquico ou funcional, que se repute irregular, ofensivo, injusto ou ilegal.",
+        "Petição inicial em sindicância administrativa.",
+        "Recurso ordinário contra decisão de Conselho de Disciplina."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 30, caput. Dirigida à autoridade funcional imediatamente superior (§1º). Restrita a matéria disciplinar (instrução).",
+      "tags": [
+        "representacao"
+      ]
+    },
+    {
+      "id": "rdpm-087",
+      "subtema": "Representação",
+      "artigo": "Art. 30, §2º + §3º",
+      "enunciado": "Sobre a representação contra ato disciplinar (art. 30, RDPM):",
+      "alternativas": [
+        "Substitui o pedido de reconsideração e o recurso hierárquico.",
+        "Será feita SOMENTE após solucionados os recursos disciplinares previstos no RDPM, desde que a matéria recorrida verse sobre a LEGALIDADE do ato; o prazo é de 5 anos a contar da publicação da sanção.",
+        "Possui efeito suspensivo automático.",
+        "É cabível em qualquer prazo, por imprescritibilidade."
+      ],
+      "correta": 1,
+      "explicacao": "§2º + §3º + instrução: RECURSO IMPRÓPRIO. Pressupõe esgotamento dos recursos próprios + LEGALIDADE. Prazo de 5 anos.",
+      "tags": [
+        "representacao",
+        "prazo"
+      ]
+    },
+    {
+      "id": "rdpm-088",
+      "subtema": "Competência disciplinar",
+      "artigo": "Art. 31",
+      "enunciado": "Nos termos do art. 31 do RDPM, são autoridades competentes para aplicar sanção disciplinar:",
+      "alternativas": [
+        "O Governador a todos os militares; o Sec. Seg. e o Cmt G a todos, exceto o Chefe da Casa Militar; o Subcmt PM a todos os integrantes de seu comando, das OPM subordinadas e às praças inativas; os oficiais da ativa do posto de Coronel a Capitão aos militares sob seu comando.",
+        "Exclusivamente o Governador e o Cmt G.",
+        "Os Cmt de Cia, Pelotão e Grupo, no âmbito de suas atribuições.",
+        "Qualquer oficial superior ao acusado."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 31, I-IV. Pontos sutis: (II) Sec. Seg./Cmt G NÃO podem sancionar o Chefe da Casa Militar; (III) Subcmt tem competência sobre praças inativas; (IV) Coronel a Capitão exige função de comando.",
+      "tags": [
+        "competencia"
+      ]
+    },
+    {
+      "id": "rdpm-089",
+      "subtema": "Competência disciplinar",
+      "artigo": "Art. 31, §2º",
+      "enunciado": "Quanto à competência disciplinar do oficial em exercício INTERINO de função (art. 31, §2º, RDPM):",
+      "alternativas": [
+        "O interino não confere competência, salvo designação do Cmt G.",
+        "Aos oficiais em exercício interino de funções de posto IGUAL OU SUPERIOR ao de Capitão, fica atribuída a competência prevista no inciso IV.",
+        "Confere competência apenas para advertência.",
+        "Confere competência integral, inclusive para detenção."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 31, §2º: interino de função de Capitão+ recebe competência do inciso IV. Lê-se com art. 86.",
+      "tags": [
+        "competencia",
+        "interino"
+      ]
+    },
+    {
+      "id": "rdpm-090",
+      "subtema": "Competência disciplinar",
+      "artigo": "Art. 32, III",
+      "enunciado": "Ao Subcomandante da Polícia Militar (art. 32, III, RDPM) compete aplicar:",
+      "alternativas": [
+        "Apenas advertência, repreensão e permanência disciplinar.",
+        "As sanções de advertência, repreensão, permanência disciplinar, detenção e proibição do uso de uniformes, até os limites máximos.",
+        "Todas as sanções, inclusive demissão de oficial.",
+        "Apenas detenção e proibição do uso de uniformes."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 32, III. Não inclui reforma, demissão e expulsão.",
+      "tags": [
+        "competencia",
+        "subcomandante"
+      ]
+    },
+    {
+      "id": "rdpm-091",
+      "subtema": "Julgamento",
+      "artigo": "Art. 33",
+      "enunciado": "Na aplicação das sanções disciplinares (art. 33, RDPM), são sempre considerados:",
+      "alternativas": [
+        "Apenas natureza e gravidade.",
+        "Natureza, gravidade, motivos determinantes, danos causados, personalidade e antecedentes do agente, intensidade do dolo ou grau de culpa.",
+        "Apenas o resultado do dano e a reincidência.",
+        "A vontade da autoridade competente, em discricionariedade ampla."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 33: dosimetria com 7 elementos. Análise individualizada.",
+      "tags": [
+        "dosimetria"
+      ]
+    },
+    {
+      "id": "rdpm-092",
+      "subtema": "Causas de justificação",
+      "artigo": "Art. 34",
+      "enunciado": "Nos termos do art. 34 do RDPM, NÃO haverá aplicação de sanção quando reconhecida qualquer das causas de justificação, EXCETO:",
+      "alternativas": [
+        "Motivo de força maior ou caso fortuito, plenamente comprovados.",
+        "Benefício do serviço, da preservação da ordem pública ou do interesse público.",
+        "Legítima defesa própria ou de outrem.",
+        "Inexigibilidade de conduta diversa em face de relevante valor moral."
+      ],
+      "correta": 3,
+      "explicacao": "Art. 34, I-V: 5 causas. \"Inexigibilidade\" é categoria do direito PENAL, não do RDPM.",
+      "tags": [
+        "justificacao"
+      ]
+    },
+    {
+      "id": "rdpm-093",
+      "subtema": "Atenuantes",
+      "artigo": "Art. 35, I",
+      "enunciado": "Quanto às circunstâncias atenuantes do art. 35 do RDPM, é correto afirmar que estar, NO MÍNIMO, no:",
+      "alternativas": [
+        "Comportamento bom configura atenuante.",
+        "Comportamento regular configura atenuante.",
+        "Comportamento ótimo configura atenuante; o bom é insuficiente.",
+        "Comportamento excelente configura a única hipótese de atenuante por comportamento."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 35, I: \"no MÍNIMO no BOM comportamento\". Bom, ótimo e excelente atenuam. Regular e mau não. Mau é AGRAVANTE (art. 36, I).",
+      "tags": [
+        "atenuantes",
+        "comportamento"
+      ]
+    },
+    {
+      "id": "rdpm-094",
+      "subtema": "Atenuantes",
+      "artigo": "Art. 35, III + VIII",
+      "enunciado": "Considere: I — Ter admitido a transgressão de autoria ignorada ou imputada a outrem (art. 35, III) — atenuante quanto à AUTORIA; II — Colaborar na apuração (art. 35, VIII) — atenuante quanto à MATERIALIDADE:",
+      "alternativas": [
+        "Apenas I está correta.",
+        "Apenas II está correta.",
+        "Ambas estão corretas — a primeira diz respeito à autoria, a segunda à materialidade.",
+        "Ambas estão incorretas."
+      ],
+      "correta": 2,
+      "explicacao": "Instruções aos incisos III e VIII do art. 35. Distinção sutil cobrada em CAO.",
+      "tags": [
+        "atenuantes",
+        "autoria",
+        "materialidade"
+      ]
+    },
+    {
+      "id": "rdpm-095",
+      "subtema": "Agravantes",
+      "artigo": "Art. 36",
+      "enunciado": "São circunstâncias agravantes, nos termos do art. 36 do RDPM:",
+      "alternativas": [
+        "I — mau comportamento; II — prática simultânea ou conexão de duas ou mais transgressões; III — reincidência específica; IV — conluio; V — falta praticada durante o serviço; VI — em presença de subordinado, tropa ou civil; VII — abuso de autoridade hierárquica ou funcional.",
+        "I — mau comportamento; II — embriaguez voluntária; III — emoção; IV — reincidência genérica.",
+        "I — qualquer reincidência; II — concurso material; III — premeditação; IV — motivo torpe.",
+        "I — culpa grave; II — dolo eventual; III — má conduta funcional."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 36, I-VII. §1º: agravante V não se aplica se a transgressão for inerente ao serviço. §2º: reincidência ESPECÍFICA (mesmo item do art. 13 ou do item 2 do §1º do art. 12).",
+      "tags": [
+        "agravantes"
+      ]
+    },
+    {
+      "id": "rdpm-096",
+      "subtema": "Agravantes",
+      "artigo": "Art. 36, §2º + instrução",
+      "enunciado": "Para aferição da reincidência específica como agravante, nos termos da Portaria CORREGPM-1/360/20, considera-se o prazo máximo de:",
+      "alternativas": [
+        "2 anos da publicação anterior.",
+        "5 anos contados entre a publicação que impôs sanção anterior e a nova transgressão; para advertência, da ciência do ato punitivo.",
+        "10 anos da última sanção.",
+        "Não há prazo legalmente fixado."
+      ],
+      "correta": 1,
+      "explicacao": "Instrução com redação da Portaria CORREGPM-1/360/20: 5 anos. Para advertência (não publicada), conta da CIÊNCIA.",
+      "tags": [
+        "reincidencia-especifica",
+        "prazo"
+      ]
+    },
+    {
+      "id": "rdpm-097",
+      "subtema": "Aplicação",
+      "artigo": "Art. 38",
+      "enunciado": "O ENQUADRAMENTO DISCIPLINAR (art. 38, RDPM) é a descrição da transgressão, devendo conter:",
+      "alternativas": [
+        "I — indicação da ação/omissão; II — tipificação; III — atenuantes/agravantes/justificação; IV — decisão; V — classificação do comportamento em que o punido permaneça ou ingresse; VI — alegações de defesa; VII — observações; VIII — assinatura.",
+        "Apenas tipificação no art. 13 e decisão.",
+        "Exclusivamente dados pessoais e a sanção.",
+        "Reprodução literal da defesa, sem motivação da decisão."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 38, I-VIII: 8 elementos. Instrução: deve constar a DATA EXATA da transgressão para aferição prescricional.",
+      "tags": [
+        "enquadramento"
+      ]
+    },
+    {
+      "id": "rdpm-098",
+      "subtema": "Aplicação",
+      "artigo": "Art. 41, III",
+      "enunciado": "Nos termos do art. 41, III, do RDPM, pela mesma transgressão disciplinar:",
+      "alternativas": [
+        "Poderão ser aplicadas até duas sanções de natureza diversa.",
+        "NÃO será aplicada mais de uma sanção disciplinar.",
+        "Será aplicada a sanção mais gravosa da escala.",
+        "Poderão ser aplicadas sanção principal e acessórias."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 41, III: non bis in idem disciplinar. Cumula com independência das esferas (art. 12, §5º e 44).",
+      "tags": [
+        "aplicacao",
+        "non-bis-in-idem"
+      ]
+    },
+    {
+      "id": "rdpm-099",
+      "subtema": "Aplicação",
+      "artigo": "Art. 43",
+      "enunciado": "O Cap PM \"X\" aplicou ao Sd PM \"Y\" permanência de 5 dias. Para o início do cumprimento (art. 43, RDPM):",
+      "alternativas": [
+        "Independe de aprovação, pois Cap é autoridade originária.",
+        "Dependerá de aprovação do ato pelo Comandante da Unidade ou autoridade funcional imediatamente superior, e prévia publicação em boletim, salvo a necessidade de recolhimento disciplinar.",
+        "Depende apenas da publicação em boletim.",
+        "Pressupõe homologação pelo Corregedor PM."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 43: aprovação + publicação. Exceção: recolhimento (cautelar). Atos do Cmt G/Subcmt PM dispensam aprovação. Vedação à autoaprovação (instrução).",
+      "tags": [
+        "aplicacao",
+        "aprovacao"
+      ]
+    },
+    {
+      "id": "rdpm-100",
+      "subtema": "Aplicação",
+      "artigo": "Art. 45",
+      "enunciado": "Na ocorrência de mais de uma transgressão (art. 45, RDPM):",
+      "alternativas": [
+        "Sem conexão: sanções aplicadas isoladamente; com conexão: as de menor gravidade serão consideradas como circunstâncias agravantes da transgressão principal.",
+        "Aplicar-se-á sempre a mais gravosa, absorvendo as demais.",
+        "Será obrigatoriamente instaurado Conselho de Disciplina.",
+        "Cumulação material sem limite."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 45: dois regimes — sem conexão (sanções autônomas), com conexão (menor vira agravante da principal).",
+      "tags": [
+        "aplicacao",
+        "concurso"
+      ]
+    },
+    {
+      "id": "rdpm-101",
+      "subtema": "Aplicação",
+      "artigo": "Art. 46",
+      "enunciado": "Cap PM \"X\" (1º BPM/I) e 1º Sgt PM \"Y\" (2º BPM/I) cometeram, em concurso, transgressão. Nos termos do art. 46 do RDPM:",
+      "alternativas": [
+        "Caberá ao Cmt G apurar diretamente.",
+        "Caberá ao comandante do policiamento da ÁREA TERRITORIAL onde ocorreu o fato apurar ou determinar a apuração e, ao final, remeter os autos à autoridade funcional superior comum aos envolvidos.",
+        "Cada Unidade apurará separadamente.",
+        "Caberá ao Corregedor PM."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 46 + instrução: apuração preliminar pelo Cmt da área. Procedimento Disciplinar formal só é instaurado pela autoridade com poder sobre o envolvido (Termo Acusatório).",
+      "tags": [
+        "aplicacao",
+        "concurso-agentes"
+      ]
+    },
+    {
+      "id": "rdpm-102",
+      "subtema": "Aplicação",
+      "artigo": "Art. 47",
+      "enunciado": "Quando duas autoridades de NÍVEIS HIERÁRQUICOS DIFERENTES, ambas com ação disciplinar sobre o transgressor, conhecerem da transgressão (art. 47, RDPM):",
+      "alternativas": [
+        "Caberá à menos graduada apurar e decidir.",
+        "Competirá à de MAIOR HIERARQUIA apurá-la ou determinar que a menos graduada o faça; quando a apuração for delegada à menor, a punição será aplicada após aprovação da superior, se esta assim determinar.",
+        "Caberá à primeira que tomou conhecimento.",
+        "A competência será definida por sorteio."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 47 + par. único.",
+      "tags": [
+        "aplicacao",
+        "concorrencia"
+      ]
+    },
+    {
+      "id": "rdpm-103",
+      "subtema": "Cumprimento",
+      "artigo": "Art. 51",
+      "enunciado": "Sobre a interrupção de afastamento regulamentar para cumprimento de sanção (art. 51, RDPM):",
+      "alternativas": [
+        "Pode ser determinada por qualquer Cmt de Unidade.",
+        "SOMENTE quando determinada pelo GOVERNADOR, SEC. SEG. ou CMT G; a interrupção tem efeitos jurídicos de suspensão.",
+        "Aplica-se automaticamente em detenção.",
+        "É vedada em qualquer hipótese."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 51, par. único + instrução: competência ESCALONADA TOPO. Efeito de SUSPENSÃO (não reinício).",
+      "tags": [
+        "cumprimento",
+        "afastamento"
+      ]
+    },
+    {
+      "id": "rdpm-104",
+      "subtema": "Cumprimento",
+      "artigo": "Art. 52, §2º",
+      "enunciado": "Nos termos do art. 52, §2º, do RDPM, NÃO se computa como cumprimento de sanção:",
+      "alternativas": [
+        "O tempo em gozo de afastamentos regulamentares, interrompendo-se a contagem até o retorno.",
+        "Os dias úteis com expediente normal.",
+        "Os finais de semana.",
+        "Qualquer período de licença para tratamento de saúde de pessoa da família."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 52, §2º + instrução: afastamentos regulamentares SUSPENDEM a contagem. Afastamento e retorno devem ser publicados (§3º).",
+      "tags": [
+        "cumprimento",
+        "contagem"
+      ]
+    },
+    {
+      "id": "rdpm-105",
+      "subtema": "Comportamento",
+      "artigo": "Art. 54, II",
+      "enunciado": "A praça é classificada no comportamento ÓTIMO (art. 54, II, RDPM) quando:",
+      "alternativas": [
+        "No período de 10 anos, sem qualquer sanção.",
+        "No período de 5 anos, lhe tenham sido aplicadas até 2 repreensões.",
+        "No período de 5 anos, sem qualquer sanção, podendo ter recebido até 3 advertências.",
+        "No período de 2 anos, até 2 permanências."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 54, II: ÓTIMO = 5 anos com até 2 REPREENSÕES. Advertência não conta para classificação (§4º).",
+      "tags": [
+        "comportamento",
+        "otimo"
+      ]
+    },
+    {
+      "id": "rdpm-106",
+      "subtema": "Comportamento",
+      "artigo": "Art. 54, §3º",
+      "enunciado": "Para fins de classificação do comportamento da praça (art. 54, §3º, RDPM):",
+      "alternativas": [
+        "Uma detenção equivale a duas permanências.",
+        "Duas repreensões equivalerão a uma permanência disciplinar.",
+        "Três advertências equivalem a uma repreensão.",
+        "Uma permanência equivale a duas advertências."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 54, §3º: única equivalência prevista. Detenção tem peso autônomo. Advertência não conta.",
+      "tags": [
+        "comportamento",
+        "equivalencia"
+      ]
+    },
+    {
+      "id": "rdpm-107",
+      "subtema": "Comportamento",
+      "artigo": "Art. 54, §4º + instrução",
+      "enunciado": "Para aferição do comportamento (art. 54, §4º, RDPM):",
+      "alternativas": [
+        "Toma-se como base a data do cometimento da transgressão.",
+        "Toma-se como base a data da ciência do enquadramento.",
+        "Toma-se como base a data em que a sanção foi PUBLICADA em boletim; inicia-se a verificação pelo melhor comportamento (excelente) e segue-se até atingir o que se enquadre.",
+        "Toma-se como base a data da última sanção, em decadência absoluta."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 54, §4º + instrução: parâmetro é a data da publicação. Verifica-se do melhor (excelente) ao pior.",
+      "tags": [
+        "comportamento",
+        "afericao"
+      ]
+    },
+    {
+      "id": "rdpm-108",
+      "subtema": "Recursos",
+      "artigo": "Art. 56, instrução",
+      "enunciado": "O Sd PM \"Y\" foi transferido do 1º BPM/I para o 99º BPM/I no curso do prazo recursal. Nos termos da Portaria CORREGPM:",
+      "alternativas": [
+        "O recurso deverá ser dirigido ao Cmt do 99º BPM/I.",
+        "O recurso disciplinar deverá ser encaminhado pelo canal hierárquico-funcional e DECIDIDO PELA AUTORIDADE QUE APLICOU OU APROVOU A SANÇÃO, ou por seu substituto legal no exercício da função.",
+        "O recurso deverá ser dirigido diretamente ao Cmt G.",
+        "O prazo é interrompido pela transferência."
+      ],
+      "correta": 1,
+      "explicacao": "Instrução: a transferência NÃO altera competência recursal.",
+      "tags": [
+        "recursos",
+        "transferencia"
+      ]
+    },
+    {
+      "id": "rdpm-109",
+      "subtema": "Recursos",
+      "artigo": "Art. 57, §1º",
+      "enunciado": "O pedido de reconsideração de ato (art. 57, §1º, RDPM) deve ser:",
+      "alternativas": [
+        "Encaminhado pelo canal hierárquico, com manifestação do Cmt intermediário.",
+        "Encaminhado DIRETAMENTE à autoridade recorrida, por uma única vez, sem obediência ao canal hierárquico ou funcional, visando à agilização.",
+        "Dirigido à autoridade imediatamente superior.",
+        "Encaminhado por meio do Corregedor PM."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 57, §1º + instrução: direto à autoridade recorrida, uma única vez. Distingue-se do hierárquico (art. 58).",
+      "tags": [
+        "recursos",
+        "reconsideracao"
+      ]
+    },
+    {
+      "id": "rdpm-110",
+      "subtema": "Recursos",
+      "artigo": "Art. 57, §3º",
+      "enunciado": "Sobre o prazo para SOLUÇÃO do pedido de reconsideração (art. 57, §3º, RDPM):",
+      "alternativas": [
+        "5 dias do protocolo.",
+        "10 (dez) dias, a contar do recebimento, com despacho fundamentado e publicação.",
+        "15 dias prorrogáveis.",
+        "30 dias da interposição."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 57, §3º: 10 dias. Cf. §4º: se não houver solução em 30 dias, cabe recurso hierárquico.",
+      "tags": [
+        "recursos",
+        "prazo-solucao"
+      ]
+    },
+    {
+      "id": "rdpm-111",
+      "subtema": "Recursos",
+      "artigo": "Art. 57, §6º + 58, §6º",
+      "enunciado": "Sobre o não conhecimento de recurso disciplinar intempestivo, procrastinador ou sem fatos novos (RDPM):",
+      "alternativas": [
+        "Será conhecido em qualquer hipótese.",
+        "NÃO será conhecido o pedido/recurso intempestivo, procrastinador ou que não apresente fatos novos que modifiquem a decisão, devendo este ato ser publicado.",
+        "Conhecimento a critério da autoridade, mesmo intempestivo.",
+        "Sempre acolhido em caráter excepcional."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 57, §6º (reconsideração) + 58, §6º (hierárquico).",
+      "tags": [
+        "recursos",
+        "nao-conhecimento"
+      ]
+    },
+    {
+      "id": "rdpm-112",
+      "subtema": "Recursos",
+      "artigo": "Art. 58, §1º",
+      "enunciado": "O recurso hierárquico (art. 58, §1º, RDPM):",
+      "alternativas": [
+        "Independe de prévio pedido de reconsideração.",
+        "Deverá ser PRECEDIDO de pedido de reconsideração, somente podendo ocorrer depois de conhecido o resultado deste, salvo a hipótese do §4º do art. 57 (decurso de 30 dias sem solução).",
+        "Está vedado se a reconsideração foi indeferida.",
+        "Pode ocorrer simultaneamente à reconsideração."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 58, §1º: exaurimento progressivo. Hierárquico tem efeito SUSPENSIVO (caput).",
+      "tags": [
+        "recursos",
+        "hierarquico"
+      ]
+    },
+    {
+      "id": "rdpm-113",
+      "subtema": "Recursos",
+      "artigo": "Art. 58, §3º, 2",
+      "enunciado": "A autoridade que receber o recurso hierárquico deverá comunicar tal fato, por escrito, àquela contra a qual está sendo interposto, no prazo de:",
+      "alternativas": [
+        "24 horas do protocolo.",
+        "3 (três) dias, a contar do protocolo da OPM da autoridade destinatária.",
+        "5 dias do recebimento.",
+        "10 dias, junto com a solução."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 58, §3º, item 2. Prazos do hierárquico: interposição 5 dias (1), comunicação 3 dias (2), solução 10 dias (3).",
+      "tags": [
+        "recursos",
+        "hierarquico",
+        "comunicacao"
+      ]
+    },
+    {
+      "id": "rdpm-114",
+      "subtema": "Recursos",
+      "artigo": "Art. 59",
+      "enunciado": "Solucionado o recurso hierárquico (art. 59, RDPM):",
+      "alternativas": [
+        "Cabe recurso extraordinário ao Cmt G em 15 dias.",
+        "Encerra-se para o recorrente a possibilidade administrativa de revisão do ato disciplinar, EXCETO nos casos de representação dos §§ 3º e 4º do art. 30.",
+        "Pode ser interposto novo pedido com fatos novos.",
+        "Cabe recurso ao Sec. Seg., em terceiro grau."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 59: exaurimento administrativo. Reconsideração + hierárquico = duplo grau. Após, só representação impreitosa ou via judicial.",
+      "tags": [
+        "recursos",
+        "exaurimento"
+      ]
+    },
+    {
+      "id": "rdpm-115",
+      "subtema": "Recursos",
+      "artigo": "Art. 61",
+      "enunciado": "Os prazos para interposição dos recursos do RDPM (art. 61) são:",
+      "alternativas": [
+        "Prescricionais, com interrupção e suspensão.",
+        "DECADENCIAIS.",
+        "Meramente programáticos.",
+        "Sujeitos a dilação de ofício."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 61: prazos decadenciais. Não confundir com a PRESCRIÇÃO da ação disciplinar (art. 85), que admite interrupção pela interposição de recurso (§2º).",
+      "tags": [
+        "recursos",
+        "decadencia"
+      ]
+    },
+    {
+      "id": "rdpm-116",
+      "subtema": "Revisão de atos",
+      "artigo": "Art. 62, caput",
+      "enunciado": "Sobre a competência para revisão de atos disciplinares (art. 62, RDPM):",
+      "alternativas": [
+        "Compete a qualquer autoridade superior, inclusive Major e Capitão.",
+        "Compete às autoridades competentes para aplicar sanção, EXCETO as ocupantes do posto de MAJOR E CAPITÃO, quando tiverem conhecimento, por via recursal ou de ofício, de irregularidade ou ilegalidade.",
+        "Compete privativamente ao Cmt G.",
+        "Compete ao Subcmt PM em 1ª instância."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 62, caput. Hipóteses: via recursal OU de ofício. Pode haver retificação, atenuação, agravação ou anulação.",
+      "tags": [
+        "revisao",
+        "competencia"
+      ]
+    },
+    {
+      "id": "rdpm-117",
+      "subtema": "Revisão de atos",
+      "artigo": "Art. 63",
+      "enunciado": "A RETIFICAÇÃO (art. 63, RDPM) consiste:",
+      "alternativas": [
+        "Na ampliação do número dos dias da sanção.",
+        "Na correção de IRREGULARIDADE FORMAL SANÁVEL, contida na sanção aplicada pela própria autoridade ou por autoridade subordinada.",
+        "Na declaração de invalidade da sanção com efeito retroativo.",
+        "Na redução da sanção proposta ou aplicada."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 63: correção formal (data, grafia, número de boletim). Distingue-se de agravação, atenuação e anulação.",
+      "tags": [
+        "revisao",
+        "retificacao"
+      ]
+    },
+    {
+      "id": "rdpm-118",
+      "subtema": "Revisão de atos",
+      "artigo": "Art. 66",
+      "enunciado": "A ANULAÇÃO (art. 66, RDPM):",
+      "alternativas": [
+        "Tem efeito ex nunc, preservando os efeitos do ato.",
+        "É a declaração de INVALIDADE da sanção aplicada quando, na apreciação do recurso, verificar-se a ocorrência de ilegalidade, devendo RETROAGIR à data do ato.",
+        "Compete privativamente ao Judiciário.",
+        "Aplica-se apenas em nulidade formal."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 66: anulação por ILEGALIDADE, efeito ex tunc. Prazo decadencial: 5 anos (art. 62, §1º).",
+      "tags": [
+        "revisao",
+        "anulacao"
+      ]
+    },
+    {
+      "id": "rdpm-119",
+      "subtema": "Recompensas",
+      "artigo": "Art. 67",
+      "enunciado": "As recompensas policiais-militares (art. 67, RDPM):",
+      "alternativas": [
+        "Constituem reconhecimento dos bons serviços prestados pelo militar do Estado e consubstanciam-se em prêmios concedidos por atos meritórios e serviços relevantes.",
+        "Substituem sanções disciplinares anteriores.",
+        "São equivalentes a promoções por bravura.",
+        "Constituem direito subjetivo do militar."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 67: definição. Espécies: elogio e cancelamento. Dispensa do serviço NÃO é recompensa (art. 69).",
+      "tags": [
+        "recompensas"
+      ]
+    },
+    {
+      "id": "rdpm-120",
+      "subtema": "Recompensas",
+      "artigo": "Art. 68, par. único",
+      "enunciado": "Sobre o elogio individual (art. 68, par. único, RDPM):",
+      "alternativas": [
+        "Pressupõe comportamento ótimo ou excelente.",
+        "É ato administrativo que coloca em relevo as qualidades morais e profissionais, podendo ser formulado INDEPENDENTEMENTE da classificação do comportamento, e será registrado nos assentamentos.",
+        "Constitui atenuante.",
+        "É exclusivo da praça."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 68, par. único: independe da classificação. Pode ser concedido inclusive em mau.",
+      "tags": [
+        "recompensas",
+        "elogio"
+      ]
+    },
+    {
+      "id": "rdpm-121",
+      "subtema": "Processo Regular",
+      "artigo": "Art. 73",
+      "enunciado": "O CONSELHO DE JUSTIFICAÇÃO (art. 73, RDPM) destina-se a:",
+      "alternativas": [
+        "Apurar a INCAPACIDADE DO OFICIAL para permanecer no serviço ativo da PM; aplica-se também ao oficial inativo presumivelmente incapaz de permanecer na inatividade.",
+        "Apurar conduta criminosa de oficial.",
+        "Substituir PAD em condutas leves e médias.",
+        "Decidir, em recurso, sobre sanções de oficiais."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 73 + par. único. Legislação específica: Lei Federal 5.836/72 e Lei Estadual 186/73.",
+      "tags": [
+        "conselho-justificacao"
+      ]
+    },
+    {
+      "id": "rdpm-122",
+      "subtema": "Processo Regular",
+      "artigo": "Art. 74",
+      "enunciado": "O oficial submetido a CJ e considerado culpado, por DECISÃO UNÂNIME, poderá ser AGREGADO DISCIPLINARMENTE mediante ato do Cmt G, até decisão final do tribunal, ficando:",
+      "alternativas": [
+        "Afastado, com vencimentos integrais, sem prejuízo da carreira.",
+        "Afastado das funções e adido à Unidade designada; proibido de usar uniforme; percebendo 1/3 da remuneração; mantido no Quadro, sem número, não concorrendo à promoção.",
+        "Excluído imediatamente da PM.",
+        "Suspenso por 90 dias, com perda total de vencimentos."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 74, I-IV: 4 efeitos. Pressupõe decisão UNÂNIME.",
+      "tags": [
+        "conselho-justificacao",
+        "agregacao"
+      ]
+    },
+    {
+      "id": "rdpm-123",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 76, par. único",
+      "enunciado": "A instauração do Conselho de Disciplina (art. 76, par. único, RDPM):",
+      "alternativas": [
+        "Não pode ocorrer durante o cumprimento de outra sanção.",
+        "Pode ser feita durante o cumprimento de sanção disciplinar, desde que o CD tenha fato gerador DIVERSO daquele cujo cumprimento está ocorrendo.",
+        "Está vedada se houver inquérito policial em curso.",
+        "Pressupõe trânsito em julgado de sentença penal."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 76, par. único + instrução: CD pode ser instaurado durante cumprimento, fato DIVERSO. Atende ao non bis in idem.",
+      "tags": [
+        "conselho-disciplina"
+      ]
+    },
+    {
+      "id": "rdpm-124",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 77",
+      "enunciado": "Quanto à possibilidade de NÃO INSTAURAR CD (art. 77, RDPM):",
+      "alternativas": [
+        "É vedado deixar de instaurar quando provocado.",
+        "As autoridades referidas no art. 76 podem, com base na natureza da falta ou na inconsistência dos fatos, considerar insuficiente a acusação e deixar de instaurar o CD, SEM PREJUÍZO DE NOVAS DILIGÊNCIAS.",
+        "Depende de parecer do Corregedor PM.",
+        "Somente o Cmt G pode decidir pela não instauração."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 77: filtro de admissibilidade. Sem coisa julgada administrativa.",
+      "tags": [
+        "conselho-disciplina",
+        "nao-instauracao"
+      ]
+    },
+    {
+      "id": "rdpm-125",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 78, §1º",
+      "enunciado": "O Cmt do 99º BPM/I, ao nomear o CD, verificou que não havia Capitão disponível e determinou que o 1º Ten PM \"Z\", em exercício interino de Cmt de Cia, atuasse como presidente. Assinale:",
+      "alternativas": [
+        "Não há irregularidade — o interino tem prerrogativas plenas do posto.",
+        "Há IRREGULARIDADE, pois o art. 78, §1º, exige que o presidente do CD seja, no mínimo, um CAPITÃO; o exercício interino de função não supre o requisito de POSTO.",
+        "Há irregularidade convalidável pela promoção posterior.",
+        "Não há irregularidade se o Cmt do BPM ratificar."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 78, §1º: requisito de POSTO (Capitão), não de função. Distingue-se da competência do art. 31, §2º.",
+      "tags": [
+        "conselho-disciplina",
+        "presidente"
+      ]
+    },
+    {
+      "id": "rdpm-126",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 78, §2º",
+      "enunciado": "O presidente do CD poderá nomear, para funcionar como ESCRIVÃO sem integrar o Conselho (art. 78, §2º, RDPM):",
+      "alternativas": [
+        "Apenas oficial subalterno (1º ou 2º Tenente).",
+        "SUBTENENTE ou SARGENTO.",
+        "Qualquer oficial da ativa.",
+        "Apenas Cabo ou Soldado."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 78, §2º: escrivão externo ao Conselho = STen ou Sgt. NÃO integra o CD.",
+      "tags": [
+        "conselho-disciplina",
+        "escrivao"
+      ]
+    },
+    {
+      "id": "rdpm-127",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 79",
+      "enunciado": "Sobre a instauração do Conselho de Disciplina (art. 79, RDPM):",
+      "alternativas": [
+        "Depende sempre da prévia conclusão de inquérito policial.",
+        "Pode ser instaurado INDEPENDENTEMENTE da existência ou instauração de inquérito policial, processo criminal ou sentença criminal transitada em julgado; se surgirem indícios de crime no curso, o presidente extrairá cópia para a autoridade competente.",
+        "Está vedado durante IPM sobre o mesmo fato.",
+        "Depende de condenação criminal."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 79 + par. único: independência das esferas reforçada.",
+      "tags": [
+        "conselho-disciplina",
+        "independencia"
+      ]
+    },
+    {
+      "id": "rdpm-128",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 80, §1º",
+      "enunciado": "Sd PM \"A\" (1º BPM/I) e Sd PM \"B\" (99º BPM/I), com mais de 10 anos cada, praticaram conduta única em concurso. Nos termos do art. 80 do RDPM:",
+      "alternativas": [
+        "Cada Cmt de BPM instaurará seu próprio CD.",
+        "Havendo dois ou mais acusados de OPM diversas, o processo será instaurado pela autoridade imediatamente superior, COMUM aos respectivos comandantes das OPM dos acusados; será instaurado APENAS UM processo no concurso de agentes.",
+        "Cada Cmt apurará separadamente em sindicância.",
+        "Os autos serão remetidos diretamente ao Cmt G."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 80, caput + §1º: processo único + competência da autoridade comum superior.",
+      "tags": [
+        "conselho-disciplina",
+        "concurso-agentes"
+      ]
+    },
+    {
+      "id": "rdpm-129",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 80, §3º",
+      "enunciado": "Após elaborada a portaria de instauração do CD, surgindo elementos de autoria e materialidade de infração disciplinar CONEXA, em continuidade ou em concurso (art. 80, §3º, RDPM):",
+      "alternativas": [
+        "Deve-se instaurar novo Conselho.",
+        "A portaria pode ser ADITADA, abrindo-se novos prazos para a defesa.",
+        "Os novos fatos serão apurados em sindicância autônoma.",
+        "Os novos fatos devem ser desconsiderados."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 80, §3º: aditamento com novos prazos. Cumpre contraditório quanto aos fatos novos.",
+      "tags": [
+        "conselho-disciplina",
+        "aditamento"
+      ]
+    },
+    {
+      "id": "rdpm-130",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 81",
+      "enunciado": "Sobre a decisão da autoridade instauradora do CD (art. 81, RDPM):",
+      "alternativas": [
+        "Será proferida no prazo de 15 dias a contar do recebimento dos autos, após apreciação do Conselho, prova produzida, razões de defesa e relatório, devidamente fundamentada.",
+        "30 dias prorrogáveis, sem fundamentação expressa.",
+        "Cabe à própria comissão, dispensada manifestação da autoridade instauradora.",
+        "60 dias da instauração."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 81: 15 dias. Distinto do prazo de 45 dias do Cmt G para decisão FINAL (art. 83).",
+      "tags": [
+        "conselho-disciplina",
+        "decisao-instauradora"
+      ]
+    },
+    {
+      "id": "rdpm-131",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 82",
+      "enunciado": "Sobre a decisão da autoridade instauradora do CD (art. 82, RDPM):",
+      "alternativas": [
+        "Considerará a acusação procedente, procedente em parte ou improcedente, devendo PROPOR ao Comandante Geral, conforme o caso, a aplicação das sanções administrativas cabíveis; a decisão será publicada em boletim.",
+        "Decide em caráter final, dispensando submissão ao Cmt G.",
+        "Será publicada apenas se procedente.",
+        "Vincula o Cmt G."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 82 + par. único: PROPOR ao Cmt G. Decisão da autoridade instauradora NÃO vincula o Cmt G (que decide soberanamente em 45 dias).",
+      "tags": [
+        "conselho-disciplina",
+        "decisao"
+      ]
+    },
+    {
+      "id": "rdpm-132",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 83",
+      "enunciado": "Recebidos os autos do CD, o Cmt G, fundamentando seu despacho, emitirá a decisão final no prazo de:",
+      "alternativas": [
+        "15 dias.",
+        "30 dias.",
+        "45 (quarenta e cinco) dias.",
+        "60 dias."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 83 (LC 915/02): 45 dias. Da decisão NÃO cabe recurso, salvo §3º art. 138 CE/SP.",
+      "tags": [
+        "conselho-disciplina",
+        "cmt-g"
+      ]
+    },
+    {
+      "id": "rdpm-133",
+      "subtema": "Processo Regular",
+      "artigo": "Art. 84",
+      "enunciado": "Sobre o Processo Administrativo Disciplinar (art. 84, RDPM):",
+      "alternativas": [
+        "Segue rito próprio aplicando-se os incisos I, II e par. único do art. 76 (instauração) e os arts. 79, 80 e 82; recebido o processo, o Cmt G emitirá a decisão final, da qual não cabe recurso, salvo §3º do art. 138 CE/SP.",
+        "Segue rito idêntico ao CD.",
+        "Apurado pela Cia de origem do praça.",
+        "Aplica-se a oficial com menos de 10 anos."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 84 + par. único. Mesmo prazo Cmt G (45 dias, art. 84 par. único c/c art. 83). Para PRAÇA com MENOS de 10 anos.",
+      "tags": [
+        "pad"
+      ]
+    },
+    {
+      "id": "rdpm-134",
+      "subtema": "Definições",
+      "artigo": "Art. 86",
+      "enunciado": "Para efeitos do RDPM (art. 86), considera-se Comandante de Unidade:",
+      "alternativas": [
+        "Apenas o Coronel designado por ato do Cmt G.",
+        "O oficial que estiver exercendo FUNÇÕES PRIVATIVAS dos postos de CORONEL e de TENENTE-CORONEL; as expressões diretor, corregedor e chefe têm o mesmo significado de Cmt de Unidade.",
+        "Qualquer oficial superior em comando.",
+        "Apenas o Coronel ou TC titular efetivo."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 86 + par. único + instrução: critério FUNCIONAL.",
+      "tags": [
+        "comandante-unidade"
+      ]
+    },
+    {
+      "id": "rdpm-135",
+      "subtema": "Disposições finais",
+      "artigo": "Art. 87",
+      "enunciado": "Aplica-se SUPLETIVAMENTE ao Conselho de Disciplina (art. 87, RDPM):",
+      "alternativas": [
+        "O Código de Processo Civil.",
+        "O CÓDIGO DE PROCESSO PENAL MILITAR.",
+        "A Lei do Processo Administrativo Federal.",
+        "A Lei de Improbidade Administrativa."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 87: aplicação supletiva do CPPM.",
+      "tags": [
+        "conselho-disciplina",
+        "cppm"
+      ]
+    },
+    {
+      "id": "rdpm-136",
+      "subtema": "Prescrição",
+      "artigo": "Art. 85, §1º",
+      "enunciado": "Sobre a prescrição da transgressão disciplinar também prevista como crime (art. 85, §1º, RDPM):",
+      "alternativas": [
+        "Aplica-se sempre o prazo de 5 anos do caput.",
+        "Prescreve nos prazos da legislação penal, SALVO se esta prescrição ocorrer em prazo inferior a 5 anos.",
+        "Aplica-se sempre o prazo penal, independente de menor.",
+        "Não há prescrição quando também é crime."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 85, §1º: prazo penal, salvo se inferior a 5 anos (piso disciplinar).",
+      "tags": [
+        "prescricao",
+        "crime"
+      ]
+    },
+    {
+      "id": "rdpm-137",
+      "subtema": "Prescrição",
+      "artigo": "Art. 85, §2º",
+      "enunciado": "A interposição de recurso disciplinar (art. 85, §2º, RDPM):",
+      "alternativas": [
+        "Não afeta o curso da prescrição.",
+        "INTERROMPE a prescrição da punibilidade até a solução final do recurso.",
+        "Suspende por 90 dias.",
+        "Reduz pela metade o prazo prescricional."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 85, §2º + instrução: recurso INTERROMPE prescrição. A representação também (recurso impróprio). Sindicância/PD NÃO suspendem nem interrompem, salvo crime correlato ≥ 5 anos.",
+      "tags": [
+        "prescricao",
+        "interrupcao"
+      ]
+    },
+    {
+      "id": "rdpm-138",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 5º",
+      "enunciado": "O prazo para elaboração do Termo Acusatório pela autoridade, após receber a manifestação preliminar (Anexo III da Portaria CORREGPM):",
+      "alternativas": [
+        "3 dias.",
+        "5 (cinco) dias, no qual descreverá e tipificará a conduta nos preceitos do RDPM, zelando pela clareza e indicando o rol de testemunhas, se houver.",
+        "10 dias.",
+        "15 dias."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 5º: 5 dias. Conteúdo: descrição + tipificação + rol de testemunhas.",
+      "tags": [
+        "procedimento",
+        "termo-acusatorio"
+      ]
+    },
+    {
+      "id": "rdpm-139",
+      "subtema": "Sanções",
+      "artigo": "Art. 50",
+      "enunciado": "O Cb PM \"X\" apresentou-se embriagado à autoridade competente. Nos termos do art. 50 do RDPM:",
+      "alternativas": [
+        "A autoridade aplicará imediatamente a sanção, agravada pelo estado.",
+        "Nenhum militar do Estado será interrogado ou ser-lhe-á APLICADA SANÇÃO se estiver em estado de embriaguez ou sob ação de substância entorpecente, devendo, se necessário, ser desde logo RECOLHIDO disciplinarmente.",
+        "Sanção poderá ser aplicada se reduzida proporcionalmente.",
+        "Sanção fica suspensa até alta médica."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 50: vedação de interrogatório ou aplicação. Solução: recolhimento disciplinar (art. 26, II).",
+      "tags": [
+        "sancoes",
+        "embriaguez"
+      ]
+    },
+    {
+      "id": "rdpm-140",
+      "subtema": "Disciplina",
+      "artigo": "Art. 9º, §3º",
+      "enunciado": "Sobre a camaradagem (art. 9º, §3º, RDPM):",
+      "alternativas": [
+        "É facultativa, dependendo da afinidade.",
+        "É INDISPENSÁVEL à formação e ao convívio na PM, incumbindo aos comandantes incentivar e manter a harmonia e a solidariedade, promovendo estímulos de aproximação e cordialidade.",
+        "Aplica-se apenas a militares do mesmo posto.",
+        "Restrita ao ambiente de quartel."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 9º, §3º: dever institucional. Dever ATIVO dos comandantes.",
+      "tags": [
+        "disciplina",
+        "camaradagem"
+      ]
+    },
+    {
+      "id": "rdpm-141",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 47",
+      "enunciado": "\"Evadir-se ou tentar evadir-se de escolta, bem como resistir a ela\" (art. 13 RDPM) é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Variável conforme uso de violência."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 47: GRAVE, independe de violência ou êxito da evasão.",
+      "tags": [
+        "transgressao",
+        "escolta"
+      ]
+    },
+    {
+      "id": "rdpm-142",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 73",
+      "enunciado": "\"Passar a ausente\" é transgressão:",
+      "alternativas": [
+        "Leve, se inferior a 24h.",
+        "Média.",
+        "GRAVE, em qualquer hipótese.",
+        "Não é transgressão, mas crime militar do art. 187 CPM."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 73: GRAVE. Deserção penal só após 8 dias (art. 187 CPM).",
+      "tags": [
+        "transgressao",
+        "ausente"
+      ]
+    },
+    {
+      "id": "rdpm-143",
+      "subtema": "Sanções",
+      "artigo": "Art. 49",
+      "enunciado": "A autoridade que tiver de aplicar sanção a subordinado a serviço ou à disposição de outra autoridade (art. 49, RDPM):",
+      "alternativas": [
+        "Comunicará previamente, dependendo da autoridade detentora.",
+        "REQUISITARÁ a apresentação do transgressor; quando o local de cumprimento não for a respectiva OPM, indicará o local designado para apresentação.",
+        "Não poderá aplicar, dependendo de delegação.",
+        "Aplicará após reintegração à OPM de origem."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 49 + par. único. Aplicação = cumprimento (instrução).",
+      "tags": [
+        "sancoes",
+        "requisicao"
+      ]
+    },
+    {
+      "id": "rdpm-144",
+      "subtema": "Comportamento",
+      "artigo": "Art. 54, V",
+      "enunciado": "A praça é classificada no MAU comportamento quando, em 1 ano, lhe tenham sido aplicadas:",
+      "alternativas": [
+        "Até 2 permanências.",
+        "MAIS de 2 permanências OU MAIS de 1 detenção.",
+        "Qualquer detenção ou expulsão.",
+        "Até 5 repreensões."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 54, V. Distingue-se do REGULAR (IV — até 2 permanências ou 1 detenção em 1 ano).",
+      "tags": [
+        "comportamento",
+        "mau"
+      ]
+    },
+    {
+      "id": "rdpm-145",
+      "subtema": "Aplicação",
+      "artigo": "Art. 40",
+      "enunciado": "Sobre a publicação de sanções de oficiais, asp-of, al-of, subtenentes e sargentos (art. 40, RDPM):",
+      "alternativas": [
+        "Sempre ostensiva.",
+        "Serão publicadas SOMENTE para conhecimento dos integrantes dos seus respectivos CÍRCULOS e superiores hierárquicos, podendo ser dadas ao conhecimento geral se as circunstâncias ou a natureza da transgressão e o bem da disciplina assim o recomendarem.",
+        "Sempre reservadas, jamais ostensivas.",
+        "Apenas Cmt G pode autorizar a publicidade ampla."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 40: publicidade RESTRITA aos círculos e superiores, em regra.",
+      "tags": [
+        "aplicacao",
+        "publicacao"
+      ]
+    },
+    {
+      "id": "rdpm-146",
+      "subtema": "Recompensas",
+      "artigo": "Art. 69",
+      "enunciado": "Sobre a DISPENSA DO SERVIÇO (art. 69, RDPM):",
+      "alternativas": [
+        "É recompensa prevista no inciso III do art. 68.",
+        "NÃO é recompensa e somente poderá ser concedida quando houver, a juízo do Cmt da Unidade, motivo de força maior; limitada ao máximo de 6 dias por ano, sempre publicada em boletim, vedada para gozo oportuno.",
+        "Sem limite anual.",
+        "Aplica-se apenas a Cb/Sd."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 69 + par. único + instrução. Pegadinha clássica do CAO.",
+      "tags": [
+        "recompensas",
+        "dispensa-servico"
+      ]
+    },
+    {
+      "id": "rdpm-147",
+      "subtema": "Sanções",
+      "artigo": "Art. 14, par. único",
+      "enunciado": "Todo fato que constituir transgressão (art. 14, par. único, RDPM) deverá ser levado ao conhecimento:",
+      "alternativas": [
+        "Imediato do Corregedor PM.",
+        "Da AUTORIDADE COMPETENTE para as providências disciplinares.",
+        "Apenas do Cmt de Cia.",
+        "Do MP Militar."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 14, par. único. Sustenta o dever da comunicação disciplinar (art. 27), cuja omissão é transgressão (art. 13, nº 51).",
+      "tags": [
+        "sancoes",
+        "comunicacao"
+      ]
+    },
+    {
+      "id": "rdpm-148",
+      "subtema": "Recolhimento disciplinar",
+      "artigo": "Art. 26, §2º",
+      "enunciado": "A CONDUÇÃO do militar à autoridade competente para determinar o recolhimento (art. 26, §2º, RDPM):",
+      "alternativas": [
+        "Por qualquer policial em serviço.",
+        "Somente por SUPERIOR HIERÁRQUICO.",
+        "Por militar de mesmo posto/graduação.",
+        "Por policial civil designado."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 26, §2º. Excepcionalidade da medida exige reforço hierárquico.",
+      "tags": [
+        "recolhimento",
+        "conducao"
+      ]
+    },
+    {
+      "id": "rdpm-149",
+      "subtema": "Prazos",
+      "artigo": "Art. 89, instrução",
+      "enunciado": "Sobre a contagem dos prazos do RDPM:",
+      "alternativas": [
+        "Contam-se da publicação em boletim, dispensada ciência.",
+        "Contam-se de modo CONTÍNUO. Cumprimento de sanção e recolhimento começam a contar do início do cumprimento; demais prazos correm da CIÊNCIA OFICIAL, excluindo-se o dia do começo e incluindo-se o do vencimento; prazo prorroga-se ao primeiro dia útil seguinte se cair em dia sem expediente.",
+        "Contam-se em dias úteis, observando expediente forense.",
+        "Sem qualquer prorrogação."
+      ],
+      "correta": 1,
+      "explicacao": "Instrução ao art. 89: regime de prazos do RDPM.",
+      "tags": [
+        "prazos",
+        "contagem"
+      ]
+    },
+    {
+      "id": "rdpm-150",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 13",
+      "enunciado": "Sobre AVOCAÇÃO do Procedimento Disciplinar (Anexo III da Portaria CORREGPM):",
+      "alternativas": [
+        "É vedada, em respeito ao juiz natural.",
+        "As autoridades funcionalmente SUPERIORES à instauradora poderão AVOCAR o PD, declarando os motivos em despacho nos autos.",
+        "Somente o Cmt G pode avocar.",
+        "Depende de parecer do Corregedor PM."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 13: avocação por superior funcional, com despacho motivado.",
+      "tags": [
+        "procedimento",
+        "avocacao"
+      ]
+    },
+    {
+      "id": "rdpm-151",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 99",
+      "enunciado": "\"Dirigir viatura policial com imprudência, imperícia, negligência, ou SEM HABILITAÇÃO LEGAL\" é transgressão:",
+      "alternativas": [
+        "Leve, salvo dano material.",
+        "Média.",
+        "GRAVE, em qualquer hipótese.",
+        "Variável conforme resultado."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 99: GRAVE. Habilitação legal = CTB.",
+      "tags": [
+        "transgressao",
+        "viatura"
+      ]
+    },
+    {
+      "id": "rdpm-152",
+      "subtema": "Sanções",
+      "artigo": "Art. 23, II, e",
+      "enunciado": "Sd PM \"X\" foi condenado por deserção (art. 187 CPM) e cumpriu a pena. Nos termos do art. 23, II, \"e\", do RDPM:",
+      "alternativas": [
+        "Caberá processo regular.",
+        "DEMISSÃO sem processo regular — mera execução de efeito da sentença.",
+        "Será aplicada expulsão.",
+        "Permanecerá no serviço ativo."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 23, II, \"e\" + instrução. Mesma lógica da \"f\".",
+      "tags": [
+        "demissao",
+        "desercao"
+      ]
+    },
+    {
+      "id": "rdpm-153",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 8º, XII",
+      "enunciado": "Em caso de EXTRAVIO ou gozo de AFASTAMENTO regulamentar do acusado durante o PD:",
+      "alternativas": [
+        "O prazo permanece em curso.",
+        "O prazo ficará SUSPENSO, dando prosseguimento à contagem no dia útil seguinte ao término do afastamento.",
+        "Reinicia integralmente após o retorno.",
+        "Procedimento é arquivado."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 8º, XII. Mesma lógica do art. 29, §2º.",
+      "tags": [
+        "procedimento",
+        "suspensao"
+      ]
+    },
+    {
+      "id": "rdpm-154",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 8º, XIII",
+      "enunciado": "Transferência do acusado para a INATIVIDADE no curso do PD:",
+      "alternativas": [
+        "Procedimento automaticamente arquivado.",
+        "Procedimento terá curso normal, mas a solução competirá às autoridades dos incisos II e III do art. 31 do RDPM (Sec. Seg./Cmt G ou Subcmt PM).",
+        "Autos remetidos à Justiça Militar.",
+        "Suspende-se até retorno à ativa."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 8º, XIII. Reflete art. 31, §1º (inativos recorrem ao Cmt G/Sec. Seg.).",
+      "tags": [
+        "procedimento",
+        "inatividade"
+      ]
+    },
+    {
+      "id": "rdpm-155",
+      "subtema": "Sanções",
+      "artigo": "Art. 19, instrução",
+      "enunciado": "Sobre a CONVERSÃO PARCIAL da permanência disciplinar em serviço extraordinário (art. 19, RDPM + instrução):",
+      "alternativas": [
+        "É vedada — conversão sempre total.",
+        "Sanção ≤ 5 dias pode ser parcialmente convertida (parte permanência, parte serviço extraordinário); sanção > 5 dias pode pleitear conversão até o limite de 5 dias, que será cumprida na FASE FINAL.",
+        "Conversão parcial sem limite quantitativo.",
+        "Apenas se transgressor for primário."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 19, §1º + §2º + instrução. Limite de conversão: 5 dias.",
+      "tags": [
+        "sancoes",
+        "conversao-parcial"
+      ]
+    },
+    {
+      "id": "rdpm-156",
+      "subtema": "Disposições gerais",
+      "artigo": "Art. 4º, par. único",
+      "enunciado": "Nos casos de promoção a Asp-Of, Al-Of, 3º Sgt, Cb, ou nomeação de oficiais/al-of/admissão de soldados (art. 4º, par. único, RDPM), para efeito de antiguidade:",
+      "alternativas": [
+        "Prevalecerá a data do ato administrativo.",
+        "Prevalecerá a ORDEM DE CLASSIFICAÇÃO obtida nos respectivos cursos ou concursos.",
+        "Maior idade.",
+        "Tempo de efetivo serviço pré-existente."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 4º, par. único: critério meritocrático em atos coletivos.",
+      "tags": [
+        "antiguidade",
+        "classificacao"
+      ]
+    },
+    {
+      "id": "rdpm-157",
+      "subtema": "Sanções",
+      "artigo": "Art. 42, I",
+      "enunciado": "As faltas LEVES (art. 42, I, RDPM) são puníveis:",
+      "alternativas": [
+        "Com ADVERTÊNCIA ou REPREENSÃO; na reincidência específica, com PERMANÊNCIA DISCIPLINAR de até 5 dias.",
+        "Apenas com advertência verbal.",
+        "Com repreensão e detenção em reincidência.",
+        "Permanência de até 3 dias em qualquer hipótese."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 42, I + instrução: leve = AD/RP. Reincidência ESPECÍFICA → permanência obrigatória.",
+      "tags": [
+        "sancoes",
+        "leve"
+      ]
+    },
+    {
+      "id": "rdpm-158",
+      "subtema": "Sanções",
+      "artigo": "Art. 42, II",
+      "enunciado": "As faltas MÉDIAS (art. 42, II, RDPM) são puníveis com permanência de até 8 dias e, na reincidência específica, permanência de até 15 dias. Sobre essa regra:",
+      "alternativas": [
+        "Vedada repreensão em faltas médias.",
+        "Pelo art. 16, par. único, é possível a aplicação de REPREENSÃO em faltas médias, desde que não haja reincidência específica; reincidência específica de média implica permanência em quantidade de dias SUPERIOR à anterior.",
+        "Cabe advertência em comportamento excelente.",
+        "Reincidência específica obriga detenção."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 42, II + instrução + art. 16, par. único.",
+      "tags": [
+        "sancoes",
+        "media"
+      ]
+    },
+    {
+      "id": "rdpm-159",
+      "subtema": "Sanções",
+      "artigo": "Art. 42, III",
+      "enunciado": "Sobre reincidência específica em faltas GRAVES (art. 42, III, RDPM + instrução):",
+      "alternativas": [
+        "Implica sanção MAIS SEVERA, quer em relação ao TIPO de sanção (passar de permanência para detenção), quer em relação à QUANTIDADE de dias.",
+        "Obriga detenção, vedada permanência.",
+        "Implica demissão sumária.",
+        "Sem agravação específica."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 42, III + instrução. Limites: permanência até 20 dias; detenção até 15 dias.",
+      "tags": [
+        "sancoes",
+        "grave",
+        "reincidencia"
+      ]
+    },
+    {
+      "id": "rdpm-160",
+      "subtema": "Aplicação",
+      "artigo": "Art. 43, instrução",
+      "enunciado": "Sobre a aprovação do ato sancionatório (instruções ao art. 43 do RDPM):",
+      "alternativas": [
+        "Pode ser realizada pela mesma pessoa que aplicou, em função distinta.",
+        "O ato sancionatório NÃO PODERÁ ser aprovado pela mesma pessoa que o aplicou, mesmo tendo sido praticado no exercício de função distinta.",
+        "Independe de aprovação.",
+        "Cabe ao Corregedor PM aprovar todos."
+      ],
+      "correta": 1,
+      "explicacao": "Instrução: vedação à autoaprovação, ainda em funções distintas. Princípio do controle hierárquico.",
+      "tags": [
+        "aplicacao",
+        "aprovacao"
+      ]
+    },
+    {
+      "id": "rdpm-161",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Art. 29, §4º",
+      "enunciado": "Descumprido o prazo de 90 dias para ciência ao signatário da comunicação (art. 29, §4º, RDPM):",
+      "alternativas": [
+        "Procedimento será anulado.",
+        "O signatário da comunicação poderá SOLICITAR, obedecida a via hierárquica, providências a respeito da solução.",
+        "Caberá representação direta ao Cmt G.",
+        "Configurar-se-á prescrição."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 29, §4º: accountability da autoridade perante o comunicante. Não anula nem causa prescrição.",
+      "tags": [
+        "procedimento",
+        "signatario"
+      ]
+    },
+    {
+      "id": "rdpm-162",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 80, caput",
+      "enunciado": "Em concurso de agentes no Conselho de Disciplina (art. 80, RDPM):",
+      "alternativas": [
+        "Cada conduta autônoma gera Conselho próprio.",
+        "Será instaurado APENAS UM processo.",
+        "Cada Cmt de OPM instaura Conselho separado.",
+        "Cmt G instaura, vedada delegação."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 80, caput: economia processual. §1º determina competência da autoridade superior comum.",
+      "tags": [
+        "conselho-disciplina",
+        "unidade-processual"
+      ]
+    },
+    {
+      "id": "rdpm-163",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 80, §2º",
+      "enunciado": "Existindo concurso ou continuidade infracional (art. 80, §2º, RDPM):",
+      "alternativas": [
+        "Procedimentos autônomos, vedada unificação.",
+        "TODOS os atos censuráveis devem constituir o libelo acusatório da portaria.",
+        "Apenas o ato mais grave constitui o libelo.",
+        "Apura-se em sindicância, dispensado o CD."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 80, §2º. Garante acusação completa, decisão única.",
+      "tags": [
+        "conselho-disciplina",
+        "concurso"
+      ]
+    },
+    {
+      "id": "rdpm-164",
+      "subtema": "Recursos",
+      "artigo": "Art. 57, §5º",
+      "enunciado": "O pedido de reconsideração de ato (art. 57, §5º, RDPM):",
+      "alternativas": [
+        "Pode conter alegações ofensivas, desde que fundamentadas.",
+        "Deve ser redigido de forma RESPEITOSA, precisando o objetivo e as razões, sem comentários ou insinuações, podendo ser acompanhado de documentos.",
+        "Pode ser verbal.",
+        "Dispensa fundamentação."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 57, §5º. Recurso desrespeitoso = não conhecimento OU sanção autônoma.",
+      "tags": [
+        "recursos",
+        "reconsideracao",
+        "forma"
+      ]
+    },
+    {
+      "id": "rdpm-165",
+      "subtema": "Sanções",
+      "artigo": "Art. 23, I",
+      "enunciado": "Sobre a aplicação da pena de DEMISSÃO ao OFICIAL (art. 23, I, RDPM):",
+      "alternativas": [
+        "Compete ao Cmt G por portaria.",
+        "Exige o devido processo legal previsto no §1º do art. 42 e §3º do art. 142 da CF, e §§ 4º e 5º do art. 138 da CE/SP; aplicável quando condenado por sentença passada em julgado a pena restritiva > 2 anos, perda da função pública, ou considerado moral/profissionalmente inidôneo por sentença no tribunal competente.",
+        "Mediante processo administrativo na OPM.",
+        "Pressupõe detenção prévia."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 23, I + instrução: demissão de OFICIAL exige PROCESSO JUDICIAL. Cf. art. 32 caput: competência do GOVERNADOR.",
+      "tags": [
+        "demissao",
+        "oficial"
+      ]
+    },
+    {
+      "id": "rdpm-166",
+      "subtema": "Deontologia",
+      "artigo": "Art. 8º, §3º",
+      "enunciado": "Aos militares do Estado da ATIVA (art. 8º, §3º, RDPM):",
+      "alternativas": [
+        "São permitidas manifestações coletivas reivindicatórias.",
+        "São PROIBIDAS manifestações coletivas sobre atos de superiores, de caráter reivindicatório e de cunho político-partidário, sujeitando-se as manifestações de caráter individual aos preceitos do RDPM.",
+        "Permitidas fora do horário de serviço.",
+        "Liberdade plena."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 8º, §3º. Manifestações individuais sujeitas ao RDPM. Cf. nº 125 e 126 do art. 13.",
+      "tags": [
+        "deontologia",
+        "manifestacoes"
+      ]
+    },
+    {
+      "id": "rdpm-167",
+      "subtema": "Deontologia",
+      "artigo": "Art. 8º, §4º",
+      "enunciado": "Ao militar do Estado INATIVO (art. 8º, §4º, RDPM):",
+      "alternativas": [
+        "É vedado opinar sobre qualquer assunto político.",
+        "É ASSEGURADO o direito de opinar sobre assunto político e externar pensamento e conceito ideológico, filosófico ou relativo a matéria pertinente ao interesse público, devendo observar os preceitos da ética policial-militar e preservar os valores policiais-militares em suas manifestações essenciais.",
+        "Permitida qualquer manifestação, sem ética.",
+        "Sujeito às mesmas vedações do ativo."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 8º, §4º + arts. 42 e 142 CF. Liberdade ampliada, mas com limites éticos.",
+      "tags": [
+        "deontologia",
+        "inativo",
+        "manifestacoes"
+      ]
+    },
+    {
+      "id": "rdpm-168",
+      "subtema": "Deontologia",
+      "artigo": "Art. 8º, §2º",
+      "enunciado": "Compete ao Cmt de Unidade e de Subunidade destacada (art. 8º, §2º, RDPM):",
+      "alternativas": [
+        "Inspecionar bens pessoais dos subordinados a qualquer tempo.",
+        "Fiscalizar os subordinados que apresentarem sinais exteriores de riqueza incompatíveis com a remuneração do respectivo cargo, fazendo-os comprovar a origem de seus bens, mediante instauração de procedimento administrativo, observada a legislação específica.",
+        "Investigar a origem dos bens de qualquer militar do Estado.",
+        "Apurar enriquecimento ilícito apenas após denúncia formal."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 8º, §2º + instrução: legislação específica = Lei 8.429/92 (improbidade). Apura mediante procedimento administrativo.",
+      "tags": [
+        "deveres",
+        "sinais-riqueza",
+        "improbidade"
+      ]
+    },
+    {
+      "id": "rdpm-169",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nºs 17-23",
+      "enunciado": "Considere as condutas: I — receber vantagem indevida em razão de ocorrência (nº 17); II — receber objeto/valor por proprietário de bem objeto da ocorrência (nº 18); III — dar/receber/pedir gratificação para retardar/apressar ato (nº 23). Estas condutas são classificadas pelo RDPM como:",
+      "alternativas": [
+        "Todas como leves, salvo reincidência.",
+        "Todas como médias.",
+        "Todas como GRAVES, observada a Lei 8.429/92 para procedimentos complementares.",
+        "Variáveis conforme valor."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nºs 17, 18, 23 (todos G). Instrução: aplicar também Lei 8.429/92 (improbidade administrativa).",
+      "tags": [
+        "transgressao",
+        "probidade"
+      ]
+    },
+    {
+      "id": "rdpm-170",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 11",
+      "enunciado": "\"Publicar, divulgar ou contribuir para a divulgação irrestrita de fatos, documentos ou assuntos administrativos ou técnicos de natureza policial, militar ou judiciária, que possam concorrer para o desprestígio da Polícia Militar, ferir a hierarquia ou a disciplina, comprometer a segurança da sociedade e do Estado ou violar a honra e a imagem de pessoa\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Variável conforme alcance da divulgação."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 11: GRAVE. Distingue-se do nº 128 (mais brando — leve), que trata de mera \"discussão\" de assuntos por veículo de comunicação.",
+      "tags": [
+        "transgressao",
+        "sigilo",
+        "divulgacao"
+      ]
+    },
+    {
+      "id": "rdpm-171",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 31",
+      "enunciado": "\"Dar, por escrito ou verbalmente, ordem manifestamente ilegal que possa acarretar responsabilidade ao subordinado, ainda que não chegue a ser cumprida\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE, em qualquer hipótese.",
+        "Não constitui transgressão se a ordem não for cumprida."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 31: GRAVE. Independe do cumprimento. Tutela à hierarquia legítima — a ordem deve ser legal.",
+      "tags": [
+        "transgressao",
+        "ordem-ilegal"
+      ]
+    },
+    {
+      "id": "rdpm-172",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 52",
+      "enunciado": "\"Tendo conhecimento de transgressão disciplinar, deixar de apurá-la\" é, segundo o RDPM, transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Não constitui transgressão se a falta for leve."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 52: GRAVE. Cf. nº 51 (deixar de fazer a comunicação disciplinar — média) e nº 53 (deixar de punir o transgressor sem causa de justificação — média).",
+      "tags": [
+        "transgressao",
+        "apuracao",
+        "grave"
+      ]
+    },
+    {
+      "id": "rdpm-173",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 51",
+      "enunciado": "\"Deixar de fazer a devida comunicação disciplinar\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "MÉDIA.",
+        "Grave.",
+        "Não é transgressão se o fato for leve."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 13, nº 51: MÉDIA. Cf. nº 52 (deixar de apurar — grave) e nº 53 (deixar de punir — média). Escala de gravidade pela posição da autoridade.",
+      "tags": [
+        "transgressao",
+        "comunicacao"
+      ]
+    },
+    {
+      "id": "rdpm-174",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 85",
+      "enunciado": "\"Dormir em serviço de policiamento, vigilância ou segurança de pessoas ou instalações\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Variável conforme tempo de sono."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 85: GRAVE. Cf. nº 86 (dormir em outros serviços — média). Especificidade do serviço armado/de segurança eleva a gravidade.",
+      "tags": [
+        "transgressao",
+        "dormir-servico"
+      ]
+    },
+    {
+      "id": "rdpm-175",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 86",
+      "enunciado": "\"Dormir em serviço, salvo quando autorizado\" (fora das hipóteses do nº 85) é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "MÉDIA.",
+        "Grave.",
+        "Não é transgressão."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 13, nº 86: MÉDIA. Aplicação do princípio da especificidade: o nº 86 só incide quando NÃO presente hipótese do nº 85 (mais grave). Cf. instrução.",
+      "tags": [
+        "transgressao",
+        "dormir",
+        "especificidade"
+      ]
+    },
+    {
+      "id": "rdpm-176",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nºs 94-97",
+      "enunciado": "Considere: I — portar/possuir arma em desacordo com normas (nº 94); II — andar ostensivamente armado em trajes civis, não em serviço (nº 95); III — disparar arma por imprudência/negligência/imperícia ou desnecessariamente (nº 96); IV — não obedecer regras básicas de segurança ou não ter cautela na guarda de arma (nº 97). Estas transgressões são, respectivamente:",
+      "alternativas": [
+        "Leve, leve, média, média.",
+        "Média, média, grave, grave.",
+        "GRAVE, GRAVE, GRAVE, GRAVE.",
+        "Grave, grave, média, leve."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nºs 94-97: TODAS GRAVES. Tutela à integridade física da população e do próprio militar.",
+      "tags": [
+        "transgressao",
+        "armamento"
+      ]
+    },
+    {
+      "id": "rdpm-177",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 125",
+      "enunciado": "\"Frequentar ou fazer parte de SINDICATOS, associações profissionais com caráter de sindicato, ou de associações cujos estatutos não estejam de conformidade com a lei\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Não é transgressão por se tratar de direito constitucional."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 125: GRAVE. Composição com a vedação constitucional de sindicalização do militar (art. 142, §3º, IV, CF, aplicável aos militares estaduais via art. 42).",
+      "tags": [
+        "transgressao",
+        "sindicalizacao"
+      ]
+    },
+    {
+      "id": "rdpm-178",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 129",
+      "enunciado": "\"Frequentar lugares incompatíveis com o decoro social ou policial-militar, salvo por motivo de serviço\" é transgressão:",
+      "alternativas": [
+        "Leve, salvo flagrante público.",
+        "MÉDIA.",
+        "Grave, em qualquer hipótese.",
+        "Sem classificação fixa."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 13, nº 129: MÉDIA. Instrução: \"lugar incompatível\" = (1) onde ocorra ato ofensivo aos bons costumes/legislação; ou (2) comportamento ofensivo aos valores/deveres (arts. 7º e 8º).",
+      "tags": [
+        "transgressao",
+        "decoro"
+      ]
+    },
+    {
+      "id": "rdpm-179",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 35",
+      "enunciado": "\"Deixar de comunicar ao superior a execução de ordem dele recebida, no mais curto prazo possível\" é transgressão:",
+      "alternativas": [
+        "LEVE.",
+        "Média.",
+        "Grave.",
+        "Não é transgressão se a execução for satisfatória."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 13, nº 35: LEVE. Falta de feedback ao superior. Distingue-se de \"não cumprir ordem\" (nº 29 — grave).",
+      "tags": [
+        "transgressao",
+        "ordem-execucao"
+      ]
+    },
+    {
+      "id": "rdpm-180",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 76",
+      "enunciado": "\"Faltar a qualquer ato em que deva tomar parte ou assistir, ou ainda, retirar-se antes de seu encerramento sem a devida autorização\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "MÉDIA.",
+        "Grave.",
+        "Variável."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 13, nº 76: MÉDIA. Distingue-se do nº 75 (faltar ao expediente/serviço escalado — grave). Atos solenes, reuniões, treinamentos = média.",
+      "tags": [
+        "transgressao",
+        "ato",
+        "ausencia"
+      ]
+    },
+    {
+      "id": "rdpm-181",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 79",
+      "enunciado": "\"Chegar atrasado ao expediente, ao serviço para o qual esteja nominalmente escalado ou a qualquer ato em que deva tomar parte ou assistir\" é transgressão:",
+      "alternativas": [
+        "LEVE.",
+        "Média.",
+        "Grave.",
+        "Variável conforme tempo de atraso."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 13, nº 79: LEVE. Atraso (chegar tarde) ≠ falta (não comparecer — nº 75/76).",
+      "tags": [
+        "transgressao",
+        "atraso"
+      ]
+    },
+    {
+      "id": "rdpm-182",
+      "subtema": "Deontologia",
+      "artigo": "Art. 8º, XXVI",
+      "enunciado": "É dever do militar do Estado (art. 8º, XXVI, RDPM):",
+      "alternativas": [
+        "Apurar atos delituosos no ambiente carcerário.",
+        "RESPEITAR a integridade física, moral e psíquica da pessoa do preso ou de quem seja objeto de incriminação.",
+        "Aplicar correção física moderada em caso de resistência.",
+        "Manter contato direto com a família do preso, dispensada formalização."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 8º, XXVI: dever ético. Vedação ao art. 13, nºs 3, 4 (agredir preso = grave) e ao crime de tortura.",
+      "tags": [
+        "deveres",
+        "preso",
+        "integridade"
+      ]
+    },
+    {
+      "id": "rdpm-183",
+      "subtema": "Deontologia",
+      "artigo": "Art. 8º, XXIX",
+      "enunciado": "É dever do militar do Estado (art. 8º, XXIX, RDPM):",
+      "alternativas": [
+        "Atuar com discricionariedade ampla na função pública.",
+        "OBSERVAR os direitos e garantias fundamentais, agindo com isenção, equidade e absoluto respeito pelo ser humano, não usando sua condição de autoridade pública para a prática de arbitrariedade.",
+        "Aplicar a lei conforme entendimento pessoal.",
+        "Privilegiar a eficiência sobre os direitos individuais."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 8º, XXIX: dever ético central. Equilíbrio entre eficácia da função e respeito a direitos fundamentais.",
+      "tags": [
+        "deveres",
+        "direitos-fundamentais"
+      ]
+    },
+    {
+      "id": "rdpm-184",
+      "subtema": "Deontologia",
+      "artigo": "Art. 8º, XXX",
+      "enunciado": "É dever do militar do Estado (art. 8º, XXX, RDPM):",
+      "alternativas": [
+        "Exercer a função pública com discricionariedade, podendo aceitar vantagens convencionais.",
+        "EXERCER a função pública com honestidade, NÃO ACEITANDO vantagem indevida, de qualquer espécie.",
+        "Receber vantagens em situações específicas, conforme o costume.",
+        "Aceitar vantagens de baixo valor pecuniário."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 8º, XXX: dever de honestidade. Composição com art. 13, nºs 17, 18, 23 (recebimento de vantagens = grave).",
+      "tags": [
+        "deveres",
+        "honestidade"
+      ]
+    },
+    {
+      "id": "rdpm-185",
+      "subtema": "Deontologia",
+      "artigo": "Art. 8º, XXXV",
+      "enunciado": "É dever do militar do Estado (art. 8º, XXXV, RDPM):",
+      "alternativas": [
+        "Atuar exclusivamente quando em serviço.",
+        "ATUAR onde estiver, mesmo não estando em serviço, para preservar a ordem pública ou prestar socorro, desde que não exista, naquele momento, força de serviço suficiente.",
+        "Atuar fora de serviço apenas em casos de homicídio.",
+        "Atuar fora de serviço apenas mediante prévia comunicação ao Comando."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 8º, XXXV: dever subsidiário em folga. Condição: ausência de força de serviço suficiente.",
+      "tags": [
+        "deveres",
+        "folga",
+        "ordem-publica"
+      ]
+    },
+    {
+      "id": "rdpm-186",
+      "subtema": "Sanções",
+      "artigo": "Art. 18, §1º",
+      "enunciado": "Na hipótese de CONVERSÃO da permanência disciplinar em serviço extraordinário (art. 18, §1º, RDPM), a classificação do comportamento do militar:",
+      "alternativas": [
+        "Será baseada na sanção de serviço extraordinário (mais branda).",
+        "Será feita com base na sanção de PERMANÊNCIA DISCIPLINAR.",
+        "Não sofrerá alteração.",
+        "Será automaticamente elevada em um grau."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 18, §1º: classificação pela sanção ORIGINÁRIA (permanência), ainda que convertida. A conversão é forma de cumprimento, não substituição da sanção.",
+      "tags": [
+        "sancoes",
+        "conversao",
+        "comportamento"
+      ]
+    },
+    {
+      "id": "rdpm-187",
+      "subtema": "Sanções",
+      "artigo": "Art. 18, §4º + instrução",
+      "enunciado": "O pedido de conversão da permanência em serviço extraordinário (art. 18, §4º, RDPM):",
+      "alternativas": [
+        "Pode ser cumulado com pedido de reconsideração.",
+        "ELIDE o pedido de reconsideração da sanção aplicada, ficando possibilitada a representação quanto à negativa da conversão.",
+        "Suspende o prazo para reconsideração.",
+        "Substitui qualquer outro recurso."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 18, §4º + instrução: o pedido de conversão IMPEDE a reconsideração da sanção. Cabe representação contra a NEGATIVA da conversão.",
+      "tags": [
+        "sancoes",
+        "conversao",
+        "recursos"
+      ]
+    },
+    {
+      "id": "rdpm-188",
+      "subtema": "Recolhimento disciplinar",
+      "artigo": "Art. 26, §4º + instrução",
+      "enunciado": "Sobre a contagem do prazo de 5 dias do recolhimento disciplinar (art. 26, §4º, RDPM):",
+      "alternativas": [
+        "Conta em dias úteis, observando expediente.",
+        "Considera-se o horário em que se iniciou o recolhimento para contagem do tempo em dias, por períodos de 24 horas; o tempo de recolhimento NÃO será descontado da sanção aplicada ao final da apuração.",
+        "Conta-se da publicação em boletim.",
+        "É descontado da sanção final."
+      ],
+      "correta": 1,
+      "explicacao": "Instrução ao art. 26, §4º: contagem em 24h (idêntica ao cumprimento de sanção — art. 52, §1º). Recolhimento é cautelar e não desconta da sanção definitiva.",
+      "tags": [
+        "recolhimento",
+        "contagem"
+      ]
+    },
+    {
+      "id": "rdpm-189",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 1º",
+      "enunciado": "As transgressões que NÃO exigirem instauração de sindicância, PAD, CD ou CJ serão apuradas (Anexo III da Portaria CORREGPM):",
+      "alternativas": [
+        "Por procedimento de polícia judiciária militar.",
+        "Por meio do PROCEDIMENTO DISCIPLINAR (PD) a que se referem os arts. 27 a 29 do RDPM.",
+        "Por sindicância sumária.",
+        "Pelo Corregedor PM diretamente."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 1º: PD é o rito ordinário para transgressões que não demandem processo mais complexo (sindicância/PAD/CD/CJ).",
+      "tags": [
+        "procedimento",
+        "rito-ordinario"
+      ]
+    },
+    {
+      "id": "rdpm-190",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 2º, §2º",
+      "enunciado": "A comunicação disciplinar pode ser DISPENSADA, nos termos do Anexo III da Portaria CORREGPM, quando:",
+      "alternativas": [
+        "A transgressão for de natureza leve.",
+        "A transgressão ocorrer na presença da autoridade competente, for contra esta, ou a ela chegar ao conhecimento por qualquer veículo idôneo de comunicação social.",
+        "Houver flagrante delito.",
+        "Mediante despacho do Comandante Geral."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 2º, §2º: três hipóteses de dispensa. Reforça o art. 27, par. único do RDPM (presenciar = formalizar direto).",
+      "tags": [
+        "procedimento",
+        "dispensa-comunicacao"
+      ]
+    },
+    {
+      "id": "rdpm-191",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 2º, §3º",
+      "enunciado": "Na hipótese de transgressão disciplinar praticada por militar do Estado INATIVO, a documentação (Anexo III da Portaria CORREGPM):",
+      "alternativas": [
+        "Será encaminhada ao Cmt da OPM onde o inativo está vinculado.",
+        "Deve ser remetida ao Comandante Geral, no caso do faltoso ser Oficial, ou ao Subcomandante PM, no caso do faltoso ser Praça, por intermédio da Corregedoria PM.",
+        "Arquiva-se em razão da inatividade.",
+        "Remete-se à Justiça Militar."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 2º, §3º. Compatível com art. 31, §1º, do RDPM: inativos competem ao Cmt G/Sec. Seg. (oficial) ou Subcmt PM (praça).",
+      "tags": [
+        "procedimento",
+        "inativo"
+      ]
+    },
+    {
+      "id": "rdpm-192",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 4º",
+      "enunciado": "Sobre a ANÁLISE PRELIMINAR realizada pela autoridade competente, ao receber a comunicação disciplinar (Anexo III da Portaria CORREGPM):",
+      "alternativas": [
+        "Caberá apenas instaurar o procedimento ou arquivar.",
+        "Por meio de despacho motivado, decidirá: I — restituir à origem para complementação; II — arquivar (causa de justificação do art. 34 ou inexistência de transgressão); III — encaminhar ao acusado para manifestação preliminar (3 dias); ou IV — formular acusação sem manifestação prévia, com registro no Termo Acusatório.",
+        "Pressupõe a oitiva prévia do acusado em qualquer hipótese.",
+        "Compete privativamente ao Cmt de Unidade."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 4º: 4 saídas processuais. Inciso II reflete a inexistência da transgressão (arquivamento) ou causa de justificação.",
+      "tags": [
+        "procedimento",
+        "analise-preliminar"
+      ]
+    },
+    {
+      "id": "rdpm-193",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 7º",
+      "enunciado": "Sobre o prazo para SOLUÇÃO do Procedimento Disciplinar (Anexo III, art. 7º):",
+      "alternativas": [
+        "15 dias prorrogáveis.",
+        "30 (trinta) dias, incluindo a instrução, podendo ser prorrogado por mais 15 (quinze) dias, motivando tal ato no enquadramento disciplinar.",
+        "45 dias improrrogáveis.",
+        "60 dias prorrogáveis por igual período."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 7º (reflexo do art. 29, §1º do RDPM): 30 + 15. Motivação no enquadramento (não em despacho autônomo).",
+      "tags": [
+        "procedimento",
+        "prazo-solucao"
+      ]
+    },
+    {
+      "id": "rdpm-194",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 8º, II",
+      "enunciado": "Sobre o horário dos atos procedimentais do PD (Anexo III da Portaria CORREGPM):",
+      "alternativas": [
+        "Devem ser realizados em horário comercial, em dias úteis.",
+        "Serão PÚBLICOS e poderão ser realizados em qualquer horário, procurando-se evitar prejuízo ao serviço a que o militar do Estado acusado deva concorrer.",
+        "Apenas em horário diurno, das 6h às 18h.",
+        "Conforme conveniência exclusiva da autoridade competente."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 8º, II: publicidade + flexibilidade de horário, evitando prejuízo ao serviço.",
+      "tags": [
+        "procedimento",
+        "horario"
+      ]
+    },
+    {
+      "id": "rdpm-195",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 8º, X",
+      "enunciado": "No curso da instrução do PD (Anexo III, art. 8º, X):",
+      "alternativas": [
+        "A autoridade deve admitir todos os requerimentos da defesa.",
+        "A autoridade competente ou o Presidente INDEFERIRÁ, motivadamente, o requerimento de qualquer prova ilegal, tumultuária, impertinente ou protelatória.",
+        "Provas ilegais são admitidas se a defesa concordar.",
+        "Apenas o Cmt G pode indeferir prova."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 8º, X: filtro do contraditório. Provas inúteis ou ilícitas são indeferidas com motivação.",
+      "tags": [
+        "procedimento",
+        "provas"
+      ]
+    },
+    {
+      "id": "rdpm-196",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 8º, XI",
+      "enunciado": "Por conveniência da disciplina, da ordem pública ou da ordem administrativa militar (Anexo III, art. 8º, XI):",
+      "alternativas": [
+        "A autoridade pode encerrar o procedimento sem decisão.",
+        "A autoridade competente ou o Presidente poderá declarar SIGILOSO o Procedimento Disciplinar, garantida sempre a presença do militar do Estado acusado e/ou do seu defensor.",
+        "Sigilo absoluto, inclusive em relação à defesa.",
+        "Apenas o Cmt G pode declarar sigilo."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 8º, XI: sigilo motivado, ressalvado contraditório (acusado + defensor têm acesso).",
+      "tags": [
+        "procedimento",
+        "sigilo"
+      ]
+    },
+    {
+      "id": "rdpm-197",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 11",
+      "enunciado": "Sobre o RELATÓRIO do Presidente do PD (Anexo III, art. 11):",
+      "alternativas": [
+        "É facultativo, podendo ser substituído por mero despacho de remessa.",
+        "Emitirá relatório sobre as provas produzidas, MANIFESTANDO-SE sobre a existência ou não da transgressão disciplinar imputada, encaminhando o PD à autoridade competente para julgamento e solução.",
+        "Decide diretamente sobre a aplicação da sanção.",
+        "Vincula a autoridade competente para a solução."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 11. Relatório opinativo. Decisão final cabe à autoridade competente (art. 12).",
+      "tags": [
+        "procedimento",
+        "relatorio"
+      ]
+    },
+    {
+      "id": "rdpm-198",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 14",
+      "enunciado": "Sobre a ciência ao signatário da comunicação disciplinar (Anexo III, art. 14):",
+      "alternativas": [
+        "Imediata após o ato disciplinar.",
+        "Após a APROVAÇÃO do ato disciplinar, no prazo máximo de 90 (noventa) dias, a contar da data da comunicação disciplinar.",
+        "Em até 30 dias do término do procedimento.",
+        "Dispensada quando o procedimento for arquivado."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 14 (reflexo do art. 29, §3º do RDPM): 90 dias da comunicação. Ciência APÓS aprovação do ato.",
+      "tags": [
+        "procedimento",
+        "signatario"
+      ]
+    },
+    {
+      "id": "rdpm-199",
+      "subtema": "Recursos",
+      "artigo": "Art. 57, §4º",
+      "enunciado": "Se o subordinado NÃO tiver oficialmente conhecimento da solução do pedido de reconsideração após 30 dias contados da data de sua solicitação (art. 57, §4º, RDPM):",
+      "alternativas": [
+        "Considera-se indeferido tacitamente, sem recurso.",
+        "Poderá interpor recurso hierárquico no prazo previsto no item 1 do §3º do art. 58 (5 dias).",
+        "Deverá aguardar mais 30 dias.",
+        "Poderá ajuizar mandado de segurança diretamente."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 57, §4º: regra do silêncio administrativo. Decurso de 30 dias sem solução = abre prazo para hierárquico.",
+      "tags": [
+        "recursos",
+        "silencio",
+        "hierarquico"
+      ]
+    },
+    {
+      "id": "rdpm-200",
+      "subtema": "Recursos",
+      "artigo": "Art. 58, §5º",
+      "enunciado": "O recurso hierárquico, nos termos do art. 58, §5º, do RDPM:",
+      "alternativas": [
+        "Pode versar sobre qualquer matéria, inclusive estranha ao ato originário.",
+        "NÃO poderá tratar de assunto estranho ao ato ou fato que o tenha motivado, nem versar sobre matéria impertinente ou fútil.",
+        "Pode tratar de matéria impertinente, desde que de interesse público.",
+        "Versa apenas sobre matéria de fato, não sobre direito."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 58, §5º: vinculação temática ao ato originário. Matéria impertinente/fútil = não conhecimento.",
+      "tags": [
+        "recursos",
+        "hierarquico",
+        "limites"
+      ]
+    },
+    {
+      "id": "rdpm-201",
+      "subtema": "Recursos",
+      "artigo": "Art. 60",
+      "enunciado": "Solucionados os recursos disciplinares e havendo sanção a cumprir (art. 60, RDPM), o militar do Estado iniciará o cumprimento no prazo de 3 dias:",
+      "alternativas": [
+        "Apenas após solução do recurso hierárquico, em todas as hipóteses.",
+        "I — desde que não interposto recurso hierárquico, no caso de solução do pedido de reconsideração; ou II — após solucionado o recurso hierárquico.",
+        "Imediatamente, dispensados os 3 dias.",
+        "Em até 10 dias após cumprida a publicação."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 60, I e II: duas hipóteses de início. Distingue-se do prazo de 5 dias do art. 52 (quando não há recurso).",
+      "tags": [
+        "recursos",
+        "cumprimento"
+      ]
+    },
+    {
+      "id": "rdpm-202",
+      "subtema": "Revisão de atos",
+      "artigo": "Art. 62, §1º",
+      "enunciado": "A anulação de sanção administrativa disciplinar (art. 62, §1º, RDPM) somente poderá ser feita no prazo de:",
+      "alternativas": [
+        "1 ano da publicação.",
+        "3 anos da publicação.",
+        "5 (cinco) ANOS, a contar da data da publicação do ato que se pretende invalidar.",
+        "10 anos da publicação."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 62, §1º: 5 anos. Mesmo prazo do art. 85 (prescrição). Decadência da pretensão revisional.",
+      "tags": [
+        "revisao",
+        "anulacao",
+        "prazo"
+      ]
+    },
+    {
+      "id": "rdpm-203",
+      "subtema": "Revisão de atos",
+      "artigo": "Art. 62, §2º",
+      "enunciado": "Os atos de revisão (retificação, atenuação, agravação ou anulação) previstos no art. 62 do RDPM:",
+      "alternativas": [
+        "Independem de motivação, em razão da discricionariedade.",
+        "Deverão ser motivados e publicados.",
+        "Apenas a anulação exige motivação.",
+        "Sujeitam-se a recurso ao Cmt G."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 62, §2º: ATOS MOTIVADOS E PUBLICADOS. Princípio da publicidade e motivação.",
+      "tags": [
+        "revisao",
+        "motivacao"
+      ]
+    },
+    {
+      "id": "rdpm-204",
+      "subtema": "Recursos",
+      "artigo": "Art. 65, par. único",
+      "enunciado": "Pelo princípio da NON REFORMATIO IN PEJUS no RDPM (art. 65, par. único):",
+      "alternativas": [
+        "A autoridade superior poderá agravar a sanção, se entender insuficiente.",
+        "NÃO caberá agravamento da sanção em razão da interposição de recurso disciplinar.",
+        "A sanção é mantida obrigatoriamente, salvo nulidade absoluta.",
+        "O agravamento cabe apenas em falta grave reincidente."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 65, par. único: o recorrente não pode ser prejudicado pelo recurso. A autoridade pode agravar de OFÍCIO (art. 62, III), mas não em razão do recurso.",
+      "tags": [
+        "recursos",
+        "non-reformatio"
+      ]
+    },
+    {
+      "id": "rdpm-205",
+      "subtema": "Recompensas",
+      "artigo": "Art. 70, §2º",
+      "enunciado": "O cancelamento de sanções disciplinares (art. 70, §2º, RDPM):",
+      "alternativas": [
+        "Tem efeito retroativo, motivando revisão de outros atos administrativos.",
+        "NÃO terá efeito retroativo e não motivará o direito de revisão de outros atos administrativos decorrentes das sanções canceladas.",
+        "Vincula a Administração à reparação de prejuízos.",
+        "Apaga todos os efeitos jurídicos das sanções desde a publicação."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 70, §2º: efeito EX NUNC. Distingue-se da anulação (art. 66 — efeito ex tunc).",
+      "tags": [
+        "recompensas",
+        "cancelamento",
+        "efeitos"
+      ]
+    },
+    {
+      "id": "rdpm-206",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 9",
+      "enunciado": "\"Utilizar-se do anonimato para fins ilícitos\" é, segundo o RDPM, transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Não é transgressão por se tratar de exercício de direito."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 9: GRAVE. Distingue-se do direito ao anonimato vedado constitucionalmente (CF art. 5º, IV), aqui qualificado pelo fim ILÍCITO.",
+      "tags": [
+        "transgressao",
+        "anonimato"
+      ]
+    },
+    {
+      "id": "rdpm-207",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 19",
+      "enunciado": "\"Apropriar-se de bens pertencentes ao patrimônio público ou particular\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Variável conforme valor."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 19: GRAVE. Instrução: aplicar também Lei 8.429/92 (improbidade) para procedimentos complementares. Cf. correlação com peculato (CPM art. 303).",
+      "tags": [
+        "transgressao",
+        "apropriacao",
+        "improbidade"
+      ]
+    },
+    {
+      "id": "rdpm-208",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 41",
+      "enunciado": "\"Ofender a moral e os bons costumes por atos, palavras ou gestos\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Sem classificação fixa."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 41: GRAVE.",
+      "tags": [
+        "transgressao",
+        "moral",
+        "bons-costumes"
+      ]
+    },
+    {
+      "id": "rdpm-209",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 43",
+      "enunciado": "\"Desrespeitar, desconsiderar ou ofender pessoa por palavras, atos ou gestos, no atendimento de ocorrência policial ou em outras situações de serviço\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Variável."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 43: GRAVE. Tutela à dignidade do cidadão atendido. Composição com art. 8º, XXVI e XXIX (deveres éticos).",
+      "tags": [
+        "transgressao",
+        "desrespeito",
+        "cidadao"
+      ]
+    },
+    {
+      "id": "rdpm-210",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 38",
+      "enunciado": "\"Ofender, provocar ou desafiar superior ou subordinado hierárquico\" é, no RDPM, transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Sem classificação fixa."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 38: GRAVE. Tutela à hierarquia. Cf. nº 39 (luta corporal — grave) e nº 40 (desacreditar — média).",
+      "tags": [
+        "transgressao",
+        "ofensa",
+        "hierarquia"
+      ]
+    },
+    {
+      "id": "rdpm-211",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 39",
+      "enunciado": "\"Promover ou participar de LUTA CORPORAL com superior, igual ou subordinado hierárquico\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Não é transgressão por possível causa de justificação."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 39: GRAVE. Independe do papel (vítima, autor, mero participante). Causas de justificação podem afastar a punibilidade (art. 34).",
+      "tags": [
+        "transgressao",
+        "luta-corporal"
+      ]
+    },
+    {
+      "id": "rdpm-212",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 40",
+      "enunciado": "\"Procurar desacreditar seu superior ou subordinado hierárquico\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "MÉDIA.",
+        "Grave.",
+        "Variável."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 13, nº 40: MÉDIA. Distingue-se de ofender/desafiar (nº 38 — grave).",
+      "tags": [
+        "transgressao",
+        "desacreditar"
+      ]
+    },
+    {
+      "id": "rdpm-213",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 56",
+      "enunciado": "\"Deixar de manifestar-se nos processos que lhe forem encaminhados, exceto nos casos de suspeição ou impedimento, ou de absoluta falta de elementos, hipótese em que essas circunstâncias serão fundamentadas\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "MÉDIA.",
+        "Grave.",
+        "Sem classificação."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 13, nº 56: MÉDIA. Tutela à manifestação processual obrigatória. Suspeição/impedimento/falta de elementos = causa justificada, mas exige fundamentação.",
+      "tags": [
+        "transgressao",
+        "manifestacao-processual"
+      ]
+    },
+    {
+      "id": "rdpm-214",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 58",
+      "enunciado": "\"Omitir, em boletim de ocorrência, relatório ou qualquer documento, dados indispensáveis ao esclarecimento dos fatos\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Não é transgressão se omissão for irrelevante."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 58: GRAVE. Tutela à fé pública dos documentos oficiais. Cf. correlação com falsidade (CPM).",
+      "tags": [
+        "transgressao",
+        "omissao-documento"
+      ]
+    },
+    {
+      "id": "rdpm-215",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 61",
+      "enunciado": "\"Deixar de assumir, orientar ou auxiliar o atendimento de ocorrência, quando esta, por sua natureza ou amplitude, assim o exigir\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "Média.",
+        "GRAVE.",
+        "Não é transgressão sem dolo específico."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 13, nº 61: GRAVE. Tutela à efetividade da função policial-militar.",
+      "tags": [
+        "transgressao",
+        "ocorrencia"
+      ]
+    },
+    {
+      "id": "rdpm-216",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 70",
+      "enunciado": "\"Deixar de comunicar a alteração de dados de qualificação pessoal ou mudança de endereço residencial\" é transgressão:",
+      "alternativas": [
+        "LEVE.",
+        "Média.",
+        "Grave.",
+        "Sem classificação."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 13, nº 70: LEVE. Tutela ao controle administrativo de dados do efetivo.",
+      "tags": [
+        "transgressao",
+        "dados-pessoais"
+      ]
+    },
+    {
+      "id": "rdpm-217",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 105",
+      "enunciado": "\"Não ter o devido zelo, danificar, extraviar ou inutilizar, por ação ou omissão, bens ou animais pertencentes ao patrimônio público ou particular, que estejam ou não sob sua responsabilidade\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "MÉDIA.",
+        "Grave.",
+        "Sem classificação."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 13, nº 105: MÉDIA. Cf. nº 107 (retirar/servir-se de material da OPM — grave).",
+      "tags": [
+        "transgressao",
+        "patrimonio"
+      ]
+    },
+    {
+      "id": "rdpm-218",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 119",
+      "enunciado": "\"Apresentar-se, em qualquer situação, mal uniformizado, com o uniforme alterado ou diferente do previsto\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "MÉDIA.",
+        "Grave.",
+        "Sem classificação."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 13, nº 119: MÉDIA. Cf. nºs 120 (insígnia indevida — média), 121-123 (asseio e apresentação pessoal — leves).",
+      "tags": [
+        "transgressao",
+        "uniforme"
+      ]
+    },
+    {
+      "id": "rdpm-219",
+      "subtema": "Sanções",
+      "artigo": "Art. 14, VII + Art. 48",
+      "enunciado": "A expulsão (art. 14, VII, do RDPM) será aplicada (art. 48 do RDPM), em regra:",
+      "alternativas": [
+        "A qualquer transgressão de natureza grave, independentemente de processo regular.",
+        "Quando a praça policial-militar, independentemente da graduação ou função, for CONDENADA JUDICIALMENTE por crime que também constitua infração disciplinar grave e que denote incapacidade moral para a continuidade do exercício de suas funções; após trânsito em julgado + processo regular.",
+        "Por ato de ofício do Cmt G, dispensado processo.",
+        "Em substituição à demissão, em caso de reincidência."
+      ],
+      "correta": 1,
+      "explicacao": "Arts. 14, VII e 48 + instrução: cumulação de condenação judicial e processo regular disciplinar. Trânsito em julgado obrigatório.",
+      "tags": [
+        "expulsao",
+        "praca",
+        "condenacao"
+      ]
+    },
+    {
+      "id": "rdpm-220",
+      "subtema": "Sanções",
+      "artigo": "Art. 22, I",
+      "enunciado": "A REFORMA ADMINISTRATIVA DISCIPLINAR poderá ser aplicada AO OFICIAL (art. 22, I, RDPM):",
+      "alternativas": [
+        "Após sentença transitada em julgado no tribunal competente que o julgue incompatível ou indigno profissionalmente para com o oficialato, RESSALVADO o caso de demissão.",
+        "Por ato administrativo do Cmt G.",
+        "Em qualquer hipótese de transgressão grave.",
+        "Mediante simples manifestação do Corregedor PM."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 22, I + instrução: pressupõe sentença passada em julgado no tribunal competente. Ressalva: se a sentença determinar a demissão, NÃO há reforma.",
+      "tags": [
+        "reforma",
+        "oficial"
+      ]
+    },
+    {
+      "id": "rdpm-221",
+      "subtema": "Sanções",
+      "artigo": "Art. 16",
+      "enunciado": "A REPREENSÃO (art. 16, RDPM):",
+      "alternativas": [
+        "É verbal e dispensa publicação, igual à advertência.",
+        "É sanção feita por ESCRITO ao transgressor, publicada de forma reservada ou ostensiva, devendo sempre ser averbada nos assentamentos individuais; aplica-se às faltas de natureza LEVE e MÉDIA.",
+        "Aplica-se apenas a faltas leves.",
+        "Aplica-se apenas a faltas médias e graves."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 16 + par. único. Distingue-se da advertência (verbal, sem publicação, sem AI) e da permanência/detenção.",
+      "tags": [
+        "sancoes",
+        "repreensao"
+      ]
+    },
+    {
+      "id": "rdpm-222",
+      "subtema": "Sanções",
+      "artigo": "Art. 17",
+      "enunciado": "A PERMANÊNCIA DISCIPLINAR (art. 17, RDPM):",
+      "alternativas": [
+        "É a retenção do militar na OPM sem participar de atividade.",
+        "É a sanção em que o transgressor ficará na OPM, sem estar circunscrito a determinado compartimento, comparecendo a todos os atos de instrução e serviço, internos e externos; será cumprida na OPM designada pela autoridade que a aplicou.",
+        "Aplica-se apenas a praças.",
+        "Pressupõe condenação criminal."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 17 + par. único + instrução. Militar TRABALHA na permanência. Necessária fiscalização permanente de superior hierárquico ao punido.",
+      "tags": [
+        "sancoes",
+        "permanencia"
+      ]
+    },
+    {
+      "id": "rdpm-223",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 3º",
+      "enunciado": "Presente uma das excepcionais hipóteses de aplicação de recolhimento disciplinar (Anexo III, art. 3º):",
+      "alternativas": [
+        "A aplicação substitui o Procedimento Disciplinar.",
+        "Poderá ser aplicada a medida, nos termos do art. 26 do RDPM, SEM PREJUÍZO da elaboração imediata dos documentos, despachos e decisões explicitados nas normas do PD.",
+        "Suspende o PD pelo tempo de duração do recolhimento.",
+        "Dispensa o devido processo legal posterior."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 3º: cautela + PD concomitantes. Recolhimento é medida processual, não decisão de mérito.",
+      "tags": [
+        "procedimento",
+        "recolhimento"
+      ]
+    },
+    {
+      "id": "rdpm-224",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 6º",
+      "enunciado": "O prazo para entrega de defesa escrita pelo militar do Estado acusado, no PD (Anexo III, art. 6º), é de:",
+      "alternativas": [
+        "3 dias.",
+        "5 (cinco) dias, a contar da ciência e do recebimento do Termo Acusatório.",
+        "10 dias.",
+        "15 dias prorrogáveis."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 6º (reflexo do art. 28, §3º do RDPM): 5 dias do recebimento do Termo Acusatório.",
+      "tags": [
+        "procedimento",
+        "defesa",
+        "prazo"
+      ]
+    },
+    {
+      "id": "rdpm-225",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 6º, §1º",
+      "enunciado": "Apresentada a defesa pelo acusado, a autoridade (Anexo III, art. 6º, §1º):",
+      "alternativas": [
+        "Decidirá imediatamente, sem análise dos requerimentos.",
+        "Atenderá aos requerimentos, SE PERTINENTES.",
+        "Atenderá obrigatoriamente a todos os requerimentos.",
+        "Remeterá os autos ao Corregedor PM."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 6º, §1º: filtro de pertinência dos requerimentos. Composição com art. 8º, X (indeferimento motivado de prova ilegal/protelatória).",
+      "tags": [
+        "procedimento",
+        "requerimentos"
+      ]
+    },
+    {
+      "id": "rdpm-226",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 6º, §2º",
+      "enunciado": "A ausência de requerimentos da defesa ou a CONFISSÃO, no PD (Anexo III, art. 6º, §2º):",
+      "alternativas": [
+        "Importam em revelia, com aplicação automática da sanção.",
+        "Permitirá à autoridade competente passar diretamente à fase de julgamento, acarretando na imediata solução, observando-se, contudo, o disposto no inciso IV do art. 8º (verdade real).",
+        "Suspendem o procedimento.",
+        "Exigem aditamento do Termo Acusatório."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 6º, §2º + art. 8º, IV: julgamento imediato, ressalvada a busca da VERDADE REAL — argumento favorável ao acusado deve ser considerado mesmo se não usado.",
+      "tags": [
+        "procedimento",
+        "confissao"
+      ]
+    },
+    {
+      "id": "rdpm-227",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 8º, IV",
+      "enunciado": "Sobre o princípio da VERDADE REAL no PD (Anexo III, art. 8º, IV):",
+      "alternativas": [
+        "A autoridade deve ater-se exclusivamente às provas e argumentos invocados pela defesa.",
+        "O imperativo da busca da verdade real obriga a se considerar, em defesa do militar do Estado acusado, TODO ARGUMENTO QUE, POR INÉPCIA OU OUTRA RAZÃO, NÃO TENHA SIDO USADO, MAS QUE SEJA DE CONHECIMENTO.",
+        "Verdade real significa apenas prova plena.",
+        "Verdade real dispensa contraditório."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 8º, IV: autoridade ATIVA na busca da verdade. Argumentos favoráveis não invocados pela defesa devem ser considerados.",
+      "tags": [
+        "procedimento",
+        "verdade-real"
+      ]
+    },
+    {
+      "id": "rdpm-228",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 8º, V",
+      "enunciado": "A intimação do acusado e seu defensor para atos do PD (Anexo III, art. 8º, V):",
+      "alternativas": [
+        "Cabe somente por publicação em boletim.",
+        "Deverão ser intimados da realização de todos os atos do PD, por meio de correspondência registrada, publicação em DOE ou publicidade pessoal certificada nos autos, com a advertência de que o não comparecimento importará realização do ato sem a sua presença.",
+        "Verbal apenas, com testemunha.",
+        "Apenas o acusado, dispensado o defensor."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 8º, V: três formas alternativas de intimação. Advertência sobre realização do ato em ausência (compromete o contraditório à vontade do acusado).",
+      "tags": [
+        "procedimento",
+        "intimacao"
+      ]
+    },
+    {
+      "id": "rdpm-229",
+      "subtema": "Sanções",
+      "artigo": "Art. 52, §1º",
+      "enunciado": "A contagem do tempo de cumprimento da sanção disciplinar (art. 52, §1º, RDPM):",
+      "alternativas": [
+        "Começa no momento da publicação em boletim.",
+        "Começa no momento em que o militar do Estado iniciá-lo, computando-se cada dia como período de 24 (vinte e quatro) horas.",
+        "Computa apenas dias úteis.",
+        "Computa em dias corridos, da 00h00 às 23h59."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 52, §1º: contagem em 24h. Aplica-se também ao recolhimento (instrução ao art. 26, §4º).",
+      "tags": [
+        "sancoes",
+        "contagem"
+      ]
+    },
+    {
+      "id": "rdpm-230",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Art. 29, §1º + instrução",
+      "enunciado": "O descumprimento dos prazos estipulados no art. 29 do RDPM (solução do PD):",
+      "alternativas": [
+        "Gera nulidade absoluta do procedimento.",
+        "Constitui infração disciplinar do responsável, mas NÃO gera nulidade do procedimento.",
+        "Configura prescrição automática.",
+        "Anula apenas o ato fora do prazo."
+      ],
+      "correta": 1,
+      "explicacao": "Instrução ao art. 29, §1º: prazo NÃO peremptório. Responsabilização disciplinar do moroso, sem prejuízo da validade do procedimento.",
+      "tags": [
+        "procedimento",
+        "prazo",
+        "nulidade"
+      ]
+    },
+    {
+      "id": "rdpm-231",
+      "subtema": "Sanções",
+      "artigo": "Art. 14, VIII",
+      "enunciado": "A sanção do art. 14, VIII, do RDPM (proibição do uso do uniforme):",
+      "alternativas": [
+        "Aplica-se a militares da ativa em qualquer hipótese.",
+        "É a SANÇÃO regulada pelo art. 25 (inativos que atentem contra decoro/dignidade, até 1 ano); distingue-se da MEDIDA CAUTELAR do art. 72.",
+        "Aplica-se apenas a oficiais.",
+        "Tem prazo perpétuo, como demissão."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 14, VIII + art. 25 vs. art. 72. Distinção essencial: sanção (ao inativo, com prazo) ≠ cautelar (durante processo regular).",
+      "tags": [
+        "proibicao-uniforme",
+        "sancao-cautelar"
+      ]
+    },
+    {
+      "id": "rdpm-232",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 72",
+      "enunciado": "A proibição do uso do uniforme prevista no art. 72 do RDPM (medida cautelar):",
+      "alternativas": [
+        "É sanção definitiva ao militar em processo regular.",
+        "Constitui MEDIDA CAUTELAR aplicada pela autoridade INSTAURADORA, quando houver risco para a hierarquia, disciplina ou para a apuração do fato, enquanto perdurar o processo regular; designa-se também o militar para outras funções.",
+        "Aplica-se apenas após decisão final do CD/CJ.",
+        "Compete exclusivamente ao Cmt G."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 72 + instrução. Aplicada PELA AUTORIDADE INSTAURADORA (não somente o Cmt G). Distingue-se da sanção do art. 14, VIII (art. 25).",
+      "tags": [
+        "cautelar",
+        "processo-regular"
+      ]
+    },
+    {
+      "id": "rdpm-233",
+      "subtema": "Conselho de Disciplina",
+      "artigo": "Art. 75",
+      "enunciado": "Ao Conselho de Justificação aplica-se (art. 75, RDPM):",
+      "alternativas": [
+        "Exclusivamente o RDPM.",
+        "Apenas a legislação específica.",
+        "O previsto na LEGISLAÇÃO ESPECÍFICA (Lei Federal 5.836/72 e Lei Estadual 186/73), COMPLEMENTARMENTE ao disposto no RDPM.",
+        "O CPPM, supletivamente."
+      ],
+      "correta": 2,
+      "explicacao": "Art. 75: legislação específica + RDPM complementar. Distingue-se do CD (art. 87 — CPPM supletivo).",
+      "tags": [
+        "conselho-justificacao",
+        "legislacao"
+      ]
+    },
+    {
+      "id": "rdpm-234",
+      "subtema": "Sanções",
+      "artigo": "Art. 23, II, d",
+      "enunciado": "À praça será aplicada DEMISSÃO quando \"cometer transgressão disciplinar grave, estando há mais de 2 anos consecutivos ou 4 anos alternados no mau comportamento, apurado mediante processo regular\" (art. 23, II, d, RDPM). Sobre essa hipótese:",
+      "alternativas": [
+        "Dispensa processo regular.",
+        "A instauração de processo regular é ato de ofício, OBRIGATÓRIO no qual somente serão apuradas a existência da transgressão disciplinar grave e o tempo de permanência no mau comportamento, sem qualquer verificação de ordem moral ou subjetiva.",
+        "Será analisada também a personalidade do agente.",
+        "Cabe apenas em mau por 5 anos consecutivos."
+      ],
+      "correta": 1,
+      "explicacao": "Instrução ao art. 23, II, d: processo regular OBRIGATÓRIO, limitado à apuração OBJETIVA (transgressão + tempo). Precedido de apuração preliminar. Aplica-se a falta praticada na vigência do RDPM atual.",
+      "tags": [
+        "demissao",
+        "mau-comportamento"
+      ]
+    },
+    {
+      "id": "rdpm-235",
+      "subtema": "Sanções",
+      "artigo": "Art. 23, II, c",
+      "enunciado": "À praça será aplicada DEMISSÃO quando \"praticar ato ou atos que revelem incompatibilidade com a função policial-militar, comprovado mediante processo regular\" (art. 23, II, c, RDPM):",
+      "alternativas": [
+        "A instauração do processo regular depende de provocação do MP.",
+        "A instauração do processo regular é ato de OFÍCIO, OBRIGATÓRIO.",
+        "Pressupõe condenação criminal prévia.",
+        "Mediante deliberação do Cmt G, dispensado processo."
+      ],
+      "correta": 1,
+      "explicacao": "Instrução ao art. 23, II, c: processo regular obrigatório, de ofício. Tutela a função policial-militar.",
+      "tags": [
+        "demissao",
+        "incompatibilidade"
+      ]
+    },
+    {
+      "id": "rdpm-236",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 102",
+      "enunciado": "\"Conduzir veículo, pilotar aeronave ou embarcação oficial, sem autorização do órgão competente da Polícia Militar, mesmo estando habilitado\" é transgressão:",
+      "alternativas": [
+        "LEVE.",
+        "Média.",
+        "Grave.",
+        "Sem classificação."
+      ],
+      "correta": 0,
+      "explicacao": "Art. 13, nº 102: LEVE. Distingue-se do nº 99 (dirigir com imprudência/negligência/imperícia ou sem habilitação — GRAVE).",
+      "tags": [
+        "transgressao",
+        "conducao-sem-autorizacao"
+      ]
+    },
+    {
+      "id": "rdpm-237",
+      "subtema": "Classificação de transgressão",
+      "artigo": "Art. 13, nº 110",
+      "enunciado": "\"Permitir que pessoa não autorizada adentre prédio ou local interditado\" é transgressão:",
+      "alternativas": [
+        "Leve.",
+        "MÉDIA.",
+        "Grave.",
+        "Sem classificação."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 13, nº 110: MÉDIA. Instrução: o local deve estar sob responsabilidade do militar transgressor.",
+      "tags": [
+        "transgressao",
+        "local-interditado"
+      ]
+    },
+    {
+      "id": "rdpm-238",
+      "subtema": "Sanções",
+      "artigo": "Art. 22, par. único",
+      "enunciado": "O militar do Estado que sofrer REFORMA ADMINISTRATIVA DISCIPLINAR (art. 22, par. único, RDPM):",
+      "alternativas": [
+        "Não receberá qualquer remuneração.",
+        "Receberá remuneração PROPORCIONAL ao tempo de serviço policial-militar.",
+        "Receberá remuneração integral, como na reforma ex officio.",
+        "Será excluído sem direito a remuneração."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 22, par. único: remuneração proporcional. Diferencia-se da demissão (sem remuneração) e da reforma ex officio (que pode ser integral).",
+      "tags": [
+        "reforma",
+        "remuneracao"
+      ]
+    },
+    {
+      "id": "rdpm-239",
+      "subtema": "Disciplina",
+      "artigo": "Art. 11, §1º",
+      "enunciado": "O militar do Estado é responsável (art. 11, §1º, RDPM):",
+      "alternativas": [
+        "Apenas pelas ordens que executou.",
+        "Pelas decisões ou atos que praticar, INCLUSIVE nas missões expressamente determinadas, bem como pela não-observância ou falta de exação no cumprimento de seus deveres.",
+        "Apenas pelas decisões praticadas em serviço.",
+        "Apenas pelos atos com intenção (dolo)."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 11, §1º: responsabilidade ampla — decisões/atos + omissão/falta de exação. Cf. art. 10, §2º (executante que exorbita responde pelo abuso/excesso).",
+      "tags": [
+        "responsabilidade",
+        "deveres"
+      ]
+    },
+    {
+      "id": "rdpm-240",
+      "subtema": "Aplicação",
+      "artigo": "Art. 44",
+      "enunciado": "Sobre a relação entre sanção disciplinar e responsabilidade civil/criminal (art. 44, RDPM):",
+      "alternativas": [
+        "A sanção disciplinar exime das responsabilidades civil e criminal.",
+        "A sanção disciplinar NÃO EXIME o punido da responsabilidade civil e criminal emanadas do mesmo fato; a instauração de inquérito ou ação criminal não impede a imposição, na esfera administrativa, de sanção pela prática de transgressão disciplinar sobre o mesmo fato.",
+        "Cabe à esfera penal definir todos os efeitos.",
+        "Sanção disciplinar e civil são excludentes."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 44 + par. único: princípio da INDEPENDÊNCIA DAS ESFERAS administrativa, civil e penal. Mesma lógica do art. 12, §5º.",
+      "tags": [
+        "independencia",
+        "esferas"
+      ]
+    },
+    {
+      "id": "rdpm-241",
+      "subtema": "Recompensas",
+      "artigo": "Art. 70",
+      "enunciado": "O cancelamento de sanções disciplinares (art. 70, RDPM) consiste:",
+      "alternativas": [
+        "Na anulação da sanção, com efeito ex tunc.",
+        "Na retirada dos registros realizados nos assentamentos individuais do militar do Estado, relativos às penas disciplinares que lhe foram aplicadas; ato do Cmt G, a pedido do interessado, atendidos os bons serviços e decorridos 10 anos de efetivo serviço sem qualquer outra sanção, a contar da última.",
+        "Na conversão automática para advertência verbal.",
+        "Na suspensão dos efeitos por 5 anos."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 70 + §1º + instrução: retirada do AI, Nota de Corretivo e RIPO. Bons serviços = ausência de punições + elogios/cursos/condecorações. Não retroage (§2º).",
+      "tags": [
+        "recompensas",
+        "cancelamento"
+      ]
+    },
+    {
+      "id": "rdpm-242",
+      "subtema": "Procedimento Disciplinar",
+      "artigo": "Anexo III, Art. 12",
+      "enunciado": "O JULGAMENTO e SOLUÇÃO do PD (Anexo III, art. 12):",
+      "alternativas": [
+        "Cabe ao Presidente da instrução.",
+        "A autoridade competente julgará com base nos elementos de convicção existentes nos autos e na VERDADE REAL, emitindo a solução, escrita e motivada, preenchendo o enquadramento disciplinar para a devida publicação.",
+        "Cabe ao Cmt G em todos os casos.",
+        "Decide-se em audiência colegiada."
+      ],
+      "correta": 1,
+      "explicacao": "Anexo III, art. 12: autoridade competente (art. 31 do RDPM) decide. Modelo: planilha PM-C-117-A. Anexo II da Portaria CORREGPM.",
+      "tags": [
+        "procedimento",
+        "julgamento",
+        "solucao"
+      ]
+    },
+    {
+      "id": "rdpm-243",
+      "subtema": "Sanções",
+      "artigo": "Art. 41, II",
+      "enunciado": "Quando as circunstâncias agravantes preponderarem sobre as atenuantes, a sanção (art. 41, II, RDPM):",
+      "alternativas": [
+        "Será obrigatoriamente aplicada em seu limite máximo.",
+        "PODERÁ ser aplicada até o seu limite máximo.",
+        "Não poderá ser aplicada em seu limite mínimo.",
+        "Será sempre cumulada com outra de natureza diversa."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 41, II: PODERÁ até o máximo (discricionariedade vinculada). Compara-se ao inciso I (atenuantes prepondem = NÃO será no máximo).",
+      "tags": [
+        "aplicacao",
+        "agravantes-prepoderancia"
+      ]
+    },
+    {
+      "id": "rdpm-244",
+      "subtema": "Disposições gerais",
+      "artigo": "Art. 3º, §3º",
+      "enunciado": "GRADUAÇÃO, segundo o art. 3º, §3º, do RDPM, é:",
+      "alternativas": [
+        "O grau hierárquico dos oficiais, conferido pelo Governador.",
+        "O grau hierárquico das PRAÇAS, conferida pelo COMANDANTE GERAL da Polícia Militar.",
+        "Critério único de antiguidade.",
+        "Critério decorrente do tempo de serviço apenas."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 3º, §3º: graduação = praças. Cf. §2º: posto = oficiais (Governador + Carta Patente).",
+      "tags": [
+        "graduacao",
+        "posto"
+      ]
+    },
+    {
+      "id": "rdpm-245",
+      "subtema": "Disposições finais",
+      "artigo": "Art. 1º",
+      "enunciado": "Nos termos do art. 1º do RDPM, observado o art. 42 da CF/88:",
+      "alternativas": [
+        "A hierarquia é mais relevante que a disciplina.",
+        "A hierarquia e a disciplina são as BASES DA ORGANIZAÇÃO da Polícia Militar.",
+        "Hierarquia é regra absoluta; disciplina é regra relativa.",
+        "Hierarquia decorre da disciplina."
+      ],
+      "correta": 1,
+      "explicacao": "Art. 1º + art. 42 CF: hierarquia E disciplina como pilares estruturantes da PM. Reflete-se em todo o sistema disciplinar do RDPM.",
+      "tags": [
+        "disposicoes-gerais",
+        "hierarquia",
+        "disciplina"
+      ]
     }
-  ]
+  ],
+  "descricao": "Banco de questões do RDPM (LC 893/01), com bloco no estilo CAO."
 }
