@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2026-05-25",
+  "version": "2.0.0",
+  "lastUpdated": "2026-05-27",
   "materias": [
     {
       "id": "rdpm",
       "nome": "RDPM",
-      "nomeCompleto": "Regulamento Disciplinar da Polícia Militar",
+      "nomeCompleto": "Regulamento Disciplinar da Polícia Militar (245 questões)",
       "norma": "LC nº 893/2001",
       "arquivo": "data/rdpm.json",
       "cor": "#7c1a1a",
