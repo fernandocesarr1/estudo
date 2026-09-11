@@ -1,0 +1,227 @@
+{
+ "materia": "beneficios",
+ "versao": "1.0.0",
+ "atualizadoEm": "2026-09-08",
+ "origem": "Caderno CAO 2018-2025 (700 questões), gabarito oficial do próprio caderno",
+ "subtemas": [
+  "Acidente em servico / indenizacoes / beneficios"
+ ],
+ "questoes": [
+  {
+   "id": "beneficios-001",
+   "subtema": "Acidente em servico / indenizacoes / beneficios",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "(ATUALIZADA) Considere o seguinte caso hipotético: O Cb PM 555555-5 Zé Mané, do 99º BPM/I, com 12 anos de serviço, encarregado da viatura I-99099, durante atendimento de ocorrência de roubo tentado a um veículo de transporte de valores foi atingido por disparos de fuzil na perna direita, levando a amputação total deste membro. Nos termos da Lei Estadual nº 5.451, de 22 de dezembro de 1986 (que regula a concessão de benefícios a policiais militares julgados inválidos ou falecidos em ato de serviço), é correto afirmar que o referido policial militar deverá ser:",
+   "alternativas": [
+    "reformado com vencimentos integrais a que teria direito ao completar 30 anos de serviço",
+    "reformado com vencimentos proporcionais ao tempo de serviço",
+    "promovido a 3º Sgt PM e reformado, percebendo 12/30 dos vencimentos da nova graduação",
+    "reformado e promovido a 3º Sgt PM, com vencimento integrais a que teria direito ao completar 35 anos de serviço ou a que teria direito ao completar 30 anos de serviço acrescido do pedágio instituído pela reforma previdenciária"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 48. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "beneficios-002",
+   "subtema": "Acidente em servico / indenizacoes / beneficios",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Considere o seguinte caso hipotético: Um Policial Militar, de serviço, em deslocamento na viatura para apoio a outras Unidades de Serviço (US) que realizavam acompanhamento de um veículo cujos ocupantes se evadiram da abordagem, com todas as cautelas necessárias e sinais luminosos e sonoros acionados, sofreu acidente e foi socorrido por ambulância do SAMU. Consciente, sem risco iminente de morte; durante o socorro, por imprudência do motorista da ambulância, ocorre colisão frontal com um poste de eletricidade e, em razão deste segundo acidente, o PM que era socorrido vem a falecer. É correto afirmar que nestas circunstâncias a morte do PM:",
+   "alternativas": [
+    "não será considerada como acidente em serviço, já que não faleceu em razão do acidente da viatura",
+    "será considerada como acidente em serviço para todos os efeitos legais",
+    "não será considerada como acidente em serviço, pois houve imprudência do motorista do SAMU",
+    "será considerada como acidente em serviço, mas a pensão da viúva será equivalente aos vencimentos proporcionais do tempo de serviço do PM, pois quando foi socorrido pelo SAMU não corria risco iminente de morte"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 49. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "beneficios-003",
+   "subtema": "Acidente em servico / indenizacoes / beneficios",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "(ATUALIZADA) Sobre o pagamento de indenização por morte ou invalidez permanente do militar do Estado, conforme previsto na Lei nº 14.984, de 12 de abril de 2013, regulada pela PORTARIA DO CMT G Nº PM1-003/02/23, podemos afirmar que:",
+   "alternativas": [
+    "o Dir/Cmt/Ch que, por qualquer meio, tiver conhecimento de ocorrência policial que resulte morte ou invalidez de militar do Estado, cujo evento lesivo se enquadre nas hipóteses do art. 2º da Lei nº 14.984/13, deverá instaurar, obrigatoriamente, sindicância com a finalidade específica de verificar se concorreu para o resultado, conduta ilícita do militar do Estado",
+    "a indenização por morte ou invalidez prevista na Lei nº 14.984/13 restringe-se aos casos ocorridos em serviço",
+    "o militar do Estado está enquadrado nos casos previstos pela Lei nº 14.984/13 quando em razão da função pública, ainda que o evento causador da morte ou invalidez se dê após a passagem do militar à inatividade",
+    "não será concedida a indenização de que trata a Lei nº 14.984/13 se o procedimento administrativo específico indicar a prática de ilícito administrativo ou penal por parte do militar vitimado, exceto nos casos ocorridos em serviço"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 68. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "beneficios-004",
+   "subtema": "Acidente em servico / indenizacoes / beneficios",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "De acordo com o disposto pela Lei nº 14.984, de 12 de abril de 2013, o Estado de São Paulo poderá efetuar pagamento em caráter indenizatório ao militar do Estado, em caso de morte ou invalidez permanente, total ou parcial, que ocorrerem:",
+   "alternativas": [
+    "em serviço, no deslocamento do militar até o seu local de trabalho ou em razão da função pública, exclusivamente durante o tempo de serviço ativo",
+    "em serviço ou em razão da função pública exclusivamente durante o tempo de serviço ativo",
+    "em serviço, no deslocamento do militar até o seu local de trabalho ou em razão da função pública, ainda que o evento causador da morte ou invalidez se dê após a sua passagem para a inatividade",
+    "em serviço, no deslocamento do militar até o seu local de trabalho ou em razão da função pública, ainda que o evento causador da morte ou invalidez se dê após a sua passagem para a inatividade, mesmo que tenha praticado ilícito"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 75. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "beneficios-005",
+   "subtema": "Acidente em servico / indenizacoes / beneficios",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Quando houver a necessidade de realização de perícia para apurar se a invalidez ou incapacidade definitiva do policial militar por meio de Inquérito Sanitário de Origem (ISO), quem é a autoridade competente para instauração deste procedimento ?",
+   "alternativas": [
+    "O Diretor de Saúde",
+    "O Comandante Geral",
+    "O Comandante da OPM do militar do Estado",
+    "O médico da UIS"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2022, questão 62. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2022",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "beneficios-006",
+   "subtema": "Acidente em servico / indenizacoes / beneficios",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Considere o seguinte caso hipotético: Policial Militar de serviço, durante atendimento de ocorrência, veio a sofrer lesão e por conta disso foi julgado definitivamente incapaz para a função policial-militar. Nos termos da Lei nº 5.451/86 (Dispõe sobre a concessão de benefícios a policiais militares julgados inválidos ou falecidos em ato de serviço), assinale a resposta correta quanto aos benefícios a que faz jus:",
+   "alternativas": [
+    "Reforma com vencimentos integrais de seu posto ou graduação, independentemente de seu tempo de serviço, a que teria direito ao completar 30 (trinta) anos de serviço; promoção ao posto ou graduação imediatamente superior, precedida de competente apuração, retroagindo seus efeitos à data da incapacidade",
+    "Reforma com vencimentos proporcionais de seu posto ou graduação, observado seu tempo de serviço; promoção ao posto ou graduação imediatamente superior, precedida de competente apuração, retroagindo seus efeitos à data da incapacidade",
+    "Reforma com vencimentos integrais de seu posto ou graduação, independentemente de seu tempo de serviço, a que teria direito ao completar 20 (vinte) anos de serviço",
+    "Reforma com vencimentos proporcionais de seu posto ou graduação; promoção ao posto ou graduação imediatamente superior, precedida de competente apuração, retroagindo seus efeitos à data da morte"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2022, questão 77. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2022",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "beneficios-007",
+   "subtema": "Acidente em servico / indenizacoes / beneficios",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "O Sd PM João, durante o deslocamento para o serviço para o qual estava escalado, é levado a atuar em razão de sua função, resultando em sua invalidez. Diante dessa notícia, o Comandante da OPM, visando especificamente a concessão de indenização regida pela Lei 14.984, de 12 de abril de 2013, deverá instaurar, nos termos da Portaria do Cmt G PM1-3/02/23, a portaria de:",
+   "alternativas": [
+    "Investigação Preliminar, de modo a constatar eventual infração administrativa ou criminal do militar do Estado e, paralelamente, a juntada de laudo médico alusivo ao pronto-atendimento, assim como do laudo exarado pelo órgão técnico responsável",
+    "Apuração Preliminar, com a finalidade específica de verificar se concorreu para o resultado conduta ilícita do militar do Estado e, também, o grau de comprometimento da capacidade laborativa do Sd PM João",
+    "Inquérito Policial-Militar (IPM), devendo-se constar no relatório da autoridade policial militar os elementos de prova para a concessão do benefício",
+    "Sindicância, nos termos das I-16-PM, cuja solução será encaminhada à Secretaria da Fazenda, responsável pela concessão de benefícios dessa natureza"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2023, questão 45. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2023",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "beneficios-008",
+   "subtema": "Acidente em servico / indenizacoes / beneficios",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "O acidente em serviço, definido no Decreto nº 20.218, de 22 de dezembro de 1982, pode acarretar consequências jurídicas ao policial militar, entre elas estão as definidas na Lei Estadual nº 5.451, de 22 de dezembro de 1986. Nesse contexto, é correto afirmar que:",
+   "alternativas": [
+    "não se considera acidente em serviço aquele que ocorra com o policial militar, quando no decurso de viagens impostas por motivo de movimentação",
+    "se a morte, invalidez ou incapacidade resultarem de lesão ou enfermidades adquiridas em consequência de exercício de função policial, o policial militar será promovido ao posto ou graduação imediatamente superior e perceberá vencimentos integrais a que teria direito ao completar 30 (trinta) anos de serviço",
+    "os policiais militares julgados definitivamente incapazes para a função policial-militar serão reformados com vencimentos de seu posto ou graduação, proporcionais ao tempo de serviço até então cumprido",
+    "o acidente de serviço é descaracterizado pela concorrência ou superveniência de outras causas que contribuam para a morte ou incapacidade do policial militar, independentemente de relação entre causa e efeito"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2023, questão 81. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2023",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "beneficios-009",
+   "subtema": "Acidente em servico / indenizacoes / beneficios",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Em quais situações o pagamento de indenização previsto na Lei nº 14.984/13, que dispõe sobre o pagamento de indenização por morte ou invalidez e a contratação de seguro de vida em grupo, pode ser realizado?",
+   "alternativas": [
+    "apenas em caso de morte durante o horário de trabalho",
+    "em caso de morte ou invalidez ocorrida em serviço, no deslocamento ao trabalho, ou em razão da função pública",
+    "em qualquer situação de risco enfrentada pelo servidor",
+    "apenas em caso de morte natural ou por doença grave"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2024, questão 44. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2024",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "beneficios-010",
+   "subtema": "Acidente em servico / indenizacoes / beneficios",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "A Lei nº 14.984, de 12 de abril de 2013, dispõe sobre o pagamento de indenização por morte ou invalidez e a contratação de seguro de vida em grupo. Deste modo, o Poder Executivo está autorizado a efetuar pagamento de natureza indenizatória em caso de morte ou de invalidez permanente, total ou parcial, relativamente aos militares do Estado, incluídos os temporários, e aos servidores sujeitos ao Regime Especial de Trabalho Policial ou que exerçam atividades de risco acentuado em unidades da Secretaria de Administração Penitenciária. Diante do exposto, é correto afirmar que:",
+   "alternativas": [
+    "O valor correspondente é de até R$ 200.000,00 (duzentos mil reais), todavia não será concedida a indenização se houver indicação de prática de ilícito administrativo ou penal por parte do militar ou servidor vitimado",
+    "O valor correspondente é de até R$ 200.000,00 (duzentos mil reais), todavia será concedida a indenização, mesmo havendo indicação de prática de ilícito administrativo ou penal por parte do militar ou servidor vitimado",
+    "O valor correspondente é de até R$ 100.000,00 (cem mil reais), todavia não será concedida a indenização se houver indicação de prática de ilícito administrativo ou penal por parte do militar ou servidor vitimado",
+    "O valor correspondente é de até R$ 100.000,00 (cem mil reais), todavia será concedida a indenização, mesmo havendo indicação de prática de ilícito administrativo ou penal por parte do militar ou servidor vitimado"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2025, questão 51. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2025",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "beneficios-011",
+   "subtema": "Acidente em servico / indenizacoes / beneficios",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Conforme regramento previsto na Lei nº 5.451, de 22 de dezembro de 1986, o policial militar declarado inválido ou definitivamente incapaz para a função policial-militar decorrente de lesão ou enfermidade adquirida em consequência do exercício da função policial-militar, após a competente apuração, será:",
+   "alternativas": [
+    "Reformado e perceberá vencimentos proporcionais ao tempo de serviço, referentes ao respectivo posto ou graduação",
+    "Reformado e perceberá vencimentos integrais do respectivo posto ou graduação",
+    "Promovido ao posto/graduação imediatamente superior e reformado, com vencimentos proporcionais ao tempo de serviço",
+    "Promovido ao posto/graduação imediatamente superior e reformado, com vencimentos integrais a que teria direito ao completar 30 anos de serviço"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2025, questão 72. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2025",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "beneficios-012",
+   "subtema": "Acidente em servico / indenizacoes / beneficios",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Segundo as Instruções Reguladoras dos Documentos Sanitários de Origem, aprovadas pelo Decreto nº7.484, de 26 de dezembro de 1935, o prazo para o Comandante de Unidade determinar a lavratura do atestado de origem, a contar do recebimento da parte que comunicou o acidente em serviço, será de:",
+   "alternativas": [
+    "20 (vinte) dias",
+    "15 (quinze) dias",
+    "8 (oito) dias",
+    "3 (três) dias"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2025, questão 89. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2025",
+    "sem-explicacao"
+   ]
+  }
+ ]
+}

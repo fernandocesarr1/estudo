@@ -1,0 +1,137 @@
+{
+ "materia": "cppm-caderno",
+ "versao": "1.0.0",
+ "atualizadoEm": "2026-09-08",
+ "origem": "Caderno CAO 2018-2025 (700 questões), gabarito oficial do próprio caderno",
+ "subtemas": [
+  "CPPM (processo penal militar)"
+ ],
+ "questoes": [
+  {
+   "id": "cppm-caderno-001",
+   "subtema": "CPPM (processo penal militar)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Determinado Oficial foi sorteado para compor um Conselho de Justiça na Justiça Militar Estadual, descontente com a situação, pleiteia sua substituição nos trâmites legais, por via hierárquica, através de expediente ao Comandante Geral, via Corregedoria PM. Qual das justificativas abaixo pode ser invocada:",
+   "alternativas": [
+    "o Oficial sorteado estiver sendo processado na esfera penal, comum ou militar",
+    "o Oficial sorteado estiver agregado ou frequentando cursos regulares na Polícia Militar ou em outro órgão da administração pública direta",
+    "o Oficial sorteado participou de Conselho Permanente de Justiça nos últimos 06 (seis) meses",
+    "houver o sorteio de outro Oficial da mesma Unidade para a composição de Conselhos Permanentes de Justiça no mesmo trimestre, ainda que em Auditorias diferentes"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2020, questão 43. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2020",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "cppm-caderno-002",
+   "subtema": "CPPM (processo penal militar)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "As I-21-PM, Instruções para Continências, Honras, Sinais de Respeito e Cerimonial Militar na Polícia Militar, traz regras específicas quanto ao Luto Oficial, Dia de Finados e aos atos e sinais correspondentes. Em caso de falecimento de Policial Militar ocorrido em serviço ou em razão dele: I – Será decretado por oficial, dos postos de Capitão a Coronel, o “Luto Policial” de 3 (três) dias no âmbito da Unidade, de Cia PM a CPA ou CPI a qual pertencia o policial militar falecido. II – Durante o “Luto Policial – Militar” ocorrerá o hasteamento do estandarte da Unidade em meio mastro, permanecendo nesta posição, sem prejuízo dos hasteamentos do Pavilhão Nacional e Paulista. III – Durante o “Luto Policial – Militar” fica autorizado o uso do sinal de luto nos uniformes operacionais e uniformes de passeio, quando do falecimento de policial militar em serviço, sendo que seu uso será facultativo e somente os policiais militares da unidade a que pertencia o PM falecido e os policiais militares em representação poderão prestar tal homenagem. IV – É permitido o ‘Minuto de Sirene’, que ocorrerá concomitantemente ao horário de sepultamento do herói policial-militar, em que todos os policiais militares de serviço no patrulhamento motorizado, que não estiverem no atendimento de ocorrências, deverão estacionar seu veículo em local seguro e bem visível, e acionar os dispositivos luminosos e sonoros da viatura por um minuto, devendo desembarcar da viatura, permanecer na posição de sentido e prestar continência, incluindo as viaturas que estiverem no Serviço de Dia das OPM. Bases e Postos Policiais.",
+   "alternativas": [
+    "I e II apenas",
+    "I, II e III apenas",
+    "II, III e IV apenas",
+    "III e IV apenas"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2020, questão 57. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2020",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "cppm-caderno-003",
+   "subtema": "CPPM (processo penal militar)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Com relação ao Tribunal de Justiça Militar é correto afirmar que:",
+   "alternativas": [
+    "O Tribunal de Justiça Militar do Estado, com jurisdição em todo o território estadual e com sede na Capital, compor-se-á de sete juízes, divididos em duas câmaras, sendo quatro militares Coronéis da ativa da Polícia Militar do Estado e três civis",
+    "Um quinto dos lugares do Tribunal de Justiça Militar será composto de advogados e de membros do Ministério Público, de notório saber jurídico e reputação ilibada, com mais de quinze anos de efetiva atividade profissional ou na carreira, indicados em lista sêxtupla, pela Seção Estadual da Ordem dos Advogados do Brasil ou pelo Ministério Público, conforme a classe a que pertencer o cargo a ser provido e encaminhando-a ao Presidente do Tribunal de Justiça que, nos vinte dias subsequentes, escolherá um de seus integrantes para o cargo e o nomeará",
+    "Compete ao Tribunal de Justiça Militar processar e julgar originariamente, o Chefe da Casa Militar, Comandante-Geral da Polícia Militar e o Subcomandante Geral nos crimes militares definidos em lei, os mandados de segurança e os “habeas corpus”, nos processos cujos recursos forem de sua competência ou quando o coator ou coagido estiverem diretamente sujeitos a sua jurisdição e às revisões criminais de seus julgados e das Auditorias Militares",
+    "Compete aos juízes de Direito do juízo militar processar e julgar, singularmente, os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares, cabendo ao Conselho de Justiça, sob a presidência do juiz de Direito, processar e julgar os demais crimes militares, bem como decidir sobre a perda do posto e da patente dos Oficiais e da graduação das praças"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2020, questão 61. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2020",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "cppm-caderno-004",
+   "subtema": "CPPM (processo penal militar)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "O Código de Processo Penal Militar (CPPM) prevê em seu artigo 18 a “detenção do indiciado”, estabelecendo que ele, independentemente de flagrante delito, poderá ficar detido durante as investigações policiais. Com a promulgação da Constituição Federal de 1988, seu artigo 5º, LXI, estabeleceu que “ninguém será preso senão em flagrante delito ou por ordem escrita fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei”. Em razão dessa disposição, a “detenção do indiciado” poderá ser aplicada em crimes propriamente militares, pelo prazo de:",
+   "alternativas": [
+    "5 (cinco) dias, prorrogáveis por mais 5 (cinco) dias",
+    "20 (vinte) dias, prorrogáveis por mais 10 (dez) dias",
+    "30 (trinta) dias, prorrogáveis por mais 20 (vinte) dias",
+    "40 (quarenta) dias, prorrogáveis por mais 20 (vinte) dias"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2020, questão 70. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2020",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "cppm-caderno-005",
+   "subtema": "CPPM (processo penal militar)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Sobre a Menagem, é correto afirmar que:",
+   "alternativas": [
+    "é uma espécie de prisão provisória por não se caracterizar como um benefício ao preso, e sim como uma garantia da aplicação da lei",
+    "a Menagem, após concedida, somente poderá ser cessada após a sentença penal definitiva",
+    "a Menagem poderá ser concedida pelo juiz, nos crimes cujo máximo da pena privativa da liberdade não exceda a quatro anos, tendo-se, porém, em atenção a natureza do crime e os antecedentes do acusado",
+    "a Menagem é direito subjetivo público do réu, ou seja, uma vez preenchidos os requisitos legais não poderá deixar de ser concedida pelo juiz"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 90. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "cppm-caderno-006",
+   "subtema": "CPPM (processo penal militar)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Quanto ao Inquérito Policial-Militar é correto afirmar que:",
+   "alternativas": [
+    "a autoridade militar somente poderá mandar arquivar autos de inquérito policial-militar quando conclusivo da inexistência de crime ou de inimputabilidade do indiciado",
+    "nos casos em que servidores das polícias e dos corpos de bombeiros militares figurarem como investigados em inquéritos policiais-militares e demais procedimentos extrajudiciais, cujo objeto for a investigação de fatos relacionados ao uso da força letal praticados no exercício profissional, de forma consumada ou tentada, o investigado deverá ser citado da instauração do procedimento investigatório, podendo constituir defensor no prazo de até 48 (quarenta e oito) horas a contar do recebimento da citação",
+    "o aguardamento da delegação determina que o oficial responsável por comando, direção ou chefia, ou aquele que o substitua ou esteja de dia, de serviço ou de quarto, tome ou determine que sejam tomadas imediatamente as providências cabíveis, previstas no art. 12 do Código de Processo Penal Militar, uma vez que tenha conhecimento de infração penal que lhe incumba reprimir ou evitar",
+    "o inquérito deverá terminar dentro em trinta dias, se o indiciado estiver preso, contado esse prazo a partir do dia em que se executar a ordem de prisão; ou no prazo de sessenta dias, quando o indiciado estiver solto, contados a partir da data em que se instaurar o inquérito"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2024, questão 80. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2024",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "cppm-caderno-007",
+   "subtema": "CPPM (processo penal militar)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Consoante previsão na Constituição Federal de 1988, assinale a alternativa correta quanto à competência da Justiça Militar Estadual:",
+   "alternativas": [
+    "Os juízes de direito do juízo militar processam e julgam, singularmente, os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares, cabendo ao Conselho de Justiça, sob a presidência de juiz de direito, processar e julgar os demais crimes militares",
+    "Os juízes de direito do juízo militar processam e julgam, singularmente, os crimes militares cometidos contra a Administração Militar e as ações judiciais contra atos disciplinares militares, cabendo ao Conselho de Justiça, sob a presidência de juiz de direito, processar e julgar os demais crimes militares",
+    "Os juízes de direito do juízo militar processam e julgam, singularmente, os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares, cabendo ao Conselho de Justiça, sob a presidência do Oficial Superior mais antigo, processar e julgar os demais crimes militares",
+    "Os juízes de direito do juízo militar processam e julgam, singularmente, os crimes militares, desde que dolosos, cometidos contra civis e as ações judiciais contra atos disciplinares militares, cabendo ao Conselho de Justiça, sob a presidência de juiz de direito, processar e julgar os demais crimes militares"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2025, questão 66. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2025",
+    "sem-explicacao"
+   ]
+  }
+ ]
+}

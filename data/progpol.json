@@ -1,0 +1,929 @@
+{
+ "materia": "progpol",
+ "versao": "1.0.0",
+ "atualizadoEm": "2026-09-08",
+ "origem": "Caderno CAO 2018-2025 (700 questões), gabarito oficial do próprio caderno",
+ "subtemas": [
+  "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)"
+ ],
+ "questoes": [
+  {
+   "id": "progpol-001",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "(ATUALIZADA) Nos termos da Diretriz Programa de Policiamento Comunitário, quanto à “Viatura de apoio à BCS (Base Comunitária de Segurança) ou à BCSD (Base Comunitária de Segurança Distrital)” é incorreto afirmar, quanto ao seu emprego rotineiro, que:",
+   "alternativas": [
+    "somente será destinada viatura de apoio à BCSD depois de obtida a moradia e definido o policial militar que atuará na localidade",
+    "a mobilidade da viatura Base Comunitária Móvel deve ser restrita aos deslocamentos entre a OPM e os Pontos de Estacionamento (PE), exceto eventual prestação de socorro de emergência e/ou atendimento de ocorrência ou incidente grave, sendo vedado o seu uso em patrulhamento motorizado, operações de controle de multidões, operações de bloqueio, preservação de local de crime e deslocamento para atendimento de ocorrências",
+    "a BCS deverá possuir viatura de grande porte, nos moldes da Base Comunitária Móvel",
+    "A Base Comunitária de Segurança deverá possuir viatura exclusiva à disposição para as atividades típicas do policiamento ostensivo comunitário, sistemas de informática, radiocomunicação e impressoras, bem como o seu efetivo deverá portar EPI completo"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 11. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-002",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "(ATUALIZADA) Nos termos da Diretriz Programa de Radiopatrulha – Atendimento “190”, a Patrulha será composta por 2 policiais militares, que utilizarão viaturas de 2 ou de 4 rodas, conforme previsão no Plano Diretor da OPM, na execução de atividades de polícia ostensiva, em um ou mais Subsetores, AISP ou outros parâmetros de distribuição territorial empregados pela respectiva OPM, conforme o módulo de configuração territorial adotado. Quanto às condições de sua execução, é incorreto afirmar que:",
+   "alternativas": [
+    "o Programa RP, que é parte da Matriz Operacional I, deve operar ininterruptamente (24 horas por dia) e suas US distribuídas conforme análise oriunda do diagnóstico situacional do PPI",
+    "cada Cia PM deve contar com, no mínimo, 3 Patrulhas distribuídas em sua respectiva subárea, que irão compor 1 Grupo de Patrulha, devidamente supervisionadas pelo Comando de Grupo de Patrulha (CGP)",
+    "deve ser mantida, no mínimo, 1 Patrulha operando ininterruptamente nas localidades que possuam estrutura prevista nos Quadros Particulares de Organização (QPO) a partir do escalão Gp PM/Gp PM-Distrital",
+    "em regra, a gestão do Programa de RP caberá aos Cmt Cia PM. O Coord Op Btl (ou equivalente) somente coordenará a atuação das Patrulhas que estiverem dispostas em AISP, exclusivamente nas OPM que tiverem optado por atuar no Módulo 3 ou Módulo 4 de Configuração Territorial"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 12. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-003",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Nos termos da Diretriz Programa de Policiamento Escolar, o Comandante da Subunidade deverá realizar o planejamento, atentando para que:",
+   "alternativas": [
+    "somente as escolas estaduais e municipais existentes na subárea deverão receber o policiamento escolar",
+    "somente as escolas estaduais existentes na subárea deverão receber o policiamento escolar",
+    "dentro do possível, todas as escolas existentes na subárea deverão receber o policiamento escolar, observando a seguinte ordem de prioridade: escolas estaduais, municipais (especialmente onde não houver Guarda Municipal ou Patrimonial) e particulares",
+    "dentro do possível, todas as escolas existentes na subárea deverão receber o policiamento escolar, observando a seguinte prioridade: escolas de 1º e 2º grau estaduais, depois as municipais e depois as particulares"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 13. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-004",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Nos termos da Diretriz Programa de Policiamento de Trânsito, são considerados “Princípios do Policiamento de Trânsito”:",
+   "alternativas": [
+    "princípio da Moralidade, Princípio da legalidade e Princípio da predominância do caráter educativo-preventivo",
+    "princípio da proteção prioritária à vida e a incolumidade física das pessoas, Princípio da universalidade e Princípio da legalidade",
+    "princípio da proteção prioritária à vida e a incolumidade física das pessoas, Princípio da legalidade e Princípio da predominância do caráter educativo-preventivo",
+    "princípio da proteção prioritária à vida e a incolumidade física das pessoas, Princípio da obrigatoriedade e Princípio da predominância do caráter educativo-preventivo"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 14. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-005",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Segundo a Nota de Instrução (NI) nº PM3-002/02/17 – Sistemática de prevenção de acidentes de trânsito envolvendo policiais militares, a conceituação de “QTC Legal – Trânsito Seguro” diz que:",
+   "alternativas": [
+    "as Organizações Policiais Militares (OPMs) poderão fazer campanhas educativas, em suas respectivas áreas de atuação, visando conscientizar o público sobre prevenção de acidentes de trânsito, por meio de banners, faixas, mídias, órgãos de imprensa e convênios com outras instituições, com identidade visual e de dizeres padronizados pelo órgão de Comunicação Social da Instituição",
+    "as Seções de Comunicação Social das Organizações Policiais Militares (OPMs) providenciarão campanhas e palestras ao efetivo, com temas relativos às formas de prevenção de acidentes de trânsito, tendo por objetivo reduzir os índices de acidentes envolvendo policiais militares",
+    "são orientações básicas de segurança feitas por meio de frases curtas e transmitidas via rede de rádio, que buscam a conscientização e o reforço no comportamento preventivo na condução de viatura durante o turno de serviço",
+    "são ações implementadas pelo Comando de Policiamento de Trânsito (CPTran) na forma de campanhas educativas durante a realização de operações de trânsito, estágios e palestras, com vistas a conscientização das pessoas sobre as consequências negativas da imprudência na direção de veículos e as formas de prevenção de acidentes de trânsito"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 17. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-006",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Segundo a Nota de Instrução (NI) nº PM3-002/02/17 – Sistemática de prevenção de acidentes de trânsito envolvendo policiais militares, a medida de prevenção de Nível III a ser aplicada aos policiais militares envolvidos em acidente de trânsito com viatura de quatro rodas (motorista e encarregado) e aos integrantes da patrulha de motocicletas, é a seguinte:",
+   "alternativas": [
+    "frequência em curso ou estágio de Técnicas de Direção Defensiva na Condução de Viatura Policial sempre que os danos resultantes do acidente forem de grande monta e/ou decorrer lesão corporal e/ou morte de componente da viatura ou de outro(s) envolvido(s) no acidente",
+    "emprego no policiamento ostensivo a pé, por um período de 30 a 60 dias, em regime de escala de 5x2, submetendo o policial militar a treinamento no formato EaD. Aplicável quando não houver reincidência do condutor em acidente com viatura, mas que o fato decorreu da inobservância de dois ou mais POP (Procedimentos Operacionais Padrão)",
+    "frequência no PAAPM (Programa de Acompanhamento e Apoio ao Policial Militar) sempre que os danos resultantes do acidente forem de grande monta e/ou decorrer lesão corporal grave e/ou morte de componente da viatura ou de outro(s) envolvido(s) no acidente",
+    "emprego no policiamento ostensivo a pé, por um período de 60 a 90 dias, em regime de escala de 5x2, submetendo o policial militar a treinamento no formato EaD. Aplicável quando houver reincidência do condutor em acidente com viatura, num período de até 365 dias decorrente da inobservância injustificável de POP (Procedimentos Operacionais Padrão)"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 28. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-007",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Segundo o Procedimento Operacional Padrão (POP) nº 4.05.02 – Montagem do pelotão de Força Tática para atuação em ações de contenção, persuasão e dissuasão coletiva, o Cmt de Pel, para uma melhor distribuição de tarefas, deverá verificar o efetivo treinado/habilitado à sua disposição, e atuar com no mínimo:",
+   "alternativas": [
+    "3 (três) Sargentos para função de Comandantes de Grupo; 3 (três) escudeiros (sempre em número ímpar); 2 (dois) lançadores; 1 (um) atirador; 1 (um) policial para segurança das viaturas",
+    "1 (um) Sargento para função de Comandante de Grupo; 4 (quatro) escudeiros (sempre em número par); 2 (dois) lançadores; 2 (dois) atiradores; 2 (dois) policiais para segurança das viaturas",
+    "1 (um) Sargento para função de Comandante de Grupo; 3 (três) escudeiros (sempre em número ímpar); 1 (um) lançador; 1 (um) atirador; 2 (dois) policiais para segurança das viaturas",
+    "2 (dois) Sargentos para função de Comandantes de Grupo; 3 (três) escudeiros (sempre em número ímpar); 1 (um) lançador; 1 (um) atirador; 1 (um) policial para segurança das viaturas"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 29. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-008",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Conforme as I-2-PM, as movimentações poderão ser processadas pelas seguintes razões:",
+   "alternativas": [
+    "conveniência do serviço, quando forem decorrentes do interesse do serviço; conveniência própria, quando solicitada pelo policial militar; conveniência do Comandante, quando ocorrer problema pessoal; ou conveniência da justiça",
+    "conveniência do serviço, quando forem decorrentes do interesse do serviço; conveniência política, quando solicitada por político; conveniência da disciplina; ou conveniência da justiça",
+    "conveniência do serviço, quando forem decorrentes do interesse do serviço; conveniência própria, quando solicitada pelo policial militar; conveniência da disciplina; ou conveniência da justiça",
+    "conveniência do serviço, quando forem decorrentes do interesse do serviço; conveniência própria, quando solicitada pelo policial militar; conveniência da disciplina; ou conveniência técnica, quando não houver viatura disponível para o patrulhamento"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 56. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-009",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "(ATUALIZADA) A gestão da Polícia Militar de São Paulo se alicerça sobre os princípios de três pilares doutrinários: Polícia Comunitária, Direitos Humanos e Excelência na gestão. Desta forma, atuando sempre de forma imparcial, abstendo-se de qualquer preconceito ou discriminação, tem materializado esses preceitos em todo documento da Instituição, inscrito da seguinte forma:",
+   "alternativas": [
+    "Polícia Militar, você pode confiar",
+    "Nós, policiais militares, estamos compromissados com a Defesa da Vida, da integridade Física e da Dignidade da Pessoa Humana",
+    "Polícia Militar servindo e protegendo, compromissada com a Defesa da Vida, da Integridade Física e da Dignidade da Pessoa Humana",
+    "Nós, policiais militares, sob a proteção de Deus, estamos compromissados com a Defesa da Vida, da Integridade Física e da Dignidade da Pessoa Humana"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 57. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-010",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Em seu livro “Nova Polícia” os autores Bayley e Skolnick ante o problema do sentimento de insegurança da Sociedade Americana, ou seja o medo que o crime impõe as pessoas, iniciam seu trabalho a partir dos resultados de pesquisas que apontavam que as estratégias tradicionais não estavam funcionando. Baseado neste levantamento qual dado não corresponde ao obtido na pesquisa:",
+   "alternativas": [
+    "aumentar o número de policiais não reduz necessariamente o índice de criminalidade nem eleva a proporção de crimes solucionados",
+    "o serviço de patrulha motorizada aleatória não reduz o crime nem melhora a possibilidade de prender suspeitos",
+    "o patrulhamento intensivo de fato reduz o crime, mas apenas temporariamente, em grande parte porque o desloca para outras áreas",
+    "a melhoria do tempo de atendimento aos chamados de emergência aumenta a probabilidade de prender criminosos e a satisfação dos cidadãos envolvidos"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2018/2019, questão 98. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2018-2019",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-011",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "A Nota de Instrução Nº PM3-002/02/17, tem como finalidade disciplinar a sistemática de prevenção de acidentes de trânsito envolvendo policiais militares na condução de viaturas policiais de duas e quatro rodas. É executada por meio do Procedimento de Análise de Acidente com Viatura (PAAVI), que consiste em um conjunto articulado de atos destinados ao Estudo de Caso. O PAAVI envolve o estudo de caso de acidente de trânsito, de qualquer natureza, envolvendo viatura da Polícia Militar, com objetivo de identificar possíveis não conformidades e propor medidas saneadoras de cunho preventivo. As medidas de prevenção a serem aplicadas aos policiais militares envolvidos em acidente de trânsito com viatura de quatro rodas (motorista e encarregado) e aos integrantes da patrulha de motocicletas, são divididas em 04(quatro) níveis. Assinale a alternativa correta quanto ao nível aplicado para o estudo de caso:",
+   "alternativas": [
+    "Nível I: aplicável quando houver a necessidade de adoção de medidas de prevenção",
+    "Nível II: emprego no policiamento ostensivo a pé, por um período de 15 a 30 dias, em regime de escala 5 x 2, submetendo o policial militar a treinamento no formato EAD. Aplicável quando não houver reincidência do condutor em acidente com viatura, mas que o fato decorreu da inobservância injustificável de um dos POP relacionados à condução de viatura ou vinculados à atividade operacional que de alguma forma tenha contribuído para o acidente",
+    "Nível IV: emprego no policiamento ostensivo a pé, por um período de 30 a 60 dias, em regime de escala de 5 x 2, submetendo o policial militar a treinamento no formato EAD. Aplicável quando não houver reincidência do condutor em acidente com viatura, mas que o fato decorreu da inobservância injustificável de 2 (dois) ou mais POP relacionados à condução de viatura ou vinculados à atividade operacional que de alguma forma tenha contribuído para o acidente",
+    "Nível III: emprego no policiamento ostensivo a pé, por um período de 60 a 90 dias, em regime de escala de 5 x 2, submetendo o policial militar a treinamento no formato EAD e presencial, este último em conformidade com o Calendário de Cursos e Estágios (CCE) da Instituição. Aplicável quando houver reincidência do condutor em acidente com viatura, num período de até 365 dias decorrente de inobservância injustificável de POP relacionados à condução de viatura ou vinculados à atividade operacional que de alguma forma tenha contribuído para o acidente"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2020, questão 2. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2020",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-012",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "(ATUALIZADA) Segundo a Diretriz Programa de Policiamento Comunitário, assinale a alternativa incorreta:",
+   "alternativas": [
+    "a competência para deliberar sobre a instalação e desativação de BCS está vinculada ao Subcmt PM, que analisará propostas encaminhadas pelos Cmdo Pol e, a condição prévia para sua instalação é a existência de apoio e envolvimento comunitário (lideranças, associações de bairros, CONSEG, etc.) que possa dar suporte ao empenho da Polícia Militar e garantir a sustentabilidade do funcionamento da BCS",
+    "os Cmt Pol Metropol e os Cmt Pol Int são autoridades competentes para deliberar sobre a instalação e desativação de BCSD",
+    "a BCSD será instalada em distritos municipais cuja distância do município sede da OPM dificulte o acesso rápido e pronto de US para atendimento ao público, observando-se os seguintes critérios: população, preferencialmente, superior a 2.000 habitantes; localidade distante mais de 10 quilômetros do município-sede; adoção antecipada das medidas legais e normativas para a regularização da instalação física da BCSD",
+    "a BCSD será instalada somente nos distritos municipais em que o Cmt Btl, após criteriosa avaliação técnica, tenha-os considerado seguros para a ocupação do imóvel pela família do policial militar"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2020, questão 3. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2020",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-013",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "A Diretriz nºPM3-005/02/05, Programa de Policiamento com Motocicletas (ROCAM)::",
+   "alternativas": [
+    "foi revogada, porém ainda existe, com previsão como uma das modalidades de Força Tática",
+    "somente se aplica ao 2º BPChq",
+    "somente se aplica ao 2º BPChq e BAEP",
+    "deixou de existir em razão da quantidade de acidentes"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2020, questão 12. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2020",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-014",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "(ATUALIZADA) Conforme preconizado na Diretriz Força Tática, as patrulhas ROCAM :",
+   "alternativas": [
+    "somente podem ser comandadas por Sargento PM",
+    "somente podem ser comandadas por Sargento PM e Braçal De Rocam",
+    "podem ser comandadas por Sargento PM ou por Cb PM, desde que, com curso de Força Tática",
+    "podem ser comandadas por Sargento PM ou na falta, excepcionalmente por Cb PM"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2020, questão 15. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2020",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-015",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "(ATUALIZADA) Nos termos da Diretriz nº PM3-007/02/20, é objetivo do Programa de Policiamento Rural:",
+   "alternativas": [
+    "Em função das grandes áreas geográficas a serem patrulhadas, os Cmt Cia PM territorial e os comandantes, até nível Pel PM, do Policiamento Ambiental e do Policiamento Rodoviário, dos territórios correspondentes, deverão estabelecer, em conjunto, os espaços físicos de atuação das respectivas US, que deverão ser previstos em Cartões de Prioridade de Patrulhamento",
+    "Em função das grandes áreas geográficas a serem patrulhadas, os Cmt Btl PM territorial e os comandantes, até nível Cia PM, do Policiamento Ambiental e do Policiamento Rodoviário, dos territórios correspondentes, deverão estabelecer, em conjunto, os espaços físicos de atuação das respectivas US, que deverão ser previstos em Cartões de Prioridade de Patrulhamento",
+    "Em função das grandes áreas geográficas a serem patrulhadas, os Cmt Cia PM territorial e os comandantes, até nível Cia PM, do Policiamento Ambiental e do Policiamento Rodoviário, dos territórios correspondentes, deverão estabelecer, em conjunto, os espaços físicos de atuação das respectivas US, que deverão ser previstos em Cartões de Prioridade de Patrulhamento",
+    "Em função das grandes áreas geográficas a serem patrulhadas, os Cmt Pel PM territorial e os comandantes, até nível Pel PM, do Policiamento Ambiental e do Policiamento Rodoviário, dos territórios correspondentes, deverão estabelecer, em conjunto, os espaços físicos de atuação das respectivas US, que deverão ser previstos em Cartões de Prioridade de Patrulhamento"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2020, questão 18. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2020",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-016",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Em que etapa do Plano de Policiamento Inteligente (PPI) utilizamos o “Heptâmetro de Quintiliano” e para que serve essa ferramenta?",
+   "alternativas": [
+    "é utilizado na etapa de Reuniões de Análise Crítica e serve para medir os sete indicadores controlados pela CAP",
+    "é utilizado na etapa de definição do Cartão de Prioridade de Patrulhamento e serve para direcionar a ação das patrulhas",
+    "é utilizado na etapa de Ferramentas Básicas de Pesquisa e serve para controlar os dados quantitativos e qualitativos da incidência criminal",
+    "é utilizado na etapa de Definição do Cartão de Supervisão e serve para delinear as propostas de melhorias"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 9. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-017",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Para a definição dos locais de Pontos de Estacionamentos (PE), bem como as instruções a serem realizadas aos Policiais Militares sobre o ambiente de atuação nos PE, são verdadeiras as afirmações: I- no PE a patrulha PM deverá observar rigorosamente as previsões contidas no Código de Trânsito Brasileiro no que se refere às regras de sinalização e proibição de estacionamento. II- a patrulha deverá permanecer estacionada no PE, de forma atenta, aguardando o seu acionamento pelo rádio, não havendo a definição prévia de ação a ser executada. III- a presença da patrulha no PE deve provocar desestímulo à prática delituosa. IV- durante o PE ao menos um integrante da patrulha deve permanecer pelo lado de fora da viatura, identificando ações suspeitas (proatividade), enquanto o outro permanece no interior da viatura na escuta da rede-rádio.",
+   "alternativas": [
+    "constantes dos números I e III",
+    "constantes dos números I, II e III",
+    "constantes dos números I, III e IV",
+    "todas as afirmações estão corretas"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 11. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-018",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "A Diretriz nº PM3-002/02/13 (Programa Vizinhança Solidária) conceitua a Visita Comunitária como o contato periódico de policial militar do Programa de Policiamento Comunitário com integrantes da comunidade, com a finalidade de estreitar relações e criar vínculos de confiança mútua, permitindo que a Instituição conheça os reais problemas de segurança pública que os afligem e adote as providências cabíveis visando a solucioná-los. Para fins da citada Diretriz, objetivando favorecer o sucesso do Programa Vizinhança Solidária, a visita comunitária poderá ser realizada por qual tipo de Programa de Policiamento instituído pela Polícia Militar.",
+   "alternativas": [
+    "por qualquer tipo de Programa de Policiamento instituído pela Polícia Militar",
+    "exclusivamente pelo Programa de Policiamento Comunitário",
+    "pelo Programa de Policiamento Comunitário e pelo Programa de Policiamento Escolar",
+    "pelo Programa de Policiamento Comunitário e pelo Programa de Radiopatrulha"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 13. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-019",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Radiopatrulha é a denominação que recebe a fração de F Ptr vinculada à Matriz Operacional I, com a incumbência de realizar o policiamento ostensivo geral voltado à preservação da ordem pública em todas as localidades, sendo empregado predominantemente em ambientes urbanos. Desta forma, qual a composição da Matriz Operacional I e quais os critérios para a sua implementação:",
+   "alternativas": [
+    "é composta pelo Programa de Força Tática, Programa de Policiamento Escolar, Programa de Policiamento Comunitário e Atividades Operacionais Diversas, implementada de acordo com critérios dos níveis de percepção de segurança e indicadores criminais das OPM Territoriais",
+    "é composta pelo Programa de Radiopatrulha, Programas de Policiamento Complementares e Atividades Operacionais Diversas, implementada de acordo com critérios dos níveis de percepção de segurança e indicadores criminais das OPM Territoriais",
+    "é composta pelo Programa de Força Tática, Programa de Policiamento Escolar, Programa de Policiamento Comunitário e Atividades Operacionais Diversas, implementada de acordo com critérios de necessidade e disponibilidade das OPM Territoriais",
+    "é composta pelo Programa de Radiopatrulha, Programas de Policiamento Complementares e Atividades Operacionais Diversas, implementada de acordo com critérios de necessidade e disponibilidade das OPM Territoriais"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 16. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-020",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "A Patrulha do Programa de Radiopatrulha atuará sempre no Nível de Resposta 1, o que significa dizer que prestará o pronto atendimento a toda ocorrência que lhe for comunicada, de forma urgente e imediata, podendo receber apoio de outras Patrulhas pertencentes a qualquer Matriz Operacional, sempre que a natureza, gravidade ou complexidade da situação o exigir. Desta forma, qual a composição de cada patrulha, quais os tipos de viaturas que podem ser utilizadas, independentemente do Plano Diretor da OPM, e qual o mínimo de patrulhas que cada Cia PM deve contar em sua respectiva subárea:",
+   "alternativas": [
+    "a Patrulha será composta por, no mínimo, 02 (dois) policiais militares, que utilizarão somente viaturas de 04 (quatro) rodas na execução de atividades de polícia ostensiva, e cada Cia PM deverá contar com, no mínimo, 03 (três) Patrulhas distribuídas em sua respectiva subárea, devidamente supervisionadas pelo Comando de Grupo de Patrulha (CGP)",
+    "a Patrulha será composta por 02 (dois) policiais militares, que utilizarão viaturas de 02 (duas) ou de 04 (quatro) rodas na execução de atividades de polícia ostensiva, e cada Cia PM deverá contar com, no mínimo, 03 (três) Patrulhas distribuídas em sua respectiva subárea, devidamente supervisionadas pelo Comando de Grupo de Patrulha (CGP)",
+    "a Patrulha será composta por, no mínimo, 02 (dois) policiais militares, que utilizarão viaturas de 02 (duas) ou de 04 (quatro) rodas na execução de atividades de polícia ostensiva, e cada Cia PM deverá contar com, no mínimo, 04 (quatro) Patrulhas distribuídas em sua respectiva subárea, devidamente supervisionadas pelo Comando de Grupo de Patrulha (CGP)",
+    "a Patrulha será composta por 02 (dois) policiais militares, que utilizarão somente viaturas de 04 (quatro) rodas na execução de atividades de polícia ostensiva, e cada Cia PM deverá contar com, no mínimo, 04 (quatro) Patrulhas distribuídas em sua respectiva subárea, devidamente supervisionadas pelo Comando de Grupo de Patrulha (CGP)"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 17. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-021",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Sobre a avaliação do Programa de Força Tática, segundo a Diretriz nº PM3-003/02/20:",
+   "alternativas": [
+    "o Cmdo Pol reunirá todos os Cmt OPM FT, trimestralmente, para avaliar o desenvolvimento do Programa FT, orientando os Cmt dos Btl sempre que houver oportunidades de aprimoramento das ações de emprego",
+    "cada Cmdo Pol reunirá todos os Cmt OPM FT, semestralmente, para avaliar o desenvolvimento do Programa FT, encaminhando proposta ao Subcmt PM sempre que houver oportunidades de aprimoramento das normas vigentes ou dos mecanismos de emprego",
+    "o Cmt CPA/CPI reunirá os Cmt OPM FT, bimestralmente, para avaliar o desenvolvimento do Programa FT, para a análise dos indicadores criminais visando o planejamento operacional e a realização de treinamentos matriciais visando às missões próprias do Programa FT",
+    "cada Cmt CPA/CPI, semestralmente através de sua Divisão Operacional, analisará os indicadores dos delitos de criminalidade violenta, especialmente os de homicídio doloso, roubo de veículos e roubo outros, verificando a efetividade do Programa FT de cada Btl, orientando-os sempre que houver necessidades de aprimoramento das ações de emprego"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 20. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-022",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Segundo a Diretriz nº PM3-003/02/20 – Programa de Força Tática, os componentes das Equipes Táticas:",
+   "alternativas": [
+    "deverão, sempre que possível, possuir ao menos uma habilitação e/ou especialização, através de estágios e/ou cursos, voltada às suas missões, como CDC, Patrulhamento Tático, Força Tática, etc",
+    "deverão estar sob comando de, no mínimo, um Sgt PM, exceto se estiverem em função de apoio tático, quando deverão atuar exclusivamente com uniforme e viaturas sem características de Força Tática",
+    "quando organizados nos escalões de Companhia de Força Tática (Cia FT), levando-se em conta os afastamentos e impedimentos diversos, deverão estar em plenitude operacional com no mínimo 60% do efetivo previsto em QPO, ainda em consonância com os demais dispositivos da citada Diretriz",
+    "sofrerão rodízio periódico (para designação de cada equipe em escalas de serviço) não superior a 3 meses, desde que a função a ser exercida não exija capacitação técnica específica, inclusive as comandadas por Oficiais"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 21. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-023",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "(ATUALIZADA) Segundo a Diretriz nº PM3-003/02/20 – Programa de Força Tática, no que concerne às instruções e treinamentos, as Forças Táticas deverão:",
+   "alternativas": [
+    "receber treinamentos bimestrais em forma de Companhia Matricial, centralizados pelo grande comando territorial, voltados às ações de Controle de Distúrbios Civis e à atuação em cenários relacionados às suas atividades típicas",
+    "receber instruções diárias sobre assuntos afetos às suas atividades, com duração máxima de 90 minutos, as quais poderão ocorrer de forma descentralizada",
+    "receber instruções e treinamentos diários, abordando a prática e a atualização sobre assuntos descritos no currículo do Estágio de Atualização Profissional",
+    "as FT poderão receber treinamento periódico referente à atuação em cenários voltados às suas atividades típicas, inclusive mediante reunião matricial de estruturas vinculadas à Matriz Operacional II, mediante normatização estabelecida pelo respectivo Cmdo Pol e, os efetivos das FT também deverão receber instruções diárias sobre assuntos afetos às suas atividades, com duração máxima de 60 minutos, as quais poderão ocorrer de forma descentralizada"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 22. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-024",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "De acordo com a Diretriz nº PM3-005/02/20, que regulamenta o Programa de Policiamento Comunitário e estabelece os critérios para a instalação da Base Comunitária de Segurança Distrital (BCSD), aplicada em âmbito Institucional, é correto afirmar que:",
+   "alternativas": [
+    "a Base Comunitária de Segurança Distrital será instalada em distritos municipais cuja distância do município sede da OPM seja mais de 5 Quilômetros e que dificulte o acesso rápido e pronto de Unidade de Serviço (US) para atendimento ao Público, em distritos com população, preferencialmente, superior a 2.000 habitantes",
+    "a Base Comunitária de Segurança Distrital será instalada em distritos municipais cuja distância do município sede da OPM seja mais de 10 Quilômetros e que dificulte o acesso rápido e pronto de Unidade de Serviço (US) para atendimento ao Público, em distritos com população, preferencialmente, superior a 1.000 habitantes",
+    "a Base Comunitária de Segurança Distrital será instalada em distritos municipais cuja distância do município sede da OPM seja mais de 10 Quilômetros e que dificulte o acesso rápido e pronto de Unidade de Serviço (US) para atendimento ao Público, em distritos com população, preferencialmente, superior a 2.000 habitantes",
+    "a Base Comunitária de Segurança Distrital será instalada em distritos municipais cuja distância do município sede da OPM seja mais de 5 Quilômetros e que dificulte o acesso rápido e pronto de Unidade de Serviço (US) para atendimento ao Público, em distritos com população, preferencialmente, superior a 1.000 habitantes"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 25. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-025",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Com base na Diretriz nº PM3-006/02/20 (Programa de Policiamento de Trânsito), indique qual princípio está relacionado diretamente ao Policiamento de Trânsito?",
+   "alternativas": [
+    "Princípio da Responsabilidade Objetiva",
+    "Princípio da Representatividade Territorial",
+    "Princípio da Universalidade",
+    "Princípio da Obrigatoriedade"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 26. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-026",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Com relação ao desenvolvimento do Plano de Policiamento Inteligente (PPI) voltado ao Programa de Policiamento Rural, assinale a alternativa correta:",
+   "alternativas": [
+    "ao menos uma vez por bimestre, os Cmt OPM Pol Amb e Pol Rv deverão participar das Reuniões de Análise Crítica (RAC) – Nível I junto aos Btl Territoriais abrangidos pelas suas respectivas circunscrições",
+    "a distribuição dos efetivos e meios no território deverá ser planejada de modo que haja sobreposição de esforços, maior presença da PM e melhor alocação de recursos por parte de cada OPM",
+    "para subsidiar os planos de ação, as camadas de dados de interesse serão obtidas a partir de dados georreferenciados junto aos Sistemas Inteligentes, bem como de informações oriundas das comunidades rurais consideradas relevantes para o Programa de Policiamento Rural",
+    "em função das grandes áreas geográficas a serem patrulhadas, os Cmt Cia PM Territorial e os Comandantes de Cia das OPM Pol Amb e Pol Rv dos territórios correspondentes, deverão estabelecer, separadamente, os espaços físicos de atuação das respectivas US, que deverão ser previstos em Cartões de Prioridade de Patrulhamento (CPP) comuns a todos"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 28. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-027",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Segundo a Nota de Instrução (NI) nº PM3-002/02/17 – Sistemática de prevenção de acidentes de trânsito envolvendo policiais militares, a medida de prevenção de Nível III a ser aplicada aos policiais militares envolvidos em acidente de trânsito com viatura de quatro rodas (motorista e encarregado) e aos integrantes da patrulha de motocicletas, é a seguinte:",
+   "alternativas": [
+    "frequência em curso ou estágio de Técnicas de Direção Defensiva na Condução de Viatura Policial sempre que os danos resultantes do acidente forem de grande monta e/ou decorrer lesão corporal e/ou morte de componente da viatura ou de outro(s) envolvido(s) no acidente",
+    "emprego no policiamento ostensivo a pé, por um período de 30 a 60 dias, em regime de escala de 5x2, submetendo o policial militar a treinamento no formato EaD. Aplicável quando não houver reincidência do condutor em acidente com viatura, mas que o fato decorreu da inobservância de dois ou mais POP (Procedimentos Operacionais Padrão)",
+    "frequência no PAAPM (Programa de Acompanhamento e Apoio ao Policial Militar) sempre que os danos resultantes do acidente forem de grande monta e/ou decorrer lesão corporal grave e/ou morte de componente da viatura ou de outro(s) envolvido(s) no acidente",
+    "emprego no policiamento ostensivo a pé, por um período de 60 a 90 dias, em regime de escala de 5x2, submetendo o policial militar a treinamento no formato EaD. Aplicável quando houver reincidência do condutor em acidente com viatura, num período de até 365 dias decorrente da inobservância injustificável de POP (Procedimentos Operacionais Padrão)"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 42. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-028",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "O 2º Sgt PM Bruce Waine, juntamente com seu motorista, Cb PM Steve Rogers, e com o auxiliar, Sd PM Peter Park, pertencentes ao efetivo do 99º BPM/M, compunham equipe de Patrulhamento de Força Tática, sendo que em dado momento, adentraram a área de Batalhão vizinho e abordaram um indivíduo procurado pela justiça, na posse de uma arma de fogo com numeração suprimida, bem como certa porção de entorpecentes, que notoriamente, não se destinava a consumo próprio, razão pela qual exigiram dele vantagem indevida, sob pena de conduzi-lo à Delegacia de Polícia onde seria autuado em flagrante. Vindo tal fato ao conhecimento da Administração, a autoridade competente para instaurar o devido Processo Regular, originariamente, será:",
+   "alternativas": [
+    "o Comandante da Unidade a que pertencerem os acusados",
+    "por se tratar de pluralidade de envolvidos, será a autoridade de cargo superior, comum aos respectivos Comandantes das OPM dos acusados",
+    "o Comandante da Unidade responsável pela área/ local dos fatos, no caso, do Batalhão vizinho",
+    "o Comandante da Companhia (Cap PM), eis que se trata da primeira autoridade disciplinar na linha de Comando, nos termos do artigo 31 do RDPM"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 76. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-029",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "De acordo com a Diretriz nº PM3-005/02/20, que regula o Programa de Policiamento Comunitário, Base Comunitária de Segurança Distrital (BCSD), por definição, é:",
+   "alternativas": [
+    "variante da BCS, aplicável aos Distritos Municipais, constituído por, no mínimo, 2 policiais militares que residem nas proximidades do local e prestam atendimento ao público, a partir de uma Base fixa",
+    "variante da BCS, aplicável aos Distritos Municipais, constituído de 1 policial militar que reside nas imediações do local e presta atendimento ao público, a partir de uma Base fixa",
+    "variante da BCS, aplicável aos Distritos Municipais, constituído de 1 policial militar que reside no local e presta atendimento ao público, a partir de sua residência",
+    "variante da BCS, aplicável aos Distritos Municipais, constituído por U.S. de, no mínimo, 2 policiais militares, residentes no respectivo município, que prestam atendimento ao público, por intermédio de visitas comunitárias definidas por AISP Distrital"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2022, questão 6. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2022",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-030",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "O Programa de Força Tática terá seu contingente previsto em QPO das OPM Territoriais na seguinte conformidade:",
+   "alternativas": [
+    "nos municípios que sediem no mínimo uma Cia PM e será parte integrante da Matriz Operacional I",
+    "nos municípios que sediem no mínimo uma Cia PM e será parte integrante da Matriz Operacional II",
+    "nos municípios que sediem no mínimo um Btl PM e será parte integrante da Matriz Operacional I",
+    "nos municípios que sediem no mínimo uma Btl PM e será parte integrante da Matriz Operacional II"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2022, questão 7. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2022",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-031",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "A verificação de todos os Planos de Ação inseridos no INFOCRIM 3.0, que estejam em andamento ou com prazo vencido, e o estabelecimento, caso não haja, dos Planos de Ação para cada um dos indicadores apontados pela SSP, são ações inerente ao:",
+   "alternativas": [
+    "Coordenador Operacional do Btl",
+    "Chefe da Seção Operacional do Btl",
+    "Comandante de Companhia",
+    "Comandante de Força Patrulha"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2022, questão 27. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2022",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-032",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "A análise científica dos indicadores criminais da área da OPM é uma etapa necessária e essencial para potencializar o desenvolvimento das atividades de polícia ostensiva e de preservação da ordem pública, de modo a adequar/compatibilizar o planejamento das ações a serem executadas às demandas operacionais, melhorando a qualidade dos serviços prestados à comunidade e aumentando a sensação de segurança. Nesse sentido, sobre o Plano de Policiamento Inteligente (PPI) é correto afirmar:",
+   "alternativas": [
+    "O PPI consiste num conjunto de ações desenvolvidas para coletar e analisar as informações necessárias ao planejamento das atividades de policiamento orientado para a resolução de problemas. A elaboração do PPI é de responsabilidade da 2ª Seção do EM/PM",
+    "O Cartão de Prioridade de Patrulhamento (CPP) deve contemplar os itinerários e horários de patrulhamento e de estacionamento, com a previsão detalhada da ação esperada do policial militar em cada uma dessas atividades, refletindo assim o patrulhamento preventivo orientado. Os CPPs devem ser reavaliados e atualizados quinzenalmente pelo Comandante de Cia PM",
+    "Os Objetos de Análise de Informações (OAI), que devem ter periodicidade mínima trimestral, são elaborados pela 2ª Seção do Estado Maior para o desencadeamento de operações policiais específicas, atuação em áreas emblemáticas ou mapeamento de áreas e dados georreferenciados para atuações pontuais, a fim de atender a determinadas demandas ou soluções estratégicas",
+    "A Reunião de Análise Crítica (RAC) nível I, que deve ter periodicidade mensal e ocorrer na primeira semana seguinte ao mês em avaliação, deve ser presidida pelo Comandante do Btl e contar com a participação do Coordenador Operacional (ou Subcomandante), P/2, P/3 do Btl e dos Comandantes de Cia, oportunidade em que serão analisados os indicadores criminais, definidas as AISP (áreas de interesse de segurança pública) e as modalidades ou programas de policiamento a serem empregados para fazer frente às necessidades, informações que subsidiarão a elaboração dos CPPs pelos Comandantes de Cia"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2022, questão 37. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2022",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-033",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Certa equipe de Força Tática, integrada por um 1º Sgt PM com 17 anos de serviço e mais dois Cabos PM auxiliares, ambos com 07 anos de serviço, durante abordagem, agindo em unidade de propósitos e identidade de desígnios, deixa de adotar providências de ofício à pretexto de satisfazer interesse pessoal, obtendo para si vantagem econômica indevida. Vindo o fato à tona, o Processo Regular será instaurado na seguinte conformidade:",
+   "alternativas": [
+    "Considerando haver pluralidade de envolvidos, será instaurado Conselho de Disciplina para aquele que possui mais de dez anos de serviço e Processo Administrativo Disciplinar para aqueles que possuem tempo inferior a dez anos",
+    "Será instaurado apenas um processo no âmbito da respectiva OPM (ou na hipótese de centralização, no âmbito do CPC ou CPM)",
+    "Considerando haver pluralidade de envolvidos, o processo será instaurado pela autoridade imediatamente superior ao do Comandante de Btl dos envolvidos",
+    "A instauração de Processo Regular ficará condicionada ao deslinde do Inquérito Policial Militar, bem como à decisão do Processo-crime correlato, que lhe servirão de suporte fático, na hipótese de condenação"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2022, questão 79. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2022",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-034",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Em relação ao Programa de Policiamento de Trânsito, podemos afirmar que:",
+   "alternativas": [
+    "sua finalidade é estabelecer parâmetros gerais para a realização do policiamento ostensivo de trânsito, apenas rodoviário, em todo o Estado de São Paulo",
+    "um dos seus objetivos é prevenir e reprimir infrações administrativas e/ou penais em via pública",
+    "a proteção prioritária à vida e à incolumidade física das pessoas não é um princípio do policiamento de trânsito",
+    "a Polícia Militar executará o policiamento ostensivo de trânsito nas vias sob a responsabilidade do Estado, por meio do CPTran"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2023, questão 3. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2023",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-035",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Nos últimos anos, além da migração de atos delituosos para ambientes rurais, tem sido observado um incremento na atuação das organizações criminosas, que incluem esses ambientes como uma etapa importante de suas ações. Nesse sentido, um dos objetivos da PMESP é estimular a integração de esforços junto à governança local. A Reunião Comunitária como etapa importante da fase de execução do Programa de Policiamento Rural tem como objetivo:",
+   "alternativas": [
+    "discutir as melhores alternativas de solução dos problemas que afetam determinada comunidade rural e definir ações a serem adotadas, em especial ações de prevenção primária",
+    "fornecer dados e informações do planejamento de combate as quadrilhas especializadas, por meio da alteração do ambiente rural",
+    "desautorizar políticas públicas vinculadas à terra",
+    "desestimular o registro de ocorrências no ambiente rural"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2023, questão 8. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2023",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-036",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Conforme a Diretriz nº PM3-002/02/20 - Programa de Radiopatrulha (RP), a patrulha será composta por 2 policiais militares que utilizarão viaturas de 2 ou 4 rodas. No caso de 2 rodas, o emprego deverá estar devidamente previsto no Plano Diretor da OPM e atenderá aos seguintes parâmetros, entre outros:",
+   "alternativas": [
+    "a utilização da motocicleta estará condicionada à conveniência do CoordOp do Btl, indisponibilidade de meios e da maior rapidez no atendimento",
+    "cada motocicleta será ocupada somente por 01 policial militar e independe da característica estrutural, topográfica e de trânsito da localidade",
+    "será empregada, preferencialmente, entre as 06h00m e 23h00m e à conveniência do Cmt da OPM",
+    "a Patrulha não poderá ser realocada para viatura 4 (quatro) rodas, salvo pela exceção da condicionante climática"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2023, questão 20. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2023",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-037",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Os objetivos do atirador designado são:",
+   "alternativas": [
+    "propiciar percepção de segurança à população através da repressão mediata aos crimes ultraviolentos",
+    "garantir resposta eficiente, eficaz e efetiva aos crimes ultraviolentos cometidos por organizações ou grupos criminosos com pouca capacidade combativa",
+    "promover segurança operacional, individual e coletiva, aos policiais militares na execução de missões de patrulhamento tático e repressão imediata aos crimes ultraviolentos",
+    "atuação de forma isolada similar ao atirador ativo, onde o nível de consciência situacional não possa ser empregado em eventuais ameaças, realizando tiro de comprometimento"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2023, questão 39. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2023",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-038",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Para consolidar a filosofia de polícia comunitária, a PMESP tem estruturas de apoio e programas institucionais estruturados oficialmente, os quais possuem relação direta com as políticas institucionais adotadas nesse sentido, dentre os quais podemos citar:",
+   "alternativas": [
+    "escolas de artes marciais, esportes, cultura e arte",
+    "Programa Vizinhança Solidária, Programa Educacional de Resistência à Drogas e à Violência e Núcleo de Mediação Comunitária",
+    "todos os Programas criados nas Unidades Operacionais territoriais de forma local",
+    "Programa Nacional de Prevenção e Combate à Vitimização dos Profissionais de Segurança e Patrulha de Polícia Comunitária"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2024, questão 2. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2024",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-039",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "O Programa de Segurança Escolar, implantado no Estado de São Paulo em 1988, por meio do Decreto estadual nº 28.642/88, cujo objetivo era, basicamente, orientar, prevenir delitos e proteger as unidades escolares da rede estadual de ensino na Região Metropolitana. Para atingir esse objetivo, o Cmdo G PM aperfeiçoou o Programa de Segurança Escolar, transformando-o no Programa de Policiamento Escolar, o qual prevê que a Ronda Escolar (RE) deve atuar:",
+   "alternativas": [
+    "sem prejuízo do atendimento de ocorrências, exceto nas ocorrências de flagrante delito relacionadas às escolas e/ou aos perímetros escolares",
+    "com prejuízo do atendimento de ocorrências, exceto quanto às geradas nas escolas e/ou nos respectivos perímetros escolares de segurança, bem como as que se tratarem de flagrante delito",
+    "sem prejuízo de ocorrências, independente da natureza, em toda a sua área de patrulhamento, a fim de não causar solução de continuidade de sua atuação",
+    "em todas as ocorrências deparadas e/ou despachadas pelo COPOM, exceto flagrante delito"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2024, questão 6. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2024",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-040",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Dentre os conceitos trazidos pelo Programa de Policiamento Comunitário, há a Visita Comunitária. Sobre isso, podemos afirmar que:",
+   "alternativas": [
+    "essa visita consiste no contato periódico de policial militar, pertencente ou não ao Programa de Policiamento Comunitário, com os integrantes da comunidade e objetiva estreitar relações, que permitam conhecerem e buscarem soluções aos problemas de segurança pública",
+    "é a visita feita exclusivamente pelo policial militar pertencente ao Policiamento Comunitário, vedado à outras modalidades de policiamento, com objetivo de ressocializar o cidadão",
+    "tem o mesmo conceito de Visita Solidária e nada mais é do que a visita feita pelo policial militar para se solidarizar com as vítimas de crimes",
+    "ocorre apenas uma vez, na implantação do Policiamento Comunitário, deve ser feita por policial militar pertencente ao Programa de Policiamento Comunitário e objetiva estreitar relações, que permitam encontrar soluções aos conflitos da vizinhança"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2024, questão 12. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2024",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-041",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Quando falamos em presença de comunidade(s) rural(is) que, por suas características e atividades, se enquadrem na Diretriz de Programa de Policiamento Rural; presença de atividades sociais, políticas e econômicas (extrativistas, agrárias, de criação de animais, turísticas, dentre outras congêneres) que sejam potenciais focos de ações criminosas ou refúgio de infratores da lei e índices criminais e/ou ações delituosas que, mesmo esporádicas, por sua natureza e notoriedade, afetem a percepção de segurança no ambiente rural, estamos nos referindo a:",
+   "alternativas": [
+    "situações que quando surgidas, levaram à decisão pela criação da conduta de patrulha rural tática",
+    "fatores basilares para a decisão institucional sobre a criação do Policiamento Ambiental",
+    "fatores a serem observados para a implantação do Programa de Policiamento Rural, que orientam pela necessidade de seu desenvolvimento",
+    "fatores previstos na norma específica do Patrulhamento Tático Rural Comunitário. Resposta: letra “C”"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2024, questão 13. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2024",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-042",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Com a finalidade de disciplinar o desenvolvimento do Programa de Radiopatrulha (RP) no Estado de São Paulo, foi editada a Diretriz Nº PM3-002/02/20. Sobre as condições de execução, é correto afirmar:",
+   "alternativas": [
+    "deve ser mantida, no mínimo, 1 Patrulha operando ininterruptamente nas localidades que possuam estrutura prevista nos Quadros Particulares de Organização (QPO) a partir do escalão Pel PM",
+    "em regra, a gestão do Programa de RP caberá aos Cmt Cia PM. O Coord Op Btl (ou equivalente) somente coordenará a atuação das Patrulhas que estiverem dispostas em AISP, exceto nas OPM que tiverem optado por atuar no Módulo 3 de Configuração Territorial",
+    "cada Cia PM deve contar com, no mínimo, 3 Patrulhas distribuídas em sua respectiva subárea, que irão compor 1 Grupo de Patrulha, devidamente supervisionadas pelo Comando de Força de Patrulha (CFP)",
+    "a OPM deverá indicar, no Sistema de Informações Operacionais da Polícia Militar (SIOPM), a composição das Patrulhas e os territórios de atuação respectivos, devendo ser atualizado diariamente, a cada início de turno ou tão logo ocorram alterações promovidas pelo CFP ou CGP, ou determinadas por autoridade policial-militar superior competente"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2024, questão 24. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2024",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-043",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Com a finalidade de disciplinar o desenvolvimento do Programa de Força Tática (FT) no Estado de São Paulo, foi editada a Diretriz Nº PM3-003/02/20, com alterações promovidas pelas Ordens Complementares nº PM3-005/02/21, de 22DEZ21, e PM3-004/02/22, de 01JUL22. Em relação a Equipe Tática com viatura de 4 rodas, segundo o Programa de Força tática é correto afirmar que:",
+   "alternativas": [
+    "em circunstâncias ordinárias, a Equipe Tática será composta por 4 policiais militares, dos quais 1 Oficial ou Subten/Sgt PM comandante, 1 Cb/Sd PM auxiliar, 1 Cb/Sd PM segurança e 1 Cb/Sd PM motorista; não podendo ser composta por 3 policiais militares, pois é vedado o exercício da função de comando por Cb/Sd PM",
+    "na impossibilidade de compor US com, no mínimo, 3 policiais militares, ou na falta de Subten/Sgt PM para comandá-la, o efetivo disponível deverá ser empregado em ações policial-militares de caráter preventivo, como apoio tático, atuando preferencialmente com uniforme e viaturas sem características de Força Tática",
+    "exclui-se da composição numérica da Equipe Tática o policial militar que esteja na condição de estagiário, cujas atividades de aprendizado e treinamento serão reguladas por norma institucional, a ser editada pela DEC",
+    "excepcionalmente, poderá haver alterações na composição ordinária da Equipe Tática em viaturas de 4 rodas quando do emprego em ações de controle de multidões, nos termos do M-8-PM, ocasião em que poderá ser composta por até 5 policiais militares, retornando à composição ordinária tão logo cessem as ações"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2024, questão 25. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2024",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-044",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Os Batalhões Territoriais da PMESP distribuem os seus ativos operacionais por meio do Plano de Policiamento Inteligente (PPI), que consiste na análise crítica dos indicadores criminais e na alocação de recursos (humanos e materiais) para atender as peculiaridades territoriais e locais. O PPI é estruturado por meio de:",
+   "alternativas": [
+    "Reuniões de Análise Criminal (RAC nível I), que, conjuntamente com outros fatores, tais como os indicadores demográficos e socioeconômicos, dão substância para a formulação dos Cartões de Prioridade de Prevenção (CPP)",
+    "Reuniões de Análise Criminal (RAC nível II), que, conjuntamente com outros fatores, tais como os indicadores demográficos e socioeconômicos, dão substância para a formulação dos Cartões de Prioridade de Prevenção (CPP)",
+    "Reuniões de Análise Crítica (RAC nível II), que, conjuntamente com outros fatores, tais como os indicadores demográficos e socioeconômicos, dão substância para a formulação dos Cartões de Prioridade de Prevenção (CPP)",
+    "Reuniões de Análise Crítica (RAC nível I), que, conjuntamente com outros fatores, tais como os indicadores demográficos e socioeconômicos, dão substância para a formulação dos Cartões de Prioridade de Patrulhamento (CPP)"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2024, questão 26. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2024",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-045",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "O Sistema Operacional de Policiamento PM baseia-se em Matrizes Operacionais, dentro das quais serão alocadas todas as estruturas ordinárias de emprego operacional da Polícia Militar. Essas matrizes pressupõem a composição de estruturas a partir dos vetores “necessidade operacional” e “disponibilidade de recursos”. A matriz correlata ao Policiamento Preventivo é:",
+   "alternativas": [
+    "Matriz Operacional I - composta pelo Programa de Radiopatrulha, Programas de Policiamento Complementares e Atividades Operacionais Diversas implementada de acordo com critérios de necessidade e disponibilidade das OPM Territoriais, com o propósito de oferecer melhor percepção de segurança e qualidade de vida às pessoas, por meio do controle de indicadores criminais e atendimento das chamadas de emergência 190",
+    "Matriz Operacional I - composta pelas Forças Táticas (FT), das quais fazem parte, inclusive, as Rondas Ostensiva com Apoio de Motocicletas (ROCAM), e pelos Batalhões de Ações Especiais de Polícia (BAEP), além de outras estruturas de características operacionais similares eventualmente constituídas pelo Cmdo G, em apoio ao Policiamento Ostensivo da OPM Territorial a ser desencadeada",
+    "Matriz Operacional II - composta pelo Programa de Radiopatrulha, Programas de Policiamento Complementares, Forças Táticas (FT), Rondas Ostensivas com Apoio de Motocicletas (ROCAM) e Atividades Operacionais Diversas implementada de acordo com critérios de necessidade e disponibilidade das OPM Territoriais, com o propósito de oferecer melhor percepção de segurança e qualidade de vida às pessoas, por meio do controle de indicadores criminais e atendimento das chamadas de emergência 190",
+    "Matriz Operacional II - composta pelo Programa de Radiopatrulha, Programas de Policiamento Complementares e Atividades Operacionais Diversas implementada de acordo com critérios de necessidade e disponibilidade das OPM Territoriais, com o propósito de oferecer melhor percepção de segurança e qualidade de vida às pessoas, por meio do controle de indicadores criminais e atendimento das chamadas de emergência 190"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2024, questão 28. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2024",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-046",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Qual é a finalidade principal do Sistema de Ensino da Polícia Militar do Estado de São Paulo, conforme definido no Decreto nº 54.911/2009?",
+   "alternativas": [
+    "oferecer educação básica aos policiais militares",
+    "qualificar recursos humanos para cargos policiais-militares e desempenho de funções dentro da filosofia de polícia comunitária",
+    "preparar policiais militares para concursos públicos civis",
+    "fornecer suporte administrativo para atividades da Polícia Militar"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2024, questão 40. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2024",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-047",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Espaço territorial, em princípio, situado fora dos limites legais estabelecidos pelo Poder Público Municipal como Perímetro Urbano, normalmente com baixa densidade demográfica, abrigando pessoas, isoladas ou organizadas em comunidades, que possuem características próprias de relacionamento social, econômico e político vinculado à terra, com a predominância de atividades extrativistas, agrárias e/ou de criação de animais, dentre outras congêneres. Com base na Diretriz nº PM3-007/02/20, de 12MAR20 (Programa de Policiamento Rural), esse conceito define:",
+   "alternativas": [
+    "Comunidade Rural",
+    "Ambiente Rural",
+    "Zona Rural",
+    "Área Agrossilvipastoril"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2025, questão 6. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2025",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-048",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "De acordo com a Diretriz nº PM3-002/02/20, de 12MAR20, em regra, a gestão do Programa de Radiopatrulha (RP) caberá aos Cmt Cia PM. O Coord Op Btl (ou equivalente) somente coordenará a atuação das Patrulhas que estiverem dispostas em AISP, exclusivamente nas OPM que tiverem optado por atuar em qual Módulo de Configuração Territorial?",
+   "alternativas": [
+    "Módulo 1",
+    "Módulo 2",
+    "Módulo 3",
+    "Módulo 4"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2025, questão 7. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2025",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-049",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Com relação ao Procedimento de Análise de Acidente de Viatura (PAAVI) previsto na Nota de Instrução nº PM3-002/02/17, de 01NOV17, que disciplina a sistemática de prevenção de sinistros de trânsito envolvendo policiais militares na condução de viaturas policiais de duas e quatro rodas, é correto afirmar que:",
+   "alternativas": [
+    "A realização da reunião de Estudo de Caso ocorrerá até o 10º (décimo) dia útil subsequente ao do acidente",
+    "As medidas de prevenção a serem aplicadas aos policiais militares envolvidos em acidente de trânsito com viatura de quatro rodas (motorista e encarregado) e aos integrantes da patrulha de motocicletas, são divididas em 03 (três) níveis",
+    "A medida de prevenção Nível III prevê o emprego no policiamento ostensivo a pé, por um período de 30 a 60 dias, em regime de escala de 5 x 2, submetendo o policial militar a treinamento no formato EAD. Aplicável quando houver reincidência do condutor em acidente com viatura",
+    "A medida de prevenção Nível II prevê o emprego no policiamento ostensivo a pé, por um período de 15 a 30 dias, em regime de escala de 5 x 2, submetendo o policial militar a treinamento no formato EAD. Aplicável quando não houver reincidência do condutor em acidente com viatura, mas que o fato decorreu da inobservância injustificável de um dos POP relacionados à condução de viatura ou vinculados à atividade operacional que de alguma forma tenha contribuído para o acidente"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2025, questão 8. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2025",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-050",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "O Programa de Policiamento Escolar, regulado pela Diretriz nº PM3-004/02/20, de 12MAR20, prevê a Adoção Escolar a qual será caracterizada pela designação de 1 ou 2 policiais militares que atuam no serviço administrativo para realizar o policiamento ostensivo escolar, de forma cumulativa, em estabelecimentos situados a menos de:",
+   "alternativas": [
+    "400 metros da sede da OPM",
+    "500 metros da sede do Btl",
+    "500 metros da sede da OPM",
+    "600 metros da sede do CPA"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2025, questão 24. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2025",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "progpol-051",
+   "subtema": "Programas de policiamento (RP, FT, Escolar, Transito, Rural, Comunitario)",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Em relação à Diretriz nº PM3-003/02/20, de 12MAR20, Programa de Força Tática, é correto afirmar:",
+   "alternativas": [
+    "Os efetivos das FT também deverão receber instruções diárias sobre assuntos afetos às suas atividades, com duração máxima de 30 minutos, as quais poderão ocorrer de forma descentralizada",
+    "Os efetivos das FT também deverão receber instruções diárias sobre assuntos afetos às suas atividades, com duração máxima de 60 minutos, as quais poderão ocorrer de forma descentralizada",
+    "Os efetivos das FT também deverão receber instruções diárias sobre assuntos afetos às suas atividades, sem duração de tempo, mesmo porque fazem parte da Matriz Operacional III",
+    "Os efetivos das FT também deverão receber instruções diárias sobre assuntos afetos às suas atividades, sem duração de tempo, mesmo porque fazem parte da Matriz Operacional II"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2025, questão 35. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2025",
+    "sem-explicacao"
+   ]
+  }
+ ]
+}

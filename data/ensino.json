@@ -1,0 +1,119 @@
+{
+ "materia": "ensino",
+ "versao": "1.0.0",
+ "atualizadoEm": "2026-09-08",
+ "origem": "Caderno CAO 2018-2025 (700 questões), gabarito oficial do próprio caderno",
+ "subtemas": [
+  "Ensino, ingresso, promocoes, carreira"
+ ],
+ "questoes": [
+  {
+   "id": "ensino-001",
+   "subtema": "Ensino, ingresso, promocoes, carreira",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Quanto à Lei de Ingresso na Polícia Militar do Estado de São Paulo, sob limitação imposta por Ação Direta de Inconstitucionalidade, é correto afirmar:",
+   "alternativas": [
+    "o candidato, no momento da inscrição, deve ter idade mínima de 18 anos",
+    "o candidato, no momento da inscrição, deve ter idade máxima de 26 anos para ingresso no QQPM ou QPPM",
+    "o candidato poderá apresentar tatuagem visível quando do uso do uniforme operacional de verão",
+    "os exames toxicológicos fazem parte da etapa de exames de saúde e, portanto, devem ser realizados com exclusividade nesta etapa do concurso público"
+   ],
+   "correta": 2,
+   "explicacao": "Gabarito oficial da prova do CAO 2020, questão 37. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2020",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "ensino-002",
+   "subtema": "Ensino, ingresso, promocoes, carreira",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Em relação ao regramento contido na Lei Complementar nº 1.291, de 22 de julho de 2016, é correto afirmar que:",
+   "alternativas": [
+    "são requisitos para inscrição no concurso de ingresso nas carreiras da Polícia Militar: ser brasileiro nato e com idade mínima de 17 anos",
+    "o requisito de estatura mínima não é exigível aos candidatos ao ingresso nos Quadros de Oficiais de Saúde (QOS) e no Quadro de Oficiais Músicos (QOM)",
+    "o candidato poderá apresentar tatuagem que divulgue símbolo ou inscrição ofendendo valores e deveres éticos inerentes aos integrantes da Polícia Militar, desde que não estejam visíveis com o uso do uniforme que comporte camisa de manga curta e bermuda",
+    "o limite de idade máxima dos candidatos para ingresso no Quadro de Praças Policiais Militares (QPPM) é de 40 anos"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 56. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "ensino-003",
+   "subtema": "Ensino, ingresso, promocoes, carreira",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "De acordo com a Lei Complementar nº 1.291, de 22 de julho de 2016, a pessoa interessada em obter o provimento no cargo inicial das carreiras da Polícia Militar do Estado de São Paulo deve atender aos requisitos para se inscrever no concurso e às condições de posse nela definidas. Assinale a alternativa que contém respectivamente requisito para inscrição e condição de posse segundo definidos na Lei mencionada:",
+   "alternativas": [
+    "idade máxima de 35 (trinta e cinco) anos para ingresso no Quadro de Oficiais Músicos (QOM) e possuir perfil psicológico compatível com o exercício do cargo",
+    "idade máxima de 30 (trinta) anos para ingresso no Quadro de Oficiais Músicos (QOM) e possuir perfil psicológico compatível com o exercício do cargo",
+    "idade mínima de 18 (dezoito) anos para ingresso no Quadro de Praças Policiais Militares (QPPM) e ter boa conduta social, reputação e idoneidade ilibadas",
+    "idade máxima de 30 (trinta) anos para ingresso no Quadro de Oficiais de Saúde (QOS) e não ter sido condenado em processo criminal transitado em julgado"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2021, questão 57. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2021",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "ensino-004",
+   "subtema": "Ensino, ingresso, promocoes, carreira",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Assinale dentre as alternativas abaixo a que apresenta princípio fundamental do Sistema de Ensino da PMESP em desacordo com o previsto na Lei Complementar nº 1.036/08:",
+   "alternativas": [
+    "Integração à educação nacional",
+    "Pluralismo pedagógico",
+    "Profissionalização continuada e progressiva",
+    "Seleção baseada na antiguidade"
+   ],
+   "correta": 3,
+   "explicacao": "Gabarito oficial da prova do CAO 2022, questão 60. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2022",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "ensino-005",
+   "subtema": "Ensino, ingresso, promocoes, carreira",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "Segundo a Lei Complementar n° 1.036/08, de 11 de janeiro de 2008, que institui o Sistema de Ensino da Polícia Militar do Estado de São Paulo, o título de Bacharel em Ciências Policiais de Segurança e Ordem Pública é conferido a:",
+   "alternativas": [
+    "Praças que concluírem o curso sequencial de formação específica",
+    "Oficiais que concluírem o curso de graduação na Academia de Polícia Militar do Barro Branco",
+    "Policiais militares que completarem o mestrado profissional",
+    "Oficiais superiores que concluírem o doutorado"
+   ],
+   "correta": 1,
+   "explicacao": "Gabarito oficial da prova do CAO 2025, questão 36. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2025",
+    "sem-explicacao"
+   ]
+  },
+  {
+   "id": "ensino-006",
+   "subtema": "Ensino, ingresso, promocoes, carreira",
+   "artigo": "A conferir na norma vigente",
+   "enunciado": "O Decreto nº 69.058, de 14 de novembro de 2024, ao regulamentar a Lei de Ingresso na Polícia Militar, estabelece as etapas dos concursos públicos da Instituição. No que se refere à etapa dos exames de conhecimento, assinale a alternativa correta:",
+   "alternativas": [
+    "Os exames de conhecimento, de caráter eliminatório e classificatório, consistirão na realização de provas objetiva e dissertativa",
+    "Os exames de conhecimento, de caráter eliminatório e classificatório, consistirão exclusivamente na realização de provas objetivas",
+    "Os exames de conhecimento, de caráter eliminatório, consistirão exclusivamente na realização de provas objetivas",
+    "Os exames de conhecimento, de caráter apenas classificatório, consistirão na realização de provas objetiva e dissertativa"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito oficial da prova do CAO 2025, questão 44. A fundamentação ainda não foi escrita: use \"Pedir explicação detalhada\" e confira a redação vigente da norma antes de fixar a regra — questões de 2018 a 2023 podem ter sido adaptadas.",
+   "tags": [
+    "caderno-2025",
+    "sem-explicacao"
+   ]
+  }
+ ]
+}

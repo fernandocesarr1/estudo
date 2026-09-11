@@ -1,0 +1,22 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Backups locais (não deveriam ir pro GitHub)
+backups/*.json
+!backups/.gitkeep
+
+# Logs
+*.log
+
+# Backups do manifest
+data/*.bak-*
+
+# Build offline (contem as questoes do caderno; nao publicar)
+dist/

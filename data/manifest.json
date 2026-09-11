@@ -1,11 +1,11 @@
 {
-  "version": "2.0.0",
-  "lastUpdated": "2026-05-27",
+  "version": "3.0.0",
+  "lastUpdated": "2026-09-11",
   "materias": [
     {
       "id": "rdpm",
       "nome": "RDPM",
-      "nomeCompleto": "Regulamento Disciplinar da Polícia Militar (245 questões)",
+      "nomeCompleto": "Regulamento Disciplinar da Polícia Militar (490 questões)",
       "norma": "LC nº 893/2001",
       "arquivo": "data/rdpm.json",
       "cor": "#7c1a1a",
@@ -15,11 +15,11 @@
     {
       "id": "i16pm",
       "nome": "I-16-PM",
-      "nomeCompleto": "Instruções do Processo Administrativo da Polícia Militar",
+      "nomeCompleto": "Instruções do Processo Administrativo da Polícia Militar (500 questões)",
       "norma": "Port. Cmt G",
       "arquivo": "data/i16pm.json",
       "cor": "#1a4d7c",
-      "ativo": false,
+      "ativo": true,
       "ordem": 2
     },
     {
@@ -51,6 +51,226 @@
       "cor": "#2d5016",
       "ativo": false,
       "ordem": 5
+    },
+    {
+      "id": "progpol",
+      "nome": "Programas de Policiamento",
+      "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
+      "norma": "Dtz PM3-002 a 007/02/20",
+      "arquivo": "data/progpol.json",
+      "cor": "#1a5c7c",
+      "ativo": true,
+      "ordem": 11
+    },
+    {
+      "id": "norsop",
+      "nome": "NORSOP",
+      "nomeCompleto": "Normas para o Sistema Operacional de Policiamento (34 questões)",
+      "norma": "Dtz PM3-001/02/20",
+      "arquivo": "data/norsop.json",
+      "cor": "#0f5132",
+      "ativo": true,
+      "ordem": 12
+    },
+    {
+      "id": "rdpm-caderno",
+      "nome": "RDPM · caderno",
+      "nomeCompleto": "RDPM, rito do PD e portarias CORREGPM — questões de prova (32 questões)",
+      "norma": "LC 893/01",
+      "arquivo": "data/rdpm-caderno.json",
+      "cor": "#7c1a1a",
+      "ativo": true,
+      "ordem": 13
+    },
+    {
+      "id": "escolta",
+      "nome": "Escolta e GATE",
+      "nomeCompleto": "Movimentação de presos, adolescentes, reféns e intervenção do GATE (26 questões)",
+      "norma": "Dtz PM3-006/02/14 e correlatas",
+      "arquivo": "data/escolta.json",
+      "cor": "#6b2d5f",
+      "ativo": true,
+      "ordem": 14
+    },
+    {
+      "id": "cf88",
+      "nome": "CF/88 e CESP/89",
+      "nomeCompleto": "Constituição Federal e Constituição Estadual (25 questões)",
+      "norma": "CF/88 · CESP/89",
+      "arquivo": "data/cf88.json",
+      "cor": "#1a3d7c",
+      "ativo": true,
+      "ordem": 15
+    },
+    {
+      "id": "licitacoes",
+      "nome": "Licitações",
+      "nomeCompleto": "Lei de Licitações e Contratos Administrativos (23 questões)",
+      "norma": "Lei 14.133/21",
+      "arquivo": "data/licitacoes.json",
+      "cor": "#7c4d1a",
+      "ativo": true,
+      "ordem": 16
+    },
+    {
+      "id": "financas",
+      "nome": "Finanças",
+      "nomeCompleto": "Adiantamento, UGE, controle interno e vantagens pecuniárias (21 questões)",
+      "norma": "LC 731/93 · Lei 10.320/68",
+      "arquivo": "data/financas.json",
+      "cor": "#5f5f1a",
+      "ativo": true,
+      "ordem": 17
+    },
+    {
+      "id": "cpm-caderno",
+      "nome": "CPM · caderno",
+      "nomeCompleto": "Código Penal Militar — questões de prova (20 questões)",
+      "norma": "DL 1.001/69",
+      "arquivo": "data/cpm-caderno.json",
+      "cor": "#4d1a7c",
+      "ativo": true,
+      "ordem": 18
+    },
+    {
+      "id": "usoforca",
+      "nome": "Uso da Força",
+      "nomeCompleto": "Taser, munição de impacto, colete, resgate tático e gestão de risco (18 questões)",
+      "norma": "POPs e OSv",
+      "arquivo": "data/usoforca.json",
+      "cor": "#8a3d2d",
+      "ativo": true,
+      "ordem": 19
+    },
+    {
+      "id": "delegada",
+      "nome": "Atividade Delegada",
+      "nomeCompleto": "Atividade Delegada, reintegração de posse e eventos (16 questões)",
+      "norma": "Dtz PM3-002/02/14 · PM3-009/02/14",
+      "arquivo": "data/delegada.json",
+      "cor": "#2d6b6b",
+      "ativo": true,
+      "ordem": 20
+    },
+    {
+      "id": "logistica",
+      "nome": "Logística",
+      "nomeCompleto": "Transportes, administração logística, patrimonial e bens imóveis (15 questões)",
+      "norma": "I-15, I-23, I-38-PM",
+      "arquivo": "data/logistica.json",
+      "cor": "#4a4a6b",
+      "ativo": true,
+      "ordem": 21
+    },
+    {
+      "id": "inatividade",
+      "nome": "Inatividade",
+      "nomeCompleto": "Inatividade, reserva, reforma e agregação (14 questões)",
+      "norma": "DL 260/70 · LC 1.150/11",
+      "arquivo": "data/inatividade.json",
+      "cor": "#7c3d1a",
+      "ativo": true,
+      "ordem": 22
+    },
+    {
+      "id": "i40-caderno",
+      "nome": "I-40-PM · caderno",
+      "nomeCompleto": "Polícia Judiciária Militar e IPM (14 questões)",
+      "norma": "I-40-PM",
+      "arquivo": "data/i40-caderno.json",
+      "cor": "#3d6b3d",
+      "ativo": true,
+      "ordem": 23
+    },
+    {
+      "id": "beneficios",
+      "nome": "Benefícios",
+      "nomeCompleto": "Acidente em serviço, indenizações e seguro de vida (12 questões)",
+      "norma": "Dec. 20.218/82 · Lei 14.984/13",
+      "arquivo": "data/beneficios.json",
+      "cor": "#2d6b4a",
+      "ativo": true,
+      "ordem": 24
+    },
+    {
+      "id": "dejem",
+      "nome": "DEJEM e Regime",
+      "nomeCompleto": "DEJEM, regime de trabalho, licença-prêmio e pecúnia (12 questões)",
+      "norma": "Dtz PM3-4/02/21",
+      "arquivo": "data/dejem.json",
+      "cor": "#4a6b2d",
+      "ativo": true,
+      "ordem": 25
+    },
+    {
+      "id": "gespol",
+      "nome": "GESPOL",
+      "nomeCompleto": "Sistema de Gestão da PMESP, plano de comando e processos (12 questões)",
+      "norma": "GESPOL 3ª ed.",
+      "arquivo": "data/gespol.json",
+      "cor": "#5a2d6b",
+      "ativo": true,
+      "ordem": 26
+    },
+    {
+      "id": "c2",
+      "nome": "Comando e Controle",
+      "nomeCompleto": "Sistema de Comando e Controle, SCIPM, AEP, Escudo e crime organizado (11 questões)",
+      "norma": "Dtz PM3-1/02/23 e correlatas",
+      "arquivo": "data/c2.json",
+      "cor": "#7c2d4a",
+      "ativo": true,
+      "ordem": 27
+    },
+    {
+      "id": "dh-rover",
+      "nome": "Direitos Humanos",
+      "nomeCompleto": "ROVER — Para Servir e Proteger e grupos vulneráveis (10 questões)",
+      "norma": "ROVER, 4ª ed., CICV",
+      "arquivo": "data/dh-rover.json",
+      "cor": "#3d5a7c",
+      "ativo": true,
+      "ordem": 28
+    },
+    {
+      "id": "i16-caderno",
+      "nome": "I-16-PM · caderno",
+      "nomeCompleto": "Processo Administrativo: sindicância, CD e CJ (10 questões)",
+      "norma": "I-16-PM",
+      "arquivo": "data/i16-caderno.json",
+      "cor": "#2d5f8a",
+      "ativo": true,
+      "ordem": 29
+    },
+    {
+      "id": "cppm-caderno",
+      "nome": "CPPM · caderno",
+      "nomeCompleto": "Código de Processo Penal Militar — questões de prova (7 questões)",
+      "norma": "DL 1.002/69",
+      "arquivo": "data/cppm-caderno.json",
+      "cor": "#1a7c4d",
+      "ativo": true,
+      "ordem": 30
+    },
+    {
+      "id": "ensino",
+      "nome": "Ensino e Carreira",
+      "nomeCompleto": "Sistema de Ensino, Lei de Ingresso, promoções e Lei 18.442/26 (6 questões)",
+      "norma": "LC 1.036/08 · LC 1.291/16 · Lei 18.442/26",
+      "arquivo": "data/ensino.json",
+      "cor": "#6b4a2d",
+      "ativo": true,
+      "ordem": 31
+    },
+    {
+      "id": "outros",
+      "nome": "Caderno · diversos",
+      "nomeCompleto": "Questões do caderno sem tema dominante — use nos dias de simulado (256 questões)",
+      "norma": "Diversas",
+      "arquivo": "data/outros.json",
+      "cor": "#4a4a4a",
+      "ativo": true,
+      "ordem": 99
     }
   ]
 }
