@@ -25,7 +25,8 @@ const NEW_CARDS_PER_SESSION = 10;
 const MAX_REVIEW_CARDS_PER_SESSION = 30;
 const MAX_ERROS_RECENTES = 50;
 const SYNC_DEBOUNCE_MS = 30000;
-const SYNC_PADRAO = { owner: 'fernandocesarr1', repo: 'estudo-progresso', branch: 'main', path: 'progresso.json' };
+// Branch separada: gravar o histórico na main dispararia uma publicação do site a cada sincronização
+const SYNC_PADRAO = { owner: 'fernandocesarr1', repo: 'estudo', branch: 'progresso', path: 'progresso.json' };
 
 // ============================================================
 // Estado global
@@ -1108,7 +1109,7 @@ function renderSettings() {
 
     <div class="settings-section">
       <h3>Histórico no GitHub</h3>
-      <p>Revisões, notas, questões erradas e estatísticas ficam gravadas num arquivo JSON do repositório. Todo aparelho configurado lê e grava o mesmo histórico. O token fica só neste aparelho e nunca vai para o repositório: use um token <em>fine-grained</em> com acesso apenas a esse repositório e permissão <em>Contents: Read and write</em>.</p>
+      <p>Revisões, notas, questões erradas e estatísticas ficam gravadas num arquivo JSON do repositório, na branch indicada (separada da branch do site, para não republicá-lo a cada gravação). Todo aparelho configurado lê e grava o mesmo histórico. O token fica só neste aparelho e nunca vai para o repositório: use um token <em>fine-grained</em> com acesso apenas a esse repositório e permissão <em>Contents: Read and write</em>.</p>
       <p class="sync-status" data-sync-status>${escapeHTML(textoStatusSync())}</p>
       <div class="sync-form">
         <label>Dono <input id="sync-owner" value="${escapeHTML(cfg.owner)}" autocomplete="off" autocapitalize="off"></label>
