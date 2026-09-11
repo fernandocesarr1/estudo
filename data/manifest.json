@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "3.1.0",
   "lastUpdated": "2026-09-11",
   "materias": [
     {
@@ -10,7 +10,8 @@
       "arquivo": "data/rdpm.json",
       "cor": "#7c1a1a",
       "ativo": true,
-      "ordem": 1
+      "ordem": 1,
+      "origem": "elaborada"
     },
     {
       "id": "i16pm",
@@ -20,7 +21,8 @@
       "arquivo": "data/i16pm.json",
       "cor": "#1a4d7c",
       "ativo": true,
-      "ordem": 2
+      "ordem": 2,
+      "origem": "elaborada"
     },
     {
       "id": "cpm",
@@ -30,7 +32,8 @@
       "arquivo": "data/cpm.json",
       "cor": "#4d1a7c",
       "ativo": false,
-      "ordem": 3
+      "ordem": 3,
+      "origem": "elaborada"
     },
     {
       "id": "cppm",
@@ -40,7 +43,8 @@
       "arquivo": "data/cppm.json",
       "cor": "#1a7c4d",
       "ativo": false,
-      "ordem": 4
+      "ordem": 4,
+      "origem": "elaborada"
     },
     {
       "id": "ambiental",
@@ -50,7 +54,8 @@
       "arquivo": "data/ambiental.json",
       "cor": "#2d5016",
       "ativo": false,
-      "ordem": 5
+      "ordem": 5,
+      "origem": "elaborada"
     },
     {
       "id": "progpol",
@@ -60,7 +65,8 @@
       "arquivo": "data/progpol.json",
       "cor": "#1a5c7c",
       "ativo": true,
-      "ordem": 11
+      "ordem": 11,
+      "origem": "prova"
     },
     {
       "id": "norsop",
@@ -70,7 +76,8 @@
       "arquivo": "data/norsop.json",
       "cor": "#0f5132",
       "ativo": true,
-      "ordem": 12
+      "ordem": 12,
+      "origem": "prova"
     },
     {
       "id": "rdpm-caderno",
@@ -80,7 +87,8 @@
       "arquivo": "data/rdpm-caderno.json",
       "cor": "#7c1a1a",
       "ativo": true,
-      "ordem": 13
+      "ordem": 13,
+      "origem": "prova"
     },
     {
       "id": "escolta",
@@ -90,7 +98,8 @@
       "arquivo": "data/escolta.json",
       "cor": "#6b2d5f",
       "ativo": true,
-      "ordem": 14
+      "ordem": 14,
+      "origem": "prova"
     },
     {
       "id": "cf88",
@@ -100,7 +109,8 @@
       "arquivo": "data/cf88.json",
       "cor": "#1a3d7c",
       "ativo": true,
-      "ordem": 15
+      "ordem": 15,
+      "origem": "prova"
     },
     {
       "id": "licitacoes",
@@ -110,7 +120,8 @@
       "arquivo": "data/licitacoes.json",
       "cor": "#7c4d1a",
       "ativo": true,
-      "ordem": 16
+      "ordem": 16,
+      "origem": "prova"
     },
     {
       "id": "financas",
@@ -120,7 +131,8 @@
       "arquivo": "data/financas.json",
       "cor": "#5f5f1a",
       "ativo": true,
-      "ordem": 17
+      "ordem": 17,
+      "origem": "prova"
     },
     {
       "id": "cpm-caderno",
@@ -130,7 +142,8 @@
       "arquivo": "data/cpm-caderno.json",
       "cor": "#4d1a7c",
       "ativo": true,
-      "ordem": 18
+      "ordem": 18,
+      "origem": "prova"
     },
     {
       "id": "usoforca",
@@ -140,7 +153,8 @@
       "arquivo": "data/usoforca.json",
       "cor": "#8a3d2d",
       "ativo": true,
-      "ordem": 19
+      "ordem": 19,
+      "origem": "prova"
     },
     {
       "id": "delegada",
@@ -150,7 +164,8 @@
       "arquivo": "data/delegada.json",
       "cor": "#2d6b6b",
       "ativo": true,
-      "ordem": 20
+      "ordem": 20,
+      "origem": "prova"
     },
     {
       "id": "logistica",
@@ -160,7 +175,8 @@
       "arquivo": "data/logistica.json",
       "cor": "#4a4a6b",
       "ativo": true,
-      "ordem": 21
+      "ordem": 21,
+      "origem": "prova"
     },
     {
       "id": "inatividade",
@@ -170,7 +186,8 @@
       "arquivo": "data/inatividade.json",
       "cor": "#7c3d1a",
       "ativo": true,
-      "ordem": 22
+      "ordem": 22,
+      "origem": "prova"
     },
     {
       "id": "i40-caderno",
@@ -180,7 +197,8 @@
       "arquivo": "data/i40-caderno.json",
       "cor": "#3d6b3d",
       "ativo": true,
-      "ordem": 23
+      "ordem": 23,
+      "origem": "prova"
     },
     {
       "id": "beneficios",
@@ -190,7 +208,8 @@
       "arquivo": "data/beneficios.json",
       "cor": "#2d6b4a",
       "ativo": true,
-      "ordem": 24
+      "ordem": 24,
+      "origem": "prova"
     },
     {
       "id": "dejem",
@@ -200,7 +219,8 @@
       "arquivo": "data/dejem.json",
       "cor": "#4a6b2d",
       "ativo": true,
-      "ordem": 25
+      "ordem": 25,
+      "origem": "prova"
     },
     {
       "id": "gespol",
@@ -210,7 +230,8 @@
       "arquivo": "data/gespol.json",
       "cor": "#5a2d6b",
       "ativo": true,
-      "ordem": 26
+      "ordem": 26,
+      "origem": "prova"
     },
     {
       "id": "c2",
@@ -220,7 +241,8 @@
       "arquivo": "data/c2.json",
       "cor": "#7c2d4a",
       "ativo": true,
-      "ordem": 27
+      "ordem": 27,
+      "origem": "prova"
     },
     {
       "id": "dh-rover",
@@ -230,7 +252,8 @@
       "arquivo": "data/dh-rover.json",
       "cor": "#3d5a7c",
       "ativo": true,
-      "ordem": 28
+      "ordem": 28,
+      "origem": "prova"
     },
     {
       "id": "i16-caderno",
@@ -240,7 +263,8 @@
       "arquivo": "data/i16-caderno.json",
       "cor": "#2d5f8a",
       "ativo": true,
-      "ordem": 29
+      "ordem": 29,
+      "origem": "prova"
     },
     {
       "id": "cppm-caderno",
@@ -250,7 +274,8 @@
       "arquivo": "data/cppm-caderno.json",
       "cor": "#1a7c4d",
       "ativo": true,
-      "ordem": 30
+      "ordem": 30,
+      "origem": "prova"
     },
     {
       "id": "ensino",
@@ -260,7 +285,8 @@
       "arquivo": "data/ensino.json",
       "cor": "#6b4a2d",
       "ativo": true,
-      "ordem": 31
+      "ordem": 31,
+      "origem": "prova"
     },
     {
       "id": "outros",
@@ -270,7 +296,8 @@
       "arquivo": "data/outros.json",
       "cor": "#4a4a4a",
       "ativo": true,
-      "ordem": 99
+      "ordem": 99,
+      "origem": "prova"
     }
   ]
 }

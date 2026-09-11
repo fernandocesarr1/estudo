@@ -29,6 +29,12 @@ const SYNC_DEBOUNCE_MS = 30000;
 const SYNC_PADRAO = { owner: 'fernandocesarr1', repo: 'estudo', branch: 'progresso', path: 'progresso.json' };
 const REVISAO_KEY = 'pmesp-estudo-revisao-v1'; // visualizador de erradas/busca aberto (sobrevive ao recarregamento)
 const ROTULO_RATING = { [RATING.AGAIN]: 'Errei', [RATING.HARD]: 'Difícil', [RATING.GOOD]: 'Bom', [RATING.EASY]: 'Fácil' };
+const ABA_KEY = 'pmesp-estudo-aba-v1'; // aba escolhida na tela inicial (provas, elaboradas ou erradas)
+const ABAS_HOME = [
+  { id: 'prova', rotulo: 'Provas', descricao: 'Questões das provas do CAO de 2018 a 2025, com o gabarito oficial.' },
+  { id: 'elaborada', rotulo: 'Elaboradas', descricao: 'Questões redigidas a partir das normas e do material do curso.' },
+  { id: 'erradas', rotulo: 'Erradas', descricao: 'Questões cuja última resposta foi errada, de provas e elaboradas. Saem da lista quando você acerta.' }
+];
 
 // ============================================================
 // Estado global
@@ -45,6 +51,7 @@ const state = {
     lastBackup: null
   },
   currentScreen: 'home',
+  abaHome: lerJSONLocal(ABA_KEY, 'prova'),
   currentSession: null,
   revisao: null, // { ids, idx, titulo } — visualizador de questões com setas
   ultimaBusca: [] // ids do último resultado de busca
@@ -705,24 +712,60 @@ function renderHome() {
     <div class="questao-atalhos" id="busca-resultados"></div>
 
     <div class="section-label">Matérias</div>
+    <div class="abas-home" role="tablist" aria-label="Tipo de questão">
+      ${ABAS_HOME.map(aba => `
+        <button class="aba-home" role="tab" data-action="trocar-aba" data-aba="${aba.id}" aria-selected="${aba.id === abaAtual()}">${aba.rotulo}${aba.id === 'erradas' ? '<span class="aba-home-num" data-num-erradas hidden></span>' : ''}</button>
+      `).join('')}
+    </div>
+    <p class="aba-home-descricao" id="aba-descricao"></p>
     <div class="materia-list" id="materia-list"></div>
 
     <button class="btn-ghost" data-action="abrir-settings">Backup · Configurações</button>
 
     <footer class="app-footer">
-      <p>Estudo PMESP v${state.manifest.version} · ${state.manifest.materias.filter(m=>m.ativo).length} matéria(s) ativa(s).</p>
+      <p>Estudo PMESP v${state.manifest.version} · ${materiasAtivas.length} matéria(s) ativa(s).</p>
       <p class="sync-status" data-sync-status>${escapeHTML(textoStatusSync())}</p>
     </footer>
   `;
   app.appendChild(screen);
 
+  preencherAba();
+  contarErradasPorMateria().then(atualizarContagemErradas);
+}
+
+// Abas da tela inicial: a origem de cada matéria vem do manifest ("prova" ou "elaborada")
+function origemMateria(meta) {
+  return meta.origem === 'prova' ? 'prova' : 'elaborada';
+}
+
+function abaAtual() {
+  return ABAS_HOME.some(a => a.id === state.abaHome) ? state.abaHome : ABAS_HOME[0].id;
+}
+
+let geracaoAba = 0; // descarta carregamentos de uma aba que o usuário já trocou
+
+function preencherAba() {
+  const list = document.getElementById('materia-list');
+  if (!list) return;
+  const aba = abaAtual();
+  const geracao = ++geracaoAba;
+  document.querySelectorAll('.aba-home').forEach(b => b.setAttribute('aria-selected', String(b.dataset.aba === aba)));
+  const descricao = document.getElementById('aba-descricao');
+  const textoAba = ABAS_HOME.find(a => a.id === aba).descricao;
+  list.innerHTML = '';
+
+  if (aba === 'erradas') {
+    if (descricao) descricao.textContent = textoAba;
+    preencherErradas(list, geracao);
+    return;
+  }
+
+  const daAba = state.manifest.materias.filter(m => origemMateria(m) === aba).sort((a, b) => a.ordem - b.ordem);
+  const ativas = daAba.filter(m => m.ativo);
+  if (descricao) descricao.textContent = `${textoAba} ${ativas.length} matéria(s).`;
+
   // Carrega e renderiza cada matéria assincronamente (mostra placeholders enquanto carrega)
-  const list = screen.querySelector('#materia-list');
-  const idsErradas = new Set(listarErradas().map(e => e.id));
-  materiasAtivas.forEach(async (meta) => {
-    // Linha da matéria: cartão principal + aba "Erradas" (só aparece quando há erradas)
-    const linha = document.createElement('div');
-    linha.className = 'materia-linha';
+  ativas.forEach(async (meta) => {
     const card = document.createElement('button');
     card.className = 'materia-card';
     card.setAttribute('data-action', 'iniciar-materia');
@@ -734,13 +777,7 @@ function renderHome() {
         <span>Carregando…</span>
       </div>
     `;
-    const abaErradas = document.createElement('button');
-    abaErradas.className = 'materia-erradas';
-    abaErradas.hidden = true;
-    abaErradas.setAttribute('data-action', 'refazer-erradas');
-    abaErradas.setAttribute('data-materia', meta.id);
-    linha.append(card, abaErradas);
-    list.appendChild(linha);
+    list.appendChild(card);
 
     try {
       const materia = await loadMateria(meta.id);
@@ -749,22 +786,13 @@ function renderHome() {
       const novasLabel = s.novas > 0 ? `<span>${s.novas} novas</span>` : '';
       const aprendidasLabel = `<span>${s.aprendidas}/${s.total} em revisão</span>`;
       card.querySelector('.materia-stats').innerHTML = [dueLabel, novasLabel, aprendidasLabel].filter(Boolean).join(' · ');
-      const erradas = materia.questoes.filter(q => idsErradas.has(q.id)).length;
-      if (erradas > 0) {
-        abaErradas.innerHTML = `
-          <span class="materia-erradas-num">${erradas}</span>
-          <span class="materia-erradas-rotulo">Erradas</span>
-        `;
-        abaErradas.setAttribute('aria-label', `Refazer ${erradas} questões erradas de ${meta.nome}`);
-        abaErradas.hidden = false;
-      }
     } catch (err) {
       card.querySelector('.materia-stats').innerHTML = `<span style="color:var(--accent)">Erro ao carregar</span>`;
     }
   });
 
   // Matérias inativas (cinzas, não clicáveis)
-  state.manifest.materias.filter(m => !m.ativo).sort((a, b) => a.ordem - b.ordem).forEach(meta => {
+  daAba.filter(m => !m.ativo).forEach(meta => {
     const card = document.createElement('button');
     card.className = 'materia-card';
     card.disabled = true;
@@ -775,6 +803,55 @@ function renderHome() {
     `;
     list.appendChild(card);
   });
+}
+
+// Erradas agrupadas por matéria ativa (carrega todas as matérias para localizar as questões)
+async function contarErradasPorMateria() {
+  await carregarTodasMaterias();
+  const porMateria = new Map();
+  for (const { id } of listarErradas()) {
+    const achado = encontrarQuestao(id);
+    if (!achado?.materiaMeta?.ativo) continue;
+    porMateria.set(achado.materiaMeta.id, (porMateria.get(achado.materiaMeta.id) || 0) + 1);
+  }
+  return porMateria;
+}
+
+function totalErradas(porMateria) {
+  return [...porMateria.values()].reduce((soma, n) => soma + n, 0);
+}
+
+function atualizarContagemErradas(porMateria) {
+  const badge = document.querySelector('[data-num-erradas]');
+  if (!badge) return;
+  const total = totalErradas(porMateria);
+  badge.textContent = total;
+  badge.hidden = total === 0;
+}
+
+async function preencherErradas(list, geracao) {
+  list.innerHTML = '<p class="busca-vazia">Carregando…</p>';
+  const porMateria = await contarErradasPorMateria();
+  if (geracao !== geracaoAba) return;
+  atualizarContagemErradas(porMateria);
+  const materias = state.manifest.materias.filter(m => porMateria.has(m.id)).sort((a, b) => a.ordem - b.ordem);
+  if (materias.length === 0) {
+    list.innerHTML = '<p class="busca-vazia">Nenhuma questão errada no momento.</p>';
+    return;
+  }
+  list.innerHTML = `
+    ${materias.map(meta => `
+      <button class="materia-card erradas-card" data-action="refazer-erradas" data-materia="${escapeHTML(meta.id)}">
+        <div class="materia-name">${escapeHTML(meta.nome)}</div>
+        <div class="materia-full">${origemMateria(meta) === 'prova' ? 'Provas' : 'Elaboradas'} · ${escapeHTML(meta.nomeCompleto)}</div>
+        <div class="materia-stats">
+          <span class="materia-stat-due">${porMateria.get(meta.id)} errada(s)</span>
+          <span>Refazer</span>
+        </div>
+      </button>
+    `).join('')}
+    <button class="btn-ghost erradas-ver-todas" data-action="abrir-revisao" data-lista="erradas">Ver as ${totalErradas(porMateria)} com gabarito</button>
+  `;
 }
 
 // Atalhos para voltar a uma questão: erradas e busca
@@ -1460,6 +1537,13 @@ document.addEventListener('click', async (e) => {
     if (destino < 0 || destino >= session.cards.length) return;
     session.currentIdx = destino;
     render();
+  }
+  else if (action === 'trocar-aba') {
+    const aba = target.dataset.aba;
+    if (aba === abaAtual() || !ABAS_HOME.some(a => a.id === aba)) return;
+    state.abaHome = aba;
+    gravarJSONLocal(ABA_KEY, aba);
+    preencherAba();
   }
   else if (action === 'refazer-erradas') {
     const materiaId = target.dataset.materia;

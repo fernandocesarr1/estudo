@@ -1201,56 +1201,77 @@ a {
   color: var(--accent);
 }
 
-/* Linha da matéria: cartão principal + aba "Erradas" */
-.materia-linha {
-  display: flex;
-  gap: 0.5rem;
-  align-items: stretch;
+/* Aba "Erradas": cartão por matéria, com a contagem em destaque */
+.materia-card.erradas-card {
+  border-left: 3px solid var(--accent);
 }
 
-.materia-linha .materia-card {
-  flex: 1;
-  min-width: 0;
-}
-
-.materia-erradas {
-  flex: 0 0 4.5rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 0.3rem;
-  background: var(--bg-elevated);
-  border: 1px solid var(--line);
-  border-top: 3px solid var(--accent);
+.erradas-ver-todas {
+  width: 100%;
   color: var(--accent);
-  transition: border-color 0.15s, background 0.15s;
 }
 
-.materia-erradas[hidden] {
-  display: none;
-}
-
-.materia-erradas:hover {
-  border-color: var(--accent);
-  background: var(--accent-soft);
-}
-
-.materia-erradas-num {
-  font-family: var(--font-serif);
-  font-size: 1.35rem;
-  font-weight: 500;
-  line-height: 1;
-}
-
-.materia-erradas-rotulo {
-  font-size: 0.55rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
+.erradas-ver-todas:hover {
+  color: var(--ink);
 }
 
 .revisao-obs {
   font-size: 0.75rem;
   color: var(--ink-mute);
   margin: -0.5rem 0 1rem;
+}
+
+/* Abas da tela inicial: provas × elaboradas × erradas */
+.abas-home {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 0.75rem;
+}
+
+.aba-home {
+  padding: 0.85rem 0.25rem 0.75rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.aba-home:hover {
+  color: var(--ink);
+}
+
+.aba-home[aria-selected="true"] {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+  font-weight: 600;
+}
+
+.aba-home-descricao {
+  font-size: 0.78rem;
+  color: var(--ink-mute);
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.aba-home-num {
+  display: inline-block;
+  min-width: 1.5em;
+  margin-left: 0.35em;
+  padding: 0.1em 0.4em;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--bg-elevated);
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 1.3;
+  vertical-align: 0.1em;
+}
+
+.aba-home-num[hidden] {
+  display: none;
 }
