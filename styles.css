@@ -1025,3 +1025,127 @@ a {
 .fade-in {
   animation: fadeIn 0.25s ease-out;
 }
+
+/* ============================================================
+   Atalhos de questões (erradas recentemente, busca)
+   ============================================================ */
+.questao-atalhos {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.questao-atalhos:empty {
+  margin-bottom: 1.25rem;
+}
+
+.questao-atalho {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: var(--bg-elevated);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent);
+  padding: 0.875rem 1rem;
+  transition: border-color 0.15s;
+}
+
+.questao-atalho:hover {
+  border-color: var(--ink);
+  border-left-color: var(--accent);
+}
+
+.questao-atalho-meta {
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  margin-bottom: 0.35rem;
+}
+
+.questao-atalho-nota {
+  color: var(--correct);
+  margin-left: 0.35rem;
+}
+
+.questao-atalho-texto {
+  font-family: var(--font-serif);
+  font-size: 0.9rem;
+  line-height: 1.45;
+  color: var(--ink);
+}
+
+.busca-questao {
+  width: 100%;
+  padding: 0.75rem 0.875rem;
+  margin-bottom: 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 0;
+  background: var(--bg-elevated);
+  font-family: var(--font-sans);
+  font-size: 1rem; /* 16px evita o zoom automático do iOS ao focar */
+  color: var(--ink);
+  -webkit-appearance: none;
+}
+
+.busca-questao:focus {
+  outline: none;
+  border-color: var(--ink);
+}
+
+.busca-vazia {
+  font-size: 0.8rem;
+  color: var(--ink-mute);
+}
+
+.rascunho-aviso {
+  font-size: 0.75rem;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+/* ============================================================
+   Histórico no GitHub
+   ============================================================ */
+.sync-status {
+  margin-top: 0.5rem;
+}
+
+.settings-section .sync-status {
+  color: var(--ink-soft);
+}
+
+.sync-form {
+  display: grid;
+  gap: 0.625rem;
+  margin-bottom: 0.875rem;
+}
+
+.sync-form label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+}
+
+.sync-form input {
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 0;
+  background: var(--bg-elevated);
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  letter-spacing: normal;
+  text-transform: none;
+  color: var(--ink);
+  -webkit-appearance: none;
+}
+
+.sync-form input:focus {
+  outline: none;
+  border-color: var(--ink);
+}
