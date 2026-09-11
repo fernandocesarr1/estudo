@@ -27,6 +27,8 @@ const MAX_ERROS_RECENTES = 50;
 const SYNC_DEBOUNCE_MS = 30000;
 // Branch separada: gravar o histórico na main dispararia uma publicação do site a cada sincronização
 const SYNC_PADRAO = { owner: 'fernandocesarr1', repo: 'estudo', branch: 'progresso', path: 'progresso.json' };
+const REVISAO_KEY = 'pmesp-estudo-revisao-v1'; // visualizador de erradas/busca aberto (sobrevive ao recarregamento)
+const ROTULO_RATING = { [RATING.AGAIN]: 'Errei', [RATING.HARD]: 'Difícil', [RATING.GOOD]: 'Bom', [RATING.EASY]: 'Fácil' };
 
 // ============================================================
 // Estado global
@@ -43,7 +45,9 @@ const state = {
     lastBackup: null
   },
   currentScreen: 'home',
-  currentSession: null
+  currentSession: null,
+  revisao: null, // { ids, idx, titulo } — visualizador de questões com setas
+  ultimaBusca: [] // ids do último resultado de busca
 };
 
 // ============================================================
@@ -146,6 +150,24 @@ function saveDraft(questionId, texto) {
   if (texto) rascunhos[questionId] = texto;
   else delete rascunhos[questionId];
   gravarJSONLocal(DRAFT_KEY, rascunhos);
+}
+
+function saveRevisao() {
+  gravarJSONLocal(REVISAO_KEY, state.currentScreen === 'revisao' && state.revisao ? state.revisao : null);
+}
+
+async function restoreRevisao() {
+  const salva = lerJSONLocal(REVISAO_KEY, null);
+  if (!salva?.ids?.length) return false;
+  await carregarTodasMaterias();
+  const ids = salva.ids.filter(id => encontrarQuestao(id));
+  if (ids.length === 0) {
+    gravarJSONLocal(REVISAO_KEY, null);
+    return false;
+  }
+  state.revisao = { ids, idx: Math.min(salva.idx || 0, ids.length - 1), titulo: salva.titulo || 'Questões' };
+  state.currentScreen = 'revisao';
+  return true;
 }
 
 // ============================================================
@@ -518,9 +540,9 @@ function applyReview(questionId, rating) {
   saveUserData();
 }
 
-function registrarErro(questionId) {
+function registrarErro(questionId, escolha) {
   const lista = (state.userData.errosRecentes || []).filter(e => e.id !== questionId);
-  lista.unshift({ id: questionId, at: new Date().toISOString() });
+  lista.unshift({ id: questionId, at: new Date().toISOString(), escolha });
   state.userData.errosRecentes = lista.slice(0, MAX_ERROS_RECENTES);
   saveUserData();
 }
@@ -626,8 +648,10 @@ function render() {
   else if (state.currentScreen === 'quiz') renderQuiz();
   else if (state.currentScreen === 'results') renderResults();
   else if (state.currentScreen === 'settings') renderSettings();
+  else if (state.currentScreen === 'revisao') renderRevisao();
   window.scrollTo(0, 0);
   saveSession();
+  saveRevisao();
 }
 
 // ============================================================
@@ -666,7 +690,10 @@ function renderHome() {
     ` : ''}
 
     <section id="secao-erros-recentes" hidden>
-      <div class="section-label">Erradas recentemente</div>
+      <div class="secao-topo">
+        <div class="section-label">Erradas recentemente</div>
+        <button class="feedback-action-btn" data-action="revisar-erradas">Revisar todas <span id="total-erradas"></span> →</button>
+      </div>
       <div class="questao-atalhos" id="erros-recentes"></div>
     </section>
 
@@ -729,27 +756,31 @@ function renderHome() {
   });
 }
 
-// Atalhos para voltar a uma questão: erradas recentemente e busca
-function listarErrosRecentes(limite = 15) {
-  const ultimos = new Map();
-  for (const e of state.userData.errosRecentes || []) ultimos.set(e.id, e.at);
+// Atalhos para voltar a uma questão: erradas e busca
+// Errada = a resposta mais recente à questão foi errada (acertou depois, sai da lista)
+function listarErradas() {
+  const porId = new Map(); // id -> { at, escolha }
+  for (const e of state.userData.errosRecentes || []) porId.set(e.id, { at: e.at, escolha: e.escolha });
   for (const [id, card] of Object.entries(state.userData.cards)) {
     const ultima = card.history?.[card.history.length - 1];
-    if (ultima?.rating === RATING.AGAIN && !(ultimos.get(id) >= ultima.timestamp)) {
-      ultimos.set(id, ultima.timestamp);
+    if (!ultima) continue;
+    const registro = porId.get(id);
+    if (ultima.rating === RATING.AGAIN) {
+      if (!registro || registro.at < ultima.timestamp) porId.set(id, { at: ultima.timestamp, escolha: registro?.escolha });
+    } else if (registro && ultima.timestamp > registro.at) {
+      porId.delete(id);
     }
   }
-  return [...ultimos.entries()]
-    .sort((a, b) => (a[1] < b[1] ? 1 : -1))
-    .slice(0, limite)
-    .map(([id]) => id);
+  return [...porId.entries()]
+    .sort((a, b) => (a[1].at < b[1].at ? 1 : -1))
+    .map(([id, r]) => ({ id, ...r }));
 }
 
-function atalhoQuestaoHTML(question, materiaMeta) {
+function atalhoQuestaoHTML(question, materiaMeta, lista) {
   const temNota = Boolean(state.userData.explicacoes[question.id]);
   const texto = question.enunciado.length > 160 ? `${question.enunciado.slice(0, 157)}…` : question.enunciado;
   return `
-    <button class="questao-atalho" data-action="abrir-explicacao" data-question-id="${escapeHTML(question.id)}">
+    <button class="questao-atalho" data-action="abrir-revisao" data-lista="${lista}" data-question-id="${escapeHTML(question.id)}">
       <div class="questao-atalho-meta">
         ${escapeHTML(materiaMeta?.nome || '')} · ${escapeHTML(question.artigo)}
         ${temNota ? '<span class="questao-atalho-nota">nota salva</span>' : ''}
@@ -760,20 +791,22 @@ function atalhoQuestaoHTML(question, materiaMeta) {
 }
 
 async function renderErrosRecentes(screen) {
-  const ids = listarErrosRecentes();
-  if (ids.length === 0) return;
+  const erradas = listarErradas();
+  if (erradas.length === 0) return;
   await carregarTodasMaterias();
-  const itens = ids.map(id => encontrarQuestao(id)).filter(Boolean);
+  const itens = erradas.map(e => encontrarQuestao(e.id)).filter(Boolean);
   const secao = screen.querySelector('#secao-erros-recentes');
   if (!secao || itens.length === 0) return;
+  secao.querySelector('#total-erradas').textContent = `(${itens.length})`;
   secao.querySelector('#erros-recentes').innerHTML = itens
-    .map(({ question, materiaMeta }) => atalhoQuestaoHTML(question, materiaMeta))
+    .slice(0, 10)
+    .map(({ question, materiaMeta }) => atalhoQuestaoHTML(question, materiaMeta, 'erradas'))
     .join('');
   secao.hidden = false;
 }
 
 function normalizarBusca(texto) {
-  return String(texto || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  return String(texto || '').normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
 }
 
 async function buscarQuestoes(termo) {
@@ -787,15 +820,20 @@ async function buscarQuestoes(termo) {
   await carregarTodasMaterias();
   if (document.getElementById('busca-questao')?.value !== termo) return; // usuário continuou digitando
   const resultados = [];
+  const ids = [];
   for (const materia of Object.values(state.materias)) {
     if (!materia.meta?.ativo) continue;
     for (const question of materia.questoes) {
       const alvo = normalizarBusca(`${question.id} ${question.artigo} ${question.enunciado} ${question.alternativas.join(' ')}`);
-      if (palavras.every(p => alvo.includes(p))) resultados.push(atalhoQuestaoHTML(question, materia.meta));
+      if (palavras.every(p => alvo.includes(p))) {
+        resultados.push(atalhoQuestaoHTML(question, materia.meta, 'busca'));
+        ids.push(question.id);
+      }
       if (resultados.length >= 20) break;
     }
     if (resultados.length >= 20) break;
   }
+  state.ultimaBusca = ids;
   container.innerHTML = resultados.length
     ? resultados.join('')
     : '<p class="busca-vazia">Nenhuma questão encontrada.</p>';
@@ -819,6 +857,10 @@ function renderQuiz() {
   const answer = session.answers[session.currentIdx];
   const answered = !!answer;
   const progress = ((session.currentIdx + 1) / session.cards.length) * 100;
+  const ultimoIdx = session.cards.length - 1;
+  const puladas = session.cards
+    .filter((_, i) => i < session.currentIdx && (!session.answers[i] || session.answers[i].rating == null))
+    .length;
 
   const screen = document.createElement('div');
   screen.className = 'screen fade-in';
@@ -827,7 +869,10 @@ function renderQuiz() {
     <div class="quiz-topbar">
       <button class="quiz-back" data-action="sair-quiz">← Sair</button>
       <div class="quiz-counter">
+        <button class="nav-mini" data-action="questao-anterior" ${session.currentIdx === 0 ? 'disabled' : ''} aria-label="Questão anterior">‹</button>
         ${session.currentIdx + 1}<span class="slash">/</span>${session.cards.length}
+        <button class="nav-mini" data-action="questao-proxima" ${session.currentIdx === ultimoIdx ? 'disabled' : ''} aria-label="Próxima questão">›</button>
+        ${puladas > 0 ? `<span class="quiz-puladas">${puladas} pendente${puladas === 1 ? '' : 's'} antes</span>` : ''}
       </div>
     </div>
 
@@ -847,6 +892,7 @@ function renderQuiz() {
 
     <div id="feedback-container"></div>
     <div id="rating-container"></div>
+    ${navegacaoHTML('questao-anterior', 'questao-proxima', session.currentIdx === 0, session.currentIdx === ultimoIdx, answered ? 'Próxima' : 'Pular')}
   `;
   app.appendChild(screen);
 
@@ -878,8 +924,36 @@ function renderQuiz() {
   // Feedback (se respondida)
   if (answered) {
     renderFeedback(screen, q, answer);
-    renderRatingButtons(screen, card, q.correta === answer.userChoice);
+    if (answer.rating == null) {
+      renderRatingButtons(screen, card, q.correta === answer.userChoice);
+    } else {
+      // já avaliada: ao voltar pela seta, só mostra a avaliação (não repete a revisão no FSRS)
+      screen.querySelector('#rating-container').innerHTML =
+        `<div class="rating-prompt">Avaliada como: ${ROTULO_RATING[answer.rating]}</div>`;
+    }
   }
+}
+
+function navegacaoHTML(acaoAnterior, acaoProxima, semAnterior, semProxima, rotuloProxima = 'Próxima') {
+  return `
+    <div class="nav-questoes">
+      <button class="nav-questao" data-action="${acaoAnterior}" ${semAnterior ? 'disabled' : ''} aria-label="Questão anterior">
+        <span class="nav-seta">←</span> Anterior
+      </button>
+      <button class="nav-questao" data-action="${acaoProxima}" ${semProxima ? 'disabled' : ''} aria-label="Próxima questão">
+        ${rotuloProxima} <span class="nav-seta">→</span>
+      </button>
+    </div>
+  `;
+}
+
+function proximaPendente(session, aPartirDe) {
+  const total = session.cards.length;
+  for (let passo = 1; passo <= total; passo++) {
+    const i = (aPartirDe + passo) % total;
+    if (!session.answers[i] || session.answers[i].rating == null) return i;
+  }
+  return -1;
 }
 
 function renderFeedback(screen, q, answer) {
@@ -951,20 +1025,22 @@ function handleAnswerChoice(choiceIdx) {
     questionId: card.question.id,
     rating: null
   };
-  if (!correct) registrarErro(card.question.id);
+  if (!correct) registrarErro(card.question.id, choiceIdx);
   render();
 }
 
 function handleRating(rating) {
   const session = state.currentSession;
   const card = session.cards[session.currentIdx];
+  if (session.answers[session.currentIdx].rating != null) return; // já avaliada: evita revisão dupla no FSRS
   session.answers[session.currentIdx].rating = rating;
 
   applyReview(card.question.id, rating);
 
-  // Próxima questão ou fim
-  if (session.currentIdx + 1 < session.cards.length) {
-    session.currentIdx++;
+  // Próxima questão pendente (inclusive as puladas) ou fim
+  const proxima = proximaPendente(session, session.currentIdx);
+  if (proxima !== -1) {
+    session.currentIdx = proxima;
     render();
   } else {
     state.userData.stats.sessionCount++;
@@ -1092,6 +1168,65 @@ function renderResults() {
       list.appendChild(details);
     });
   }
+}
+
+// ============================================================
+// Tela: Revisão — percorre erradas ou resultados da busca com setas
+// ============================================================
+function renderRevisao() {
+  const r = state.revisao;
+  const achado = r ? encontrarQuestao(r.ids[r.idx]) : null;
+  if (!achado) {
+    state.revisao = null;
+    state.currentScreen = 'home';
+    render();
+    return;
+  }
+  const { question: q, materiaMeta } = achado;
+  const erro = listarErradas().find(e => e.id === q.id);
+  const escolha = erro?.escolha;
+  const total = r.ids.length;
+
+  const screen = document.createElement('div');
+  screen.className = 'screen fade-in';
+  screen.innerHTML = `
+    <div class="quiz-topbar">
+      <button class="quiz-back" data-action="sair-revisao">← Início</button>
+      <div class="quiz-counter">
+        ${escapeHTML(r.titulo)}
+        <button class="nav-mini" data-action="revisao-anterior" ${r.idx === 0 ? 'disabled' : ''} aria-label="Questão anterior">‹</button>
+        ${r.idx + 1}<span class="slash">/</span>${total}
+        <button class="nav-mini" data-action="revisao-proxima" ${r.idx === total - 1 ? 'disabled' : ''} aria-label="Próxima questão">›</button>
+      </div>
+    </div>
+
+    <div class="progress-bar">
+      <div class="progress-bar-fill" style="width:${((r.idx + 1) / total) * 100}%"></div>
+    </div>
+
+    <div class="question-meta">
+      <span class="article">${escapeHTML(q.artigo)}</span>
+      <span class="divider"></span>
+      <span class="topic">${escapeHTML(materiaMeta?.nome || '')} · ${escapeHTML(q.subtema)}</span>
+    </div>
+
+    <h2 class="question-text">${escapeHTML(q.enunciado)}</h2>
+
+    <div class="options">
+      ${q.alternativas.map((alt, i) => `
+        <button class="option ${i === q.correta ? 'correct' : i === escolha ? 'wrong' : 'muted'}" disabled>
+          <div class="option-badge">${String.fromCharCode(65 + i)}</div>
+          <div class="option-text">${escapeHTML(alt)}</div>
+        </button>
+      `).join('')}
+    </div>
+    ${erro && escolha == null ? '<p class="revisao-obs">A alternativa que você marcou neste erro não foi registrada.</p>' : ''}
+
+    <div id="feedback-container"></div>
+    ${navegacaoHTML('revisao-anterior', 'revisao-proxima', r.idx === 0, r.idx === total - 1)}
+  `;
+  app.appendChild(screen);
+  renderFeedback(screen, q);
 }
 
 // ============================================================
@@ -1311,6 +1446,45 @@ document.addEventListener('click', async (e) => {
     state.currentSession = null;
     render();
   }
+  else if (action === 'questao-anterior' || action === 'questao-proxima') {
+    const session = state.currentSession;
+    if (!session) return;
+    const destino = session.currentIdx + (action === 'questao-anterior' ? -1 : 1);
+    if (destino < 0 || destino >= session.cards.length) return;
+    session.currentIdx = destino;
+    render();
+  }
+  else if (action === 'revisar-erradas' || action === 'abrir-revisao') {
+    await carregarTodasMaterias();
+    const daBusca = target.dataset.lista === 'busca';
+    const ids = (daBusca ? state.ultimaBusca : listarErradas().map(e => e.id)).filter(id => encontrarQuestao(id));
+    const clicada = target.dataset.questionId;
+    let inicio = clicada ? ids.indexOf(clicada) : 0;
+    if (clicada && inicio === -1 && encontrarQuestao(clicada)) {
+      ids.unshift(clicada);
+      inicio = 0;
+    }
+    if (ids.length === 0) {
+      showToast('Nenhuma questão para revisar');
+      return;
+    }
+    state.revisao = { ids, idx: Math.max(0, inicio), titulo: daBusca ? 'Busca' : 'Erradas' };
+    state.currentScreen = 'revisao';
+    render();
+  }
+  else if (action === 'revisao-anterior' || action === 'revisao-proxima') {
+    const r = state.revisao;
+    if (!r) return;
+    const destino = r.idx + (action === 'revisao-anterior' ? -1 : 1);
+    if (destino < 0 || destino >= r.ids.length) return;
+    r.idx = destino;
+    render();
+  }
+  else if (action === 'sair-revisao') {
+    state.revisao = null;
+    state.currentScreen = 'home';
+    render();
+  }
   else if (action === 'nova-sessao') {
     const materiaId = target.dataset.materia;
     const session = buildSession(materiaId, 'mixed');
@@ -1470,6 +1644,17 @@ document.addEventListener('visibilitychange', () => {
 });
 window.addEventListener('online', () => agendarSync(1000));
 
+// Setas do teclado alternam as questões (sessão e revisão)
+document.addEventListener('keydown', (e) => {
+  if (e.key !== 'ArrowLeft' && e.key !== 'ArrowRight') return;
+  if (!document.getElementById('modal-explicacao').hidden) return;
+  if (e.target.closest?.('input, textarea')) return;
+  const prefixo = { quiz: 'questao', revisao: 'revisao' }[state.currentScreen];
+  if (!prefixo) return;
+  const botao = document.querySelector(`[data-action="${prefixo}-${e.key === 'ArrowLeft' ? 'anterior' : 'proxima'}"]`);
+  if (botao && !botao.disabled) botao.click();
+});
+
 // Fecha modal ao clicar fora
 document.getElementById('modal-explicacao').addEventListener('click', (e) => {
   if (e.target.id === 'modal-explicacao') fecharModal();
@@ -1483,7 +1668,7 @@ document.getElementById('modal-explicacao').addEventListener('click', (e) => {
     loadUserData();
     await loadManifest();
     state.currentScreen = 'home';
-    await restoreSession();
+    if (!(await restoreSession())) await restoreRevisao();
     render();
     const modalAberto = lerJSONLocal(MODAL_KEY, null);
     if (modalAberto) abrirModalExplicacao(modalAberto);

@@ -1149,3 +1149,72 @@ a {
   outline: none;
   border-color: var(--ink);
 }
+
+/* ============================================================
+   Navegação entre questões (setas)
+   ============================================================ */
+.nav-questoes {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1.75rem;
+}
+
+.nav-questao {
+  flex: 1;
+  padding: 0.875rem 1rem;
+  border: 1px solid var(--line);
+  background: var(--bg-elevated);
+  color: var(--ink);
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  transition: border-color 0.15s;
+}
+
+.nav-questao:hover:not(:disabled) {
+  border-color: var(--ink);
+}
+
+.nav-questao:disabled {
+  opacity: 0.35;
+}
+
+.nav-questao .nav-seta {
+  font-size: 1rem;
+  letter-spacing: 0;
+}
+
+.nav-mini {
+  font-size: 1.25rem;
+  line-height: 1;
+  padding: 0.1rem 0.6rem;
+  color: var(--ink);
+  vertical-align: middle;
+}
+
+.nav-mini:disabled {
+  opacity: 0.25;
+}
+
+.quiz-puladas {
+  margin-left: 0.5rem;
+  color: var(--accent);
+}
+
+.secao-topo {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.secao-topo .feedback-action-btn {
+  margin-bottom: 1rem;
+  white-space: nowrap;
+}
+
+.revisao-obs {
+  font-size: 0.75rem;
+  color: var(--ink-mute);
+  margin: -0.5rem 0 1rem;
+}
