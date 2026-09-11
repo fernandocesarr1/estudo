@@ -628,6 +628,17 @@ function buildSession(materiaId, mode = 'mixed') {
   };
 }
 
+// Sessão só com as questões erradas da matéria, no mesmo formato das demais
+function buildSessionErradas(materiaId) {
+  const materia = state.materias[materiaId];
+  if (!materia) return null;
+  const idsErradas = new Set(listarErradas().map(e => e.id));
+  const cards = materia.questoes
+    .filter(q => idsErradas.has(q.id))
+    .map(q => ({ question: q, fsrs: getCardState(q.id) }));
+  return { materiaId, cards: shuffle(cards), currentIdx: 0, answers: [], mode: 'erradas' };
+}
+
 function shuffle(arr) {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
@@ -669,7 +680,7 @@ function renderHome() {
       <div class="eyebrow">PMESP · Estudo dirigido</div>
       <h1 class="h1">Revisão</h1>
       <p>Sistema integrado de questões com revisão espaçada (FSRS).</p>
-      <p class="subtitle">Persistência local · Backup manual</p>
+      <p class="subtitle">${syncAtivo() ? 'Histórico no GitHub · Sincronização automática' : 'Persistência local · Backup manual'}</p>
     </header>
 
     ${stats.totalAnswered > 0 ? `
@@ -689,14 +700,6 @@ function renderHome() {
       </div>
     ` : ''}
 
-    <section id="secao-erros-recentes" hidden>
-      <div class="secao-topo">
-        <div class="section-label">Erradas recentemente</div>
-        <button class="feedback-action-btn" data-action="revisar-erradas">Revisar todas <span id="total-erradas"></span> →</button>
-      </div>
-      <div class="questao-atalhos" id="erros-recentes"></div>
-    </section>
-
     <div class="section-label">Buscar questão</div>
     <input type="search" id="busca-questao" class="busca-questao" placeholder="Trecho do enunciado ou código (ex.: i16pm-120)" autocomplete="off" enterkeyhint="search">
     <div class="questao-atalhos" id="busca-resultados"></div>
@@ -712,11 +715,14 @@ function renderHome() {
     </footer>
   `;
   app.appendChild(screen);
-  renderErrosRecentes(screen);
 
   // Carrega e renderiza cada matéria assincronamente (mostra placeholders enquanto carrega)
   const list = screen.querySelector('#materia-list');
+  const idsErradas = new Set(listarErradas().map(e => e.id));
   materiasAtivas.forEach(async (meta) => {
+    // Linha da matéria: cartão principal + aba "Erradas" (só aparece quando há erradas)
+    const linha = document.createElement('div');
+    linha.className = 'materia-linha';
     const card = document.createElement('button');
     card.className = 'materia-card';
     card.setAttribute('data-action', 'iniciar-materia');
@@ -728,7 +734,13 @@ function renderHome() {
         <span>Carregando…</span>
       </div>
     `;
-    list.appendChild(card);
+    const abaErradas = document.createElement('button');
+    abaErradas.className = 'materia-erradas';
+    abaErradas.hidden = true;
+    abaErradas.setAttribute('data-action', 'refazer-erradas');
+    abaErradas.setAttribute('data-materia', meta.id);
+    linha.append(card, abaErradas);
+    list.appendChild(linha);
 
     try {
       const materia = await loadMateria(meta.id);
@@ -737,6 +749,15 @@ function renderHome() {
       const novasLabel = s.novas > 0 ? `<span>${s.novas} novas</span>` : '';
       const aprendidasLabel = `<span>${s.aprendidas}/${s.total} em revisão</span>`;
       card.querySelector('.materia-stats').innerHTML = [dueLabel, novasLabel, aprendidasLabel].filter(Boolean).join(' · ');
+      const erradas = materia.questoes.filter(q => idsErradas.has(q.id)).length;
+      if (erradas > 0) {
+        abaErradas.innerHTML = `
+          <span class="materia-erradas-num">${erradas}</span>
+          <span class="materia-erradas-rotulo">Erradas</span>
+        `;
+        abaErradas.setAttribute('aria-label', `Refazer ${erradas} questões erradas de ${meta.nome}`);
+        abaErradas.hidden = false;
+      }
     } catch (err) {
       card.querySelector('.materia-stats').innerHTML = `<span style="color:var(--accent)">Erro ao carregar</span>`;
     }
@@ -788,21 +809,6 @@ function atalhoQuestaoHTML(question, materiaMeta, lista) {
       <div class="questao-atalho-texto">${escapeHTML(texto)}</div>
     </button>
   `;
-}
-
-async function renderErrosRecentes(screen) {
-  const erradas = listarErradas();
-  if (erradas.length === 0) return;
-  await carregarTodasMaterias();
-  const itens = erradas.map(e => encontrarQuestao(e.id)).filter(Boolean);
-  const secao = screen.querySelector('#secao-erros-recentes');
-  if (!secao || itens.length === 0) return;
-  secao.querySelector('#total-erradas').textContent = `(${itens.length})`;
-  secao.querySelector('#erros-recentes').innerHTML = itens
-    .slice(0, 10)
-    .map(({ question, materiaMeta }) => atalhoQuestaoHTML(question, materiaMeta, 'erradas'))
-    .join('');
-  secao.hidden = false;
 }
 
 function normalizarBusca(texto) {
@@ -869,6 +875,7 @@ function renderQuiz() {
     <div class="quiz-topbar">
       <button class="quiz-back" data-action="sair-quiz">← Sair</button>
       <div class="quiz-counter">
+        ${session.mode === 'erradas' ? 'Erradas' : ''}
         <button class="nav-mini" data-action="questao-anterior" ${session.currentIdx === 0 ? 'disabled' : ''} aria-label="Questão anterior">‹</button>
         ${session.currentIdx + 1}<span class="slash">/</span>${session.cards.length}
         <button class="nav-mini" data-action="questao-proxima" ${session.currentIdx === ultimoIdx ? 'disabled' : ''} aria-label="Próxima questão">›</button>
@@ -1346,7 +1353,7 @@ async function abrirModalExplicacao(questionId) {
     </div>
 
     <p style="font-size:0.78rem;color:var(--ink-mute);margin: 1.5rem 0 0.5rem">
-      <strong>Passo 2:</strong> cole a resposta da IA aqui — ela ficará vinculada à questão e aparecerá toda vez que você revisar. Se a página recarregar quando você voltar da IA, esta janela reabre sozinha com o que já tiver colado; a questão também fica em “Erradas recentemente”, na tela inicial.
+      <strong>Passo 2:</strong> cole a resposta da IA aqui — ela ficará vinculada à questão e aparecerá toda vez que você revisar. Se a página recarregar quando você voltar da IA, esta janela reabre sozinha com o que já tiver colado; se você errou a questão, ela também fica na aba “Erradas” da matéria, na tela inicial.
     </p>
     ${rascunho && rascunho !== currentExp ? '<p class="rascunho-aviso">Rascunho recuperado — ainda não salvo.</p>' : ''}
     <textarea id="explicacao-input" data-question-id="${escapeHTML(questionId)}" style="width:100%;min-height:200px;padding:0.875rem;border:1px solid var(--line);background:var(--bg);font-family:var(--font-serif);font-size:0.88rem;line-height:1.6;color:var(--ink);resize:vertical">${escapeHTML(rascunho || currentExp)}</textarea>
@@ -1454,7 +1461,19 @@ document.addEventListener('click', async (e) => {
     session.currentIdx = destino;
     render();
   }
-  else if (action === 'revisar-erradas' || action === 'abrir-revisao') {
+  else if (action === 'refazer-erradas') {
+    const materiaId = target.dataset.materia;
+    await loadMateria(materiaId);
+    const session = buildSessionErradas(materiaId);
+    if (!session || session.cards.length === 0) {
+      showToast('Nenhuma questão errada nesta matéria');
+      return;
+    }
+    state.currentSession = session;
+    state.currentScreen = 'quiz';
+    render();
+  }
+  else if (action === 'abrir-revisao') {
     await carregarTodasMaterias();
     const daBusca = target.dataset.lista === 'busca';
     const ids = (daBusca ? state.ultimaBusca : listarErradas().map(e => e.id)).filter(id => encontrarQuestao(id));
