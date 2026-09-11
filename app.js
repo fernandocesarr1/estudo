@@ -296,11 +296,29 @@ function githubFetch(config, url, options = {}) {
   });
 }
 
-function mensagemErroGithub(status, operacao) {
-  if (status === 401) return 'token inválido ou expirado';
-  if (status === 403) return `token sem permissão para ${operacao}`;
-  if (status === 404) return 'repositório ou branch não encontrado, ou token sem acesso a ele';
-  return `GitHub respondeu ${status} ao ${operacao}`;
+// Monta o erro com orientação em português e o motivo devolvido pelo GitHub
+async function erroGithub(resp, operacao) {
+  let detalhe = '';
+  try {
+    detalhe = (await resp.json()).message || '';
+  } catch {
+    // resposta sem corpo JSON
+  }
+  let explicacao;
+  if (/rate limit/i.test(detalhe)) {
+    explicacao = 'limite de requisições do GitHub atingido; tente de novo em alguns minutos';
+  } else if (resp.status === 401) {
+    explicacao = 'token inválido, expirado ou colado incompleto';
+  } else if (resp.status === 403 || (resp.status === 404 && operacao === 'gravar o histórico')) {
+    explicacao = 'o token não tem permissão de escrita — edite-o no GitHub: acesso ao repositório e permissão Contents: Read and write';
+  } else if (resp.status === 404) {
+    explicacao = 'repositório ou branch não encontrado, ou token sem acesso a ele';
+  } else if (resp.status === 422) {
+    explicacao = 'o GitHub recusou a gravação; confira a branch e o nome do arquivo';
+  } else {
+    explicacao = `GitHub respondeu ${resp.status} ao ${operacao}`;
+  }
+  return new Error(detalhe ? `${explicacao} (GitHub: “${detalhe}”)` : explicacao);
 }
 
 async function baixarProgressoRemoto(config) {
@@ -309,10 +327,10 @@ async function baixarProgressoRemoto(config) {
   if (resp.status === 404) {
     // 404 pode ser arquivo ainda não criado ou repositório inacessível: confere o repositório
     const repo = await githubFetch(config, urlRepositorio(config), { headers: { Accept: 'application/vnd.github+json' } });
-    if (!repo.ok) throw new Error(mensagemErroGithub(repo.status, 'ler o repositório'));
+    if (!repo.ok) throw await erroGithub(repo, 'ler o repositório');
     return { dados: null, sha: null };
   }
-  if (!resp.ok) throw new Error(mensagemErroGithub(resp.status, 'ler o histórico'));
+  if (!resp.ok) throw await erroGithub(resp, 'ler o histórico');
   const info = await resp.json();
   let texto;
   if (info.content && info.encoding === 'base64') {
@@ -320,7 +338,7 @@ async function baixarProgressoRemoto(config) {
   } else {
     // arquivos acima de 1 MB não vêm embutidos na resposta: busca o conteúdo bruto
     const bruto = await githubFetch(config, url, { headers: { Accept: 'application/vnd.github.raw+json' } });
-    if (!bruto.ok) throw new Error(mensagemErroGithub(bruto.status, 'ler o histórico'));
+    if (!bruto.ok) throw await erroGithub(bruto, 'ler o histórico');
     texto = await bruto.text();
   }
   return { dados: JSON.parse(texto), sha: info.sha };
@@ -367,7 +385,7 @@ async function sincronizar({ sobrescrever = false, avisar = false } = {}) {
       if (resp.ok) break;
       // 409/422: o arquivo mudou entre a leitura e a gravação (outro aparelho) — lê, mescla e tenta de novo
       if ((resp.status === 409 || resp.status === 422) && tentativa < 3) continue;
-      throw new Error(mensagemErroGithub(resp.status, 'gravar o histórico'));
+      throw await erroGithub(resp, 'gravar o histórico');
     }
     sync.alteracoesEnviadas = alteracoesNoInicio;
     salvarConfigSync({ ...lerConfigSync(), ultimaSync: new Date().toISOString() });
@@ -376,7 +394,7 @@ async function sincronizar({ sobrescrever = false, avisar = false } = {}) {
   } catch (err) {
     console.error('Falha na sincronização:', err);
     sync.erro = err instanceof TypeError ? 'sem conexão com o GitHub' : err.message;
-    if (avisar) showToast(`Não sincronizou: ${sync.erro}`);
+    if (avisar) showToast(`Não sincronizou: ${sync.erro}`, 8000);
     return false;
   } finally {
     sync.emAndamento = false;
