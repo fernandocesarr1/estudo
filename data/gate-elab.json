@@ -1,0 +1,1896 @@
+{
+ "materia": "gate-elab",
+ "versao": "1.7.0",
+ "atualizadoEm": "2026-09-12",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Anexo da Diretriz",
+  "Atribuição exclusiva",
+  "Atribuições",
+  "Atuação integrada",
+  "Comandante do Incidente",
+  "Conceitos",
+  "Equipe de negociação",
+  "Esquadrão de Bombas",
+  "Estrutura operacional",
+  "Funções especializadas",
+  "Incidente crítico",
+  "Incidentes com explosivos",
+  "Incidentes de responsabilidade",
+  "Monitoramento e controle",
+  "Objeto e missão",
+  "Operadores especialistas",
+  "Princípios de atuação",
+  "Regras de engajamento",
+  "Seleção",
+  "Teatro de operações"
+ ],
+ "questoes": [
+  {
+   "id": "gate-elab-001",
+   "subtema": "Objeto e missão",
+   "artigo": "Dtz PM3-003/02/25 — disposições gerais",
+   "enunciado": "A Diretriz nº PM3-003/02/25 estabelece parâmetros doutrinários para a atuação do GATE e regula:",
+   "alternativas": [
+    "o rito dos procedimentos disciplinares dos operadores táticos",
+    "a estrutura orgânica e o quadro de organização do 4º BPChq",
+    "a seleção, a capacitação e o emprego dos seus operadores",
+    "a distribuição territorial das frações do Policiamento de Choque"
+   ],
+   "correta": 2,
+   "explicacao": "Além dos parâmetros doutrinários de atuação, a Diretriz disciplina a SELEÇÃO, a CAPACITAÇÃO e o EMPREGO dos operadores do GATE. Estrutura orgânica e distribuição territorial são matéria de outros atos.",
+   "tags": [
+    "objeto",
+    "diretriz"
+   ]
+  },
+  {
+   "id": "gate-elab-002",
+   "subtema": "Objeto e missão",
+   "artigo": "Dtz PM3-003/02/25 — missão",
+   "enunciado": "Segundo a missão fixada na Diretriz, cabe ao Comando de Policiamento de Choque manter o GATE em condições de pronto emprego para:",
+   "alternativas": [
+    "o gerenciamento e a resolução de incidentes críticos dinâmicos, sob coordenação do CPC",
+    "o gerenciamento e a resolução de incidentes críticos estáticos, sob coordenação do 4º BPChq",
+    "o policiamento ostensivo em áreas de alta criminalidade, sob coordenação do CPA",
+    "o apoio tático às unidades territoriais em ocorrências de qualquer natureza"
+   ],
+   "correta": 1,
+   "explicacao": "A missão alcança os incidentes críticos ESTÁTICOS e seus desdobramentos, por meio de operações táticas especiais, com pessoal altamente capacitado e equipamentos específicos, sob coordenação do 4º BPChq.",
+   "tags": [
+    "missao",
+    "estatico"
+   ]
+  },
+  {
+   "id": "gate-elab-003",
+   "subtema": "Objeto e missão",
+   "artigo": "Dtz PM3-003/02/25 — objetivos",
+   "enunciado": "Entre os objetivos declarados da Diretriz do GATE inclui-se:",
+   "alternativas": [
+    "centralizar no GATE a investigação criminal das ocorrências com uso de explosivos",
+    "ampliar o efetivo do Policiamento de Choque nas regiões metropolitanas do Estado",
+    "substituir as unidades territoriais no atendimento das ocorrências de alto risco",
+    "consolidar o gerenciamento de incidentes como eixo da formação e da especialização"
+   ],
+   "correta": 3,
+   "explicacao": "São objetivos: assegurar a pronta-resposta padronizada; elevar a capacidade de proteção à vida, à propriedade e ao meio ambiente; fortalecer a confiança social; e consolidar a disciplina gerenciamento de incidentes na formação e especialização, reduzindo improvisações.",
+   "tags": [
+    "objetivos",
+    "formacao"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-004",
+   "subtema": "Atribuição exclusiva",
+   "artigo": "Dtz PM3-003/02/25 — atribuições do GATE",
+   "enunciado": "O 4º BPChq, por meio do GATE, detém atribuição exclusiva:",
+   "alternativas": [
+    "no policiamento de choque em manifestações e no controle de distúrbios civis",
+    "na condução de negociações com reféns e nas intervenções táticas especializadas",
+    "na perícia criminal de locais de crime com emprego de armas de fogo",
+    "no atendimento de ocorrências com vítimas em local de difícil acesso"
+   ],
+   "correta": 1,
+   "explicacao": "A exclusividade recai sobre a CONDUÇÃO DE NEGOCIAÇÕES com reféns e as INTERVENÇÕES TÁTICAS ESPECIALIZADAS. O emprego observa os princípios do Sistema de Comando de Incidentes e pressupõe integração com os primeiros interventores.",
+   "tags": [
+    "exclusividade",
+    "negociacao"
+   ]
+  },
+  {
+   "id": "gate-elab-005",
+   "subtema": "Estrutura operacional",
+   "artigo": "Dtz PM3-003/02/25 — estrutura",
+   "enunciado": "Compõem a estrutura operacional do GATE, em regime de prontidão contínua de 24 horas:",
+   "alternativas": [
+    "a Unidade de Intervenção Tática, o Esquadrão de Bombas e a Companhia de Trânsito",
+    "o Esquadrão de Bombas, a Companhia de Choque e o Grupo de Radiopatrulha Aérea",
+    "a Companhia de Negociação, o Canil Operacional e a Companhia de Força Tática",
+    "o Esquadrão de Bombas, a Companhia de Negociação e a Unidade de Intervenção Tática"
+   ],
+   "correta": 3,
+   "explicacao": "São três especialidades em prontidão de 24 horas: Esquadrão de Bombas; Companhia de Negociação e Gerenciamento de Incidentes; e Unidade de Intervenção Tática. Choque, canil e trânsito não integram a estrutura do GATE.",
+   "tags": [
+    "estrutura",
+    "24h"
+   ]
+  },
+  {
+   "id": "gate-elab-006",
+   "subtema": "Estrutura operacional",
+   "artigo": "Dtz PM3-003/02/25 — Esquadrão de Bombas",
+   "enunciado": "O Esquadrão de Bombas é responsável pelo atendimento de ocorrências envolvendo explosivos:",
+   "alternativas": [
+    "apenas em instalações militares, cabendo ao Exército os locais civis",
+    "apenas na Região Metropolitana, cabendo ao CPI o atendimento no interior",
+    "apenas quando houver vítimas, cabendo à Polícia Civil os demais casos",
+    "em todo o Estado de São Paulo, inclusive nas atividades de perícia"
+   ],
+   "correta": 3,
+   "explicacao": "O Esquadrão de Bombas atende ocorrências com explosivos em TODO O ESTADO, inclusive as atividades de perícia especializada, e abrange os quatro tipos de operações antibomba.",
+   "tags": [
+    "esquadrao-bombas",
+    "estado"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-007",
+   "subtema": "Estrutura operacional",
+   "artigo": "Dtz PM3-003/02/25 — Companhia de Negociação",
+   "enunciado": "A Companhia de Negociação e Gerenciamento de Incidentes é especializada:",
+   "alternativas": [
+    "no acompanhamento psicológico dos policiais militares após incidentes críticos",
+    "na intervenção tática em ambientes confinados e na retomada de edificações",
+    "na desativação de artefatos explosivos improvisados e industrializados",
+    "no gerenciamento de incidentes críticos estáticos e na verbalização com causadores"
+   ],
+   "correta": 3,
+   "explicacao": "A Companhia de Negociação é especializada no gerenciamento de incidentes críticos ESTÁTICOS e na verbalização com causadores de incidentes que envolvam reféns ou pessoas armadas com propósito suicida.",
+   "tags": [
+    "negociacao",
+    "cia"
+   ]
+  },
+  {
+   "id": "gate-elab-008",
+   "subtema": "Estrutura operacional",
+   "artigo": "Dtz PM3-003/02/25 — UIT",
+   "enunciado": "A Unidade de Intervenção Tática do GATE detém exclusividade para:",
+   "alternativas": [
+    "a condução da verbalização com o causador do incidente crítico",
+    "a aplicação da invasão tática e o uso de técnicas não letais",
+    "a desativação de artefatos explosivos localizados no ponto crítico",
+    "o isolamento perimetral e a contenção do incidente policial estático"
+   ],
+   "correta": 1,
+   "explicacao": "A UIT é composta por especialistas em armas táticas e técnicas especiais, com EXCLUSIVIDADE para a invasão tática e o uso de técnicas não letais, atuando em resgate de reféns, retomada de edificações e reconhecimento de área.",
+   "tags": [
+    "uit",
+    "invasao"
+   ]
+  },
+  {
+   "id": "gate-elab-009",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-003/02/25 — operações táticas especiais",
+   "enunciado": "São exemplos de operações táticas especiais, conforme a Diretriz:",
+   "alternativas": [
+    "patrulhamento tático preventivo, saturação de área e ponto de estacionamento",
+    "policiamento de eventos, escolta de presos e controle de distúrbios civis",
+    "resgate de reféns, retomada de edificações e medidas contrabombas",
+    "varredura preventiva em estádios, vistoria de bagagens e escolta de valores"
+   ],
+   "correta": 2,
+   "explicacao": "As operações táticas especiais são o conjunto de atividades próprias do GATE voltadas à resolução de incidentes críticos pelas alternativas táticas: resgate de reféns, retomada de edificações, suicidas armados, criminosos embarricados, mandados de busca de alto risco, contraterrorismo e medidas contrabombas.",
+   "tags": [
+    "ote",
+    "conceito"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-010",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-003/02/25 — regra de engajamento",
+   "enunciado": "As regras de engajamento, na Diretriz do GATE, são definidas como diretrizes técnico-operacionais estabelecidas previamente:",
+   "alternativas": [
+    "pelo Coordenador do GATE, com validade para a equipe de intervenção tática",
+    "pelo Comandante do Policiamento de Choque, para todas as ocorrências do Estado",
+    "pelo Comandante do Incidente, delimitando condições, gatilhos, autorizações e meios",
+    "pelo Comandante Geral, por meio de ato normativo publicado em boletim"
+   ],
+   "correta": 2,
+   "explicacao": "As regras de engajamento são fixadas PREVIAMENTE pelo Cmt Inc e delimitam condições, gatilhos operacionais, níveis de autorização e meios admissíveis, permitindo resposta imediata a alterações abruptas do cenário sem nova autorização verbal.",
+   "tags": [
+    "regra-engajamento",
+    "cmt-inc"
+   ]
+  },
+  {
+   "id": "gate-elab-011",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-003/02/25 — janela de oportunidade",
+   "enunciado": "A janela de oportunidade é conceituada como intervalo de tempo:",
+   "alternativas": [
+    "destinado à avaliação técnica dos líderes das equipes antes da intervenção",
+    "previamente fixado nas regras de engajamento para a entrada da equipe tática",
+    "limitado e imprevisível em que as condições táticas ficam favoráveis",
+    "concedido ao causador para a rendição voluntária antes da invasão tática"
+   ],
+   "correta": 2,
+   "explicacao": "É intervalo LIMITADO E IMPREVISÍVEL em que as condições se tornam especialmente favoráveis, rompendo a progressão normal do incidente e criando chance real de intervenção bem-sucedida, ainda que não prevista nas regras de engajamento.",
+   "tags": [
+    "janela",
+    "conceito"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-012",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-003/02/25 — janela de oportunidade",
+   "enunciado": "Constitui exemplo de janela de oportunidade previsto na Diretriz:",
+   "alternativas": [
+    "a autorização do Comandante do Incidente para o tiro de comprometimento",
+    "o esgotamento do prazo fixado pelo negociador para a rendição do causador",
+    "a chegada da equipe de intervenção tática ao teatro de operações",
+    "a falha física ou emocional do causador, como desmaio ou colapso psicológico"
+   ],
+   "correta": 3,
+   "explicacao": "São exemplos: falha física ou emocional do causador; alteração abrupta do ambiente que gere vantagem tática; vantagem posicional da UIT; e falha de controle do refém pelo causador. A ordem para o tiro é regra de engajamento, não janela.",
+   "tags": [
+    "janela",
+    "exemplos"
+   ]
+  },
+  {
+   "id": "gate-elab-013",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-003/02/25 — primeiro interventor",
+   "enunciado": "Compete ao primeiro interventor, na forma da Diretriz:",
+   "alternativas": [
+    "iniciar a verbalização com o causador, aplicando técnicas de negociação básicas",
+    "assumir o comando do incidente até a chegada do Comando de Policiamento de Área",
+    "adotar contenção, isolamento e preservação da cena e informar o COPOM",
+    "determinar as regras de engajamento aplicáveis até a chegada da equipe do GATE"
+   ],
+   "correta": 2,
+   "explicacao": "Ao primeiro interventor cabem as providências iniciais de contenção, isolamento e preservação da cena, a transmissão de informações precisas ao COPOM e ao escalão superior e o subsídio ao acionamento oportuno dos recursos especializados.",
+   "tags": [
+    "primeiro-interventor",
+    "copom"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-014",
+   "subtema": "Teatro de operações",
+   "artigo": "Dtz PM3-003/02/25 — teatro de operações",
+   "enunciado": "O teatro de operações compreende:",
+   "alternativas": [
+    "o ponto crítico e a área ao redor, com as estruturas necessárias à resolução",
+    "apenas o ponto crítico, onde o incidente ocorre ou se mostra mais intenso",
+    "apenas a área de isolamento perimetral definida pelo primeiro interventor",
+    "o perímetro de segurança e a área de imprensa, excluído o posto de comando"
+   ],
+   "correta": 0,
+   "explicacao": "O teatro de operações abrange o ponto crítico e toda a área ao redor, com as estruturas físicas e logísticas necessárias: posto de comando, área de concentração de vítimas, área de espera e área de imprensa.",
+   "tags": [
+    "teatro-operacoes",
+    "estruturas"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-015",
+   "subtema": "Teatro de operações",
+   "artigo": "Dtz PM3-003/02/25 — posto de comando",
+   "enunciado": "A estrutura, permanente ou móvel, onde se localizam o Comandante do Incidente e seu estado-maior, para onde fluem as informações e de onde emanam as ordens, é:",
+   "alternativas": [
+    "o posto de comando do teatro de operações",
+    "a área de espera das equipes empenhadas",
+    "a área de concentração de vítimas do incidente",
+    "a área de imprensa destinada aos jornalistas"
+   ],
+   "correta": 0,
+   "explicacao": "O posto de comando é o referencial de comando e controle no teatro de operações. A área de espera recebe equipes e autoridades que chegam; a área de concentração de vítimas organiza feridos e socorristas; a área de imprensa fica mais afastada.",
+   "tags": [
+    "posto-comando"
+   ]
+  },
+  {
+   "id": "gate-elab-016",
+   "subtema": "Teatro de operações",
+   "artigo": "Dtz PM3-003/02/25 — área de concentração de vítimas",
+   "enunciado": "O local próximo e protegido, com espaço para condução e direcionamento dos feridos e socorristas, preferencialmente organizado pelas equipes de socorro, é:",
+   "alternativas": [
+    "o ponto crítico do incidente policial",
+    "a área de espera de viaturas e equipes",
+    "a área de imprensa do teatro de operações",
+    "a área de concentração de vítimas"
+   ],
+   "correta": 3,
+   "explicacao": "A área de concentração de vítimas é organizada e direcionada preferencialmente pelas equipes de socorro (UR, USA ou SAMU). Não se confunde com a área de espera, destinada à chegada de novas equipes, autoridades e viaturas.",
+   "tags": [
+    "acv",
+    "socorro"
+   ]
+  },
+  {
+   "id": "gate-elab-017",
+   "subtema": "Teatro de operações",
+   "artigo": "Dtz PM3-003/02/25 — área de espera",
+   "enunciado": "A área de espera no teatro de operações destina-se:",
+   "alternativas": [
+    "ao recebimento de novas equipes, autoridades e viaturas oficiais",
+    "ao atendimento pré-hospitalar das vítimas retiradas do ponto crítico",
+    "à instalação do comando e do estado-maior do incidente crítico",
+    "à concessão de entrevistas coletivas pelos porta-vozes designados"
+   ],
+   "correta": 0,
+   "explicacao": "A área de espera recebe equipes, autoridades e viaturas oficiais que chegam ao local, devendo ser organizada para não impedir a saída de viaturas de emergência, como as de socorro.",
+   "tags": [
+    "area-espera"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-018",
+   "subtema": "Teatro de operações",
+   "artigo": "Dtz PM3-003/02/25 — área de imprensa",
+   "enunciado": "Quanto à área de imprensa, a Diretriz estabelece que deve ser:",
+   "alternativas": [
+    "mais afastada, ainda com visual do ponto crítico, evitando narrativas paralelas",
+    "instalada no posto de comando, para acesso direto ao Comandante do Incidente",
+    "dispensada nas ocorrências com reféns, por risco à estratégia de negociação",
+    "organizada pela própria imprensa, sem interferência da Polícia Militar local"
+   ],
+   "correta": 0,
+   "explicacao": "A área de imprensa fica mais afastada, ainda com visual do ponto crítico, para receber os profissionais e repassar informações e notas, evitando diversas narrativas e porta-vozes não oficiais. Deve ficar fora da zona de isolamento.",
+   "tags": [
+    "area-imprensa"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-019",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-003/02/25 — violência letal e real",
+   "enunciado": "Configura violência letal e real, para os fins da Diretriz:",
+   "alternativas": [
+    "a agressão ao refém que, sem socorro imediato, gera risco elevado de óbito",
+    "a ameaça verbal de morte dirigida ao refém durante a negociação",
+    "o disparo de arma de fogo em direção às equipes policiais no perímetro",
+    "a recusa do causador em dialogar com o negociador principal"
+   ],
+   "correta": 0,
+   "explicacao": "Violência letal e real é a agressão que, na ausência de socorro imediato, traz risco elevado de óbito: hemorragia, dificuldade respiratória, inconsciência, disparos contra reféns, golpes de arma branca, cortes profundos ou contusões graves.",
+   "tags": [
+    "violencia-letal",
+    "conceito"
+   ]
+  },
+  {
+   "id": "gate-elab-020",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-003/02/25 — terrorismo",
+   "enunciado": "O conceito de terrorismo adotado pela Diretriz do GATE abrange o uso de violência real ou presumida com o propósito de:",
+   "alternativas": [
+    "constranger autoridade a praticar ato de ofício em processo judicial",
+    "obter vantagem patrimonial direta em ataques a instituições financeiras",
+    "impedir a atuação das forças de segurança em área de conflito armado",
+    "desestabilizar a ordem pública, social ou institucional da coletividade"
+   ],
+   "correta": 3,
+   "explicacao": "O conceito alcança violência física ou psicológica praticada por indivíduo, grupo ou organização criminosa para desestabilizar a ordem, gerar intimidação coletiva e clima de insegurança, com motivação política, ideológica, religiosa, étnica ou de manutenção de interesses ilícitos.",
+   "tags": [
+    "terrorismo",
+    "conceito"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-021",
+   "subtema": "Incidente crítico",
+   "artigo": "Dtz PM3-003/02/25, Anexo — incidente estático",
+   "enunciado": "Incidente policial estático é aquele que:",
+   "alternativas": [
+    "limita-se a determinado espaço geográfico, permitindo contenção e isolamento",
+    "se desloca no espaço, exigindo intervenção imediata dos primeiros respondedores",
+    "envolve apenas causadores armados com artefatos explosivos improvisados",
+    "ocorre em ambiente confinado, com reféns em número superior a três pessoas"
+   ],
+   "correta": 0,
+   "explicacao": "O incidente ESTÁTICO limita-se a um espaço geográfico, o que permite contenção e isolamento pelos primeiros respondedores e o acionamento de recursos especializados. O DINÂMICO tem causadores em movimento e exige intervenção imediata.",
+   "tags": [
+    "estatico",
+    "dinamico"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-022",
+   "subtema": "Incidente crítico",
+   "artigo": "Dtz PM3-003/02/25, Anexo — incidente dinâmico",
+   "enunciado": "Nos incidentes policiais dinâmicos, a Diretriz estabelece que:",
+   "alternativas": [
+    "a intervenção imediata dos primeiros respondedores precede os recursos especializados",
+    "o atendimento deve aguardar a chegada da fração especializada do GATE ao local",
+    "o isolamento perimetral é medida suficiente para a estabilização do incidente",
+    "a negociação é a alternativa prioritária, por envolver deslocamento do causador"
+   ],
+   "correta": 0,
+   "explicacao": "No incidente dinâmico, os causadores estão em movimento e os impactos não se limitam a um espaço, o que obsta a contenção e o isolamento iniciais e EXIGE intervenção imediata dos primeiros respondedores, antes mesmo do acionamento dos recursos especializados.",
+   "tags": [
+    "dinamico",
+    "primeiros-respondedores"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-023",
+   "subtema": "Atuação integrada",
+   "artigo": "Dtz PM3-003/02/25 — primeiros interventores",
+   "enunciado": "Antes da chegada da fração especializada ao local, a Diretriz admite que o GATE preste aos primeiros interventores:",
+   "alternativas": [
+    "a delegação de técnicas de intervenção tática à unidade territorial",
+    "a designação de um Comandante do Incidente provisório",
+    "a assunção imediata do comando por videoconferência",
+    "suporte remoto à atuação, quando cabível"
+   ],
+   "correta": 3,
+   "explicacao": "Antes da chegada da fração especializada, admite-se o SUPORTE REMOTO do GATE aos primeiros interventores; a partir da chegada, o oficial designado do GATE assume como Comandante do Incidente.",
+   "tags": [
+    "suporte-remoto",
+    "primeiros-interventores"
+   ]
+  },
+  {
+   "id": "gate-elab-024",
+   "subtema": "Atuação integrada",
+   "artigo": "Dtz PM3-003/02/25 — atribuições particulares",
+   "enunciado": "Nas ocorrências típicas de GATE, cabe aos Comandos territoriais e especializados:",
+   "alternativas": [
+    "dividir o comando com o oficial do GATE, conforme a natureza do incidente",
+    "manter o comando do incidente, cabendo ao GATE a execução das medidas técnicas",
+    "reconhecer o GATE como Comandante do Incidente a partir de sua chegada ao local",
+    "assumir o comando quando o incidente ocorrer na respectiva circunscrição"
+   ],
+   "correta": 2,
+   "explicacao": "CPC, CPM, CPI, CPAmb, CPRv, CPTran, CAvPM e CCB devem reconhecer o GATE como Cmt Inc a partir de sua chegada, colaborar com suas equipes, comunicar previamente sempre que possível e transferir a função ao oficial designado.",
+   "tags": [
+    "atribuicoes-particulares",
+    "cmt-inc"
+   ]
+  },
+  {
+   "id": "gate-elab-025",
+   "subtema": "Atuação integrada",
+   "artigo": "Dtz PM3-003/02/25 — transferência do gerenciamento",
+   "enunciado": "O gerenciamento dos incidentes críticos nas atividades típicas de GATE passa à sua responsabilidade:",
+   "alternativas": [
+    "tão logo sua fração especializada compareça ao local da ocorrência",
+    "somente quando o incidente ocorrer na área do Comando de Policiamento de Choque",
+    "após autorização do Comandante de Policiamento de Área do local dos fatos",
+    "depois de decorridas duas horas do acionamento da equipe especializada"
+   ],
+   "correta": 0,
+   "explicacao": "A transferência ocorre TÃO LOGO a fração especializada compareça ao local, INDEPENDENTEMENTE da circunscrição territorial da OPM demandante ou apoiada, observados os princípios do SCIPM.",
+   "tags": [
+    "transferencia",
+    "circunscricao"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-026",
+   "subtema": "Funções especializadas",
+   "artigo": "Dtz PM3-003/02/25 — arrombador tático",
+   "enunciado": "Assinale a função que pode ser exercida por policial militar do 4º BPChq, não sendo exclusiva do GATE:",
+   "alternativas": [
+    "Atirador Policial de Precisão, o sniper do incidente crítico",
+    "Arrombador Tático, o breacher das operações táticas especiais",
+    "Explosivista Policial, responsável pela desativação de artefatos",
+    "Negociador Principal da equipe de negociação do incidente"
+   ],
+   "correta": 1,
+   "explicacao": "O Arrombador Tático é PM pertencente ao efetivo do 4º BPChq, e não necessariamente do GATE. Já o APP, o Explosivista e os negociadores integram funções do próprio GATE; as operações com carga explosiva controlada são exclusivas do GATE.",
+   "tags": [
+    "breacher",
+    "4bpchq"
+   ]
+  },
+  {
+   "id": "gate-elab-027",
+   "subtema": "Funções especializadas",
+   "artigo": "Dtz PM3-003/02/25 — arrombador tático",
+   "enunciado": "O arrombador tático pode empregar, para a desobstrução de acessos e a remoção de barreiras físicas:",
+   "alternativas": [
+    "meios mecânicos, balísticos, hidráulicos, calor e carga explosiva controlada",
+    "apenas meios mecânicos e hidráulicos, vedado o emprego de explosivos",
+    "apenas meios balísticos, sob supervisão do atirador policial de precisão",
+    "meios mecânicos e químicos, conforme deliberação do negociador líder"
+   ],
+   "correta": 0,
+   "explicacao": "O breacher utiliza meios mecânicos, balísticos, hidráulicos, calor e carga explosiva controlada em ambientes de alto risco. As operações com CARGA EXPLOSIVA CONTROLADA são exclusivas do GATE.",
+   "tags": [
+    "breacher",
+    "meios"
+   ]
+  },
+  {
+   "id": "gate-elab-028",
+   "subtema": "Funções especializadas",
+   "artigo": "Dtz PM3-003/02/25 — atirador policial de precisão",
+   "enunciado": "Quanto ao Atirador Policial de Precisão, é correto afirmar que:",
+   "alternativas": [
+    "é função exclusiva do GATE e executa o tiro de comprometimento se autorizado",
+    "é função do 4º BPChq e executa o tiro de comprometimento por iniciativa própria",
+    "integra a equipe de negociação e assessora tecnicamente o negociador líder",
+    "atua apenas em eventos programados, vedado o emprego em situação emergencial"
+   ],
+   "correta": 0,
+   "explicacao": "O APP é o sniper, função EXCLUSIVA do GATE. Posiciona-se para observar o ponto crítico com discrição, coleta informações e, quando necessário à preservação de vidas e MEDIANTE AUTORIZAÇÃO do Cmt Inc, executa o tiro de comprometimento.",
+   "tags": [
+    "app",
+    "tiro-comprometimento"
+   ]
+  },
+  {
+   "id": "gate-elab-029",
+   "subtema": "Funções especializadas",
+   "artigo": "Dtz PM3-003/02/25 — atirador policial de precisão",
+   "enunciado": "Além do disparo, o Atirador Policial de Precisão tem por atribuição no incidente crítico:",
+   "alternativas": [
+    "conduzir a verbalização com o causador nos intervalos da negociação",
+    "monitorar a cena, coletar informações e apoiar o processo decisório",
+    "comandar a entrada tática quando identificada janela de oportunidade",
+    "definir as regras de engajamento aplicáveis à equipe de intervenção"
+   ],
+   "correta": 1,
+   "explicacao": "O APP usa armamento de alta precisão e equipamentos ópticos para MONITORAR a cena, COLETAR informações relevantes e APOIAR O PROCESSO DECISÓRIO da equipe tática, além de executar o tiro de comprometimento quando autorizado.",
+   "tags": [
+    "app",
+    "observacao"
+   ]
+  },
+  {
+   "id": "gate-elab-030",
+   "subtema": "Funções especializadas",
+   "artigo": "Dtz PM3-003/02/25 — explosivista policial",
+   "enunciado": "O Explosivista Policial é o policial militar do efetivo do GATE apto a:",
+   "alternativas": [
+    "conduzir a negociação nas ocorrências com ameaça de explosão iminente",
+    "realizar a perícia criminal definitiva dos artefatos apreendidos no local",
+    "desativar artefatos explosivos improvisados e industrializados em ocorrências",
+    "comandar o incidente sempre que houver artefato explosivo no local"
+   ],
+   "correta": 2,
+   "explicacao": "O Explosivista atua na desativação de artefatos explosivos improvisados e industrializados, com foco em resolução segura e preservação de bens materiais e peças probatórias. A perícia é atividade específica das operações periciais do Esquadrão de Bombas.",
+   "tags": [
+    "explosivista",
+    "desativacao"
+   ]
+  },
+  {
+   "id": "gate-elab-031",
+   "subtema": "Equipe de negociação",
+   "artigo": "Dtz PM3-003/02/25 — equipe de negociação",
+   "enunciado": "A equipe de negociação prevista na Diretriz é composta por:",
+   "alternativas": [
+    "negociador principal, secundário, anotador e líder, apenas",
+    "negociador principal, secundário, anotador, líder e três auxiliares",
+    "negociador principal, líder e auxiliar de saúde mental, apenas",
+    "negociador principal e secundário, com apoio do coordenador do GATE"
+   ],
+   "correta": 1,
+   "explicacao": "São sete funções: negociador principal, secundário, anotador, líder, auxiliar de logística, auxiliar de informações e negociador auxiliar de saúde mental. A equipe é estrutura técnica fundamental para a ação em resgate de reféns.",
+   "tags": [
+    "negociacao",
+    "composicao"
+   ]
+  },
+  {
+   "id": "gate-elab-032",
+   "subtema": "Equipe de negociação",
+   "artigo": "Dtz PM3-003/02/25 — negociador principal",
+   "enunciado": "Estabelecer e conduzir a comunicação verbal e não verbal com o causador do incidente é atribuição do negociador:",
+   "alternativas": [
+    "líder",
+    "principal",
+    "anotador",
+    "secundário"
+   ],
+   "correta": 1,
+   "explicacao": "O negociador PRINCIPAL conduz a comunicação com o causador, aplicando técnicas adequadas à modalidade do evento e ao perfil do interlocutor, mantendo controle emocional e alinhamento com a estratégia da equipe e as orientações do Cmt Inc.",
+   "tags": [
+    "negociador-principal"
+   ]
+  },
+  {
+   "id": "gate-elab-033",
+   "subtema": "Equipe de negociação",
+   "artigo": "Dtz PM3-003/02/25 — negociador secundário",
+   "enunciado": "Atuar em apoio direto ao negociador principal, sugerindo estratégias nas pausas e permanecendo apto a assumir a verbalização, é atribuição do negociador:",
+   "alternativas": [
+    "auxiliar de logística",
+    "anotador",
+    "auxiliar de informações",
+    "secundário"
+   ],
+   "correta": 3,
+   "explicacao": "O negociador SECUNDÁRIO observa as interações, oferece sugestões estratégicas nas pausas, tria informações recebidas, mantém a comunicação interna e permanece apto a assumir a verbalização, se necessário.",
+   "tags": [
+    "negociador-secundario"
+   ]
+  },
+  {
+   "id": "gate-elab-034",
+   "subtema": "Equipe de negociação",
+   "artigo": "Dtz PM3-003/02/25 — negociador anotador",
+   "enunciado": "Registrar de forma clara, cronológica e objetiva as verbalizações, as atitudes do causador e as decisões estratégicas da equipe cabe ao negociador:",
+   "alternativas": [
+    "auxiliar de informações",
+    "auxiliar de logística",
+    "anotador",
+    "líder"
+   ],
+   "correta": 2,
+   "explicacao": "O ANOTADOR registra os elementos do processo negocial de forma técnica e imparcial e fornece informações relevantes sempre que solicitado. Coletar e analisar dados externos é do auxiliar de INFORMAÇÕES.",
+   "tags": [
+    "negociador-anotador"
+   ]
+  },
+  {
+   "id": "gate-elab-035",
+   "subtema": "Equipe de negociação",
+   "artigo": "Dtz PM3-003/02/25 — negociador líder",
+   "enunciado": "A coordenação da equipe de negociação, a supervisão da estratégia negocial e a articulação com o Comandante do Incidente competem ao negociador:",
+   "alternativas": [
+    "líder",
+    "secundário",
+    "auxiliar de informações",
+    "principal"
+   ],
+   "correta": 0,
+   "explicacao": "O negociador LÍDER coordena a equipe, define e supervisiona a estratégia, articula-se com o Cmt Inc e com os líderes das demais alternativas táticas, garantindo fluxo de informações, segurança e coesão do grupo.",
+   "tags": [
+    "negociador-lider"
+   ]
+  },
+  {
+   "id": "gate-elab-036",
+   "subtema": "Equipe de negociação",
+   "artigo": "Dtz PM3-003/02/25 — auxiliar de logística",
+   "enunciado": "Prestar suporte material e estrutural, gerir equipamentos e executar providências decorrentes de eventuais acordos com o causador é atribuição do negociador:",
+   "alternativas": [
+    "anotador do processo negocial",
+    "auxiliar de informações",
+    "auxiliar de saúde mental",
+    "auxiliar de logística"
+   ],
+   "correta": 3,
+   "explicacao": "O auxiliar de LOGÍSTICA antecipa necessidades da equipe, mantém a capacidade operacional, zela pela integridade dos recursos e executa as providências decorrentes de acordos firmados no processo negocial.",
+   "tags": [
+    "auxiliar-logistica"
+   ]
+  },
+  {
+   "id": "gate-elab-037",
+   "subtema": "Equipe de negociação",
+   "artigo": "Dtz PM3-003/02/25 — auxiliar de informações",
+   "enunciado": "A coleta, a triagem, a análise e a retransmissão de informações relevantes, articuladas com o serviço de inteligência, cabem ao negociador:",
+   "alternativas": [
+    "auxiliar de informações, com visão crítica sobre a confiabilidade dos dados",
+    "anotador, que registra os elementos do processo negocial",
+    "secundário, que tria as informações recebidas durante a verbalização",
+    "auxiliar de saúde mental, responsável pelo perfil do causador"
+   ],
+   "correta": 0,
+   "explicacao": "O auxiliar de INFORMAÇÕES atua com o serviço de inteligência e demais fontes, mantém visão crítica sobre a confiabilidade dos dados, orienta entrevistas em campo e repassa elementos que subsidiam a estratégia.",
+   "tags": [
+    "auxiliar-informacoes"
+   ]
+  },
+  {
+   "id": "gate-elab-038",
+   "subtema": "Equipe de negociação",
+   "artigo": "Dtz PM3-003/02/25 — auxiliar de saúde mental",
+   "enunciado": "O integrante da equipe de negociação com formação técnica em psicologia, responsável por analisar o perfil comportamental do causador, é o negociador:",
+   "alternativas": [
+    "auxiliar de saúde mental",
+    "líder da equipe de negociação",
+    "principal da verbalização",
+    "auxiliar de informações"
+   ],
+   "correta": 0,
+   "explicacao": "O auxiliar de SAÚDE MENTAL analisa o perfil comportamental do causador, identifica riscos emocionais, orienta estrategicamente, monitora o estado psicológico dos negociadores e contribui para o acolhimento do causador e a integridade emocional dos reféns.",
+   "tags": [
+    "saude-mental",
+    "psicologia"
+   ]
+  },
+  {
+   "id": "gate-elab-039",
+   "subtema": "Esquadrão de Bombas",
+   "artigo": "Dtz PM3-003/02/25 — operações antibomba",
+   "enunciado": "As operações antibomba desenvolvidas pelo Esquadrão de Bombas do GATE compreendem:",
+   "alternativas": [
+    "varredura preventiva, desativação e destruição de artefatos em campo de prova",
+    "busca e localização, desativação e transporte de artefatos para o Exército",
+    "desativação, detonação controlada e escolta de materiais explosivos apreendidos",
+    "busca e localização, desativação, perícia e administrativas e especiais com explosivos"
+   ],
+   "correta": 3,
+   "explicacao": "São quatro tipos: operações de busca e localização; operações de desativação; operações de perícia e administrativas; e operações especiais com explosivos.",
+   "tags": [
+    "antibomba",
+    "quatro-tipos"
+   ]
+  },
+  {
+   "id": "gate-elab-040",
+   "subtema": "Esquadrão de Bombas",
+   "artigo": "Dtz PM3-003/02/25 — BLAEX",
+   "enunciado": "Atendendo ocorrência com objeto suspeito, o policial militar é informado de que o BLAEX está a caminho do local. Segundo a Diretriz do GATE, a sigla BLAEX designa:",
+   "alternativas": [
+    "as operações de busca e localização de explosivos e o policial certificado",
+    "o equipamento de raios X utilizado na identificação de objetos suspeitos",
+    "o protocolo de evacuação aplicável a edificações com ameaça de bomba",
+    "a base logística avançada de explosivos mantida pelo 4º BPChq na Capital"
+   ],
+   "correta": 0,
+   "explicacao": "BLAEX é o acrônimo das operações de busca e localização de artefatos explosivos, usado também para identificar o policial do GATE certificado para atuar em ocorrências com objetos suspeitos, habilitado à busca, localização, identificação e remoção, quando seguro.",
+   "tags": [
+    "blaex",
+    "conceito"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-041",
+   "subtema": "Esquadrão de Bombas",
+   "artigo": "Dtz PM3-003/02/25 — conceito de bomba",
+   "enunciado": "Entre os elementos essenciais da bomba, conforme a Diretriz, encontram-se:",
+   "alternativas": [
+    "dispositivo de iniciação, carga secundária e mecanismo de autodestruição",
+    "carga principal, temporizador e sistema de rastreamento por satélite",
+    "invólucro metálico, carga principal e sistema de refrigeração interna",
+    "fonte de alimentação, carga principal, dispositivo de iniciação e detonador"
+   ],
+   "correta": 3,
+   "explicacao": "São elementos essenciais: fonte de alimentação, carga principal, dispositivo de iniciação, detonador, sistema de segurança para transporte e dissimulador (invólucro). O acionamento pode ser direto ou indireto.",
+   "tags": [
+    "bomba",
+    "elementos"
+   ]
+  },
+  {
+   "id": "gate-elab-042",
+   "subtema": "Esquadrão de Bombas",
+   "artigo": "Dtz PM3-003/02/25 — bomba suja",
+   "enunciado": "A chamada bomba suja, ou dispositivo de dispersão radiológica, caracteriza-se por:",
+   "alternativas": [
+    "combinar explosivo convencional com material radioativo para dispersá-lo",
+    "produzir reação nuclear em cadeia a partir de material físsil enriquecido",
+    "liberar agentes químicos incapacitantes sem emprego de carga explosiva",
+    "utilizar material biológico encapsulado em artefato de fabricação industrial"
+   ],
+   "correta": 0,
+   "explicacao": "A bomba suja combina explosivo convencional com material radioativo, inclusive rejeitos, para dispersá-lo no ambiente. É ataque radiológico NÃO NUCLEAR, cuja periculosidade está mais na contaminação e no impacto psicológico do que na letalidade da explosão.",
+   "tags": [
+    "bomba-suja",
+    "ddr"
+   ]
+  },
+  {
+   "id": "gate-elab-043",
+   "subtema": "Esquadrão de Bombas",
+   "artigo": "Dtz PM3-003/02/25 — busca e localização",
+   "enunciado": "As operações de busca e localização do Esquadrão de Bombas caracterizam-se por:",
+   "alternativas": [
+    "destinar-se à desmontagem do artefato localizado no ponto crítico",
+    "ocorrer apenas após a explosão, para coleta de vestígios no local",
+    "ter caráter preventivo, com ações de abrangência geral e específica",
+    "apoiar as unidades territoriais em arrombamentos de acessos"
+   ],
+   "correta": 2,
+   "explicacao": "São operações PREVENTIVAS, divididas em ações de abrangência geral, de prevenção e segurança física de pessoas e instalações, e de abrangência específica, de pronta-resposta a uma ameaça, com busca e localização de bombas, explosivos ou objetos suspeitos.",
+   "tags": [
+    "busca-localizacao",
+    "preventivo"
+   ]
+  },
+  {
+   "id": "gate-elab-044",
+   "subtema": "Esquadrão de Bombas",
+   "artigo": "Dtz PM3-003/02/25 — desativação",
+   "enunciado": "Quanto às operações de desativação, é correto afirmar que:",
+   "alternativas": [
+    "são o tipo de maior risco à vida e de execução exclusiva do GATE",
+    "podem ser executadas pelas unidades territoriais em caso de urgência",
+    "destinam-se à perícia do artefato após a ocorrência da explosão",
+    "antecedem sempre as operações de busca e localização do artefato"
+   ],
+   "correta": 0,
+   "explicacao": "A desativação ocorre após a localização do artefato, para neutralizar riscos e tornar o material seguro para manuseio, transporte e trabalho pericial. É o tipo de operação de MAIOR RISCO e de execução EXCLUSIVA do GATE, com equipamentos específicos.",
+   "tags": [
+    "desativacao",
+    "exclusiva"
+   ]
+  },
+  {
+   "id": "gate-elab-045",
+   "subtema": "Esquadrão de Bombas",
+   "artigo": "Dtz PM3-003/02/25 — perícia e administrativas",
+   "enunciado": "As operações de perícia e administrativas do Esquadrão de Bombas são realizadas:",
+   "alternativas": [
+    "exclusivamente por peritos civis, com acompanhamento do GATE",
+    "antes da chegada da equipe de desativação ao local do incidente",
+    "apenas em artefatos industrializados apreendidos em operações programadas",
+    "após a explosão ou após as operações de busca, localização e desativação"
+   ],
+   "correta": 3,
+   "explicacao": "Ocorrem após a explosão ou após as operações de busca, localização e desativação, compreendendo, nesse estágio, a atividade de PERÍCIA JUDICIAL especializada em bombas e explosivos.",
+   "tags": [
+    "pericia",
+    "estagio"
+   ]
+  },
+  {
+   "id": "gate-elab-046",
+   "subtema": "Esquadrão de Bombas",
+   "artigo": "Dtz PM3-003/02/25 — operações especiais com explosivos",
+   "enunciado": "As operações especiais com explosivos compreendem o apoio aos órgãos de execução por meio de:",
+   "alternativas": [
+    "perícia administrativa em artefatos apreendidos pela Polícia Civil",
+    "varredura preventiva de instalações antes de eventos de grande público",
+    "demolições, arrombamentos e outras aplicações táticas de explosivos",
+    "transporte e guarda de explosivos apreendidos em operações policiais"
+   ],
+   "correta": 2,
+   "explicacao": "Compreendem demolições, arrombamentos e outras aplicações táticas de explosivos, como a abertura controlada de portas e janelas ou a destruição de estruturas em ocorrências policiais, sendo de execução EXCLUSIVA do GATE.",
+   "tags": [
+    "operacoes-especiais",
+    "exclusiva"
+   ]
+  },
+  {
+   "id": "gate-elab-047",
+   "subtema": "Incidentes com explosivos",
+   "artigo": "Dtz PM3-003/02/25, Anexo — providências",
+   "enunciado": "Confirmada a presença de explosivos no local, após o acionamento pelo primeiro interventor, a equipe do Esquadrão de Bombas adotará providências para:",
+   "alternativas": [
+    "identificação do objeto suspeito, remoção segura e desmontagem",
+    "evacuação da área, detonação imediata e liberação do local",
+    "isolamento do perímetro, negociação e retirada das vítimas",
+    "acionamento do Corpo de Bombeiros e apoio à perícia civil"
+   ],
+   "correta": 0,
+   "explicacao": "A sequência prevista é: identificação do objeto suspeito; remoção segura; e desmontagem. O isolamento, nesses casos, abrange toda a área potencialmente afetada por eventual explosão, conforme orientação do técnico explosivista.",
+   "tags": [
+    "explosivos",
+    "providencias"
+   ]
+  },
+  {
+   "id": "gate-elab-048",
+   "subtema": "Incidentes com explosivos",
+   "artigo": "Dtz PM3-003/02/25, Anexo — apoio obrigatório",
+   "enunciado": "Nos incidentes críticos com ameaça confirmada de objeto suspeito ou explosivo, a Diretriz determina:",
+   "alternativas": [
+    "a evacuação obrigatória de todo o bairro onde se encontra o artefato",
+    "a presença obrigatória de perito criminal desde o início da ocorrência",
+    "a presença obrigatória de equipe de resgate ou socorristas no local",
+    "o acionamento obrigatório da Polícia Federal para apoio técnico"
+   ],
+   "correta": 2,
+   "explicacao": "É OBRIGATÓRIA a presença de equipe de resgate ou socorristas. Cabe ao oficial responsável pelo Esquadrão de Bombas avaliar o acionamento complementar de equipes de controle viário, serviços de energia e gás e outros órgãos imprescindíveis.",
+   "tags": [
+    "explosivos",
+    "socorristas"
+   ]
+  },
+  {
+   "id": "gate-elab-049",
+   "subtema": "Incidentes com explosivos",
+   "artigo": "Dtz PM3-003/02/25, Anexo — após a explosão",
+   "enunciado": "Ocorrida a explosão durante ou antes da atuação policial, cabe à equipe do Esquadrão de Bombas, além dos procedimentos técnicos:",
+   "alternativas": [
+    "suspensão das medidas até a chegada da perícia oficial do Estado",
+    "liberação imediata do local às autoridades de trânsito e de saúde",
+    "transferência da cena à Polícia Civil, encerrada a atuação do GATE",
+    "varredura completa do local e acondicionamento do material acionado"
+   ],
+   "correta": 3,
+   "explicacao": "Após a explosão: varredura completa do local, coleta e acondicionamento adequado do material acionado e emprego de técnicas e equipamentos apropriados com vistas aos exames periciais e investigações complementares.",
+   "tags": [
+    "explosao",
+    "varredura"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-050",
+   "subtema": "Incidentes com explosivos",
+   "artigo": "Dtz PM3-003/02/25, Anexo — relatório pós-ação",
+   "enunciado": "Após o uso de explosivos ou a ocorrência de explosão, o Esquadrão de Bombas deve deslocar-se ao local para o relatório pós-ação, salvo:",
+   "alternativas": [
+    "quando a perícia civil já tiver iniciado os trabalhos no local do incidente",
+    "quando não houver vítimas fatais decorrentes da explosão ocorrida no local",
+    "quando o local estiver sob responsabilidade de unidade territorial do interior",
+    "nos casos de explosão ambiental, como vazamento de gás, atendidos pelo CCB"
+   ],
+   "correta": 3,
+   "explicacao": "O deslocamento ocorre ainda que não haja resíduo de material explosivo, para coleta de dados do estudo de caso e gestão do conhecimento pela OGC. A exceção são as explosões ambientais, como as de gás de cozinha ou vapores inflamáveis, atendidas pelo Corpo de Bombeiros.",
+   "tags": [
+    "relatorio-pos-acao",
+    "excecao"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-051",
+   "subtema": "Incidentes de responsabilidade",
+   "artigo": "Dtz PM3-003/02/25 — atividades típicas",
+   "enunciado": "São considerados de responsabilidade exclusiva do GATE os incidentes críticos que reúnem as seguintes características:",
+   "alternativas": [
+    "elevado potencial lesivo, alta incidência e emprego de arma de fogo",
+    "alta complexidade, grande repercussão midiática e vítimas fatais",
+    "alta complexidade, elevado potencial lesivo e baixa incidência",
+    "baixa incidência, ocorrência em área metropolitana e presença de reféns"
+   ],
+   "correta": 2,
+   "explicacao": "A tríade é: alta complexidade, elevado potencial lesivo e baixa incidência — situações que exigem técnicas especializadas, equipamentos específicos e fração tática que domine as alternativas táticas.",
+   "tags": [
+    "responsabilidade",
+    "caracteristicas"
+   ]
+  },
+  {
+   "id": "gate-elab-052",
+   "subtema": "Incidentes de responsabilidade",
+   "artigo": "Dtz PM3-003/02/25 — atividades típicas",
+   "enunciado": "Nas atividades típicas de GATE, o acionamento da fração especializada:",
+   "alternativas": [
+    "depende de requisição do Comandante de Policiamento de Área do local",
+    "deve ser realizado de ofício, tão logo verificada a tipicidade do incidente",
+    "depende de autorização prévia do Subcomandante PM em cada caso",
+    "ocorre somente após o esgotamento dos recursos da unidade territorial"
+   ],
+   "correta": 1,
+   "explicacao": "O acionamento é DE OFÍCIO, tão logo se verifique a tipicidade do incidente. Não se exige requisição da unidade territorial nem esgotamento prévio de seus recursos.",
+   "tags": [
+    "acionamento",
+    "oficio"
+   ]
+  },
+  {
+   "id": "gate-elab-053",
+   "subtema": "Incidentes de responsabilidade",
+   "artigo": "Dtz PM3-003/02/25 — atividades típicas",
+   "enunciado": "Incluem-se entre as atividades típicas de responsabilidade do GATE:",
+   "alternativas": [
+    "o controle de distúrbios civis em manifestações de rua",
+    "a escolta de presos de alta periculosidade entre unidades prisionais",
+    "o gerenciamento de incidentes com criminoso armado embarricado",
+    "o patrulhamento tático em áreas com alto índice de roubo de veículos"
+   ],
+   "correta": 2,
+   "explicacao": "O mnemônico TAMARES reúne: Terrorismo; Armado (embarricado); Mandado de busca de alto risco; Autoridades (contra-sniper, quando designado); Reféns; Explosivo; Suicídio. Controle de distúrbios e escolta de presos não integram esse rol.",
+   "tags": [
+    "tamares",
+    "embarricado"
+   ]
+  },
+  {
+   "id": "gate-elab-054",
+   "subtema": "Incidentes de responsabilidade",
+   "artigo": "Dtz PM3-003/02/25 — atividades típicas",
+   "enunciado": "No rol das atividades típicas do GATE, o cumprimento de mandados de busca e apreensão alcança aqueles:",
+   "alternativas": [
+    "que envolvam a apreensão de armas de fogo de uso restrito",
+    "expedidos em desfavor de integrantes de organizações criminosas",
+    "cumpridos no período noturno, por exigência de autorização judicial",
+    "de alto risco, com necessidade de preservação de fontes sensíveis e sigilo"
+   ],
+   "correta": 3,
+   "explicacao": "O rol contempla o cumprimento de mandados de busca e apreensão de ALTO RISCO, com necessidade de preservação de fontes sensíveis e sigilo de informações. Os demais critérios não constam da Diretriz.",
+   "tags": [
+    "mandado",
+    "alto-risco"
+   ]
+  },
+  {
+   "id": "gate-elab-055",
+   "subtema": "Incidentes de responsabilidade",
+   "artigo": "Dtz PM3-003/02/25 — atividades típicas",
+   "enunciado": "Quanto às ações de proteção de autoridades, a Diretriz insere no rol de atribuições do GATE:",
+   "alternativas": [
+    "a segurança pessoal permanente das autoridades do Poder Executivo",
+    "as medidas de contra-sniper, quando expressamente designado",
+    "a escolta motorizada de comitivas oficiais em deslocamentos",
+    "a varredura preventiva das residências funcionais de autoridades"
+   ],
+   "correta": 1,
+   "explicacao": "No rol das atividades típicas, a proteção de autoridades alcança as medidas de CONTRA-SNIPER, e somente quando o GATE for EXPRESSAMENTE DESIGNADO para tanto.",
+   "tags": [
+    "autoridades",
+    "contra-sniper"
+   ]
+  },
+  {
+   "id": "gate-elab-056",
+   "subtema": "Incidentes de responsabilidade",
+   "artigo": "Dtz PM3-003/02/25 — incidentes com suicidas",
+   "enunciado": "No rol das atividades típicas do GATE, considera-se arma, nas ocorrências com pessoa em crise suicida:",
+   "alternativas": [
+    "apenas a arma de fogo, própria ou imprópria, em poder do causador",
+    "apenas a arma de fogo e a arma branca de uso proibido",
+    "todo objeto com potencial lesivo, inclusive artefato incendiário",
+    "qualquer objeto, ainda que sem potencial lesivo, usado como ameaça"
+   ],
+   "correta": 2,
+   "explicacao": "Considera-se arma TODO OBJETO COM POTENCIAL LESIVO: arma de fogo, arma branca, arma própria ou imprópria, artefato explosivo ou incendiário, entre outros.",
+   "tags": [
+    "suicidio",
+    "arma"
+   ]
+  },
+  {
+   "id": "gate-elab-057",
+   "subtema": "Incidentes de responsabilidade",
+   "artigo": "Dtz PM3-003/02/25 — outras missões",
+   "enunciado": "Além das atividades típicas, o GATE poderá ser empregado em outras missões por deliberação:",
+   "alternativas": [
+    "do Subcomandante PM ou do Comandante de Policiamento de Choque",
+    "do Comandante de Policiamento de Área do local da ocorrência",
+    "do Chefe de Operações do COPOM, em qualquer hipótese",
+    "do Coordenador Operacional da Polícia Militar, exclusivamente"
+   ],
+   "correta": 0,
+   "explicacao": "As demais missões dependem de deliberação do SUBCOMANDANTE PM ou do COMANDANTE DE POLICIAMENTO DE CHOQUE. Ao Chefe de Operações do COPOM cabe o acionamento previsto em plano de contingência.",
+   "tags": [
+    "outras-missoes",
+    "deliberacao"
+   ]
+  },
+  {
+   "id": "gate-elab-058",
+   "subtema": "Comandante do Incidente",
+   "artigo": "Dtz PM3-003/02/25 — comando por especialidade",
+   "enunciado": "Nos incidentes de responsabilidade do GATE, o Comandante do Incidente será:",
+   "alternativas": [
+    "o oficial do GATE designado pelo Cmt Pol Chq ou pelo Superior de Sobreaviso",
+    "a maior autoridade policial-militar presente no local dos fatos apurados",
+    "o Comandante do 4º BPChq, que deverá comparecer pessoalmente ao local",
+    "o oficial mais antigo da unidade territorial da área da ocorrência policial"
+   ],
+   "correta": 0,
+   "explicacao": "O Cmt Inc será OFICIAL DO PRÓPRIO GATE, designado pelo Cmt Pol Chq ou, na ausência deste, pelo Superior de Sobreaviso do CPChq, assumindo formalmente o comando. A definição decorre da especialização técnica e da experiência do GATE.",
+   "tags": [
+    "cmt-inc",
+    "designacao"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-059",
+   "subtema": "Comandante do Incidente",
+   "artigo": "Dtz PM3-003/02/25 — comando por especialidade",
+   "enunciado": "Em incidente com reféns na Capital, está presente o Comandante de Policiamento da Capital quando chega ao local equipe do GATE chefiada por 2º Tenente PM especializado. O comando do incidente caberá:",
+   "alternativas": [
+    "ao Comandante de Policiamento da Capital, por ser a autoridade mais antiga no local",
+    "ao Comandante do Policiamento de Choque, que deverá deslocar-se ao local do incidente",
+    "ao 2º Tenente do GATE, se designado pelo Cmt Pol Chq ou pelo Superior de Sobreaviso",
+    "ao Comandante do 4º BPChq, por ser o comando imediato da fração especializada"
+   ],
+   "correta": 2,
+   "explicacao": "O comando por especialidade afasta o critério da antiguidade: assume o oficial do GATE designado pelo Cmt Pol Chq ou, na ausência deste, pelo Superior de Sobreaviso do CPChq, ainda que seja o mais moderno entre os presentes.",
+   "tags": [
+    "cmt-inc",
+    "antiguidade"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-060",
+   "subtema": "Comandante do Incidente",
+   "artigo": "Dtz PM3-003/02/25, Anexo — substituição",
+   "enunciado": "Quanto à substituição do Comandante do Incidente, a Diretriz estabelece que:",
+   "alternativas": [
+    "deverá ocorrer a cada doze horas de atuação, por revezamento das equipes",
+    "não deverá ocorrer a priori, salvo força maior ou necessidade estratégica",
+    "é vedada em qualquer hipótese, até o encerramento do incidente crítico",
+    "dependerá de autorização do Comandante Geral, ouvido o Subcomandante"
+   ],
+   "correta": 1,
+   "explicacao": "A regra é a permanência: o Cmt Inc NÃO deve, a priori, ser substituído, salvo motivo de força maior ou necessidade estratégica. Recomenda-se a substituição após atuação superior a 24 HORAS, pela deterioração natural das capacidades cognitivas.",
+   "tags": [
+    "substituicao",
+    "24-horas"
+   ]
+  },
+  {
+   "id": "gate-elab-061",
+   "subtema": "Comandante do Incidente",
+   "artigo": "Dtz PM3-003/02/25, Anexo — substituição",
+   "enunciado": "Ocorrendo a substituição do Comandante do Incidente, a designação do novo comandante caberá:",
+   "alternativas": [
+    "ao Coordenador do GATE, que assessora tecnicamente o comando",
+    "ao Comandante de Policiamento de Choque ou ao Superior de Sobreaviso",
+    "à maior autoridade policial-militar presente no teatro de operações",
+    "ao Comandante do Batalhão territorial da área do incidente crítico"
+   ],
+   "correta": 1,
+   "explicacao": "A designação do novo Cmt Inc cabe ao Cmt Pol Chq ou ao Superior de Sobreaviso do CPChq. O oficial designado deve ser continuamente assessorado pelo Coordenador do GATE e pelos técnicos das demais opções táticas.",
+   "tags": [
+    "substituicao",
+    "designacao"
+   ]
+  },
+  {
+   "id": "gate-elab-062",
+   "subtema": "Comandante do Incidente",
+   "artigo": "Dtz PM3-003/02/25, Anexo — assessoria",
+   "enunciado": "O oficial designado como Comandante do Incidente deve ser continuamente assessorado:",
+   "alternativas": [
+    "pelo Comandante do Batalhão territorial e pelo oficial de comunicação social",
+    "pelo Coordenador do GATE e pelos técnicos das demais opções táticas",
+    "pelo Chefe de Operações do COPOM e pelo Comandante da unidade de origem",
+    "pelo negociador principal e pelo comandante da equipe de intervenção, apenas"
+   ],
+   "correta": 1,
+   "explicacao": "A assessoria contínua é do Coordenador do GATE e dos técnicos responsáveis pelas demais opções táticas: equipes de negociação, de intervenção tática e de atirador policial de precisão.",
+   "tags": [
+    "assessoria",
+    "coordenador"
+   ]
+  },
+  {
+   "id": "gate-elab-063",
+   "subtema": "Princípios de atuação",
+   "artigo": "Dtz PM3-003/02/25 — princípios",
+   "enunciado": "Assinale a alternativa que apresenta um princípio geral de atuação do GATE:",
+   "alternativas": [
+    "gestão do risco e da força no emprego das alternativas táticas",
+    "cumprimento de mandados de busca e apreensão de alto risco",
+    "gerenciamento de incidentes com criminoso armado embarricado",
+    "atuação em ocorrências com explosivos e objetos suspeitos"
+   ],
+   "correta": 0,
+   "explicacao": "Os princípios formam o mnemônico A-P-E-G-O-C: Autonomia operacional; Proporcionalidade e prioridade de objetivos; Especialidade (comando por especialidade); Gestão do risco e da força; Outras regras de engajamento definidas pelo Cmt Inc; e Comprometimento com as funções. As demais alternativas são incidentes, não princípios.",
+   "tags": [
+    "principios",
+    "apegoc"
+   ]
+  },
+  {
+   "id": "gate-elab-064",
+   "subtema": "Princípios de atuação",
+   "artigo": "Dtz PM3-003/02/25 — matriz e nível de resposta",
+   "enunciado": "Na sistemática das NORSOP, o GATE integra:",
+   "alternativas": [
+    "a Matriz Operacional II, atuando prioritariamente no Nível de Resposta 3",
+    "a Matriz Operacional I, de forma supletiva ao policiamento preventivo",
+    "a Matriz Operacional III, atuando prioritariamente no Nível de Resposta 4",
+    "a Matriz Operacional III, atuando exclusivamente no Nível de Resposta 3"
+   ],
+   "correta": 2,
+   "explicacao": "O GATE integra a MOp III e atua prioritariamente no NR 4, interagindo de modo coordenado com as demais Matrizes e observando os princípios do Sistema de Comando de Incidentes da PM.",
+   "tags": [
+    "mop-iii",
+    "nr4"
+   ]
+  },
+  {
+   "id": "gate-elab-065",
+   "subtema": "Princípios de atuação",
+   "artigo": "Dtz PM3-003/02/25 — emprego",
+   "enunciado": "A atuação do GATE poderá ocorrer em eventos programados ou em situações emergenciais, conforme:",
+   "alternativas": [
+    "a repercussão social e a presença de imprensa no local",
+    "a disponibilidade de efetivo do Policiamento de Choque",
+    "a distância entre a sede do GATE e o local da ocorrência",
+    "a gravidade, a urgência e a tipicidade do incidente"
+   ],
+   "correta": 3,
+   "explicacao": "O critério é a GRAVIDADE, a URGÊNCIA e a TIPICIDADE do incidente. Nos eventos programados, o emprego é deliberado previamente pelo CPChq.",
+   "tags": [
+    "emprego",
+    "criterios"
+   ]
+  },
+  {
+   "id": "gate-elab-066",
+   "subtema": "Princípios de atuação",
+   "artigo": "Dtz PM3-003/02/25 — proporcionalidade",
+   "enunciado": "Pelo princípio da proporcionalidade e prioridade de objetivos, as alternativas táticas devem visar, nesta ordem:",
+   "alternativas": [
+    "estabilizar o incidente, preservar vidas e proteger bens e o meio ambiente",
+    "preservar vidas, estabilizar o incidente e proteger bens e o meio ambiente",
+    "preservar vidas, proteger bens e o meio ambiente e estabilizar o incidente",
+    "proteger bens e o meio ambiente, preservar vidas e estabilizar o incidente"
+   ],
+   "correta": 1,
+   "explicacao": "A ordem é: 1) preservar vidas; 2) estabilizar o incidente; 3) proteger bens e o meio ambiente. A inversão da sequência é a pegadinha mais comum nesse ponto.",
+   "tags": [
+    "proporcionalidade",
+    "ordem"
+   ]
+  },
+  {
+   "id": "gate-elab-067",
+   "subtema": "Princípios de atuação",
+   "artigo": "Dtz PM3-003/02/25 — alternativas táticas",
+   "enunciado": "Nos incidentes de resgate de reféns e nas ocorrências com suicidas armados, as alternativas táticas disponíveis ao Comandante do Incidente restringem-se:",
+   "alternativas": [
+    "à negociação e ao emprego do atirador de precisão",
+    "à negociação, ao isolamento e à intervenção tática",
+    "à intervenção tática e às contramedidas de área",
+    "à negociação e à intervenção tática"
+   ],
+   "correta": 3,
+   "explicacao": "Nessas duas modalidades, as alternativas restringem-se à NEGOCIAÇÃO e à INTERVENÇÃO TÁTICA, devendo a escolha observar os princípios de atuação, a situação concreta e a análise técnica dos riscos.",
+   "tags": [
+    "alternativas",
+    "refens"
+   ]
+  },
+  {
+   "id": "gate-elab-068",
+   "subtema": "Princípios de atuação",
+   "artigo": "Dtz PM3-003/02/25 — comprometimento com as funções",
+   "enunciado": "O princípio do comprometimento com as funções determina que o Comandante do Incidente, os primeiros interventores e os especialistas:",
+   "alternativas": [
+    "revezem funções durante o incidente, para preservar a capacidade operacional",
+    "não exerçam funções distintas daquelas para as quais foram designados",
+    "acumulem funções quando houver insuficiência de efetivo especializado",
+    "assumam funções de negociação quando dominarem a técnica correspondente"
+   ],
+   "correta": 1,
+   "explicacao": "A especialização pressupõe domínio técnico e comprometimento exclusivo com a função, sendo incompatível com o acúmulo de papéis que comprometa o foco, a autonomia decisória ou a qualidade da atuação em campo.",
+   "tags": [
+    "comprometimento",
+    "funcoes"
+   ]
+  },
+  {
+   "id": "gate-elab-069",
+   "subtema": "Princípios de atuação",
+   "artigo": "Dtz PM3-003/02/25 — autonomia operacional",
+   "enunciado": "Pelo princípio da autonomia operacional, ao assumir o incidente o GATE terá:",
+   "alternativas": [
+    "independência total em relação aos parâmetros de comando e controle",
+    "autonomia técnico-operacional para as decisões táticas, observado o comando e controle",
+    "liberdade para definir o encerramento do incidente sem comunicação ao escalão",
+    "competência para requisitar meios de outras instituições sem intermediação"
+   ],
+   "correta": 1,
+   "explicacao": "A autonomia é TÉCNICO-OPERACIONAL para a tomada de decisões táticas, observados os parâmetros de comando e controle e a necessidade de respostas rápidas, adaptadas à evolução do incidente.",
+   "tags": [
+    "autonomia",
+    "comando-controle"
+   ]
+  },
+  {
+   "id": "gate-elab-070",
+   "subtema": "Princípios de atuação",
+   "artigo": "Dtz PM3-003/02/25 — gestão do risco e da força",
+   "enunciado": "Pelo princípio da gestão do risco e da força, é correto afirmar que:",
+   "alternativas": [
+    "as técnicas de menor potencial ofensivo afastam a possibilidade de resultado letal",
+    "a intervenção tática pressupõe o uso da força com potencial letal na avaliação estratégica",
+    "o risco de letalidade somente é ponderado quando há emprego de arma de fogo",
+    "o uso da força é vedado enquanto houver possibilidade de negociação em curso"
+   ],
+   "correta": 1,
+   "explicacao": "A intervenção tática pressupõe uso da força com potencial letal, que deve integrar a avaliação estratégica. MESMO nas técnicas de menor potencial ofensivo, os riscos de letalidade devem ser ponderados conforme a evolução do cenário.",
+   "tags": [
+    "gestao-risco",
+    "mpo"
+   ]
+  },
+  {
+   "id": "gate-elab-071",
+   "subtema": "Regras de engajamento",
+   "artigo": "Dtz PM3-003/02/25 — luz verde",
+   "enunciado": "A ordem expressa do Comandante do Incidente para o tiro de comprometimento, implicando a entrada imediata das equipes para socorro às vítimas, corresponde à regra de engajamento denominada:",
+   "alternativas": [
+    "iniciativa da UIT",
+    "ordem direta de entrada",
+    "luz verde",
+    "violência real e letal"
+   ],
+   "correta": 2,
+   "explicacao": "A LUZ VERDE é a ordem expressa do Cmt Inc para o tiro de comprometimento, com entrada imediata das equipes de intervenção para socorro às vítimas e estabilização da cena.",
+   "tags": [
+    "luz-verde",
+    "tiro"
+   ]
+  },
+  {
+   "id": "gate-elab-072",
+   "subtema": "Regras de engajamento",
+   "artigo": "Dtz PM3-003/02/25 — ordem direta de entrada",
+   "enunciado": "A decisão do Comandante do Incidente que, após avaliar riscos e identificar janela de oportunidade, autoriza a entrada tática para neutralizar a ameaça é:",
+   "alternativas": [
+    "a ordem direta de entrada",
+    "a luz verde para o disparo",
+    "a iniciativa da equipe tática",
+    "a contramedida de aproximação"
+   ],
+   "correta": 0,
+   "explicacao": "A ORDEM DIRETA DE ENTRADA decorre de avaliação dos riscos e da identificação de janela de oportunidade, autorizando a entrada tática com emprego de técnicas de menor potencial ofensivo ou de força letal, conforme o cenário.",
+   "tags": [
+    "ordem-direta",
+    "janela"
+   ]
+  },
+  {
+   "id": "gate-elab-073",
+   "subtema": "Regras de engajamento",
+   "artigo": "Dtz PM3-003/02/25 — iniciativa da UIT",
+   "enunciado": "Surgindo janela de oportunidade não prevista, sem tempo hábil para comunicação prévia, o comandante da Unidade de Intervenção Tática:",
+   "alternativas": [
+    "deve aguardar a ordem do Comandante do Incidente, sob pena de responsabilização",
+    "poderá agir imediatamente, comunicando e justificando ao Comandante depois",
+    "deve solicitar autorização ao Coordenador do GATE pelo rádio operacional",
+    "somente poderá agir se houver violência real e letal contra o refém em curso"
+   ],
+   "correta": 1,
+   "explicacao": "Em situações excepcionais, o Cmt da UIT pode agir de imediato, com base na preservação da vida, necessidade, proporcionalidade e responsabilidade tática, devendo comunicar e justificar a atuação ao Cmt Inc tão logo seja possível.",
+   "tags": [
+    "iniciativa-uit",
+    "excepcional"
+   ]
+  },
+  {
+   "id": "gate-elab-074",
+   "subtema": "Regras de engajamento",
+   "artigo": "Dtz PM3-003/02/25 — violência real e letal",
+   "enunciado": "Diante de agressão grave e iminente à integridade física da vítima, o Comandante do Incidente, ainda que não integrante do GATE:",
+   "alternativas": [
+    "deverá aguardar a chegada da fração especializada para qualquer intervenção no local",
+    "deverá autorizar resposta emergencial imediata, para interromper a agressão letal",
+    "poderá autorizar apenas o emprego de técnicas de menor potencial ofensivo na cena",
+    "deverá transferir o comando ao primeiro interventor presente no local do incidente"
+   ],
+   "correta": 1,
+   "explicacao": "Diante de disparos, esfaqueamentos, hemorragias extensas ou inconsciência, autoriza-se resposta emergencial imediata com prioridade para interromper a agressão letal (stop the killing) e prevenir o óbito (stop the bleeding).",
+   "tags": [
+    "violencia-letal",
+    "emergencia"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-075",
+   "subtema": "Regras de engajamento",
+   "artigo": "Dtz PM3-003/02/25 — responsabilidade",
+   "enunciado": "Quanto às ações adotadas com base em regra de engajamento, a responsabilidade:",
+   "alternativas": [
+    "pela decisão estratégica é do Comandante do Incidente e pela execução, do operador",
+    "é integralmente do Comandante do Incidente, inclusive quanto à execução da medida",
+    "é integralmente do operador, que avalia a pertinência da ordem recebida no local",
+    "é solidária entre o Comandante do Incidente e o Coordenador do GATE presente"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz reparte: ao Cmt Inc cabe a definição dos parâmetros autorizadores da intervenção — a decisão estratégica; ao operador, a execução.",
+   "tags": [
+    "responsabilidade",
+    "execucao"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-076",
+   "subtema": "Seleção",
+   "artigo": "Dtz PM3-003/02/25 — seleção",
+   "enunciado": "Para ser selecionado e servir no GATE, o policial militar deverá, entre outros requisitos:",
+   "alternativas": [
+    "estar integralmente apto ao serviço policial-militar, sem restrições",
+    "contar com no mínimo dez anos de efetivo serviço na Polícia Militar do Estado",
+    "estar classificado no comportamento excepcional há pelo menos cinco anos",
+    "ter concluído o curso de formação de sargentos com aproveitamento máximo"
+   ],
+   "correta": 0,
+   "explicacao": "Os requisitos são: não responder a processo regular; estar integralmente apto ao SPM, sem restrições; constar do banco de dados de interesse do GATE com perfil compatível; e não possuir sanção por falta atentatória às instituições, ao Estado, aos direitos humanos ou desonrosa.",
+   "tags": [
+    "selecao",
+    "aptidao"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "gate-elab-077",
+   "subtema": "Seleção",
+   "artigo": "Dtz PM3-003/02/25 — seleção",
+   "enunciado": "Impede a seleção do policial militar para servir no GATE:",
+   "alternativas": [
+    "responder a procedimento disciplinar por transgressão de natureza leve",
+    "possuir sanção por falta atentatória aos direitos humanos fundamentais",
+    "ter cumprido sanção de permanência disciplinar nos últimos doze meses",
+    "estar classificado no comportamento bom há menos de dois anos"
+   ],
+   "correta": 1,
+   "explicacao": "A vedação alcança a sanção por falta atentatória às instituições ou ao Estado, aos direitos humanos fundamentais ou de natureza desonrosa, além de responder a PROCESSO REGULAR — e não a qualquer procedimento disciplinar.",
+   "tags": [
+    "selecao",
+    "vedacao"
+   ]
+  },
+  {
+   "id": "gate-elab-078",
+   "subtema": "Seleção",
+   "artigo": "Dtz PM3-003/02/25 — requisitos adicionais",
+   "enunciado": "Quanto à possibilidade de exigências além das previstas na Diretriz para servir no GATE:",
+   "alternativas": [
+    "podem ser estabelecidas pelo Comandante do 4º BPChq, conforme as atividades",
+    "são vedadas, por se tratar de rol taxativo de requisitos de seleção",
+    "dependem de autorização do Comandante Geral, por ato publicado em boletim",
+    "podem ser fixadas pelo Coordenador do GATE, com anuência do efetivo"
+   ],
+   "correta": 0,
+   "explicacao": "O Cmt do 4º BPChq pode estabelecer requisitos adicionais, considerando as exigências específicas das atividades desempenhadas no âmbito do GATE.",
+   "tags": [
+    "selecao",
+    "requisitos-adicionais"
+   ]
+  },
+  {
+   "id": "gate-elab-079",
+   "subtema": "Operadores especialistas",
+   "artigo": "Dtz PM3-003/02/25 — negociador",
+   "enunciado": "Para atuar como negociador do GATE, o policial militar deverá ter concluído o curso de negociação de crises envolvendo reféns e suicidas e:",
+   "alternativas": [
+    "ser aprovado em avaliação psicológica realizada pelo Centro Médico da Instituição",
+    "ter no mínimo dois anos de efetivo exercício na Unidade de Intervenção Tática",
+    "possuir formação superior em psicologia reconhecida pelo Ministério da Educação",
+    "ser aprovado em treinamento interno da Companhia Operacional de Negociação"
+   ],
+   "correta": 3,
+   "explicacao": "Exige-se o CEP de Negociação de Crises envolvendo reféns e suicidas, ou curso similar de outra instituição, e a APROVAÇÃO EM TREINAMENTO INTERNO da Companhia Operacional de Negociação. Formação em psicologia é requisito do auxiliar de saúde mental.",
+   "tags": [
+    "negociador",
+    "requisitos"
+   ]
+  },
+  {
+   "id": "gate-elab-080",
+   "subtema": "Operadores especialistas",
+   "artigo": "Dtz PM3-003/02/25 — operador da UIT",
+   "enunciado": "São requisitos para atuar como operador da Unidade de Intervenção Tática:",
+   "alternativas": [
+    "curso de atirador policial de precisão e aprovação em treinamento interno",
+    "curso de explosivista policial e habilitação em manuseio de cargas explosivas",
+    "curso de operações táticas especiais e aprovação em treinamento interno da UIT",
+    "curso de negociação de crises e experiência prévia em unidade de força tática"
+   ],
+   "correta": 2,
+   "explicacao": "O operador da UIT deve concluir com aproveitamento o CEP de Operações Táticas Especiais, na PMESP ou similar de outra instituição, e ser aprovado no treinamento interno da Companhia Operacional UIT.",
+   "tags": [
+    "uit",
+    "requisitos"
+   ]
+  },
+  {
+   "id": "gate-elab-081",
+   "subtema": "Operadores especialistas",
+   "artigo": "Dtz PM3-003/02/25 — atirador policial de precisão",
+   "enunciado": "Para atuar como Atirador Policial de Precisão, exige-se curso concluído com aproveitamento:",
+   "alternativas": [
+    "no Comando de Aviação PM, em razão do emprego aerotático do atirador",
+    "na Academia de Polícia Militar do Barro Branco, em estágio de tiro de precisão",
+    "em qualquer instituição policial do país, dispensada validação institucional",
+    "no COT do Departamento de Polícia Federal ou correspondente validado pelo GATE"
+   ],
+   "correta": 3,
+   "explicacao": "O curso deve ser o de Atirador Policial de Precisão do COT do Departamento de Polícia Federal ou curso correspondente de outra instituição, DESDE QUE VALIDADO PELO GATE, seguido de aprovação no treinamento interno da equipe de atiradores.",
+   "tags": [
+    "app",
+    "curso"
+   ]
+  },
+  {
+   "id": "gate-elab-082",
+   "subtema": "Operadores especialistas",
+   "artigo": "Dtz PM3-003/02/25 — convalidação de cursos",
+   "enunciado": "Cursos, treinamentos e estágios de especialização realizados fora da PMESP, para fins de convalidação institucional:",
+   "alternativas": [
+    "são automaticamente aceitos quando ministrados por instituição policial federal",
+    "submetem-se ao Comandante de Policiamento de Choque, ouvido o Cmt do 4º BPChq",
+    "dependem de homologação da Diretoria de Ensino e Cultura, por ato próprio",
+    "são validados pelo Coordenador do GATE, com registro no prontuário do policial"
+   ],
+   "correta": 1,
+   "explicacao": "A avaliação é do Cmt Pol Chq, que, ouvido o Cmt do 4º BPChq, delibera sobre a aceitação e providencia, se for o caso, a publicação em Boletim Interno Reservado e a transcrição no Assentamento Individual do policial militar.",
+   "tags": [
+    "convalidacao",
+    "bir"
+   ]
+  },
+  {
+   "id": "gate-elab-083",
+   "subtema": "Operadores especialistas",
+   "artigo": "Dtz PM3-003/02/25 — treinamentos internos",
+   "enunciado": "A regulamentação dos treinamentos e dos processos de avaliação internos necessários à certificação e à manutenção da habilitação dos operadores especialistas cabe:",
+   "alternativas": [
+    "ao Coordenador do GATE, por nota de instrução interna da Unidade",
+    "ao Comandante de Policiamento de Choque, por ordem de serviço",
+    "à Diretoria de Ensino e Cultura, por instrução normativa específica",
+    "ao Comandante do 4º BPChq, por meio de documento de Estado-Maior"
+   ],
+   "correta": 3,
+   "explicacao": "Cabe ao Cmt do 4º BPChq regulamentar, por DOCUMENTO DE ESTADO-MAIOR, os treinamentos e processos de avaliação internos, observadas as especificidades de cada função.",
+   "tags": [
+    "treinamento",
+    "documento-em"
+   ]
+  },
+  {
+   "id": "gate-elab-084",
+   "subtema": "Monitoramento e controle",
+   "artigo": "Dtz PM3-003/02/25 — monitoramento",
+   "enunciado": "A avaliação dos resultados das estratégias adotadas com o emprego do GATE, verificando o alinhamento com o Plano de Comando, é feita pela Coordenadoria Operacional por meio da:",
+   "alternativas": [
+    "RAC-I, conduzida no âmbito do 4º BPChq",
+    "RAC-II, conduzida pelo Comando de Policiamento de Choque",
+    "RAC-III, no âmbito do Comando Geral",
+    "reunião de análise setorial do Estado-Maior"
+   ],
+   "correta": 2,
+   "explicacao": "A Coord Op PM avalia por meio da RAC-III. Ao CPChq cabe avaliar em RAC-II e providenciar a avaliação em RAC-I, esta conduzida pelo 4º BPChq com base nos indicadores de seu planejamento.",
+   "tags": [
+    "rac-iii",
+    "coord-op"
+   ]
+  },
+  {
+   "id": "gate-elab-085",
+   "subtema": "Monitoramento e controle",
+   "artigo": "Dtz PM3-003/02/25 — relatórios",
+   "enunciado": "Quanto aos relatórios destinados ao controle gerencial das operações do GATE:",
+   "alternativas": [
+    "são produzidos pelo CIPM a partir das informações colhidas no local do incidente",
+    "são elaborados pela Coordenadoria Operacional e preenchidos pelas unidades territoriais",
+    "são desenvolvidos e disponibilizados pelo CPChq, cabendo o preenchimento ao 4º BPChq",
+    "são dispensados nas ocorrências emergenciais, por incompatibilidade com a urgência"
+   ],
+   "correta": 2,
+   "explicacao": "O CPChq desenvolve e disponibiliza os relatórios de controle gerencial, cujo PREENCHIMENTO é responsabilidade do 4º BPChq, e sistematiza os dados para aperfeiçoar as rotinas de emprego do GATE.",
+   "tags": [
+    "relatorios",
+    "cpchq"
+   ]
+  },
+  {
+   "id": "gate-elab-086",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-003/02/25 — CPChq",
+   "enunciado": "Compete ao Comando de Policiamento de Choque, na sistemática da Diretriz:",
+   "alternativas": [
+    "produzir notas técnicas e artigos científicos sobre as ciências táticas",
+    "conduzir a RAC-I de avaliação do emprego do GATE nas ocorrências atendidas",
+    "elaborar plano de contingência para a resposta ao acionamento do GATE pelo COPOM",
+    "sistematizar as informações sobre artefatos explosivos para análise estratégica"
+   ],
+   "correta": 2,
+   "explicacao": "Ao CPChq cabem, entre outras, a deliberação sobre o emprego programado, o PLANO DE CONTINGÊNCIA para acionamento pelo Chefe de Operações do COPOM, o desenvolvimento de indicadores e a designação do oficial do GATE como Cmt Inc. RAC-I e notas técnicas são do 4º BPChq e do GATE.",
+   "tags": [
+    "cpchq",
+    "contingencia"
+   ]
+  },
+  {
+   "id": "gate-elab-087",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-003/02/25 — 4º BPChq",
+   "enunciado": "Entre as atribuições do 4º BPChq previstas na Diretriz inclui-se:",
+   "alternativas": [
+    "designar o oficial do GATE que atuará como Comandante do Incidente",
+    "conduzir a RAC-I, avaliando o emprego do GATE com base em indicadores",
+    "avaliar, para convalidação, os cursos realizados fora da Polícia Militar",
+    "coordenar o emprego do GATE em atuação conjugada com órgãos externos"
+   ],
+   "correta": 1,
+   "explicacao": "Cabe ao 4º BPChq conduzir a RAC-I, regular os treinamentos por documento de EM, manter contato técnico com instituições de outras unidades da federação, validar estudos técnicos e promover intercâmbio com o CIPM. Designação do Cmt Inc e convalidação de cursos são do CPChq.",
+   "tags": [
+    "4bpchq",
+    "rac-i"
+   ]
+  },
+  {
+   "id": "gate-elab-088",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-003/02/25 — GATE como OGC",
+   "enunciado": "O GATE atua como Órgão Gestor do Conhecimento nos assuntos relacionados:",
+   "alternativas": [
+    "ao controle de distúrbios civis e ao emprego de agentes químicos em manifestações",
+    "ao gerenciamento e à negociação em incidentes críticos e às operações com explosivos",
+    "à investigação criminal de organizações que empregam explosivos em suas ações",
+    "à formação de todos os policiais militares em técnicas de abordagem policial"
+   ],
+   "correta": 1,
+   "explicacao": "O GATE é OGC do gerenciamento de incidentes críticos policiais, da negociação, das operações com explosivos e bombas sujas — inclusive perícia — e das operações táticas especiais, como resgate de reféns, ações em altura, breaching, tiro de precisão e mandados de alto risco.",
+   "tags": [
+    "ogc",
+    "conhecimento"
+   ]
+  },
+  {
+   "id": "gate-elab-089",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-003/02/25 — CIPM",
+   "enunciado": "Ao Centro de Inteligência da Polícia Militar compete, quanto ao emprego do GATE:",
+   "alternativas": [
+    "coordenar a atuação conjunta do GATE com os órgãos de inteligência federais",
+    "determinar o acionamento do GATE nas ocorrências com indícios de terrorismo",
+    "produzir os laudos periciais dos artefatos explosivos apreendidos em ocorrências",
+    "sistematizar as informações sobre artefatos explosivos recebidas por canal técnico"
+   ],
+   "correta": 3,
+   "explicacao": "Ao CIPM cabe sistematizar as informações recebidas do GATE sobre natureza e características dos artefatos — tipo, sistema de iniciação, componentes químicos, acionadores e registros fotográficos — para subsidiar análises estratégicas e alimentar bases técnicas e doutrinárias.",
+   "tags": [
+    "cipm",
+    "artefatos"
+   ]
+  },
+  {
+   "id": "gate-elab-090",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-003/02/25 — CAvPM",
+   "enunciado": "Quanto ao Comando de Aviação PM, a Diretriz prevê:",
+   "alternativas": [
+    "a elaboração de plano de ação conjunto para padronizar operações aerotáticas",
+    "a cessão permanente de aeronave para a sede do 4º BPChq na Capital",
+    "a formação dos operadores do GATE em técnicas de desembarque aerotático",
+    "o transporte exclusivo das equipes de negociação em ocorrências urbanas"
+   ],
+   "correta": 0,
+   "explicacao": "Ao CAvPM cabem elaborar plano de ação conjunto com o GATE para padronizar os procedimentos em operações aerotáticas e apoiar o deslocamento aéreo de frações para localidades de difícil acesso ou distantes da sede.",
+   "tags": [
+    "cavpm",
+    "aerotatico"
+   ]
+  },
+  {
+   "id": "gate-elab-091",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-003/02/25 — CComSoc",
+   "enunciado": "Nas ocorrências de alta complexidade, impacto social ou repercussão midiática, ao Centro de Comunicação Social cabe:",
+   "alternativas": [
+    "assumir a interlocução com a imprensa, substituindo o Comandante do Incidente",
+    "apoiar o GATE e o CPChq na interlocução com a imprensa, podendo designar porta-voz",
+    "definir o conteúdo das informações táticas divulgadas durante o incidente",
+    "credenciar os profissionais de imprensa autorizados a permanecer no local"
+   ],
+   "correta": 1,
+   "explicacao": "O CComSoc desenvolve estratégias de comunicação para os públicos interno e externo e APOIA o GATE e o CPChq na interlocução com a imprensa, podendo designar porta-voz específico, nos termos da Diretriz nº PM5-001/55/06.",
+   "tags": [
+    "ccomsoc",
+    "porta-voz"
+   ]
+  },
+  {
+   "id": "gate-elab-092",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-003/02/25 — DEC e 3ª EM/PM",
+   "enunciado": "Analisar os currículos dos cursos de formação, aperfeiçoamento e especialização para consolidar a temática gerenciamento de incidentes é atribuição:",
+   "alternativas": [
+    "do Centro de Inteligência da Polícia Militar",
+    "da 3ª Seção do Estado-Maior",
+    "do Comando de Policiamento de Choque",
+    "da Diretoria de Ensino e Cultura"
+   ],
+   "correta": 3,
+   "explicacao": "À DEC cabe analisar os currículos para consolidar a temática Gerenciamento de Incidentes, propondo alterações curriculares. À 3ª EM/PM cabe analisar propostas de alteração da própria Diretriz e os currículos de cursos ligados às atividades operacionais do GATE.",
+   "tags": [
+    "dec",
+    "curriculos"
+   ]
+  },
+  {
+   "id": "gate-elab-093",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-003/02/25 — DL e 4ª EM/PM",
+   "enunciado": "Providenciar a dotação de munições para capacitação, treinamento e emprego dos atiradores policiais de precisão compete:",
+   "alternativas": [
+    "ao Comando de Aviação PM, no apoio às operações aerotáticas do GATE",
+    "à 4ª Seção do Estado-Maior, isoladamente, por proposta do 4º BPChq",
+    "ao Comando de Policiamento de Choque, com recursos do próprio Batalhão",
+    "à Diretoria de Logística, em conjunto com a 4ª EM/PM e o CPChq nos estudos"
+   ],
+   "correta": 3,
+   "explicacao": "À DL cabem desenvolver, com a 4ª EM/PM e o CPChq, estudos de dotação de armamento e equipamentos específicos e PROVIDENCIAR A DOTAÇÃO DE MUNIÇÕES para capacitação, treinamento e emprego dos APP.",
+   "tags": [
+    "dl",
+    "municao"
+   ]
+  },
+  {
+   "id": "gate-elab-094",
+   "subtema": "Anexo da Diretriz",
+   "artigo": "Dtz PM3-003/02/25, Anexo — disposições",
+   "enunciado": "Quanto ao Anexo da Diretriz do GATE, é correto afirmar que:",
+   "alternativas": [
+    "seus procedimentos são exaustivos, vedada a adoção de outras medidas",
+    "somente pode ser alterado por ato do Comandante Geral, ouvido o CPChq",
+    "suas futuras alterações foram delegadas ao Subcomandante PM",
+    "tem aplicação restrita às ocorrências ocorridas na Região Metropolitana"
+   ],
+   "correta": 2,
+   "explicacao": "As futuras alterações do Anexo foram DELEGADAS ao Subcomandante PM, e os procedimentos nele descritos NÃO SÃO EXAUSTIVOS, admitindo-se outras medidas compatíveis com os objetivos e princípios da Diretriz do SisCOPOM.",
+   "tags": [
+    "anexo",
+    "delegacao"
+   ]
+  },
+  {
+   "id": "gate-elab-095",
+   "subtema": "Anexo da Diretriz",
+   "artigo": "Dtz PM3-003/02/25, Anexo — conceito",
+   "enunciado": "Gerenciamento de incidentes, na definição do Anexo, é o processo contínuo de identificar, obter e aplicar os recursos necessários:",
+   "alternativas": [
+    "ao planejamento, à execução e à fiscalização das operações",
+    "à investigação, à responsabilização e à reparação dos danos",
+    "ao isolamento, à contenção e à evacuação da área afetada",
+    "à antecipação, à prevenção e à condução do evento crítico"
+   ],
+   "correta": 3,
+   "explicacao": "O conceito reúne três verbos — identificar, obter e aplicar — voltados à ANTECIPAÇÃO, PREVENÇÃO e CONDUÇÃO do evento crítico, sob responsabilidade do Cmt Inc, com apoio técnico dos especialistas.",
+   "tags": [
+    "gerenciamento",
+    "conceito"
+   ]
+  },
+  {
+   "id": "gate-elab-096",
+   "subtema": "Anexo da Diretriz",
+   "artigo": "Dtz PM3-003/02/25, Anexo — fundamentos",
+   "enunciado": "São fundamentos do gerenciamento de incidentes, conforme o Anexo:",
+   "alternativas": [
+    "centralização das decisões no Comando Geral durante todo o incidente",
+    "responsabilização dos causadores e reparação integral dos danos causados",
+    "padronização das escalas de serviço e redução do tempo-resposta das viaturas",
+    "proteção à vida e à saúde pública e continuidade das operações essenciais"
+   ],
+   "correta": 3,
+   "explicacao": "Os fundamentos são: proteção à vida humana e à saúde pública; prevenção de danos à propriedade e ao meio ambiente; garantia da continuidade das operações essenciais; e facilitação da recuperação após o encerramento.",
+   "tags": [
+    "fundamentos",
+    "anexo"
+   ]
+  },
+  {
+   "id": "gate-elab-097",
+   "subtema": "Anexo da Diretriz",
+   "artigo": "Dtz PM3-003/02/25, Anexo — fases",
+   "enunciado": "As fases do gerenciamento de incidentes críticos são:",
+   "alternativas": [
+    "planejamento, isolamento, negociação, intervenção e encerramento",
+    "prevenção, proteção, mitigação, resposta e recuperação",
+    "antecipação, contenção, estabilização, intervenção e perícia",
+    "preparação, alerta, mobilização, emprego e desmobilização"
+   ],
+   "correta": 1,
+   "explicacao": "São cinco fases interdependentes: PREVENÇÃO (evitar ou interromper o incidente), PROTEÇÃO (proteger pessoas e infraestruturas), MITIGAÇÃO (reduzir perdas), RESPOSTA (durante ou imediatamente após) e RECUPERAÇÃO (restaurar as condições normais).",
+   "tags": [
+    "fases",
+    "ciclo"
+   ]
+  },
+  {
+   "id": "gate-elab-098",
+   "subtema": "Anexo da Diretriz",
+   "artigo": "Dtz PM3-003/02/25, Anexo — fases",
+   "enunciado": "O conjunto de ações destinadas a salvar vidas, proteger bens e atender às necessidades humanas básicas durante ou imediatamente após o incidente corresponde à fase de:",
+   "alternativas": [
+    "mitigação",
+    "resposta",
+    "proteção",
+    "recuperação"
+   ],
+   "correta": 1,
+   "explicacao": "A fase de RESPOSTA ocorre durante ou imediatamente após o incidente. A MITIGAÇÃO busca reduzir a intensidade, a probabilidade ou os efeitos; a RECUPERAÇÃO restaura os sistemas afetados, com assistência às vítimas e análise pós-incidente.",
+   "tags": [
+    "resposta",
+    "fase"
+   ]
+  },
+  {
+   "id": "gate-elab-099",
+   "subtema": "Anexo da Diretriz",
+   "artigo": "Dtz PM3-003/02/25, Anexo — medidas de gerenciamento",
+   "enunciado": "A medida que visa impedir que o causador aumente o número de reféns, acesse armamentos adicionais ou conquiste posição de vantagem é:",
+   "alternativas": [
+    "o isolamento do causador",
+    "a contenção do incidente estático",
+    "o isolamento do incidente estático",
+    "a estruturação do teatro de operações"
+   ],
+   "correta": 1,
+   "explicacao": "A CONTENÇÃO evita a potencialização do incidente, podendo empregar obstáculos físicos ou medidas táticas. O ISOLAMENTO DO INCIDENTE impede o acesso de terceiros; o ISOLAMENTO DO CAUSADOR restringe seus canais de comunicação com o exterior.",
+   "tags": [
+    "contencao",
+    "medidas"
+   ]
+  },
+  {
+   "id": "gate-elab-100",
+   "subtema": "Anexo da Diretriz",
+   "artigo": "Dtz PM3-003/02/25, Anexo — alternativas táticas",
+   "enunciado": "São alternativas táticas disponíveis ao Comandante do Incidente:",
+   "alternativas": [
+    "intervenção tática, contenção do causador e evacuação compulsória do entorno",
+    "negociação, isolamento perimetral e emprego de agentes de menor potencial ofensivo",
+    "negociação e intervenção tática, esta com tiro de comprometimento, invasão e contramedidas",
+    "negociação, mediação por familiares e intervenção tática com apoio aéreo"
+   ],
+   "correta": 2,
+   "explicacao": "As alternativas são a NEGOCIAÇÃO e a INTERVENÇÃO TÁTICA, que compreende o tiro de comprometimento, a invasão tática e as contramedidas. A escolha cabe ao Cmt Inc, assessorado por sua equipe, com base na análise técnica dos riscos.",
+   "tags": [
+    "alternativas-taticas",
+    "intervencao"
+   ]
+  },
+  {
+   "id": "gate-elab-101",
+   "subtema": "Anexo da Diretriz",
+   "artigo": "Dtz PM3-003/02/25, Anexo — regras de engajamento",
+   "enunciado": "São elementos estruturantes das regras de engajamento, conforme o Anexo:",
+   "alternativas": [
+    "a identificação do causador, o número de reféns e a planta do local do incidente",
+    "o efetivo empregado, o armamento disponível e o tempo previsto de operação",
+    "quem pode usar a força, contra quem, com que tipo de força e sob quais condições",
+    "a autorização judicial, a comunicação ao Ministério Público e o registro da ocorrência"
+   ],
+   "correta": 2,
+   "explicacao": "Os elementos são: quem pode usar a força; contra quem ou o quê; com que tipo de força (letal ou de menor potencial ofensivo); sob quais condições ou situação-gatilho; e com quais restrições.",
+   "tags": [
+    "regras-engajamento",
+    "elementos"
+   ]
+  },
+  {
+   "id": "gate-elab-102",
+   "subtema": "Anexo da Diretriz",
+   "artigo": "Dtz PM3-003/02/25, Anexo — suicidas armados",
+   "enunciado": "Nas ocorrências com pessoa armada em crise suicida, sem terceiros que possam ser vítimas, a Diretriz orienta que:",
+   "alternativas": [
+    "se aguarde a chegada de familiares antes de qualquer verbalização",
+    "a intervenção tática seja imediata, para evitar a consumação do ato",
+    "a negociação se desenvolva de forma mais ponderada e apaziguadora",
+    "o isolamento seja dispensado, por inexistir risco a terceiros no local"
+   ],
+   "correta": 2,
+   "explicacao": "Pressuposta a inexistência de terceiros como vítimas potenciais, as alternativas — especialmente a NEGOCIAÇÃO — podem desenvolver-se de forma mais ponderada e apaziguadora, para desestimular o intento suicida, aplicando-se, no que couber, as providências dos incidentes com reféns.",
+   "tags": [
+    "suicida",
+    "negociacao"
+   ]
+  },
+  {
+   "id": "gate-elab-103",
+   "subtema": "Anexo da Diretriz",
+   "artigo": "Dtz PM3-003/02/25, Anexo — suicidas armados",
+   "enunciado": "Nas ocorrências com pessoa em crise suicida, o uso de técnicas de menor potencial ofensivo ou a entrada da UIT no local de confinamento somente é autorizado:",
+   "alternativas": [
+    "após tentativa formal de negociação por período mínimo de duas horas seguidas",
+    "por decisão do comandante da equipe de intervenção tática presente no local",
+    "por ordem direta do Cmt Inc, após deliberação técnica dos líderes das equipes",
+    "mediante autorização do Comandante de Policiamento de Choque, por rádio"
+   ],
+   "correta": 2,
+   "explicacao": "A autorização decorre de ORDEM DIRETA do Cmt Inc, após deliberação técnica dos líderes das equipes, ou da verificação de situação prevista em REGRA DE ENGAJAMENTO previamente estabelecida.",
+   "tags": [
+    "suicida",
+    "autorizacao"
+   ],
+   "revisada": "2026-09-12"
+  }
+ ]
+}

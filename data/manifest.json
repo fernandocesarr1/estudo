@@ -58,6 +58,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "gate-elab",
+      "nome": "GATE",
+      "nomeCompleto": "Gerenciamento de crises e intervenção do GATE (103 questões)",
+      "norma": "Dtz PM3-003/02/25",
+      "arquivo": "data/gate-elab.json",
+      "cor": "#5c3b6e",
+      "ativo": true,
+      "ordem": 6,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
