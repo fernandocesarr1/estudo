@@ -1,0 +1,1856 @@
+{
+ "materia": "norsop-elab",
+ "versao": "1.6.0",
+ "atualizadoEm": "2026-09-12",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Acompanhamento das atividades",
+  "Aplicação e finalidade",
+  "Atividades Operacionais Diversas",
+  "Atribuições comuns CFP e CGP",
+  "Circunscrição e módulos territoriais",
+  "Comandante de Força de Patrulha",
+  "Comandante de Grupo de Patrulha",
+  "Diagnóstico e análise vetorial",
+  "Funções de comando territorial",
+  "Glossário — apoios",
+  "Glossário — ações especiais",
+  "Glossário — circunstâncias de emprego",
+  "Glossário — classificação do policiamento",
+  "Glossário — criminalidade e percepção",
+  "Glossário — desempenho",
+  "Glossário — emprego conjunto",
+  "Glossário — equipes e forças",
+  "Glossário — estruturas de emprego",
+  "Glossário — estruturas fixas",
+  "Glossário — multidões",
+  "Glossário — poder de polícia",
+  "Glossário — ponto de estacionamento",
+  "Glossário — prevenção",
+  "Guarnição — Anexo D",
+  "Indicadores de desempenho",
+  "Matrizes Operacionais",
+  "Monitoramento dos indicadores",
+  "Níveis de Resposta",
+  "Níveis de planejamento",
+  "Ocorrências graves — Anexo E",
+  "Operações policiais-militares",
+  "Plano de Policiamento Inteligente",
+  "Planos Diretores",
+  "Princípios e diretrizes básicas",
+  "Programas de Policiamento",
+  "Reuniões de Análise Crítica",
+  "Supervisão regional"
+ ],
+ "questoes": [
+  {
+   "id": "norsop-elab-001",
+   "subtema": "Aplicação e finalidade",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — disposições gerais",
+   "enunciado": "Oficial lotado em Diretoria sustenta que a NORSOP não alcança sua unidade, por não se tratar de OPM operacional. Quanto ao âmbito de aplicação da norma, o entendimento é:",
+   "alternativas": [
+    "equivocado, pois a NORSOP é aplicável a todas as Organizações Policiais Militares",
+    "correto, pois a NORSOP alcança apenas os órgãos de execução da Instituição",
+    "equivocado, pois a NORSOP alcança os órgãos de execução e, supletivamente, os de apoio",
+    "correto, pois a NORSOP alcança somente as OPM territoriais e as especializadas"
+   ],
+   "correta": 0,
+   "explicacao": "A NORSOP declara aplicação a TODAS as OPM. A pegadinha clássica troca esse alcance universal por recortes plausíveis — órgãos de execução, OPM operacionais, territoriais e especializadas —, todos mais restritos que o texto da Diretriz.",
+   "tags": [
+    "aplicacao",
+    "disposicoes-gerais"
+   ]
+  },
+  {
+   "id": "norsop-elab-002",
+   "subtema": "Aplicação e finalidade",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — disposições gerais",
+   "enunciado": "A atualização das NORSOP em 2020 teve por situação motivadora o incremento tecnológico na atividade policial-militar. Nesse contexto, a finalidade da Diretriz consiste em estabelecer:",
+   "alternativas": [
+    "as metas e os indicadores de desempenho dos Programas de Policiamento",
+    "o rol das ocorrências que caracterizam grave perturbação da ordem pública",
+    "parâmetros doutrinários e procedimentais para o policiamento ostensivo",
+    "os módulos de configuração territorial adotados por cada Comando de Policiamento"
+   ],
+   "correta": 2,
+   "explicacao": "Finalidade: fixar PARÂMETROS DOUTRINÁRIOS E PROCEDIMENTAIS. Não confundir com o objetivo (padronizar o atendimento e estimular o uso da tecnologia) nem com conteúdos que a norma apenas disciplina, como indicadores, ocorrências graves e módulos territoriais.",
+   "tags": [
+    "finalidade",
+    "objetivo"
+   ]
+  },
+  {
+   "id": "norsop-elab-003",
+   "subtema": "Princípios e diretrizes básicas",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — princípios e diretrizes básicas",
+   "enunciado": "Assinale a alternativa que reúne exclusivamente princípios básicos do sistema operacional de policiamento, na forma da NORSOP:",
+   "alternativas": [
+    "Polícia Comunitária, Direitos Humanos e Excelência na Gestão",
+    "Polícia Comunitária, Direitos Humanos e Autonomia Operacional",
+    "Polícia Comunitária, Acessibilidade e Excelência na Gestão",
+    "Direitos Humanos, Universalidade e Excelência na Gestão"
+   ],
+   "correta": 0,
+   "explicacao": "Os princípios básicos são três e correspondem aos pilares doutrinários do GESPOL: Polícia Comunitária, Direitos Humanos e Excelência na Gestão. Acessibilidade, Autonomia Operacional e Universalidade são DIRETRIZES, não princípios — a troca de um item entre as listas é a armadilha recorrente.",
+   "tags": [
+    "principios",
+    "gespol"
+   ]
+  },
+  {
+   "id": "norsop-elab-004",
+   "subtema": "Princípios e diretrizes básicas",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — princípios e diretrizes básicas",
+   "enunciado": "Assinale a alternativa que reúne exclusivamente diretrizes básicas previstas na NORSOP:",
+   "alternativas": [
+    "Acessibilidade, Proatividade, Polícia Comunitária, Equilíbrio e Universalidade",
+    "Acessibilidade, Proatividade, Autonomia Operacional, Equilíbrio e Excelência",
+    "Proatividade, Direitos Humanos, Autonomia Operacional, Equilíbrio e Universalidade",
+    "Acessibilidade, Proatividade, Autonomia Operacional, Equilíbrio e Universalidade"
+   ],
+   "correta": 3,
+   "explicacao": "As cinco diretrizes básicas formam o mnemônico A-P-A-E-U: Acessibilidade, Proatividade, Autonomia Operacional, Equilíbrio na distribuição de meios e recursos e Universalidade. Polícia Comunitária, Direitos Humanos e Excelência na Gestão são princípios e, inseridos na lista, tornam a alternativa incorreta.",
+   "tags": [
+    "diretrizes",
+    "mnemonico"
+   ]
+  },
+  {
+   "id": "norsop-elab-005",
+   "subtema": "Princípios e diretrizes básicas",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — princípios e diretrizes básicas",
+   "enunciado": "Soldado recém-formado alega não ter obrigação de iniciar o atendimento de ocorrência de perturbação do sossego por estar escalado em programa diverso. A resposta correta invoca a diretriz de:",
+   "alternativas": [
+    "Universalidade, pois todo policial militar deve dar o primeiro atendimento",
+    "Acessibilidade, pela facilitação do contato do público com a Instituição",
+    "Proatividade, pela atuação preventiva sobre incivilidades na comunidade",
+    "Autonomia Operacional, pela liberdade de atuação nos limites da norma"
+   ],
+   "correta": 0,
+   "explicacao": "Universalidade: todo PM deve estar preparado para dar o primeiro atendimento, com as providências preliminares, em qualquer ocorrência que viole a ordem pública nos aspectos de segurança, tranquilidade e salubridade. Acessibilidade trata do contato facilitado; Proatividade, da prevenção de incivilidades.",
+   "tags": [
+    "universalidade",
+    "primeiro-atendimento"
+   ]
+  },
+  {
+   "id": "norsop-elab-006",
+   "subtema": "Princípios e diretrizes básicas",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — princípios e diretrizes básicas",
+   "enunciado": "Contato facilitado do público externo e também do interno com a Polícia Militar, pelo atendimento direto na via pública e por centrais de atendimento, redes sociais e tecnologia. A descrição corresponde à diretriz de:",
+   "alternativas": [
+    "Proatividade, voltada à prevenção das incivilidades",
+    "Polícia Comunitária, pela interação permanente",
+    "Acessibilidade, no contato do público com a Instituição",
+    "Universalidade, no atendimento de qualquer natureza"
+   ],
+   "correta": 2,
+   "explicacao": "Acessibilidade alcança o público EXTERNO e o INTERNO, por atendimento direto na via pública, centrais, redes sociais e tecnologia. A banca costuma suprimir a menção ao público interno para induzir à alternativa de Polícia Comunitária, que é princípio, e não diretriz.",
+   "tags": [
+    "acessibilidade"
+   ]
+  },
+  {
+   "id": "norsop-elab-007",
+   "subtema": "Princípios e diretrizes básicas",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — princípios e diretrizes básicas",
+   "enunciado": "Atuação que não se limita à redução de índices criminais, alcançando a prevenção de incivilidades com a participação da coletividade. Trata-se da diretriz de:",
+   "alternativas": [
+    "Universalidade, pelo atendimento de qualquer ocorrência",
+    "Equilíbrio na distribuição de meios e recursos operacionais",
+    "Acessibilidade, pelo contato facilitado com a população",
+    "Proatividade, na antecipação às incivilidades e aos delitos"
+   ],
+   "correta": 3,
+   "explicacao": "Proatividade: mais do que reduzir índices criminais, atuar preventivamente sobre as incivilidades, com participação da coletividade. Não se confunde com Polícia Comunitária (princípio) nem com Universalidade, que trata do dever de primeiro atendimento.",
+   "tags": [
+    "proatividade"
+   ]
+  },
+  {
+   "id": "norsop-elab-008",
+   "subtema": "Princípios e diretrizes básicas",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — princípios e diretrizes básicas",
+   "enunciado": "Eficiência no tempo-resposta, com aplicação racional e lógica dos recursos e distribuição do efetivo conforme as Matrizes Operacionais, em Módulos de Configuração Territorial, segundo o direcionamento do PPI. Trata-se da diretriz de:",
+   "alternativas": [
+    "Equilíbrio na distribuição de meios e recursos operacionais",
+    "Excelência na Gestão, pela melhoria contínua dos processos",
+    "Autonomia Operacional das unidades territoriais e especializadas",
+    "Proatividade na antecipação aos fatores criminógenos locais"
+   ],
+   "correta": 0,
+   "explicacao": "A diretriz do Equilíbrio na distribuição de meios e recursos liga tempo-resposta, Matrizes Operacionais, Módulos de Configuração Territorial e PPI. Excelência na Gestão é princípio (pilar do GESPOL) e trata de melhoria contínua e inovação.",
+   "tags": [
+    "equilibrio",
+    "ppi"
+   ]
+  },
+  {
+   "id": "norsop-elab-009",
+   "subtema": "Princípios e diretrizes básicas",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — princípios e diretrizes básicas",
+   "enunciado": "Melhoria contínua e inovação para alcançar resultados harmonizados para as partes interessadas, criando valor sustentável, de forma proativa e com constância de propósitos. A descrição corresponde:",
+   "alternativas": [
+    "à diretriz básica de Proatividade do sistema operacional",
+    "ao princípio básico da Excelência na Gestão",
+    "à diretriz básica do Equilíbrio na distribuição de recursos",
+    "ao princípio básico da Polícia Comunitária"
+   ],
+   "correta": 1,
+   "explicacao": "Excelência na Gestão é PRINCÍPIO básico, alinhado aos pilares do GESPOL, e traz as ideias de melhoria contínua, inovação, valor sustentável e constância de propósitos. A menção a proatividade no enunciado é isca para a diretriz de mesmo nome.",
+   "tags": [
+    "excelencia-gestao",
+    "gespol"
+   ]
+  },
+  {
+   "id": "norsop-elab-010",
+   "subtema": "Princípios e diretrizes básicas",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — princípios e diretrizes básicas",
+   "enunciado": "São inerentes ao ser humano e não podem ser abolidos, restringidos, renunciados ou violados, cabendo à Polícia Militar promovê-los sem discriminação de raça, cor, credo, ideologia, gênero ou nacionalidade. Trata-se:",
+   "alternativas": [
+    "da diretriz básica da Universalidade do atendimento policial",
+    "da diretriz básica da Acessibilidade ao serviço policial",
+    "do princípio básico dos Direitos Humanos",
+    "do princípio básico da Polícia Comunitária"
+   ],
+   "correta": 2,
+   "explicacao": "Direitos Humanos é princípio básico, e a NORSOP põe a PM como sua PROMOTORA, vedada qualquer discriminação. Universalidade e Acessibilidade são diretrizes e tratam, respectivamente, do dever de primeiro atendimento e do contato facilitado.",
+   "tags": [
+    "direitos-humanos"
+   ]
+  },
+  {
+   "id": "norsop-elab-011",
+   "subtema": "Matrizes Operacionais",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — estrutura básica",
+   "enunciado": "A estrutura básica do sistema operacional de policiamento, segundo a NORSOP, é composta por:",
+   "alternativas": [
+    "Programas de Policiamento primários e Atividades Operacionais Diversas",
+    "Planos Diretores, Plano de Comando e Planos de Ação das OPM",
+    "Diagnóstico situacional, análise vetorial e respostas vetoriais externas",
+    "Matrizes Operacionais I, II e III e Níveis de Resposta 1 a 4"
+   ],
+   "correta": 3,
+   "explicacao": "A estrutura básica reúne as três Matrizes Operacionais e os quatro Níveis de Resposta. Programas, Planos e diagnóstico existem na norma, mas integram, respectivamente, a composição das Matrizes e o planejamento — não a estrutura básica.",
+   "tags": [
+    "estrutura-basica",
+    "matrizes"
+   ]
+  },
+  {
+   "id": "norsop-elab-012",
+   "subtema": "Matrizes Operacionais",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Matriz Operacional I",
+   "enunciado": "A Matriz Operacional I, de policiamento preventivo, implementada segundo critérios de necessidade e disponibilidade das OPM Territoriais, é composta:",
+   "alternativas": [
+    "pelo Programa de Radiopatrulha, pelos Programas complementares e pelas Atividades Operacionais Diversas",
+    "pelo Programa de Radiopatrulha e pelo Programa de Força Tática, que são os programas primários",
+    "pelos Programas de Policiamento complementares e pelas Ações Especiais de Polícia das OPM",
+    "pelo Programa de Radiopatrulha e pelos apoios táticos prestados às unidades territoriais"
+   ],
+   "correta": 0,
+   "explicacao": "A MOp I reúne o Programa de Radiopatrulha, os Programas de Policiamento complementares e as Atividades Operacionais Diversas, com foco no controle de indicadores criminais e no atendimento do 190. A Força Tática, embora programa primário, integra a MOp II.",
+   "tags": [
+    "mop-i",
+    "radiopatrulha"
+   ]
+  },
+  {
+   "id": "norsop-elab-013",
+   "subtema": "Matrizes Operacionais",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Matriz Operacional II",
+   "enunciado": "A Matriz Operacional II, de apoios táticos e ações especiais de polícia, é composta pelas Forças Táticas, das quais fazem parte inclusive as:",
+   "alternativas": [
+    "equipes de Radiopatrulha 2 Rodas, e pelos Batalhões de Choque do Comando Geral",
+    "equipes de Rondas Ostensivas com Apoio de Motocicletas, e pelos Grupos de Medicina Tática",
+    "equipes de Rondas Ostensivas com Apoio de Motocicletas, e pelos BAEP",
+    "equipes de policiamento com cães, e pelas Bases Comunitárias de Segurança Distritais"
+   ],
+   "correta": 2,
+   "explicacao": "A MOp II é composta pelas Forças Táticas, nelas incluídas as ROCAM, e pelos BAEP, além de estruturas similares criadas pelo Cmdo G. Choque e Grupos de Medicina Tática pertencem aos apoios especializados da MOp III.",
+   "tags": [
+    "mop-ii",
+    "rocam",
+    "baep"
+   ]
+  },
+  {
+   "id": "norsop-elab-014",
+   "subtema": "Matrizes Operacionais",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Matriz Operacional III",
+   "enunciado": "Batalhão territorial esgota seus recursos em ocorrência de elevada complexidade e solicita apoio a unidades com recursos diferenciados. O emprego do CPChq, do CPAmb, do CPRv, do CPTran, do CAvPM, do CCB e dos Grupos de Medicina Tática da DS insere-se:",
+   "alternativas": [
+    "na Matriz Operacional II, por se tratar de apoio tático às unidades territoriais",
+    "na Matriz Operacional I, de forma supletiva ao policiamento preventivo ordinário",
+    "na Matriz Operacional III, correspondente aos apoios especializados",
+    "na Matriz Operacional II, quando houver ação especial de polícia em curso"
+   ],
+   "correta": 2,
+   "explicacao": "Os apoios especializados compõem a MOp III e correspondem ao Nível de Resposta 4. A MOp II abrange apoios táticos e ações especiais de polícia da estrutura territorial (Força Tática, ROCAM, BAEP) e gera os Níveis de Resposta 2 e 3.",
+   "tags": [
+    "mop-iii",
+    "apoio-especializado"
+   ]
+  },
+  {
+   "id": "norsop-elab-015",
+   "subtema": "Níveis de Resposta",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Níveis de Resposta",
+   "enunciado": "Ocorrência é atendida por uma Unidade de Serviço que solicita o apoio de outra viatura de radiopatrulha, esta pertencente a Batalhão limítrofe. O emprego caracteriza:",
+   "alternativas": [
+    "Nível de Resposta 2, pelo apoio prestado por unidade de OPM territorial diversa",
+    "Nível de Resposta 3, por envolver recursos de mais de uma OPM territorial",
+    "Nível de Resposta 2, por se tratar de apoio entre unidades preventivas",
+    "Nível de Resposta 1, pois o apoio de US da MOp I alcança a OPM limítrofe"
+   ],
+   "correta": 3,
+   "explicacao": "O NR 1 admite uma US atuando isoladamente ou com apoio de outras US da MOp I, AINDA QUE de OPM limítrofe. A pegadinha explora a ideia de que a presença de outra OPM elevaria automaticamente o nível de resposta.",
+   "tags": [
+    "nr1",
+    "opm-limitrofe"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-016",
+   "subtema": "Níveis de Resposta",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Níveis de Resposta",
+   "enunciado": "O Nível de Resposta 2 versa sobre a atuação complementar de contingentes dotados de capacitação, treinamento, armamento e equipamento próprios, os quais executam:",
+   "alternativas": [
+    "apoio tático às Unidades de Serviço da Matriz Operacional I, na própria OPM",
+    "apoio especializado às Unidades de Serviço da Matriz Operacional I e II",
+    "apoio tático às Unidades de Serviço da Matriz Operacional II de outra OPM",
+    "emprego adicional de recursos vinculados aos Comandos de Policiamento"
+   ],
+   "correta": 0,
+   "explicacao": "NR 2: apoio TÁTICO às US da MOp I, com meios da PRÓPRIA OPM territorial. Quando o apoio vem de contingente vinculado ao Comando de Policiamento, por exceder a capacidade da OPM, o nível é o 3; sendo unidade especializada, é o 4.",
+   "tags": [
+    "nr2",
+    "apoio-tatico"
+   ]
+  },
+  {
+   "id": "norsop-elab-017",
+   "subtema": "Níveis de Resposta",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Níveis de Resposta",
+   "enunciado": "Força Tática de outro Batalhão é deslocada para atuar na área de Batalhão vizinho, por determinação do Comando de Policiamento, ante a insuficiência dos recursos locais. O caso configura:",
+   "alternativas": [
+    "Nível de Resposta 2, pois a Força Tática integra a Matriz Operacional II",
+    "Nível de Resposta 1, já que o apoio ocorre entre unidades territoriais limítrofes",
+    "Nível de Resposta 4, porque o efetivo empregado não pertence à OPM territorial",
+    "Nível de Resposta 3, pelo emprego adicional determinado pelo Comando de Policiamento"
+   ],
+   "correta": 3,
+   "explicacao": "NR 3: emprego adicional de recursos vinculados diretamente aos Comandos de Policiamento quando a situação excede a capacidade da OPM territorial, hipótese em que FT e AEP de outras OPM apoiam. A MOp II gera tanto o NR 2 quanto o NR 3, conforme quem emprega o recurso.",
+   "tags": [
+    "nr3",
+    "forca-tatica"
+   ]
+  },
+  {
+   "id": "norsop-elab-018",
+   "subtema": "Níveis de Resposta",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Níveis de Resposta",
+   "enunciado": "Sobre o Nível de Resposta 4, é correto afirmar que:",
+   "alternativas": [
+    "decorre do emprego adicional de recursos pelos Comandos de Policiamento territoriais",
+    "abrange o apoio tático prestado por contingentes da própria OPM territorial",
+    "corresponde aos apoios especializados e vincula-se à Matriz Operacional III",
+    "alcança o apoio entre unidades de radiopatrulha de Batalhões limítrofes"
+   ],
+   "correta": 2,
+   "explicacao": "O NR 4 corresponde aos apoios especializados (CPChq, CPAmb, CPRv, CPTran, CAvPM, CCB e DS por meio dos Grupos de Medicina Tática) e está ligado à MOp III. Emprego adicional pelo Comando de Policiamento é NR 3; apoio tático interno é NR 2.",
+   "tags": [
+    "nr4",
+    "mop-iii"
+   ]
+  },
+  {
+   "id": "norsop-elab-019",
+   "subtema": "Níveis de Resposta",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Níveis de Resposta",
+   "enunciado": "Equipe de Força Tática, em período no qual não desenvolve sua atividade típica, é empregada em patrulhamento preventivo por decisão do Comando do Batalhão. Tal emprego:",
+   "alternativas": [
+    "é vedado, pois descaracteriza o programa e desvia a finalidade do contingente",
+    "é admitido apenas mediante autorização prévia do Comando de Policiamento",
+    "é admitido somente em ocorrências de incidente grave ou passível de repercussão",
+    "é admitido supletivamente, no Nível de Resposta 1, fora da atividade típica"
+   ],
+   "correta": 3,
+   "explicacao": "A US vinculada à MOp II ou III que não estiver executando sua atividade típica pode, SUPLETIVAMENTE, desenvolver patrulhamento preventivo no NR 1. A vedação da norma é à descaracterização e ao desvio de finalidade permanentes dos Programas.",
+   "tags": [
+    "supletividade",
+    "nr1"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-020",
+   "subtema": "Níveis de Resposta",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Matrizes e Níveis de Resposta",
+   "enunciado": "Quanto à correlação entre Matrizes Operacionais e Níveis de Resposta, é correto afirmar que:",
+   "alternativas": [
+    "a Matriz Operacional II gera os Níveis 2 e 3 e a Matriz Operacional III, o Nível 4",
+    "a Matriz Operacional II gera apenas o Nível 2 e a Matriz Operacional III, os Níveis 3 e 4",
+    "a Matriz Operacional I gera os Níveis 1 e 2 e a Matriz Operacional II, os Níveis 3 e 4",
+    "cada Matriz Operacional corresponde a um único Nível de Resposta, na ordem crescente"
+   ],
+   "correta": 0,
+   "explicacao": "A MOp II gera o NR 2 e o NR 3, conforme o apoio seja interno à OPM ou venha por emprego adicional do Comando de Policiamento; extrapolando para as especializadas, tem-se a MOp III, correspondente ao NR 4. A correspondência de um para um é falsa.",
+   "tags": [
+    "correlacao",
+    "niveis-resposta"
+   ]
+  },
+  {
+   "id": "norsop-elab-021",
+   "subtema": "Planos Diretores",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Planos Diretores",
+   "enunciado": "Para prover as condições necessárias ao desenvolvimento das atividades de todas as Matrizes Operacionais, cada Comando de Policiamento, territorial ou especializado, deverá inserir em seus Planos Diretores:",
+   "alternativas": [
+    "as metas de redução criminal fixadas pelo Comando Geral para o exercício",
+    "o rol dos indicadores de desempenho e as respectivas memórias de cálculo",
+    "informações de abrangência operacional, com os recursos humanos e materiais",
+    "a relação das ocorrências passíveis de repercussão verificadas na Região"
+   ],
+   "correta": 2,
+   "explicacao": "O Plano Diretor descreve os recursos humanos e materiais a serem empregados, o plano de emprego em Ativ DEJEM e Delegada e a alocação nas estruturas fixas e móveis. Indicadores e memórias de cálculo ficam no Guia de Indicadores dos Programas de Policiamento.",
+   "tags": [
+    "plano-diretor",
+    "recursos"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-022",
+   "subtema": "Planos Diretores",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Planos Diretores",
+   "enunciado": "Comando de Policiamento pretende sobrepor Unidades de Serviço nos horários de maior incidência criminal e concentrar grupos de patrulha em operações, mesmo em dias distintos da escala ordinária. Segundo a NORSOP, tal decisão:",
+   "alternativas": [
+    "depende de autorização do Comando Geral, por alterar o regime de trabalho do efetivo",
+    "é vedada, pois os regimes de trabalho decorrem exclusivamente de norma institucional",
+    "insere-se na autonomia do Comando de Policiamento para definir regimes de trabalho no Plano Diretor",
+    "é admitida apenas para o efetivo empregado em jornada extraordinária, como DEJEM e Delegada"
+   ],
+   "correta": 2,
+   "explicacao": "Na elaboração dos Planos Diretores de abrangência operacional, os Comandos de Policiamento têm autonomia para definir os regimes de trabalho do efetivo subordinado, observada a regulamentação em vigor, inclusive com distribuição individualizada até o nível de Grupo de Patrulha.",
+   "tags": [
+    "regime-trabalho",
+    "autonomia"
+   ]
+  },
+  {
+   "id": "norsop-elab-023",
+   "subtema": "Níveis de planejamento",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — níveis de planejamento e emprego operacional",
+   "enunciado": "Documento elaborado no âmbito do Comando Geral que estabelece as estratégias globais de longo prazo e direciona o emprego combinado dos Órgãos de Direção, Apoio, Execução e Assessoria. O documento e o nível de planejamento são, respectivamente:",
+   "alternativas": [
+    "o Plano Diretor e o planejamento de nível tático, de médio prazo",
+    "o Plano Gerencial e o planejamento de nível tático, nas áreas de gestão",
+    "o Plano de Ação e o planejamento de nível operacional, de curto prazo",
+    "o Plano de Comando e o planejamento de nível estratégico, de longo prazo"
+   ],
+   "correta": 3,
+   "explicacao": "Planejamento estratégico: Cmdo G, longo prazo, consolidado no Plano de Comando. Nos Comandos de Policiamento, a fase estratégico-operacional se materializa nos Planos Diretores. Plano Gerencial é nível tático e Plano de Ação, nível operacional.",
+   "tags": [
+    "planejamento-estrategico",
+    "plano-comando"
+   ]
+  },
+  {
+   "id": "norsop-elab-024",
+   "subtema": "Níveis de planejamento",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — níveis de planejamento e emprego operacional",
+   "enunciado": "Desdobramento do planejamento estratégico nas diversas áreas de gestão, em todos os escalões, operacionais e administrativos, com objetivos setoriais de médio prazo que podem complementar, mas não substituir, os objetivos estratégicos. Trata-se:",
+   "alternativas": [
+    "do Plano Gerencial, decorrente do planejamento de nível tático",
+    "do Plano de Ação, decorrente do planejamento de nível operacional",
+    "do Plano de Comando, decorrente do planejamento de nível estratégico",
+    "da Programação Antecipada de Operação Policial-Militar, de nível tático"
+   ],
+   "correta": 0,
+   "explicacao": "O Plano Gerencial decorre do nível TÁTICO e descreve a metodologia das OPM envolvidas e os planos de ação com meios humanos e materiais. A ressalva de que complementa, mas não substitui, os objetivos estratégicos é marca desse nível.",
+   "tags": [
+    "planejamento-tatico",
+    "plano-gerencial"
+   ]
+  },
+  {
+   "id": "norsop-elab-025",
+   "subtema": "Níveis de planejamento",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — níveis de planejamento e emprego operacional",
+   "enunciado": "Planejamento que, a partir do diagnóstico situacional, sobrepõe camadas de dados de interesse para plotar, em plataformas físicas ou eletrônicas, as AISP e os pontos de concentração do policiamento, otimizando o emprego das Unidades de Serviço. Trata-se:",
+   "alternativas": [
+    "do Plano Diretor, elaborado pelos Comandos de Policiamento territoriais",
+    "do Plano de Ação, decorrente do planejamento de nível operacional",
+    "do Plano Gerencial, decorrente do planejamento de nível tático",
+    "do Esboço Emergencial de Operação Policial-Militar, de caráter precário"
+   ],
+   "correta": 1,
+   "explicacao": "O Plano de Ação pertence ao nível OPERACIONAL: detalha processos, fixa padrões de trabalho e plota as AISP, buscando otimizar recursos e maximizar resultados na direção das metas fixadas nas fases estratégica e tática.",
+   "tags": [
+    "plano-acao",
+    "aisp"
+   ]
+  },
+  {
+   "id": "norsop-elab-026",
+   "subtema": "Circunscrição e módulos territoriais",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — circunscrição territorial",
+   "enunciado": "Na circunscrição territorial prevista na NORSOP, a Subárea, o Setor e o Subsetor correspondem, respectivamente, ao território de responsabilidade do:",
+   "alternativas": [
+    "do Comandante de Batalhão, do Comandante de Companhia e do Comandante de Pelotão",
+    "do Comando de Policiamento, do Comandante de Batalhão e do Comandante de Companhia",
+    "do Comandante de Companhia, do Comandante de Pelotão e de uma ou mais US",
+    "do Comandante de Pelotão, do Comandante de Grupo e de uma Unidade de Serviço"
+   ],
+   "correta": 2,
+   "explicacao": "A escala é Região (Cmdo Pol), Área (Btl), Subárea (Cia), Setor (Cmt Pel) e Subsetor (uma ou mais US, menor fração). Trocar Área por Subárea, ou Setor por Subsetor, é o erro mais explorado nesse tema.",
+   "tags": [
+    "circunscricao",
+    "subarea"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-027",
+   "subtema": "Circunscrição e módulos territoriais",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — módulos de configuração territorial",
+   "enunciado": "A configuração territorial com base em Áreas de Interesse de Segurança Pública obedece aos limites territoriais de:",
+   "alternativas": [
+    "uma Região, por decisão do Comando de Policiamento",
+    "uma Área, conforme definido no Plano Diretor do Batalhão",
+    "um Setor, sob comando direto do Comandante de Pelotão",
+    "uma Subárea, na qual as AISP podem ser variáveis"
+   ],
+   "correta": 3,
+   "explicacao": "No Módulo 2, além dos Setores e Subsetores, alocam-se meios adicionais para AISP variáveis DENTRO DA SUBÁREA, além das AISP fixas. A banca costuma oferecer Área ou Região, escalões maiores, como armadilha.",
+   "tags": [
+    "aisp",
+    "modulo-2"
+   ]
+  },
+  {
+   "id": "norsop-elab-028",
+   "subtema": "Circunscrição e módulos territoriais",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — módulos de configuração territorial",
+   "enunciado": "Batalhão do interior adota configuração territorial em que a área mínima de atuação corresponde a uma Companhia, sem divisão em Setores e Subsetores, tomando o município como um todo. Trata-se do Módulo:",
+   "alternativas": [
+    "2, de configuração territorial por Áreas de Interesse de Segurança Pública",
+    "1, de configuração territorial básica, com estruturas fixas por Companhia",
+    "3, de configuração territorial amplificada, admitida a alocação em AISP",
+    "1, de configuração territorial básica, admitida a migração das US no tempo"
+   ],
+   "correta": 2,
+   "explicacao": "Módulo 3 (amplificado): área mínima de uma Cia, sem divisão em Setor e Subsetor; no interior, o município como um todo, com parâmetros alternativos de atendimento apoiados em tecnologia e geolocalização, podendo alocar recursos adicionais em AISP previstas no Plano Diretor.",
+   "tags": [
+    "modulo-3",
+    "interior"
+   ]
+  },
+  {
+   "id": "norsop-elab-029",
+   "subtema": "Circunscrição e módulos territoriais",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — módulos de configuração territorial",
+   "enunciado": "Nos Módulos de Configuração Territorial 2 e 3, os meios adicionais alocados em Áreas de Interesse de Segurança Pública atuam sob o comando de:",
+   "alternativas": [
+    "Tenente, Subtenente ou Sargento, sem prejuízo das demais funções de comando",
+    "Capitão Comandante de Companhia, com prejuízo das funções de supervisão",
+    "Oficial Supervisor Regional, fora do horário de expediente administrativo",
+    "Comandante de Força de Patrulha, em substituição ao Comandante de Pelotão"
+   ],
+   "correta": 0,
+   "explicacao": "A norma atribui esse comando a Ten, Subten ou Sgt, SEM PREJUÍZO das demais funções de comando e supervisão, tanto no Módulo 2 quanto no Módulo 3. Atribuir a função ao CFP ou ao Supervisor Regional é distorção frequente.",
+   "tags": [
+    "aisp",
+    "comando"
+   ]
+  },
+  {
+   "id": "norsop-elab-030",
+   "subtema": "Circunscrição e módulos territoriais",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Planos Diretores",
+   "enunciado": "Sobre a escolha do módulo de configuração territorial, é correto afirmar que:",
+   "alternativas": [
+    "o Comando Geral fixa módulo único para todas as OPM territoriais do Estado",
+    "o módulo decorre automaticamente do porte populacional do município sede",
+    "o Comandante de Batalhão escolhe o módulo e comunica o Comando de Policiamento",
+    "cada Comando de Policiamento territorial pode optar entre os três módulos"
+   ],
+   "correta": 3,
+   "explicacao": "Cada Cmdo Pol Territorial distribui suas US segundo critérios próprios, podendo optar entre os três módulos, conforme necessidades operacionais e disponibilidade de recursos, com previsão no Plano Diretor. Não há módulo único imposto nem escolha isolada do Batalhão.",
+   "tags": [
+    "plano-diretor",
+    "modulos"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-031",
+   "subtema": "Circunscrição e módulos territoriais",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Comandante de Força de Patrulha e CGP",
+   "enunciado": "Quanto ao Comandante de Grupo de Patrulha nas Companhias territoriais, a NORSOP determina que:",
+   "alternativas": [
+    "haja um CGP por Setor, vedada a existência de mais de um na mesma Subárea",
+    "haja, no mínimo, um CGP na subárea, admitindo-se mais de um conforme peculiaridades",
+    "haja um CGP por Batalhão, escalado entre os Sargentos da sede administrativa",
+    "haja um CGP por Companhia somente nos Módulos de Configuração Territorial 2 e 3"
+   ],
+   "correta": 1,
+   "explicacao": "Toda Cia PM Territorial deve contar com, no mínimo, 1 CGP atuando na subárea, admitindo-se mais de 1 caso as peculiaridades exijam, situação que deve constar dos Planos Diretores.",
+   "tags": [
+    "cgp",
+    "subarea"
+   ]
+  },
+  {
+   "id": "norsop-elab-032",
+   "subtema": "Plano de Policiamento Inteligente",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — PPI",
+   "enunciado": "O Plano de Policiamento Inteligente é definido como a metodologia adotada pela Polícia Militar para:",
+   "alternativas": [
+    "fixar os indicadores de desempenho e as metas anuais de cada Programa",
+    "gerir os ativos operacionais conforme os problemas e as peculiaridades territoriais",
+    "distribuir o efetivo entre as Matrizes Operacionais I, II e III do Estado",
+    "padronizar o registro das ocorrências nas ferramentas inteligentes da Instituição"
+   ],
+   "correta": 1,
+   "explicacao": "O PPI é metodologia de gestão dos ativos operacionais adequada aos problemas e peculiaridades territoriais, em melhoria contínua, buscando redução criminal e aumento da percepção de segurança — é policiamento orientado à resolução de problemas.",
+   "tags": [
+    "ppi",
+    "gestao"
+   ]
+  },
+  {
+   "id": "norsop-elab-033",
+   "subtema": "Reuniões de Análise Crítica",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) c/c norma do PPI — RAC I",
+   "enunciado": "Reunião desenvolvida no âmbito do Batalhão, mensalmente, para avaliar os diagnósticos situacionais e estabelecer alternativas de controle dos indicadores criminais, de aumento da produtividade e de redução do tempo-resposta. Trata-se da RAC:",
+   "alternativas": [
+    "II, presidida pelo Comandante de Policiamento de Área, com os Comandantes de Batalhão",
+    "I, presidida pelo Comandante do Batalhão, com o Coord Op Btl, Cmt de Cia, P/2 e P/3",
+    "III, presidida pelo Coordenador Operacional, com o Estado-Maior e o CIPM",
+    "I, presidida pelo Coord Op Btl, com os Comandantes de Companhia e de Pelotão"
+   ],
+   "correta": 1,
+   "explicacao": "RAC I: âmbito do Batalhão, MENSAL, presidida pelo Cmt Btl, com participação do Coord Op Btl (ou Subcomandante), dos Cmt de Cia, do P/2 e do P/3. Atribuir a presidência ao Coord Op Btl é a troca mais comum.",
+   "tags": [
+    "rac-i",
+    "mensal"
+   ]
+  },
+  {
+   "id": "norsop-elab-034",
+   "subtema": "Reuniões de Análise Crítica",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) c/c norma do PPI — RAC II",
+   "enunciado": "Reunião trimestral, sob responsabilidade dos CPI e CPA, destinada a analisar indicadores de desempenho e avaliar medidas de controle dos indicadores criminais, especialmente letalidade violenta, roubo-outros, furto e roubo de veículos. Essa reunião verifica o alinhamento dos resultados:",
+   "alternativas": [
+    "ao Guia de Indicadores dos Programas e às metas do Cartão de Prioridade",
+    "às estratégias regionais avaliadas no âmbito do Comando Geral",
+    "aos Planos de Ação das Companhias e ao diagnóstico situacional do Batalhão",
+    "aos Planos Diretores e ao Plano de Comando da Instituição"
+   ],
+   "correta": 3,
+   "explicacao": "A RAC II é TRIMESTRAL, de responsabilidade dos CPA e CPI, e verifica o alinhamento dos resultados aos PLANOS DIRETORES e ao PLANO DE COMANDO. A avaliação das estratégias regionais em face dos Planos Diretores, no Cmdo G, é objeto da RAC III.",
+   "tags": [
+    "rac-ii",
+    "trimestral"
+   ]
+  },
+  {
+   "id": "norsop-elab-035",
+   "subtema": "Reuniões de Análise Crítica",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — RAC III",
+   "enunciado": "A Reunião de Análise Crítica realizada no âmbito do Comando Geral, para avaliar as estratégias regionais adotadas por cada Comando de Policiamento em relação ao planejamento dos Planos Diretores, é:",
+   "alternativas": [
+    "presidida pelo Subcomandante PM, com periodicidade semestral definida em norma",
+    "presidida pelo Chefe do Estado-Maior, com periodicidade trimestral, como a RAC II",
+    "presidida pelo Coordenador Operacional da PM, sem periodicidade prevista no PPI",
+    "presidida pelo Comandante Geral, com periodicidade mensal, subsidiada pelo CIPM"
+   ],
+   "correta": 2,
+   "explicacao": "A RAC III ocorre no âmbito do Cmdo G, é presidida pelo Coord Op PM e não está prevista na norma do PPI, que fixa periodicidade apenas para as RAC I e II; o CIPM subsidia as informações.",
+   "tags": [
+    "rac-iii",
+    "coord-op-pm"
+   ]
+  },
+  {
+   "id": "norsop-elab-036",
+   "subtema": "Reuniões de Análise Crítica",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) c/c NI de perturbação do sossego",
+   "enunciado": "Quanto à RAC específica destinada a analisar as providências envolvendo eventos com promoção de som, é correto afirmar que:",
+   "alternativas": [
+    "é realizada trimestralmente pelos Comandos de Policiamento, junto com a RAC II",
+    "é realizada mensalmente por cada Batalhão, em data diversa da RAC de indicadores",
+    "é realizada mensalmente por cada Companhia, na mesma data da RAC de indicadores",
+    "é realizada semestralmente pelo Comando Geral, reunindo os comitês regionais"
+   ],
+   "correta": 1,
+   "explicacao": "Cada Batalhão realiza, MENSALMENTE, RAC ESPECÍFICA, em DATA DIVERSA daquela relacionada aos indicadores criminais, reunindo os representantes do Comitê para discutir os eventos com promoção de som.",
+   "tags": [
+    "rac-especifica",
+    "sossego"
+   ]
+  },
+  {
+   "id": "norsop-elab-037",
+   "subtema": "Programas de Policiamento",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Programas de Policiamento",
+   "enunciado": "Comandante de Batalhão precisa decidir a prioridade de emprego entre programas concorrentes em um mesmo turno. Conforme a NORSOP, são primários e prioritários sobre os demais os Programas de:",
+   "alternativas": [
+    "Radiopatrulha e Policiamento Comunitário, por atenderem o 190 e a comunidade",
+    "Radiopatrulha e Força Tática, prioritários sobre os demais e sobre as AOD",
+    "Força Tática e Policiamento Escolar, por atuarem sobre a criminalidade violenta",
+    "Radiopatrulha e Policiamento de Trânsito, por atenderem demandas cotidianas"
+   ],
+   "correta": 1,
+   "explicacao": "Programas primários: RADIOPATRULHA e FORÇA TÁTICA, prioritários sobre os demais Programas e sobre as Atividades Operacionais Diversas. Comunitário, Escolar, Trânsito e Rural são complementares.",
+   "tags": [
+    "programas-primarios",
+    "prioridade"
+   ]
+  },
+  {
+   "id": "norsop-elab-038",
+   "subtema": "Programas de Policiamento",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Programas complementares",
+   "enunciado": "São Programas de Policiamento complementares, na sistemática da NORSOP:",
+   "alternativas": [
+    "Comunitário, Escolar, de Trânsito e Rural, além de outros que vierem a ser criados",
+    "Comunitário, Escolar, de Trânsito e de Radiopatrulha, conforme a disponibilidade",
+    "Comunitário, Escolar, Rural e de Força Tática, conforme a necessidade local",
+    "Escolar, de Trânsito, Rural e de Guarda, além das Atividades Operacionais Diversas"
+   ],
+   "correta": 0,
+   "explicacao": "Os complementares seguem o mnemônico C-E-T-R: Comunitário, Escolar, Trânsito e Rural, admitidos outros criados posteriormente, como a Patrulha Maria da Penha. Radiopatrulha e Força Tática são primários; policiamento de guarda é AOD.",
+   "tags": [
+    "programas-complementares",
+    "cetr"
+   ]
+  },
+  {
+   "id": "norsop-elab-039",
+   "subtema": "Atividades Operacionais Diversas",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Atividades Operacionais Diversas",
+   "enunciado": "Classificam-se como Atividades Operacionais Diversas de prevenção primária, segundo a NORSOP:",
+   "alternativas": [
+    "o policiamento náutico e o policiamento em fórum, por atuarem sobre vulnerabilidades",
+    "o policiamento em eventos e o policiamento de guarda, de caráter esporádico",
+    "o Serviço de Dia, o policiamento com bicicleta e as atividades de inteligência",
+    "o Proerd, a Justiça e Cidadania e o Programa Vizinhança Solidária"
+   ],
+   "correta": 3,
+   "explicacao": "As AOD dividem-se em esporádicas (eventos, guardas), rotineiras (Serviço de Dia, bicicleta, PPM, inteligência), de prevenção secundária (náutico, fórum) e de prevenção primária (Proerd, Justiça e Cidadania, Vizinhança Solidária).",
+   "tags": [
+    "aod",
+    "prevencao-primaria"
+   ]
+  },
+  {
+   "id": "norsop-elab-040",
+   "subtema": "Atividades Operacionais Diversas",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Atividades Operacionais Diversas",
+   "enunciado": "Quanto ao emprego de efetivo em jornada extraordinária nas Atividades Operacionais Diversas, é correto afirmar que:",
+   "alternativas": [
+    "é vedado o emprego de DEJEM e Atividade Delegada em Atividades Operacionais Diversas",
+    "o emprego de DEJEM e Atividade Delegada depende de autorização do Comando Geral",
+    "as AOD podem explorar DEJEM, Delegada e escalas extras não vinculadas a outros Programas",
+    "o emprego em escalas extras é admitido apenas nos Programas de Policiamento primários"
+   ],
+   "correta": 2,
+   "explicacao": "As AOD podem explorar o emprego de efetivo DEJEM, Delegada e escalas extras QUANDO NÃO estiverem vinculadas a outros Programas de Policiamento. Os Planos Diretores devem prever esse emprego, considerando a recomposição do policial e o desgaste de material.",
+   "tags": [
+    "dejem",
+    "delegada"
+   ]
+  },
+  {
+   "id": "norsop-elab-041",
+   "subtema": "Indicadores de desempenho",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — Guia de Indicadores dos Programas de Policiamento",
+   "enunciado": "Sobre o Guia de Indicadores dos Programas de Policiamento, é correto afirmar que:",
+   "alternativas": [
+    "é editado pelo CIPM e submetido ao Estado-Maior para aprovação anual",
+    "a coleta e o registro dos dados ocorrem exclusivamente por meio da DTIC",
+    "é atualizado somente na hipótese de alteração dos Programas de Policiamento",
+    "os indicadores e as memórias de cálculo são definidos pelo Cmt G, via Coord Op PM"
+   ],
+   "correta": 3,
+   "explicacao": "Os indicadores de desempenho e as respectivas memórias de cálculo são definidos pelo Comandante Geral, por meio da Coord Op PM, que também fixa prazos, meios e orientações para coleta, disponibiliza o Guia na intranet e o atualiza sempre que necessário, inclusive por proposta de qualquer OPM.",
+   "tags": [
+    "guia-indicadores",
+    "coord-op-pm"
+   ]
+  },
+  {
+   "id": "norsop-elab-042",
+   "subtema": "Indicadores de desempenho",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — indicadores de desempenho",
+   "enunciado": "Os indicadores de desempenho previstos na NORSOP dividem-se em indicadores de impacto geral e de impacto específico, assim entendidos, respectivamente, os que monitoram:",
+   "alternativas": [
+    "dois ou mais Programas de Policiamento e um determinado Programa",
+    "a Instituição como um todo e cada Comando de Policiamento isoladamente",
+    "as metas do Plano de Comando e as metas dos Planos Diretores regionais",
+    "os resultados operacionais e os resultados administrativos de cada OPM"
+   ],
+   "correta": 0,
+   "explicacao": "Impacto GERAL: monitoram a evolução de dois ou mais Programas de Policiamento. Impacto ESPECÍFICO: destinam-se a monitorar a evolução de um determinado Programa. As demais opções deslocam o critério para escalões ou planos.",
+   "tags": [
+    "indicadores",
+    "impacto"
+   ]
+  },
+  {
+   "id": "norsop-elab-043",
+   "subtema": "Indicadores de desempenho",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Fórmula que compõe um indicador de desempenho, em regra com duas variáveis, formando taxa quando de mesma natureza e índice quando de naturezas diversas. Trata-se:",
+   "alternativas": [
+    "da camada de dados de interesse do diagnóstico situacional",
+    "do controle gerencial exercido pelo Comandante de Batalhão",
+    "da memória de cálculo do indicador de desempenho",
+    "da meta fixada para o indicador no Plano de Comando"
+   ],
+   "correta": 2,
+   "explicacao": "Memória de cálculo é a FÓRMULA do indicador: mesma natureza gera TAXA; naturezas diversas geram ÍNDICE. Meta é o valor numérico desafiador e exequível a ser atingido, representando uma taxa ou índice.",
+   "tags": [
+    "memoria-calculo",
+    "taxa-indice"
+   ]
+  },
+  {
+   "id": "norsop-elab-044",
+   "subtema": "Indicadores de desempenho",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Na aferição dos indicadores de desempenho, a meta é definida como:",
+   "alternativas": [
+    "o resultado alcançado pela OPM ao final do período de apuração",
+    "o limite máximo de variação admitido para os indicadores criminais",
+    "o parâmetro histórico apurado pela DTIC para cada Programa de Policiamento",
+    "o valor numérico a ser atingido, desafiador e exequível, em taxa ou índice"
+   ],
+   "correta": 3,
+   "explicacao": "Meta é o valor numérico definido como objetivo a ser atingido, que deve ser DESAFIADOR E EXEQUÍVEL, representando uma taxa ou um índice. Não se confunde com o resultado apurado nem com parâmetro histórico.",
+   "tags": [
+    "meta",
+    "indicadores"
+   ]
+  },
+  {
+   "id": "norsop-elab-045",
+   "subtema": "Diagnóstico e análise vetorial",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "As camadas de dados de interesse que subsidiam o diagnóstico situacional compreendem indicadores:",
+   "alternativas": [
+    "demográficos, socioeconômicos, de eventos criminais e de sinais de desordem",
+    "demográficos, socioeconômicos, gerenciais e de produtividade operacional",
+    "geocriminais, gerenciais, orçamentários e de percepção de segurança",
+    "de eventos criminais, de sinais de desordem, de metas e de memórias de cálculo"
+   ],
+   "correta": 0,
+   "explicacao": "As camadas são quatro: demográficas, socioeconômicas, de eventos criminais e de sinais de desordem (física e social, coletados no SIOPM, notadamente por RAIA). São criadas pelo CIPM e enviadas à DTIC para inclusão no COPOM On-line e no SIOPM.",
+   "tags": [
+    "camadas-dados",
+    "cipm"
+   ]
+  },
+  {
+   "id": "norsop-elab-046",
+   "subtema": "Diagnóstico e análise vetorial",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Identificação dos fatores positivos e negativos que afetam a ordem pública no território circunscrito pela OPM, elaborada a partir de indicadores demográficos, socioeconômicos, geocriminais, operacionais e gerenciais. Trata-se:",
+   "alternativas": [
+    "da análise vetorial dos indicadores geocriminais da OPM",
+    "da camada de dados de interesse da segurança pública",
+    "do controle gerencial exercido pelo Comando de Policiamento",
+    "do diagnóstico situacional do território da OPM"
+   ],
+   "correta": 3,
+   "explicacao": "Diagnóstico situacional é a identificação dos fatores positivos e negativos que afetam a ordem pública no território, base para o planejamento. A análise vetorial é o passo seguinte: identificar os fatores que mais influenciam os indicadores geocriminais.",
+   "tags": [
+    "diagnostico-situacional"
+   ]
+  },
+  {
+   "id": "norsop-elab-047",
+   "subtema": "Diagnóstico e análise vetorial",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Batalhão identifica que parte relevante dos roubos em sua área é praticada por grupo baseado em Região distinta e não limítrofe, e planeja atuar naquele território. A atuação fora da própria Região configura:",
+   "alternativas": [
+    "análise vetorial, por identificar os fatores que influenciam os indicadores",
+    "intervenção local direta, por decorrer do diagnóstico situacional do Batalhão",
+    "resposta vetorial externa, com planejamento pelo superior comum às OPM",
+    "operação combinada, por reunir mais de uma OPM em território alheio"
+   ],
+   "correta": 2,
+   "explicacao": "Resposta vetorial externa: ação, operação ou missão que a OPM realiza FORA de sua Região, ainda que não limítrofe, para atingir objetivos operacionais próprios, com planejamento pelo superior comum às OPM envolvidas, que pode delegar a uma delas. A análise vetorial é o planejamento que identifica esses fatores.",
+   "tags": [
+    "resposta-vetorial",
+    "analise-vetorial"
+   ]
+  },
+  {
+   "id": "norsop-elab-048",
+   "subtema": "Acompanhamento das atividades",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — acompanhamento das atividades operacionais",
+   "enunciado": "Acompanhamento realizado pelo Coord Op Btl e pela Divisão Operacional dos Comandos de Policiamento, com apoio das Seções Operacionais, que provê aos Comandos informações sobre a execução dos Planos de Ação. Trata-se:",
+   "alternativas": [
+    "da fiscalização, exercida presencial ou remotamente pelos supervisores",
+    "do controle gerencial, exercido pelos Comandantes de Batalhão e de Policiamento",
+    "do monitoramento, que é o gênero e assessora as demais formas",
+    "da supervisão regional, exercida fora do expediente administrativo"
+   ],
+   "correta": 2,
+   "explicacao": "O MONITORAMENTO é o gênero e assessora tanto os oficiais e sargentos na FISCALIZAÇÃO quanto os Cmt Pol e de Btl no CONTROLE GERENCIAL. A fiscalização é exercida pelo Cmt OPM, oficiais e graduados em supervisão, inclusive remotamente, com rastro e replay dos TMD.",
+   "tags": [
+    "monitoramento",
+    "controle-gerencial"
+   ]
+  },
+  {
+   "id": "norsop-elab-049",
+   "subtema": "Acompanhamento das atividades",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP) — acompanhamento das atividades operacionais",
+   "enunciado": "Comandante de Batalhão, assessorado pelo Coord Op Btl e pelas Seções Operacionais, avalia e orienta o desempenho operacional do efetivo sob seu comando. Essa atividade denomina-se:",
+   "alternativas": [
+    "monitoramento, por prover aos Comandos informações sobre os Planos de Ação",
+    "fiscalização, por verificar o cumprimento dos Planos de Ação e realocar meios",
+    "supervisão regional, por alcançar os graduados em função de comando na Região",
+    "controle gerencial, exercido pelos Comandantes de Batalhão e de Policiamento"
+   ],
+   "correta": 3,
+   "explicacao": "Controle gerencial: conjunto de ações dos Cmt Btl e Cmt Pol, assessorados pelo Coord Op Btl, pela Div Op e pelas Seções Op, para AVALIAR E ORIENTAR o desempenho operacional. Fiscalização verifica o cumprimento dos planos e realoca recursos; monitoramento é o gênero informativo.",
+   "tags": [
+    "controle-gerencial"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-050",
+   "subtema": "Monitoramento dos indicadores",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo G — monitoramento dos indicadores",
+   "enunciado": "Havendo proposta de alteração formulada na análise dos dados operacionais, a Divisão Operacional encaminha a proposta relativa a indicadores de desempenho e a relativa a Programas de Policiamento, respectivamente:",
+   "alternativas": [
+    "à Coord Op PM e à 3ª EM/PM, que submete a alteração ao Comando Geral",
+    "à 3ª EM/PM e à Coord Op PM, que submete a alteração ao Comando Geral",
+    "ao CIPM e à DTIC, que consolidam as alterações no banco de dados",
+    "à DTIC e ao CIPM, que submetem as alterações ao Estado-Maior"
+   ],
+   "correta": 0,
+   "explicacao": "Alteração de INDICADORES vai à Coord Op PM, que, havendo oportunidade e conveniência, edita nova versão do Guia; alteração de PROGRAMAS vai à 3ª EM/PM, que submete ao Cmdo G e divulga. À DTIC cabe estratificar os dados e inseri-los no banco.",
+   "tags": [
+    "anexo-g",
+    "fluxo"
+   ]
+  },
+  {
+   "id": "norsop-elab-051",
+   "subtema": "Comandante de Grupo de Patrulha",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — CGP",
+   "enunciado": "Comandante de Companhia pretende escalar Cabo PM experiente como Comandante de Grupo de Patrulha, por falta de Sargentos disponíveis. A escala:",
+   "alternativas": [
+    "é admitida, desde que o Cabo esteja há mais de cinco anos na subárea",
+    "é vedada, pois a função de CGP é privativa de Subtenente ou Sargento com curso",
+    "é admitida, desde que o Comandante do Batalhão homologue a designação",
+    "é vedada, pois a função é de Sargento PM, não podendo recair sobre Cabo ou Soldado"
+   ],
+   "correta": 3,
+   "explicacao": "O CGP é Sargento PM, sendo VEDADA a designação de Cabo ou Soldado. A norma não abre exceção por tempo de serviço, homologação do Cmt Btl ou curso específico.",
+   "tags": [
+    "cgp",
+    "designacao"
+   ]
+  },
+  {
+   "id": "norsop-elab-052",
+   "subtema": "Comandante de Grupo de Patrulha",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — CGP",
+   "enunciado": "Quanto ao âmbito de atuação e à composição da equipe do Comandante de Grupo de Patrulha, é correto afirmar que atua:",
+   "alternativas": [
+    "na Área, por 24 horas, com equipe preferencialmente de três policiais militares",
+    "na subárea, em horário administrativo, com equipe de dois policiais militares",
+    "no Setor, em horário administrativo, com equipe fixa de três policiais militares",
+    "na subárea, por 24 horas, com equipe preferencialmente de três policiais militares"
+   ],
+   "correta": 3,
+   "explicacao": "O CGP atua na SUBÁREA, por 24 horas, sobre recursos da MOp I, com equipe PREFERENCIALMENTE de 3 PM, com viatura, equipamento e material bélico adequados. A Área é o âmbito do CFP.",
+   "tags": [
+    "cgp",
+    "subarea"
+   ]
+  },
+  {
+   "id": "norsop-elab-053",
+   "subtema": "Comandante de Grupo de Patrulha",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — CGP",
+   "enunciado": "Na estrutura de supervisão prevista no Anexo B, o Comandante de Grupo de Patrulha:",
+   "alternativas": [
+    "responde operacionalmente ao Comandante de Força de Patrulha e o substitui nos impedimentos",
+    "responde operacionalmente ao Comandante de Companhia e substitui o Comandante de Pelotão",
+    "responde diretamente ao Oficial Supervisor Regional fora do expediente administrativo",
+    "responde ao Coordenador Operacional do Batalhão, que fiscaliza as Unidades de Serviço"
+   ],
+   "correta": 0,
+   "explicacao": "O CGP responde OPERACIONALMENTE ao CFP e o substitui nos impedimentos, até a sua chegada. Não substitui Comandante de Pelotão nem se subordina diretamente ao Supervisor Regional ou ao Coord Op Btl.",
+   "tags": [
+    "cgp",
+    "cfp"
+   ]
+  },
+  {
+   "id": "norsop-elab-054",
+   "subtema": "Comandante de Grupo de Patrulha",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — CGP",
+   "enunciado": "Comandante de Grupo de Patrulha determina alteração no emprego de guarnição contrariando orientação dada pelo Comandante de Pelotão para aquele turno. Segundo o Anexo B da NORSOP:",
+   "alternativas": [
+    "a determinação prevalece, pois o CGP é o supervisor direto das Unidades de Serviço",
+    "a determinação prevalece somente se referendada pelo Comandante de Força de Patrulha",
+    "as ações do CGP não sobressaem às do Cmt de Cia ou de Pelotão, salvo excepcionalidades",
+    "as ações do CGP sobressaem às do Comandante de Pelotão apenas no período noturno"
+   ],
+   "correta": 2,
+   "explicacao": "As ações do CGP NÃO sobressaem às do Cmt de Cia, de Pelotão ou de Grupo PM, salvo em excepcionalidades. A supervisão não desloca a cadeia de comando territorial.",
+   "tags": [
+    "cgp",
+    "cadeia-comando"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-055",
+   "subtema": "Comandante de Grupo de Patrulha",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — CGP",
+   "enunciado": "Entre as atribuições expressamente cometidas ao Comandante de Grupo de Patrulha encontra-se:",
+   "alternativas": [
+    "responder pelas funções de Oficial de Dia fora do expediente administrativo",
+    "certificar-se de que as US possuem Cartão de Prioridade e fiscalizar seu cumprimento",
+    "presidir a Reunião de Análise Crítica de nível I no âmbito do Batalhão PM",
+    "autorizar a baixa de viaturas e o encaminhamento à manutenção de segundo escalão"
+   ],
+   "correta": 1,
+   "explicacao": "Cabe ao CGP certificar-se de que todas as US têm CPP, físico ou eletrônico, e fiscalizar seu cumprimento, além de distribuir as viaturas disponíveis e monitorar o tempo-resposta. Responder por Oficial de Dia é atribuição do CFP; presidir a RAC I é do Cmt Btl.",
+   "tags": [
+    "cgp",
+    "cpp"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-056",
+   "subtema": "Comandante de Grupo de Patrulha",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — CGP",
+   "enunciado": "O Anexo B atribui ao Comandante de Grupo de Patrulha manter comunicação permanente com o Comandante de Companhia, a fim de cumprir suas ordens e mantê-lo atualizado sobre US, efetivo e viaturas. Essa comunicação:",
+   "alternativas": [
+    "ocorre sem a intermediação do Comandante de Força de Patrulha",
+    "depende de prévia ciência do Comandante de Força de Patrulha",
+    "é feita por meio do Coordenador Operacional do Batalhão",
+    "ocorre apenas nas ocorrências graves ou passíveis de repercussão"
+   ],
+   "correta": 0,
+   "explicacao": "A norma põe o CGP em contato permanente e DIRETO com o Cmt Cia PM, sem intermediação do CFP, justamente por ser o elo entre subordinados e superiores na subárea. Ao mesmo tempo, deve manter o CFP ciente das alterações com US e viaturas.",
+   "tags": [
+    "cgp",
+    "comunicacao"
+   ]
+  },
+  {
+   "id": "norsop-elab-057",
+   "subtema": "Comandante de Força de Patrulha",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — CFP",
+   "enunciado": "Quanto ao Comandante de Força de Patrulha, é correto afirmar que é:",
+   "alternativas": [
+    "Capitão QOPM, responsável pela Região, atuando fora do expediente administrativo",
+    "Oficial Superior QOPM, responsável pela Área, com escala definida em documento de EM",
+    "Tenente QOPM que comanda, no expediente administrativo, as atividades de uma Subárea",
+    "Tenente QOPM que comanda, por 24 horas, as atividades de policiamento em uma Área"
+   ],
+   "correta": 3,
+   "explicacao": "CFP é Tenente QOPM, com responsabilidade pela ÁREA, por 24 horas, comandando todas as atividades de policiamento ostensivo e de procedimentos operacionais padrão. Capitão fora do expediente na Região é o Supervisor Regional.",
+   "tags": [
+    "cfp",
+    "area"
+   ]
+  },
+  {
+   "id": "norsop-elab-058",
+   "subtema": "Comandante de Força de Patrulha",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — CFP",
+   "enunciado": "Batalhão não conta com escala própria de Oficial de Dia para o período noturno. Segundo o Anexo B da NORSOP:",
+   "alternativas": [
+    "o Comandante de Grupo de Patrulha assume as funções de Oficial de Dia naquele período",
+    "o Oficial Supervisor Regional responde pelas funções de Oficial de Dia do Batalhão",
+    "o Comandante de Força de Patrulha responde pelas funções de Oficial de Dia, observado o RISG",
+    "o Coordenador Operacional do Batalhão responde pelas funções de Oficial de Dia"
+   ],
+   "correta": 2,
+   "explicacao": "O CFP responde pelas funções de Oficial de Dia fora do horário de expediente administrativo quando o Batalhão não contar com escala própria, observado o RISG. O CGP não assume função de oficial.",
+   "tags": [
+    "cfp",
+    "oficial-de-dia"
+   ]
+  },
+  {
+   "id": "norsop-elab-059",
+   "subtema": "Comandante de Força de Patrulha",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — CFP",
+   "enunciado": "Durante ocorrência grave, não há viaturas no status disponível na Companhia responsável. Conforme o Anexo B, o Comandante de Força de Patrulha pode:",
+   "alternativas": [
+    "mobilizar recursos de outras Cia, Programas e AOD, justificadamente, definindo prioridades",
+    "requisitar diretamente apoio especializado do Comando de Policiamento de Choque",
+    "determinar o encerramento do policiamento comunitário em toda a Área do Batalhão",
+    "transferir a coordenação da ocorrência ao Comandante de Grupo de Patrulha da subárea"
+   ],
+   "correta": 0,
+   "explicacao": "O CFP coordena o emprego de US em ocorrências graves ou passíveis de repercussão, ou quando inexistirem viaturas disponíveis, definindo prioridade e mobilizando recursos de outras Cia PM, Programas e AOD, mediante justificativa.",
+   "tags": [
+    "cfp",
+    "mobilizacao"
+   ]
+  },
+  {
+   "id": "norsop-elab-060",
+   "subtema": "Comandante de Força de Patrulha",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — CFP",
+   "enunciado": "Entre as atribuições do Comandante de Força de Patrulha previstas no Anexo B inclui-se:",
+   "alternativas": [
+    "homologar os relatórios de averiguação de incidente administrativo da subárea",
+    "presidir a Reunião de Análise Crítica de indicadores criminais no Batalhão",
+    "monitorar as providências operacionais e cartorárias em prisões em flagrante",
+    "definir os indicadores de desempenho aplicáveis aos Programas de Policiamento"
+   ],
+   "correta": 2,
+   "explicacao": "Cabe ao CFP monitorar e, eventualmente, orientar as providências operacionais e cartorárias em ocorrências encaminhadas aos órgãos de polícia judiciária, especialmente prisões em flagrante, às audiências de custódia, aos juizados e às varas da infância e juventude.",
+   "tags": [
+    "cfp",
+    "cartorario"
+   ]
+  },
+  {
+   "id": "norsop-elab-061",
+   "subtema": "Comandante de Força de Patrulha",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — CFP e CGP",
+   "enunciado": "Sobre a relação entre as atribuições do Comandante de Força de Patrulha e as do Comandante de Grupo de Patrulha, é correto afirmar que o CFP:",
+   "alternativas": [
+    "pode exercer, por amostragem, quaisquer atribuições relacionadas ao CGP",
+    "não pode exercer atribuições do CGP, sob pena de duplicidade de supervisão",
+    "exerce as atribuições do CGP somente quando a subárea estiver sem Sargento escalado",
+    "exerce as atribuições do CGP mediante autorização do Comandante de Companhia"
+   ],
+   "correta": 0,
+   "explicacao": "O CFP pode exercer, POR AMOSTRAGEM, quaisquer atribuições relacionadas ao CGP, para promover padrão e qualidade do serviço. A recíproca é limitada: o CGP substitui o CFP apenas nos seus impedimentos, até a chegada deste.",
+   "tags": [
+    "cfp",
+    "amostragem"
+   ]
+  },
+  {
+   "id": "norsop-elab-062",
+   "subtema": "Supervisão regional",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — Supervisor Regional",
+   "enunciado": "Quanto ao Oficial Supervisor Regional, conforme o Anexo B da NORSOP:",
+   "alternativas": [
+    "é Oficial Superior QOPM, com responsabilidade pela Área, no expediente administrativo",
+    "é Capitão QOPM, e eventualmente Tenente na função de Capitão, responsável pela Região",
+    "é Capitão QOPM, com responsabilidade pela Área, no expediente administrativo",
+    "é Tenente QOPM, com responsabilidade pela Região, fora do expediente administrativo"
+   ],
+   "correta": 1,
+   "explicacao": "Supervisor Regional: Capitão QOPM e, eventualmente, Tenente QOPM na função de Capitão, FORA do expediente, com responsabilidade pela REGIÃO. Oficial Superior QOPM na Região, fora do expediente, é o Superior de Sobreaviso.",
+   "tags": [
+    "supervisor-regional",
+    "regiao"
+   ]
+  },
+  {
+   "id": "norsop-elab-063",
+   "subtema": "Supervisão regional",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — Superior de Sobreaviso",
+   "enunciado": "O Oficial Superior de Sobreaviso, nos termos do Anexo B, é:",
+   "alternativas": [
+    "Capitão QOPM com CAO, atuando na Área durante o expediente administrativo",
+    "Oficial Superior QOPM, e eventualmente Capitão com CAO em função de Major, na Região",
+    "Oficial Superior QOPM, com atuação restrita à sede do Comando de Policiamento",
+    "Tenente-Coronel QOPM, exclusivamente, com responsabilidade sobre duas Regiões"
+   ],
+   "correta": 1,
+   "explicacao": "O Superior de Sobreaviso é Oficial Superior QOPM e, eventualmente, Capitão QOPM com CAO em função de Major, fora do expediente, respondendo pela Região e ficando em condições de atender chamados de supervisão, coordenação e apoio.",
+   "tags": [
+    "superior-sobreaviso"
+   ]
+  },
+  {
+   "id": "norsop-elab-064",
+   "subtema": "Supervisão regional",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — supervisão",
+   "enunciado": "Comando de Policiamento de Área com território extenso pretende escalar dois Oficiais Supervisores Regionais simultaneamente e disciplinar horários e procedimentos. Segundo a NORSOP:",
+   "alternativas": [
+    "é vedada a escala simultânea, admitindo-se apenas um supervisor por Região",
+    "a escala simultânea é possível, mas o regime segue exclusivamente o previsto no RISG",
+    "a escala simultânea depende de autorização prévia do Comando Geral da Instituição",
+    "a escala simultânea é possível, e o regime é disciplinado em documento de Estado-Maior"
+   ],
+   "correta": 3,
+   "explicacao": "Sendo o território extenso, o CPA/CPI pode estabelecer MAIS DE UM Supervisor Regional simultaneamente, e o Comandante fará documento de Estado-Maior para disciplinar horário, escala e procedimentos, regime aplicável também ao Superior de Sobreaviso.",
+   "tags": [
+    "supervisor-regional",
+    "documento-em"
+   ]
+  },
+  {
+   "id": "norsop-elab-065",
+   "subtema": "Atribuições comuns CFP e CGP",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — atribuições idênticas",
+   "enunciado": "São atribuições idênticas do Comandante de Força de Patrulha e do Comandante de Grupo de Patrulha:",
+   "alternativas": [
+    "presidir as revistas e preleções e responder pelas funções de Oficial de Dia",
+    "monitorar as providências cartorárias e fiscalizar as viaturas baixadas",
+    "mobilizar recursos de outras Companhias e definir a prioridade de atendimento",
+    "zelar pelo fiel cumprimento das normas e buscar soluções criativas para as demandas"
+   ],
+   "correta": 3,
+   "explicacao": "As atribuições idênticas são duas: zelar para que legislação, regulamentos, normas e ordens superiores sejam fielmente cumpridos e promover a aplicação das estratégias superiores, buscando SOLUÇÕES CRIATIVAS e exigindo o mesmo dos comandados.",
+   "tags": [
+    "cfp",
+    "cgp",
+    "atribuicoes-identicas"
+   ]
+  },
+  {
+   "id": "norsop-elab-066",
+   "subtema": "Atribuições comuns CFP e CGP",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — atribuições correlatas",
+   "enunciado": "Quanto às revistas, preleções e trocas de turno, o Anexo B estabelece que:",
+   "alternativas": [
+    "o CFP as preside, coordenando-se com o CGP, que o substitui no impedimento",
+    "o CGP as preside, coordenando-se com o CFP, a quem cabe apenas fiscalizar",
+    "o CFP e o CGP as presidem conjuntamente, em todos os turnos de serviço",
+    "o Comandante de Companhia as preside, cabendo ao CFP a fiscalização por amostragem"
+   ],
+   "correta": 0,
+   "explicacao": "Cabe ao CFP presidir revistas e preleções e fiscalizar as trocas de turno, coordenando-se com o CGP, sendo responsável direto por não permitir solução de continuidade no atendimento; ao CGP cabe presidi-las NO IMPEDIMENTO do CFP.",
+   "tags": [
+    "revistas",
+    "trocas-de-turno"
+   ]
+  },
+  {
+   "id": "norsop-elab-067",
+   "subtema": "Atribuições comuns CFP e CGP",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo B — atribuições correlatas",
+   "enunciado": "Estando todas as Unidades de Serviço empenhadas, surge nova ocorrência urgente. Conforme o Anexo B:",
+   "alternativas": [
+    "o CGP aguarda a liberação de uma US, vedado o atendimento pela equipe de supervisão",
+    "o atendimento é transferido à OPM limítrofe, por meio do COPOM, até a liberação de US",
+    "o CFP dá o primeiro atendimento em qualquer caso, e o CGP permanece na sede da Cia",
+    "o CGP dá o primeiro atendimento, evitando pendências, e o CFP o faz excepcionalmente"
+   ],
+   "correta": 3,
+   "explicacao": "Ao CGP cabe, quando todas as US estiverem empenhadas, dar o primeiro atendimento, buscando evitar pendências, coordenando-se com o CFP; a este cabe, EXCEPCIONALMENTE, prestar o primeiro atendimento a ocorrência que, por urgência ou gravidade, exija intervenção rápida.",
+   "tags": [
+    "primeiro-atendimento",
+    "cgp"
+   ]
+  },
+  {
+   "id": "norsop-elab-068",
+   "subtema": "Funções de comando territorial",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo C — funções de comando",
+   "enunciado": "Quanto à presidência das Reuniões de Análise Crítica na estrutura territorial, cabe ao Comandante de Policiamento de Área e ao Comandante de Batalhão, respectivamente, presidir:",
+   "alternativas": [
+    "a RAC III e a RAC II, esta voltada às metas dos escalões superiores",
+    "a RAC II e a RAC I, esta de melhoria contínua com enfoque nas metas superiores",
+    "a RAC I e a RAC II, esta de alinhamento das estratégias do Comando Geral",
+    "a RAC II e a RAC III, esta de avaliação das estratégias regionais adotadas"
+   ],
+   "correta": 1,
+   "explicacao": "O Anexo C atribui ao Cmt Pol Área presidir as RAC II (alinhamento das estratégias do Cmdo G e do Grande Comando às necessidades territoriais) e ao Cmt Btl presidir as RAC I (melhoria contínua com enfoque nas metas superiores). A RAC III é do Cmdo G.",
+   "tags": [
+    "anexo-c",
+    "rac"
+   ]
+  },
+  {
+   "id": "norsop-elab-069",
+   "subtema": "Funções de comando territorial",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo C — funções de comando",
+   "enunciado": "Em município da subárea não há Conselho Comunitário de Segurança constituído. Conforme o Anexo C, compete:",
+   "alternativas": [
+    "ao Comandante de Companhia determinar sua constituição e designar os membros natos",
+    "ao Comandante de Batalhão determinar a constituição e designar os membros natos",
+    "ao Comandante de Policiamento de Área constituir o Conselho e presidir suas reuniões",
+    "ao Comandante de Pelotão constituir o Conselho no Setor e emitir relatório periódico"
+   ],
+   "correta": 1,
+   "explicacao": "Determinar a constituição do CONSEG onde não houver, mesmo que por aclamação, designando os membros natos representantes da PM, é atribuição do Cmt Btl. Ao Cmt Cia cabe compor, como membro nato, o CONSEG ou NAL da subárea, emitindo relatório periódico.",
+   "tags": [
+    "conseg",
+    "anexo-c"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-070",
+   "subtema": "Funções de comando territorial",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo C — funções de comando",
+   "enunciado": "Quanto à participação pessoal no desenvolvimento dos Planos Diretores Municipais, o Anexo C prevê que o Comandante de Companhia participe:",
+   "alternativas": [
+    "apenas nos municípios sede de Companhia, no CPM e no CPI, conforme o Anexo C",
+    "em todos os municípios situados no território de sua responsabilidade",
+    "apenas nos municípios sede de Batalhão, no CPM e no CPI, por delegação",
+    "apenas nos municípios sede de Comando de Policiamento de Área e de Batalhão"
+   ],
+   "correta": 1,
+   "explicacao": "O Cmt Cia participa pessoalmente em TODOS OS MUNICÍPIOS de seu território, no CPM e no CPI. O Cmt Btl participa nos municípios sede do Batalhão e o Cmt Pol Área, no CPM, nos municípios sede de CPA.",
+   "tags": [
+    "plano-diretor-municipal",
+    "anexo-c"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-071",
+   "subtema": "Funções de comando territorial",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo C — funções de comando",
+   "enunciado": "Ocorrência passível de repercussão envolvendo policiais militares acontece na subárea durante o expediente administrativo. Conforme o Anexo C, deve comparecer ao local:",
+   "alternativas": [
+    "o Comandante de Batalhão, que assume a coordenação das Unidades de Serviço",
+    "o Comandante de Companhia, também na ausência do Supervisor Regional",
+    "o Comandante de Grupo de Patrulha, por ser o supervisor da subárea",
+    "o Oficial Supervisor Regional, inclusive durante o expediente administrativo"
+   ],
+   "correta": 1,
+   "explicacao": "O Anexo C impõe ao Cmt Cia comparecer, em grave perturbação da ordem ou ocorrência grave e/ou passível de repercussão, durante o EXPEDIENTE ADMINISTRATIVO ou na AUSÊNCIA do Supervisor Regional, nos locais onde seus comandados ou outros PM estejam envolvidos, e, no seu impedimento, determinar as providências.",
+   "tags": [
+    "anexo-c",
+    "comparecimento"
+   ]
+  },
+  {
+   "id": "norsop-elab-072",
+   "subtema": "Funções de comando territorial",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo C — responsabilidades comuns",
+   "enunciado": "São responsabilidades comuns ao Comandante de Companhia e ao Comandante de Pelotão ou Grupo PM, conforme o Anexo C:",
+   "alternativas": [
+    "acompanhar diariamente os indicadores e executar o PPI, respondendo pelas metas",
+    "presidir a RAC I e propor a alteração dos indicadores de desempenho ao Batalhão",
+    "determinar a constituição de CONSEG e designar os membros natos da Polícia Militar",
+    "distribuir os recursos humanos e materiais da Área para as atividades de policiamento"
+   ],
+   "correta": 0,
+   "explicacao": "São comuns ao Cmt Cia e ao Cmt Pel/Gp: acompanhar diariamente os indicadores criminais e operacionais, orientando a solução criativa de problemas pelo PPI e respondendo pelas metas; zelar pela disciplina e padronização; promover instrução sobre POP; e incentivar Polícia Comunitária e Direitos Humanos.",
+   "tags": [
+    "anexo-c",
+    "responsabilidades-comuns"
+   ]
+  },
+  {
+   "id": "norsop-elab-073",
+   "subtema": "Guarnição — Anexo D",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo D — funções na guarnição",
+   "enunciado": "Na composição da guarnição, conforme o Anexo D, compete ao Encarregado:",
+   "alternativas": [
+    "realizar as consultas e manter a comunicação com o COPOM durante o serviço",
+    "atender as ocorrências e preencher o RSO, o RAIA e o Boletim eletrônico",
+    "auxiliar nas manobras e garantir a segurança nos embarques e desembarques",
+    "executar a manutenção de primeiro escalão e informar defeitos na viatura"
+   ],
+   "correta": 1,
+   "explicacao": "O Encarregado é o mais antigo, atende as ocorrências e preenche RSO, RAIA e BOe. Consultas e comunicação com o COPOM são do Motorista; manobras, documentos e segurança geral, do Auxiliar; manutenção de 1º escalão, do Motorista.",
+   "tags": [
+    "anexo-d",
+    "encarregado"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-074",
+   "subtema": "Guarnição — Anexo D",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo D — funções na guarnição",
+   "enunciado": "Guarnição é composta por dois policiais, e o mais antigo assume a direção da viatura, acumulando a função de Encarregado. Conforme o Anexo D, nessa hipótese excepcional o motorista fica isento:",
+   "alternativas": [
+    "da comunicação pelo rádio, do porte de arma longa e do uso do TMD",
+    "do preenchimento do RSO, do RAIA e do Boletim de Ocorrência eletrônico",
+    "da manutenção de primeiro escalão e da conferência do material bélico",
+    "do uso do farol high light nos deslocamentos e nos pontos de estacionamento"
+   ],
+   "correta": 0,
+   "explicacao": "Excepcionalmente, o motorista pode ser o mais antigo e acumular a função de Encarregado, isentando-se da comunicação de rádio, da arma longa e do TMD. As demais obrigações da função permanecem.",
+   "tags": [
+    "anexo-d",
+    "motorista"
+   ]
+  },
+  {
+   "id": "norsop-elab-075",
+   "subtema": "Guarnição — Anexo D",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo D — posturas gerais",
+   "enunciado": "Quanto às posturas gerais da guarnição nos pontos de estacionamento, o Anexo D determina que os policiais permaneçam:",
+   "alternativas": [
+    "embarcados na viatura, com atenção ao fluxo de pedestres e de veículos",
+    "desembarcados, admitido o apoio em anteparos quando houver risco de disparo",
+    "desembarcados, sem se apoiar ou esconder-se atrás de anteparos, nem fumar",
+    "embarcados, salvo quando houver necessidade de falar com pessoas no local"
+   ],
+   "correta": 2,
+   "explicacao": "Nos pontos de estacionamento, a guarnição fica DESEMBARCADA, sem se apoiar ou se esconder atrás de anteparos, sendo vedado fumar e comer. Falar com pessoas também se faz desembarcado, com linguagem apropriada, respeito e atenção.",
+   "tags": [
+    "anexo-d",
+    "posturas"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-076",
+   "subtema": "Guarnição — Anexo D",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo D — segurança viária",
+   "enunciado": "Guarnição localiza, durante o patrulhamento, buraco de grandes proporções que oferece perigo à circulação. Conforme o Anexo D, deve:",
+   "alternativas": [
+    "registrar a ocorrência no RAIA e encaminhar o relatório ao órgão municipal de trânsito",
+    "sinalizar imediatamente o local com os meios disponíveis e acionar o órgão competente pelo COPOM",
+    "permanecer no local até a chegada do órgão competente, interditando a via ao tráfego",
+    "comunicar o fato ao Comandante de Grupo de Patrulha, a quem cabe acionar o órgão competente"
+   ],
+   "correta": 1,
+   "explicacao": "Havendo obstáculo à livre circulação capaz de causar perigo, a guarnição providencia IMEDIATAMENTE a sinalização com os meios disponíveis (triângulo, cones, cavaletes ou meios de fortuna) e, em seguida, aciona o órgão competente por meio do COPOM/CAD para os reparos emergenciais.",
+   "tags": [
+    "anexo-d",
+    "seguranca-viaria"
+   ]
+  },
+  {
+   "id": "norsop-elab-077",
+   "subtema": "Ocorrências graves — Anexo E",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo E",
+   "enunciado": "Segundo o Anexo E, caracterizam-se como ocorrências de grave perturbação da ordem pública aquelas que:",
+   "alternativas": [
+    "prejudicam a organização social e exigem respostas especiais, excepcionais e temporárias",
+    "exigem o emprego conjugado dos meios pelos danos causados às vítimas e ao meio ambiente",
+    "decorrem de acidente com elevado número de mortos e de feridos em transporte coletivo",
+    "envolvem morte ou ferimento grave de policial militar em serviço ou em horário de folga"
+   ],
+   "correta": 0,
+   "explicacao": "A grave perturbação prejudica a ORGANIZAÇÃO SOCIAL, envolve atos contra decisão das autoridades e exige respostas ESPECIAIS, de caráter EXCEPCIONAL, TEMPORÁRIO e EPISÓDICO. As demais descrições correspondem a incidentes graves ou passíveis de repercussão.",
+   "tags": [
+    "anexo-e",
+    "grave-perturbacao"
+   ]
+  },
+  {
+   "id": "norsop-elab-078",
+   "subtema": "Ocorrências graves — Anexo E",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo E",
+   "enunciado": "Rebelião em estabelecimento penal com reféns, acidente de viatura de grande monta e interrupção prolongada de via importante são exemplos de ocorrências que, na sistemática do Anexo E:",
+   "alternativas": [
+    "caracterizam grave perturbação, por atos contra decisão das autoridades constituídas",
+    "caracterizam incidentes graves ou passíveis de repercussão, com emprego conjugado dos meios",
+    "dispensam coordenação de oficial, por serem atendidas no Nível de Resposta 1",
+    "são atendidas exclusivamente por apoios especializados da Matriz Operacional III"
+   ],
+   "correta": 1,
+   "explicacao": "Incidentes graves e ocorrências passíveis de repercussão exigem EMPREGO CONJUGADO DOS MEIOS, pelos danos às vítimas, à sociedade ou ao meio ambiente, exigindo operações programadas ou baseadas em esboço emergencial.",
+   "tags": [
+    "anexo-e",
+    "incidente-grave"
+   ]
+  },
+  {
+   "id": "norsop-elab-079",
+   "subtema": "Ocorrências graves — Anexo E",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo E",
+   "enunciado": "Quanto à coordenação das ocorrências de grave perturbação, de incidente grave e passíveis de repercussão, o Anexo E estabelece que:",
+   "alternativas": [
+    "a coordenação emergencial cabe ao primeiro oficial que chegar ao local da ocorrência",
+    "a coordenação emergencial cabe ao oficial mais antigo da OPM territorial, ainda que ausente",
+    "toda coordenação é definida previamente pelo escalão superior, inclusive nas emergências",
+    "a coordenação programada cabe ao comandante da primeira fração empenhada no local"
+   ],
+   "correta": 0,
+   "explicacao": "Coordenação EMERGENCIAL: o primeiro oficial no local assume. Coordenação PROGRAMADA: oficial definido pelo escalão superior. Confundir as duas hipóteses é o erro clássico nesse ponto.",
+   "tags": [
+    "anexo-e",
+    "coordenacao"
+   ]
+  },
+  {
+   "id": "norsop-elab-080",
+   "subtema": "Ocorrências graves — Anexo E",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo E",
+   "enunciado": "A definição da OPM responsável pela coordenação de ocorrência que reúna unidades territoriais e especializadas observa:",
+   "alternativas": [
+    "a antiguidade do oficial presente, que fixa o nível hierárquico da coordenação",
+    "a ordem de chegada das frações ao local, prevalecendo a primeira empenhada",
+    "a preponderância da ação a ser desenvolvida, especializada ou territorial",
+    "a natureza do efetivo empregado, prevalecendo sempre a OPM especializada presente"
+   ],
+   "correta": 2,
+   "explicacao": "A OPM responsável decorre da PREPONDERÂNCIA da ação (especializada ou territorial); definida a OPM, cabe a ela fixar o nível hierárquico da coordenação, segundo o nível de resposta e as características do efetivo empregado.",
+   "tags": [
+    "anexo-e",
+    "preponderancia"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "norsop-elab-081",
+   "subtema": "Ocorrências graves — Anexo E",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo E",
+   "enunciado": "Duas OPM divergem sobre qual delas deve coordenar determinada ocorrência. Conforme o Anexo E, o conflito de atribuições, positivo ou negativo:",
+   "alternativas": [
+    "é resolvido pelo COPOM, que define a unidade responsável pelo atendimento",
+    "deve ser elevado imediatamente ao comando comum às frações empregadas",
+    "é resolvido pelo oficial mais antigo presente, que assume a coordenação",
+    "deve ser submetido ao Coordenador Operacional da PM, em qualquer hipótese"
+   ],
+   "correta": 1,
+   "explicacao": "O conflito de atribuições, positivo (duas OPM querem coordenar) ou negativo (uma empurra para a outra), deve ser elevado IMEDIATAMENTE ao comando comum às frações empregadas, respeitada a peculiaridade do fato.",
+   "tags": [
+    "anexo-e",
+    "conflito-atribuicoes"
+   ]
+  },
+  {
+   "id": "norsop-elab-082",
+   "subtema": "Ocorrências graves — Anexo E",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo E",
+   "enunciado": "O Comando de Policiamento de Área deve acompanhar e, se necessário, coordenar pessoalmente as ações quando houver operação com participação de mais de uma OPM subordinada ou com reforço de outras OPM, desde que os efetivos envolvidos sejam:",
+   "alternativas": [
+    "de valor maior que Batalhão, além das hipóteses de gravidade e de ordem superior",
+    "de valor maior que Companhia, ainda que pertencentes a um único Batalhão",
+    "de qualquer valor, sempre que houver emprego de unidades especializadas",
+    "de valor maior que Pelotão, quando houver repercussão na imprensa local"
+   ],
+   "correta": 0,
+   "explicacao": "São três as hipóteses: gravidade e/ou repercussão que assim exijam; operação com mais de uma OPM subordinada ou reforço de outras OPM, desde que os efetivos sejam de valor MAIOR QUE BATALHÃO; e determinação do escalão superior.",
+   "tags": [
+    "anexo-e",
+    "cpa-cpi"
+   ]
+  },
+  {
+   "id": "norsop-elab-083",
+   "subtema": "Ocorrências graves — Anexo E",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo E",
+   "enunciado": "Sobre a comunicação social nas ocorrências de grave perturbação, de incidente grave e passíveis de repercussão, o Anexo E prevê que:",
+   "alternativas": [
+    "a nomeação de porta-voz é obrigatória e sua atuação se restringe aos órgãos de imprensa",
+    "é recomendável nomear porta-voz, cuja atuação não se limita ao atendimento à imprensa",
+    "o porta-voz deve ser o oficial que coordena a ocorrência, vedada a delegação da função",
+    "a divulgação de informações é vedada até a conclusão do relatório final da ocorrência"
+   ],
+   "correta": 1,
+   "explicacao": "É RECOMENDÁVEL que o oficial responsável nomeie porta-voz, e não apenas para o atendimento à imprensa. Os pedidos internos de informação devem aguardar o momento oportuno, e, terminadas as providências operacionais, emite-se relatório final aos interessados.",
+   "tags": [
+    "anexo-e",
+    "porta-voz"
+   ]
+  },
+  {
+   "id": "norsop-elab-084",
+   "subtema": "Glossário — emprego conjunto",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Fração de tropa que, participando da execução de ações policial-militares na área de determinada OPM, fica sob o comando desta última, em comando único. O glossário denomina essa situação:",
+   "alternativas": [
+    "operação combinada, com planejamento conjunto e comandos próprios",
+    "ação integrada, pela conjugação de esforços dos órgãos partícipes",
+    "reforço, mantido o comando próprio para atividades de especialidade",
+    "apoio, com comando único da OPM em cuja área se atua"
+   ],
+   "correta": 3,
+   "explicacao": "APOIO: comando único da OPM em cuja área se atua. REFORÇO: contingente que mantém comando próprio e independente, para atividades de sua especialidade, com planejamento prévio e conjunto. OPERAÇÃO COMBINADA: comandos próprios mantidos, para ações rotineiras de polícia ostensiva territorial.",
+   "tags": [
+    "apoio",
+    "reforco"
+   ]
+  },
+  {
+   "id": "norsop-elab-085",
+   "subtema": "Glossário — emprego conjunto",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "A construção de Base Comunitária de Segurança com participação espontânea de empresas privadas, contribuindo para a atividade-fim da PM, caracteriza ação coordenada por:",
+   "alternativas": [
+    "cooperação, por reunir órgãos com competência para atuar no mesmo setor",
+    "integração, pela conjugação de esforços entre órgãos partícipes diversos",
+    "colaboração, entre órgãos públicos e órgãos privados de qualquer natureza",
+    "combinação, por exigir planejamento conjunto e comandos próprios"
+   ],
+   "correta": 2,
+   "explicacao": "COLABORAÇÃO: órgãos públicos com órgãos PRIVADOS que contribuem espontaneamente. COOPERAÇÃO: entre órgãos PÚBLICOS com competência no setor, como a Força-Tarefa. Nas colaborações, o Comando deve avaliar criteriosamente os objetivos da participação privada, para evitar privilégios.",
+   "tags": [
+    "colaboracao",
+    "cooperacao"
+   ]
+  },
+  {
+   "id": "norsop-elab-086",
+   "subtema": "Glossário — estruturas fixas",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Estrutura de policiamento ostensivo comunitário em que o policial militar reside no local e presta atendimento ao público. Trata-se:",
+   "alternativas": [
+    "da Base Comunitária de Segurança, aplicando-se a Distrital aos distritos municipais",
+    "da Base Comunitária Móvel, instalada em trailer ou van, para presença não permanente",
+    "do Posto Policial Militar, edificação com acessibilidade e visibilidade, em funcionamento diuturno",
+    "da Base Operacional, instalação fixa mantida pelo CPRv, pelo CPAmb e pelo CPTran"
+   ],
+   "correta": 0,
+   "explicacao": "BCS: o PM reside no local e atende o público; a BCSD é a aplicação do modelo aos distritos municipais. A BCM é trailer ou van para presença não permanente; o PPM é edificação com acessibilidade e visibilidade, diuturna; a Base Operacional é instalação fixa do CPRv, CPAmb e CPTran.",
+   "tags": [
+    "bcs",
+    "bases"
+   ]
+  },
+  {
+   "id": "norsop-elab-087",
+   "subtema": "Glossário — ponto de estacionamento",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Quanto ao ponto de estacionamento, o glossário da NORSOP estabelece que o principal é realizado:",
+   "alternativas": [
+    "sem prejuízo do atendimento de ocorrências, sendo obrigatória a comunicação ao COPOM",
+    "sem prejuízo do atendimento de ocorrências, para demandas ocasionais e extraordinárias",
+    "com prejuízo do atendimento de ocorrências, dispensada a comunicação ao COPOM/CAD",
+    "com prejuízo do atendimento de ocorrências, devendo ser comunicado ao COPOM/CAD"
+   ],
+   "correta": 3,
+   "explicacao": "PE PRINCIPAL: caráter mais permanente, realizado COM prejuízo do atendimento de ocorrências e COMUNICADO ao COPOM/CAD. PE SECUNDÁRIO: demandas ocasionais e extraordinárias, SEM prejuízo do atendimento e sem obrigatoriedade de comunicação.",
+   "tags": [
+    "ponto-estacionamento"
+   ]
+  },
+  {
+   "id": "norsop-elab-088",
+   "subtema": "Glossário — classificação do policiamento",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Patrulhamento, permanência, diligência e escolta correspondem, na classificação da NORSOP:",
+   "alternativas": [
+    "aos tipos de policiamento, elencados no R-200 como qualificadores das ações",
+    "aos programas de policiamento, com implantação duradoura e padrões de execução",
+    "aos processos de policiamento, meio pelo qual o policiamento é executado",
+    "às modalidades de policiamento, modo peculiar de execução do policiamento ostensivo"
+   ],
+   "correta": 3,
+   "explicacao": "MODALIDADE é o modo peculiar de execução: patrulhamento, permanência, diligência e escolta. TIPO é o qualificador legal do R-200 (ostensivo geral, de trânsito, ambiental etc.); PROCESSO é o meio de transporte (a pé, motorizado, montado); PROGRAMA classifica os tipos para objetivos determinados.",
+   "tags": [
+    "modalidade",
+    "tipo",
+    "processo"
+   ]
+  },
+  {
+   "id": "norsop-elab-089",
+   "subtema": "Glossário — estruturas de emprego",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Contingente capacitado para atuar na ocupação antecipada de locais onde haja informação sobre eventos de perturbação do sossego, preferencialmente com agentes de fiscalização, com atuação fundamentalmente preventiva. Trata-se:",
+   "alternativas": [
+    "da Equipe Tática vinculada à Matriz Operacional II da OPM territorial",
+    "da Força de Apoio Tático Operacional, na acepção da NI de perturbação do sossego",
+    "do contingente matricial de restabelecimento da ordem, acionado em eventos críticos",
+    "da Operação de Patrulhamento Inteligente, para controle da criminalidade violenta"
+   ],
+   "correta": 1,
+   "explicacao": "A FATO, na NI de perturbação do sossego, é contingente treinado para OCUPAÇÃO ANTECIPADA, com atuação fundamentalmente PREVENTIVA, podendo ser acionado emergencialmente para restabelecer a ordem, observado o uso escalonado da força. Na NORSOP, a sigla designa contingente matricial de restabelecimento da ordem em eventos críticos.",
+   "tags": [
+    "fato",
+    "perturbacao-sossego"
+   ]
+  },
+  {
+   "id": "norsop-elab-090",
+   "subtema": "Glossário — ações especiais",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Resgate e retomada de refém, marginal embarricado, mandado de busca de alto risco e medidas contrabomba inserem-se, segundo o glossário, entre:",
+   "alternativas": [
+    "as Ações Especiais de Polícia, desenvolvidas no Nível de Resposta 3",
+    "as Ações Táticas Especiais, amparadas por legislação específica",
+    "os Apoios Táticos prestados às Unidades da Matriz Operacional I",
+    "as Operações de Patrulhamento Inteligente, de controle da criminalidade"
+   ],
+   "correta": 1,
+   "explicacao": "AÇÕES TÁTICAS ESPECIAIS: atividades amparadas por legislação específica que buscam solução aceitável em crises de refém, suicida armado, marginal homiziado ou embarricado, busca de alto risco, contraterrorismo e contrabomba. AÇÕES ESPECIAIS DE POLÍCIA atuam no NR 3, sobre demandas regionais de maior complexidade.",
+   "tags": [
+    "acoes-taticas-especiais",
+    "aep"
+   ]
+  },
+  {
+   "id": "norsop-elab-091",
+   "subtema": "Glossário — apoios",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Condição de emprego de contingentes com capacitação, treinamento, armamento e equipamento próprios, destinada a complementar a capacidade de intervenção dos Programas de Policiamento e das Atividades Operacionais Diversas da Matriz Operacional I. Trata-se:",
+   "alternativas": [
+    "do apoio especializado, executado pelo CPChq, CPAmb, CPRv, CPTran e CAvPM",
+    "do apoio tático, prestado no âmbito da estrutura territorial da própria OPM",
+    "da ação especial de polícia, voltada a demandas regionais de maior criticidade",
+    "da operação combinada, mediante planejamento conjunto entre as OPM envolvidas"
+   ],
+   "correta": 1,
+   "explicacao": "APOIO TÁTICO complementa a capacidade de intervenção dos Programas e AOD da MOp I. O APOIO ESPECIALIZADO é atividade do CPAmb, CPChq, CPRv, CPTran, CAvPM, CCB e DS, que podem ser empregados em todo o Estado mediante deliberação do Cmdo G.",
+   "tags": [
+    "apoio-tatico",
+    "apoio-especializado"
+   ]
+  },
+  {
+   "id": "norsop-elab-092",
+   "subtema": "Glossário — circunstâncias de emprego",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Conjuntura que demanda o emprego temporário de meios operacionais em eventos previsíveis que exijam esforço específico. O glossário a denomina circunstância:",
+   "alternativas": [
+    "ordinária, por permitir emprego rotineiro segundo plano sistemático",
+    "extraordinária, por decorrer de acontecimento imprevisto que exige manobra",
+    "especial, por alcançar eventos previsíveis com esforço específico",
+    "episódica, por ter caráter excepcional e temporário no tempo e no espaço"
+   ],
+   "correta": 2,
+   "explicacao": "ESPECIAIS: eventos PREVISÍVEIS que exigem esforço específico. ORDINÁRIAS: emprego rotineiro conforme plano sistemático com escala de prioridades. EXTRAORDINÁRIAS: acontecimento IMPREVISTO que exige manobra de recursos.",
+   "tags": [
+    "circunstancias",
+    "emprego"
+   ]
+  },
+  {
+   "id": "norsop-elab-093",
+   "subtema": "Glossário — equipes e forças",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Quanto à Equipe Tática, o glossário exige efetivo capacitado e treinado, com no mínimo:",
+   "alternativas": [
+    "dois integrantes, sob o comando de Subtenente ou Sargento PM, com viatura de maior porte",
+    "três integrantes, sob o comando de Oficial, Subtenente ou Sargento PM",
+    "quatro integrantes, sob o comando de Oficial, com armamento e equipamento específicos",
+    "três integrantes, sob o comando exclusivo de Oficial subalterno da própria OPM"
+   ],
+   "correta": 1,
+   "explicacao": "Equipe Tática: no mínimo 3 integrantes sob comando de Oficial, Subten PM ou Sgt PM, com armamento e equipamento específicos. São exemplos as Forças Táticas, os BAEP e demais componentes das MOp II e III destinados ao emprego tático.",
+   "tags": [
+    "equipe-tatica",
+    "forca-tatica"
+   ]
+  },
+  {
+   "id": "norsop-elab-094",
+   "subtema": "Glossário — desempenho",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "A capacidade de alcançar resultados satisfatórios de forma constante, sem perda de rendimento, envolvendo a sustentabilidade das práticas organizacionais, corresponde:",
+   "alternativas": [
+    "à eficácia, relação entre resultados pretendidos e resultados alcançados",
+    "à eficiência, capacidade de produzir resultados com mínima exigência de recursos",
+    "à efetividade, ligada à ideia de fazer sempre, com sustentabilidade",
+    "à produtividade, medida pelo número de ações executadas no período"
+   ],
+   "correta": 2,
+   "explicacao": "EFICÁCIA é fazer o que deve ser feito (objetivos e metas); EFICIÊNCIA é fazer da melhor maneira possível (mínimo de recursos); EFETIVIDADE é FAZER SEMPRE, com sustentabilidade e constância de resultados.",
+   "tags": [
+    "efetividade",
+    "eficacia",
+    "eficiencia"
+   ]
+  },
+  {
+   "id": "norsop-elab-095",
+   "subtema": "Glossário — poder de polícia",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "A licença, vinculada a um direito, e a autorização, discricionária e revogável a qualquer tempo, manifestam qual dos modos de atuar do poder de polícia?",
+   "alternativas": [
+    "a ordem de polícia, que impõe limitação às pessoas naturais e jurídicas",
+    "o consentimento de polícia, controle prévio que compatibiliza interesses",
+    "a fiscalização de polícia, verificação de ofício ou provocada do cumprimento",
+    "a sanção de polícia, intervenção punitiva do Estado em face da infração"
+   ],
+   "correta": 1,
+   "explicacao": "CONSENTIMENTO de polícia é o controle prévio que compatibiliza o interesse particular com o público, manifestando-se por licença (vinculada) ou autorização (discricionária e revogável). Coercibilidade, autoexecutoriedade e discricionariedade são ATRIBUTOS, não modos de atuar.",
+   "tags": [
+    "poder-de-policia",
+    "consentimento"
+   ]
+  },
+  {
+   "id": "norsop-elab-096",
+   "subtema": "Glossário — prevenção",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Operação desencadeada contra desmanche sobre o qual há informação de receptação de veículos, com o propósito de impedir que o infrator obtenha sucesso com o fruto do delito, corresponde à prevenção:",
+   "alternativas": [
+    "primária, por remover fatores ambientais e criminógenos precursores",
+    "secundária, por inibir a prática de infrações onde há vulnerabilidade",
+    "terciária, forma indireta que limita a propagação dos danos do evento",
+    "situacional, por atuar sobre a oportunidade concreta de cometimento"
+   ],
+   "correta": 2,
+   "explicacao": "A prevenção TERCIÁRIA é indireta: aplica a lei ao caso concreto e cria mecanismos para limitar a propagação dos danos, impedindo que o infrator obtenha êxito com o fruto do crime — daí o exemplo do desmanche. A primária remove fatores criminógenos; a secundária atua pelo policiamento ostensivo.",
+   "tags": [
+    "prevencao-terciaria"
+   ]
+  },
+  {
+   "id": "norsop-elab-097",
+   "subtema": "Glossário — criminalidade e percepção",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Segundo o glossário, a sensação e a percepção de segurança dependem de quatro fatores, assim resumidos:",
+   "alternativas": [
+    "psicológico, ambiente, vulnerabilidade e experiências pessoais com a vitimização",
+    "policiamento, atendimento, visibilidade e experiências pessoais com a vitimização",
+    "psicológico, ambiente, vulnerabilidade e eficiência do atendimento emergencial",
+    "policiamento, ambiente, vulnerabilidade e confiança nas instituições de segurança"
+   ],
+   "correta": 0,
+   "explicacao": "Mnemônico P-A-V-E: Psicológico (mídia e redes sociais), Ambiente e fatores demográficos, Vulnerabilidade física e socioeconômica e Experiências pessoais com a vitimização. Sensação decorre de processo BIOLÓGICO; percepção, de processo PSICOLÓGICO.",
+   "tags": [
+    "pave",
+    "percepcao-seguranca"
+   ]
+  },
+  {
+   "id": "norsop-elab-098",
+   "subtema": "Glossário — multidões",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Agrupamento temporário e aleatório de pessoas, cujos membros pensam e agem como elementos isolados e não organizados, como ocorre em área comercial ou no transporte público. Trata-se:",
+   "alternativas": [
+    "da multidão, unificada psicologicamente por interesse comum entre os presentes",
+    "da aglomeração, que pode dar origem à multidão quando surge interesse comum",
+    "do conflito, desentendimento entre partes sobre tema de interesse comum",
+    "da turba, aglomeração em desordem que exige o controle de multidões"
+   ],
+   "correta": 1,
+   "explicacao": "AGLOMERAÇÃO: agrupamento temporário e aleatório, com membros isolados e não organizados. MULTIDÃO: agrupamento psicologicamente unificado por interesse comum, no qual aparece o pronome nós. Uma multidão pode surgir a partir de uma aglomeração.",
+   "tags": [
+    "aglomeracao",
+    "multidao"
+   ]
+  },
+  {
+   "id": "norsop-elab-099",
+   "subtema": "Operações policiais-militares",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Entre os requisitos essenciais das operações policial-militares, aquele que potencializa a aplicação dos demais por provocar surpresa, desorientação e desequilíbrio nos infratores é:",
+   "alternativas": [
+    "a força, pela busca de supremacia nos locais de atuação policial",
+    "a amplitude, pela adequação dos meios disponíveis ao ambiente",
+    "a velocidade, empregada nas fases de análise, planejamento e atuação",
+    "a resistência, pela manutenção da superioridade por tempo superior"
+   ],
+   "correta": 2,
+   "explicacao": "Mnemônico F-A-V-R: Força (supremacia), Amplitude (adequação dos meios), VELOCIDADE (surpresa, desorientação e desequilíbrio, potencializando os demais) e Resistência (manter a superioridade por mais tempo que os infratores).",
+   "tags": [
+    "favr",
+    "operacoes"
+   ]
+  },
+  {
+   "id": "norsop-elab-100",
+   "subtema": "Operações policiais-militares",
+   "artigo": "Dtz PM3-001/02/20 (NORSOP), Anexo A — glossário",
+   "enunciado": "Surgindo informação sobre possibilidade de grave perturbação da ordem, o Comando aloca emergencialmente os meios disponíveis e aciona recursos complementares, com plano de ação mínimo a ser registrado em documento adequado. Trata-se:",
+   "alternativas": [
+    "da programação antecipada, planejamento formal por padrões regulamentares",
+    "da resposta vetorial externa, com planejamento pelo superior comum às OPM",
+    "do plano de ação, decorrente do planejamento de nível operacional da OPM",
+    "do esboço emergencial, planejamento de caráter precário com meios disponíveis"
+   ],
+   "correta": 3,
+   "explicacao": "ESBOÇO EMERGENCIAL: planejamento precário, com alocação emergencial de meios e acionamento de recursos complementares (MOp II e III, planos de chamada). A PROGRAMAÇÃO ANTECIPADA é o planejamento formal, com informações mínimas para descrição pormenorizada das providências.",
+   "tags": [
+    "esboco-emergencial",
+    "programacao-antecipada"
+   ]
+  }
+ ]
+}

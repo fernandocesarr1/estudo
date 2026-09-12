@@ -1,6 +1,6 @@
 {
   "version": "3.1.0",
-  "lastUpdated": "2026-09-11",
+  "lastUpdated": "2026-09-12",
   "materias": [
     {
       "id": "rdpm",
@@ -25,36 +25,14 @@
       "origem": "elaborada"
     },
     {
-      "id": "cpm",
-      "nome": "CPM",
-      "nomeCompleto": "Código Penal Militar",
-      "norma": "Decreto-Lei nº 1.001/69",
-      "arquivo": "data/cpm.json",
-      "cor": "#4d1a7c",
-      "ativo": false,
+      "id": "norsop-elab",
+      "nome": "NORSOP",
+      "nomeCompleto": "Normas para o Sistema Operacional de Policiamento (100 questões)",
+      "norma": "Dtz PM3-001/02/20",
+      "arquivo": "data/norsop-elab.json",
+      "cor": "#1f6f5c",
+      "ativo": true,
       "ordem": 3,
-      "origem": "elaborada"
-    },
-    {
-      "id": "cppm",
-      "nome": "CPPM",
-      "nomeCompleto": "Código de Processo Penal Militar",
-      "norma": "Decreto-Lei nº 1.002/69",
-      "arquivo": "data/cppm.json",
-      "cor": "#1a7c4d",
-      "ativo": false,
-      "ordem": 4,
-      "origem": "elaborada"
-    },
-    {
-      "id": "ambiental",
-      "nome": "Direito Ambiental",
-      "nomeCompleto": "Legislação Ambiental Federal e Estadual",
-      "norma": "Lei 9.605/98 + correlatas",
-      "arquivo": "data/ambiental.json",
-      "cor": "#2d5016",
-      "ativo": false,
-      "ordem": 5,
       "origem": "elaborada"
     },
     {
@@ -287,6 +265,39 @@
       "ativo": true,
       "ordem": 31,
       "origem": "prova"
+    },
+    {
+      "id": "cpm",
+      "nome": "CPM",
+      "nomeCompleto": "Código Penal Militar",
+      "norma": "Decreto-Lei nº 1.001/69",
+      "arquivo": "data/cpm.json",
+      "cor": "#4d1a7c",
+      "ativo": false,
+      "ordem": 93,
+      "origem": "elaborada"
+    },
+    {
+      "id": "cppm",
+      "nome": "CPPM",
+      "nomeCompleto": "Código de Processo Penal Militar",
+      "norma": "Decreto-Lei nº 1.002/69",
+      "arquivo": "data/cppm.json",
+      "cor": "#1a7c4d",
+      "ativo": false,
+      "ordem": 94,
+      "origem": "elaborada"
+    },
+    {
+      "id": "ambiental",
+      "nome": "Direito Ambiental",
+      "nomeCompleto": "Legislação Ambiental Federal e Estadual",
+      "norma": "Lei 9.605/98 + correlatas",
+      "arquivo": "data/ambiental.json",
+      "cor": "#2d5016",
+      "ativo": false,
+      "ordem": 95,
+      "origem": "elaborada"
     },
     {
       "id": "outros",
