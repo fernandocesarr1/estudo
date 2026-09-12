@@ -69,6 +69,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "cop-elab",
+      "nome": "COP",
+      "nomeCompleto": "Câmeras operacionais portáteis (100 questões)",
+      "norma": "Dtz PM3-001/02/25",
+      "arquivo": "data/cop-elab.json",
+      "cor": "#2f6f8f",
+      "ativo": true,
+      "ordem": 7,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",

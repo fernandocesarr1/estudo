@@ -1,0 +1,1854 @@
+{
+ "materia": "cop-elab",
+ "versao": "1.7.0",
+ "atualizadoEm": "2026-09-12",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Acionamento",
+  "Acionamento obrigatório",
+  "Armazenamento",
+  "Atribuições",
+  "Auditoria",
+  "Cadeia de custódia",
+  "Classificação por etiquetas",
+  "Conceitos",
+  "Divulgação",
+  "Encerramento da gravação",
+  "Entrega ao CFP",
+  "Funcionalidades",
+  "Monitoramento",
+  "Objeto da Diretriz",
+  "Obrigações do operador",
+  "Regras gerais de emprego",
+  "Responsabilização",
+  "Situações excepcionais",
+  "Temporalidade e acesso",
+  "Transmissão ao vivo",
+  "Uso obrigatório",
+  "Vídeo de rotina"
+ ],
+ "questoes": [
+  {
+   "id": "cop-elab-001",
+   "subtema": "Objeto da Diretriz",
+   "artigo": "Dtz PM3-001/02/25 — disposições gerais",
+   "enunciado": "A Diretriz nº PM3-001/02/25 disciplina o emprego das câmeras operacionais portáteis e regulamenta a estratégia de:",
+   "alternativas": [
+    "aquisição, manutenção e substituição dos equipamentos pelas OPM",
+    "armazenamento, custódia, compartilhamento e difusão das evidências digitais",
+    "fiscalização disciplinar do efetivo empregado no policiamento ostensivo",
+    "integração das imagens com os sistemas de videomonitoramento municipais"
+   ],
+   "correta": 1,
+   "explicacao": "Além do emprego das COP, a Diretriz regulamenta a estratégia de ARMAZENAMENTO, CUSTÓDIA, COMPARTILHAMENTO E DIFUSÃO das evidências digitais registradas, revogando a Diretriz nº PM3-001/02/22, de 06JUN22.",
+   "tags": [
+    "objeto",
+    "diretriz"
+   ]
+  },
+  {
+   "id": "cop-elab-002",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — conceito de COP",
+   "enunciado": "A câmera operacional portátil é definida como câmera individual acoplada ao fardamento do policial militar que visa à captação:",
+   "alternativas": [
+    "de dados de geolocalização e de tempo-resposta da viatura",
+    "de imagens do policiamento para fins estatísticos",
+    "de dados de áudio e vídeo de interesse policial",
+    "de vídeo, sem áudio, para preservar a intimidade dos abordados"
+   ],
+   "correta": 2,
+   "explicacao": "A COP capta ÁUDIO E VÍDEO de interesse policial, acoplada ao fardamento do policial militar. A captação de áudio é parte essencial do registro, e não exceção.",
+   "tags": [
+    "cop",
+    "conceito"
+   ]
+  },
+  {
+   "id": "cop-elab-003",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — fato de interesse policial",
+   "enunciado": "Fato de interesse policial, para a Diretriz, é todo fato em que há intervenção ou interação do policial militar com o público destinatário:",
+   "alternativas": [
+    "em que exista suspeita de prática de crime ou de contravenção penal",
+    "durante o atendimento de ocorrências com registro em boletim de ocorrência",
+    "em que haja emprego de força física ou de arma de fogo pelo policial",
+    "no exercício das atividades de polícia ostensiva e de preservação da ordem pública"
+   ],
+   "correta": 3,
+   "explicacao": "O conceito é amplo: qualquer intervenção ou interação com o público no exercício da polícia ostensiva e da preservação da ordem pública, cuja gravação constitui EVIDÊNCIA DIGITAL — não se limita a ocorrências registradas nem ao uso da força.",
+   "tags": [
+    "fato-interesse",
+    "conceito"
+   ]
+  },
+  {
+   "id": "cop-elab-004",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — evidência digital",
+   "enunciado": "Evidência digital é o registro audiovisual dotado de integridade, rastreabilidade e credibilidade, garantido por cadeia de custódia, que constitui elemento probatório:",
+   "alternativas": [
+    "somente após homologação pela Corregedoria",
+    "apenas em processos judiciais criminais",
+    "apenas em procedimentos disciplinares internos",
+    "em caráter administrativo e judicial"
+   ],
+   "correta": 3,
+   "explicacao": "A evidência digital serve como elemento probatório em caráter ADMINISTRATIVO e/ou JUDICIAL. Os atributos exigidos são integridade, rastreabilidade e credibilidade, assegurados pela cadeia de custódia.",
+   "tags": [
+    "evidencia-digital",
+    "prova"
+   ]
+  },
+  {
+   "id": "cop-elab-005",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — cadeia de custódia",
+   "enunciado": "A cadeia de custódia da evidência digital é a solução que garante a salvaguarda e a rastreabilidade dos dados, protegendo sua integridade e credibilidade:",
+   "alternativas": [
+    "desde a origem até o envio a outros órgãos ou retirada do sistema",
+    "desde o upload no sistema até a conclusão do processo judicial",
+    "desde a requisição da autoridade até a entrega do arquivo digital",
+    "desde a classificação por etiqueta até o término da temporalidade"
+   ],
+   "correta": 0,
+   "explicacao": "A proteção vai DA ORIGEM (gravação) até o envio a outros órgãos ou a retirada do sistema, quando decorrido o prazo de temporalidade. A cadeia tem início com a própria gravação pela COP.",
+   "tags": [
+    "cadeia-custodia",
+    "conceito"
+   ]
+  },
+  {
+   "id": "cop-elab-006",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — SiGCED",
+   "enunciado": "O Sistema de Gerenciamento, Custódia e Compartilhamento de Evidências Digitais reúne ferramentas de gestão de dados produzidos:",
+   "alternativas": [
+    "exclusivamente pelas câmeras operacionais portáteis em serviço",
+    "por qualquer meio de captação, como COP, drones e monitoramento",
+    "apenas pelos sistemas de videomonitoramento do COPOM",
+    "apenas pelos equipamentos adquiridos após a vigência da Diretriz"
+   ],
+   "correta": 1,
+   "explicacao": "O SiGCED alcança dados produzidos por QUALQUER MEIO DE CAPTAÇÃO — COP, drone, circuito de monitoramento etc. — a serem disponibilizados para processos e procedimentos. O Chefe da Seção PJMD administra e custodia as evidências da OPM.",
+   "tags": [
+    "sigced",
+    "abrangencia"
+   ]
+  },
+  {
+   "id": "cop-elab-007",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — CDCA",
+   "enunciado": "A Central de Difusão de Conteúdo Audiovisual, subordinada ao CComSoc, analisa a conveniência e a oportunidade de divulgação dos conteúdos gravados pelas COP, exceto:",
+   "alternativas": [
+    "quanto às imagens de ocorrências com morte decorrente de intervenção policial",
+    "quanto aos conteúdos solicitados por órgãos de imprensa credenciados",
+    "quanto à requisição de autoridades encarregadas de procedimentos apuratórios",
+    "quanto aos vídeos classificados como de treinamento pelo policial usuário"
+   ],
+   "correta": 2,
+   "explicacao": "A exceção é a requisição de autoridades encarregadas de procedimentos e processos apuratórios, que deve ser analisada pelo Chefe da Seção PJMD da OPM — e não pela CDCA.",
+   "tags": [
+    "cdca",
+    "excecao"
+   ]
+  },
+  {
+   "id": "cop-elab-008",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — auditoria",
+   "enunciado": "A auditoria das evidências digitais obtidas por COP é definida como exame:",
+   "alternativas": [
+    "aleatório e periódico, conduzido pelo Comando de Policiamento de Área",
+    "sumário e reservado, realizado exclusivamente pela Corregedoria PM",
+    "sistemático, independente e documentado, por credencial pessoal no SiGCED",
+    "técnico e sigiloso, executado pela Diretoria de Tecnologia da Informação"
+   ],
+   "correta": 2,
+   "explicacao": "A auditoria é exame SISTEMÁTICO, INDEPENDENTE E DOCUMENTADO, feito por meio de credencial PESSOAL de acesso ao SiGCED, para identificar boas práticas, promover melhorias, verificar conformidade, extrair indicadores e realizar fiscalização pedagógica, disciplinar e procedimental.",
+   "tags": [
+    "auditoria",
+    "conceito"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-009",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — etiqueta eletrônica",
+   "enunciado": "A etiqueta eletrônica das informações produzidas pela COP, que permite identificar as imagens quanto ao objetivo e à relevância, é de responsabilidade:",
+   "alternativas": [
+    "do Chefe da Seção PJMD da OPM do policial militar",
+    "do policial militar usuário do equipamento",
+    "do Comandante de Grupo de Patrulha do turno",
+    "do despachador do COPOM que acionou a gravação"
+   ],
+   "correta": 1,
+   "explicacao": "A classificação por tag é responsabilidade do PM USUÁRIO do equipamento, que deve fazê-la logo após o encerramento da gravação. Ao CGP cabe fiscalizar a correta classificação das evidências das US subordinadas.",
+   "tags": [
+    "tag",
+    "responsabilidade"
+   ]
+  },
+  {
+   "id": "cop-elab-010",
+   "subtema": "Vídeo de rotina",
+   "artigo": "Dtz PM3-001/02/25 — vídeo de rotina",
+   "enunciado": "O vídeo de rotina, produzido de forma contínua durante o modo stand-by da COP, tem temporalidade de:",
+   "alternativas": [
+    "30 dias, com acesso liberado ao policial militar usuário do equipamento",
+    "90 dias, com acesso restrito à Corregedoria e aos encarregados",
+    "1 ano, como ocorre com as demais evidências digitais produzidas",
+    "180 dias, com acesso restrito ao Chefe da Seção PJMD da Unidade"
+   ],
+   "correta": 1,
+   "explicacao": "A temporalidade do vídeo de rotina é de 90 DIAS, e o acesso é restrito à Correg PM e aos encarregados de apuração. As demais evidências digitais têm temporalidade mínima de 1 ano.",
+   "tags": [
+    "video-rotina",
+    "90-dias"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-011",
+   "subtema": "Vídeo de rotina",
+   "artigo": "Dtz PM3-001/02/25 — vídeo de rotina",
+   "enunciado": "Quanto à funcionalidade de gravação contínua em modo de espera, a Diretriz esclarece que:",
+   "alternativas": [
+    "está presente em todos os modelos de COP utilizados pela Instituição",
+    "nem todos os modelos a possuem, enquanto houver temporalidade em curso",
+    "é obrigatória em todos os turnos de serviço, independentemente do modelo",
+    "substitui o acionamento manual nas ocorrências de interesse policial"
+   ],
+   "correta": 1,
+   "explicacao": "NEM TODOS os modelos de COP possuem a gravação contínua em stand-by; a regra do vídeo de rotina deve ser observada somente enquanto houver temporalidade em curso das imagens captadas no modelo anterior.",
+   "tags": [
+    "video-rotina",
+    "modelos"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-012",
+   "subtema": "Transmissão ao vivo",
+   "artigo": "Dtz PM3-001/02/25 — live streaming",
+   "enunciado": "A transmissão em tempo real das evidências produzidas pela COP permite acompanhamento remoto pelos Comandantes de OPM a partir do nível mínimo de:",
+   "alternativas": [
+    "Comando de Policiamento",
+    "Pelotão PM",
+    "Batalhão PM",
+    "Companhia PM"
+   ],
+   "correta": 3,
+   "explicacao": "O acompanhamento remoto alcança os Cmt OPM a partir do nível mínimo de CIA PM, os policiais em função de comando e supervisão, o COPOM (São Paulo ou regional) e demais representantes de OPM autorizados pela Coord Op PM.",
+   "tags": [
+    "live-streaming",
+    "cia"
+   ]
+  },
+  {
+   "id": "cop-elab-013",
+   "subtema": "Transmissão ao vivo",
+   "artigo": "Dtz PM3-001/02/25 — live streaming",
+   "enunciado": "A transmissão ao vivo das imagens da COP tem por finalidade:",
+   "alternativas": [
+    "permitir a divulgação imediata das imagens à imprensa local",
+    "substituir o relatório de serviço operacional da unidade de serviço",
+    "subsidiar a tomada de decisões com informações em tempo real",
+    "dispensar o upload das evidências digitais ao final do turno"
+   ],
+   "correta": 2,
+   "explicacao": "O live streaming visa ao acompanhamento remoto da execução de ações, missões e operações, emergenciais ou programadas, SUBSIDIANDO A TOMADA DE DECISÕES das autoridades competentes com informações em tempo real.",
+   "tags": [
+    "live-streaming",
+    "decisao"
+   ]
+  },
+  {
+   "id": "cop-elab-014",
+   "subtema": "Funcionalidades",
+   "artigo": "Dtz PM3-001/02/25 — áudio bidirecional",
+   "enunciado": "O uso do áudio bidirecional, que permite ao COPOM comunicar-se diretamente com o policial pela COP, é restrito a situações como:",
+   "alternativas": [
+    "comunicação com familiares do policial militar em caso de urgência",
+    "conferência periódica do funcionamento do equipamento durante o turno",
+    "transmissão de orientações administrativas de rotina para a guarnição",
+    "impossibilidade momentânea de comunicação pela rede de rádio convencional"
+   ],
+   "correta": 3,
+   "explicacao": "São quatro hipóteses: impossibilidade momentânea de comunicação por rádio; necessidade urgente de orientações operacionais; necessidade urgente de falar com terceiros quando o policial estiver incapacitado ou em risco; e risco iminente, para reforçar comandos ou alertar sobre mudanças táticas.",
+   "tags": [
+    "audio-bidirecional",
+    "hipoteses"
+   ]
+  },
+  {
+   "id": "cop-elab-015",
+   "subtema": "Funcionalidades",
+   "artigo": "Dtz PM3-001/02/25 — áudio bidirecional",
+   "enunciado": "O emprego do áudio bidirecional deve ser evitado:",
+   "alternativas": [
+    "durante ações críticas, como o manuseio de armamento ou a condução em alta velocidade",
+    "quando o policial militar estiver em deslocamento para o local da ocorrência",
+    "nas ocorrências em que houver acionamento remoto da gravação pelo COPOM",
+    "sempre que a unidade de serviço estiver em ponto de estacionamento"
+   ],
+   "correta": 0,
+   "explicacao": "Evita-se o áudio bidirecional em ações críticas que exijam atenção plena, em situações que exijam disciplina de luz e som, durante negociações sensíveis e entrevistas, e sempre que o ruído possa comprometer a segurança da equipe ou expor sua posição.",
+   "tags": [
+    "audio-bidirecional",
+    "vedacoes"
+   ]
+  },
+  {
+   "id": "cop-elab-016",
+   "subtema": "Funcionalidades",
+   "artigo": "Dtz PM3-001/02/25 — modo tático",
+   "enunciado": "O modo tático, também chamado velado ou stealth, consiste na operação da COP:",
+   "alternativas": [
+    "com gravação suspensa e apenas captação de áudio ambiente",
+    "com som e luzes desativados, mantida a gravação audiovisual",
+    "com transmissão ao vivo desativada e gravação local mantida",
+    "com redução da qualidade da imagem para economia de bateria"
+   ],
+   "correta": 1,
+   "explicacao": "No modo tático, som e luzes ficam desativados, mas a GRAVAÇÃO PERMANECE em pleno funcionamento. É empregado quando a disciplina de luz e som for necessária à segurança das equipes ou ao êxito da missão.",
+   "tags": [
+    "modo-tatico",
+    "stealth"
+   ]
+  },
+  {
+   "id": "cop-elab-017",
+   "subtema": "Funcionalidades",
+   "artigo": "Dtz PM3-001/02/25 — RFID",
+   "enunciado": "O cartão de identificação por radiofrequência aplicável aos modelos mais recentes de COP é:",
+   "alternativas": [
+    "coletivo, mantido na unidade de serviço para uso da guarnição",
+    "pessoal e intransferível, ativando a COP por meio da doca",
+    "de uso exclusivo do Comandante de Grupo de Patrulha do turno",
+    "dispensável quando o policial fizer o acionamento manual"
+   ],
+   "correta": 1,
+   "explicacao": "O RFID é cartão de identificação INDIVIDUAL, PESSOAL E INTRANSFERÍVEL, usado para ativar automaticamente a COP por meio da doca, garantindo a correta vinculação entre equipamento e usuário e a rastreabilidade das gravações.",
+   "tags": [
+    "rfid",
+    "individual"
+   ]
+  },
+  {
+   "id": "cop-elab-018",
+   "subtema": "Armazenamento",
+   "artigo": "Dtz PM3-001/02/25 — doca",
+   "enunciado": "A doca, ou estação de acoplamento, destina-se a:",
+   "alternativas": [
+    "permitir a visualização das gravações pelo policial militar usuário",
+    "realizar a edição dos arquivos antes do envio ao sistema de custódia",
+    "classificar automaticamente as evidências digitais por etiqueta eletrônica",
+    "receber os dados gravados, transferi-los para armazenamento e recarregar a bateria"
+   ],
+   "correta": 3,
+   "explicacao": "A docking station recebe os dados gravados pelas câmeras, transfere-os para armazenamento em nuvem ou local e recarrega a bateria. A classificação por tag é do usuário; a edição para divulgação é da CDCA.",
+   "tags": [
+    "doca",
+    "upload"
+   ]
+  },
+  {
+   "id": "cop-elab-019",
+   "subtema": "Armazenamento",
+   "artigo": "Dtz PM3-001/02/25 — modelos de armazenamento",
+   "enunciado": "O armazenamento local, também chamado on-premise, caracteriza-se por:",
+   "alternativas": [
+    "manter cópias em servidores de órgãos parceiros do sistema de justiça",
+    "utilizar provedor remoto acessado por rede governamental ou pública",
+    "armazenar os dados no próprio equipamento até o fim da temporalidade",
+    "manter a infraestrutura fisicamente nas instalações da PM, no Data Center"
+   ],
+   "correta": 3,
+   "explicacao": "On-premise é o modelo em que a infraestrutura fica FISICAMENTE nas instalações da PM, no Data Center institucional. O armazenamento em nuvem usa provedor remoto, acessado pela Intragov ou por provedores públicos.",
+   "tags": [
+    "on-premise",
+    "nuvem"
+   ]
+  },
+  {
+   "id": "cop-elab-020",
+   "subtema": "Armazenamento",
+   "artigo": "Dtz PM3-001/02/25 — repositório de dados",
+   "enunciado": "O repositório de dados, ou storage, é definido como:",
+   "alternativas": [
+    "a plataforma de análise da conveniência de divulgação dos conteúdos",
+    "o conjunto de ferramentas de gestão das evidências digitais da Instituição",
+    "a unidade física com função de depósito dos dados produzidos pelas COP",
+    "o sistema de transmissão em tempo real das imagens captadas"
+   ],
+   "correta": 2,
+   "explicacao": "O storage é UNIDADE FÍSICA de depósito de dados, com soluções de armazenamento, gerenciamento e proteção dos arquivos. O conjunto de ferramentas de gestão é o SiGCED; a análise de divulgação é da CDCA.",
+   "tags": [
+    "storage",
+    "conceito"
+   ]
+  },
+  {
+   "id": "cop-elab-021",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — comunidade vulnerável",
+   "enunciado": "Comunidade vulnerável, na definição da Diretriz, é o agrupamento populacional em espaço territorial com limitações estruturais relevantes, no qual há:",
+   "alternativas": [
+    "restrição permanente do policiamento ostensivo por razões de segurança",
+    "predomínio de atividades ilícitas ligadas ao tráfico de entorpecentes",
+    "privações socioeconômicas e menor capacidade de resposta a eventos adversos",
+    "concentração de indicadores criminais acima da média apurada no Estado"
+   ],
+   "correta": 2,
+   "explicacao": "O conceito é socioeconômico: privações e fragilidades, dificuldade de acesso a direitos e serviços e MENOR CAPACIDADE DE RESPOSTA a eventos adversos, como crises econômicas e desastres naturais.",
+   "tags": [
+    "comunidade-vulneravel",
+    "conceito"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-022",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — operação de grande envergadura",
+   "enunciado": "Operação policial-militar de grande envergadura é a ação coordenada e de ampla escala que envolve:",
+   "alternativas": [
+    "o emprego exclusivo de unidades especializadas do Policiamento de Choque",
+    "o efetivo de uma única OPM territorial, em toda a sua área de atuação",
+    "diversas OPM, com comando integrado e emprego significativo de recursos",
+    "a atuação conjunta da Polícia Militar com forças federais de segurança"
+   ],
+   "correta": 2,
+   "explicacao": "A definição exige esforços de DIVERSAS OPM, elevado nível de planejamento, comando integrado ou unificado e emprego significativo de recursos humanos e materiais, para objetivos estratégicos em cenários complexos e de alta criticidade.",
+   "tags": [
+    "grande-envergadura",
+    "conceito"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-023",
+   "subtema": "Uso obrigatório",
+   "artigo": "Dtz PM3-001/02/25 — obrigatoriedade",
+   "enunciado": "Havendo disponibilidade do equipamento, é obrigatório o uso das COP nas operações de restauração da ordem pública:",
+   "alternativas": [
+    "de grande envergadura, em comunidade vulnerável e por ataques a policiais",
+    "de qualquer natureza, desde que autorizadas pelo Comando de Policiamento",
+    "realizadas no período noturno, por exigência de maior transparência",
+    "com emprego de unidades especializadas do Policiamento de Choque"
+   ],
+   "correta": 0,
+   "explicacao": "A obrigatoriedade alcança as três hipóteses combinadas: operações de GRANDE ENVERGADURA, com incursão em COMUNIDADE VULNERÁVEL e deflagradas em resposta a ATAQUES praticados contra policiais militares.",
+   "tags": [
+    "obrigatoriedade",
+    "operacoes"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-024",
+   "subtema": "Uso obrigatório",
+   "artigo": "Dtz PM3-001/02/25 — obrigatoriedade",
+   "enunciado": "Não sendo possível cumprir a obrigatoriedade de uso das COP nessas operações, a OPM deverá:",
+   "alternativas": [
+    "solicitar equipamentos emprestados a OPM limítrofe antes da deflagração",
+    "suspender a operação até a disponibilização de câmeras para todo o efetivo",
+    "registrar a impossibilidade em boletim interno, dispensada outra medida",
+    "priorizar o deslocamento de efetivo que esteja portando o equipamento"
+   ],
+   "correta": 3,
+   "explicacao": "A norma determina PRIORIZAR O DESLOCAMENTO de efetivo que esteja portando COP e, não sendo possível, justificar a excepcionalidade com base em razões técnicas, operacionais e/ou administrativas.",
+   "tags": [
+    "obrigatoriedade",
+    "prioridade"
+   ]
+  },
+  {
+   "id": "cop-elab-025",
+   "subtema": "Uso obrigatório",
+   "artigo": "Dtz PM3-001/02/25 — comunicação ao COPOM",
+   "enunciado": "Nas operações com uso obrigatório das COP, sejam emergenciais ou programadas, o Comandante de Força de Patrulha ou equivalente deverá:",
+   "alternativas": [
+    "recolher as câmeras ao término e providenciar pessoalmente o upload",
+    "informar o COPOM, por rádio, sobre o início e o término da operação",
+    "solicitar ao COPOM a transmissão ao vivo de todas as unidades empenhadas",
+    "classificar as evidências digitais produzidas por todas as guarnições"
+   ],
+   "correta": 1,
+   "explicacao": "O CFP informa o COPOM, via rede de rádio, sobre o INÍCIO E O TÉRMINO da operação, devendo o COPOM providenciar o acionamento por despacho de ocorrência das COP de todas as US empenhadas.",
+   "tags": [
+    "copom",
+    "acionamento"
+   ]
+  },
+  {
+   "id": "cop-elab-026",
+   "subtema": "Acionamento",
+   "artigo": "Dtz PM3-001/02/25 — espécies de acionamento",
+   "enunciado": "São espécies de acionamento da gravação da COP previstas na Diretriz:",
+   "alternativas": [
+    "manual, por despacho e por reconhecimento facial",
+    "manual e automático por proximidade, apenas",
+    "remoto-intencional e por despacho de ocorrência",
+    "manual, remoto-intencional e remoto-automático"
+   ],
+   "correta": 3,
+   "explicacao": "São três: MANUAL (pelo próprio policial), REMOTO-INTENCIONAL (pelo COPOM) e REMOTO-AUTOMÁTICO, este subdividido em bluetooth, despacho de ocorrência e reativação por interrupção do armazenamento.",
+   "tags": [
+    "acionamento",
+    "especies"
+   ]
+  },
+  {
+   "id": "cop-elab-027",
+   "subtema": "Acionamento",
+   "artigo": "Dtz PM3-001/02/25 — acionamento manual",
+   "enunciado": "Constitui dever do policial militar portador da COP acionar intencionalmente a gravação:",
+   "alternativas": [
+    "quando determinado pelo Comandante de Grupo de Patrulha durante o turno",
+    "apenas quando houver despacho de ocorrência pelo COPOM para a sua unidade",
+    "apenas nas ocorrências com emprego de força física ou de arma de fogo",
+    "sempre que se deparar com fato de interesse policial, vedada a omissão"
+   ],
+   "correta": 3,
+   "explicacao": "Para TODO fato de interesse policial deve ser obrigatoriamente acionado o mecanismo de gravação, sendo VEDADA A OMISSÃO INJUSTIFICADA. O acionamento remoto é medida complementar, e não substitutiva.",
+   "tags": [
+    "manual",
+    "dever"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-028",
+   "subtema": "Acionamento",
+   "artigo": "Dtz PM3-001/02/25 — remoto-intencional",
+   "enunciado": "O acionamento remoto-intencional da COP é realizado:",
+   "alternativas": [
+    "pela própria câmera, ao detectar movimento brusco do policial militar",
+    "pelo COPOM, por ação do despachador ou de escalão de supervisão",
+    "pelo Comandante de Companhia, por meio do sistema de despacho",
+    "pela doca, no momento em que o equipamento é retirado do suporte"
+   ],
+   "correta": 1,
+   "explicacao": "É a gravação intencional acionada pelo COPOM — despachador de ocorrência, supervisor de despacho, chefe de operações e demais escalões de supervisão — quando identificada interação de interesse policial sem o acionamento manual.",
+   "tags": [
+    "remoto-intencional",
+    "copom"
+   ]
+  },
+  {
+   "id": "cop-elab-029",
+   "subtema": "Acionamento",
+   "artigo": "Dtz PM3-001/02/25 — bluetooth",
+   "enunciado": "O acionamento remoto-automático por bluetooth ocorre quando:",
+   "alternativas": [
+    "a câmera é aproximada da doca ao término do turno de serviço",
+    "uma COP desligada se aproxima de outra com gravação em curso",
+    "o policial militar ativa o modo tático por três segundos no equipamento",
+    "o despachador registra o talão eletrônico de ocorrência no sistema"
+   ],
+   "correta": 1,
+   "explicacao": "Na aproximação de uma COP com gravação DESATIVADA em relação a outra com gravação ATIVADA, a câmera inativa detecta o sinal por bluetooth e inicia automaticamente a gravação.",
+   "tags": [
+    "bluetooth",
+    "proximidade"
+   ]
+  },
+  {
+   "id": "cop-elab-030",
+   "subtema": "Acionamento",
+   "artigo": "Dtz PM3-001/02/25 — despacho de ocorrência",
+   "enunciado": "O acionamento remoto-automático por despacho de ocorrência decorre:",
+   "alternativas": [
+    "da chegada da viatura ao endereço indicado pelo solicitante",
+    "da confirmação, pela guarnição, do deslocamento ao local da ocorrência",
+    "do registro preliminar do talão eletrônico no SIOPM para a unidade demandada",
+    "do encerramento do talão eletrônico pelo despachador do COPOM"
+   ],
+   "correta": 2,
+   "explicacao": "O REGISTRO PRELIMINAR do talão eletrônico de ocorrência no SIOPM aciona automaticamente a gravação da COP vinculada à US demandada, independentemente de ação do policial.",
+   "tags": [
+    "despacho",
+    "siopm"
+   ]
+  },
+  {
+   "id": "cop-elab-031",
+   "subtema": "Acionamento",
+   "artigo": "Dtz PM3-001/02/25 — reativação automática",
+   "enunciado": "A reativação automática por interrupção do armazenamento ocorre em intervalos máximos de:",
+   "alternativas": [
+    "30 segundos",
+    "1 minuto",
+    "5 minutos",
+    "10 minutos"
+   ],
+   "correta": 1,
+   "explicacao": "A reativação ocorre em intervalos máximos de 1 MINUTO, quando há interrupção da gravação da ocorrência que deveria estar sendo registrada, enquanto perdurar o atendimento do talão.",
+   "tags": [
+    "reativacao",
+    "1-minuto"
+   ]
+  },
+  {
+   "id": "cop-elab-032",
+   "subtema": "Acionamento",
+   "artigo": "Dtz PM3-001/02/25 — comunicação do acionamento",
+   "enunciado": "Sempre que houver acionamento remoto da COP pelo COPOM, a unidade de serviço:",
+   "alternativas": [
+    "deverá ser informada por rede de rádio ou pelo áudio bidirecional da câmera",
+    "será informada apenas ao término do turno, quando do upload das evidências",
+    "não precisa ser informada, por se tratar de medida de controle institucional",
+    "deverá confirmar o acionamento por mensagem no sistema operacional"
+   ],
+   "correta": 0,
+   "explicacao": "A US DEVE SER INFORMADA da medida por meio da rede de rádio ou pela comunicação de áudio bidirecional da própria COP, preservando a transparência do procedimento.",
+   "tags": [
+    "acionamento-remoto",
+    "comunicacao"
+   ]
+  },
+  {
+   "id": "cop-elab-033",
+   "subtema": "Acionamento",
+   "artigo": "Dtz PM3-001/02/25 — reiteração",
+   "enunciado": "Nas OPM cujas COP não disponham das funcionalidades de acionamento remoto, o despachador do COPOM deverá:",
+   "alternativas": [
+    "reiterar à unidade atendente a necessidade de acionamento manual da gravação",
+    "substituir o despacho por comunicação direta ao Comandante da Companhia",
+    "registrar a limitação no talão eletrônico e encerrar a ocorrência no sistema",
+    "solicitar à unidade que informe o motivo da ausência do equipamento"
+   ],
+   "correta": 0,
+   "explicacao": "O despachador reitera a necessidade de ACIONAMENTO MANUAL, tanto no despacho quanto quando a US comunicar diretamente uma intervenção. Os escalões de supervisão, CFP e CGP, fazem o mesmo reforço por rádio ou fiscalização direta.",
+   "tags": [
+    "reiteracao",
+    "despachador"
+   ]
+  },
+  {
+   "id": "cop-elab-034",
+   "subtema": "Classificação por etiquetas",
+   "artigo": "Dtz PM3-001/02/25 — tags",
+   "enunciado": "As evidências digitais produzidas pelas COP devem ser classificadas por etiqueta eletrônica:",
+   "alternativas": [
+    "pelo Chefe da Seção PJMD, no momento do upload das gravações",
+    "pelo próprio policial usuário, logo após o encerramento da gravação",
+    "pelo Comandante de Grupo de Patrulha, ao final do turno de serviço",
+    "automaticamente pelo sistema, conforme o tipo de talão de ocorrência"
+   ],
+   "correta": 1,
+   "explicacao": "A classificação é do PRÓPRIO POLICIAL USUÁRIO, LOGO APÓS o encerramento da gravação, conforme o rol mínimo de tags. É vedada a omissão ou a classificação indevida da evidência digital.",
+   "tags": [
+    "tags",
+    "classificacao"
+   ]
+  },
+  {
+   "id": "cop-elab-035",
+   "subtema": "Classificação por etiquetas",
+   "artigo": "Dtz PM3-001/02/25 — tag Polícia Judiciária",
+   "enunciado": "As circunstâncias de flagrante delito devem ser classificadas com a etiqueta:",
+   "alternativas": [
+    "Polícia Administrativa, além da subetiqueta de abordagem policial",
+    "Polícia Judiciária, além da etiqueta de flagrante",
+    "Polícia Judiciária Militar, além da subetiqueta de emprego de força",
+    "Divulgação ao CComSoc, por interesse institucional da Instituição"
+   ],
+   "correta": 1,
+   "explicacao": "TODAS as circunstâncias de flagrante delito recebem a tag POLÍCIA JUDICIÁRIA (PJ), além da tag FLAGRANTE (FGT). A tag PJ reúne as evidências que podem compor provas em inquéritos e processos em geral.",
+   "tags": [
+    "tag-pj",
+    "flagrante"
+   ]
+  },
+  {
+   "id": "cop-elab-036",
+   "subtema": "Classificação por etiquetas",
+   "artigo": "Dtz PM3-001/02/25 — tag Polícia Judiciária Militar",
+   "enunciado": "São subetiquetas da classificação Polícia Judiciária Militar:",
+   "alternativas": [
+    "busca domiciliar, apoio a outros órgãos e notificação de autuação",
+    "abordagem policial, fiscalização de trânsito e orientação ao público",
+    "morte e lesão decorrentes de intervenção policial e disparo de arma de fogo",
+    "teste de funcionamento, treinamento do efetivo e gravação acidental"
+   ],
+   "correta": 2,
+   "explicacao": "A tag PJM abrange evidências que podem compor provas em IPM e processos da Justiça Militar, com subetiquetas MDIP, LCDIP, DAF e EFF. Abordagens e fiscalizações são subetiquetas de Polícia Administrativa.",
+   "tags": [
+    "tag-pjm",
+    "subetiquetas"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-037",
+   "subtema": "Classificação por etiquetas",
+   "artigo": "Dtz PM3-001/02/25 — tag Polícia Administrativa",
+   "enunciado": "Classificam-se com a etiqueta Polícia Administrativa as evidências digitais:",
+   "alternativas": [
+    "acionadas involuntariamente e sem qualquer interesse policial",
+    "produzidas em flagrante delito por crime militar praticado em serviço",
+    "que não demandam ações de polícia judiciária, como autuações e varreduras",
+    "destinadas à instrução e ao treinamento do efetivo operacional"
+   ],
+   "correta": 2,
+   "explicacao": "A tag PA reúne evidências que não demandam ações de polícia judiciária ou de PJM: autuações ambientais, busca e varredura, incursões em ambientes de alto risco e operações policiais, com subetiquetas como Ab/Fisc, Not Trans, Or Pub e ApOO.",
+   "tags": [
+    "tag-pa",
+    "subetiquetas"
+   ]
+  },
+  {
+   "id": "cop-elab-038",
+   "subtema": "Classificação por etiquetas",
+   "artigo": "Dtz PM3-001/02/25 — busca domiciliar",
+   "enunciado": "Na busca domiciliar não precedida de mandado judicial, a Diretriz exige que:",
+   "alternativas": [
+    "a entrada seja autorizada previamente pelo Comandante de Companhia",
+    "o consentimento do morador seja registrado por meio da própria COP",
+    "a gravação seja interrompida no interior da residência, preservando a intimidade",
+    "o registro seja classificado como Polícia Administrativa, e não Judiciária"
+   ],
+   "correta": 1,
+   "explicacao": "A subetiqueta Busca Domiciliar (BD) integra a tag de Polícia Judiciária, e o CONSENTIMENTO DO MORADOR deve ser registrado pela COP quando a ação não for precedida de mandado judicial.",
+   "tags": [
+    "busca-domiciliar",
+    "consentimento"
+   ]
+  },
+  {
+   "id": "cop-elab-039",
+   "subtema": "Classificação por etiquetas",
+   "artigo": "Dtz PM3-001/02/25 — tags acessórias",
+   "enunciado": "A gravação acionada involuntariamente e sem informações de interesse policial deve ser classificada como:",
+   "alternativas": [
+    "teste de funcionamento do equipamento",
+    "vídeo acidental",
+    "treinamento do efetivo operacional",
+    "divulgação ao CComSoc"
+   ],
+   "correta": 1,
+   "explicacao": "A tag ACIDENTAL (Vid Ac) alcança a gravação acionada involuntariamente sem interesse policial. Teste (T) é o teste de funcionamento; Treinamento (Tr) reúne vídeos para instrução; DivComSoc destina-se a ocorrências positivas indicadas para divulgação.",
+   "tags": [
+    "vid-ac",
+    "tags"
+   ]
+  },
+  {
+   "id": "cop-elab-040",
+   "subtema": "Acionamento obrigatório",
+   "artigo": "Dtz PM3-001/02/25 — hipóteses",
+   "enunciado": "Nas abordagens policiais, a gravação da COP deve ser mantida:",
+   "alternativas": [
+    "até a identificação dos abordados",
+    "até a liberação dos envolvidos",
+    "até a chegada do apoio solicitado",
+    "até o registro do boletim de ocorrência"
+   ],
+   "correta": 1,
+   "explicacao": "Em TODAS as abordagens policiais, a gravação segue ATÉ A LIBERAÇÃO DOS ENVOLVIDOS — o encerramento da abordagem com a liberação é exemplo expresso de encerramento do fato de interesse policial.",
+   "tags": [
+    "abordagem",
+    "liberacao"
+   ]
+  },
+  {
+   "id": "cop-elab-041",
+   "subtema": "Acionamento obrigatório",
+   "artigo": "Dtz PM3-001/02/25 — hipóteses",
+   "enunciado": "Havendo dúvida quanto à necessidade de gravar determinada interação com o público, o policial militar deverá:",
+   "alternativas": [
+    "consultar o Comandante de Força de Patrulha antes de acionar a câmera",
+    "acionar intencionalmente a gravação, prevalecendo o princípio da precaução",
+    "aguardar que a interação evolua para fato de interesse policial evidente",
+    "registrar a dúvida em relatório de serviço ao término do turno"
+   ],
+   "correta": 1,
+   "explicacao": "Na dúvida, ACIONA-SE a gravação: prevalece o PRINCÍPIO DA PRECAUÇÃO. O mesmo vale para a mera expectativa de que a interação possa constituir fato de interesse policial.",
+   "tags": [
+    "duvida",
+    "precaucao"
+   ]
+  },
+  {
+   "id": "cop-elab-042",
+   "subtema": "Acionamento obrigatório",
+   "artigo": "Dtz PM3-001/02/25 — hipóteses",
+   "enunciado": "Na condução de pessoas a outros órgãos, como delegacias, hospitais ou o sistema prisional, a gravação deve abranger:",
+   "alternativas": [
+    "apenas o embarque e o desembarque do conduzido na viatura policial",
+    "o período em que a custódia estiver a cargo da autoridade policial",
+    "apenas o trajeto até a saída da área de circunscrição da unidade",
+    "somente os casos em que houver resistência do conduzido à ordem"
+   ],
+   "correta": 1,
+   "explicacao": "A gravação alcança todo o PERÍODO EM QUE A CUSTÓDIA e/ou a responsabilidade estiverem a cargo da autoridade PM, encerrando-se com a entrega da parte conduzida ao órgão competente.",
+   "tags": [
+    "custodia",
+    "conducao"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-043",
+   "subtema": "Acionamento obrigatório",
+   "artigo": "Dtz PM3-001/02/25 — hipóteses",
+   "enunciado": "Assinale a hipótese em que a Diretriz impõe o acionamento intencional da gravação:",
+   "alternativas": [
+    "deslocamento administrativo da viatura entre a sede e a oficina mecânica",
+    "incursões, varreduras e buscas em ambientes de alto risco e comunidades",
+    "permanência da guarnição em ponto de estacionamento sem interação",
+    "intervalo para refeição da guarnição durante o turno de serviço"
+   ],
+   "correta": 1,
+   "explicacao": "Incursões, varreduras e buscas em ambientes de alto risco, comunidades e congêneres integram o rol de casos de interesse policial. Deslocamentos administrativos e intervalos, sem interação com o público, não configuram fato de interesse policial.",
+   "tags": [
+    "incursoes",
+    "varreduras"
+   ]
+  },
+  {
+   "id": "cop-elab-044",
+   "subtema": "Encerramento da gravação",
+   "artigo": "Dtz PM3-001/02/25 — manutenção da gravação",
+   "enunciado": "Iniciada a gravação, por acionamento remoto ou manual, ela deverá ser mantida até o encerramento do fato de interesse policial, cabendo ao policial militar:",
+   "alternativas": [
+    "anotar o horário do encerramento no relatório de serviço da guarnição",
+    "comunicar o encerramento ao COPOM pela rede de rádio operacional",
+    "registrar em áudio, com a própria voz, a justificativa do encerramento",
+    "solicitar autorização do supervisor antes de desativar o equipamento"
+   ],
+   "correta": 2,
+   "explicacao": "O policial registra EM ÁUDIO, COM SUA PRÓPRIA VOZ, a justificativa do encerramento, indicando que o fato foi integralmente concluído.",
+   "tags": [
+    "encerramento",
+    "justificativa"
+   ]
+  },
+  {
+   "id": "cop-elab-045",
+   "subtema": "Encerramento da gravação",
+   "artigo": "Dtz PM3-001/02/25 — exemplos de encerramento",
+   "enunciado": "Constitui exemplo de encerramento do fato de interesse policial:",
+   "alternativas": [
+    "a chegada de supervisor ao local, que assume a condução da ocorrência",
+    "a entrega da parte conduzida ao órgão competente",
+    "o esgotamento da capacidade de armazenamento do equipamento",
+    "o término do turno de serviço da guarnição empenhada"
+   ],
+   "correta": 1,
+   "explicacao": "São exemplos: entrega da parte conduzida ao órgão competente; encerramento da abordagem com liberação dos envolvidos; conclusão de prisão ou apreensão com todas as providências; finalização da coleta de depoimentos; e término do atendimento com verificação da segurança e registro completo da cena.",
+   "tags": [
+    "encerramento",
+    "exemplos"
+   ]
+  },
+  {
+   "id": "cop-elab-046",
+   "subtema": "Encerramento da gravação",
+   "artigo": "Dtz PM3-001/02/25 — interrupção",
+   "enunciado": "Constatada a interrupção da gravação durante o atendimento de fato de interesse policial, o policial militar deverá:",
+   "alternativas": [
+    "solicitar ao COPOM o acionamento remoto do equipamento defeituoso",
+    "aguardar a reativação automática do sistema, sem outra providência",
+    "encerrar o atendimento e substituir a câmera na sede da Unidade",
+    "reacionar imediatamente o equipamento e registrar a falha em BOe ou RSO"
+   ],
+   "correta": 3,
+   "explicacao": "O policial procede ao IMEDIATO REACIONAMENTO MANUAL e registra a falha em BOe ou RSO, conforme o caso. Persistindo a falha, informa o escalão superior tão breve quanto possível e solicita a substituição da COP.",
+   "tags": [
+    "interrupcao",
+    "reacionamento"
+   ]
+  },
+  {
+   "id": "cop-elab-047",
+   "subtema": "Situações excepcionais",
+   "artigo": "Dtz PM3-001/02/25 — adaptação do uso",
+   "enunciado": "Em situações excepcionais que envolvam direitos sensíveis, o uso da COP poderá ser temporariamente adaptado mediante reposicionamento ou, se inviável:",
+   "alternativas": [
+    "transferência da gravação para outro policial da mesma guarnição",
+    "desligamento do equipamento pelo tempo estritamente necessário",
+    "substituição do registro audiovisual por relato escrito no boletim",
+    "retirada do uniforme e alocação em superfície que permita captar o áudio"
+   ],
+   "correta": 3,
+   "explicacao": "Não sendo viável o reposicionamento, a COP é RETIRADA DO UNIFORME e alocada em superfície segura que PERMITA A CAPTAÇÃO DO ÁUDIO — a gravação não é interrompida. O policial deve justificar em áudio antes de qualquer ajuste.",
+   "tags": [
+    "excepcional",
+    "reposicionamento"
+   ]
+  },
+  {
+   "id": "cop-elab-048",
+   "subtema": "Situações excepcionais",
+   "artigo": "Dtz PM3-001/02/25 — vítimas e testemunhas",
+   "enunciado": "Solicitando a vítima para não ser filmada durante a entrevista, o policial militar poderá apontar a câmera para outra direção, devendo:",
+   "alternativas": [
+    "desligar o áudio para preservar integralmente a intimidade da vítima",
+    "informar previamente que o equipamento continuará gravando o som",
+    "colher a assinatura da vítima em termo de recusa de filmagem",
+    "encerrar a gravação e registrar a recusa no boletim de ocorrência"
+   ],
+   "correta": 1,
+   "explicacao": "A entrevista pode ser realizada com a câmera apontada para outra direção ou superfície neutra, devendo o policial INFORMAR PREVIAMENTE à parte que o equipamento CONTINUARÁ GRAVANDO SOM, mesmo sem enquadrá-la visualmente.",
+   "tags": [
+    "vitima",
+    "audio"
+   ]
+  },
+  {
+   "id": "cop-elab-049",
+   "subtema": "Situações excepcionais",
+   "artigo": "Dtz PM3-001/02/25 — crianças e crimes sexuais",
+   "enunciado": "Em ocorrência com criança ou adolescente na condição de vítima, ou em crimes de natureza sexual, o registro audiovisual deve limitar-se:",
+   "alternativas": [
+    "ao depoimento da vítima, colhido na presença de responsável legal",
+    "à captação de áudio, vedado qualquer registro de imagem no local",
+    "ao local de crime e ao corpo de delito alheios à imagem da vítima",
+    "às imagens externas da edificação onde ocorreram os fatos apurados"
+   ],
+   "correta": 2,
+   "explicacao": "O registro limita-se às evidências do LOCAL DE CRIME ou do CORPO DE DELITO não relacionados diretamente à imagem da vítima, e apenas pelo tempo estritamente necessário.",
+   "tags": [
+    "crianca",
+    "crime-sexual"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-050",
+   "subtema": "Situações excepcionais",
+   "artigo": "Dtz PM3-001/02/25 — busca pessoal minuciosa",
+   "enunciado": "Na realização de busca pessoal minuciosa, a Diretriz determina que o ambiente seja previamente registrado:",
+   "alternativas": [
+    "pelo supervisor presente no local da abordagem",
+    "em fotografia panorâmica anexada ao boletim",
+    "por dois policiais militares simultaneamente",
+    "em 720º, nos sentidos horizontal e vertical"
+   ],
+   "correta": 3,
+   "explicacao": "Antes da busca pessoal minuciosa, o ambiente deve ser registrado em 720º — omnidirecional, nos sentidos horizontal e vertical —, medida que preserva a transparência sem expor desnecessariamente a pessoa revistada.",
+   "tags": [
+    "busca-pessoal",
+    "720"
+   ]
+  },
+  {
+   "id": "cop-elab-051",
+   "subtema": "Obrigações do operador",
+   "artigo": "Dtz PM3-001/02/25 — obrigações",
+   "enunciado": "Durante o serviço, o policial militar deve conservar as lentes e o microfone da COP completamente desobstruídos e manter o equipamento:",
+   "alternativas": [
+    "voltado para o sítio dos acontecimentos",
+    "acoplado à altura da cintura, junto ao cinto",
+    "protegido por capa, para evitar danos por intempéries",
+    "desligado enquanto não houver interação com o público"
+   ],
+   "correta": 0,
+   "explicacao": "A obrigação é dupla: manter lentes e microfone desobstruídos e o equipamento VOLTADO PARA O SÍTIO DOS ACONTECIMENTOS, sendo vedada qualquer ação deliberada que prejudique a captação de imagens e áudio.",
+   "tags": [
+    "obrigacoes",
+    "posicionamento"
+   ]
+  },
+  {
+   "id": "cop-elab-052",
+   "subtema": "Obrigações do operador",
+   "artigo": "Dtz PM3-001/02/25 — condutas vedadas",
+   "enunciado": "Caracteriza infração funcional passível de responsabilização:",
+   "alternativas": [
+    "a classificação da evidência logo após o encerramento da gravação",
+    "a utilização do modo tático durante operação em comunidade vulnerável",
+    "o acionamento manual da gravação em situação de dúvida sobre o fato",
+    "o acoplamento da COP em ponto diverso da parte superior do tronco"
+   ],
+   "correta": 3,
+   "explicacao": "São condutas vedadas: acoplar a COP fora da parte superior do tronco; manter o corpo voltado para local diverso do fato; deixar resíduos na lente; sobrepor mãos, peças do uniforme ou armamento; e afastar-se sem justificativa do local do fato.",
+   "tags": [
+    "vedacoes",
+    "infracao"
+   ]
+  },
+  {
+   "id": "cop-elab-053",
+   "subtema": "Obrigações do operador",
+   "artigo": "Dtz PM3-001/02/25 — uso indevido",
+   "enunciado": "É vedado o uso da COP de forma contrária às normas, incluindo:",
+   "alternativas": [
+    "a gravação de abordagem policial sem consentimento do abordado",
+    "o emprego em instrução, treinamento ou teste de funcionamento",
+    "o uso para fins particulares e os acionamentos simulados",
+    "o acionamento remoto determinado pelo despachador do COPOM"
+   ],
+   "correta": 2,
+   "explicacao": "São exemplos de uso indevido: fins particulares, acionamentos SIMULADOS e manipulação indevida dos registros. O uso em instruções, treinamentos e testes é expressamente ressalvado pela norma.",
+   "tags": [
+    "uso-indevido",
+    "simulado"
+   ]
+  },
+  {
+   "id": "cop-elab-054",
+   "subtema": "Obrigações do operador",
+   "artigo": "Dtz PM3-001/02/25 — inoperância",
+   "enunciado": "Passando a COP à condição de inoperante durante o serviço, o fato deverá ser:",
+   "alternativas": [
+    "reportado imediatamente ao escalão superior e registrado em relatório ou BOe",
+    "comunicado ao Chefe da Seção PJMD apenas ao término do turno de serviço",
+    "registrado no sistema de manutenção, dispensada comunicação ao comando",
+    "anotado no livro de parte da unidade, com ciência do Comandante da Companhia"
+   ],
+   "correta": 0,
+   "explicacao": "A inoperância é reportada IMEDIATAMENTE ao escalão superior e registrada em relatório ou, se a falha ocorrer durante ocorrência, em BOe, constando HORÁRIO E LOCAL em que aconteceu.",
+   "tags": [
+    "inoperancia",
+    "registro"
+   ]
+  },
+  {
+   "id": "cop-elab-055",
+   "subtema": "Obrigações do operador",
+   "artigo": "Dtz PM3-001/02/25 — substituição",
+   "enunciado": "Tornando-se a COP inoperante, além do registro do fato, deverá ser adotada a seguinte providência:",
+   "alternativas": [
+    "substituição imediata do equipamento e acionamento da Central de TIC",
+    "recolhimento do equipamento à Seção PJMD para perícia técnica interna",
+    "suspensão do policial militar do serviço operacional até a substituição",
+    "encaminhamento direto do equipamento à Diretoria de Tecnologia da Informação"
+   ],
+   "correta": 0,
+   "explicacao": "O equipamento deve ser imediatamente substituído, desde que haja disponibilidade de outro, acionando-se a CENTRAL DE SERVIÇOS DE TIC PM, com informação do número do equipamento defeituoso.",
+   "tags": [
+    "substituicao",
+    "tic"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-056",
+   "subtema": "Obrigações do operador",
+   "artigo": "Dtz PM3-001/02/25 — registro no BOe",
+   "enunciado": "No atendimento de ocorrências com registro em BOe, tendo havido gravação por COP, é imperioso:",
+   "alternativas": [
+    "informar o número do equipamento no campo destinado ao armamento",
+    "anexar o arquivo de vídeo ao boletim de ocorrência eletrônico lavrado",
+    "registrar o uso do equipamento no campo evidência digital do boletim",
+    "indicar o nome do policial responsável pelo upload das gravações"
+   ],
+   "correta": 2,
+   "explicacao": "O uso do equipamento deve ser registrado no CAMPO EVIDÊNCIA DIGITAL do BOe, inserindo-se os dados relacionados às gravações — os arquivos em si permanecem no sistema de custódia.",
+   "tags": [
+    "boe",
+    "evidencia-digital"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-057",
+   "subtema": "Obrigações do operador",
+   "artigo": "Dtz PM3-001/02/25 — ciência às partes",
+   "enunciado": "Ao iniciar a gravação, o policial militar deverá informar às partes sobre o registro audiovisual, sendo certo que:",
+   "alternativas": [
+    "a recusa da parte impede a continuidade do registro audiovisual",
+    "a gravação depende de anuência verbal da parte abordada",
+    "não há necessidade de consentimento dos interlocutores para a captação",
+    "a informação pode ser suprimida em abordagens de rotina"
+   ],
+   "correta": 2,
+   "explicacao": "A informação às partes é obrigatória, mas NÃO SE EXIGE CONSENTIMENTO dos interlocutores para iniciar a captação das evidências digitais.",
+   "tags": [
+    "ciencia",
+    "consentimento"
+   ]
+  },
+  {
+   "id": "cop-elab-058",
+   "subtema": "Obrigações do operador",
+   "artigo": "Dtz PM3-001/02/25 — remoção da COP",
+   "enunciado": "Após o início do serviço, a COP somente poderá ser removida da parte superior do tronco em caráter extraordinário, como no caso de:",
+   "alternativas": [
+    "condução de motocicleta em deslocamento de longa distância",
+    "refeição da guarnição em estabelecimento comercial",
+    "atendimento de ocorrência em local de difícil acesso",
+    "uso do sanitário, desde que não haja gravação em andamento"
+   ],
+   "correta": 3,
+   "explicacao": "São duas as hipóteses: ajuste durante a sobreposição ou retirada de peças complementares da farda, ficando a COP sob guarda de outro policial da mesma US; e uso do sanitário, DESDE QUE NÃO HAJA GRAVAÇÃO EM ANDAMENTO.",
+   "tags": [
+    "remocao",
+    "sanitario"
+   ]
+  },
+  {
+   "id": "cop-elab-059",
+   "subtema": "Obrigações do operador",
+   "artigo": "Dtz PM3-001/02/25 — remoção da COP",
+   "enunciado": "Na retirada da COP para ajuste de peças complementares da farda, como jaquetas ou capas impermeáveis, o equipamento deverá:",
+   "alternativas": [
+    "permanecer sob a guarda de outro policial da mesma unidade de serviço",
+    "ser acondicionado no interior da viatura, com a gravação mantida",
+    "ser desligado e recolocado imediatamente após o ajuste da farda",
+    "ser entregue ao Comandante de Grupo de Patrulha até o fim do turno"
+   ],
+   "correta": 0,
+   "explicacao": "Durante o ajuste, a COP permanece sob a GUARDA DE OUTRO POLICIAL MILITAR DA MESMA US, medida que preserva a continuidade do registro e a cadeia de custódia.",
+   "tags": [
+    "remocao",
+    "guarda"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-060",
+   "subtema": "Entrega ao CFP",
+   "artigo": "Dtz PM3-001/02/25 — recolhimento das câmeras",
+   "enunciado": "O policial militar deve entregar a COP ao Comandante de Força de Patrulha, entre outras hipóteses, quando houver:",
+   "alternativas": [
+    "acionamento remoto da gravação determinado pelo COPOM",
+    "registro de ocorrência com prisão em flagrante por crime comum",
+    "atendimento de ocorrência com vítima de acidente de trânsito",
+    "morte ou lesão corporal decorrente de intervenção policial"
+   ],
+   "correta": 3,
+   "explicacao": "As hipóteses são agressão contra o policial militar, LCDIP, MDIP, indícios de má conduta ou ilegalidade por parte da US e ocorrências de grande repercussão.",
+   "tags": [
+    "entrega-cfp",
+    "mdip"
+   ]
+  },
+  {
+   "id": "cop-elab-061",
+   "subtema": "Entrega ao CFP",
+   "artigo": "Dtz PM3-001/02/25 — recolhimento das câmeras",
+   "enunciado": "Nas hipóteses de entrega da COP, o Comandante de Força de Patrulha deverá obrigatoriamente:",
+   "alternativas": [
+    "lacrar os equipamentos e remetê-los à Corregedoria PM para custódia",
+    "encaminhar os equipamentos à Seção PJMD para o upload no expediente seguinte",
+    "requisitar e recolher as câmeras e providenciar pessoalmente o upload do conteúdo",
+    "determinar que o próprio policial faça o upload na doca da Unidade"
+   ],
+   "correta": 2,
+   "explicacao": "O CFP requisita e recolhe as COP e providencia PESSOALMENTE o upload do conteúdo captado, sempre que possível em ato contínuo ao recebimento, sem prejuízo das diligências necessárias ao gerenciamento da ocorrência.",
+   "tags": [
+    "cfp",
+    "upload"
+   ]
+  },
+  {
+   "id": "cop-elab-062",
+   "subtema": "Cadeia de custódia",
+   "artigo": "Dtz PM3-001/02/25 — início da cadeia",
+   "enunciado": "A cadeia de custódia das evidências digitais tem início:",
+   "alternativas": [
+    "com a gravação dos dados de áudio e vídeo pela própria COP",
+    "com o upload dos dados no sistema de armazenamento da OPM",
+    "com a classificação da evidência por etiqueta eletrônica",
+    "com a requisição da evidência por autoridade competente"
+   ],
+   "correta": 0,
+   "explicacao": "A cadeia começa com a GRAVAÇÃO pela COP. É responsabilidade do policial usuário garantir a integridade das informações ATÉ O UPLOAD para o armazenamento em nuvem ou local.",
+   "tags": [
+    "cadeia-custodia",
+    "inicio"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-063",
+   "subtema": "Cadeia de custódia",
+   "artigo": "Dtz PM3-001/02/25 — transferência dos dados",
+   "enunciado": "A transferência dos dados da COP para o sistema de armazenamento deve ocorrer:",
+   "alternativas": [
+    "ao término de cada turno de serviço, obrigatoriamente, por meio da doca",
+    "semanalmente, conforme escala definida pelo Comandante da Companhia",
+    "sempre que a capacidade de memória do equipamento estiver esgotada",
+    "apenas quando houver requisição de autoridade com poder apuratório"
+   ],
+   "correta": 0,
+   "explicacao": "A transferência é OBRIGATÓRIA AO TÉRMINO DE CADA TURNO, feita pelo usuário ou responsável pelo equipamento, por meio da conexão da COP à doca.",
+   "tags": [
+    "upload",
+    "turno"
+   ]
+  },
+  {
+   "id": "cop-elab-064",
+   "subtema": "Cadeia de custódia",
+   "artigo": "Dtz PM3-001/02/25 — responsabilidade após o upload",
+   "enunciado": "Feito o upload no sistema de armazenamento, a responsabilidade pelas evidências digitais produzidas pelo efetivo da OPM passa a ser:",
+   "alternativas": [
+    "do Chefe da Seção de Polícia Judiciária Militar e Disciplina",
+    "do Comandante da Companhia a que pertence o policial militar",
+    "do Oficial de Ligação COP designado pelo Comandante do Batalhão",
+    "do administrador do sistema na Diretoria de Tecnologia da Informação"
+   ],
+   "correta": 0,
+   "explicacao": "Após o upload, o Chefe da Seção PJMD administra e custodia as evidências, controla o acesso dos integrantes da OPM ao sistema e garante a salvaguarda e a integridade dos dados.",
+   "tags": [
+    "pjmd",
+    "responsabilidade"
+   ]
+  },
+  {
+   "id": "cop-elab-065",
+   "subtema": "Cadeia de custódia",
+   "artigo": "Dtz PM3-001/02/25 — compartilhamento",
+   "enunciado": "O compartilhamento de evidências digitais e de relatórios do SiGCED com autoridade que os requisitar deve ocorrer:",
+   "alternativas": [
+    "somente mediante autorização judicial específica para cada caso",
+    "após edição para preservar a imagem dos envolvidos na ocorrência",
+    "com a integridade preservada, sem qualquer edição do conteúdo",
+    "apenas em mídia física, entregue pessoalmente ao requisitante"
+   ],
+   "correta": 2,
+   "explicacao": "Cabe ao Chefe da Seção PJMD compartilhar as evidências com a INTEGRIDADE PRESERVADA, SEM QUALQUER EDIÇÃO. A edição de cópia para divulgação institucional é atribuição exclusiva da CDCA.",
+   "tags": [
+    "compartilhamento",
+    "integridade"
+   ]
+  },
+  {
+   "id": "cop-elab-066",
+   "subtema": "Temporalidade e acesso",
+   "artigo": "Dtz PM3-001/02/25 — temporalidade",
+   "enunciado": "A temporalidade mínima das evidências digitais que registram fato de interesse policial é de:",
+   "alternativas": [
+    "90 dias",
+    "6 meses",
+    "1 ano",
+    "5 anos"
+   ],
+   "correta": 2,
+   "explicacao": "São 90 dias apenas para os vídeos de rotina, sem interesse policial em princípio; para AS DEMAIS EVIDÊNCIAS DIGITAIS, a temporalidade mínima é de 1 ANO.",
+   "tags": [
+    "temporalidade",
+    "1-ano"
+   ]
+  },
+  {
+   "id": "cop-elab-067",
+   "subtema": "Temporalidade e acesso",
+   "artigo": "Dtz PM3-001/02/25 — acesso pelo policial",
+   "enunciado": "O policial militar poderá ter acesso aos registros audiovisuais da ocorrência em que atuou:",
+   "alternativas": [
+    "mediante autorização do Comandante do Batalhão a que pertence o policial",
+    "somente quando figurar como acusado em processo regular ou criminal",
+    "para instruir processos judiciais, como testemunha, vítima ou acusado",
+    "apenas após o decurso do prazo de temporalidade das evidências digitais"
+   ],
+   "correta": 2,
+   "explicacao": "O acesso é admitido para instruir processos e procedimentos administrativos e/ou judiciais, nas condições de TESTEMUNHA, VÍTIMA OU ACUSADO, sendo vedada a captação por outro equipamento e a extração, edição ou transferência dos dados.",
+   "tags": [
+    "acesso",
+    "policial"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-068",
+   "subtema": "Temporalidade e acesso",
+   "artigo": "Dtz PM3-001/02/25 — vedações de acesso",
+   "enunciado": "No acesso às evidências digitais, é vedado ao interessado:",
+   "alternativas": [
+    "captar as imagens por outro equipamento ou extrair e transferir os dados",
+    "assistir às gravações na presença de seu defensor constituído",
+    "requerer cópia por intermédio da autoridade encarregada da apuração",
+    "solicitar a visualização de trechos específicos da ocorrência atendida"
+   ],
+   "correta": 0,
+   "explicacao": "É vedada a captação das imagens e áudios por OUTRO EQUIPAMENTO, bem como a extração, edição ou transferência dos dados — o acesso ocorre no ambiente controlado do sistema.",
+   "tags": [
+    "vedacoes",
+    "acesso"
+   ]
+  },
+  {
+   "id": "cop-elab-069",
+   "subtema": "Temporalidade e acesso",
+   "artigo": "Dtz PM3-001/02/25 — requerimento por acusado",
+   "enunciado": "O requerimento de evidências digitais para subsidiar procedimento apuratório, feito por acusado civil ou policial militar, ou por seu defensor, deve ser dirigido:",
+   "alternativas": [
+    "à autoridade encarregada do procedimento",
+    "ao Chefe da Seção PJMD da OPM",
+    "ao Comandante de Policiamento de Área",
+    "à Central de Difusão de Conteúdo Audiovisual"
+   ],
+   "correta": 0,
+   "explicacao": "O requerimento é feito À AUTORIDADE ENCARREGADA do procedimento. À Corregedoria PM cabe estabelecer, por meio das Seções PJMD, os fluxos de atendimento às solicitações de acusados ou defensores.",
+   "tags": [
+    "requerimento",
+    "acusado"
+   ]
+  },
+  {
+   "id": "cop-elab-070",
+   "subtema": "Temporalidade e acesso",
+   "artigo": "Dtz PM3-001/02/25 — órgãos externos",
+   "enunciado": "As informações requisitadas por órgãos públicos, como Judiciário, Ministério Público e Defensoria, serão disponibilizadas:",
+   "alternativas": [
+    "preferencialmente em formato digital, a usuários cadastrados do órgão",
+    "exclusivamente em mídia física, mediante recibo do órgão requisitante",
+    "somente após autorização da Central de Difusão de Conteúdo Audiovisual",
+    "apenas quando houver decisão judicial que determine o compartilhamento"
+   ],
+   "correta": 0,
+   "explicacao": "A disponibilização é PREFERENCIALMENTE DIGITAL, por meio do compartilhamento das evidências com usuários cadastrados de cada órgão interessado — Judiciário, MP, Polícia Civil, Polícia Técnico-Científica, Defensoria etc.",
+   "tags": [
+    "orgaos-externos",
+    "digital"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-071",
+   "subtema": "Temporalidade e acesso",
+   "artigo": "Dtz PM3-001/02/25 — sigilo",
+   "enunciado": "A quebra do sigilo de evidência digital ou sua divulgação não autorizada pode caracterizar fato atentatório à Instituição e motivar responsabilização:",
+   "alternativas": [
+    "apenas cível, por dano moral à pessoa retratada",
+    "exclusivamente administrativa, na esfera disciplinar",
+    "administrativa, cível, penal e penal-militar",
+    "somente penal, quando houver dolo específico"
+   ],
+   "correta": 2,
+   "explicacao": "A divulgação não autorizada pode atingir direitos humanos fundamentais, a imagem, a privacidade e a honra, motivando responsabilização ADMINISTRATIVA, CÍVEL, PENAL E/OU PENAL-MILITAR.",
+   "tags": [
+    "sigilo",
+    "responsabilizacao"
+   ]
+  },
+  {
+   "id": "cop-elab-072",
+   "subtema": "Temporalidade e acesso",
+   "artigo": "Dtz PM3-001/02/25 — ausência de registro",
+   "enunciado": "Identificada, no atendimento a requisição, a ausência de registro audiovisual por falha de acionamento ou descarga de bateria, deverá ser:",
+   "alternativas": [
+    "aberto procedimento disciplinar apenas se houver reincidência",
+    "registrada a ocorrência em boletim interno, sem outra providência",
+    "instaurada investigação preliminar para apuração específica do fato",
+    "comunicado o fato à Diretoria de Tecnologia da Informação"
+   ],
+   "correta": 2,
+   "explicacao": "A ausência de registro por falha de acionamento, descarga de bateria ou qualquer outro uso em desacordo com as normas impõe a instauração OBRIGATÓRIA de INVESTIGAÇÃO PRELIMINAR, independentemente de outro procedimento que apure a ocorrência em si.",
+   "tags": [
+    "ausencia-registro",
+    "investigacao-preliminar"
+   ]
+  },
+  {
+   "id": "cop-elab-073",
+   "subtema": "Temporalidade e acesso",
+   "artigo": "Dtz PM3-001/02/25 — acesso para instrução",
+   "enunciado": "O oficial, a partir da função de Comandante de Companhia, pode solicitar acesso a registros de efetivo que não lhe seja subordinado, desde que:",
+   "alternativas": [
+    "a solicitação seja dirigida diretamente à Corregedoria da Instituição",
+    "haja autorização expressa do policial militar autor das gravações",
+    "exista procedimento disciplinar em curso contra o efetivo envolvido",
+    "a solicitação seja formal e com finalidade exclusiva de treinamento"
+   ],
+   "correta": 3,
+   "explicacao": "A solicitação é feita via Seção PJMD, deve ser FORMAL, demonstrar finalidade exclusiva de instrução, preleção ou treinamento da tropa e observar os princípios da dignidade da pessoa humana, da proteção da imagem e da finalidade pedagógica.",
+   "tags": [
+    "instrucao",
+    "acesso"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-074",
+   "subtema": "Divulgação",
+   "artigo": "Dtz PM3-001/02/25 — propriedade dos dados",
+   "enunciado": "Os dados produzidos pelas COP são de propriedade da Polícia Militar e somente serão divulgados:",
+   "alternativas": [
+    "após o decurso do prazo mínimo de temporalidade das evidências",
+    "mediante autorização do Comandante da OPM que produziu o registro",
+    "quando houver interesse jornalístico manifestado por veículo de imprensa",
+    "após análise e deliberação da Central de Difusão de Conteúdo Audiovisual"
+   ],
+   "correta": 3,
+   "explicacao": "A divulgação depende de análise e deliberação da CDCA. A exceção são as evidências que integrem conjunto probatório de inquérito, procedimento ou processo, que só podem ser divulgadas após a conclusão das apurações, observadas a LAI e a LGPD.",
+   "tags": [
+    "divulgacao",
+    "cdca"
+   ]
+  },
+  {
+   "id": "cop-elab-075",
+   "subtema": "Divulgação",
+   "artigo": "Dtz PM3-001/02/25 — edição de conteúdo",
+   "enunciado": "A edição de cópia de conteúdo audiovisual para fins de divulgação institucional somente poderá ser realizada:",
+   "alternativas": [
+    "pelo próprio policial militar autor do registro audiovisual gravado",
+    "pela Seção PJMD da OPM que custodia a evidência digital produzida",
+    "pelo Centro de Comunicação Social de cada Comando de Policiamento",
+    "pela Central de Difusão de Conteúdo Audiovisual da Instituição"
+   ],
+   "correta": 3,
+   "explicacao": "A edição para divulgação institucional é exclusiva da CDCA, observados os critérios de preservação da dignidade das pessoas eventualmente identificadas, nos termos da legislação vigente.",
+   "tags": [
+    "edicao",
+    "cdca"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-076",
+   "subtema": "Regras gerais de emprego",
+   "artigo": "Dtz PM3-001/02/25 — emprego",
+   "enunciado": "A COP é equipamento de uso policial exclusivo em serviço operacional, sendo vedada a captação de imagens ou sons sem interesse policial, exceto:",
+   "alternativas": [
+    "em deslocamentos administrativos entre unidades da Instituição",
+    "em instruções, treinamentos ou testes de funcionamento",
+    "em eventos sociais internos da Organização Policial Militar",
+    "em atividades de lazer promovidas pela associação de praças"
+   ],
+   "correta": 1,
+   "explicacao": "A vedação de captar imagens e sons alheios ao interesse policial é ressalvada apenas para INSTRUÇÕES, TREINAMENTOS OU TESTES DE FUNCIONAMENTO, e o usuário deve ser previamente capacitado.",
+   "tags": [
+    "emprego",
+    "excecao"
+   ]
+  },
+  {
+   "id": "cop-elab-077",
+   "subtema": "Regras gerais de emprego",
+   "artigo": "Dtz PM3-001/02/25 — distribuição",
+   "enunciado": "Não sendo suficiente o número de equipamentos para todo o efetivo, a Diretriz garante como critério mínimo:",
+   "alternativas": [
+    "duas COP por unidade de serviço",
+    "uma COP por unidade de serviço",
+    "uma COP por guarnição de cada turno",
+    "uma COP por viatura de radiopatrulha"
+   ],
+   "correta": 1,
+   "explicacao": "Todos os integrantes de US devem ser equipados sempre que houver disponibilidade; sendo insuficiente, garante-se como critério mínimo AO MENOS UMA COP POR US.",
+   "tags": [
+    "distribuicao",
+    "minimo"
+   ]
+  },
+  {
+   "id": "cop-elab-078",
+   "subtema": "Regras gerais de emprego",
+   "artigo": "Dtz PM3-001/02/25 — prioridade",
+   "enunciado": "Na impossibilidade de equipar integralmente o efetivo, a primeira prioridade na distribuição das COP recai sobre:",
+   "alternativas": [
+    "as funções de comando e supervisão da atividade operacional",
+    "os Programas de Policiamento Primários, como Radiopatrulha e Força Tática",
+    "os Programas de Policiamento Complementares, como Escolar e Trânsito",
+    "as Atividades Operacionais Diversas, como DEJEM e Atividade Delegada"
+   ],
+   "correta": 1,
+   "explicacao": "A ordem é: 1º) Programas primários (Radiopatrulha e Força Tática); 2º) Programas complementares (Escolar, Trânsito, Rural e Comunitário); 3º) Atividades Operacionais Diversas; 4º) funções de comando e supervisão.",
+   "tags": [
+    "prioridade",
+    "primarios"
+   ]
+  },
+  {
+   "id": "cop-elab-079",
+   "subtema": "Regras gerais de emprego",
+   "artigo": "Dtz PM3-001/02/25 — prioridade",
+   "enunciado": "Entre as funções de comando e supervisão, a ordem de prioridade para recebimento das COP é:",
+   "alternativas": [
+    "Supervisor Regional, CFP e CGP",
+    "CFP, CGP e Supervisor Regional",
+    "CGP, CFP e Supervisor Regional",
+    "CGP, Supervisor Regional e CFP"
+   ],
+   "correta": 2,
+   "explicacao": "A ordem é CGP, CFP e Supervisor Regional, e essa categoria vem por último na escala geral de prioridade, depois dos programas primários, complementares e das Atividades Operacionais Diversas.",
+   "tags": [
+    "prioridade",
+    "supervisao"
+   ]
+  },
+  {
+   "id": "cop-elab-080",
+   "subtema": "Regras gerais de emprego",
+   "artigo": "Dtz PM3-001/02/25 — distribuição institucional",
+   "enunciado": "A distribuição institucional das COP entre as OPM será feita de acordo com:",
+   "alternativas": [
+    "a relação de prioridade estipulada por matriz de risco estabelecida pelo CIPM",
+    "o efetivo existente em cada Comando de Policiamento de Área ou do Interior",
+    "a ordem cronológica dos pedidos formulados pelos Comandantes de Batalhão",
+    "o índice de produtividade operacional apurado no trimestre anterior"
+   ],
+   "correta": 0,
+   "explicacao": "A distribuição observa a relação de prioridade de MATRIZ DE RISCO estabelecida pelo CIPM, que a define com base nos casos de morte decorrente de intervenção policial, separados por OPM.",
+   "tags": [
+    "matriz-risco",
+    "cipm"
+   ]
+  },
+  {
+   "id": "cop-elab-081",
+   "subtema": "Regras gerais de emprego",
+   "artigo": "Dtz PM3-001/02/25 — fiscalização no local",
+   "enunciado": "No local de ocorrência ou de fato de interesse policial, a fiscalização do uso correto das COP é responsabilidade:",
+   "alternativas": [
+    "do despachador do COPOM que acompanha a ocorrência pelo sistema",
+    "exclusivamente do Comandante de Grupo de Patrulha daquela subárea",
+    "do Oficial de Ligação COP designado pelo Comandante do Batalhão",
+    "do policial de maior posto ou graduação presente, usuário ou não"
+   ],
+   "correta": 3,
+   "explicacao": "A responsabilidade é do POLICIAL DE MAIOR POSTO OU GRADUAÇÃO presente no local, seja ele usuário ou não do equipamento.",
+   "tags": [
+    "fiscalizacao",
+    "maior-posto"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-082",
+   "subtema": "Regras gerais de emprego",
+   "artigo": "Dtz PM3-001/02/25 — CGP",
+   "enunciado": "Além das atribuições de auditoria, cabe ao Comandante de Grupo de Patrulha:",
+   "alternativas": [
+    "deliberar sobre a divulgação de imagens de interesse institucional",
+    "autorizar a retirada das câmeras do fardamento durante o turno de serviço",
+    "classificar as evidências digitais produzidas pelas unidades subordinadas",
+    "supervisionar o Serviço de Dia na distribuição das COP e nos testes iniciais"
+   ],
+   "correta": 3,
+   "explicacao": "O CGP supervisiona o Serviço de Dia na distribuição das COP, nos testes iniciais de funcionamento e, durante todo o turno, na fiscalização das regras de uso, além de fiscalizar a correta classificação das evidências.",
+   "tags": [
+    "cgp",
+    "supervisao"
+   ]
+  },
+  {
+   "id": "cop-elab-083",
+   "subtema": "Monitoramento",
+   "artigo": "Dtz PM3-001/02/25 — monitoramento",
+   "enunciado": "O monitoramento do uso das COP será realizado de forma contínua:",
+   "alternativas": [
+    "pelos Comandos de Policiamento, apenas nas ocorrências com uso da força",
+    "exclusivamente pela Corregedoria PM, por meio de auditorias periódicas",
+    "pela Diretoria de Tecnologia da Informação, com relatórios automatizados",
+    "pelos escalões de supervisão, de comando e pelo Estado-Maior"
+   ],
+   "correta": 3,
+   "explicacao": "O monitoramento é contínuo e cabe aos escalões de SUPERVISÃO, de COMANDO e ao ESTADO-MAIOR, visando identificar falhas, reforçar boas práticas e promover a responsabilização quando cabível.",
+   "tags": [
+    "monitoramento",
+    "continuo"
+   ]
+  },
+  {
+   "id": "cop-elab-084",
+   "subtema": "Monitoramento",
+   "artigo": "Dtz PM3-001/02/25 — credenciais",
+   "enunciado": "Devem possuir credenciais de acesso ao SiGCED para fins de auditoria e controle, entre outros:",
+   "alternativas": [
+    "o CGP, o CFP, os Comandantes de Pelotão, de Companhia e de Batalhão",
+    "apenas os Comandantes de Batalhão e de Comando de Policiamento",
+    "apenas o Chefe da Seção PJMD e o Oficial de Ligação COP da Unidade",
+    "somente os oficiais lotados na Corregedoria e nas Agências de Inteligência"
+   ],
+   "correta": 0,
+   "explicacao": "O rol alcança CGP, Cmt Gp PM, CFP, Cmt Pel PM, Cmt Cia PM, Chefes de Agência de Inteligência, Chefes de Seção ou Divisão Operacional, Coord Op Btl, Subcmt Btl, Cmt Btl, Cmt de CPA/CPI e o Oficial do PPJMD ou outro formalmente designado.",
+   "tags": [
+    "credenciais",
+    "sigced"
+   ]
+  },
+  {
+   "id": "cop-elab-085",
+   "subtema": "Auditoria",
+   "artigo": "Dtz PM3-001/02/25 — totalidade da ocorrência",
+   "enunciado": "A auditoria das evidências digitais deverá sempre considerar:",
+   "alternativas": [
+    "a totalidade da ocorrência, e não apenas os blocos fragmentados pelo sistema",
+    "apenas o bloco inicial da gravação, em que se registra a abordagem",
+    "exclusivamente os trechos indicados pela autoridade requisitante",
+    "apenas as gravações classificadas com etiqueta de polícia judiciária"
+   ],
+   "correta": 0,
+   "explicacao": "Como as evidências têm tempo máximo de gravação, uma mesma ocorrência pode gerar mais de uma evidência digital: a auditoria deve considerar a TOTALIDADE da ocorrência, e não os blocos fragmentados criados automaticamente, em geral de 30 minutos.",
+   "tags": [
+    "auditoria",
+    "totalidade"
+   ]
+  },
+  {
+   "id": "cop-elab-086",
+   "subtema": "Auditoria",
+   "artigo": "Dtz PM3-001/02/25 — resultados",
+   "enunciado": "Das auditorias realizadas poderão resultar iniciativas como:",
+   "alternativas": [
+    "suspensão do acesso do policial militar ao sistema de armazenamento",
+    "aplicação imediata de sanção disciplinar pelo auditor responsável",
+    "redistribuição dos equipamentos entre as unidades de serviço da OPM",
+    "pedidos de elogio, revisão de POP, instauração e orientações verbais"
+   ],
+   "correta": 3,
+   "explicacao": "As iniciativas incluem pedidos de ELOGIO, revisão ou treinamento dos PROCEDIMENTOS OPERACIONAIS PADRÃO, INSTAURAÇÃO de PD, processos regulares, IPM ou outros procedimentos, DIVULGAÇÃO ao CComSoc e ORIENTAÇÕES VERBAIS.",
+   "tags": [
+    "auditoria",
+    "resultados"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-087",
+   "subtema": "Auditoria",
+   "artigo": "Dtz PM3-001/02/25 — metas por turno",
+   "enunciado": "No decorrer do turno de serviço, cabe ao Comandante de Grupo de Patrulha fiscalizar a correta classificação das evidências e auditar, no mínimo:",
+   "alternativas": [
+    "evidências digitais correspondentes a duas ocorrências por turno",
+    "evidências digitais correspondentes a três ocorrências por turno",
+    "uma evidência digital por unidade de serviço subordinada",
+    "cinco evidências digitais por semana de escala operacional"
+   ],
+   "correta": 0,
+   "explicacao": "O parâmetro é de, no mínimo, DUAS ocorrências por turno. O CFP audita duas ocorrências por Batalhão e o Supervisor Regional fiscaliza duas do Comando de Policiamento, sendo obrigatória a fiscalização nos casos de MDIP e LCDIP.",
+   "tags": [
+    "metas",
+    "cgp"
+   ]
+  },
+  {
+   "id": "cop-elab-088",
+   "subtema": "Auditoria",
+   "artigo": "Dtz PM3-001/02/25 — metas por turno",
+   "enunciado": "Ainda no decorrer do turno, o Supervisor Regional deverá fiscalizar, no mínimo, evidências digitais de duas ocorrências do Comando de Policiamento, sendo obrigatória a fiscalização:",
+   "alternativas": [
+    "nos casos de morte ou lesão corporal decorrente de intervenção policial",
+    "nas ocorrências com prisão em flagrante por tráfico de entorpecentes",
+    "nas operações realizadas em comunidades vulneráveis da região",
+    "nos atendimentos com registro de boletim de ocorrência eletrônico"
+   ],
+   "correta": 0,
+   "explicacao": "A fiscalização é OBRIGATÓRIA nos casos de MDIP e LCDIP. Nessas ocorrências, a auditoria dos vídeos deve ser feita o mais breve possível pelo CFP, pelo PPJMD, pelo Cmt Cia e/ou pelo Coord Op Btl, conforme suas atribuições.",
+   "tags": [
+    "supervisor-regional",
+    "mdip"
+   ]
+  },
+  {
+   "id": "cop-elab-089",
+   "subtema": "Auditoria",
+   "artigo": "Dtz PM3-001/02/25 — metas por expediente",
+   "enunciado": "A cada expediente de serviço, o Comandante de Companhia deverá auditar, no mínimo:",
+   "alternativas": [
+    "quatro evidências digitais das unidades de serviço da Companhia",
+    "uma evidência digital de ocorrência de sua subárea de responsabilidade",
+    "duas evidências digitais de ocorrências de Pelotão ou Grupo sob seu comando",
+    "todas as evidências classificadas como polícia judiciária militar"
+   ],
+   "correta": 2,
+   "explicacao": "São DUAS evidências digitais por expediente, correspondentes a ocorrências de Pelotão ou Grupo sob seu comando. O mesmo parâmetro de duas vale para o Coord Op Btl, o Cmt Pel PM e o Cmt Gp PM, cada um em seu âmbito.",
+   "tags": [
+    "metas",
+    "cmt-cia"
+   ]
+  },
+  {
+   "id": "cop-elab-090",
+   "subtema": "Auditoria",
+   "artigo": "Dtz PM3-001/02/25 — MDIP e LCDIP",
+   "enunciado": "Nas ocorrências de morte ou lesão corporal decorrente de intervenção policial, a auditoria dos vídeos:",
+   "alternativas": [
+    "é obrigatória e deve ocorrer o mais breve possível, sem prejuízo das diligências",
+    "é facultativa, a critério do Comandante da unidade policial envolvida",
+    "deve aguardar a conclusão do inquérito policial militar que for instaurado",
+    "compete exclusivamente à Corregedoria PM, por meio de sua permanência"
+   ],
+   "correta": 0,
+   "explicacao": "A auditoria é OBRIGATÓRIA e deve ser feita o mais breve possível, sem prejuízo das diligências e medidas necessárias ao gerenciamento da ocorrência, pelo CFP, PPJMD, Cmt Cia e/ou Coord Op Btl.",
+   "tags": [
+    "mdip",
+    "auditoria-obrigatoria"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-091",
+   "subtema": "Responsabilização",
+   "artigo": "Dtz PM3-001/02/25 — procedimento disciplinar",
+   "enunciado": "Constitui motivo para instauração de procedimento disciplinar relacionado ao uso da COP:",
+   "alternativas": [
+    "a obstrução intencional da lente ou a omissão injustificada do acionamento",
+    "a interrupção da gravação por descarga natural da bateria do equipamento",
+    "o acionamento da gravação em situação de dúvida sobre o interesse policial",
+    "a classificação da evidência com etiqueta de polícia administrativa"
+   ],
+   "correta": 0,
+   "explicacao": "São motivos, entre outros: obstrução intencional da lente; acionamento inadequado; omissão injustificada; não utilização quando obrigatória; desvio proposital do enquadramento; e qualquer outro uso em desacordo com as normas.",
+   "tags": [
+    "disciplinar",
+    "motivos"
+   ]
+  },
+  {
+   "id": "cop-elab-092",
+   "subtema": "Responsabilização",
+   "artigo": "Dtz PM3-001/02/25 — transgressão grave",
+   "enunciado": "Havendo indícios de ação ou omissão dolosa voltada a frustrar ou fraudar a captação de evidências digitais, a responsabilização:",
+   "alternativas": [
+    "dependerá de prévia autorização da Corregedoria PM para ser instaurada",
+    "limitar-se-á à aplicação de sanção disciplinar de advertência ou repreensão",
+    "deverá ocorrer por procedimento compatível, podendo compreender processo regular",
+    "ficará suspensa até a conclusão do procedimento que apura a ocorrência"
+   ],
+   "correta": 2,
+   "explicacao": "Nessas hipóteses, o uso indevido pode configurar transgressão de natureza GRAVE, e a responsabilização deve se dar por procedimento compatível com a complexidade e a gravidade, podendo compreender a instauração de PROCESSO REGULAR.",
+   "tags": [
+    "grave",
+    "processo-regular"
+   ]
+  },
+  {
+   "id": "cop-elab-093",
+   "subtema": "Responsabilização",
+   "artigo": "Dtz PM3-001/02/25 — crime militar",
+   "enunciado": "Verificada a existência de indícios de crime militar relacionado ao uso da COP, deverá ser instaurado:",
+   "alternativas": [
+    "procedimento disciplinar, que absorverá a apuração penal-militar",
+    "inquérito policial militar, além das providências disciplinares",
+    "processo regular, com posterior remessa das peças à Justiça Militar",
+    "apenas investigação preliminar, salvo se houver vítima identificada"
+   ],
+   "correta": 1,
+   "explicacao": "Havendo indícios de crime militar, instaura-se o respectivo IPM, INDEPENDENTEMENTE das providências disciplinares cabíveis — as esferas não se excluem.",
+   "tags": [
+    "ipm",
+    "crime-militar"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "cop-elab-094",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-001/02/25 — CComSoc",
+   "enunciado": "Compete ao Centro de Comunicação Social, quanto às COP:",
+   "alternativas": [
+    "estruturar o SiGCED quanto à tecnologia da informação e ao armazenamento",
+    "definir a matriz de risco para priorizar a distribuição dos equipamentos",
+    "regulamentar o atendimento às requisições feitas por autoridades apuratórias",
+    "deliberar, por meio da CDCA, sobre a divulgação das imagens captadas"
+   ],
+   "correta": 3,
+   "explicacao": "Ao CComSoc cabem elaborar estratégias de comunicação, divulgar conteúdos positivos e DELIBERAR, POR MEIO DA CDCA, sobre a divulgação das imagens. Matriz de risco é do CIPM; requisições, da Corregedoria; SiGCED, da DTIC.",
+   "tags": [
+    "ccomsoc",
+    "cdca"
+   ]
+  },
+  {
+   "id": "cop-elab-095",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-001/02/25 — CIPM",
+   "enunciado": "Ao Centro de Inteligência da Polícia Militar compete, entre outras atribuições relativas às COP:",
+   "alternativas": [
+    "editar os protocolos das rotinas de auditoria adotadas pelas OPM",
+    "promover a capacitação técnica do efetivo por meio de videotreinamentos",
+    "prover os recursos orçamentários para aquisição e manutenção dos equipamentos",
+    "disciplinar a sistemática de gestão dos cartões de identificação por radiofrequência"
+   ],
+   "correta": 3,
+   "explicacao": "Ao CIPM cabem, entre outras: análises estratégicas para o Cmdo G, orientação às Agências de Inteligência, definição da MATRIZ DE RISCO e a disciplina, por norma orientadora, da GESTÃO DOS CARTÕES RFID nas Agências de Inteligência das OPM.",
+   "tags": [
+    "cipm",
+    "rfid"
+   ]
+  },
+  {
+   "id": "cop-elab-096",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-001/02/25 — Corregedoria PM",
+   "enunciado": "Cabe à Corregedoria PM, na sistemática das COP:",
+   "alternativas": [
+    "definir e divulgar o rol completo de etiquetas eletrônicas das evidências digitais",
+    "analisar propostas de atualização da Diretriz, assessorando o Comando Geral",
+    "estabelecer, por meio das Seções PJMD, os fluxos de acesso por acusados e defensores",
+    "manter a Central de Serviços de TIC para suporte técnico às Unidades"
+   ],
+   "correta": 2,
+   "explicacao": "À Corregedoria cabem acompanhar e regulamentar o atendimento às requisições pelas Seções PJMD, ESTABELECER OS FLUXOS de acesso por acusados ou defensores e publicar norma orientativa para as autoridades disciplinares. Propostas de atualização são da 3ª EM/PM; o rol de tags, da 6ª EM/PM.",
+   "tags": [
+    "corregedoria",
+    "fluxos"
+   ]
+  },
+  {
+   "id": "cop-elab-097",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-001/02/25 — 6ª EM/PM",
+   "enunciado": "Definir, atualizar e divulgar o rol completo de etiquetas eletrônicas das evidências digitais, com seus parâmetros técnicos, compete:",
+   "alternativas": [
+    "à 6ª Seção do Estado-Maior",
+    "à Corregedoria da Polícia Militar",
+    "à Diretoria de Ensino e Cultura",
+    "ao Centro de Inteligência da PM"
+   ],
+   "correta": 0,
+   "explicacao": "À 6ª EM/PM cabem revisar os POP aplicáveis às COP, definir indicadores estratégicos, estabelecer protocolos para as rotinas de auditoria e definir, atualizar e divulgar o ROL DE TAGS, mantendo a informação na intranet.",
+   "tags": [
+    "6em",
+    "tags"
+   ]
+  },
+  {
+   "id": "cop-elab-098",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-001/02/25 — DTIC",
+   "enunciado": "Compete à Diretoria de Tecnologia da Informação e Comunicação:",
+   "alternativas": [
+    "definir a ordem de prioridade de distribuição das câmeras entre as OPM",
+    "deliberar sobre a divulgação de conteúdos audiovisuais de interesse institucional",
+    "auditar as evidências digitais produzidas pelas unidades operacionais",
+    "estruturar o SiGCED e manter a Central de Serviços de TIC em funcionamento contínuo"
+   ],
+   "correta": 3,
+   "explicacao": "À DTIC cabem estruturar o SiGCED, definir especificações tecnológicas, prover ou coordenar a estrutura de armazenamento seguro, acompanhar a evolução tecnológica, MANTER A CENTRAL DE SERVIÇOS DE TIC em funcionamento contínuo e emitir semestralmente o mapa de controle dos contratos.",
+   "tags": [
+    "dtic",
+    "sigced"
+   ]
+  },
+  {
+   "id": "cop-elab-099",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-001/02/25 — DEC",
+   "enunciado": "À Diretoria de Ensino e Cultura compete, quanto às COP:",
+   "alternativas": [
+    "revisar currículos e promover a capacitação técnica e operacional do efetivo",
+    "prover recursos financeiros para a aquisição e manutenção dos equipamentos",
+    "auditar as evidências digitais produzidas nos cursos de formação",
+    "definir os indicadores estratégicos de uso das câmeras na Instituição"
+   ],
+   "correta": 0,
+   "explicacao": "À DEC cabem revisar e atualizar os currículos dos cursos e estágios, incorporando o uso técnico e jurídico das COP, e promover a capacitação por videotreinamentos, ICC, INPO ou outras atividades de ensino.",
+   "tags": [
+    "dec",
+    "capacitacao"
+   ]
+  },
+  {
+   "id": "cop-elab-100",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-001/02/25 — Oficial de Ligação COP",
+   "enunciado": "O Oficial de Ligação COP é designado pelo Comandante do Batalhão e responde:",
+   "alternativas": [
+    "pela coordenação do emprego operacional e pelo treinamento do efetivo",
+    "pela custódia das evidências digitais produzidas pela Unidade",
+    "pela deliberação sobre pedidos de divulgação de imagens à imprensa",
+    "pela auditoria obrigatória das ocorrências de morte decorrente de intervenção"
+   ],
+   "correta": 0,
+   "explicacao": "O Of Lig COP coordena o emprego operacional, o treinamento do efetivo e a participação em reuniões e eventos sobre as COP, zelando pelo cumprimento da regulamentação. A custódia das evidências é do Chefe da Seção PJMD.",
+   "tags": [
+    "oficial-ligacao",
+    "treinamento"
+   ]
+  }
+ ]
+}
