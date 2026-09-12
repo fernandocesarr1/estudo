@@ -1,0 +1,1944 @@
+{
+ "materia": "i36-elab",
+ "versao": "1.6.0",
+ "atualizadoEm": "2026-09-12",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Afastamentos por saúde",
+  "Agregação e declaração de bens",
+  "Atendimento na UIS",
+  "Atestado médico civil",
+  "Competição desportiva",
+  "Competência para conceder",
+  "Convalescença e LTS",
+  "Dispensa do serviço",
+  "Dispensa recompensa",
+  "Doação de sangue",
+  "Folga e escala",
+  "Fruição fora da sede",
+  "Férias",
+  "Férias do Aspirante",
+  "Férias em cursos",
+  "Juntas de Saúde",
+  "LTS de familiar",
+  "Licença-adoção",
+  "Licença-gestante",
+  "Licença-paternidade",
+  "Licença-prêmio",
+  "Licenças sem vencimentos",
+  "Luto",
+  "Missão e estudos",
+  "Núpcias",
+  "Organismo internacional",
+  "Perda de férias",
+  "Plano anual de férias",
+  "Redução de férias",
+  "Restrições de saúde",
+  "Sobrestamento de férias e LP",
+  "Sustação e sobrestamento",
+  "Trânsito",
+  "Valor dos afastamentos"
+ ],
+ "questoes": [
+  {
+   "id": "i36-elab-001",
+   "subtema": "Competência para conceder",
+   "artigo": "I-36-PM — competências",
+   "enunciado": "Compete ao Comandante de Companhia, nos termos das I-36-PM, conceder originariamente:",
+   "alternativas": [
+    "a dispensa para doação de sangue do policial militar subordinado",
+    "a licença-prêmio e as férias do efetivo da subunidade",
+    "a convalescença de até dez dias, por delegação da Diretoria de Pessoal",
+    "o afastamento de trânsito do policial militar recém-classificado"
+   ],
+   "correta": 0,
+   "explicacao": "O Cmt de Cia concede originariamente a dispensa por doação de sangue; concede férias mediante aprovo do Comandante e a dispensa do serviço por delegação. Convalescença e trânsito são do Cmt de Unidade, este por delegação da DP no caso da convalescença.",
+   "tags": [
+    "competencia",
+    "doacao-sangue"
+   ]
+  },
+  {
+   "id": "i36-elab-002",
+   "subtema": "Competência para conceder",
+   "artigo": "I-36-PM — competências",
+   "enunciado": "A concessão da licença para tratamento de saúde do policial militar e da licença para tratamento de saúde de pessoa da família compete:",
+   "alternativas": [
+    "ao Comandante da Unidade, por delegação da Diretoria de Pessoal",
+    "ao Diretor de Saúde, após homologação do parecer da Junta de Saúde",
+    "ao Diretor de Pessoal, em ambos os casos, na forma das Instruções",
+    "ao Comandante Geral, nos casos que ultrapassem seis meses de afastamento"
+   ],
+   "correta": 2,
+   "explicacao": "LTS do PM, LTS de familiar e licença-adoção são concedidas pelo DIRETOR DE PESSOAL. Ao Diretor de Saúde cabe homologar o parecer da Junta; ao Cmt de Unidade, a convalescença, por delegação da DP.",
+   "tags": [
+    "competencia",
+    "lts"
+   ]
+  },
+  {
+   "id": "i36-elab-003",
+   "subtema": "Competência para conceder",
+   "artigo": "I-36-PM — competências",
+   "enunciado": "Quanto à autorização dos afastamentos para curso de interesse público e para competição desportiva, compete:",
+   "alternativas": [
+    "ao Secretário da Segurança Pública dentro do país e ao Secretário de Governo fora dele",
+    "ao Comandante Geral dentro do país e ao Secretário da Segurança Pública fora dele",
+    "ao Secretário de Governo dentro do país e ao Governador do Estado fora dele",
+    "ao Subcomandante PM dentro do país e ao Comandante Geral fora dele"
+   ],
+   "correta": 0,
+   "explicacao": "Dentro do país, autoriza, cessa e prorroga o SSP; fora do país, o Secretário de Governo, a quem também compete o afastamento para atuar em organismo internacional de que o Brasil participe ou com o qual coopere.",
+   "tags": [
+    "competencia",
+    "ssp"
+   ]
+  },
+  {
+   "id": "i36-elab-004",
+   "subtema": "Competência para conceder",
+   "artigo": "I-36-PM — licenças sem vencimentos",
+   "enunciado": "As três licenças sem vencimentos previstas nas I-36-PM são concedidas e prorrogadas, respectivamente:",
+   "alternativas": [
+    "pelo Diretor de Pessoal e pelo Comandante Geral da Instituição",
+    "pelo Comandante da Unidade e pelo Diretor de Pessoal",
+    "pelo Comandante Geral e pelo Secretário da Segurança Pública",
+    "pelo Secretário da Segurança Pública e pelo Secretário de Governo"
+   ],
+   "correta": 2,
+   "explicacao": "O Comandante Geral concede as três LSV — interesse particular, atividade técnica em organização civil e aperfeiçoamento em caráter particular — e a prorrogação fica a cargo do Secretário da Segurança Pública.",
+   "tags": [
+    "lsv",
+    "competencia"
+   ]
+  },
+  {
+   "id": "i36-elab-005",
+   "subtema": "Fruição fora da sede",
+   "artigo": "Portaria DP-1/147/14 (BG 59/14)",
+   "enunciado": "Policial militar em gozo de férias pretende viajar ao exterior. Quanto à autorização:",
+   "alternativas": [
+    "basta dar ciência à sua Unidade, como ocorre nos deslocamentos dentro do país",
+    "depende de autorização do Cmt, Chefe ou Diretor da OPM a que pertence",
+    "depende de autorização do Diretor de Pessoal, mediante requerimento próprio",
+    "é vedada a saída do país durante a fruição de afastamentos regulamentares"
+   ],
+   "correta": 1,
+   "explicacao": "Dentro do país, o deslocamento independe de autorização, bastando a ciência. Para fora do país, compete ao Cmt, Ch ou Dir da OPM autorizar, por meio do formulário PM P-108, com publicação em Boletim Interno.",
+   "tags": [
+    "afastamento-pais",
+    "autorizacao"
+   ]
+  },
+  {
+   "id": "i36-elab-006",
+   "subtema": "Folga e escala",
+   "artigo": "Nota PM1-004/01/97 (BG 011/98)",
+   "enunciado": "Policial militar em regime de escala deixa de cumprir o turno de serviço por motivo particular. Quanto à folga subsequente:",
+   "alternativas": [
+    "mantém o direito à folga, por ser período destinado à reposição de energia",
+    "perde a folga em qualquer hipótese, ainda que dispensado pelo Comandante",
+    "mantém o direito à folga, desde que comunique o impedimento previamente",
+    "perde a folga, salvo se o não comparecimento decorreu de dispensa do serviço"
+   ],
+   "correta": 3,
+   "explicacao": "Deixando de cumprir o turno POR QUALQUER RAZÃO, o policial não faz jus à folga subsequente, salvo se houve DISPENSA DO SERVIÇO. A regra vale para o regime de escala, pois o expediente administrativo é ininterrupto.",
+   "tags": [
+    "folga",
+    "dispensa"
+   ]
+  },
+  {
+   "id": "i36-elab-007",
+   "subtema": "Sustação e sobrestamento",
+   "artigo": "I-36-PM — sustação",
+   "enunciado": "Sobre a sustação dos afastamentos, é correto afirmar que:",
+   "alternativas": [
+    "é a suspensão temporária da fruição e alcança apenas férias e licença-prêmio",
+    "é a postergação do início da fruição, por conveniência do serviço policial-militar",
+    "é a interrupção definitiva da fruição já iniciada e alcança todos os afastamentos",
+    "é a conversão do afastamento em dispensa do serviço, por ato do Comandante"
+   ],
+   "correta": 2,
+   "explicacao": "Sustação é a INTERRUPÇÃO DEFINITIVA do afastamento já iniciado e aplica-se a TODOS os afastamentos. Sobrestamento é a suspensão temporária e alcança somente férias e licença-prêmio.",
+   "tags": [
+    "sustacao",
+    "conceito"
+   ]
+  },
+  {
+   "id": "i36-elab-008",
+   "subtema": "Sustação e sobrestamento",
+   "artigo": "I-36-PM — causas de sustação",
+   "enunciado": "São causas de sustação dos afastamentos, além do falecimento:",
+   "alternativas": [
+    "a prisão em flagrante, o recolhimento disciplinar e a licença para tratamento de saúde",
+    "a transferência para a reserva, a reforma, a exoneração, a demissão e a expulsão",
+    "a apresentação para curso ou estágio e a agregação para candidatar-se a cargo eletivo",
+    "o relevante interesse do serviço e a agregação por passar à condição de desertor"
+   ],
+   "correta": 1,
+   "explicacao": "A sustação reúne as causas de inatividade e o falecimento: reserva, reforma, exoneração, demissão e expulsão, além de agregações específicas, como a disciplinar e a por extravio. As demais alternativas listam causas de SOBRESTAMENTO.",
+   "tags": [
+    "sustacao",
+    "causas"
+   ]
+  },
+  {
+   "id": "i36-elab-009",
+   "subtema": "Sustação e sobrestamento",
+   "artigo": "I-36-PM — causas de sobrestamento",
+   "enunciado": "Policial militar em gozo de licença-prêmio é preso em flagrante por crime militar. Quanto ao afastamento:",
+   "alternativas": [
+    "será sustado, por se tratar de causa definitiva de interrupção da fruição",
+    "será convertido em dispensa do serviço, por ato do Comandante da Unidade",
+    "prosseguirá normalmente, por não haver previsão de interrupção",
+    "será sobrestado, retomando-se a fruição quando cessar o motivo"
+   ],
+   "correta": 3,
+   "explicacao": "Prisão em flagrante, por ordem judicial ou recolhimento disciplinar são causas de SOBRESTAMENTO, que alcança apenas férias e licença-prêmio. Como o policial estava em licença-prêmio, a fruição é apenas suspensa.",
+   "tags": [
+    "sobrestamento",
+    "prisao"
+   ]
+  },
+  {
+   "id": "i36-elab-010",
+   "subtema": "Sustação e sobrestamento",
+   "artigo": "I-36-PM — sobrestamento",
+   "enunciado": "A apresentação para participar da instrução de processo ou procedimento e a exoneração são, respectivamente, causas de:",
+   "alternativas": [
+    "sustação de qualquer afastamento e sobrestamento de férias ou licença-prêmio",
+    "sustação de férias ou licença-prêmio e sobrestamento de qualquer afastamento",
+    "sobrestamento de qualquer afastamento e sustação de férias ou licença-prêmio",
+    "sobrestamento de férias ou licença-prêmio e sustação de qualquer afastamento"
+   ],
+   "correta": 3,
+   "explicacao": "Apresentação para instrução processual sobrestá férias e licença-prêmio; a exoneração, por ser causa de inatividade, susta definitivamente qualquer afastamento em fruição.",
+   "tags": [
+    "sobrestamento",
+    "sustacao"
+   ]
+  },
+  {
+   "id": "i36-elab-011",
+   "subtema": "Valor dos afastamentos",
+   "artigo": "I-36-PM — efetivo exercício",
+   "enunciado": "NÃO são considerados de efetivo exercício, nos termos das I-36-PM:",
+   "alternativas": [
+    "o trânsito, as núpcias e o luto concedidos na forma das Instruções",
+    "a licença-gestante, a licença-adoção e a licença-paternidade concedidas ao policial",
+    "as licenças sem vencimentos e o tempo de licença para tratar de familiar que exceder um ano",
+    "a licença para missão ou estudos de interesse do serviço e a competição desportiva"
+   ],
+   "correta": 2,
+   "explicacao": "Não contam como efetivo exercício as três LSV — interesse particular, atividade técnica em organização civil e aperfeiçoamento em caráter particular — e o tempo que exceder 1 ano, consecutivo ou não, de LTS em pessoa da família, que não é computado para efeito algum.",
+   "tags": [
+    "efetivo-exercicio",
+    "lsv"
+   ]
+  },
+  {
+   "id": "i36-elab-012",
+   "subtema": "Valor dos afastamentos",
+   "artigo": "I-36-PM — efetivo exercício",
+   "enunciado": "Quanto à licença para tratamento de saúde em pessoa da família, é correto afirmar que:",
+   "alternativas": [
+    "é de efetivo exercício, salvo o tempo que exceder um ano, consecutivo ou não",
+    "não é considerada de efetivo exercício em nenhuma hipótese, por ser de interesse particular",
+    "é de efetivo exercício apenas no primeiro mês de fruição, com remuneração integral",
+    "é de efetivo exercício apenas quando o familiar for cônjuge ou parente de 1º grau"
+   ],
+   "correta": 0,
+   "explicacao": "A LTS de familiar é considerada de efetivo exercício, com a ressalva do tempo que EXCEDER 1 ANO, consecutivo ou não, que não é computado para efeito algum. A redução da remuneração é matéria distinta da contagem de tempo.",
+   "tags": [
+    "ltsf",
+    "efetivo-exercicio"
+   ]
+  },
+  {
+   "id": "i36-elab-013",
+   "subtema": "Agregação e declaração de bens",
+   "artigo": "I-36-PM — agregações",
+   "enunciado": "O policial militar agregado nas hipóteses das três licenças sem vencimentos, por candidatura a cargo eletivo ou por posse em cargo público civil temporário deverá:",
+   "alternativas": [
+    "apresentar declaração de fidelidade aos valores e deveres institucionais da Corporação",
+    "firmar termo de compromisso de não exercer atividade remunerada durante a agregação",
+    "submeter-se a treinamento deontológico quando da reversão ao serviço ativo",
+    "apresentar declaração dos bens e valores que compuserem o seu patrimônio privado"
+   ],
+   "correta": 3,
+   "explicacao": "A norma exige a apresentação da DECLARAÇÃO DE BENS E VALORES do patrimônio privado nas hipóteses de agregação listadas — inclusive idade-limite e inatividade a pedido não publicada em 90 dias. Declaração de fidelidade e treinamento deontológico não existem nas Instruções.",
+   "tags": [
+    "agregacao",
+    "declaracao-bens"
+   ]
+  },
+  {
+   "id": "i36-elab-014",
+   "subtema": "Dispensa do serviço",
+   "artigo": "RDPM, art. 69 c/c I-36-PM",
+   "enunciado": "Sobre a dispensa do serviço, é correto afirmar que:",
+   "alternativas": [
+    "é recompensa policial-militar, concedida por merecimento, limitada a seis dias por ano",
+    "não é recompensa e depende de motivo de força maior, a juízo do Comandante da Unidade",
+    "é recompensa disciplinar, cuja concessão compete privativamente ao Comandante Geral",
+    "não é recompensa e independe de motivo, bastando a conveniência do serviço"
+   ],
+   "correta": 1,
+   "explicacao": "A DS não é recompensa policial-militar: exige MOTIVO DE FORÇA MAIOR, a juízo do Cmt de Unidade, é limitada a 6 dias por ano e sempre publicada em boletim. A concessão pode ser delegada a oficiais em funções equivalentes ou superiores às de Cmt de Cia.",
+   "tags": [
+    "ds",
+    "forca-maior"
+   ]
+  },
+  {
+   "id": "i36-elab-015",
+   "subtema": "Dispensa recompensa",
+   "artigo": "I-36-PM — dispensa recompensa",
+   "enunciado": "Quanto à dispensa-recompensa, é correto afirmar que:",
+   "alternativas": [
+    "permanece em vigor, limitada a seis dias por ano, como a dispensa do serviço",
+    "foi revogada pelo RDPM, podendo ser fruída se concedida e publicada até 09MAR01",
+    "foi revogada, sendo vedada a fruição ainda que concedida antes da revogação",
+    "permanece em vigor apenas para praças com comportamento excepcional"
+   ],
+   "correta": 1,
+   "explicacao": "A DR foi revogada pelo RDPM, mas as concedidas e publicadas até 09MAR01 podem ser usufruídas, admitida a fruição parcelada por período mínimo de um dia, cabendo à OPM detentora do assentamento manter o controle.",
+   "tags": [
+    "dr",
+    "revogacao"
+   ]
+  },
+  {
+   "id": "i36-elab-016",
+   "subtema": "Licença-prêmio",
+   "artigo": "I-36-PM c/c Estatuto, art. 209",
+   "enunciado": "A licença-prêmio é devida como prêmio de assiduidade e corresponde a:",
+   "alternativas": [
+    "90 dias a cada dez anos de exercício ininterrupto, admitida uma repreensão",
+    "60 dias a cada cinco anos de exercício ininterrupto, sem penalidade administrativa",
+    "90 dias a cada cinco anos de exercício ininterrupto, sem penalidade administrativa",
+    "30 dias a cada cinco anos de exercício ininterrupto, independentemente de sanções"
+   ],
+   "correta": 2,
+   "explicacao": "São 90 dias a cada quinquênio de exercício ININTERRUPTO em que não haja penalidade administrativa. Para o militar do Estado, a advertência não interfere; repreensão e permanência suspendem; a detenção interrompe o bloco aquisitivo.",
+   "tags": [
+    "lp",
+    "assiduidade"
+   ]
+  },
+  {
+   "id": "i36-elab-017",
+   "subtema": "Licença-prêmio",
+   "artigo": "LC 1.020/07, art. 9º",
+   "enunciado": "Interrompe a contagem de tempo para efeito de licença-prêmio do policial militar:",
+   "alternativas": [
+    "a repreensão, na base de um dia, contado da publicação da sanção disciplinar",
+    "a advertência, quando aplicada mais de uma vez no mesmo período aquisitivo",
+    "a sanção de detenção, independentemente da quantidade de dias aplicada",
+    "a permanência disciplinar, na quantidade de dias efetivamente cumpridos"
+   ],
+   "correta": 2,
+   "explicacao": "A DETENÇÃO interrompe o bloco aquisitivo. A repreensão e a permanência apenas SUSPENDEM — a primeira na base de um dia e a segunda na quantidade da sanção aplicada, contada da publicação. A advertência não interfere.",
+   "tags": [
+    "lp",
+    "detencao"
+   ]
+  },
+  {
+   "id": "i36-elab-018",
+   "subtema": "Licença-prêmio",
+   "artigo": "LC 1.020/07, art. 9º, III",
+   "enunciado": "Quanto aos afastamentos cumulativos, interrompe o bloco aquisitivo de licença-prêmio do policial militar o total que exceder:",
+   "alternativas": [
+    "25 dias, no período de cinco anos, somadas as faltas justificadas e as licenças de saúde",
+    "30 dias, no período de cinco anos, somadas as dispensas do serviço e as licenças de saúde",
+    "20 dias, no período de cinco anos, somadas apenas as licenças de saúde do próprio policial",
+    "45 dias, no período de cinco anos, somadas as dispensas do serviço e as faltas justificadas"
+   ],
+   "correta": 1,
+   "explicacao": "Para o militar do Estado o limite é de MAIS DE 30 DIAS em 5 anos, somando dispensa do serviço, LTS do policial (a partir de 20MAI05) e LTS em pessoa da família. O limite de 25 dias é o do Estatuto dos servidores civis.",
+   "tags": [
+    "lp",
+    "30-dias"
+   ]
+  },
+  {
+   "id": "i36-elab-019",
+   "subtema": "Licença-prêmio",
+   "artigo": "LC 1.020/07, art. 9º, II",
+   "enunciado": "Não interrompe o bloco aquisitivo de licença-prêmio a agregação:",
+   "alternativas": [
+    "por passar o policial militar à condição de desertor, após a lavratura do termo",
+    "por licença para tratamento de saúde superior a seis meses decorrente do serviço",
+    "por interdição civil, ainda que parcial, decretada pelo juízo competente",
+    "para candidatar-se a cargo eletivo, tendo o policial mais de dez anos de serviço"
+   ],
+   "correta": 1,
+   "explicacao": "As agregações do DL 260/70 interrompem, EXCETO quatro: encargo ou comissão previsto em lei e não no QO; LTS superior a 6 meses decorrente do serviço, da função ou de doença profissional, a partir de 21SET17; inatividade a pedido não publicada em 90 dias; e prisões cautelares ou suspensão do cargo com absolvição por inexistência do fato ou negativa de autoria.",
+   "tags": [
+    "lp",
+    "agregacao"
+   ]
+  },
+  {
+   "id": "i36-elab-020",
+   "subtema": "Licença-prêmio",
+   "artigo": "I-36-PM — concessão da LP",
+   "enunciado": "Sobre a concessão da licença-prêmio ao policial militar, é correto afirmar que:",
+   "alternativas": [
+    "é lançada pela OPM detentora do assentamento em até 30 dias do fechamento do período",
+    "depende de requerimento do interessado, protocolado na Diretoria de Pessoal",
+    "é publicada pelo Comandante da Unidade em boletim interno, após o quinquênio",
+    "depende de parecer prévio da Junta de Saúde sobre a aptidão do policial militar"
+   ],
+   "correta": 0,
+   "explicacao": "A OPM detentora do Assentamento Individual insere as informações no sistema eletrônico em até 30 dias do fechamento do período aquisitivo, INDEPENDENTEMENTE de requerimento, e a Diretoria de Pessoal publica a concessão.",
+   "tags": [
+    "lp",
+    "concessao"
+   ]
+  },
+  {
+   "id": "i36-elab-021",
+   "subtema": "Licença-prêmio",
+   "artigo": "I-36-PM — LP e inatividade",
+   "enunciado": "Considerando que os pedidos de transferência para a reserva têm despacho em até 90 dias do protocolo na Diretoria de Pessoal, o gozo da licença-prêmio:",
+   "alternativas": [
+    "pode ocorrer após a publicação da inatividade, mediante conversão em pecúnia",
+    "deve anteceder esse prazo, para que haja plena fruição antes da publicação",
+    "pode ser postergado para o primeiro ano da inatividade, a critério do interessado",
+    "deve ocorrer nos 30 dias seguintes à publicação da transferência para a reserva"
+   ],
+   "correta": 1,
+   "explicacao": "O gozo deve ANTECEDER os 90 dias do prazo de despacho, contados do protocolo, para que as parcelas sejam plenamente fruídas antes da publicação da inatividade.",
+   "tags": [
+    "lp",
+    "reserva"
+   ]
+  },
+  {
+   "id": "i36-elab-022",
+   "subtema": "Licença-prêmio",
+   "artigo": "I-36-PM — indenização da LP",
+   "enunciado": "Inviabilizado o gozo da licença-prêmio por reforma decorrente de incapacidade física, invalidez ou por falecimento, é possível:",
+   "alternativas": [
+    "requerer a indenização dos períodos, observada a prescrição quinquenal do direito",
+    "converter as parcelas em tempo de serviço para fins de contagem na inatividade",
+    "transferir as parcelas não fruídas a dependente indicado no assentamento individual",
+    "requerer a indenização, sem qualquer prazo, por se tratar de direito imprescritível"
+   ],
+   "correta": 0,
+   "explicacao": "O reformado ou seus beneficiários podem requerer a INDENIZAÇÃO dos períodos, calculada pelos vencimentos do posto ou graduação no mês da ocorrência, observada a PRESCRIÇÃO QUINQUENAL.",
+   "tags": [
+    "lp",
+    "indenizacao"
+   ]
+  },
+  {
+   "id": "i36-elab-023",
+   "subtema": "Licença-prêmio",
+   "artigo": "I-36-PM — LP do Aspirante",
+   "enunciado": "Quanto à licença-prêmio do Aspirante a Oficial PM, é correto afirmar que:",
+   "alternativas": [
+    "pode ser fruída durante o aspirantado, desde que no período das férias escolares",
+    "não pode ser adquirida durante o aspirantado, por ausência de exercício funcional",
+    "não pode ser fruída durante o aspirantado, admitida a conversão em pecúnia",
+    "pode ser fruída integralmente após a conclusão do estágio probatório do posto"
+   ],
+   "correta": 2,
+   "explicacao": "O Aspirante não pode FRUIR a licença-prêmio durante o aspirantado, mas pode convertê-la em pecúnia. As férias do Aspirante são fixadas pela APMBB no último ano do CFO, limitadas ao período de setembro a novembro.",
+   "tags": [
+    "lp",
+    "aspirante"
+   ]
+  },
+  {
+   "id": "i36-elab-024",
+   "subtema": "Sobrestamento de férias e LP",
+   "artigo": "I-36-PM — concomitância",
+   "enunciado": "Havendo férias previamente programadas e o surgimento de fato gerador de outro afastamento, a regra das I-36-PM é que:",
+   "alternativas": [
+    "o afastamento superveniente prevalece, sustando-se as férias já programadas",
+    "as férias são canceladas e reprogramadas para o exercício seguinte, no PAF",
+    "ambos são fruídos simultaneamente, sem prejuízo da contagem de cada período",
+    "as férias prevalecem, admitida a alteração da data de início ou o sobrestamento"
+   ],
+   "correta": 3,
+   "explicacao": "Férias e licença-prêmio previamente programadas PREVALECEM sobre os demais afastamentos, admitidas a alteração da data de início ou o sobrestamento. Fora dessas duas, prevalece o afastamento já iniciado sobre o superveniente.",
+   "tags": [
+    "concomitancia",
+    "ferias"
+   ]
+  },
+  {
+   "id": "i36-elab-025",
+   "subtema": "Sobrestamento de férias e LP",
+   "artigo": "I-36-PM — concomitância",
+   "enunciado": "Iniciado determinado afastamento, sobrevém fato gerador de outro. Nos termos das Instruções:",
+   "alternativas": [
+    "prevalece o afastamento superveniente, por ser o fato gerador mais recente",
+    "prevalece a fruição do primeiro, fruindo-se depois os dias restantes do segundo",
+    "os dois períodos correm simultaneamente, perdendo-se o excedente do segundo",
+    "o segundo afastamento é convertido em dispensa do serviço pelo Comandante"
+   ],
+   "correta": 1,
+   "explicacao": "O afastamento já iniciado prevalece sobre o superveniente; se este ultrapassar o período do primeiro, o policial frui os dias restantes na sequência, e assim sucessivamente em novas concomitâncias.",
+   "tags": [
+    "concomitancia",
+    "sequencia"
+   ]
+  },
+  {
+   "id": "i36-elab-026",
+   "subtema": "Licença-adoção",
+   "artigo": "I-36-PM c/c LC 1.361/21",
+   "enunciado": "O policial militar que adotar ou obtiver guarda judicial para fins de adoção terá direito a licença de:",
+   "alternativas": [
+    "180 dias, com vencimentos integrais, considerada de efetivo exercício",
+    "120 dias, com vencimentos integrais, considerada de efetivo exercício",
+    "180 dias, com dois terços dos vencimentos, considerada de efetivo exercício",
+    "90 dias, com vencimentos integrais, prorrogáveis por igual período"
+   ],
+   "correta": 0,
+   "explicacao": "São 180 dias com vencimentos integrais, para adoção ou guarda judicial para fins de adoção de CRIANÇA OU ADOLESCENTE, período considerado de efetivo exercício para todos os efeitos legais.",
+   "tags": [
+    "licenca-adocao",
+    "180-dias"
+   ]
+  },
+  {
+   "id": "i36-elab-027",
+   "subtema": "Licença-adoção",
+   "artigo": "I-36-PM c/c ECA e LC 1.361/21",
+   "enunciado": "Quanto ao fato gerador da licença-adoção, após a alteração promovida pela Lei Complementar nº 1.361/21:",
+   "alternativas": [
+    "alcança apenas a adoção de criança, assim considerada a pessoa até doze anos",
+    "alcança a adoção de criança ou adolescente, e não apenas de menor de sete anos",
+    "alcança apenas a adoção de menor de sete anos, mantida a redação anterior",
+    "alcança a adoção de criança, adolescente ou jovem de até vinte e um anos"
+   ],
+   "correta": 1,
+   "explicacao": "Antes da alteração, o fato gerador era a adoção ou guarda de criança MENOR DE SETE ANOS. Hoje alcança criança ou adolescente, segundo o ECA: criança até 12 anos incompletos e adolescente entre 12 e 18 anos.",
+   "tags": [
+    "licenca-adocao",
+    "eca"
+   ]
+  },
+  {
+   "id": "i36-elab-028",
+   "subtema": "Licença-adoção",
+   "artigo": "I-36-PM — requerimento",
+   "enunciado": "O requerimento da licença-adoção deve ser dirigido ao Diretor de Pessoal no prazo máximo de:",
+   "alternativas": [
+    "10 dias, contados da data do trânsito em julgado da sentença de adoção",
+    "5 dias, contados da data em que a criança passou a residir com o adotante",
+    "30 dias, contados da expedição do termo de adoção ou de guarda para adoção",
+    "15 dias, contados da expedição do termo de adoção ou de guarda para adoção"
+   ],
+   "correta": 3,
+   "explicacao": "O prazo é de 15 DIAS contados da expedição do termo de adoção ou do termo de guarda para fins de adoção, conforme o caso, e a concessão é do Diretor de Pessoal, mediante requerimento devidamente instruído.",
+   "tags": [
+    "licenca-adocao",
+    "prazo"
+   ]
+  },
+  {
+   "id": "i36-elab-029",
+   "subtema": "Licença-adoção",
+   "artigo": "I-36-PM — casal de policiais militares",
+   "enunciado": "Sendo o adotante casado ou em união estável com outro policial militar, a licença-adoção será concedida:",
+   "alternativas": [
+    "por 180 dias a cada um dos policiais militares adotantes que a requererem",
+    "por 90 dias a cada um dos policiais militares, divididos conforme o requerimento",
+    "por 180 dias ao adotante que a requerer e por 5 dias ao outro policial militar",
+    "por 180 dias apenas ao policial militar de menor posto ou graduação entre eles"
+   ],
+   "correta": 2,
+   "explicacao": "A regra combina a licença-adoção com a lógica da licença-paternidade: 180 dias ao adotante que requerer e 5 dias ao outro policial militar, desde que este também requeira.",
+   "tags": [
+    "licenca-adocao",
+    "casal-pm"
+   ]
+  },
+  {
+   "id": "i36-elab-030",
+   "subtema": "Licença-adoção",
+   "artigo": "I-36-PM — encerramento da guarda",
+   "enunciado": "Encerrada a guarda judicial que motivou a licença-adoção, o policial militar deverá apresentar-se na OPM:",
+   "alternativas": [
+    "no dia seguinte, com a documentação, comunicando o fato à Diretoria de Pessoal",
+    "no prazo de 15 dias, com a documentação, aguardando nova decisão judicial",
+    "no primeiro dia útil do mês seguinte, para regularização em boletim interno",
+    "somente ao término dos 180 dias, quando cessa o período de afastamento"
+   ],
+   "correta": 0,
+   "explicacao": "Encerrada a guarda, a apresentação é NO DIA SEGUINTE, com a documentação, comunicando o fato à DP. A não apresentação acarreta responsabilização administrativa e penal e a cassação da licença.",
+   "tags": [
+    "licenca-adocao",
+    "encerramento"
+   ]
+  },
+  {
+   "id": "i36-elab-031",
+   "subtema": "Licença-adoção",
+   "artigo": "I-36-PM — cassação",
+   "enunciado": "A não apresentação do policial militar após o encerramento da guarda judicial acarreta, além das sanções cabíveis:",
+   "alternativas": [
+    "a suspensão da licença até decisão do Diretor de Pessoal sobre o caso",
+    "a cassação da licença a contar do encerramento da guarda, com perda dos vencimentos",
+    "a conversão do período restante em licença sem vencimentos para interesse particular",
+    "o desconto em folha apenas dos dias posteriores à notificação do policial militar"
+   ],
+   "correta": 1,
+   "explicacao": "A licença é CASSADA a contar da data em que se encerrou a guarda, com a consequente perda dos vencimentos do período, sem prejuízo das sanções administrativa e penal.",
+   "tags": [
+    "licenca-adocao",
+    "cassacao"
+   ]
+  },
+  {
+   "id": "i36-elab-032",
+   "subtema": "Licença-adoção",
+   "artigo": "I-36-PM — nova licença",
+   "enunciado": "Nova licença-adoção decorrente de guarda judicial somente será concedida ao policial militar que:",
+   "alternativas": [
+    "comprovar a adoção da criança anterior ou que ela não se efetivou por motivo relevante",
+    "aguardar o prazo de dois anos da concessão da licença anterior, contado do seu término",
+    "obtiver autorização judicial expressa para a nova guarda, dispensada qualquer comprovação",
+    "comprovar que a criança anterior retornou ao abrigo por decisão da Vara da Infância"
+   ],
+   "correta": 0,
+   "explicacao": "Exige-se comprovar que a criança motivadora da licença anterior foi ADOTADA ou, a critério da Administração, que a adoção antecedente não se efetivou por MOTIVO RELEVANTE.",
+   "tags": [
+    "licenca-adocao",
+    "nova-licenca"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i36-elab-033",
+   "subtema": "Férias",
+   "artigo": "I-36-PM — fato gerador",
+   "enunciado": "O direito a férias na Polícia Militar tem como fato gerador:",
+   "alternativas": [
+    "a conclusão do estágio probatório do posto ou graduação ocupado",
+    "o exercício de seis meses na Polícia Militar, contado da data da matrícula",
+    "o exercício de um ano na Polícia Militar, contado da data de admissão",
+    "o exercício de um ano, contado da publicação da classificação na OPM"
+   ],
+   "correta": 2,
+   "explicacao": "O fato gerador é UM ANO de exercício funcional na PM, iniciada a contagem na DATA DE ADMISSÃO. Para completar esse primeiro ano, conta o tempo de serviço público estadual anterior, se a interrupção não superou 10 dias.",
+   "tags": [
+    "ferias",
+    "fato-gerador"
+   ]
+  },
+  {
+   "id": "i36-elab-034",
+   "subtema": "Férias",
+   "artigo": "I-36-PM — direito e desdobramento",
+   "enunciado": "Quanto ao direito a férias do policial militar, é correto afirmar que corresponde a:",
+   "alternativas": [
+    "30 dias anuais, com acréscimo de um terço, vedado o desdobramento do período",
+    "30 dias anuais, sem acréscimo pecuniário, admitido o desdobramento em três períodos",
+    "20 dias anuais, com acréscimo de um terço, vedado qualquer desdobramento do período",
+    "30 dias anuais, com acréscimo de um terço, admitido o desdobramento em dois períodos iguais"
+   ],
+   "correta": 3,
+   "explicacao": "São 30 dias anuais conforme o plano anual de férias, com acréscimo de 1/3, admitido o desdobramento em DOIS períodos iguais de 15 dias, caso em que o terço é proporcional.",
+   "tags": [
+    "ferias",
+    "desdobramento"
+   ]
+  },
+  {
+   "id": "i36-elab-035",
+   "subtema": "Férias",
+   "artigo": "I-36-PM — tempo anterior",
+   "enunciado": "Para completar o primeiro ano de exercício funcional, será contado o tempo de serviço público estadual prestado anteriormente, desde que entre a cessação do exercício anterior e o ingresso não tenha havido interrupção superior a:",
+   "alternativas": [
+    "5 dias",
+    "10 dias",
+    "30 dias",
+    "60 dias"
+   ],
+   "correta": 1,
+   "explicacao": "O limite é de 10 DIAS de interrupção entre o exercício anterior e o ingresso na Polícia Militar. Trata-se de regra específica para efeito de férias, cobrada com frequência com prazos alterados.",
+   "tags": [
+    "ferias",
+    "tempo-anterior"
+   ]
+  },
+  {
+   "id": "i36-elab-036",
+   "subtema": "Férias",
+   "artigo": "I-36-PM — terço de férias",
+   "enunciado": "Quanto ao recebimento do acréscimo de um terço sem a correspondente fruição das férias, é correto afirmar que:",
+   "alternativas": [
+    "a restituição é feita em parcelas mensais, descontadas da remuneração seguinte",
+    "a restituição é feita de uma só vez, salvo inatividade durante a fruição ou falecimento",
+    "o valor é incorporado à remuneração, por se tratar de verba de natureza salarial",
+    "a restituição depende de processo administrativo prévio, com ampla defesa"
+   ],
+   "correta": 1,
+   "explicacao": "O recebimento indevido do terço é restituído DE UMA SÓ VEZ. A passagem à inatividade remunerada durante a fruição e o falecimento não são considerados recebimento indevido.",
+   "tags": [
+    "ferias",
+    "terco"
+   ]
+  },
+  {
+   "id": "i36-elab-037",
+   "subtema": "Plano anual de férias",
+   "artigo": "I-36-PM — PAF",
+   "enunciado": "A elaboração e a alteração do Plano Anual de Férias competem:",
+   "alternativas": [
+    "à Diretoria de Pessoal, mediante proposta do Comandante da Unidade",
+    "ao Comando de Policiamento, que consolida os planos das Unidades subordinadas",
+    "ao Comandante de Companhia, com aprovação do Subcomandante da Unidade",
+    "ao Comandante da OPM, que o elabora e altera diretamente no sistema"
+   ],
+   "correta": 3,
+   "explicacao": "O Cmt da OPM elabora e altera o PAF diretamente no SIPA. Aos Comandantes de Cia e de Batalhão cabe fiscalizar o cumprimento, em especial no mês de novembro.",
+   "tags": [
+    "paf",
+    "sipa"
+   ]
+  },
+  {
+   "id": "i36-elab-038",
+   "subtema": "Plano anual de férias",
+   "artigo": "I-36-PM — conteúdo do PAF",
+   "enunciado": "O Plano Anual de Férias deve prever, entre outros elementos:",
+   "alternativas": [
+    "apenas os policiais militares com direito a férias integrais de trinta dias no exercício",
+    "os policiais com férias normais, os com férias reduzidas e os que perderam o direito",
+    "apenas os períodos de desdobramento autorizados pelo Comando de Policiamento",
+    "a relação dos policiais militares em licença para tratamento de saúde no exercício"
+   ],
+   "correta": 1,
+   "explicacao": "O PAF prevê férias normais e desdobramentos, férias reduzidas para 20 dias (com terço proporcional e desdobramento em dois períodos de 10 dias) e os policiais que PERDERAM o direito, além de atender às peculiaridades da OPM.",
+   "tags": [
+    "paf",
+    "conteudo"
+   ]
+  },
+  {
+   "id": "i36-elab-039",
+   "subtema": "Plano anual de férias",
+   "artigo": "I-36-PM — fruição",
+   "enunciado": "Quanto ao início e ao término da fruição das férias previstas no plano, é correto afirmar que:",
+   "alternativas": [
+    "iniciam às 08h00 do dia indicado e terminam às 08h00 do dia seguinte ao final",
+    "iniciam às 00h00 do dia indicado e terminam às 24h00 do dia final do período",
+    "iniciam no primeiro dia útil indicado e terminam no último dia útil do período",
+    "iniciam após a publicação em boletim interno, que deve anteceder em cinco dias"
+   ],
+   "correta": 1,
+   "explicacao": "A fruição começa às 00h00min do dia indicado e termina às 24h00min do dia em que se completa o período previsto. O plano deve ter publicidade em local visível, preferencialmente junto às escalas de serviço.",
+   "tags": [
+    "paf",
+    "horario"
+   ]
+  },
+  {
+   "id": "i36-elab-040",
+   "subtema": "Plano anual de férias",
+   "artigo": "I-36-PM — indeferimento",
+   "enunciado": "Sobre o indeferimento de férias do policial militar, as Instruções estabelecem que:",
+   "alternativas": [
+    "é admitido por absoluta necessidade do serviço, mediante despacho fundamentado",
+    "é admitido quando o policial estiver respondendo a processo regular",
+    "é proibido o indeferimento por absoluta necessidade do serviço",
+    "é admitido quando houver operação de grande vulto na área da Unidade"
+   ],
+   "correta": 2,
+   "explicacao": "É PROIBIDO o indeferimento de férias por absoluta necessidade do serviço. Eventuais ajustes se fazem pelo planejamento do PAF, que deve considerar as peculiaridades da OPM e os eventos com suspensão determinada por escalão superior.",
+   "tags": [
+    "ferias",
+    "indeferimento"
+   ]
+  },
+  {
+   "id": "i36-elab-041",
+   "subtema": "Plano anual de férias",
+   "artigo": "I-36-PM — policial agregado",
+   "enunciado": "Quanto ao plano de férias do policial militar agregado, a elaboração compete:",
+   "alternativas": [
+    "ao Comando de Policiamento da área em que reside o policial militar agregado",
+    "à Diretoria de Pessoal, que fixa o período no ato da publicação da agregação",
+    "à OPM de origem, que mantém o assentamento individual do policial militar",
+    "à OPM à qual estiver adido, que verifica a data oportuna e colhe sua ciência"
+   ],
+   "correta": 3,
+   "explicacao": "O PAF do agregado é elaborado pela OPM à qual ele estiver ADIDO, verificando-se a data mais oportuna, cientificando-o e colhendo sua assinatura.",
+   "tags": [
+    "paf",
+    "agregado"
+   ]
+  },
+  {
+   "id": "i36-elab-042",
+   "subtema": "Férias",
+   "artigo": "I-36-PM — férias iniciais",
+   "enunciado": "As férias iniciais do policial militar são as do exercício em que se completa o primeiro ano de exercício funcional, devendo:",
+   "alternativas": [
+    "ser fruídas em até doze meses contados do completamento do primeiro ano",
+    "ser transferidas para o exercício seguinte quando o completamento ocorrer no segundo semestre",
+    "ser fruídas naquele mesmo exercício, ainda que o completamento recaia em dezembro",
+    "ser fruídas no exercício seguinte, junto com as férias daquele ano"
+   ],
+   "correta": 2,
+   "explicacao": "As iniciais devem ser fruídas no PRÓPRIO EXERCÍCIO do completamento, mesmo que este recaia em dezembro, observado o plano. As demais férias são as do ano em curso, com início e término dentro do mesmo exercício.",
+   "tags": [
+    "ferias",
+    "iniciais"
+   ]
+  },
+  {
+   "id": "i36-elab-043",
+   "subtema": "Férias em cursos",
+   "artigo": "I-36-PM — cursos e estágios",
+   "enunciado": "Nos cursos com duração superior a doze meses, o currículo deverá:",
+   "alternativas": [
+    "prever quinze dias de férias por semestre letivo, fracionados por turma",
+    "prever a fruição individualizada das férias, conforme o plano de cada OPM de origem",
+    "dispensar a fruição de férias durante o curso, compensando-a no exercício seguinte",
+    "prever obrigatoriamente um mês para fruição das férias por todo o corpo discente"
+   ],
+   "correta": 3,
+   "explicacao": "Currículos com mais de 12 meses preveem OBRIGATORIAMENTE um mês de férias para todo o corpo discente. Nos cursos de até 11 meses, DEC, DP e OPM controlam rigorosamente a fruição FORA do período letivo.",
+   "tags": [
+    "ferias",
+    "cursos"
+   ]
+  },
+  {
+   "id": "i36-elab-044",
+   "subtema": "Férias em cursos",
+   "artigo": "I-36-PM — recesso escolar",
+   "enunciado": "Nos cursos com recesso escolar, as férias anuais dos alunos deverão ser usufruídas:",
+   "alternativas": [
+    "no recesso, preferencialmente de forma coletiva pelo corpo discente",
+    "após o término do curso, de forma individual, conforme o plano da OPM de origem",
+    "no período letivo, desde que não haja prejuízo às atividades curriculares",
+    "no exercício seguinte ao da conclusão do curso, por determinação da DEC"
+   ],
+   "correta": 0,
+   "explicacao": "As férias são fruídas no RECESSO, preferencialmente de forma COLETIVA. Quem não tiver direito a férias fica apenas dispensado das atividades curriculares e deve ser empregado pelo próprio órgão de ensino em outras atividades.",
+   "tags": [
+    "ferias",
+    "recesso"
+   ]
+  },
+  {
+   "id": "i36-elab-045",
+   "subtema": "Redução de férias",
+   "artigo": "I-36-PM — redução",
+   "enunciado": "As férias do policial militar serão reduzidas de 30 para 20 dias quando, no exercício anterior, houver, considerados em conjunto:",
+   "alternativas": [
+    "mais de 10 não comparecimentos por dispensa do serviço, faltas, ausência e licenças",
+    "mais de 8 não comparecimentos por dispensa do serviço, faltas e licença-prêmio",
+    "mais de 15 não comparecimentos por faltas injustificadas e sanções disciplinares",
+    "mais de 10 não comparecimentos, computada também a licença de saúde do policial"
+   ],
+   "correta": 0,
+   "explicacao": "O gatilho é MAIS DE 10 não comparecimentos no exercício anterior, somando dispensas do serviço, faltas justificadas ou não, ausência, LTS em pessoa da família, licenças sem vencimentos e detenção. A LTS do próprio policial NÃO computa para a redução.",
+   "tags": [
+    "ferias",
+    "reducao"
+   ]
+  },
+  {
+   "id": "i36-elab-046",
+   "subtema": "Redução de férias",
+   "artigo": "I-36-PM — LTS e férias",
+   "enunciado": "Quanto à licença para tratamento de saúde do próprio policial militar e o direito a férias, é correto afirmar que:",
+   "alternativas": [
+    "computa para a redução das férias e também para a perda do direito no ano seguinte",
+    "não computa para a redução, mas gera perda se perdurar por todo o exercício",
+    "computa para a redução, mas nunca acarreta a perda do direito a férias",
+    "não computa nem para a redução nem para a perda, por ser de efetivo exercício"
+   ],
+   "correta": 1,
+   "explicacao": "A LTS do policial NÃO entra no cômputo dos mais de 10 não comparecimentos que reduzem as férias, mas, perdurando ININTERRUPTAMENTE de 1º de janeiro a 31 de dezembro, acarreta a PERDA do direito a férias no ano seguinte.",
+   "tags": [
+    "ferias",
+    "lts"
+   ]
+  },
+  {
+   "id": "i36-elab-047",
+   "subtema": "Perda de férias",
+   "artigo": "I-36-PM — perda",
+   "enunciado": "Acarreta a perda do direito a férias no ano seguinte o afastamento que perdurar, sem interrupção, por todo o exercício, em razão de:",
+   "alternativas": [
+    "dispensas do serviço concedidas por motivo de força maior pelo Comandante",
+    "frequência a curso de formação com duração superior a doze meses",
+    "fruição de licença-prêmio em parcelas sucessivas ao longo de todo o exercício",
+    "cumprimento de prisão cautelar ou de condenação a pena restritiva de liberdade"
+   ],
+   "correta": 3,
+   "explicacao": "Perde as férias quem permanecer todo o exercício, sem interrupção, em suspensão do exercício do cargo, cumprimento de prisão-pena ou de prisões cautelares, licença à policial casada com servidor mandado servir em outra localidade ou em LTS.",
+   "tags": [
+    "ferias",
+    "perda"
+   ]
+  },
+  {
+   "id": "i36-elab-048",
+   "subtema": "Perda de férias",
+   "artigo": "I-36-PM — absolvição",
+   "enunciado": "Policial militar que teve as férias afetadas por prisão cautelar vem a ser absolvido por negativa de autoria. Quanto aos efeitos:",
+   "alternativas": [
+    "terá o tempo contado para todos os fins e será ressarcido, salvo auxílio-reclusão",
+    "terá o tempo contado para todos os fins, vedado qualquer ressarcimento de vencimentos",
+    "não terá o tempo contado, pois a absolvição não retroage aos efeitos administrativos",
+    "terá o tempo contado apenas para fins de férias, sem reflexo em licença-prêmio"
+   ],
+   "correta": 0,
+   "explicacao": "Na suspensão do exercício do cargo e nas prisões cautelares, havendo absolvição por NEGATIVA DE AUTORIA ou INEXISTÊNCIA DO FATO, o tempo é contado para todos os fins e há ressarcimento dos vencimentos, salvo se houve pagamento de auxílio-reclusão.",
+   "tags": [
+    "ferias",
+    "absolvicao"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i36-elab-049",
+   "subtema": "Férias do Aspirante",
+   "artigo": "I-36-PM — Aspirante a Oficial",
+   "enunciado": "As férias do Aspirante a Oficial PM são estabelecidas:",
+   "alternativas": [
+    "pela Diretoria de Pessoal, no primeiro semestre do ano do aspirantado, por portaria",
+    "pela OPM de classificação, conforme o plano anual de férias da Unidade de destino",
+    "pela APMBB, no último ano do curso, limitadas ao período de setembro a novembro",
+    "pelo Comando de Policiamento, após a conclusão do estágio probatório do posto"
+   ],
+   "correta": 2,
+   "explicacao": "A APMBB estabelece as férias do Aspirante no último ano do CFO, limitadas ao período de setembro a novembro. A licença-prêmio não pode ser fruída no aspirantado, mas admite conversão em pecúnia.",
+   "tags": [
+    "ferias",
+    "aspirante"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i36-elab-050",
+   "subtema": "Férias",
+   "artigo": "I-36-PM — fiscalização do PAF",
+   "enunciado": "A fiscalização do cumprimento do Plano Anual de Férias compete aos Comandantes de Companhia e de Batalhão, com atenção especial:",
+   "alternativas": [
+    "ao mês de novembro, para que não restem períodos sem fruição no exercício",
+    "ao mês de janeiro, quando se inicia o novo exercício de fruição",
+    "ao mês de julho, em razão do recesso escolar dos cursos de formação",
+    "ao mês de dezembro, quando se encerra o prazo de alteração do plano"
+   ],
+   "correta": 0,
+   "explicacao": "A fiscalização se intensifica em NOVEMBRO, de modo que os períodos previstos sejam efetivamente fruídos dentro do exercício, já que as férias devem iniciar e terminar no próprio ano.",
+   "tags": [
+    "paf",
+    "novembro"
+   ]
+  },
+  {
+   "id": "i36-elab-051",
+   "subtema": "Convalescença e LTS",
+   "artigo": "I-36-PM — afastamentos por saúde",
+   "enunciado": "Policial militar é atendido na UIS e o Oficial Médico prescreve afastamento de oito dias. Trata-se de:",
+   "alternativas": [
+    "convalescença, concedida pelo Comandante da Unidade por delegação da Diretoria de Pessoal",
+    "licença para tratamento de saúde, concedida pelo Diretor de Pessoal em boletim geral",
+    "dispensa do serviço, concedida pelo Comandante da Companhia do policial militar",
+    "licença para tratamento de saúde, concedida pelo Diretor de Saúde após inspeção"
+   ],
+   "correta": 0,
+   "explicacao": "Até 10 dias, o afastamento é CONVALESCENÇA: o médico da UIS prescreve, indicando prazo e local adequado para a recuperação, e o Cmt da Unidade concede e controla, por delegação da DP, com publicação em boletim interno.",
+   "tags": [
+    "convalescenca",
+    "10-dias"
+   ]
+  },
+  {
+   "id": "i36-elab-052",
+   "subtema": "Convalescença e LTS",
+   "artigo": "I-36-PM — licença para tratamento de saúde",
+   "enunciado": "Necessitando o policial militar de afastamento superior a dez dias ininterruptos por motivo de saúde, o fluxo correto é:",
+   "alternativas": [
+    "a Junta de Saúde concede e o Comandante da Unidade publica em boletim interno",
+    "o médico da UIS concede diretamente, com publicação em boletim interno pela Unidade",
+    "o Comandante da Unidade concede por delegação e comunica a Diretoria de Saúde",
+    "o médico da UIS encaminha à Junta de Saúde, o Diretor de Saúde homologa e a DP concede"
+   ],
+   "correta": 3,
+   "explicacao": "Acima de 10 dias ininterruptos o caso é de LTS: o médico da UIS encaminha o policial à Junta de Saúde, à qual o Comandante o apresenta; o Diretor de Saúde homologa o parecer e o Diretor de Pessoal concede, com publicação em boletim geral.",
+   "tags": [
+    "lts",
+    "fluxo"
+   ]
+  },
+  {
+   "id": "i36-elab-053",
+   "subtema": "Atestado médico civil",
+   "artigo": "I-36-PM — ratificação",
+   "enunciado": "Apresentado atestado médico civil pelo policial militar, é correto afirmar que:",
+   "alternativas": [
+    "o atestado civil de médico da rede pública dispensa qualquer ratificação militar",
+    "o atestado civil somente é aceito se emitido por médico credenciado pela Instituição",
+    "o parecer do médico ou dentista da Polícia Militar prevalece sobre o atestado civil",
+    "o atestado civil é encaminhado diretamente à Junta de Saúde para homologação"
+   ],
+   "correta": 2,
+   "explicacao": "O parecer do médico ou dentista PM PREVALECE sobre atestados civis. O profissional da Instituição pode ratificar, encaminhar o policial a especialista da PM ou não ratificar o atestado apresentado.",
+   "tags": [
+    "atestado-civil",
+    "ratificacao"
+   ]
+  },
+  {
+   "id": "i36-elab-054",
+   "subtema": "Atestado médico civil",
+   "artigo": "I-36-PM — não ratificação",
+   "enunciado": "Não ratificado o atestado civil, os dias não trabalhados pelo policial militar de boa-fé:",
+   "alternativas": [
+    "são compensados com folgas subsequentes, a critério do Comandante da Unidade",
+    "são descontados da remuneração, sem prejuízo da apuração disciplinar do caso",
+    "são cobertos por dispensa do serviço ex officio, justificada pelo Comandante",
+    "são convertidos em falta justificada, computando-se para redução das férias"
+   ],
+   "correta": 2,
+   "explicacao": "Os dias são cobertos por DS ex officio, com justificação sumária pelo Comandante quando o policial estiver de boa-fé. Havendo má-fé, cabe apuração disciplinar e criminal.",
+   "tags": [
+    "ds-ex-officio",
+    "boa-fe"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i36-elab-055",
+   "subtema": "Atendimento na UIS",
+   "artigo": "BG 183/01 — atendimento em UIS",
+   "enunciado": "Recebendo atestado médico civil que o impeça de comparecer ao serviço, o policial militar deverá:",
+   "alternativas": [
+    "aguardar o término do período atestado e apresentar o documento no retorno ao serviço",
+    "encaminhar o atestado por meio eletrônico à Diretoria de Saúde, aguardando a ratificação",
+    "apresentar-se ao Hospital da Polícia Militar, dispensada a passagem pela UIS de sua Unidade",
+    "comunicar o superior e comparecer à UIS de sua OPM ou à mais próxima, ainda que em outro município"
+   ],
+   "correta": 3,
+   "explicacao": "O policial comunica o superior e comparece à UIS de sua OPM ou à mais próxima, mesmo em outro município. Havendo impossibilidade insuperável de deslocamento, o Oficial Médico da OPM ou da UIS mais próxima desloca-se até ele, dentro das possibilidades.",
+   "tags": [
+    "uis",
+    "atestado"
+   ]
+  },
+  {
+   "id": "i36-elab-056",
+   "subtema": "Atendimento na UIS",
+   "artigo": "BG 183/01 — internação em hospital civil",
+   "enunciado": "Internado o policial militar em hospital civil, a regularização de sua situação funcional caberá:",
+   "alternativas": [
+    "ao médico assistente do hospital civil, mediante relatório encaminhado à Diretoria de Saúde",
+    "ao Comandante da Unidade, que regulariza administrativamente após a alta hospitalar",
+    "ao Oficial Médico da UIS, por visita imediata, e, não sendo possível, à JS-3 volante",
+    "à Junta de Saúde-2, em inspeção realizada após a alta do policial militar internado"
+   ],
+   "correta": 2,
+   "explicacao": "A internação é comunicada imediatamente à OPM: o Oficial Médico da UIS faz visita médica imediata e regulariza a situação; estando afastado, o caso vai ao CMed, que providencia JS-3 volante, ou à Divisão de UIS e Saúde Ocupacional da DS.",
+   "tags": [
+    "internacao",
+    "js-3"
+   ]
+  },
+  {
+   "id": "i36-elab-057",
+   "subtema": "Juntas de Saúde",
+   "artigo": "I-36-PM — inspeções",
+   "enunciado": "Quanto à inspeção pela Junta de Saúde, é correto afirmar que:",
+   "alternativas": [
+    "é sempre realizada no Centro Médico, vedada a inspeção fora de suas instalações",
+    "dispensa exame preliminar, bastando o encaminhamento direto pelo interessado",
+    "exige exame preliminar pela UIS e o policial é apresentado pelo seu Comandante",
+    "depende de requerimento do policial militar dirigido ao Diretor de Saúde"
+   ],
+   "correta": 2,
+   "explicacao": "O exame preliminar pela UIS é exigido, e quem apresenta o policial à Junta é o seu COMANDANTE. Havendo impossibilidade de locomoção, o CMed designa JS-3 volante.",
+   "tags": [
+    "junta",
+    "apresentacao"
+   ]
+  },
+  {
+   "id": "i36-elab-058",
+   "subtema": "Juntas de Saúde",
+   "artigo": "I-36-PM — espécies de junta",
+   "enunciado": "Sobre as Juntas de Saúde, é correto afirmar que:",
+   "alternativas": [
+    "a JS-2 é a junta recursal e a JS-4, a junta volante de natureza temporária",
+    "a JS-3 é a junta volante e a JS-4, a junta recursal instalada pelo Comandante Geral",
+    "a JS-1 é a junta volante e a JS-3, a responsável pela avaliação de cursos",
+    "a JS-4 é a junta volante e a JS-1, a junta recursal instalada pelo Diretor de Saúde"
+   ],
+   "correta": 1,
+   "explicacao": "A JS-3 é a junta VOLANTE, de natureza temporária, designada quando há impossibilidade de locomoção; a JS-4 é a junta RECURSAL, instalada pelo Comandante Geral. A JS-1 avalia aptidão para cursos e estágios e a JS-2, a reversão ao serviço ativo.",
+   "tags": [
+    "js-3",
+    "js-4"
+   ]
+  },
+  {
+   "id": "i36-elab-059",
+   "subtema": "Afastamentos por saúde",
+   "artigo": "I-36-PM — reavaliação",
+   "enunciado": "O policial militar que permanecer incapacitado temporariamente ou apto com restrição médica ao serviço policial-militar por mais de 60 dias deverá:",
+   "alternativas": [
+    "permanecer na mesma condição até manifestação do Diretor de Saúde",
+    "ser encaminhado à Diretoria de Pessoal para agregação imediata",
+    "ser reformado, por presunção de incapacidade definitiva ao serviço",
+    "ser submetido a nova inspeção médica ao final desse período"
+   ],
+   "correta": 3,
+   "explicacao": "Ultrapassados 60 dias na condição de incapacitado temporariamente ou apto com restrição, impõe-se NOVA INSPEÇÃO MÉDICA ao final do período. Retorno médico e nova inspeção para o pleno apto não são sinônimos.",
+   "tags": [
+    "60-dias",
+    "inspecao"
+   ]
+  },
+  {
+   "id": "i36-elab-060",
+   "subtema": "Afastamentos por saúde",
+   "artigo": "I-36-PM — prorrogação",
+   "enunciado": "Nas prorrogações de licença para tratamento de saúde, o novo período será contado:",
+   "alternativas": [
+    "a partir da data da inspeção médica que reconheceu a necessidade da prorrogação",
+    "a partir do dia seguinte ao último dia da licença anteriormente concedida",
+    "a partir da publicação da prorrogação em boletim geral pela Diretoria de Pessoal",
+    "a partir do primeiro dia útil seguinte ao término da licença em fruição"
+   ],
+   "correta": 1,
+   "explicacao": "A prorrogação conta sempre do DIA SEGUINTE ao último dia da licença anterior. Havendo necessidade de o policial permanecer baixado ao hospital ou à enfermaria, a concessão deve englobar esse período.",
+   "tags": [
+    "prorrogacao",
+    "contagem"
+   ]
+  },
+  {
+   "id": "i36-elab-061",
+   "subtema": "Afastamentos por saúde",
+   "artigo": "I-36-PM — agregação por saúde",
+   "enunciado": "Será agregado o policial militar que, por licenças de saúde originadas do mesmo fato e com relação de causa e efeito entre si, ficar impossibilitado de prestar serviço por prazo ininterrupto superior a:",
+   "alternativas": [
+    "6 meses",
+    "3 meses",
+    "1 ano",
+    "2 anos"
+   ],
+   "correta": 0,
+   "explicacao": "A agregação ocorre quando o afastamento ininterrupto ultrapassa 6 MESES, considerando licenças com o mesmo fato gerador e nexo entre si. Se a origem for o serviço, a função ou doença profissional, essa agregação não interrompe o bloco aquisitivo de licença-prêmio.",
+   "tags": [
+    "agregacao",
+    "6-meses"
+   ]
+  },
+  {
+   "id": "i36-elab-062",
+   "subtema": "Afastamentos por saúde",
+   "artigo": "I-36-PM — registro e abrangência",
+   "enunciado": "Quanto ao registro dos afastamentos de saúde e sua abrangência, é correto afirmar que:",
+   "alternativas": [
+    "apenas as licenças concedidas pela Junta são registradas no sistema da Diretoria de Saúde",
+    "os afastamentos odontológicos seguem regime próprio, distinto do regime médico",
+    "os afastamentos, originários ou por ratificação, são registrados no Sistema Perícias",
+    "o registro é feito exclusivamente pela UIS responsável pela OPM do policial militar"
+   ],
+   "correta": 2,
+   "explicacao": "Todos os afastamentos de saúde, originários ou por ratificação, são registrados pelo Oficial de Saúde no Sistema Perícias da DS, ainda que o policial seja de outra OPM, caso em que se oficia à UIS responsável para atualizar o prontuário. O regime alcança também os afastamentos odontológicos.",
+   "tags": [
+    "sistema-pericias",
+    "odontologico"
+   ]
+  },
+  {
+   "id": "i36-elab-063",
+   "subtema": "LTS de familiar",
+   "artigo": "I-36-PM — licença para tratar de familiar",
+   "enunciado": "Quanto ao processamento da licença para tratamento de saúde em pessoa da família, é correto afirmar que:",
+   "alternativas": [
+    "o pedido é dirigido ao Comandante da Unidade, que o remete à Diretoria de Saúde",
+    "o policial requer diretamente ao Diretor de Pessoal, instruindo com relatório do médico da UIS",
+    "o pedido é dirigido ao Subcomandante PM, com parecer prévio do Comando de Policiamento",
+    "o policial requer à Junta de Saúde, que decide sobre a concessão em cinco dias"
+   ],
+   "correta": 1,
+   "explicacao": "O requerimento vai DIRETAMENTE ao Diretor de Pessoal, instruído com relatório do médico da UIS sobre o familiar. A Junta emite parecer em 5 dias do protocolo na DP, encaminha ao Diretor de Saúde em 3 dias, este homologa e o Diretor de Pessoal concede.",
+   "tags": [
+    "ltsf",
+    "requerimento"
+   ]
+  },
+  {
+   "id": "i36-elab-064",
+   "subtema": "LTS de familiar",
+   "artigo": "I-36-PM — critérios da decisão",
+   "enunciado": "Na decisão sobre a licença para tratamento de saúde em pessoa da família, a autoridade levará em conta:",
+   "alternativas": [
+    "o tempo de serviço do policial militar e o seu comportamento disciplinar",
+    "exclusivamente os aspectos médicos apurados na inspeção do familiar",
+    "além dos aspectos médicos, os de natureza social do caso concreto",
+    "a existência de outros familiares aptos a prestar assistência ao doente"
+   ],
+   "correta": 2,
+   "explicacao": "A decisão considera os aspectos MÉDICOS e também os de natureza SOCIAL, o que diferencia essa licença das demais decisões estritamente periciais.",
+   "tags": [
+    "ltsf",
+    "social"
+   ]
+  },
+  {
+   "id": "i36-elab-065",
+   "subtema": "LTS de familiar",
+   "artigo": "I-36-PM — remuneração",
+   "enunciado": "Quanto à remuneração na licença para tratamento de saúde em pessoa da família, é correto afirmar que:",
+   "alternativas": [
+    "a remuneração é integral durante toda a licença, inclusive após a agregação",
+    "a remuneração é integral nos seis primeiros meses e cessa a partir do sétimo mês",
+    "a redução é de metade dos vencimentos desde o primeiro dia de afastamento",
+    "o primeiro mês é integral, reduzindo-se um terço até três meses e dois terços até seis"
+   ],
+   "correta": 3,
+   "explicacao": "O escalonamento é: 1º mês integral; de um a três meses, redução de 1/3; de três a seis meses, redução de 2/3; ultrapassados seis meses CONTÍNUOS, agregação com 2/3 dos vencimentos.",
+   "tags": [
+    "ltsf",
+    "remuneracao"
+   ]
+  },
+  {
+   "id": "i36-elab-066",
+   "subtema": "LTS de familiar",
+   "artigo": "I-36-PM — agregação e reserva",
+   "enunciado": "Agregado o policial militar por licença para tratar da saúde de familiar por prazo superior a seis meses, completando dois anos seguidos de agregação:",
+   "alternativas": [
+    "retornará obrigatoriamente ao serviço ativo, cessando a licença por decurso de prazo",
+    "permanecerá agregado até a alta do familiar, sem limite temporal previsto",
+    "será reformado por incapacidade definitiva, mediante inspeção da Junta de Saúde",
+    "será transferido para a reserva ex officio, com proventos proporcionais a 35 anos"
+   ],
+   "correta": 3,
+   "explicacao": "Completados 2 anos SEGUIDOS de agregação, vem a reserva ex officio com vencimentos e vantagens proporcionais a 35 anos de serviço. Durante a agregação, os vencimentos correspondem a 2/3.",
+   "tags": [
+    "ltsf",
+    "reserva"
+   ]
+  },
+  {
+   "id": "i36-elab-067",
+   "subtema": "LTS de familiar",
+   "artigo": "I-36-PM — soma dos períodos",
+   "enunciado": "Para efeito de redução dos vencimentos na licença para tratar de familiar, somam-se as licenças concedidas:",
+   "alternativas": [
+    "no período de 24 meses, computando-se apenas as licenças contínuas concedidas",
+    "no período de 12 meses do exercício, apenas quando houver o mesmo fato gerador",
+    "desde o ingresso do policial militar na Instituição, independentemente do intervalo",
+    "no período de 20 meses da primeira concessão, ainda que por fatos geradores distintos"
+   ],
+   "correta": 3,
+   "explicacao": "Somam-se, contínuas ou descontínuas, todas as licenças concedidas no período de 20 MESES contados da primeira concessão, ainda que por fatos geradores distintos. Pelo mesmo fato gerador, e enquanto não houver agregação, a soma não pode ultrapassar 20 meses.",
+   "tags": [
+    "ltsf",
+    "20-meses"
+   ]
+  },
+  {
+   "id": "i36-elab-068",
+   "subtema": "LTS de familiar",
+   "artigo": "I-36-PM — prorrogação",
+   "enunciado": "O pedido de prorrogação da licença para tratamento de saúde em pessoa da família deve ser protocolado na Diretoria de Pessoal com antecedência mínima de:",
+   "alternativas": [
+    "10 dias do término da licença em fruição",
+    "5 dias do término da licença em fruição",
+    "20 dias do término da licença em fruição",
+    "30 dias do término da licença em fruição"
+   ],
+   "correta": 0,
+   "explicacao": "A antecedência mínima é de 10 DIAS. Indeferida a prorrogação, o Comandante providencia o retorno imediato do policial ao serviço após o término da licença, regularizando-se com DS ex officio eventual período não ratificado.",
+   "tags": [
+    "ltsf",
+    "prorrogacao"
+   ]
+  },
+  {
+   "id": "i36-elab-069",
+   "subtema": "LTS de familiar",
+   "artigo": "I-36-PM — familiares alcançados",
+   "enunciado": "A licença para tratamento de saúde em pessoa da família alcança:",
+   "alternativas": [
+    "somente o cônjuge e os parentes de 1º grau, assim considerados pais e filhos",
+    "o cônjuge e os parentes até o 2º grau, incluídos enteados, netos e avós",
+    "o cônjuge, os parentes até o 3º grau e os afins em linha reta do policial militar",
+    "somente os dependentes previamente cadastrados no assentamento individual"
+   ],
+   "correta": 1,
+   "explicacao": "A licença alcança cônjuge e parentes até o 2º grau: pais, avós, filhos, enteados, irmãos e netos. Não é exigido tempo mínimo de serviço do policial nem se limita a parentes de 1º grau.",
+   "tags": [
+    "ltsf",
+    "familiares"
+   ]
+  },
+  {
+   "id": "i36-elab-070",
+   "subtema": "Luto",
+   "artigo": "I-36-PM c/c Estatuto, art. 78",
+   "enunciado": "Falecendo a avó que criou o policial militar, o afastamento por luto corresponderá a:",
+   "alternativas": [
+    "8 dias, por equiparação à figura materna comprovada documentalmente",
+    "5 dias, período único aplicável a todos os graus de parentesco",
+    "2 dias, conforme o grau de parentesco previsto para avós e netos",
+    "nenhum afastamento, por não se tratar de parente em linha reta de 1º grau"
+   ],
+   "correta": 2,
+   "explicacao": "São 8 dias para cônjuge ou companheiro, filhos, pais e irmãos; e 2 DIAS para avós, netos, sogros, padrasto ou madrasta. A relação afetiva de criação não altera o período previsto.",
+   "tags": [
+    "luto",
+    "2-dias"
+   ]
+  },
+  {
+   "id": "i36-elab-071",
+   "subtema": "Luto",
+   "artigo": "I-36-PM — início e concomitância",
+   "enunciado": "Ocorrendo dois falecimentos que gerem direito a luto em datas próximas, as Instruções estabelecem que:",
+   "alternativas": [
+    "o segundo período inicia somente após o término integral do primeiro afastamento",
+    "cada período tem concessão e início na data do respectivo falecimento, com sobreposição",
+    "apenas o afastamento de maior duração será concedido, absorvendo-se o outro",
+    "o segundo período é convertido em dispensa do serviço pelo Comandante da Unidade"
+   ],
+   "correta": 1,
+   "explicacao": "Na concomitância de falecimentos, cada luto tem concessão e início na data do respectivo falecimento, ocorrendo SOBREPOSIÇÃO de fruição. O início conta do dia do falecimento ou, se o policial já trabalhou e está de folga, da zero hora do dia seguinte.",
+   "tags": [
+    "luto",
+    "concomitancia"
+   ]
+  },
+  {
+   "id": "i36-elab-072",
+   "subtema": "Licença-gestante",
+   "artigo": "I-36-PM — antecipação",
+   "enunciado": "A antecipação da licença-gestante é possível a partir da 32ª semana de gestação, competindo a concessão:",
+   "alternativas": [
+    "ao Diretor de Pessoal, mediante requerimento instruído com relatório médico",
+    "ao Comandante da OPM, após parecer da Junta homologado pelo Diretor de Saúde",
+    "ao Diretor de Saúde, que homologa o parecer e concede o afastamento",
+    "à Junta de Saúde, que concede diretamente no ato da inspeção da gestante"
+   ],
+   "correta": 1,
+   "explicacao": "Na antecipação, o médico da UIS acompanha a gestação, a Junta inspeciona e emite parecer, o Diretor de Saúde homologa e o COMANDANTE DA OPM concede. Sem antecipação, a policial requer ao Comandante em 15 dias do nascimento, com a certidão, dispensada inspeção.",
+   "tags": [
+    "licenca-gestante",
+    "32-semana"
+   ]
+  },
+  {
+   "id": "i36-elab-073",
+   "subtema": "Licença-gestante",
+   "artigo": "I-36-PM — intercorrências",
+   "enunciado": "Ocorrendo o falecimento da criança durante a fruição da licença-gestante concedida após parto com vida:",
+   "alternativas": [
+    "a licença é interrompida de imediato, com retorno da policial militar ao serviço",
+    "a licença é convertida em luto, pelo período de oito dias, a contar do óbito",
+    "a policial permanece fruindo o restante dos 180 dias, admitida a desistência",
+    "a licença é suspensa e convertida em licença para tratamento de saúde"
+   ],
+   "correta": 2,
+   "explicacao": "Havendo nascimento com vida, a licença permanece pelos 180 dias, ainda que a criança venha a falecer, nada impedindo a desistência da licenciada ou a inspeção ex officio que a considere apta. No abortamento cabe LTS, e no natimorto, luto.",
+   "tags": [
+    "licenca-gestante",
+    "falecimento"
+   ]
+  },
+  {
+   "id": "i36-elab-074",
+   "subtema": "Licença-paternidade",
+   "artigo": "I-36-PM — licença-paternidade",
+   "enunciado": "Nascendo dois filhos do policial militar na mesma data, de uma mesma gestação, a licença-paternidade corresponderá a:",
+   "alternativas": [
+    "uma única licença de 5 dias, independentemente do número de nascimentos",
+    "duas licenças de 5 dias, fruídas sucessivamente a partir do nascimento",
+    "uma licença de 10 dias, pelo dobro do período previsto na norma",
+    "uma licença de 5 dias, prorrogável por mais 5 a critério do Comandante"
+   ],
+   "correta": 0,
+   "explicacao": "Na ocorrência de nascimento de mais de um filho na mesma data, concede-se APENAS UMA licença-paternidade de 5 dias. Situação diversa é a de filhos de mães diferentes nascidos em datas distintas: a segunda licença inicia após o término da primeira.",
+   "tags": [
+    "licenca-paternidade",
+    "gemeos"
+   ]
+  },
+  {
+   "id": "i36-elab-075",
+   "subtema": "Doação de sangue",
+   "artigo": "I-36-PM — doação de sangue",
+   "enunciado": "Quanto à dispensa por doação de sangue, é correto afirmar que:",
+   "alternativas": [
+    "equipara-se à dispensa do serviço para todos os efeitos legais previstos no RDPM",
+    "limita-se a seis por ano, como a dispensa do serviço, com intervalo mínimo de 30 dias",
+    "independe de autorização prévia, bastando a apresentação posterior do atestado",
+    "limita-se a três por ano, com intervalo mínimo de 60 dias para homens e 90 para mulheres"
+   ],
+   "correta": 3,
+   "explicacao": "O limite é de 3 dispensas por ano, com intervalo mínimo de 60 dias entre elas para homens e 90 para mulheres, mediante prévia permissão do comandante imediato no nível de Cmt de Cia ou superior. A dispensa NÃO se equipara à DS nem à DR e é de efetivo exercício.",
+   "tags": [
+    "doacao-sangue",
+    "limites"
+   ]
+  },
+  {
+   "id": "i36-elab-076",
+   "subtema": "Doação de sangue",
+   "artigo": "I-36-PM — comprovação",
+   "enunciado": "Após a doação de sangue, o policial militar deve apresentar o atestado fornecido pelo banco de sangue:",
+   "alternativas": [
+    "no primeiro dia em que comparecer ao serviço, sob pena de falta ao serviço",
+    "no prazo de cinco dias úteis, contados da data da doação realizada",
+    "no retorno do próximo período de férias, para regularização em boletim",
+    "somente quando solicitado pelo Comandante da Companhia a que pertence"
+   ],
+   "correta": 0,
+   "explicacao": "O atestado é apresentado no 1º DIA em que o policial comparecer ao serviço após a doação, sob pena de o dia ser considerado falta ao serviço, com enquadramento no RDPM. A doação deve ocorrer em banco estatal, paraestatal ou conveniado.",
+   "tags": [
+    "doacao-sangue",
+    "atestado"
+   ]
+  },
+  {
+   "id": "i36-elab-077",
+   "subtema": "Trânsito",
+   "artigo": "I-36-PM — trânsito",
+   "enunciado": "Quanto ao afastamento de trânsito, é correto afirmar que o coletivo decorre:",
+   "alternativas": [
+    "da mudança da sede da própria OPM ou fração para outro município",
+    "da classificação individual do policial militar para preencher claro no QPO",
+    "da movimentação a pedido do policial militar, por conveniência própria",
+    "da designação para curso ou estágio realizado em outro município"
+   ],
+   "correta": 0,
+   "explicacao": "O trânsito COLETIVO decorre da mudança da sede da OPM ou fração para outro município, sendo concedido gradativamente ao efetivo no período de 365 dias após a publicação. O individual decorre de classificação ou transferência por conveniência do serviço.",
+   "tags": [
+    "transito",
+    "coletivo"
+   ]
+  },
+  {
+   "id": "i36-elab-078",
+   "subtema": "Trânsito",
+   "artigo": "I-36-PM — trânsito",
+   "enunciado": "O direito ao afastamento de trânsito decairá se não usufruído no prazo de:",
+   "alternativas": [
+    "180 dias após a publicação da movimentação do policial militar",
+    "30 dias após a apresentação do policial militar na Unidade de destino",
+    "2 anos após a publicação da movimentação do policial militar",
+    "365 dias após a publicação da movimentação do policial militar"
+   ],
+   "correta": 3,
+   "explicacao": "O prazo decadencial é de 365 DIAS após a publicação da movimentação, tanto no trânsito individual quanto no coletivo, este concedido gradativamente ao efetivo nesse mesmo período.",
+   "tags": [
+    "transito",
+    "decadencia"
+   ]
+  },
+  {
+   "id": "i36-elab-079",
+   "subtema": "Trânsito",
+   "artigo": "I-36-PM — duração",
+   "enunciado": "Policial militar é movimentado, por conveniência do serviço, para município distante 160 quilômetros da sede anterior. O afastamento de trânsito será de:",
+   "alternativas": [
+    "3 dias, por se tratar de distância inferior a 200 quilômetros",
+    "8 dias, somados os dias de deslocamento de ida e de retorno",
+    "5 dias, por se tratar de distância superior a 150 quilômetros",
+    "10 dias, por envolver mudança efetiva de residência do policial"
+   ],
+   "correta": 2,
+   "explicacao": "São 3 dias para municípios distantes até 150 km, inclusive, e 5 DIAS para distâncias superiores, consideradas as distâncias oficiais entre os marcos zero dos municípios de origem e de destino.",
+   "tags": [
+    "transito",
+    "150-km"
+   ]
+  },
+  {
+   "id": "i36-elab-080",
+   "subtema": "Trânsito",
+   "artigo": "I-36-PM — concessão",
+   "enunciado": "A concessão do afastamento de trânsito compete ao Comandante, Chefe ou Diretor, no nível de Batalhão ou superior:",
+   "alternativas": [
+    "da Unidade de origem do policial militar movimentado",
+    "da Unidade de destino do policial militar movimentado",
+    "do Comando de Policiamento a que se subordina a Unidade de origem",
+    "da Diretoria de Pessoal, que publica a movimentação em boletim geral"
+   ],
+   "correta": 1,
+   "explicacao": "A concessão é da Unidade de DESTINO. À OPM de origem cabe solicitar a requisição de transporte e bagagem; a ajuda de custo é encaminhada ao CIAF pela OPM de destino.",
+   "tags": [
+    "transito",
+    "destino"
+   ]
+  },
+  {
+   "id": "i36-elab-081",
+   "subtema": "Trânsito",
+   "artigo": "I-36-PM — finalidade",
+   "enunciado": "O afastamento de trânsito somente será concedido para que o policial militar possa:",
+   "alternativas": [
+    "organizar a entrega de carga e a documentação funcional na Unidade de origem",
+    "apresentar-se na nova Unidade dentro do prazo fixado na publicação da movimentação",
+    "transferir efetivamente sua residência para o município sede da OPM de destino",
+    "cumprir período de adaptação nas novas funções atribuídas na Unidade de destino"
+   ],
+   "correta": 2,
+   "explicacao": "O trânsito existe para a efetiva TRANSFERÊNCIA DE RESIDÊNCIA para o município sede da OPM em que o policial irá servir. Não cabe quando a movimentação for por conveniência própria.",
+   "tags": [
+    "transito",
+    "residencia"
+   ]
+  },
+  {
+   "id": "i36-elab-082",
+   "subtema": "Trânsito",
+   "artigo": "I-36-PM — hipóteses de não concessão",
+   "enunciado": "NÃO será concedido o afastamento de trânsito quando a movimentação for:",
+   "alternativas": [
+    "por efeito de reversão ao serviço ativo, nomeação, reintegração ou substituição",
+    "por conveniência do serviço, para preenchimento de claro no quadro de organização",
+    "para Unidade sediada em município distante mais de 150 quilômetros da origem",
+    "determinada de ofício pelo Comando de Policiamento, com mudança de sede"
+   ],
+   "correta": 0,
+   "explicacao": "Não há trânsito em movimentação temporária, por reversão, nomeação, reintegração ou substituição, para frequência a cursos ou estágios, nem no estágio probatório de 2º Tenentes do QOS, Aspirantes e Soldados de 2ª classe.",
+   "tags": [
+    "transito",
+    "vedacoes"
+   ]
+  },
+  {
+   "id": "i36-elab-083",
+   "subtema": "Trânsito",
+   "artigo": "I-36-PM — revogação da movimentação",
+   "enunciado": "Revogada a movimentação que gerou o trânsito, quando o policial militar já se encontra no último dia de fruição:",
+   "alternativas": [
+    "o afastamento é interrompido e os dias não trabalhados ficam cobertos por DS ex officio",
+    "o afastamento é cancelado e os dias fruídos são descontados da remuneração",
+    "o afastamento prossegue até o término, por já ter iniciado regularmente a fruição",
+    "o afastamento é convertido em férias, mediante alteração do plano anual da Unidade"
+   ],
+   "correta": 0,
+   "explicacao": "O trânsito não iniciado é cancelado e o já iniciado é imediatamente interrompido quando a movimentação é revogada ou retificada para OPM que não exija mudança de sede, salvo no último dia de fruição, hipótese em que se cobrem os dias com DS ex officio.",
+   "tags": [
+    "transito",
+    "revogacao"
+   ]
+  },
+  {
+   "id": "i36-elab-084",
+   "subtema": "Núpcias",
+   "artigo": "I-36-PM — núpcias",
+   "enunciado": "Quanto ao afastamento por núpcias, é correto afirmar que:",
+   "alternativas": [
+    "são 10 dias, contados do primeiro dia útil seguinte ao da celebração civil",
+    "são 5 dias, devendo o policial requerer no mínimo 15 dias antes do casamento",
+    "são 8 dias, com requerimento apresentado no primeiro dia útil após a cerimônia",
+    "são 8 dias, devendo o policial requerer no mínimo 30 dias antes do casamento"
+   ],
+   "correta": 3,
+   "explicacao": "São 8 dias, com requerimento no mínimo 30 DIAS antes, para permitir a adequação das escalas. A fruição inicia às 00h00min do dia da celebração do casamento civil e a certidão é encaminhada no dia seguinte ao término.",
+   "tags": [
+    "nupcias",
+    "30-dias"
+   ]
+  },
+  {
+   "id": "i36-elab-085",
+   "subtema": "Núpcias",
+   "artigo": "I-36-PM — união estável",
+   "enunciado": "Policial militar que fruiu núpcias em razão de união estável registrada em cartório converte, depois, essa união em casamento com a mesma pessoa. Quanto a novo afastamento:",
+   "alternativas": [
+    "terá direito a novo período de oito dias, por se tratar de ato jurídico distinto",
+    "não terá direito, pois o benefício já foi fruído em razão da primeira união",
+    "terá direito a metade do período, por se tratar de conversão do mesmo vínculo",
+    "terá direito a novo período apenas se decorridos cinco anos da primeira fruição"
+   ],
+   "correta": 1,
+   "explicacao": "A união estável equipara-se ao casamento, com fruição a partir da data da certidão registrada. A conversão posterior em casamento, entre as MESMAS PESSOAS, só gera direito se o policial não houver fruído o benefício na primeira união.",
+   "tags": [
+    "nupcias",
+    "uniao-estavel"
+   ]
+  },
+  {
+   "id": "i36-elab-086",
+   "subtema": "Missão e estudos",
+   "artigo": "I-36-PM — missão, congresso e estudos",
+   "enunciado": "A licença para missão ou estudos de interesse do serviço e a participação em congressos e certames técnicos exigem, entre outros requisitos:",
+   "alternativas": [
+    "agregação prévia do policial militar, por se tratar de inatividade temporária",
+    "custeio integral pelo policial militar e realização fora do horário de expediente",
+    "interesse institucional, relação com as atribuições e compartilhamento do conhecimento",
+    "conclusão de curso de especialização na mesma área nos últimos cinco anos"
+   ],
+   "correta": 2,
+   "explicacao": "Além do interesse público, exige-se relação direta com as atribuições do cargo, uso e compartilhamento do conhecimento com os demais policiais e ausência de prejuízo ao serviço. O pedido deve indicar a responsabilidade pelos custos e se há curso similar na PMESP.",
+   "tags": [
+    "missao",
+    "requisitos"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i36-elab-087",
+   "subtema": "Missão e estudos",
+   "artigo": "OS PM1-01/02/24 c/c Res. SSP-46/23",
+   "enunciado": "Quanto aos prazos de protocolo do processo de afastamento para missão ou estudos, é correto afirmar que:",
+   "alternativas": [
+    "é protocolado diretamente no Gabinete do Secretário de Governo do Estado",
+    "entra no EM/PM com 10 dias de antecedência, em qualquer destino do afastamento",
+    "é protocolado na Div RH da DP com 5 dias de antecedência da data do embarque",
+    "entra no EM/PM com 25 dias de antecedência no país e 45 dias no exterior"
+   ],
+   "correta": 3,
+   "explicacao": "A entrada no EM/PM ocorre 25 dias antes do embarque para afastamento dentro do país e 45 dias antes para fora dele; na Div RH da DP, o protocolo é de 20 e 40 dias, respectivamente. O Subcomandante PM autoriza a deflagração.",
+   "tags": [
+    "missao",
+    "prazos"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i36-elab-088",
+   "subtema": "Missão e estudos",
+   "artigo": "I-36-PM — prestação de contas",
+   "enunciado": "Concluído o afastamento para missão ou estudos, o policial militar deve apresentar relatório, atestado de participação e certificado de frequência no prazo de 30 dias corridos, sob pena de:",
+   "alternativas": [
+    "desconto nos vencimentos, considerando-se os dias como faltas injustificadas",
+    "instauração de procedimento disciplinar por descumprimento de norma interna",
+    "devolução integral das diárias e passagens custeadas pela Administração",
+    "impedimento de novo afastamento da mesma natureza pelo prazo de dois anos"
+   ],
+   "correta": 0,
+   "explicacao": "A não entrega da documentação acarreta DESCONTO NOS VENCIMENTOS correspondentes aos dias de afastamento, que passam a ser considerados FALTAS INJUSTIFICADAS.",
+   "tags": [
+    "missao",
+    "prestacao-contas"
+   ]
+  },
+  {
+   "id": "i36-elab-089",
+   "subtema": "Competição desportiva",
+   "artigo": "I-36-PM — competição desportiva",
+   "enunciado": "Policial militar autorizado a participar de competição desportiva representando o Estado em prova oficial:",
+   "alternativas": [
+    "afasta-se sem prejuízo dos vencimentos apenas se for atleta federado da modalidade",
+    "afasta-se com prejuízo dos vencimentos, contando o período como efetivo exercício",
+    "afasta-se sem prejuízo dos vencimentos, sendo o período de efetivo exercício",
+    "afasta-se com prejuízo dos vencimentos e do cômputo do tempo de serviço"
+   ],
+   "correta": 2,
+   "explicacao": "Representando o Estado ou o País em competição OFICIAL, o afastamento é sem prejuízo dos vencimentos. Nos demais casos, ocorre com prejuízo dos vencimentos, mas o período conta como efetivo exercício.",
+   "tags": [
+    "desportiva",
+    "vencimentos"
+   ]
+  },
+  {
+   "id": "i36-elab-090",
+   "subtema": "Competição desportiva",
+   "artigo": "I-36-PM — abrangência",
+   "enunciado": "Quanto à participação do policial militar em competições desportivas, é correto afirmar que:",
+   "alternativas": [
+    "alcança a atuação como atleta, técnico, árbitro e funções correlatas do evento",
+    "alcança apenas a atuação como atleta, vedado o afastamento para funções técnicas",
+    "alcança apenas modalidades olímpicas reconhecidas pelo comitê nacional",
+    "alcança apenas competições realizadas dentro do território do Estado"
+   ],
+   "correta": 0,
+   "explicacao": "A participação não se limita ao atleta: alcança também técnico, árbitro e funções correlatas. O afastamento é precedido de solicitação das autoridades promotoras, da federação ou do próprio policial militar.",
+   "tags": [
+    "desportiva",
+    "abrangencia"
+   ]
+  },
+  {
+   "id": "i36-elab-091",
+   "subtema": "Licenças sem vencimentos",
+   "artigo": "I-36-PM — LSV",
+   "enunciado": "São espécies de licença sem vencimentos previstas nas I-36-PM:",
+   "alternativas": [
+    "interesse particular, tratamento de saúde de familiar e acompanhamento de cônjuge",
+    "interesse particular, atividade técnica em organização civil e aperfeiçoamento particular",
+    "aperfeiçoamento particular, missão de interesse do serviço e competição desportiva",
+    "interesse particular, atuação em organismo internacional e mandato eletivo"
+   ],
+   "correta": 1,
+   "explicacao": "As três LSV são: tratar de interesse particular; exercer atividade técnica de sua especialidade em organizações civis; e, em caráter particular, aperfeiçoar conhecimentos técnicos ou realizar estudos. Todas geram agregação e não contam como efetivo exercício.",
+   "tags": [
+    "lsv",
+    "especies"
+   ]
+  },
+  {
+   "id": "i36-elab-092",
+   "subtema": "Licenças sem vencimentos",
+   "artigo": "I-36-PM — requisitos",
+   "enunciado": "A licença sem vencimentos somente pode ser pleiteada pelo policial militar que conte com:",
+   "alternativas": [
+    "três anos de efetivo exercício e comportamento mínimo bom",
+    "cinco anos de efetivo exercício na Instituição",
+    "dez anos de efetivo serviço e conclusão do estágio probatório",
+    "quinze anos de efetivo serviço, para qualquer das três espécies"
+   ],
+   "correta": 1,
+   "explicacao": "Exige-se 5 ANOS de efetivo exercício. Indefere-se o pedido se estiver em desacordo com as normas, se o policial responder a processo regular ou judicial, se não tiver ao menos comportamento bom ou se o afastamento for inconveniente ao serviço.",
+   "tags": [
+    "lsv",
+    "5-anos"
+   ]
+  },
+  {
+   "id": "i36-elab-093",
+   "subtema": "Licenças sem vencimentos",
+   "artigo": "I-36-PM — agregação",
+   "enunciado": "Permanecendo o policial militar agregado em licença sem vencimentos por prazo superior a dois anos, consecutivos ou não:",
+   "alternativas": [
+    "permanecerá agregado enquanto durar o motivo que fundamentou o pedido",
+    "será revertido compulsoriamente ao serviço ativo, cessando a licença concedida",
+    "será reformado, por presunção de desinteresse pelo serviço policial-militar",
+    "será transferido para a reserva ex officio, com proventos proporcionais a 35 anos"
+   ],
+   "correta": 3,
+   "explicacao": "Durante as três LSV o policial fica agregado e sem vencimentos; ultrapassados 2 anos, consecutivos ou não, vem a reserva ex officio com vencimentos e vantagens proporcionais a 35 anos de serviço.",
+   "tags": [
+    "lsv",
+    "reserva"
+   ]
+  },
+  {
+   "id": "i36-elab-094",
+   "subtema": "Licenças sem vencimentos",
+   "artigo": "I-36-PM — início e caducidade",
+   "enunciado": "Publicada a concessão da licença sem vencimentos, o policial militar deve iniciar o gozo no prazo de:",
+   "alternativas": [
+    "15 dias, sob pena de caducidade do pedido formulado",
+    "5 dias, sob pena de indeferimento do pedido pelo Diretor de Pessoal",
+    "30 dias, sob pena de arquivamento do processo administrativo",
+    "60 dias, prorrogáveis mediante requerimento fundamentado"
+   ],
+   "correta": 0,
+   "explicacao": "São 15 DIAS para iniciar o gozo, sob pena de caducidade. Enquanto aguarda a concessão, o policial permanece trabalhando e pode manter a funcional para portar arma particular.",
+   "tags": [
+    "lsv",
+    "caducidade"
+   ]
+  },
+  {
+   "id": "i36-elab-095",
+   "subtema": "Licenças sem vencimentos",
+   "artigo": "I-36-PM — prorrogação e reversão",
+   "enunciado": "Quanto à prorrogação da licença sem vencimentos e à reversão do policial militar, é correto afirmar que:",
+   "alternativas": [
+    "a reversão ocorre obrigatoriamente na mesma OPM em que o policial servia antes",
+    "o pedido de prorrogação pode ser formulado até o último dia da agregação em curso",
+    "a reversão dispensa inspeção de saúde, bastando a apresentação na OPM de origem",
+    "o pedido de prorrogação entra no protocolo com 60 dias de antecedência do término"
+   ],
+   "correta": 3,
+   "explicacao": "A prorrogação entra na Div Rec Hum - DP/2 com pelo menos 60 dias de antecedência. Não publicada até o último dia da agregação, o policial apresenta-se no dia subsequente. A reversão passa pelo CMed, com inspeção pela JS-2, e a classificação pode ocorrer em qualquer OPM.",
+   "tags": [
+    "lsv",
+    "prorrogacao"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i36-elab-096",
+   "subtema": "Licenças sem vencimentos",
+   "artigo": "I-36-PM — vedações",
+   "enunciado": "Durante a fruição de licença sem vencimentos, é vedado ao policial militar:",
+   "alternativas": [
+    "assumir cargo, emprego ou função pública de qualquer natureza e esfera de poder",
+    "exercer atividade remunerada na iniciativa privada, ainda que na sua especialidade",
+    "residir fora do município sede da OPM a que estava vinculado antes da licença",
+    "matricular-se em curso de pós-graduação sem autorização da Diretoria de Ensino"
+   ],
+   "correta": 0,
+   "explicacao": "É vedada a assunção de cargo, emprego ou função pública, efetivo ou temporário, de qualquer natureza e esfera de poder; o descumprimento gera apuração das responsabilidades civil, penal e administrativa. A atividade privada, em duas das espécies, é justamente o objeto da licença.",
+   "tags": [
+    "lsv",
+    "vedacoes"
+   ]
+  },
+  {
+   "id": "i36-elab-097",
+   "subtema": "Organismo internacional",
+   "artigo": "I-36-PM — organismo internacional",
+   "enunciado": "Quanto ao afastamento para atuar em organismo internacional de que o Brasil participe ou com o qual coopere, é correto afirmar que:",
+   "alternativas": [
+    "é sem prejuízo dos vencimentos, sendo ilimitado o número de prorrogações",
+    "é sem prejuízo dos vencimentos e a prorrogação não pode ultrapassar quatro anos",
+    "é com prejuízo dos vencimentos e a prorrogação não pode ultrapassar dois anos",
+    "é com prejuízo dos vencimentos e não admite qualquer prorrogação do período"
+   ],
+   "correta": 2,
+   "explicacao": "O afastamento é COM PREJUÍZO dos vencimentos, autorizado pelo Secretário de Governo, e o período pode ser prorrogado, não ultrapassando 2 ANOS, consecutivos ou não. O organismo deve descrever a função, o local e o período da designação.",
+   "tags": [
+    "organismo-internacional",
+    "2-anos"
+   ]
+  },
+  {
+   "id": "i36-elab-098",
+   "subtema": "Restrições de saúde",
+   "artigo": "BG 166/06 e BG 232/08 — pareceres",
+   "enunciado": "Das inspeções de saúde podem resultar, entre outros, os seguintes pareceres:",
+   "alternativas": [
+    "apto, apto com restrições, inapto temporário com LTS e inapto definitivo com reforma",
+    "apto, apto com restrições e inapto, hipótese em que o policial é sempre reformado",
+    "apto para o serviço e inapto para o serviço, sem possibilidade de restrição parcial",
+    "apto, apto com restrições e afastado preventivamente, por decisão do Comandante"
+   ],
+   "correta": 0,
+   "explicacao": "Os pareceres possíveis são: apto para o SPM; apto com restrições; apto com restrições ou inapto para curso ou estágio; apto ou inapto para o TAF; inapto temporariamente, com LTS; e inapto definitivamente, com reforma.",
+   "tags": [
+    "restricoes",
+    "pareceres"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i36-elab-099",
+   "subtema": "Restrições de saúde",
+   "artigo": "BG 166/06 — grupos de restrição",
+   "enunciado": "O policial militar com restrição de audição primordial, equilíbrio primordial, exposição ao sol, locais ruidosos, prática de tiro ou visão primordial deverá ser empregado:",
+   "alternativas": [
+    "em atividades operacionais compatíveis, na sede da Unidade",
+    "no policiamento ostensivo, preferencialmente diurno",
+    "somente em atividades administrativas",
+    "na guarda do quartel, em qualquer horário"
+   ],
+   "correta": 2,
+   "explicacao": "Esse grupo de seis restrições (AU, EP, ES, LR, PT e VP) impõe emprego SOMENTE em atividades administrativas. Já as restrições de serviços burocráticos, digitação, escrita à mão, permanência sentado, manipulação de pó, serviços internos e telefonia levam ao policiamento ostensivo.",
+   "tags": [
+    "restricoes",
+    "administrativas"
+   ]
+  },
+  {
+   "id": "i36-elab-100",
+   "subtema": "Restrições de saúde",
+   "artigo": "BG 166/06 — uniforme e apresentação",
+   "enunciado": "Ao policial militar com restrição ao uso de uniformes, ao corte de cabelo ou ao corte de barba aplica-se:",
+   "alternativas": [
+    "atividades administrativas ou de apoio, em uniforme de treinamento com abrigo azul royal",
+    "o emprego no policiamento ostensivo, com uso de uniforme operacional simplificado",
+    "a dispensa do serviço enquanto perdurar a restrição médica ou odontológica imposta",
+    "o emprego em trajes civis, inclusive nas atividades de atendimento ao público"
+   ],
+   "correta": 0,
+   "explicacao": "Nessas três restrições o policial cumpre o expediente em uniforme de treinamento físico com abrigo azul royal, em atividades administrativas ou de apoio, VEDADO o emprego no atendimento ao público. Com restrição ao uso de calçados, usa sandália de borracha preta, sem estampas.",
+   "tags": [
+    "restricoes",
+    "uniforme"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i36-elab-101",
+   "subtema": "Restrições de saúde",
+   "artigo": "BG 232/08 — serviços externos",
+   "enunciado": "A restrição de serviços externos imposta ao policial militar implica, obrigatoriamente:",
+   "alternativas": [
+    "a restrição ao uso de uniformes dentro e fora da sede de sua OPM",
+    "a restrição ao uso de uniformes fora da sede de sua OPM",
+    "o emprego exclusivo em atividades administrativas, no expediente",
+    "a suspensão do porte de arma de fogo durante o período da restrição"
+   ],
+   "correta": 1,
+   "explicacao": "A restrição de serviços externos (SE) implica obrigatoriamente a restrição ao uso de uniformes (UU) FORA DA SEDE da OPM, pois o deslocamento fardado poderia obrigá-lo a atuar na função policial, contrariando a prescrição médica. O emprego admitido abrange atividades operacionais na Unidade, guarda do quartel e atividades administrativas ou de apoio.",
+   "tags": [
+    "restricao-se",
+    "uu"
+   ]
+  },
+  {
+   "id": "i36-elab-102",
+   "subtema": "Restrições de saúde",
+   "artigo": "BG 166/06 — restrições específicas",
+   "enunciado": "Ao policial militar com restrição ao uso de arma, a norma determina o emprego:",
+   "alternativas": [
+    "armado, apenas em serviços internos da Unidade",
+    "desarmado, em atividades administrativas",
+    "no policiamento ostensivo, com arma de menor potencial ofensivo",
+    "na guarda do quartel, com arma acautelada na reserva"
+   ],
+   "correta": 1,
+   "explicacao": "Com restrição ao uso de arma, o policial DEVE SER DESARMADO e empregado em atividades administrativas. Com restrição a serviços noturnos, trabalha durante o dia em qualquer atividade; com restrição a serviços de guarda, atua preferencialmente no policiamento ostensivo.",
+   "tags": [
+    "restricao-arma",
+    "administrativas"
+   ]
+  },
+  {
+   "id": "i36-elab-103",
+   "subtema": "Restrições de saúde",
+   "artigo": "BG 166/06 — policial militar gestante",
+   "enunciado": "A policial militar gestante recolhida por orientação médica deve ser empregada:",
+   "alternativas": [
+    "em qualquer atividade compatível, inclusive fora da sede da Unidade",
+    "em atividades operacionais diurnas, com uniforme operacional adaptado",
+    "em trajes civis, nas atividades administrativas e de atendimento ao público",
+    "em atividades administrativas, no expediente, com o uniforme peculiar de gestante"
+   ],
+   "correta": 3,
+   "explicacao": "A gestante é empregada em atividades administrativas, no expediente, trajando o uniforme peculiar de gestante. É vedado o deslocamento com esse uniforme fora da sede da OPM e o exercício das atividades em trajes civis.",
+   "tags": [
+    "gestante",
+    "jumper"
+   ]
+  },
+  {
+   "id": "i36-elab-104",
+   "subtema": "Restrições de saúde",
+   "artigo": "BG 166/06 — cursos e estágios",
+   "enunciado": "Considerado apto com restrições para frequentar curso ou estágio, o policial militar terá as atividades curriculares não realizadas:",
+   "alternativas": [
+    "substituídas por trabalho escolar equivalente, a critério do órgão de ensino",
+    "compensadas ao final do curso, mediante avaliação da Junta de Saúde",
+    "dispensadas, sem qualquer reflexo na classificação final do curso",
+    "objeto de desconto de pontos, conforme o regulamento do órgão de ensino"
+   ],
+   "correta": 3,
+   "explicacao": "A atividade curricular não realizada NÃO PODE SER SUBSTITUÍDA por outra atividade, verificação ou trabalho escolar, devendo ser objeto de DESCONTO DE PONTOS conforme a regulamentação e o regimento do órgão de ensino.",
+   "tags": [
+    "restricoes",
+    "cursos"
+   ]
+  },
+  {
+   "id": "i36-elab-105",
+   "subtema": "Restrições de saúde",
+   "artigo": "BG 166/06 — permanência no serviço ativo",
+   "enunciado": "Verificando o Comandante, com base no parecer e na observação continuada do policial militar com restrição, o comprometimento de suas atividades profissionais, deverá:",
+   "alternativas": [
+    "solicitar à Diretoria de Pessoal a movimentação para função exclusivamente administrativa",
+    "encaminhá-lo à Junta de Saúde-4, para revisão recursal do parecer restritivo anterior",
+    "determinar seu afastamento das atividades até a realização de nova inspeção de saúde",
+    "instaurar processo administrativo sobre as condições de permanência no serviço ativo"
+   ],
+   "correta": 3,
+   "explicacao": "A critério do Comandante, Diretor ou Chefe, com base no parecer que impôs a restrição e na observação continuada, que pode incluir investigação sigilosa, deve ser instaurado processo administrativo para verificar as condições de permanência do policial no serviço ativo.",
+   "tags": [
+    "restricoes",
+    "permanencia"
+   ],
+   "revisada": "2026-09-12"
+  }
+ ]
+}

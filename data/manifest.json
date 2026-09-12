@@ -47,6 +47,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "i36-elab",
+      "nome": "I-36-PM",
+      "nomeCompleto": "Emprego do policial militar com restrição, convalescença e licenças (105 questões)",
+      "norma": "I-36-PM",
+      "arquivo": "data/i36-elab.json",
+      "cor": "#4a5b7c",
+      "ativo": true,
+      "ordem": 5,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
