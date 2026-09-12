@@ -1,0 +1,1958 @@
+{
+ "materia": "drone-elab",
+ "versao": "1.6.0",
+ "atualizadoEm": "2026-09-12",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Atribuições CAvPM",
+  "Atribuições ODG",
+  "Atribuições ODS",
+  "Atribuições dos Comandos",
+  "Boas práticas",
+  "Comando e controle",
+  "Conceitos",
+  "Coordenação",
+  "Disposições gerais",
+  "Emprego operacional",
+  "Equipe Drone",
+  "Estrutura do Programa",
+  "Estruturas matriciais",
+  "Evidência digital",
+  "Matrizes operacionais",
+  "Missões",
+  "Monitoramento e controle",
+  "Objetivos",
+  "Programas de policiamento",
+  "Proteção de dados",
+  "Regras do ar",
+  "Requisitos dos UAS",
+  "Seleção e habilitação",
+  "Treinamento"
+ ],
+ "questoes": [
+  {
+   "id": "drone-elab-001",
+   "subtema": "Disposições gerais",
+   "artigo": "Dtz PM3-001/02/25 — Classificação do documento",
+   "enunciado": "Ao distribuir o texto da Diretriz do Programa de Policiamento com Drones para estudo interno, o Coordenador de Operação de UAS precisa orientar o efetivo sobre o tratamento documental do texto. Segundo a própria Diretriz, suas disposições são imprescindíveis à segurança da sociedade e do Estado, devendo ser classificadas, inicialmente, no grau de sigilo",
+   "alternativas": [
+    "ostensivo, ressalvados apenas os seus anexos de ordem técnica",
+    "secreto, por tratar de meios operacionais de natureza sensível",
+    "ultrassecreto, enquanto perdurar a implantação do Programa",
+    "reservado, dada a imprescindibilidade à segurança do Estado"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz declara que suas disposições, por serem imprescindíveis à segurança da sociedade e do Estado, devem ser inicialmente classificadas no grau de sigilo reservado. A pegadinha está na palavra inicialmente: trata-se do grau mínimo de partida, não de classificação superior como secreto ou ultrassecreto.",
+   "tags": [
+    "drone",
+    "disposicoes-gerais",
+    "sigilo"
+   ]
+  },
+  {
+   "id": "drone-elab-002",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — Aeronave Não Tripulada (UA)",
+   "enunciado": "Em aula sobre o Programa de Policiamento com Drones, um oficial afirma que qualquer aparelho capaz de sustentar-se na atmosfera é aeronave não tripulada. A definição trazida pela Diretriz, contudo, exige que a sustentação decorra",
+   "alternativas": [
+    "de sustentação aerodinâmica obtida por asa fixa ou rotativa remota",
+    "de reações do ar contra a superfície da terra, sem piloto a bordo",
+    "exclusivamente de propulsão elétrica com rotores em eixo vertical",
+    "de reações do ar que não sejam as do ar contra a superfície da terra"
+   ],
+   "correta": 3,
+   "explicacao": "A UA é definida como o aparelho que se sustenta na atmosfera a partir de reações do ar que não sejam as reações do ar contra a superfície da terra, e que se pretenda operar sem piloto a bordo. A alternativa que inverte a expressão reproduz exatamente o efeito solo excluído pelo conceito, sendo a pegadinha mais frequente.",
+   "tags": [
+    "drone",
+    "conceitos",
+    "ua"
+   ]
+  },
+  {
+   "id": "drone-elab-003",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — RPA e SUA",
+   "enunciado": "Um Batalhão pretende adquirir aeronave não tripulada empregada com propósitos não recreativos e capaz de interagir com o Controle de Tráfego Aéreo e outras aeronaves em tempo real. Nos termos da Diretriz, tal equipamento se enquadra como",
+   "alternativas": [
+    "SUA, bastando o cadastro na ANAC e a autorização do DECEA para voar",
+    "RPA, exigindo certificação aeronáutica ou projeto autorizado",
+    "UAS, por integrar sensores e estação de pilotagem remota própria",
+    "RPA, dispensada a certificação por se tratar de emprego policial"
+   ],
+   "correta": 1,
+   "explicacao": "A RPA é a aeronave não tripulada de propósitos não recreativos capaz de interagir com o controle de tráfego aéreo em tempo real, para o que deverá possuir certificação aeronáutica ou projeto autorizado. A pegadinha está em supor que o emprego policial dispensa a certificação: a dispensa existe para a SUA, não para a RPA.",
+   "tags": [
+    "drone",
+    "conceitos",
+    "rpa"
+   ]
+  },
+  {
+   "id": "drone-elab-004",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — Small Unmanned Aircraft",
+   "enunciado": "O Comandante de uma Companhia recebeu drone de pequeno porte, sem certificação aeronáutica e sem projeto autorizado, destinado a missões de patrulhamento preventivo. Segundo os conceitos fixados na Diretriz, esse equipamento",
+   "alternativas": [
+    "é RPA, por ser empregado com propósito estritamente não recreativo",
+    "é SUA, dependendo de cadastro na ANAC e de autorização do DECEA",
+    "não pode ser empregado no Programa, por ausência de certificação",
+    "é UA especial, sujeita apenas às regras internas fixadas pelo CAvPM"
+   ],
+   "correta": 1,
+   "explicacao": "A SUA abrange todas as demais aeronaves não tripuladas, recreativas ou não, que dependem de cadastro junto à ANAC e de autorização do DECEA para acesso ao espaço aéreo, sem necessidade de certificação ou projeto autorizado. O erro comum é vincular a subcategoria à finalidade do voo, quando o critério decisivo é a exigência de certificação.",
+   "tags": [
+    "drone",
+    "conceitos",
+    "sua"
+   ]
+  },
+  {
+   "id": "drone-elab-005",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — Sistema de Aeronave Não Tripulada",
+   "enunciado": "Ao descrever o material recebido, o Coordenador de Operação de UAS registra que o sistema é composto pela aeronave e por seus elementos associados. Integram esse conceito de UAS, entre outros,",
+   "alternativas": [
+    "os sistemas de comando e controle instalados na Sala de Operações",
+    "a viatura de apoio, o transceptor aeronáutico e o piloto habilitado",
+    "apenas os componentes embarcados na própria aeronave não tripulada",
+    "a estação de pilotagem remota, os sensores e os enlaces de pilotagem"
+   ],
+   "correta": 3,
+   "explicacao": "O UAS é o sistema composto pela UA e seus elementos associados, como estação de pilotagem remota, sistemas de comunicação, sensores e enlaces de pilotagem. A pegadinha inclui o piloto entre os elementos do sistema: o policial militar integra a Equipe Drone, e não o conceito de UAS.",
+   "tags": [
+    "drone",
+    "conceitos",
+    "uas"
+   ]
+  },
+  {
+   "id": "drone-elab-006",
+   "subtema": "Regras do ar",
+   "artigo": "Dtz PM3-001/02/25 — Operação VLOS",
+   "enunciado": "Durante voo de patrulhamento preventivo, o piloto remoto conduz a aeronave mantendo contato visual direto com ela, sem auxílio de lentes, salvo as corretivas, respondendo pela separação com outras aeronaves e pela prevenção de colisões. Trata-se de operação",
+   "alternativas": [
+    "EVLOS, pela necessidade de observador para a condução do voo",
+    "BVLOS, por ultrapassar o alcance visual do piloto em comando",
+    "VLOS, em linha de visada visual mantida pelo piloto remoto",
+    "VLOS estendida, admitida acima de quatrocentos pés de altura"
+   ],
+   "correta": 2,
+   "explicacao": "A VLOS é a operação em que o piloto remoto mantém contato visual direto com a aeronave, sem auxílio de lentes ou equipamentos, exceto lentes corretivas, cabendo-lhe manter a separação e evitar colisões. A expressão visada estendida corresponde à EVLOS, que pressupõe justamente a perda do contato visual direto.",
+   "tags": [
+    "drone",
+    "regras-do-ar",
+    "vlos"
+   ]
+  },
+  {
+   "id": "drone-elab-007",
+   "subtema": "Regras do ar",
+   "artigo": "Dtz PM3-001/02/25 — Operação EVLOS",
+   "enunciado": "Em operação de busca em área de mata, o piloto remoto, sem auxílio de lentes, deixa de manter contato visual direto com a aeronave e passa a conduzir o voo com o apoio de observador em comunicação permanente. Segundo a Diretriz, essa operação",
+   "alternativas": [
+    "é EVLOS e segue as mesmas regras aplicáveis a uma operação VLOS",
+    "é BVLOS, pois o piloto remoto perdeu o contato visual com a UA",
+    "é vedada, por exigir certificação de operação além da visada",
+    "é VLOS assistida, com responsabilidade transferida ao observador"
+   ],
+   "correta": 0,
+   "explicacao": "Na EVLOS, realizada em condições meteorológicas visuais, o piloto não consegue manter o contato visual direto e necessita do auxílio de observador, seguindo as mesmas regras de uma operação VLOS. A pegadinha sugere transferência de responsabilidade ao observador, que apenas auxilia a condução segura do voo.",
+   "tags": [
+    "drone",
+    "regras-do-ar",
+    "evlos"
+   ]
+  },
+  {
+   "id": "drone-elab-008",
+   "subtema": "Regras do ar",
+   "artigo": "Dtz PM3-001/02/25 — Operação BVLOS",
+   "enunciado": "Certa OPM pretende executar voo em que o piloto remoto não conseguirá manter a aeronave dentro de seu alcance visual, tampouco contará com observador capaz de supri-lo. Essa operação é classificada como",
+   "alternativas": [
+    "VLOS, desde que o voo se mantenha abaixo de quatrocentos pés",
+    "EVLOS, sendo suficiente a presença do policial na função segurança",
+    "BVLOS, por não atender às condições exigidas na VLOS e na EVLOS",
+    "operação aérea especial, dispensada de classificação prévia"
+   ],
+   "correta": 2,
+   "explicacao": "A BVLOS é definida por exclusão: é a operação que não atende às condições VLOS ou EVLOS, em que o piloto remoto não consegue manter a UA dentro de seu alcance visual. O policial na função segurança cuida da segurança física da equipe e não substitui o observador.",
+   "tags": [
+    "drone",
+    "regras-do-ar",
+    "bvlos"
+   ]
+  },
+  {
+   "id": "drone-elab-009",
+   "subtema": "Equipe Drone",
+   "artigo": "Dtz PM3-001/02/25 — Composição da Equipe Drone",
+   "enunciado": "Ao montar a escala de serviço, o Comandante de Companhia questiona qual a composição mínima exigida para a Equipe Drone. Nos termos da Diretriz, a equipe será integrada, no mínimo, por",
+   "alternativas": [
+    "piloto remoto em comando e observador, sendo o segurança preferencial",
+    "piloto remoto em comando e observador, além de dois PM de segurança",
+    "piloto remoto em comando e um policial militar na função segurança",
+    "dois pilotos remotos habilitados, um deles na função de observador"
+   ],
+   "correta": 0,
+   "explicacao": "A Equipe Drone é composta, no mínimo, pelo Piloto Remoto em Comando e pelo Observador de UAS, contando, além disso, preferencialmente, com um policial militar na função de segurança. O advérbio preferencialmente é decisivo: o segurança não integra o núcleo mínimo obrigatório.",
+   "tags": [
+    "drone",
+    "equipe-drone",
+    "composicao"
+   ]
+  },
+  {
+   "id": "drone-elab-010",
+   "subtema": "Equipe Drone",
+   "artigo": "Dtz PM3-001/02/25 — Função segurança",
+   "enunciado": "Na Equipe Drone, a função de segurança, prevista preferencialmente na composição, incumbe a",
+   "alternativas": [
+    "qualquer PM habilitado pelo CAvPM em curso próprio da função segurança",
+    "Cb ou Sd PM, responsável pela segurança física do piloto e do observador",
+    "oficial subalterno designado formalmente pelo Comandante do Batalhão",
+    "sargento da unidade, responsável também pelo transporte do material"
+   ],
+   "correta": 1,
+   "explicacao": "A Diretriz atribui a função de segurança ao Cb ou Sd PM responsável pela segurança física do RPIC e do Observador durante a operação com o drone. A pegadinha é supor curso de especialização para a função: a norma prevê cursos apenas para Piloto Remoto e Observador.",
+   "tags": [
+    "drone",
+    "equipe-drone",
+    "seguranca"
+   ]
+  },
+  {
+   "id": "drone-elab-011",
+   "subtema": "Equipe Drone",
+   "artigo": "Dtz PM3-001/02/25 — Piloto Remoto em Comando",
+   "enunciado": "Durante ocorrência de alto risco, o Comandante do policiamento local determina manobra que o piloto remoto em comando considera incompatível com a segurança do voo. Segundo a Diretriz, o piloto remoto",
+   "alternativas": [
+    "detém autoridade decisória sobre tudo que se relacionar ao UAS em voo",
+    "deve cumprir a determinação, por subordinação ao escalão presente",
+    "deve submeter o impasse ao Coordenador de Operação de UAS da Unidade",
+    "somente pode recusar a manobra se detiver os controles da aeronave"
+   ],
+   "correta": 0,
+   "explicacao": "O RPIC é possuidor de autoridade decisória sobre tudo que se relacionar ao UAS enquanto estiver em voo, respondendo pela condução e navegação segura da aeronave. Essa autoridade não se confunde com a hierarquia do policiamento em solo e independe de quem manuseia os controles.",
+   "tags": [
+    "drone",
+    "equipe-drone",
+    "rpic"
+   ]
+  },
+  {
+   "id": "drone-elab-012",
+   "subtema": "Equipe Drone",
+   "artigo": "Dtz PM3-001/02/25 — Piloto Remoto em Comando",
+   "enunciado": "Em determinada operação, o comando do voo é exercido por um sargento, enquanto os controles de manuseio da aeronave estão com outro integrante da equipe. À luz da Diretriz, essa situação",
+   "alternativas": [
+    "é regular, pois o piloto em comando pode não deter os controles",
+    "é irregular, pois o piloto em comando deve manusear os controles",
+    "é regular apenas se o piloto em comando for oficial da unidade",
+    "é irregular, por exigir que o comando do voo caiba a um oficial"
+   ],
+   "correta": 0,
+   "explicacao": "A norma prevê que o RPIC responde pela condução e navegação segura da aeronave podendo ou não deter os controles de manuseio, e pode ser policial militar de qualquer posto ou graduação. As alternativas que exigem oficial ou manuseio direto criam requisitos inexistentes na Diretriz.",
+   "tags": [
+    "drone",
+    "equipe-drone",
+    "rpic"
+   ]
+  },
+  {
+   "id": "drone-elab-013",
+   "subtema": "Equipe Drone",
+   "artigo": "Dtz PM3-001/02/25 — Observador de UAS",
+   "enunciado": "Em operação noturna, o observador de UAS pretende utilizar binóculo com recurso de visão noturna para acompanhar a aeronave. Nos termos da Diretriz, o acompanhamento visual do observador",
+   "alternativas": [
+    "pode valer-se de qualquer recurso ótico em operações no período noturno",
+    "pode valer-se de equipamentos óticos, desde que homologados pelo CAvPM",
+    "deve ser feito sem auxílio de equipamentos óticos, salvo lentes corretivas",
+    "é dispensável quando o piloto remoto mantiver a aeronave em sua visada"
+   ],
+   "correta": 2,
+   "explicacao": "O Observador auxilia a condução segura do voo pela observação visual da aeronave e do espaço aéreo sem auxílio de equipamentos óticos, exceto lentes corretivas, mantendo comunicação permanente com o RPIC. A restrição é idêntica à imposta ao piloto na VLOS e não comporta exceção noturna.",
+   "tags": [
+    "drone",
+    "equipe-drone",
+    "observador"
+   ]
+  },
+  {
+   "id": "drone-elab-014",
+   "subtema": "Equipe Drone",
+   "artigo": "Dtz PM3-001/02/25 — Certificação das equipes",
+   "enunciado": "A atuação da Equipe Drone, segundo a Diretriz, está condicionada à certificação emitida",
+   "alternativas": [
+    "pela Coordenadoria de Operações, mediante proposta do Cmt do Batalhão",
+    "pelo CAvPM, a quem cabe definir seus parâmetros técnicos e a renovação",
+    "pela 6ª EM/PM, responsável pelos processos operacionais do Programa",
+    "pela Escola de Aviação, após o curso de especialização do piloto"
+   ],
+   "correta": 1,
+   "explicacao": "A Equipe Drone atua mediante certificação emitida pelo CAvPM, que define em documento de Estado-Maior os parâmetros técnicos da certificação e a periodicidade de sua renovação. A Escola de Aviação, embora integre o CAvPM, atua como órgão gestor do conhecimento para habilitação individual, e não para certificar a equipe.",
+   "tags": [
+    "drone",
+    "equipe-drone",
+    "certificacao"
+   ]
+  },
+  {
+   "id": "drone-elab-015",
+   "subtema": "Equipe Drone",
+   "artigo": "Dtz PM3-001/02/25 — Formas de constituição",
+   "enunciado": "A Diretriz prevê que a Equipe Drone consistirá em Unidade de Serviço integrante da Força de Patrulha ou da fração de tropa a que estiver vinculada, podendo ser constituída",
+   "alternativas": [
+    "somente por contingente dedicado exclusivamente ao Programa de Drones",
+    "por integração matricial ou por contingente dedicado exclusivamente",
+    "por integração matricial, vedado o emprego exclusivo no Programa",
+    "por policiais das unidades especializadas, apenas em nível regional"
+   ],
+   "correta": 1,
+   "explicacao": "A norma admite duas formas alternativas: integração matricial dos policiais que compõem outros Programas de Policiamento e Atividades Operacionais Diversas, ou emprego de contingente especialmente dedicado como atividade exclusiva. As alternativas que excluem uma das hipóteses transformam a alternatividade em exclusividade.",
+   "tags": [
+    "drone",
+    "equipe-drone",
+    "matricial"
+   ]
+  },
+  {
+   "id": "drone-elab-016",
+   "subtema": "Equipe Drone",
+   "artigo": "Dtz PM3-001/02/25 — Integração matricial",
+   "enunciado": "Policiais militares do CPAmb integram Equipe Drone por integração matricial. Enquanto não acionados para o emprego do equipamento, esses policiais",
+   "alternativas": [
+    "permanecem de sobreaviso, dispensados das missões de sua própria unidade",
+    "desempenham as missões ordinárias de sua respectiva matriz operacional",
+    "ficam à disposição do Coordenador de Operação de UAS do Batalhão sede",
+    "cumprem escala exclusiva de treinamento fixada pelo Núcleo de Drones"
+   ],
+   "correta": 1,
+   "explicacao": "Na integração matricial, os policiais desempenham as missões ordinárias de sua respectiva Matriz Operacional, mantendo-se em condições de pronto emprego e atuando como Equipe Drone nos locais e horários previstos em plano de ação ou emergencialmente. A pegadinha é imaginar dispensa do serviço ordinário.",
+   "tags": [
+    "drone",
+    "equipe-drone",
+    "matricial"
+   ]
+  },
+  {
+   "id": "drone-elab-017",
+   "subtema": "Equipe Drone",
+   "artigo": "Dtz PM3-001/02/25 — Zelo pelo equipamento",
+   "enunciado": "Quanto ao acondicionamento, ao transporte, à montagem e à utilização do equipamento, considerada a fragilidade e a precisão de muitos de seus mecanismos, a Diretriz atribui o dever de zelo",
+   "alternativas": [
+    "à seção de material bélico da Unidade, na forma da regulamentação",
+    "ao Coordenador de Operação de UAS, que responde pela guarda do material",
+    "às Equipes Drone, que seguirão estritamente as orientações do fabricante",
+    "ao CAvPM, que presta assistência técnica e manutenção dos equipamentos"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz responsabiliza as próprias Equipes Drone pelo zelo do equipamento, devendo seguir estritamente as orientações dos fabricantes. O CAvPM presta assistência técnica e manutenção, o que não transfere para ele o dever cotidiano de zelo.",
+   "tags": [
+    "drone",
+    "equipe-drone",
+    "material"
+   ]
+  },
+  {
+   "id": "drone-elab-018",
+   "subtema": "Treinamento",
+   "artigo": "Dtz PM3-001/02/25 — PTO-Drone",
+   "enunciado": "O documento técnico que visa à padronização das atividades de instrução e treinamento de operações com aeronaves não tripuladas no âmbito da Polícia Militar é o PTO-Drone, elaborado",
+   "alternativas": [
+    "pela Diretoria de Ensino, com o auxílio técnico prestado pelo CAvPM",
+    "pela 6ª EM/PM, em conjunto com os Comandos de Policiamento da área",
+    "pelo CAvPM, conforme a legislação e as publicações dos fabricantes",
+    "pela Coord Op PM, integrando o Guia de Indicadores dos Programas"
+   ],
+   "correta": 2,
+   "explicacao": "O PTO-Drone é documento técnico elaborado pelo CAvPM, de acordo com as normas e procedimentos da legislação em vigor e as publicações editadas pelos fabricantes. A pegadinha inverte os papéis: cabe à DEC auxiliar o CAvPM no desenvolvimento do PTO, e não elaborá-lo.",
+   "tags": [
+    "drone",
+    "treinamento",
+    "pto"
+   ]
+  },
+  {
+   "id": "drone-elab-019",
+   "subtema": "Missões",
+   "artigo": "Dtz PM3-001/02/25 — Missões emergenciais",
+   "enunciado": "Diante de incidente crítico complexo, determinada OPM emprega o drone sem tempo hábil para cumprir os prazos de comunicação prévia ao DECEA. Nessa hipótese, a Diretriz exige que o voo",
+   "alternativas": [
+    "seja precedido de autorização verbal obtida junto ao órgão regional",
+    "seja autorizado previamente pelo Coordenador de Operação de UAS",
+    "se adéque estritamente às limitações operacionais da MCA 56-5",
+    "observe os prazos da ICA 100-40, ainda que com registro posterior"
+   ],
+   "correta": 2,
+   "explicacao": "Nas missões emergenciais, que exigem providências imediatas e inviabilizam os prazos da ICA 100-40, é imperioso que o voo se adéque estritamente às limitações operacionais estabelecidas pela MCA 56-5, para manter os níveis de segurança da atividade aérea. Confundir os dois documentos é o erro clássico.",
+   "tags": [
+    "drone",
+    "missoes",
+    "emergencial"
+   ]
+  },
+  {
+   "id": "drone-elab-020",
+   "subtema": "Missões",
+   "artigo": "Dtz PM3-001/02/25 — Missões programadas",
+   "enunciado": "As missões programadas, por não caracterizarem urgência ou emergência, permitem planejamento com antecedência suficiente para que o DECEA seja informado por meio",
+   "alternativas": [
+    "do SARPAS ou de versão eletrônica posterior, conforme a ICA 100-40",
+    "de ofício do Comandante da OPM dirigido ao órgão regional do DECEA",
+    "do SiCoordOp, plataforma institucional de gestão das operações PM",
+    "do plano de ação aprovado pelo Comando de Policiamento competente"
+   ],
+   "correta": 0,
+   "explicacao": "As missões programadas são informadas ao DECEA pelo Sistema de Autorização para Acesso ao Espaço Aéreo por UAS, o SARPAS, ou versão eletrônica posterior, em conformidade com a ICA 100-40. O SiCoordOp é plataforma interna de informações gerenciais e não se comunica com o órgão de controle do espaço aéreo.",
+   "tags": [
+    "drone",
+    "missoes",
+    "sarpas"
+   ]
+  },
+  {
+   "id": "drone-elab-021",
+   "subtema": "Programas de policiamento",
+   "artigo": "Dtz PM3-001/02/25 — Programas complementares",
+   "enunciado": "Ao classificar o Programa de Policiamento com Drones, o oficial de operações recorda o conceito de Programas de Policiamento Complementares, que abrangem",
+   "alternativas": [
+    "os programas executados exclusivamente por efetivo dedicado",
+    "todos os programas previstos na NORSOP, inclusive a Radiopatrulha",
+    "apenas os programas desenvolvidos por unidades especializadas",
+    "todos os demais programas, exceto Radiopatrulha e Força Tática"
+   ],
+   "correta": 3,
+   "explicacao": "São Programas de Policiamento Complementares os demais programas, excetuados o Programa de Radiopatrulha e o Programa de Força Tática, desenvolvidos segundo critérios de necessidade e disponibilidade. Incluir a Radiopatrulha no rol é a troca mais comum.",
+   "tags": [
+    "drone",
+    "programas",
+    "complementar"
+   ]
+  },
+  {
+   "id": "drone-elab-022",
+   "subtema": "Programas de policiamento",
+   "artigo": "Dtz PM3-001/02/25 — Desenvolvimento híbrido",
+   "enunciado": "A Diretriz admite que os Programas de Policiamento Complementares sejam desenvolvidos de forma híbrida, o que significa que as OPM",
+   "alternativas": [
+    "podem prever efetivos próprios ou aproveitar estruturas de outros programas",
+    "devem alternar o emprego entre o programa ordinário e o complementar",
+    "podem suspender o programa quando faltarem recursos humanos e materiais",
+    "devem submeter o emprego do efetivo à aprovação do Comando de Policiamento"
+   ],
+   "correta": 0,
+   "explicacao": "Forma híbrida significa que as OPM podem tanto prever efetivos e meios específicos para a execução do programa quanto aproveitar as estruturas de outros Programas de Policiamento, conforme as respectivas Diretrizes. Hibridismo é possibilidade de arranjo, não autorização para suspender o programa.",
+   "tags": [
+    "drone",
+    "programas",
+    "hibrido"
+   ]
+  },
+  {
+   "id": "drone-elab-023",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-001/02/25 — Imagem Operacional Comum",
+   "enunciado": "O conceito de Imagem Operacional Comum, previsto entre as definições da Diretriz, designa",
+   "alternativas": [
+    "a transmissão instantânea das imagens captadas para a Sala de Operações",
+    "a compreensão compartilhada do ambiente entre os engajados na mesma missão",
+    "o registro audiovisual dotado de integridade, rastreabilidade e custódia",
+    "o painel de indicadores criminais disponibilizado no SiCoordOp às OPM"
+   ],
+   "correta": 1,
+   "explicacao": "A Imagem Operacional Comum é o conhecimento e a compreensão sobre os acontecimentos e elementos do ambiente compartilhados entre indivíduos engajados em uma mesma missão, produzindo imagem mental coerente e comum. A alternativa que descreve integridade e rastreabilidade define evidência digital, não imagem operacional comum.",
+   "tags": [
+    "drone",
+    "conceitos",
+    "imagem-operacional"
+   ]
+  },
+  {
+   "id": "drone-elab-024",
+   "subtema": "Evidência digital",
+   "artigo": "Dtz PM3-001/02/25 — Cadeia de custódia",
+   "enunciado": "As imagens de interesse de segurança pública captadas pelos UAS são consideradas evidências digitais, sujeitando-se às regras de cadeia de custódia previstas",
+   "alternativas": [
+    "na Instrução I-40-PM, que disciplina o inquérito militar",
+    "no Código de Processo Penal Militar, em seu artigo 158-A",
+    "na Lei Geral de Proteção de Dados, quanto ao tratamento",
+    "no Código de Processo Penal, em seus artigos 158-A e 158-B"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz remete expressamente às regras de cadeia de custódia dos arts. 158-A e 158-B do Código de Processo Penal. A LGPD é invocada em outro ponto da norma, relativo à divulgação dos dados produzidos, e não à cadeia de custódia.",
+   "tags": [
+    "drone",
+    "evidencia-digital",
+    "cadeia-custodia"
+   ]
+  },
+  {
+   "id": "drone-elab-025",
+   "subtema": "Objetivos",
+   "artigo": "Dtz PM3-001/02/25 — Objetivos do Programa",
+   "enunciado": "Entre os objetivos expressamente declarados na Diretriz para o Programa de Policiamento com Drones, não se inclui",
+   "alternativas": [
+    "ampliar a consciência situacional durante as ações policial-militares",
+    "mitigar os riscos operacionais dos respondedores de emergências",
+    "subsidiar a tomada de decisão com rapidez e assertividade",
+    "substituir o emprego de aeronaves tripuladas em áreas urbanas"
+   ],
+   "correta": 3,
+   "explicacao": "Os objetivos declarados são ampliar a consciência situacional por meio do incremento da transmissão de imagens, mitigar os riscos operacionais dos respondedores e subsidiar a tomada de decisão com rapidez e assertividade. A substituição da aviação tripulada não figura entre eles, e o emprego dos drones é integrado às demais soluções institucionais.",
+   "tags": [
+    "drone",
+    "objetivos"
+   ]
+  },
+  {
+   "id": "drone-elab-026",
+   "subtema": "Estrutura do Programa",
+   "artigo": "Dtz PM3-001/02/25 — Natureza do Programa",
+   "enunciado": "Ao elaborar o Plano Operacional da Unidade, o Chefe da Seção de Operações precisa definir como tratar o Programa de Policiamento com Drones. Segundo a Diretriz, esse Programa constitui programa de policiamento",
+   "alternativas": [
+    "especial, restrito às unidades detentoras de efetivo já habilitado",
+    "complementar, de implementação facultativa segundo a conveniência",
+    "ordinário, integrando obrigatoriamente a Matriz Operacional I da OPM",
+    "complementar, de funcionamento ininterrupto e implementação ordinária"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz estabelece que o Programa constituirá programa de policiamento complementar, com funcionamento ininterrupto, devendo ser implementado ordinariamente por todas as OPM. Complementar não significa facultativo: a implementação é ordinária e obrigatória.",
+   "tags": [
+    "drone",
+    "estrutura",
+    "programa-complementar"
+   ]
+  },
+  {
+   "id": "drone-elab-027",
+   "subtema": "Estrutura do Programa",
+   "artigo": "Dtz PM3-001/02/25 — Gestão operacional",
+   "enunciado": "Discute-se, em reunião de coordenação, qual o escalão mínimo responsável pela gestão operacional do Programa de Policiamento com Drones. Conforme a Diretriz, essa gestão caberá ao nível mínimo de",
+   "alternativas": [
+    "Companhia PM, ainda que o Programa seja desenvolvido por OPM de nível Batalhão",
+    "Batalhão, escalão que responde por toda a execução do Programa na área",
+    "Comando de Policiamento, por meio do respectivo Plano Tático regional",
+    "Pelotão PM, quando houver equipamento distribuído à fração destacada"
+   ],
+   "correta": 0,
+   "explicacao": "A gestão operacional do Programa caberá ao nível mínimo de Cia PM, embora o Programa seja desenvolvido pelas OPM de nível Batalhão. A questão explora justamente a convivência dos dois escalões: gestão na Companhia, desenvolvimento no Batalhão.",
+   "tags": [
+    "drone",
+    "estrutura",
+    "gestao"
+   ]
+  },
+  {
+   "id": "drone-elab-028",
+   "subtema": "Estrutura do Programa",
+   "artigo": "Dtz PM3-001/02/25 — Desenvolvimento do Programa",
+   "enunciado": "O Programa de Policiamento com Drones será desenvolvido pelas OPM de nível Batalhão pertencentes às Matrizes Operacionais I, II e III, com base em critérios de necessidade operacional e disponibilidade de recursos, consignados",
+   "alternativas": [
+    "no Plano Tático do respectivo Comando de Policiamento a que se subordina",
+    "no Plano de Comando do Batalhão, aprovado pelo Comandante de Policiamento",
+    "no plano de ação elaborado pela Companhia detentora do equipamento",
+    "no Guia de Indicadores dos Programas de Policiamento da Instituição"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz determina que os critérios de necessidade e disponibilidade sejam consignados no Plano Tático do respectivo Comando de Policiamento. O Plano de Comando e o plano de ação existem, mas em outros momentos do ciclo de planejamento.",
+   "tags": [
+    "drone",
+    "estrutura",
+    "plano-tatico"
+   ]
+  },
+  {
+   "id": "drone-elab-029",
+   "subtema": "Emprego operacional",
+   "artigo": "Dtz PM3-001/02/25 — Drone as First Responder",
+   "enunciado": "Determinada Companhia passa a empregar o drone como primeiro meio a chegar ao local das ocorrências despachadas, apoiando as unidades de serviço desde eventos corriqueiros até incidentes críticos e complexos. Essa modalidade de emprego é designada na Diretriz como",
+   "alternativas": [
+    "patrulhamento preventivo voltado ao controle dos indicadores criminais",
+    "policiamento ostensivo com resposta vetorial de nível regional",
+    "varredura prévia destinada à minimização do risco operacional",
+    "pronta resposta a ocorrências, ou Drone as First Responder"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz prevê expressamente a pronta resposta a ocorrências, denominada DFR, ou Drone as First Responder, abrangendo desde o apoio a ocorrências corriqueiras até incidentes críticos, graves e complexos, como os de criminalidade ultraviolenta. As demais hipóteses também constam da norma, mas com finalidades distintas.",
+   "tags": [
+    "drone",
+    "emprego",
+    "dfr"
+   ]
+  },
+  {
+   "id": "drone-elab-030",
+   "subtema": "Emprego operacional",
+   "artigo": "Dtz PM3-001/02/25 — Hipóteses de emprego",
+   "enunciado": "O emprego do drone em varreduras e em outros deslocamentos que podem anteceder a atuação direta do policial militar tem por finalidade, segundo a Diretriz,",
+   "alternativas": [
+    "a produção antecipada de evidência digital para instrução do feito",
+    "a minimização do risco a que se expõe o policial militar empenhado",
+    "a substituição do reconhecimento realizado pela equipe de segurança",
+    "o controle dos indicadores criminais da área integrada de segurança"
+   ],
+   "correta": 1,
+   "explicacao": "A norma arrola a utilização da UA para minimização do risco, como apoio em varreduras e outros deslocamentos que podem anteceder a atuação direta do policial militar. A finalidade é a preservação do policial, e não a produção de prova, que é consequência eventual do registro audiovisual.",
+   "tags": [
+    "drone",
+    "emprego",
+    "risco"
+   ]
+  },
+  {
+   "id": "drone-elab-031",
+   "subtema": "Emprego operacional",
+   "artigo": "Dtz PM3-001/02/25 — Áreas de difícil acesso",
+   "enunciado": "Entre as hipóteses de emprego previstas, a Diretriz menciona operações em áreas de difícil acesso, como áreas montanhosas, de mata ou anômicas, com a finalidade de",
+   "alternativas": [
+    "dispensar o emprego de tropa em solo nos locais de risco elevado",
+    "substituir o helicóptero nas missões de busca e salvamento aéreo",
+    "identificar, localizar e orientar as equipes em solo nas diligências",
+    "realizar o mapeamento cartográfico prévio da área sob jurisdição"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz indica o emprego em áreas de difícil acesso com a finalidade de identificar, localizar e orientar as equipes em solo para a detenção de infratores em fuga, busca e salvamento de pessoas perdidas e situações análogas. O drone orienta a tropa em solo, não a dispensa.",
+   "tags": [
+    "drone",
+    "emprego",
+    "dificil-acesso"
+   ]
+  },
+  {
+   "id": "drone-elab-032",
+   "subtema": "Emprego operacional",
+   "artigo": "Dtz PM3-001/02/25 — Bombeiros e defesa civil",
+   "enunciado": "Quanto às atividades de prevenção e extinção de incêndios, de busca e salvamento e de defesa civil, a Diretriz estabelece que o emprego dos UAS",
+   "alternativas": [
+    "somente ocorrerá quando houver decretação de situação de emergência",
+    "é exclusivo do Comando do Corpo de Bombeiros e de suas unidades",
+    "depende de solicitação formal do CCB ao Comando de Policiamento",
+    "deverá acontecer tanto pelo CCB quanto pelos demais Órgãos de Execução"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz é expressa ao afirmar que tais atividades devem ser apoiadas pelos programas de policiamento, significando que o emprego dos UAS acontecerá tanto pelo Comando do Corpo de Bombeiros como pelos demais Órgãos de Execução. A exclusividade do CCB é a pegadinha.",
+   "tags": [
+    "drone",
+    "emprego",
+    "bombeiros"
+   ]
+  },
+  {
+   "id": "drone-elab-033",
+   "subtema": "Matrizes operacionais",
+   "artigo": "Dtz PM3-001/02/25 — Matriz Operacional I",
+   "enunciado": "Drone pertencente a unidade da Matriz Operacional I atuará no Nível de Resposta 1, e seu emprego atenderá aos critérios do Plano de Policiamento Inteligente, sobretudo no tocante",
+   "alternativas": [
+    "à definição das regras de engajamento mínimas para o acionamento urgente",
+    "à identificação de AISP e à atribuição de Cartão Prioridade de Policiamento",
+    "à priorização das Salas de Operações na integração com os sistemas UAS",
+    "ao cumprimento das metas de redução fixadas no Plano de Comando da OPM"
+   ],
+   "correta": 1,
+   "explicacao": "Para a Matriz Operacional I, o emprego atende aos critérios do PPI, sobretudo quanto à identificação de AISP e à definição e atribuição do Cartão Prioridade de Policiamento. As demais alternativas reproduzem temas verdadeiros da Diretriz, mas alheios ao critério do Nível de Resposta 1.",
+   "tags": [
+    "drone",
+    "matrizes",
+    "nivel-resposta"
+   ]
+  },
+  {
+   "id": "drone-elab-034",
+   "subtema": "Matrizes operacionais",
+   "artigo": "Dtz PM3-001/02/25 — Matrizes Operacionais II e III",
+   "enunciado": "Os drones pertencentes às Matrizes Operacionais II e III atuarão nos Níveis de Resposta 2, 3 e 4, devendo ser operados",
+   "alternativas": [
+    "apenas pelas unidades especializadas, vedado o emprego territorial",
+    "por todos os Órgãos de Execução, em especial os especializados",
+    "pelo Comando de Aviação, que centraliza as respostas regionais",
+    "pelos Batalhões territoriais, mediante requisição da especializada"
+   ],
+   "correta": 1,
+   "explicacao": "A Diretriz determina que tais drones sejam operados por todos os Órgãos de Execução, em especial os especializados, como CCB, CPAmb, CPChq, CPRv, CPTran e BAEP, conforme as peculiaridades de suas atividades típicas, com emprego consignado em planos de ação. A palavra especial indica destaque, não exclusividade.",
+   "tags": [
+    "drone",
+    "matrizes",
+    "especializadas"
+   ]
+  },
+  {
+   "id": "drone-elab-035",
+   "subtema": "Matrizes operacionais",
+   "artigo": "Dtz PM3-001/02/25 — Atividades supletivas",
+   "enunciado": "Equipe Drone do CPRv não está empregada em missão típica de sua especialidade em determinado turno. Nos termos da Diretriz, essa equipe",
+   "alternativas": [
+    "atuará em missões supletivas de patrulhamento preventivo, conforme NORSOP",
+    "permanecerá recolhida ao aquartelamento, em condição de sobreaviso",
+    "ficará à disposição do Comando de Policiamento para emprego regional",
+    "será empregada apenas mediante autorização do Coordenador de Operação"
+   ],
+   "correta": 0,
+   "explicacao": "Quando não empregadas em suas especialidades, as unidades utilizarão os drones em atividades supletivas, em missões de patrulhamento preventivo conforme a NORSOP, além das atividades de prevenção e extinção de incêndios, busca e salvamento e defesa civil. A ociosidade do meio não é admitida pela norma.",
+   "tags": [
+    "drone",
+    "matrizes",
+    "supletivas"
+   ]
+  },
+  {
+   "id": "drone-elab-036",
+   "subtema": "Comando e controle",
+   "artigo": "Dtz PM3-001/02/25 — Regras de engajamento",
+   "enunciado": "A definição, em documento de Estado-Maior, das regras de engajamento mínimas para o acionamento e o emprego dos drones em caráter emergencial, sobretudo em problemas policiais complexos, compete",
+   "alternativas": [
+    "aos Comandos de Policiamento, para subsidiar os escalões de comando",
+    "ao CAvPM, que responde pela regulação técnica das operações com UAS",
+    "ao Comandante de Batalhão, no âmbito do respectivo Plano Operacional",
+    "à Coord Op PM, em conjunto com a 6ª EM/PM e os Comandos de Policiamento"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz atribui aos Cmdo Pol o dever de definir, em documento de Estado-Maior, as regras de engajamento mínimas para o acionamento e emprego emergencial dos drones, subsidiando a decisão dos escalões de comando e supervisão. Ao CAvPM cabe regular a atuação operacional das equipes, com participação da Coord Op PM, em documento próprio.",
+   "tags": [
+    "drone",
+    "comando-controle",
+    "engajamento"
+   ]
+  },
+  {
+   "id": "drone-elab-037",
+   "subtema": "Comando e controle",
+   "artigo": "Dtz PM3-001/02/25 — Arquitetura de C4ISR",
+   "enunciado": "A Diretriz afirma que os drones e seus sistemas compõem a Arquitetura de C4ISR da Polícia Militar. Essa sigla corresponde a",
+   "alternativas": [
+    "Coordenação, Controle, Comunicações, Computadores, Informação, Vigilância e Resgate",
+    "Comando, Controle, Comunicações, Cooperação, Integração, Vigilância e Resposta",
+    "Comando, Controle, Comunicações, Computadores, Inteligência, Vigilância e Reconhecimento",
+    "Comando, Coordenação, Conectividade, Computadores, Inteligência, Visada e Registro"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz explicita a composição da sigla: Comando, Controle, Comunicações, Computadores, Inteligência, Vigilância e Reconhecimento. As variações trocam termos plausíveis, mas apenas a formulação literal da norma é correta.",
+   "tags": [
+    "drone",
+    "comando-controle",
+    "c4isr"
+   ]
+  },
+  {
+   "id": "drone-elab-038",
+   "subtema": "Comando e controle",
+   "artigo": "Dtz PM3-001/02/25 — Integração às estruturas de C2",
+   "enunciado": "A plena integração dos sistemas de captação e transmissão de dados e imagens dos UAS às Estruturas de Comando e Controle tem por finalidade principal, segundo a Diretriz,",
+   "alternativas": [
+    "assegurar a custódia das evidências digitais produzidas no voo",
+    "permitir o controle remoto da aeronave a partir da Sala de Operações",
+    "prover imagem operacional comum aos policiais militares em solo",
+    "alimentar os indicadores de desempenho previstos no SiCoordOp"
+   ],
+   "correta": 2,
+   "explicacao": "A norma justifica a integração pela necessidade de prover imagem operacional comum aos PM em solo, já que as estruturas de comando e controle, permanentes ou temporárias, são centros de convergência e difusão de informações. Custódia e indicadores são tratados em outros dispositivos.",
+   "tags": [
+    "drone",
+    "comando-controle",
+    "integracao"
+   ]
+  },
+  {
+   "id": "drone-elab-039",
+   "subtema": "Comando e controle",
+   "artigo": "Dtz PM3-001/02/25 — Priorização das Salas de Operações",
+   "enunciado": "Quanto à integração dos UAS às estruturas de comando e controle, a Diretriz determina que sejam objeto de priorização",
+   "alternativas": [
+    "as Salas de Operações das Cia PM e das sedes dos Batalhões",
+    "o Centro de Operações da Polícia Militar e os centros regionais de despacho",
+    "os Centros de Comando e Controle Móveis montados sobre viaturas",
+    "as agências de inteligência das unidades territoriais e especializadas"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz prioriza a integração com as Salas de Operações das Cia PM e das sedes do Btl, pois, em razão da proximidade com as demandas operacionais, representam potencial amplificado de eficiência. A escolha pelo escalão mais próximo da execução é o fundamento da regra.",
+   "tags": [
+    "drone",
+    "comando-controle",
+    "sala-operacoes"
+   ]
+  },
+  {
+   "id": "drone-elab-040",
+   "subtema": "Proteção de dados",
+   "artigo": "Dtz PM3-001/02/25 — Divulgação de dados",
+   "enunciado": "Imagens captadas por Equipe Drone durante ocorrência de repercussão são solicitadas para divulgação. Nos termos da Diretriz, os dados produzidos pelas Equipes Drone somente serão divulgados após",
+   "alternativas": [
+    "a autorização do Centro de Comunicação Social do Comando de Policiamento",
+    "análise e deliberação do respectivo Comandante, Chefe ou Diretor da OPM",
+    "a conclusão do procedimento de custódia da evidência digital na Div Op",
+    "manifestação favorável do encarregado de proteção de dados da Instituição"
+   ],
+   "correta": 1,
+   "explicacao": "A divulgação depende de análise e deliberação do respectivo Cmt, Ch ou Dir da OPM, observadas as disposições da LGPD, protegendo-se os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural. A decisão é do titular da OPM, não do órgão de comunicação social.",
+   "tags": [
+    "drone",
+    "lgpd",
+    "divulgacao"
+   ]
+  },
+  {
+   "id": "drone-elab-041",
+   "subtema": "Coordenação",
+   "artigo": "Dtz PM3-001/02/25 — Oficial Coordenador de Operação de UAS",
+   "enunciado": "Ao implementar o Programa de Policiamento com Drones, o Comandante de Batalhão deve designar formalmente o Oficial Coordenador de Operação de UAS, providência que",
+   "alternativas": [
+    "deve ser submetida à prévia homologação do Comando de Policiamento",
+    "independe de comunicação a escalão superior, por ser ato interno da OPM",
+    "deve ser informada ao CAvPM, bem como eventual alteração da designação",
+    "será publicada em boletim e comunicada à Coord Op PM a cada semestre"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz exige que a nomeação do Oficial Coordenador de Operação de UAS seja informada ao CAvPM, assim como eventual alteração de designação. Não há previsão de homologação prévia pelo Comando de Policiamento nem de comunicação periódica à Coord Op PM.",
+   "tags": [
+    "drone",
+    "coordenacao",
+    "oficial-coordenador"
+   ]
+  },
+  {
+   "id": "drone-elab-042",
+   "subtema": "Coordenação",
+   "artigo": "Dtz PM3-001/02/25 — Atribuições do Coordenador",
+   "enunciado": "Compete ao Oficial Coordenador de Operação de UAS, entre outras atribuições, a comunicação técnica com",
+   "alternativas": [
+    "a Diretoria de Tecnologia da Informação, quanto às soluções do sistema",
+    "o DECEA e a ANAC, para fins de autorização de acesso ao espaço aéreo",
+    "a Escola de Aviação, para matrícula dos policiais nos cursos próprios",
+    "a Coord Op PM e o CAvPM, atuando ainda como ponto focal do Programa"
+   ],
+   "correta": 3,
+   "explicacao": "Entre as incumbências do Oficial Coordenador está a comunicação técnica com a Coord Op PM e o CAvPM, além de atuar como ponto focal nas demais medidas necessárias à continuidade e eficiência do Programa. A representação junto aos órgãos reguladores, como DECEA e ANAC, é atribuição do CAvPM.",
+   "tags": [
+    "drone",
+    "coordenacao",
+    "atribuicoes"
+   ]
+  },
+  {
+   "id": "drone-elab-043",
+   "subtema": "Coordenação",
+   "artigo": "Dtz PM3-001/02/25 — Fiscalização dos planos de ação",
+   "enunciado": "Os planos de ação relativos ao emprego das Equipes Drone são elaborados pelo Comandante da OPM. A fiscalização desses planos, conforme a Diretriz, incumbe",
+   "alternativas": [
+    "ao Comando de Policiamento, por ocasião das reuniões de avaliação",
+    "ao Coordenador de Operações do Batalhão, no monitoramento rotineiro",
+    "ao Oficial Coordenador de Operação de UAS designado na Unidade",
+    "ao CAvPM, no exercício da certificação técnica das Equipes Drone"
+   ],
+   "correta": 2,
+   "explicacao": "Cabe ao Oficial Coordenador de Operação de UAS o monitoramento e controle das atividades executadas pelas Equipes Drone, bem como a fiscalização dos planos de ação elaborados pelo Cmt OPM. O Coord Op Btl realiza o monitoramento rotineiro previsto em outro dispositivo, sem se confundir com essa fiscalização específica.",
+   "tags": [
+    "drone",
+    "coordenacao",
+    "fiscalizacao"
+   ]
+  },
+  {
+   "id": "drone-elab-044",
+   "subtema": "Coordenação",
+   "artigo": "Dtz PM3-001/02/25 — Relatórios de boas práticas",
+   "enunciado": "O Oficial Coordenador de Operação de UAS deve coordenar a elaboração de relatórios de boas práticas, encaminhando-os",
+   "alternativas": [
+    "à 6ª EM/PM, responsável pela revisão dos procedimentos operacionais padrão",
+    "apenas ao CAvPM, órgão gestor do conhecimento em operações com UAS",
+    "ao Comando de Policiamento, que consolidará as práticas em nível regional",
+    "ao CAvPM, quanto ao emprego operacional, e à Coord Op PM, quanto aos resultados"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz distingue os destinatários: os relatórios advindos do emprego operacional vão ao CAvPM e os advindos dos resultados operacionais vão à Coord Op PM. Essa mesma divisão reaparece nos repositórios de boas práticas, um técnico, no CAvPM, e outro de resultados, na Coord Op PM.",
+   "tags": [
+    "drone",
+    "coordenacao",
+    "boas-praticas"
+   ]
+  },
+  {
+   "id": "drone-elab-045",
+   "subtema": "Coordenação",
+   "artigo": "Dtz PM3-001/02/25 — Controle da habilitação",
+   "enunciado": "Incumbe ao Oficial Coordenador de Operação de UAS controlar, monitorar e fiscalizar, quanto aos integrantes das Equipes Drone,",
+   "alternativas": [
+    "a escala de serviço e o cumprimento das metas de produtividade policial",
+    "a guarda do equipamento e a integridade das evidências digitais custodiadas",
+    "o cumprimento das regras do ar durante a execução de cada voo realizado",
+    "a formação, a habilitação, os treinamentos periódicos e a condição técnica"
+   ],
+   "correta": 3,
+   "explicacao": "A norma lhe atribui controlar, monitorar e fiscalizar a formação, habilitação, treinamentos periódicos e condição técnica dos integrantes das Equipes Drone. O cumprimento das regras do ar durante o voo é responsabilidade exclusiva do piloto remoto em comando.",
+   "tags": [
+    "drone",
+    "coordenacao",
+    "habilitacao"
+   ]
+  },
+  {
+   "id": "drone-elab-046",
+   "subtema": "Estruturas matriciais",
+   "artigo": "Dtz PM3-001/02/25 — Núcleos de Drones",
+   "enunciado": "As estruturas matriciais de Equipes Drone, temporárias ou permanentes, constituídas sobretudo para o desenvolvimento de treinamentos permanentes e para o emprego em operações programadas de nível regional, são denominadas",
+   "alternativas": [
+    "Forças de Patrulha Aérea, ativadas pelo Comandante do Batalhão sede",
+    "Equipes Matriciais de UAS, constituídas mediante autorização do CAvPM",
+    "Grupos de Aviação Remota, subordinados tecnicamente à Escola de Aviação",
+    "Núcleos de Drones, podendo ser constituídas pelos Comandos de Policiamento"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz permite que os Cmdo Pol constituam estruturas matriciais de Equipes Drone, temporárias ou permanentes, denominadas Núcleos de Drones, voltadas a treinamentos permanentes e a operações programadas que exijam respostas vetoriais externas ou no nível regional. A competência para constituí-las é do Comando de Policiamento.",
+   "tags": [
+    "drone",
+    "estruturas",
+    "nucleos"
+   ]
+  },
+  {
+   "id": "drone-elab-047",
+   "subtema": "Estruturas matriciais",
+   "artigo": "Dtz PM3-001/02/25 — Participação externa em cursos",
+   "enunciado": "A participação de policiais militares de outros estados da Federação e de representantes de outros órgãos públicos em cursos, estágios e treinamentos relacionados ao emprego de UAS fica condicionada à autorização expressa",
+   "alternativas": [
+    "do Comandante do CAvPM, órgão gestor do conhecimento na matéria",
+    "do Subcomandante da Polícia Militar do Estado de São Paulo",
+    "do Chefe do Estado-Maior, ouvida previamente a Diretoria de Ensino",
+    "do Comandante de Policiamento da área onde ocorrer o treinamento"
+   ],
+   "correta": 1,
+   "explicacao": "A Diretriz condiciona expressamente essa participação à autorização do Subcmt PM. O CAvPM é gestor do conhecimento e responsável pela capacitação, mas não detém a competência para autorizar a participação de integrantes externos à Instituição.",
+   "tags": [
+    "drone",
+    "estruturas",
+    "autorizacao"
+   ]
+  },
+  {
+   "id": "drone-elab-048",
+   "subtema": "Emprego operacional",
+   "artigo": "Dtz PM3-001/02/25 — Inteligência policial",
+   "enunciado": "A identificação, a localização e o monitoramento de alvos em ações de inteligência policial, previstas entre as hipóteses de emprego do drone, têm seu regramento específico fixado",
+   "alternativas": [
+    "pelo CAvPM, ouvida a agência de inteligência da unidade empregadora",
+    "pelo CIPM, respeitadas as orientações técnicas estabelecidas pelo CAvPM",
+    "pela Coord Op PM, mediante processo operacional padrão específico",
+    "pelo Comando de Policiamento, em documento reservado de Estado-Maior"
+   ],
+   "correta": 1,
+   "explicacao": "Entre as atribuições particulares, cabe ao CIPM regular o emprego de drones para as atividades de inteligência policial, sobretudo pelas agências de inteligência em todo o Estado, respeitados os requisitos e orientações técnicas do CAvPM. A regulação é do CIPM, com parâmetro técnico do CAvPM.",
+   "tags": [
+    "drone",
+    "emprego",
+    "inteligencia"
+   ]
+  },
+  {
+   "id": "drone-elab-049",
+   "subtema": "Emprego operacional",
+   "artigo": "Dtz PM3-001/02/25 — Caráter do emprego",
+   "enunciado": "Quanto ao momento do emprego do drone nas missões rotineiras de polícia ostensiva, sobretudo nas atividades típicas, a Diretriz prevê que ele ocorra",
+   "alternativas": [
+    "em caráter emergencial ou programado, conforme a necessidade",
+    "somente de forma programada, salvo autorização do escalão superior",
+    "exclusivamente mediante prévio plano de ação aprovado na Unidade",
+    "apenas nas ocorrências classificadas como incidentes críticos"
+   ],
+   "correta": 0,
+   "explicacao": "A norma admite que o emprego ocorra em caráter emergencial ou programado nas missões rotineiras de polícia ostensiva. Restringir o emprego a hipóteses previamente planejadas contraria a lógica da pronta resposta prevista na própria Diretriz.",
+   "tags": [
+    "drone",
+    "emprego",
+    "caracter"
+   ]
+  },
+  {
+   "id": "drone-elab-050",
+   "subtema": "Emprego operacional",
+   "artigo": "Dtz PM3-001/02/25 — Hipóteses de emprego",
+   "enunciado": "Assinale a hipótese que não consta do rol de empregos do drone previsto na Diretriz para as missões rotineiras de polícia ostensiva.",
+   "alternativas": [
+    "Busca de infratores homiziados e localização de criminosos em fuga",
+    "Policiamento ostensivo de trânsito urbano e rodoviário e em eventos",
+    "Transporte de material e de medicamentos entre unidades operacionais",
+    "Patrulhamento preventivo voltado ao controle dos indicadores criminais"
+   ],
+   "correta": 2,
+   "explicacao": "O rol da Diretriz abrange controle de multidões, policiamento em eventos, rural, ambiental, de trânsito urbano e rodoviário, busca de homiziados, patrulhamento preventivo, inteligência, pronta resposta, minimização de risco e áreas de difícil acesso, entre outras missões de polícia ostensiva. O transporte de carga não figura entre as hipóteses previstas.",
+   "tags": [
+    "drone",
+    "emprego",
+    "hipoteses"
+   ]
+  },
+  {
+   "id": "drone-elab-051",
+   "subtema": "Regras do ar",
+   "artigo": "Dtz PM3-001/02/25 — Natureza das operações",
+   "enunciado": "As operações com aeronaves não tripuladas da Polícia Militar, segundo a Diretriz, consistirão em",
+   "alternativas": [
+    "operações aéreas especiais de segurança pública, assim definidas pela autoridade aeronáutica",
+    "operações experimentais de segurança pública, autorizadas caso a caso pelo DECEA",
+    "operações aéreas civis de interesse público, equiparadas às missões de aeronave tripulada",
+    "operações de policiamento aéreo complementar, definidas em documento do CAvPM"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz qualifica as operações com UA da Polícia Militar como operações aéreas especiais de segurança pública, assim definidas pela autoridade aeronáutica brasileira. A definição não decorre de ato interno da Instituição, mas da própria autoridade aeronáutica.",
+   "tags": [
+    "drone",
+    "regras-do-ar",
+    "operacoes-especiais"
+   ]
+  },
+  {
+   "id": "drone-elab-052",
+   "subtema": "Regras do ar",
+   "artigo": "Dtz PM3-001/02/25 — Normas aeronáuticas aplicáveis",
+   "enunciado": "As operações da Equipe Drone estarão submetidas às instruções da ICA 100-40 e da MCA 56-5, e demais normas em vigor, sobretudo, mas não exclusivamente, quanto",
+   "alternativas": [
+    "aos parâmetros de altura de voo e de acesso aos espaços aéreos diversos",
+    "aos requisitos mínimos de certificação dos equipamentos adquiridos",
+    "à custódia das evidências digitais captadas durante a missão aérea",
+    "aos critérios de habilitação e renovação da proficiência dos pilotos"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz destaca que a submissão às normas aeronáuticas alcança sobretudo os parâmetros operacionais de altura do voo e de acesso aos espaços aéreos diversos. Certificação de equipamentos, custódia de evidências e habilitação são disciplinadas por outros dispositivos, internos à Instituição.",
+   "tags": [
+    "drone",
+    "regras-do-ar",
+    "ica-mca"
+   ]
+  },
+  {
+   "id": "drone-elab-053",
+   "subtema": "Regras do ar",
+   "artigo": "Dtz PM3-001/02/25 — Extensão da autoridade do RPIC",
+   "enunciado": "A autoridade decisória do piloto remoto em comando sobre tudo o que se relaciona com a aeronave não tripulada compreende o período que vai",
+   "alternativas": [
+    "do momento em que se apresentem intenções para o voo até a parada dos motores",
+    "do acionamento dos motores até o pouso da aeronave no ponto de origem",
+    "da autorização do DECEA até o encerramento do registro no SARPAS",
+    "do início da missão determinada pelo escalão de comando até o seu término"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz fixa a autoridade do RPIC desde o momento em que se apresentem intenções para o voo até a parada total dos motores do equipamento. O marco inicial é anterior ao acionamento dos motores, o que torna incorreta a alternativa que os toma como termo inicial.",
+   "tags": [
+    "drone",
+    "regras-do-ar",
+    "rpic"
+   ]
+  },
+  {
+   "id": "drone-elab-054",
+   "subtema": "Regras do ar",
+   "artigo": "Dtz PM3-001/02/25 — Parâmetros das decisões do RPIC",
+   "enunciado": "As decisões do piloto remoto em comando serão norteadas por parâmetros de segurança e de gerenciamento de risco operacional, bem como pela doutrina e pelos procedimentos estabelecidos",
+   "alternativas": [
+    "pelo Coordenador de Operação de UAS, no exercício do controle técnico",
+    "pelo Comando de Policiamento a que estiver subordinada a Equipe Drone",
+    "pela autoridade aeronáutica brasileira e pela PM, por meio do CAvPM",
+    "pela ANAC e pelo DECEA, únicos órgãos competentes na matéria aérea"
+   ],
+   "correta": 2,
+   "explicacao": "A norma indica dupla fonte: a autoridade aeronáutica brasileira e a Polícia Militar, esta por meio do CAvPM. As demais alternativas suprimem uma das fontes ou deslocam a competência para escalões que não editam doutrina aeronáutica.",
+   "tags": [
+    "drone",
+    "regras-do-ar",
+    "rpic"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "drone-elab-055",
+   "subtema": "Regras do ar",
+   "artigo": "Dtz PM3-001/02/25 — Responsabilidades do RPIC",
+   "enunciado": "Antes de decolar para missão programada, o piloto remoto em comando deixa de consultar os NOTAM em vigor e de calcular a autonomia da aeronave. Tais providências integram, segundo a Diretriz,",
+   "alternativas": [
+    "o planejamento do voo, de responsabilidade exclusiva do piloto em comando",
+    "as atribuições do observador, que assessora tecnicamente o piloto remoto",
+    "o rol de conferências do Coordenador de Operação de UAS da Unidade",
+    "as condições de certificação da equipe fixadas em documento do CAvPM"
+   ],
+   "correta": 0,
+   "explicacao": "O planejamento do voo, com avaliação criteriosa das condições meteorológicas, cálculo adequado de autonomia e consulta a eventuais NOTAM e demais informações aeronáuticas, é responsabilidade exclusiva do RPIC. A Diretriz não transfere essa tarefa ao observador nem ao coordenador.",
+   "tags": [
+    "drone",
+    "regras-do-ar",
+    "planejamento"
+   ]
+  },
+  {
+   "id": "drone-elab-056",
+   "subtema": "Regras do ar",
+   "artigo": "Dtz PM3-001/02/25 — Responsabilidades do RPIC",
+   "enunciado": "Entre as responsabilidades exclusivas do piloto remoto em comando previstas na Diretriz, não se inclui",
+   "alternativas": [
+    "a proteção de pessoas e de propriedades situadas no solo durante o voo",
+    "a separação com obstáculos e com as demais aeronaves em operação",
+    "a posse dos documentos de porte obrigatório para operações especiais",
+    "a deliberação sobre a divulgação das imagens captadas na operação"
+   ],
+   "correta": 3,
+   "explicacao": "São responsabilidades exclusivas do RPIC o planejamento do voo, a posse dos documentos de porte obrigatório, a comunicação bilateral quando aplicável, a proteção de pessoas e propriedades no solo, a separação com obstáculos e aeronaves e outras atribuições fixadas pela autoridade aeronáutica e pelo Cmdo G. A divulgação dos dados depende de deliberação do Cmt, Ch ou Dir da OPM.",
+   "tags": [
+    "drone",
+    "regras-do-ar",
+    "responsabilidades"
+   ]
+  },
+  {
+   "id": "drone-elab-057",
+   "subtema": "Regras do ar",
+   "artigo": "Dtz PM3-001/02/25 — Comunicação bilateral",
+   "enunciado": "A comunicação bilateral com outras aeronaves e com órgãos de Controle de Tráfego Aéreo, prevista entre as responsabilidades do piloto remoto em comando, é exigida",
+   "alternativas": [
+    "em todos os voos, independentemente do espaço aéreo utilizado na missão",
+    "apenas nas missões emergenciais, em razão da ausência de autorização prévia",
+    "quando aplicável, conforme as circunstâncias da operação realizada",
+    "somente nas operações além da linha de visada visual do piloto remoto"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz condiciona a comunicação bilateral à cláusula quando aplicável, pois nem toda operação exige contato com órgãos de controle de tráfego aéreo. Transformar a regra em exigência absoluta é a pegadinha mais comum.",
+   "tags": [
+    "drone",
+    "regras-do-ar",
+    "comunicacao"
+   ]
+  },
+  {
+   "id": "drone-elab-058",
+   "subtema": "Regras do ar",
+   "artigo": "Dtz PM3-001/02/25 — NOTAM",
+   "enunciado": "O NOTAM, mencionado entre as informações a serem consultadas no planejamento do voo, é emitido",
+   "alternativas": [
+    "pela ANAC, e divulga as restrições de cadastro das aeronaves não tripuladas",
+    "pelo DECEA, e divulga antecipadamente informação aeronáutica de interesse",
+    "pelo CAvPM, e reúne o acervo normativo das operações com UAS na Intranet",
+    "pelo SARPAS, e informa as autorizações de acesso ao espaço aéreo deferidas"
+   ],
+   "correta": 1,
+   "explicacao": "O NOTAM é emitido pelo DECEA e tem por finalidade divulgar antecipadamente a informação aeronáutica de interesse direto e imediato para a segurança e a regularidade da navegação aérea. A divulgação antecipada só não ocorre quando surgirem deficiências imprevisíveis nos serviços e instalações.",
+   "tags": [
+    "drone",
+    "regras-do-ar",
+    "notam"
+   ]
+  },
+  {
+   "id": "drone-elab-059",
+   "subtema": "Seleção e habilitação",
+   "artigo": "Dtz PM3-001/02/25 — Seleção dos integrantes",
+   "enunciado": "A seleção prévia do policial militar que integrará a Equipe Drone, conforme a Diretriz, caberá",
+   "alternativas": [
+    "ao CAvPM, mediante processo seletivo próprio aberto a todo o efetivo",
+    "ao Comandante do Batalhão, assessorado pelo Coordenador de Operação de UAS",
+    "ao Comando de Policiamento, que consolida as indicações das Unidades",
+    "à Escola de Aviação, responsável pela habilitação dos pilotos remotos"
+   ],
+   "correta": 1,
+   "explicacao": "A seleção prévia do integrante da Equipe Drone cabe ao Cmt Btl, e o Oficial Coordenador de Operação de UAS assessora o comandante na indicação dos policiais militares. O CAvPM atua na capacitação e habilitação, etapa posterior à seleção.",
+   "tags": [
+    "drone",
+    "selecao",
+    "cmt-btl"
+   ]
+  },
+  {
+   "id": "drone-elab-060",
+   "subtema": "Seleção e habilitação",
+   "artigo": "Dtz PM3-001/02/25 — Requisitos do Piloto Remoto",
+   "enunciado": "Policial militar voluntário com um ano e dez meses de efetivo exercício em atividade operacional pretende exercer a função de piloto remoto. Nos termos da Diretriz, o candidato",
+   "alternativas": [
+    "não atende ao requisito, que exige no mínimo dois anos de atividade operacional",
+    "atende ao requisito, pois a exigência temporal alcança apenas o observador",
+    "atende ao requisito, desde que classificado em órgão de execução da Unidade",
+    "não atende ao requisito, que exige no mínimo três anos de efetivo exercício"
+   ],
+   "correta": 0,
+   "explicacao": "Para exercer a função de Piloto Remoto, o policial militar voluntário deve possuir, no mínimo, dois anos de efetivo exercício em atividade operacional. A exigência temporal é justamente a única dispensada ao candidato à função de Observador.",
+   "tags": [
+    "drone",
+    "selecao",
+    "requisitos"
+   ]
+  },
+  {
+   "id": "drone-elab-061",
+   "subtema": "Seleção e habilitação",
+   "artigo": "Dtz PM3-001/02/25 — Requisitos do Piloto Remoto",
+   "enunciado": "Entre os requisitos exigidos do policial militar voluntário à função de piloto remoto, a Diretriz prevê a inexistência de sanção disciplinar",
+   "alternativas": [
+    "por falta atentatória às instituições, aos direitos humanos ou desonrosa",
+    "de qualquer natureza aplicada nos últimos cinco anos de efetivo serviço",
+    "que tenha resultado em comportamento inferior ao bom no período recente",
+    "aplicada por ato praticado durante o exercício de atividade operacional"
+   ],
+   "correta": 0,
+   "explicacao": "O requisito é não possuir sanção disciplinar por falta atentatória às Instituições ou ao Estado, aos direitos humanos fundamentais, ou ainda de natureza desonrosa. A norma não veda qualquer sanção disciplinar, mas apenas as de natureza especialmente grave ali indicadas.",
+   "tags": [
+    "drone",
+    "selecao",
+    "requisitos"
+   ]
+  },
+  {
+   "id": "drone-elab-062",
+   "subtema": "Seleção e habilitação",
+   "artigo": "Dtz PM3-001/02/25 — Requisitos do Piloto Remoto",
+   "enunciado": "Policial militar com restrição médica parcial, apto ao serviço administrativo, apresenta-se como voluntário para a função de piloto remoto. À luz dos requisitos da Diretriz, esse candidato",
+   "alternativas": [
+    "poderá ser selecionado, desde que a restrição não atinja a acuidade visual",
+    "somente poderá atuar como observador, função sem exigência de aptidão plena",
+    "não poderá ser selecionado, pois se exige aptidão integral e sem restrições",
+    "poderá ser selecionado mediante parecer favorável da junta médica da PM"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz exige estar integralmente apto ao serviço policial-militar, sem restrições de qualquer natureza, requisito que também se aplica ao candidato à função de Observador, cuja única dispensa é o tempo mínimo de atividade operacional. A alternativa que cria exceção por parecer médico inventa requisito inexistente.",
+   "tags": [
+    "drone",
+    "selecao",
+    "aptidao"
+   ]
+  },
+  {
+   "id": "drone-elab-063",
+   "subtema": "Seleção e habilitação",
+   "artigo": "Dtz PM3-001/02/25 — Requisitos do Observador",
+   "enunciado": "Comparados os requisitos exigidos do candidato à função de piloto remoto e do candidato à função de observador, a Diretriz estabelece que",
+   "alternativas": [
+    "o observador está dispensado apenas do tempo mínimo de atividade operacional",
+    "os requisitos são idênticos, inclusive quanto ao tempo de atividade operacional",
+    "o observador está dispensado da aptidão integral ao serviço policial-militar",
+    "o observador deve preencher requisitos definidos exclusivamente pelo CAvPM"
+   ],
+   "correta": 0,
+   "explicacao": "Os mesmos requisitos deverão ser preenchidos pelo candidato à função de Observador, com exceção do período mínimo de dois anos de efetivo exercício em atividade operacional. Todas as demais exigências, inclusive a aptidão integral, permanecem.",
+   "tags": [
+    "drone",
+    "selecao",
+    "observador"
+   ]
+  },
+  {
+   "id": "drone-elab-064",
+   "subtema": "Seleção e habilitação",
+   "artigo": "Dtz PM3-001/02/25 — Gestão do conhecimento",
+   "enunciado": "A OPM Gestora do Conhecimento para os assuntos referentes à operação de UAS, responsável pela habilitação, pelo treinamento e pela manutenção da proficiência dos integrantes do Programa, é",
+   "alternativas": [
+    "a Diretoria de Ensino e Cultura, por meio de seus centros de formação",
+    "a Academia de Polícia Militar, nos cursos de especialização profissional",
+    "a 3ª EM/PM, responsável pela análise dos currículos de cursos e estágios",
+    "o CAvPM, por intermédio da Escola de Aviação da Polícia Militar"
+   ],
+   "correta": 3,
+   "explicacao": "O CAvPM, por meio da Escola de Aviação da Polícia Militar, é a OPM Gestora do Conhecimento para os assuntos de operação de UAS. À DEC cabe sistematizar a revisão dos conteúdos programáticos e à 3ª EM/PM analisar e adequar os currículos, sem assumir a gestão do conhecimento.",
+   "tags": [
+    "drone",
+    "habilitacao",
+    "cavpm"
+   ]
+  },
+  {
+   "id": "drone-elab-065",
+   "subtema": "Seleção e habilitação",
+   "artigo": "Dtz PM3-001/02/25 — Renovação da habilitação",
+   "enunciado": "A renovação da habilitação do piloto remoto, segundo a Diretriz, ocorrerá por meio de",
+   "alternativas": [
+    "frequência a treinamento específico, na periodicidade definida pelo CAvPM",
+    "nova matrícula no curso de especialização profissional a cada cinco anos",
+    "teste de aptidão e proficiência, na forma definida no PTO-Drone",
+    "avaliação técnica conduzida pelo Coordenador de Operação de UAS"
+   ],
+   "correta": 2,
+   "explicacao": "Para o piloto remoto, a renovação ocorre por teste de aptidão e proficiência destinado à certificação de suas credenciais, segundo periodicidade e forma definidas no PTO-Drone. A frequência a treinamento específico é o mecanismo previsto para o observador, e não para o piloto.",
+   "tags": [
+    "drone",
+    "habilitacao",
+    "proficiencia"
+   ]
+  },
+  {
+   "id": "drone-elab-066",
+   "subtema": "Seleção e habilitação",
+   "artigo": "Dtz PM3-001/02/25 — Limite de tempo de serviço",
+   "enunciado": "Quanto ao limite de tempo de serviço para frequentar os cursos de especialização relacionados ao Programa, a Diretriz prevê",
+   "alternativas": [
+    "trinta anos para o piloto remoto, sem previsão de limite para o observador",
+    "vinte e cinco anos tanto para o piloto remoto quanto para o observador",
+    "vinte e cinco anos para o piloto remoto, sem limite fixado para o observador",
+    "vinte anos para o piloto remoto e vinte e cinco anos para o observador"
+   ],
+   "correta": 2,
+   "explicacao": "O limite de tempo de serviço para frequentar o Curso de Especialização Profissional de Formação de Piloto Remoto é de vinte e cinco anos, não constando limite para o curso de Observador. A norma tampouco prevê curso de especialização para a função de segurança da equipe.",
+   "tags": [
+    "drone",
+    "habilitacao",
+    "limite"
+   ]
+  },
+  {
+   "id": "drone-elab-067",
+   "subtema": "Requisitos dos UAS",
+   "artigo": "Dtz PM3-001/02/25 — Composição dos UAS",
+   "enunciado": "Os UAS da Polícia Militar serão compostos por aeronave não tripulada conjugada a sistema de conectividade, transceptor aeronáutico e viatura, além",
+   "alternativas": [
+    "do mobiliário da Sala de Operações destinado ao monitoramento das imagens",
+    "do armamento não letal embarcado para as missões de controle de distúrbios",
+    "dos equipamentos de contramedida destinados à neutralização de outros drones",
+    "das soluções tecnológicas para as missões típicas das OPM que os possuírem"
+   ],
+   "correta": 3,
+   "explicacao": "A composição prevista abrange a UA conjugada a sistema de conectividade, transceptor aeronáutico e viatura, além das respectivas soluções tecnológicas para as missões típicas das OPM que os possuírem. As contramedidas antidrone existem na Diretriz, mas como atribuição de desenvolvimento de órgãos de direção, não como componente do UAS.",
+   "tags": [
+    "drone",
+    "uas",
+    "composicao"
+   ]
+  },
+  {
+   "id": "drone-elab-068",
+   "subtema": "Requisitos dos UAS",
+   "artigo": "Dtz PM3-001/02/25 — UAS Tático",
+   "enunciado": "Sistema composto por uma aeronave com lentes óticas ou digitais, preferencialmente com sensor termal, e com características de portabilidade, transporte e operacionalidade, classifica-se como",
+   "alternativas": [
+    "UAS Avançado, por dispor de sensor termal associado ao sistema ótico",
+    "UAS Especial, por atender a demanda específica da unidade detentora",
+    "UAS Tático, pela portabilidade e pela previsão preferencial do termal",
+    "UAS Básico, categoria destinada ao patrulhamento preventivo ordinário"
+   ],
+   "correta": 2,
+   "explicacao": "O UAS Tático é definido pelo sistema de lentes óticas ou digitais, preferencialmente com sensor termal, e pelas características de portabilidade, transporte e operacionalidade. No UAS Avançado o sensor termal é exigência mínima, e não mera preferência, o que distingue as duas classes.",
+   "tags": [
+    "drone",
+    "uas",
+    "tatico"
+   ]
+  },
+  {
+   "id": "drone-elab-069",
+   "subtema": "Requisitos dos UAS",
+   "artigo": "Dtz PM3-001/02/25 — UAS Avançado",
+   "enunciado": "O UAS Avançado, conforme a classificação da Diretriz, caracteriza-se por dispor de sensores, no mínimo ótico e termal, maior autonomia de voo e proteção contra água e poeira, podendo ser certificado para operação",
+   "alternativas": [
+    "VLOS ou EVLOS acima de quatrocentos pés, ou ainda para operação BVLOS",
+    "exclusivamente BVLOS, dispensada a presença do observador de UAS",
+    "VLOS abaixo de quatrocentos pés, vedada a operação com observador",
+    "somente em espaço aéreo segregado previamente autorizado pelo DECEA"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz prevê que o UAS Avançado pode ser certificado para operação VLOS ou EVLOS acima de quatrocentos pés, ou BVLOS. A certificação amplia as possibilidades de emprego, mas não elimina a figura do observador, indispensável na EVLOS.",
+   "tags": [
+    "drone",
+    "uas",
+    "avancado"
+   ]
+  },
+  {
+   "id": "drone-elab-070",
+   "subtema": "Requisitos dos UAS",
+   "artigo": "Dtz PM3-001/02/25 — UAS Especial",
+   "enunciado": "Unidade especializada necessita de aeronave com configuração que não se enquadra nas características do UAS Tático nem nas do UAS Avançado. Segundo a classificação da Diretriz, esse sistema será",
+   "alternativas": [
+    "inviável, por ausência de previsão normativa para a configuração pretendida",
+    "UAS Avançado adaptado, mediante autorização expressa do Comando de Aviação",
+    "UAS Especial, destinado a atender demanda específica de determinada OPM",
+    "UAS Tático modificado, conforme especificações técnicas da 4ª EM/PM"
+   ],
+   "correta": 2,
+   "explicacao": "O UAS Especial é o sistema composto por aeronave destinada a atender demanda específica de uma OPM, que não se enquadre nos sistemas Tático ou Avançado. A classe funciona como categoria residual da classificação.",
+   "tags": [
+    "drone",
+    "uas",
+    "especial"
+   ]
+  },
+  {
+   "id": "drone-elab-071",
+   "subtema": "Requisitos dos UAS",
+   "artigo": "Dtz PM3-001/02/25 — Subcategoria das aeronaves",
+   "enunciado": "Quanto à subcategoria das aeronaves empregadas no Programa de Policiamento com Drones, a Diretriz estabelece que serão, em regra,",
+   "alternativas": [
+    "SUA, admitindo-se excepcionalmente a RPAS conforme o CAvPM especificar",
+    "RPAS, admitindo-se excepcional e justificadamente a subcategoria SUA",
+    "RPAS, vedada em qualquer hipótese a utilização da subcategoria SUA",
+    "SUA, por dispensarem certificação aeronáutica ou projeto autorizado"
+   ],
+   "correta": 1,
+   "explicacao": "A regra é o emprego de aeronaves da subcategoria RPAS, admitindo-se, excepcional e justificadamente, a subcategoria SUA, conforme especificações do CAvPM. A questão explora tanto a inversão da regra quanto a falsa vedação absoluta.",
+   "tags": [
+    "drone",
+    "uas",
+    "rpas"
+   ]
+  },
+  {
+   "id": "drone-elab-072",
+   "subtema": "Requisitos dos UAS",
+   "artigo": "Dtz PM3-001/02/25 — Soluções tecnológicas",
+   "enunciado": "Os UAS da Polícia Militar deverão possuir soluções tecnológicas capazes de prover a captação, o registro e a transmissão de dados úteis ao voo e às operações, tais como",
+   "alternativas": [
+    "telemetria de voo, transmissão instantânea de imagens e custódia de evidências",
+    "identificação biométrica do piloto remoto e bloqueio remoto da decolagem",
+    "reconhecimento facial automatizado dos indivíduos presentes no local",
+    "integração direta com o SARPAS para autorização automática dos voos"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz exemplifica as soluções tecnológicas exigidas com a telemetria de voo, a transmissão instantânea de imagens para as Estruturas de Comando e Controle e a custódia de evidências digitais. As demais alternativas descrevem funcionalidades não previstas na norma.",
+   "tags": [
+    "drone",
+    "uas",
+    "tecnologia"
+   ]
+  },
+  {
+   "id": "drone-elab-073",
+   "subtema": "Requisitos dos UAS",
+   "artigo": "Dtz PM3-001/02/25 — Viatura conjugada",
+   "enunciado": "A viatura conjugada ao UAS será definida segundo critérios estabelecidos pela 4ª EM/PM, seguindo os padrões de certificação do CAvPM para as Equipes Drone, e poderá, inclusive,",
+   "alternativas": [
+    "dispensar o transporte do equipamento pela equipe em deslocamentos curtos",
+    "ser adaptada pela própria Unidade, conforme a disponibilidade local",
+    "substituir a Sala de Operações da Companhia durante grandes eventos",
+    "constituir Centro de Comando e Controle Móvel na área de operações"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz admite que a viatura, preferencialmente equipada com suporte para televisor, monitor, inversor de energia, compartimentos de transporte e tecnologia de conectividade, constitua Centro de Comando e Controle Móvel. Adaptações locais não são autorizadas, pois os critérios cabem à 4ª EM/PM e a certificação ao CAvPM.",
+   "tags": [
+    "drone",
+    "uas",
+    "viatura"
+   ]
+  },
+  {
+   "id": "drone-elab-074",
+   "subtema": "Regras do ar",
+   "artigo": "Dtz PM3-001/02/25 — Responsabilidades do RPIC",
+   "enunciado": "Durante o voo, a aeronave sobrevoa aglomeração de pessoas em via pública, sem margem de segurança para eventual pouso forçado. A responsabilidade pela proteção das pessoas e propriedades no solo, nesse caso, recai",
+   "alternativas": [
+    "sobre o Coordenador de Operação de UAS, no controle técnico do voo",
+    "sobre o observador de UAS, encarregado da vigilância do espaço aéreo",
+    "sobre o comandante da operação em solo, que autorizou o sobrevoo",
+    "sobre o piloto remoto em comando, de modo exclusivo e indelegável"
+   ],
+   "correta": 3,
+   "explicacao": "A proteção de pessoas e de propriedades no solo integra o rol de responsabilidades exclusivas do RPIC, ao lado da separação com obstáculos e demais aeronaves. O observador auxilia a condução do voo, mas não assume tais responsabilidades.",
+   "tags": [
+    "drone",
+    "regras-do-ar",
+    "responsabilidades"
+   ]
+  },
+  {
+   "id": "drone-elab-075",
+   "subtema": "Seleção e habilitação",
+   "artigo": "Dtz PM3-001/02/25 — Habilitação do Observador",
+   "enunciado": "A habilitação do observador de UAS fica condicionada à conclusão, com aproveitamento, do respectivo curso de especialização profissional desenvolvido pela Polícia Militar, e sua renovação ocorrerá",
+   "alternativas": [
+    "por teste de aptidão e proficiência, na forma prevista no PTO-Drone",
+    "por frequência a treinamento específico, na periodicidade fixada pelo CAvPM",
+    "automaticamente, enquanto o policial permanecer na Equipe Drone da OPM",
+    "por avaliação anual conduzida pela Escola de Aviação da Polícia Militar"
+   ],
+   "correta": 1,
+   "explicacao": "Para o observador, a renovação da habilitação ocorre por meio de frequência a treinamento específico, segundo periodicidade a ser definida pelo CAvPM. O teste de aptidão e proficiência previsto no PTO-Drone é o mecanismo aplicável ao piloto remoto.",
+   "tags": [
+    "drone",
+    "habilitacao",
+    "observador"
+   ]
+  },
+  {
+   "id": "drone-elab-076",
+   "subtema": "Monitoramento e controle",
+   "artigo": "Dtz PM3-001/02/25 — Indicadores do Programa",
+   "enunciado": "A eficiência, a eficácia e a efetividade do emprego de drones nas missões típicas serão aferidas por indicadores de desempenho e de resultados específicos, desenvolvidos",
+   "alternativas": [
+    "pelo CAvPM, que consolidará os dados técnicos das operações realizadas",
+    "pela Coord Op PM, integrando o Guia de Indicadores dos Programas",
+    "pelos Comandos de Policiamento, no âmbito dos respectivos Planos Táticos",
+    "pela 6ª EM/PM, responsável pelos processos operacionais do Programa"
+   ],
+   "correta": 1,
+   "explicacao": "Os indicadores específicos são desenvolvidos pela Coord Op PM e integrarão o Guia de Indicadores dos Programas de Policiamento. Os Cmdo Pol também desenvolvem indicadores, mas próprios e complementares, consignados em seus Planos Táticos.",
+   "tags": [
+    "drone",
+    "monitoramento",
+    "indicadores"
+   ]
+  },
+  {
+   "id": "drone-elab-077",
+   "subtema": "Monitoramento e controle",
+   "artigo": "Dtz PM3-001/02/25 — Informações gerenciais",
+   "enunciado": "As informações gerenciais relativas aos indicadores do Programa de Policiamento com Drones deverão constar em aba específica no SiCoordOp e serão objeto de avaliação periódica",
+   "alternativas": [
+    "nas RAC-II, momento em que se examina o alinhamento ao Plano Tático",
+    "nas RAC-I, por ocasião da avaliação do Plano Operacional da Unidade",
+    "nas reuniões de coordenação convocadas pelo CAvPM a cada semestre",
+    "nas RAC-III, sem prejuízo das análises realizadas nas RAC-I e II"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz determina que as informações gerenciais constem em aba específica no SiCoordOp e sejam objeto de avaliação periódica nas RAC-III. O emprego operacional dos drones, por sua vez, é analisado nas RAC-I e II, o que explica a confusão entre os níveis de reunião.",
+   "tags": [
+    "drone",
+    "monitoramento",
+    "sicoordop"
+   ]
+  },
+  {
+   "id": "drone-elab-078",
+   "subtema": "Monitoramento e controle",
+   "artigo": "Dtz PM3-001/02/25 — Indicadores dos Comandos de Policiamento",
+   "enunciado": "Aos Comandos de Policiamento cabe desenvolver indicadores de desempenho próprios e suas respectivas memórias de cálculo, capazes de aferir os resultados do emprego dos UAS nos indicadores criminais, devendo ainda",
+   "alternativas": [
+    "encaminhá-los ao CAvPM para validação técnica antes da aplicação",
+    "consigná-los nos respectivos Planos Táticos do Comando de Policiamento",
+    "publicá-los em boletim regional para conhecimento das OPM subordinadas",
+    "submetê-los à aprovação da Coord Op PM, gestora do Guia de Indicadores"
+   ],
+   "correta": 1,
+   "explicacao": "A norma exige que os indicadores próprios, especialmente os relacionados à criminalidade violenta, sejam consignados nos respectivos Planos Táticos. Não há previsão de validação prévia pelo CAvPM nem de aprovação pela Coord Op PM.",
+   "tags": [
+    "drone",
+    "monitoramento",
+    "plano-tatico"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "drone-elab-079",
+   "subtema": "Monitoramento e controle",
+   "artigo": "Dtz PM3-001/02/25 — Análise nas RAC",
+   "enunciado": "O emprego operacional dos drones será objeto de análise nas RAC-I e II, ocasião em que serão avaliadas",
+   "alternativas": [
+    "as condições técnicas dos equipamentos e a proficiência dos pilotos remotos",
+    "as informações gerenciais consolidadas na aba específica do SiCoordOp",
+    "as estratégias com uso de UA, a produtividade e os indicadores criminais",
+    "as necessidades de aquisição de novos sistemas para o exercício seguinte"
+   ],
+   "correta": 2,
+   "explicacao": "Nas RAC-I e II verifica-se o alinhamento aos Planos Táticos e ao Plano de Comando, avaliando-se as estratégias de policiamento com uso de UA como solução dos problemas policiais priorizados, a produtividade policial e os indicadores criminais. As informações gerenciais do SiCoordOp são avaliadas nas RAC-III.",
+   "tags": [
+    "drone",
+    "monitoramento",
+    "rac"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "drone-elab-080",
+   "subtema": "Monitoramento e controle",
+   "artigo": "Dtz PM3-001/02/25 — Fiscalização no Batalhão",
+   "enunciado": "No âmbito do Batalhão, a Diretriz impõe ao Comandante o estabelecimento de rotinas próprias de fiscalização, a ser realizada pelos escalões de comando e supervisão, além do monitoramento rotineiro a cargo",
+   "alternativas": [
+    "do Coordenador de Operações do Batalhão, no exercício de sua função",
+    "do Oficial Coordenador de Operação de UAS designado formalmente na Unidade",
+    "do Comandante da Companhia detentora do equipamento distribuído",
+    "do Comando de Policiamento, por meio de sua seção de operações"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz atribui ao Coord Op Btl o monitoramento rotineiro, distinto das rotinas de fiscalização dos escalões de comando e supervisão. O Oficial Coordenador de Operação de UAS tem incumbências próprias de monitoramento e fiscalização dos planos de ação, previstas em dispositivo diverso.",
+   "tags": [
+    "drone",
+    "monitoramento",
+    "fiscalizacao"
+   ]
+  },
+  {
+   "id": "drone-elab-081",
+   "subtema": "Monitoramento e controle",
+   "artigo": "Dtz PM3-001/02/25 — Plano Operacional",
+   "enunciado": "As ações, missões e operações policial-militares direcionadas ao atingimento das metas de controle ou redução de indicadores criminais fixadas no Plano Tático do Comando de Policiamento serão estipuladas",
+   "alternativas": [
+    "no plano de ação elaborado pela Companhia que emprega o equipamento",
+    "no Plano Operacional, pelos Comandantes de OPM de nível Batalhão",
+    "no Plano de Comando, submetido à aprovação do escalão superior",
+    "no documento de Estado-Maior que fixa as regras de engajamento"
+   ],
+   "correta": 1,
+   "explicacao": "Os Cmt OPM de nível Batalhão estipularão, no Plano Operacional, as ações, missões e operações direcionadas ao atingimento das metas fixadas no Plano Tático do Cmdo Pol a que estiverem subordinados. A cadeia de planejamento vai do Plano Tático regional ao Plano Operacional da Unidade.",
+   "tags": [
+    "drone",
+    "monitoramento",
+    "plano-operacional"
+   ]
+  },
+  {
+   "id": "drone-elab-082",
+   "subtema": "Boas práticas",
+   "artigo": "Dtz PM3-001/02/25 — Repositório de boas práticas",
+   "enunciado": "O repositório de boas práticas advindas dos resultados operacionais dos drones, com o registro de ocorrências referenciais e das metodologias empregadas pelas OPM, será fixado e constituído",
+   "alternativas": [
+    "pelo CAvPM, com a participação da Diretoria de Tecnologia da Informação",
+    "pela Coord Op PM, que reportará ao CAvPM as necessidades tecnológicas",
+    "pela 6ª EM/PM, responsável pela revisão dos processos operacionais padrão",
+    "pelos Comandos de Policiamento, em nível regional, com remessa ao Cmdo G"
+   ],
+   "correta": 1,
+   "explicacao": "A Coord Op PM fixa e constitui o repositório de boas práticas advindas dos resultados operacionais, registrando ocorrências referenciais e metodologias, e reporta ao CAvPM as necessidades de adequações tecnológicas. O repositório técnico, este sim, cabe ao CAvPM com participação da DTIC.",
+   "tags": [
+    "drone",
+    "boas-praticas",
+    "coordoppm"
+   ]
+  },
+  {
+   "id": "drone-elab-083",
+   "subtema": "Boas práticas",
+   "artigo": "Dtz PM3-001/02/25 — Repositório técnico",
+   "enunciado": "Ao CAvPM, com a participação da DTIC, incumbe fixar os parâmetros e constituir o repositório técnico de boas práticas advindas do emprego operacional de drones, com a finalidade de",
+   "alternativas": [
+    "consolidar os indicadores criminais alcançados em cada Comando",
+    "avaliar o desempenho das Equipes Drone nas operações realizadas",
+    "indicar as necessidades tecnológicas para o aperfeiçoamento dos UAS",
+    "subsidiar a revisão dos procedimentos operacionais padrão vigentes"
+   ],
+   "correta": 2,
+   "explicacao": "O repositório técnico visa indicar as necessidades tecnológicas para o aperfeiçoamento dos UAS, conforme o desenvolvimento e a evolução do Programa. A distinção entre o repositório técnico, do CAvPM, e o de resultados operacionais, da Coord Op PM, é cobrada com frequência.",
+   "tags": [
+    "drone",
+    "boas-praticas",
+    "cavpm"
+   ]
+  },
+  {
+   "id": "drone-elab-084",
+   "subtema": "Atribuições ODG",
+   "artigo": "Dtz PM3-001/02/25 — Atribuições do CIPM",
+   "enunciado": "Cabe ao Centro de Inteligência da Polícia Militar, no âmbito do Programa de Policiamento com Drones,",
+   "alternativas": [
+    "autorizar o emprego dos drones nas operações de nível regional programadas",
+    "regular o emprego de drones nas atividades de inteligência policial no Estado",
+    "custodiar as evidências digitais produzidas nas missões de monitoramento",
+    "habilitar os policiais militares que atuem em ações de inteligência aérea"
+   ],
+   "correta": 1,
+   "explicacao": "Ao CIPM compete regular o emprego de drones para as atividades de inteligência policial, sobretudo pelas agências de inteligência em todo o Estado, respeitados os requisitos e as orientações técnicas do CAvPM. A habilitação é atribuição do CAvPM e a custódia cabe aos Comandos de Policiamento.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "cipm"
+   ]
+  },
+  {
+   "id": "drone-elab-085",
+   "subtema": "Atribuições ODG",
+   "artigo": "Dtz PM3-001/02/25 — Atribuições do CCOMSOC",
+   "enunciado": "A elaboração de estratégias de comunicação social voltadas aos públicos interno e externo, para consolidar o uso de drones como tecnologia favorecedora da eficiência, transparência e legitimidade da atuação policial-militar, compete",
+   "alternativas": [
+    "ao Centro de Comunicação Social da Polícia Militar",
+    "à Coordenadoria de Operações da Polícia Militar",
+    "ao Comando de Aviação da Polícia Militar",
+    "à Terceira Seção do Estado-Maior da Polícia Militar"
+   ],
+   "correta": 0,
+   "explicacao": "A atribuição é do CCOMSOC, a quem também cabe promover a divulgação de conteúdos positivos resultantes do desenvolvimento do Programa. A divulgação de dados de uma operação específica, porém, continua dependendo de deliberação do Cmt, Ch ou Dir da OPM.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "ccomsoc"
+   ]
+  },
+  {
+   "id": "drone-elab-086",
+   "subtema": "Atribuições ODG",
+   "artigo": "Dtz PM3-001/02/25 — Atribuições da 3ª EM/PM",
+   "enunciado": "Monitorar o desenvolvimento do Programa em todo o Estado, analisar propostas de aprimoramento e assessorar o Comando Geral quanto a ajustes na doutrina de emprego operacional é atribuição",
+   "alternativas": [
+    "da 6ª EM/PM, que desenvolve os processos operacionais específicos do UAS",
+    "da 3ª EM/PM, que também analisa e adequa os currículos de cursos e estágios",
+    "da Coord Op PM, que monitora o Programa pelo Guia de Indicadores",
+    "do CAvPM, que responde tecnicamente pelas operações com aeronaves"
+   ],
+   "correta": 1,
+   "explicacao": "A 3ª EM/PM monitora o desenvolvimento do Programa, assessora o Cmdo G quanto a ajustes doutrinários e analisa e adequa os currículos de cursos e estágios relacionados à Diretriz. A Coord Op PM também monitora, porém por meio do Guia de Indicadores dos Programas de Policiamento.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "3em"
+   ]
+  },
+  {
+   "id": "drone-elab-087",
+   "subtema": "Atribuições ODG",
+   "artigo": "Dtz PM3-001/02/25 — Atribuições da 4ª EM/PM",
+   "enunciado": "As medidas de estratégia e planejamento de fixação, aquisição e distribuição de drones, de seus sistemas e das viaturas que integrarão os UAS, com base nas previsões dos Planos Táticos, competem",
+   "alternativas": [
+    "ao CAvPM, que fixa os parâmetros técnicos referenciais de aquisição",
+    "à Diretoria de Logística, que conduz os processos de aquisição na Instituição",
+    "à Diretoria de Finanças, responsável pelo planejamento orçamentário anual",
+    "à 4ª EM/PM, seguindo os critérios de certificação do CAvPM para as equipes"
+   ],
+   "correta": 3,
+   "explicacao": "À 4ª EM/PM cabe adotar as medidas de estratégia e planejamento de fixação, aquisição e distribuição, com base nos Planos Táticos dos Cmdo Pol e nos critérios de certificação do CAvPM. A DL elabora os processos de aquisição e o CAvPM fixa os parâmetros técnicos, mas o planejamento estratégico é da 4ª EM/PM.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "4em"
+   ]
+  },
+  {
+   "id": "drone-elab-088",
+   "subtema": "Atribuições ODG",
+   "artigo": "Dtz PM3-001/02/25 — Atribuições da 6ª EM/PM",
+   "enunciado": "Desenvolver, em conjunto com o CAvPM e os Comandos de Policiamento, os processos operacionais específicos para o uso do drone nas missões pertinentes, analisando propostas e promovendo revisões nos POP, é atribuição",
+   "alternativas": [
+    "da 6ª EM/PM, no exercício de sua competência sobre processos operacionais",
+    "da Coord Op PM, que responde pela melhoria contínua desses processos",
+    "do CAvPM, órgão gestor do conhecimento sobre operações com UAS",
+    "da 3ª EM/PM, responsável pela doutrina de emprego operacional da PM"
+   ],
+   "correta": 0,
+   "explicacao": "A atribuição é da 6ª EM/PM, que desenvolve os processos operacionais específicos e promove revisões nos POP, em conjunto com o CAvPM e os demais Cmdo Pol. A Coord Op PM atua na melhoria contínua dos processos com base nas RAC-III e no repositório de boas práticas, atividade distinta.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "6em"
+   ]
+  },
+  {
+   "id": "drone-elab-089",
+   "subtema": "Atribuições ODG",
+   "artigo": "Dtz PM3-001/02/25 — Atribuições da Coord Op PM",
+   "enunciado": "Entre as atribuições particulares da Coord Op PM previstas na Diretriz, inclui-se",
+   "alternativas": [
+    "desenvolver soluções tecnológicas de controle gerencial em conjunto com DTIC e CAvPM",
+    "representar a Polícia Militar junto aos órgãos reguladores das operações com UAS",
+    "elaborar o Programa de Treinamento Operacional para Drones da Instituição",
+    "certificar as Equipes Drone e definir a periodicidade de sua renovação"
+   ],
+   "correta": 0,
+   "explicacao": "Cabe à Coord Op PM desenvolver, em conjunto com a DTIC e o CAvPM, soluções tecnológicas de controle gerencial do emprego de drones. Representação junto aos órgãos reguladores, elaboração do PTO-Drone e certificação das equipes são todas atribuições do CAvPM.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "coordoppm"
+   ]
+  },
+  {
+   "id": "drone-elab-090",
+   "subtema": "Atribuições ODG",
+   "artigo": "Dtz PM3-001/02/25 — Melhoria contínua",
+   "enunciado": "As medidas relacionadas à melhoria contínua dos processos operacionais do Programa serão desenvolvidas pela Coord Op PM, em conjunto com os Comandos de Policiamento, utilizando-se principalmente",
+   "alternativas": [
+    "das avaliações de proficiência dos pilotos remotos realizadas pelo CAvPM",
+    "dos relatórios de sinistros produzidos no gerenciamento de segurança operacional",
+    "dos dados e informações obtidos nas RAC-III e do repositório de boas práticas",
+    "das propostas encaminhadas pelos Oficiais Coordenadores de Operação de UAS"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz indica como insumos principais os dados e informações obtidos nas RAC-III e o repositório de boas práticas. As demais alternativas mencionam instrumentos existentes na norma, mas destinados a outras finalidades.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "melhoria"
+   ]
+  },
+  {
+   "id": "drone-elab-091",
+   "subtema": "Atribuições ODS",
+   "artigo": "Dtz PM3-001/02/25 — Atribuições da Diretoria de Finanças",
+   "enunciado": "Prover, de acordo com o planejamento financeiro e orçamentário da Polícia Militar, recursos para a aquisição de aeronaves não tripuladas, de seus respectivos sistemas e das aplicações conjugadas é atribuição",
+   "alternativas": [
+    "do Comando de Aviação, detentor do conhecimento técnico sobre os sistemas",
+    "da 4ª EM/PM, que planeja a fixação e a distribuição dos equipamentos",
+    "da Diretoria de Logística, que conduz as aquisições e contratações na PM",
+    "da Diretoria de Finanças, órgão de direção setorial da Instituição"
+   ],
+   "correta": 3,
+   "explicacao": "A DF responde pelo provimento dos recursos conforme o planejamento financeiro e orçamentário. A DL elabora os processos de aquisição e distribuição de meios, como viaturas e soluções de adaptação veicular, com a participação do CAvPM.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "df"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "drone-elab-092",
+   "subtema": "Atribuições ODS",
+   "artigo": "Dtz PM3-001/02/25 — Atribuições da DTIC",
+   "enunciado": "O desenvolvimento de aplicativo a ser integrado ao SiCoordOp, apto a prestar informações gerenciais e a permitir acesso remoto às imagens coletadas pelos UAS, compete",
+   "alternativas": [
+    "ao CAvPM, gestor do conhecimento das operações com UAS",
+    "à Coord Op PM, com o apoio técnico prestado pela DTIC",
+    "à DTIC, com a participação do CAvPM e da Coord Op PM",
+    "à 6ª EM/PM, responsável pelos processos operacionais do Programa"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz atribui à DTIC desenvolver, com a participação do CAvPM e da Coord Op PM, o aplicativo integrado ao SiCoordOp com informações gerenciais e acesso remoto às imagens. A Coord Op PM participa, mas não conduz o desenvolvimento.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "dtic"
+   ]
+  },
+  {
+   "id": "drone-elab-093",
+   "subtema": "Atribuições ODS",
+   "artigo": "Dtz PM3-001/02/25 — Atribuições da DEC",
+   "enunciado": "A utilização de videotreinamentos e de Instruções Continuadas de Comando para auxiliar a instrução do efetivo quanto ao emprego de drones, bem como o auxílio ao CAvPM no desenvolvimento do PTO-Drone, são atribuições",
+   "alternativas": [
+    "da Diretoria de Ensino e Cultura, que também sistematiza a revisão dos currículos",
+    "da Escola de Aviação da Polícia Militar, no exercício da gestão do conhecimento",
+    "da 3ª EM/PM, que analisa e adequa os currículos dos cursos e estágios",
+    "do Comando de Policiamento, quanto ao efetivo das unidades subordinadas"
+   ],
+   "correta": 0,
+   "explicacao": "À DEC cabe sistematizar a revisão e atualização dos conteúdos programáticos dos cursos e estágios relacionados à Diretriz, auxiliar na instrução do efetivo por videotreinamentos e ICC, e auxiliar o CAvPM no desenvolvimento do PTO-Drone. A elaboração do PTO permanece com o CAvPM.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "dec"
+   ]
+  },
+  {
+   "id": "drone-elab-094",
+   "subtema": "Atribuições ODS",
+   "artigo": "Dtz PM3-001/02/25 — Contramedidas antidrone",
+   "enunciado": "O desenvolvimento de soluções de contramedidas, a exemplo de equipamentos antidrones, para aeronaves não tripuladas utilizadas por organizações criminosas, é atribuição prevista para",
+   "alternativas": [
+    "a DTIC e a Diretoria de Logística, responsáveis pelas contratações",
+    "o CAvPM, com exclusividade, por deter o conhecimento aeronáutico",
+    "o CIPM, com exclusividade, por versar sobre inteligência policial",
+    "o CIPM, a Coord Op PM, a DTIC e o CAvPM, em atuação conjunta"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz repete a mesma incumbência, com redação espelhada, nas atribuições do CIPM, da Coord Op PM, da DTIC e do CAvPM, sempre em conjunto com os demais. Trata-se de atuação necessariamente conjunta, e não de competência exclusiva de um órgão.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "contramedidas"
+   ]
+  },
+  {
+   "id": "drone-elab-095",
+   "subtema": "Atribuições CAvPM",
+   "artigo": "Dtz PM3-001/02/25 — Parâmetros técnicos",
+   "enunciado": "Compete ao CAvPM desenvolver e manter atualizados os parâmetros técnicos referenciais para a aquisição de equipamentos de UAS, prospectar novas tecnologias e ainda",
+   "alternativas": [
+    "distribuir os equipamentos às OPM conforme os Planos Táticos regionais",
+    "prover os recursos orçamentários necessários às aquisições planejadas",
+    "assessorar a DL e a DTIC nos processos de aquisição e contratação",
+    "aprovar o plano de ação das Equipes Drone elaborado pelas Unidades"
+   ],
+   "correta": 2,
+   "explicacao": "O CAvPM assessora a DL e a DTIC nos processos de aquisição e contratação, respectivamente, de viaturas de apoio aos UAS e de itens e serviços de tecnologia. O provimento de recursos é da DF e a distribuição decorre do planejamento da 4ª EM/PM.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "cavpm"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "drone-elab-096",
+   "subtema": "Atribuições CAvPM",
+   "artigo": "Dtz PM3-001/02/25 — Segurança operacional",
+   "enunciado": "Ocorrendo queda de aeronave com dano a patrimônio particular, os procedimentos técnicos e administrativos a serem adotados decorrem do sistema de gerenciamento de segurança operacional, cujo desenvolvimento incumbe",
+   "alternativas": [
+    "ao Comando de Policiamento, que apura os sinistros ocorridos em sua área",
+    "ao CAvPM, que elabora manual com objetivos, políticas e responsabilidades",
+    "à Corregedoria da Polícia Militar, competente para apurar danos ao erário",
+    "ao Oficial Coordenador de Operação de UAS da Unidade envolvida no sinistro"
+   ],
+   "correta": 1,
+   "explicacao": "A Diretriz incumbe o CAvPM de desenvolver sistema de gerenciamento de segurança operacional abrangendo as operações com UAS, elaborando manual com objetivos, políticas, responsabilidades e estruturas, e disciplinando os procedimentos aplicáveis à eclosão de sinistros como colisão, queda, lesão corporal, danos e perda de enlace com extravio do drone.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "seguranca-operacional"
+   ]
+  },
+  {
+   "id": "drone-elab-097",
+   "subtema": "Atribuições CAvPM",
+   "artigo": "Dtz PM3-001/02/25 — Acervo normativo",
+   "enunciado": "A disponibilização e a manutenção, em página na Intranet, de todo o acervo normativo publicado pelos órgãos reguladores das operações de aeronaves não tripuladas competem",
+   "alternativas": [
+    "ao Oficial Coordenador de Operação de UAS, no âmbito de cada Unidade",
+    "à DTIC, responsável pelas plataformas institucionais de informação",
+    "à Coord Op PM, que consolida a doutrina dos programas de policiamento",
+    "ao CAvPM, de modo a propiciar rápida consulta pelos operadores"
+   ],
+   "correta": 3,
+   "explicacao": "Cabe ao CAvPM disponibilizar e manter atualizado em sua página na Intranet o acervo normativo dos órgãos reguladores, propiciando rápida consulta pelos operadores, além de monitorar a regulamentação e divulgá-la ao efetivo das Equipes Drone.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "cavpm"
+   ]
+  },
+  {
+   "id": "drone-elab-098",
+   "subtema": "Atribuições CAvPM",
+   "artigo": "Dtz PM3-001/02/25 — Representação institucional",
+   "enunciado": "A representação da Polícia Militar junto aos órgãos reguladores de operação com UAS, com a realização de cadastramento e a emissão das informações necessárias às operações, incumbe",
+   "alternativas": [
+    "ao CIPM, no que se refere às operações de natureza sigilosa ou reservada",
+    "ao CAvPM, que atua para expandir a capacidade operacional do Programa",
+    "aos Comandos de Policiamento, quanto às operações realizadas em sua área",
+    "ao piloto remoto em comando, responsável pelo registro de cada missão"
+   ],
+   "correta": 1,
+   "explicacao": "O CAvPM representa a Polícia Militar junto aos órgãos reguladores, realizando cadastramento e emitindo informações, e atua para expandir a capacidade operacional do Programa, atualmente limitada pelas normas reguladoras. Ao piloto cabe apenas a comunicação bilateral quando aplicável durante o voo.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "cavpm"
+   ]
+  },
+  {
+   "id": "drone-elab-099",
+   "subtema": "Evidência digital",
+   "artigo": "Dtz PM3-001/02/25 — Custódia das evidências",
+   "enunciado": "Quanto à estrutura de armazenamento e custódia das evidências digitais de interesse de segurança pública, a Diretriz estabelece, como regra prioritária,",
+   "alternativas": [
+    "o armazenamento sob a responsabilidade do próprio piloto remoto em comando",
+    "o armazenamento direto na Divisão ou Seção de Operações, dispensada a etapa anterior",
+    "o armazenamento na Sala de Operações da Companhia, com custódia final no Comando",
+    "o armazenamento na Sala de Operações do Batalhão, com custódia final na Div Op ou Seç Op"
+   ],
+   "correta": 3,
+   "explicacao": "A ordem prevista começa pelo armazenamento e custódia prioritários na Sala de Operações do Batalhão, com custódia final na Div Op, Seç Op ou equivalente, seguindo-se as Salas de Operações das Cia PM e, na ausência dessas estruturas, o armazenamento direto e a custódia na Div Op ou Seç Op no primeiro momento possível.",
+   "tags": [
+    "drone",
+    "evidencia-digital",
+    "custodia"
+   ]
+  },
+  {
+   "id": "drone-elab-100",
+   "subtema": "Evidência digital",
+   "artigo": "Dtz PM3-001/02/25 — Ausência de estrutura",
+   "enunciado": "Companhia que não dispõe de estrutura em Sala de Operações realiza voo e capta imagens de interesse de segurança pública. Segundo a Diretriz, a Unidade deverá",
+   "alternativas": [
+    "aguardar a implantação da estrutura para efetivar o armazenamento devido",
+    "encaminhar o material ao CAvPM, que centraliza a custódia das evidências",
+    "manter as imagens no próprio equipamento até a conclusão da ocorrência",
+    "realizar o armazenamento direto na Div Op ou Seç Op, no primeiro momento"
+   ],
+   "correta": 3,
+   "explicacao": "Diante da ausência de estruturas existentes em Sala de Operações, a Diretriz determina realizar, no primeiro momento possível, o armazenamento direto e a custódia na Div Op, Seç Op ou equivalente. A solução preserva a cadeia de custódia exigida pelo Código de Processo Penal.",
+   "tags": [
+    "drone",
+    "evidencia-digital",
+    "custodia"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "drone-elab-101",
+   "subtema": "Atribuições dos Comandos",
+   "artigo": "Dtz PM3-001/02/25 — Comandos de Policiamento",
+   "enunciado": "Entre as atribuições particulares dos Comandos de Policiamento, a Diretriz prevê o estabelecimento de rotinas de controle e monitoramento das operações com UAS",
+   "alternativas": [
+    "em substituição às rotinas previstas na regulamentação em vigor",
+    "somente quando houver emprego de equipes em operações de nível regional",
+    "além daquelas já previstas na regulamentação, a exemplo das RAC-I e II",
+    "mediante delegação expressa da Coord Op PM aos comandos regionais"
+   ],
+   "correta": 2,
+   "explicacao": "A norma exige rotinas de controle e monitoramento além daquelas já previstas na regulamentação em vigor, a exemplo das RAC-I e II. Trata-se de acréscimo de controle, e não de substituição das rotinas existentes.",
+   "tags": [
+    "drone",
+    "atribuicoes",
+    "comandos"
+   ]
+  }
+ ]
+}

@@ -80,6 +80,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "drone-elab",
+      "nome": "Drones",
+      "nomeCompleto": "Emprego de aeronaves remotamente pilotadas e programa de policiamento com drones (101 questões)",
+      "norma": "Dtz PM3-001/02/25",
+      "arquivo": "data/drone-elab.json",
+      "cor": "#3f7a5a",
+      "ativo": true,
+      "ordem": 8,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
