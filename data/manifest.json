@@ -36,6 +36,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "i40-elab",
+      "nome": "I-40-PM",
+      "nomeCompleto": "Instruções do Procedimento Disciplinar e dos atos de PJM (103 questões)",
+      "norma": "I-40-PM",
+      "arquivo": "data/i40-elab.json",
+      "cor": "#7a4a1f",
+      "ativo": true,
+      "ordem": 4,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",

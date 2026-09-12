@@ -1,0 +1,1919 @@
+{
+ "materia": "i40-elab",
+ "versao": "1.6.0",
+ "atualizadoEm": "2026-09-12",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "APFDM",
+  "Ambiental e Rodoviária",
+  "Atos de PJM",
+  "Autoridades de PJM",
+  "Aviação",
+  "Avocação",
+  "Ações Especiais de Polícia",
+  "Choque",
+  "Ciência às autoridades",
+  "Conflito de atribuições",
+  "Corpo de Bombeiros",
+  "Corregedoria",
+  "Corregedoria PM",
+  "Delegação de PJM",
+  "Delegação por tipo de indiciado",
+  "Deserção",
+  "Estrutura da norma",
+  "Finalidades e âmbito",
+  "Fluxo de atendimento",
+  "GMV com PM de folga",
+  "GMV com mais de uma OPM",
+  "GMV com único BPM",
+  "GMV em Órgão de Direção ou Apoio",
+  "GMV na Aviação",
+  "GMV na Corregedoria",
+  "GMV no Ambiental e na Rodoviária",
+  "GMV no BAEP",
+  "GMV no Choque",
+  "GMV no Corpo de Bombeiros",
+  "GMV no Trânsito",
+  "GMV no interior de OPM",
+  "IPM — arquivo",
+  "IPM — encerramento",
+  "IPM — prazos",
+  "IPM — regime",
+  "IPM — registro",
+  "Instauração territorial",
+  "Interior de quartel",
+  "Mais de uma OPM",
+  "Medidas disciplinares",
+  "Ocorrências graves",
+  "Plantão de PJM e Disciplina",
+  "Policial de folga",
+  "Serviço de PJM e Disciplina",
+  "Supervisão dos trabalhos",
+  "Supervisão em ocorrências GMV",
+  "Trânsito",
+  "Órgãos de Direção e Apoio"
+ ],
+ "questoes": [
+  {
+   "id": "i40-elab-001",
+   "subtema": "Finalidades e âmbito",
+   "artigo": "I-40-PM — disposições preliminares",
+   "enunciado": "Oficial sustenta que as I-40-PM disciplinam os ritos do Conselho de Disciplina e do PAD. Quanto às finalidades da norma, a afirmação é:",
+   "alternativas": [
+    "incorreta, pois os ritos dos processos regulares são objeto das I-16-PM",
+    "correta, pois as I-40-PM tratam dos processos regulares por crime militar",
+    "correta, pois as I-40-PM disciplinam o processo regular do preso em flagrante",
+    "incorreta, pois os ritos dos processos regulares constam do próprio RDPM"
+   ],
+   "correta": 0,
+   "explicacao": "São finalidades das I-40-PM esclarecer conceitos suplementares de PJM, os limites das atribuições, a forma de solução dos conflitos, a estrutura de constante supervisão e o pronto atendimento. Ritos de processos regulares (CD, PAD e CJ) são matéria das I-16-PM.",
+   "tags": [
+    "finalidades",
+    "i16-i40"
+   ]
+  },
+  {
+   "id": "i40-elab-002",
+   "subtema": "Finalidades e âmbito",
+   "artigo": "I-40-PM — disposições preliminares",
+   "enunciado": "Assinale a alternativa que NÃO corresponde a uma finalidade das I-40-PM:",
+   "alternativas": [
+    "esclarecer os procedimentos e ritos adotados na condução dos processos regulares",
+    "esclarecer a forma de solução dos conflitos de atribuições de polícia judiciária militar",
+    "esclarecer os limites do exercício das atribuições de polícia judiciária militar",
+    "esclarecer a estrutura de pronto atendimento das ocorrências com infração penal de PM"
+   ],
+   "correta": 0,
+   "explicacao": "Conduzir processos regulares é objeto das I-16-PM. As I-40-PM cuidam do atendimento das ocorrências com infração penal praticada por PM, dos atos de polícia judiciária militar e das ocorrências graves, vultosas ou com morte.",
+   "tags": [
+    "finalidades",
+    "pegadinha"
+   ]
+  },
+  {
+   "id": "i40-elab-003",
+   "subtema": "Estrutura da norma",
+   "artigo": "I-40-PM — estrutura geral",
+   "enunciado": "A I-40-PM organiza-se em dois grandes eixos. São eles:",
+   "alternativas": [
+    "atos de polícia judiciária militar e sanções disciplinares aplicáveis",
+    "procedimentos investigatórios e processos regulares disciplinares",
+    "polícia judiciária militar e ocorrências graves, vultosas ou com morte",
+    "inquérito policial-militar e conselhos de disciplina e de justificação"
+   ],
+   "correta": 2,
+   "explicacao": "Os eixos são: PJM (quem tem atribuição, como se delega, quais são os atos e como se resolvem conflitos) e ocorrências GMV (quem comparece ao local e quais providências adotar). Sindicância, processos regulares e sanções pertencem às I-16-PM e ao RDPM.",
+   "tags": [
+    "estrutura",
+    "eixos"
+   ]
+  },
+  {
+   "id": "i40-elab-004",
+   "subtema": "Autoridades de PJM",
+   "artigo": "I-40-PM — autoridades originárias",
+   "enunciado": "São autoridades originárias de polícia judiciária militar, nos termos das I-40-PM:",
+   "alternativas": [
+    "o Comandante Geral, o Subcomandante PM, o Corregedor e os Supervisores Regionais",
+    "o Comandante Geral, os Diretores, Chefes e os Oficiais do Serviço de PJM e Disciplina",
+    "o Comandante Geral, o Subcomandante PM, os Comandantes de Policiamento e de Companhia",
+    "o Comandante Geral, o Subcomandante PM, os Diretores, Chefes e Comandantes de Unidades"
+   ],
+   "correta": 3,
+   "explicacao": "O rol vai do Comandante de Unidade ao Comandante Geral: Cmt G, Subcmt PM, Diretores, Chefes e Comandantes de Unidades. Supervisores, Comandantes de Companhia e Oficiais do SJD podem receber delegação, mas não são autoridades originárias.",
+   "tags": [
+    "autoridades-originarias"
+   ]
+  },
+  {
+   "id": "i40-elab-005",
+   "subtema": "Autoridades de PJM",
+   "artigo": "I-40-PM — assessoramento",
+   "enunciado": "Nos atos de polícia judiciária militar praticados pelo Comandante Geral e pelo Subcomandante PM, o assessoramento cabe:",
+   "alternativas": [
+    "à Corregedoria PM, responsável também pelo controle e normatização da PJM",
+    "à Consultoria Jurídica da Polícia Militar, por deliberação do Comando Geral",
+    "ao Estado-Maior, por intermédio da seção responsável pela Justiça e Disciplina",
+    "ao Oficial do Serviço de PJM e Disciplina da Unidade envolvida na ocorrência"
+   ],
+   "correta": 0,
+   "explicacao": "A Corregedoria PM assessora o Cmt G e o Subcmt PM nos atos de PJM por eles praticados e é a responsável pelo controle e normatização das atividades de polícia judiciária militar na Instituição, sem prejuízo do controle de outras autoridades.",
+   "tags": [
+    "corregedoria",
+    "assessoramento"
+   ]
+  },
+  {
+   "id": "i40-elab-006",
+   "subtema": "Delegação de PJM",
+   "artigo": "I-40-PM, art. 2º — delegação",
+   "enunciado": "Quanto à delegação do exercício das atribuições de polícia judiciária militar, é correto afirmar que:",
+   "alternativas": [
+    "pode recair sobre Oficiais da ativa ou da reserva, por prazo indeterminado",
+    "pode recair sobre Subtenentes e Sargentos do Serviço de PJM e Disciplina",
+    "é genérica para todas as ocorrências da Unidade durante o período de serviço",
+    "deve ser expressa e individualizada para cada ocorrência policial atendida"
+   ],
+   "correta": 3,
+   "explicacao": "A delegação é feita a Oficiais DA ATIVA, por tempo determinado e para fins específicos, devendo ser EXPRESSA E INDIVIDUALIZADA para cada ocorrência. Não alcança praças nem oficiais da reserva, e não se admite delegação genérica.",
+   "tags": [
+    "delegacao",
+    "requisitos"
+   ]
+  },
+  {
+   "id": "i40-elab-007",
+   "subtema": "Delegação de PJM",
+   "artigo": "I-40-PM, art. 2º — formas de delegação",
+   "enunciado": "Autoridade originária de PJM, cientificada por telefone de ocorrência com indícios de crime militar, determina de imediato a instauração do procedimento. Essa delegação:",
+   "alternativas": [
+    "é nula, pois o CPPM veda a delegação por telefone ou meio eletrônico",
+    "é válida, dispensada qualquer providência posterior de confirmação do ato",
+    "é válida, com remessa dos autos no próximo expediente à autoridade originária",
+    "é válida apenas se confirmada por escrito antes do início da instrução"
+   ],
+   "correta": 2,
+   "explicacao": "As I-40-PM admitem a delegação por escrito, verbalmente quando a autoridade comparecer ao local, e por rádio, telefone ou qualquer meio eletrônico. Nos dois últimos casos, os autos são remetidos no início do próximo expediente para confirmação, troca do encarregado ou determinação de diligências.",
+   "tags": [
+    "delegacao",
+    "telefone"
+   ]
+  },
+  {
+   "id": "i40-elab-008",
+   "subtema": "Delegação de PJM",
+   "artigo": "I-40-PM, art. 2º — delegação verbal",
+   "enunciado": "Remetidos os autos à autoridade originária, no início do próximo expediente, em razão de delegação não escrita, cabe a ela:",
+   "alternativas": [
+    "confirmar a determinação, alterar o Oficial Encarregado ou determinar diligências",
+    "homologar o inquérito e remetê-lo diretamente ao Ministério Público Militar",
+    "ratificar a delegação ou determinar o arquivamento do procedimento instaurado",
+    "designar novo escrivão e reiniciar a contagem do prazo de conclusão do feito"
+   ],
+   "correta": 0,
+   "explicacao": "São três as opções: confirmar expressamente a determinação; decidir sobre a conveniência de alterar o Oficial Encarregado; ou determinar as diligências imprescindíveis ao esclarecimento dos fatos. Instaurado o IPM, não cabe arquivamento nem transformação em outra apuração.",
+   "tags": [
+    "delegacao",
+    "confirmacao"
+   ]
+  },
+  {
+   "id": "i40-elab-009",
+   "subtema": "Atos de PJM",
+   "artigo": "I-40-PM — atos de polícia judiciária militar",
+   "enunciado": "São atos de polícia judiciária militar disciplinados pelas I-40-PM:",
+   "alternativas": [
+    "o auto de prisão em flagrante delito militar, o inquérito policial-militar e a sindicância",
+    "o inquérito policial-militar, o termo de deserção e a investigação preliminar",
+    "o auto de prisão em flagrante delito militar, o inquérito policial-militar e o termo de deserção",
+    "o inquérito policial-militar, o procedimento disciplinar e o termo de deserção"
+   ],
+   "correta": 2,
+   "explicacao": "Os atos de PJM são o APFDM, o IPM e o Termo de Deserção. Sindicância, investigação preliminar e procedimento disciplinar são apurações administrativas, regidas pelas I-16-PM e pelo RDPM.",
+   "tags": [
+    "atos-pjm"
+   ]
+  },
+  {
+   "id": "i40-elab-010",
+   "subtema": "Atos de PJM",
+   "artigo": "I-40-PM, art. 2º, § 3º c/c CPPM, art. 451",
+   "enunciado": "Comandante de Unidade pretende delegar a um Capitão a confecção do termo de deserção de praça de sua Unidade. Considerando o CPPM e as I-40-PM:",
+   "alternativas": [
+    "a delegação é possível, pois o CPPM autoriza que a autoridade faça lavrar o termo",
+    "a delegação é vedada, pois as I-40-PM não admitem delegação para esse ato",
+    "a delegação é possível, desde que o Capitão seja mais antigo que o desertor",
+    "a delegação é vedada, pois o CPPM exige que o termo seja lavrado pelo juiz"
+   ],
+   "correta": 1,
+   "explicacao": "O art. 451 do CPPM diz que a autoridade FARÁ LAVRAR o termo, o que admitiria delegação; as I-40-PM, porém, no art. 2º, § 3º, dispõem que para a confecção do Termo de Deserção NÃO SE ADMITE DELEGAÇÃO. Na PMESP prevalece a norma interna: o ato é indelegável.",
+   "tags": [
+    "termo-desercao",
+    "indelegavel"
+   ]
+  },
+  {
+   "id": "i40-elab-011",
+   "subtema": "Avocação",
+   "artigo": "I-40-PM — avocação do procedimento",
+   "enunciado": "Instaurado IPM por determinação de Comandante de Batalhão, o Comandante de Policiamento de Área entende necessário assumir o feito. Nos termos das I-40-PM:",
+   "alternativas": [
+    "não pode avocar, pois a avocação é privativa do Comandante Geral",
+    "pode avocar o procedimento apenas antes do interrogatório do indiciado",
+    "não pode avocar, cabendo-lhe apenas determinar diligências complementares",
+    "pode avocar o procedimento, passando a responder pelo seu controle e solução"
+   ],
+   "correta": 3,
+   "explicacao": "A autoridade de PJM originária SUPERIOR àquela que instaurou ou determinou a instauração pode AVOCAR o procedimento, tornando-se responsável pelo controle e pela solução. Não há limite de fase processual nem exclusividade do Comandante Geral.",
+   "tags": [
+    "avocacao"
+   ]
+  },
+  {
+   "id": "i40-elab-012",
+   "subtema": "Ocorrências graves",
+   "artigo": "I-40-PM — prisão em flagrante por crime militar",
+   "enunciado": "A prisão em flagrante delito pela prática de crime militar é considerada, pelas I-40-PM:",
+   "alternativas": [
+    "ocorrência grave, atraindo as medidas de acompanhamento previstas nas Instruções",
+    "ocorrência de natureza ordinária, dispensado o comparecimento de oficiais",
+    "ocorrência vultosa, apenas quando envolver arma de fogo institucional",
+    "ocorrência passível de repercussão, conforme avaliação do Comandante da Unidade"
+   ],
+   "correta": 0,
+   "explicacao": "A prisão em flagrante por crime militar é ocorrência GRAVE, razão pela qual se adotam as medidas de acompanhamento: no expediente, comparecimento do Cmt Cia do PM envolvido; fora dele, do Supervisor Regional ou do Supervisor de especializada.",
+   "tags": [
+    "flagrante",
+    "ocorrencia-grave"
+   ]
+  },
+  {
+   "id": "i40-elab-013",
+   "subtema": "Ocorrências graves",
+   "artigo": "I-40-PM — acompanhamento de ocorrências",
+   "enunciado": "Em ocorrência grave envolvendo policial militar de Batalhão territorial, durante o horário de expediente administrativo, a presença e as providências cabem ao:",
+   "alternativas": [
+    "Oficial de Serviço no Plantão de PJM e Disciplina da área dos fatos",
+    "Supervisor Regional e, em sua falta, ao Oficial Superior de Sobreaviso do CPA ou CPI",
+    "Comandante do Batalhão pessoalmente e, em sua falta, ao seu Subcomandante",
+    "Comandante da Companhia do PM envolvido e, em sua falta, ao Coord Op do Batalhão"
+   ],
+   "correta": 3,
+   "explicacao": "No expediente administrativo: Cmt Cia do PM envolvido; em sua falta, o Coordenador Operacional do Batalhão; na falta de ambos, o Subcomandante. Fora do expediente, a regra chama o Supervisor Regional ou o Supervisor de especializada.",
+   "tags": [
+    "gmv",
+    "expediente"
+   ]
+  },
+  {
+   "id": "i40-elab-014",
+   "subtema": "Fluxo de atendimento",
+   "artigo": "I-40-PM — notícia de crime militar",
+   "enunciado": "Policial militar de folga toma conhecimento de fato com indícios de crime militar. Segundo o fluxo das I-40-PM, deve avisar:",
+   "alternativas": [
+    "o Comandante da Força de Patrulha da área dos fatos",
+    "o Oficial de Serviço no Plantão de PJM e Disciplina",
+    "o Comandante de sua Companhia, por meio do CGP",
+    "o COPOM, que aciona o Oficial territorial"
+   ],
+   "correta": 3,
+   "explicacao": "PM de SERVIÇO avisa o CFP; PM DE FOLGA avisa o COPOM. Em ambos os casos, o acionamento chega ao Oficial territorial, e o CFP ou equivalente desloca-se ao local para as medidas preliminares.",
+   "tags": [
+    "fluxo",
+    "copom"
+   ]
+  },
+  {
+   "id": "i40-elab-015",
+   "subtema": "Fluxo de atendimento",
+   "artigo": "I-40-PM c/c CPPM, art. 10, § 2º",
+   "enunciado": "Aspirante a Oficial, na função de Comandante de Força de Patrulha, chega primeiro ao local de crime militar, sem qualquer delegação. Quanto às medidas preliminares:",
+   "alternativas": [
+    "deve aguardar a delegação da autoridade originária antes de qualquer providência",
+    "pode adotá-las apenas se houver risco de perecimento das provas no local",
+    "pode adotá-las, pois o aguardo da delegação não obsta as medidas preliminares",
+    "deve limitar-se a isolar o local, vedada a apreensão de coisas e a prisão"
+   ],
+   "correta": 2,
+   "explicacao": "O art. 10, § 2º, do CPPM autoriza quem esteja de dia, de serviço ou de quarto a tomar imediatamente as medidas preliminares. O CFP, ainda que Aspirante e sem delegação, preserva o local até a perícia, apreende coisas, efetua prisões, colhe provas, arrola testemunhas, avisa a Permanência da Corregedoria e apresenta ao Oficial do PPJMD.",
+   "tags": [
+    "medidas-preliminares",
+    "aspirante"
+   ]
+  },
+  {
+   "id": "i40-elab-016",
+   "subtema": "Fluxo de atendimento",
+   "artigo": "I-40-PM — medidas preliminares do CFP",
+   "enunciado": "Entre as medidas preliminares atribuídas ao Comandante de Força de Patrulha, independentemente de delegação, NÃO se inclui:",
+   "alternativas": [
+    "preservar o local até a chegada da perícia e apreender as coisas de interesse",
+    "lavrar o registro de polícia judiciária militar da ocorrência atendida",
+    "arrolar testemunhas e avisar a Permanência da Corregedoria PM sobre o fato",
+    "efetuar as prisões cabíveis e apresentar os envolvidos ao Oficial do PPJMD"
+   ],
+   "correta": 1,
+   "explicacao": "O Registro de Polícia Judiciária Militar é elaborado pelo OFICIAL DO PPJMD, e não pelo CFP. A este cabem as medidas preliminares: preservação do local, apreensões, prisões, colheita de provas, arrolamento de testemunhas, aviso à Permanência da Corregedoria e apresentação ao PPJMD.",
+   "tags": [
+    "cfp",
+    "registro-pjm"
+   ]
+  },
+  {
+   "id": "i40-elab-017",
+   "subtema": "Fluxo de atendimento",
+   "artigo": "I-40-PM — deslocamento das partes",
+   "enunciado": "Constatado o crime militar, o Oficial do Plantão de PJM e Disciplina que comparece ao local deve deslocar as partes:",
+   "alternativas": [
+    "à delegacia de polícia da circunscrição, para registro conjunto",
+    "à OPM do policial militar envolvido, ainda que mais distante",
+    "à sede do Comando de Policiamento de Área ou do Interior",
+    "à OPM mais próxima, evitando sempre a OPM mais distante"
+   ],
+   "correta": 3,
+   "explicacao": "O deslocamento é para a OPM MAIS PRÓXIMA, evitando-se sempre a mais distante. A apresentação à autoridade de polícia judiciária comum ocorre quando o fato for crime comum, hipótese em que o PPJMD providencia o registro na Polícia Civil.",
+   "tags": [
+    "deslocamento",
+    "opm-proxima"
+   ]
+  },
+  {
+   "id": "i40-elab-018",
+   "subtema": "Ciência às autoridades",
+   "artigo": "I-40-PM, art. 27",
+   "enunciado": "Havendo indícios de infração penal-militar, o Oficial de Serviço no PPJMD deve cientificar imediatamente:",
+   "alternativas": [
+    "o Corregedor PM, o Comandante da Unidade do policial militar envolvido e o Comando de Policiamento",
+    "a autoridade originária do local, o Cmt Cia no expediente e, fora dele, o Sup Reg e o Superior de Sobreaviso",
+    "o Comandante de Companhia do envolvido e o Comandante do Batalhão da área dos fatos",
+    "o Juiz de Direito Distribuidor da Justiça Militar e o Ministério Público Militar de plantão"
+   ],
+   "correta": 1,
+   "explicacao": "São cientificados: a autoridade de PJM originária com atribuição sobre o LOCAL DOS FATOS; o Cmt da Cia onde ocorreram os fatos, no expediente administrativo; e, fora dele, o Supervisor Regional e o Oficial Superior de Sobreaviso do CPA ou CPI, que comparecem, acompanham e orientam as medidas.",
+   "tags": [
+    "art-27",
+    "ciencia"
+   ]
+  },
+  {
+   "id": "i40-elab-019",
+   "subtema": "Ciência às autoridades",
+   "artigo": "I-40-PM, art. 28",
+   "enunciado": "Verificando o Oficial do PPJMD que o fato não constitui crime militar, mas crime comum, deve:",
+   "alternativas": [
+    "instaurar o inquérito policial-militar e remetê-lo, ao final, à Justiça comum",
+    "arquivar o registro e comunicar apenas o Comandante da Unidade do envolvido",
+    "cientificar as autoridades e apresentar o envolvido à polícia judiciária",
+    "aguardar a decisão da autoridade originária sobre a natureza da infração penal"
+   ],
+   "correta": 2,
+   "explicacao": "No crime comum, o Oficial do PPJMD cientifica a autoridade originária de PJM, o Cmt Cia (no expediente) ou o Sup Reg e o Superior de Sobreaviso (fora dele) e PROVIDENCIA A APRESENTAÇÃO à autoridade de polícia judiciária competente para o registro dos fatos.",
+   "tags": [
+    "art-28",
+    "crime-comum"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i40-elab-020",
+   "subtema": "Ciência às autoridades",
+   "artigo": "I-40-PM, art. 29",
+   "enunciado": "Cientificada do fato, cabe à autoridade originária de polícia judiciária militar:",
+   "alternativas": [
+    "submeter a questão ao Corregedor PM, a quem compete a definição da natureza do fato",
+    "determinar ao Oficial do PPJMD a lavratura imediata do auto de prisão em flagrante",
+    "decidir se os elementos colhidos apresentam indícios de infração penal-militar",
+    "aguardar o relatório do Supervisor Regional antes de qualquer deliberação"
+   ],
+   "correta": 2,
+   "explicacao": "A autoridade originária decide se os elementos colhidos revelam indícios de infração penal-militar, podendo instaurar pessoalmente o IPM ou delegar a instauração na forma das Instruções.",
+   "tags": [
+    "art-29",
+    "instauracao"
+   ]
+  },
+  {
+   "id": "i40-elab-021",
+   "subtema": "Delegação por tipo de indiciado",
+   "artigo": "I-40-PM, art. 29 — fora do expediente",
+   "enunciado": "Fora do horário de expediente administrativo, sendo o indiciado praça, a delegação para a instauração do IPM deve recair, preferencialmente, sobre:",
+   "alternativas": [
+    "o Oficial de Serviço no Plantão de PJM e Disciplina",
+    "o Oficial Supervisor Regional da área dos fatos",
+    "o Comandante da Companhia do policial militar envolvido",
+    "o Oficial Superior de Sobreaviso do CPA ou do CPI"
+   ],
+   "correta": 0,
+   "explicacao": "Fora do expediente: praça, Oficial do PPJMD; Oficial subalterno, Supervisor Regional; Oficial intermediário, Oficial Superior de Sobreaviso; Oficial superior, a autoridade originária comparece pessoalmente ou delega a Oficial Superior de posto superior ou mais antigo que o indiciado.",
+   "tags": [
+    "delegacao",
+    "praca"
+   ]
+  },
+  {
+   "id": "i40-elab-022",
+   "subtema": "Delegação por tipo de indiciado",
+   "artigo": "I-40-PM, art. 29 — fora do expediente",
+   "enunciado": "Fora do expediente administrativo, sendo o indiciado Capitão PM, a delegação para a instauração do inquérito deve recair, preferencialmente, sobre:",
+   "alternativas": [
+    "o Oficial Superior de Sobreaviso do Comando de Policiamento",
+    "o Oficial Supervisor Regional, por ser oficial intermediário",
+    "o Oficial de Serviço no Plantão de PJM e Disciplina da área",
+    "o Comandante da Unidade do indiciado, pessoalmente"
+   ],
+   "correta": 0,
+   "explicacao": "Capitão é oficial INTERMEDIÁRIO: a delegação recai preferencialmente sobre o Oficial Superior de Sobreaviso. O Supervisor Regional é a preferência para indiciado oficial SUBALTERNO (Tenentes).",
+   "tags": [
+    "delegacao",
+    "oficial-intermediario"
+   ]
+  },
+  {
+   "id": "i40-elab-023",
+   "subtema": "Delegação por tipo de indiciado",
+   "artigo": "I-40-PM, art. 29 — indiciado oficial superior",
+   "enunciado": "Fora do expediente administrativo, havendo indícios de crime militar praticado por Tenente-Coronel PM, a autoridade originária de PJM deverá:",
+   "alternativas": [
+    "delegar a instauração ao Oficial Superior de Sobreaviso, qualquer que seja seu posto",
+    "remeter o caso ao Corregedor PM, a quem cabe a presidência dos atos de PJM",
+    "delegar a instauração ao Supervisor Regional, com posterior confirmação por escrito",
+    "comparecer pessoalmente e presidir os atos, ou delegar a oficial mais antigo que o indiciado"
+   ],
+   "correta": 3,
+   "explicacao": "Sendo o indiciado oficial SUPERIOR, a autoridade originária comparece pessoalmente ao local e preside os atos de PJM, ou delega a outro Oficial Superior, desde que de posto superior ou mais antigo que o indiciado.",
+   "tags": [
+    "oficial-superior",
+    "delegacao"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i40-elab-024",
+   "subtema": "Delegação por tipo de indiciado",
+   "artigo": "I-40-PM, art. 29 — horário de expediente",
+   "enunciado": "Ocorrida a infração penal-militar durante o horário de expediente administrativo, a instauração do procedimento:",
+   "alternativas": [
+    "caberá sempre ao Oficial de Serviço no Plantão de PJM e Disciplina",
+    "caberá ao Supervisor Regional, por ser o fiscal dos trabalhos do plantão",
+    "dependerá de prévia autorização do Comando de Policiamento da área",
+    "será feita pela autoridade originária pessoalmente ou por delegação"
+   ],
+   "correta": 3,
+   "explicacao": "No expediente administrativo, a autoridade de PJM originária realiza a instauração PESSOALMENTE ou a DELEGA, nos termos das Instruções. A escala de preferências por tipo de indiciado é a regra para fatos ocorridos FORA do expediente.",
+   "tags": [
+    "expediente",
+    "instauracao"
+   ]
+  },
+  {
+   "id": "i40-elab-025",
+   "subtema": "Supervisão dos trabalhos",
+   "artigo": "I-40-PM, art. 21",
+   "enunciado": "Fora do horário de expediente administrativo, a direta fiscalização dos trabalhos do Plantão de PJM e Disciplina, especialmente quanto aos atos instrutórios posteriores à instauração do IPM, cabe:",
+   "alternativas": [
+    "ao Comandante da Unidade onde funciona o plantão, por delegação",
+    "ao Oficial Supervisor Regional e ao Oficial Superior de Sobreaviso",
+    "ao Corregedor PM, por meio da Permanência da Corregedoria",
+    "ao Comandante de Policiamento de Área, pessoalmente ou por delegação"
+   ],
+   "correta": 1,
+   "explicacao": "O art. 21 atribui a fiscalização direta dos trabalhos do PPJMD, fora do expediente, ao Supervisor Regional e ao Oficial Superior de Sobreaviso, que também determinam ao Oficial do plantão as medidas instrutórias imediatas, consideradas as peculiaridades do caso.",
+   "tags": [
+    "art-21",
+    "fiscalizacao"
+   ]
+  },
+  {
+   "id": "i40-elab-026",
+   "subtema": "Supervisão dos trabalhos",
+   "artigo": "I-40-PM — atualização do Bol G PM 219/25",
+   "enunciado": "Com a alteração promovida pelo Bol G PM 219/25, quanto ao comparecimento de oficiais às ocorrências:",
+   "alternativas": [
+    "passou a ser exigido o Relatório de Investigação de Ocorrência Grave em todos os casos",
+    "o comparecimento passou a ser atribuição exclusiva da Corregedoria PM",
+    "o comparecimento passou a ser facultativo em todas as ocorrências com morte",
+    "extinguiu-se o RIOG, permanecendo o comparecimento de oficiais para acompanhamento"
+   ],
+   "correta": 3,
+   "explicacao": "O Bol G PM 219/25 extinguiu o RIOG, mantendo-se a exigência de comparecimento de oficiais ao local dos fatos para acompanhamento e adoção das providências administrativas e disciplinares cabíveis.",
+   "tags": [
+    "bol-g-219-25",
+    "riog"
+   ]
+  },
+  {
+   "id": "i40-elab-027",
+   "subtema": "Instauração territorial",
+   "artigo": "I-40-PM — instauração territorial",
+   "enunciado": "Crime militar praticado exclusivamente por integrantes do Batalhão de Polícia Militar do local dos fatos, esteja o policial em serviço ou de folga. A instauração caberá:",
+   "alternativas": [
+    "ao respectivo Comandante em serviço e, na folga, ao Comando de Policiamento",
+    "ao respectivo Comandante, pessoalmente ou mediante delegação, em ambos os casos",
+    "ao Comando de Policiamento de Área ou do Interior, em ambos os casos",
+    "ao respectivo Comandante em serviço e, na folga, ao Corregedor PM"
+   ],
+   "correta": 1,
+   "explicacao": "Sendo integrantes do BPM do local dos fatos, a instauração cabe ao respectivo Comandante, pessoalmente ou por delegação, tanto em serviço quanto de folga. A norma não distingue os estados; a distinção aparece quando há mais de uma OPM envolvida.",
+   "tags": [
+    "territorial",
+    "folga"
+   ]
+  },
+  {
+   "id": "i40-elab-028",
+   "subtema": "Instauração territorial",
+   "artigo": "I-40-PM — área contígua",
+   "enunciado": "Policiais militares de um Batalhão praticam crime militar em área contígua, pertencente a outro Batalhão. Quanto ao ato de polícia judiciária militar:",
+   "alternativas": [
+    "a instauração caberá ao Comandante do Batalhão a que pertencem os envolvidos",
+    "a instauração caberá ao Comando de Policiamento, por conflito territorial",
+    "a instauração caberá ao Comandante do Batalhão da área dos fatos",
+    "a instauração dependerá de acordo entre os Comandantes dos dois Batalhões"
+   ],
+   "correta": 2,
+   "explicacao": "Nos fatos ocorridos em área contígua pertencente a outro BPM, apenas a INSTAURAÇÃO do procedimento de PJM cabe ao Comandante do Batalhão DA ÁREA DOS FATOS. Para o comparecimento em ocorrência GMV, permanece o sistema ligado à Unidade do policial envolvido.",
+   "tags": [
+    "area-contigua"
+   ]
+  },
+  {
+   "id": "i40-elab-029",
+   "subtema": "Mais de uma OPM",
+   "artigo": "I-40-PM, art. 33",
+   "enunciado": "Crime militar praticado por integrantes de mais de uma OPM, em serviço ou de folga. A instauração caberá, como regra:",
+   "alternativas": [
+    "ao Comandante da Unidade do policial militar mais antigo entre os envolvidos",
+    "ao Comandante de Policiamento de Área ou do Interior do local dos fatos",
+    "ao Corregedor PM, por envolver policiais de Unidades diversas",
+    "ao Comandante da Unidade em cuja área tenham ocorrido os fatos"
+   ],
+   "correta": 1,
+   "explicacao": "A regra da pluralidade de OPM leva a instauração ao CPA ou ao CPI do local dos fatos, pessoalmente ou por delegação. Excetuam-se o envolvimento de PM da Corregedoria em serviço e o crime praticado com uso de equipamentos ou técnicas específicas de Bombeiros.",
+   "tags": [
+    "pluralidade-opm",
+    "cpa-cpi"
+   ]
+  },
+  {
+   "id": "i40-elab-030",
+   "subtema": "Mais de uma OPM",
+   "artigo": "I-40-PM, arts. 33 e 50",
+   "enunciado": "Em ocorrência com indícios de crime militar praticado por integrantes de mais de uma OPM, há entre os envolvidos policial militar da Corregedoria PM em serviço. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante de Policiamento de Área, pela regra da pluralidade de OPM",
+    "ao Corregedor PM, pessoalmente ou mediante delegação",
+    "ao Comandante da Unidade onde ocorreram os fatos, por prevenção",
+    "ao Subcomandante PM, assessorado pela Corregedoria PM"
+   ],
+   "correta": 1,
+   "explicacao": "A atuação de integrante da Corregedoria PM EM SERVIÇO atrai a instauração para o Corregedor PM, que instaura inclusive quando o crime ocorre no interior de quartéis ou quando praticado por PM de outra Unidade. De folga, o PM da Corregedoria segue a regra geral.",
+   "tags": [
+    "corregedoria",
+    "excecao"
+   ]
+  },
+  {
+   "id": "i40-elab-031",
+   "subtema": "Mais de uma OPM",
+   "artigo": "I-40-PM, art. 38, § 2º",
+   "enunciado": "Integrantes do Corpo de Bombeiros e policiais militares de Batalhão territorial praticam crime militar em razão da utilização de equipamentos específicos das atividades de Bombeiros, em via pública. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante do Batalhão territorial, por ser o da área dos fatos",
+    "ao Comandante de Policiamento de Área, pela regra da pluralidade de Unidades",
+    "ao Comandante do Grupamento de Bombeiros, mesmo havendo PM de outras Unidades",
+    "ao Comandante do Corpo de Bombeiros, por envolver Unidades diversas"
+   ],
+   "correta": 2,
+   "explicacao": "O art. 38, § 2º mantém a instauração com o Cmt do GB mesmo havendo participação de integrantes de outras Unidades, desde que o crime ocorra EM RAZÃO da utilização de equipamentos ou técnicas específicas de Bombeiros. Sem esse uso, a atribuição volta ao CPA ou CPI.",
+   "tags": [
+    "bombeiros",
+    "tecnica-equipamento"
+   ]
+  },
+  {
+   "id": "i40-elab-032",
+   "subtema": "Choque",
+   "artigo": "I-40-PM — Comando de Policiamento de Choque",
+   "enunciado": "Crime militar praticado exclusivamente por integrantes de Batalhão de Polícia de Choque, em serviço, na área da própria sede. A instauração caberá:",
+   "alternativas": [
+    "ao respectivo Comandante de BPChq ou ao Comandante do Policiamento de Choque",
+    "ao Comandante de Policiamento de Área do local dos fatos",
+    "ao Comandante de Policiamento do Interior, por se tratar de especializada",
+    "ao Corregedor PM, por envolver unidade de emprego especializado"
+   ],
+   "correta": 0,
+   "explicacao": "Com PM do Choque em serviço, instaura o Cmt do BPChq ou o Cmt Pol Chq, pessoalmente ou por delegação. Havendo integrantes de mais de um BPChq, a atribuição sobe para o Comandante do Policiamento de Choque.",
+   "tags": [
+    "choque",
+    "servico"
+   ]
+  },
+  {
+   "id": "i40-elab-033",
+   "subtema": "Choque",
+   "artigo": "I-40-PM — Choque a mais de 160 km",
+   "enunciado": "Policiais de Batalhão de Polícia de Choque, em serviço, praticam crime militar em município situado a mais de 160 km da sede do Batalhão a que pertencem. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante do BPChq a que pertencem, mantida a regra da especializada",
+    "ao Comandante de Policiamento do Interior do local dos fatos",
+    "ao Comandante do Policiamento de Choque, pela distância da sede",
+    "ao Comandante do Batalhão territorial da área dos fatos"
+   ],
+   "correta": 1,
+   "explicacao": "Em serviço, a mais de 160 km da sede do BPChq, a instauração passa ao CPI do local dos fatos. É a única hipótese em que a distância desloca a atribuição da especializada para o comando territorial regional.",
+   "tags": [
+    "choque",
+    "160km"
+   ]
+  },
+  {
+   "id": "i40-elab-034",
+   "subtema": "Choque",
+   "artigo": "I-40-PM — concurso de agentes no Choque",
+   "enunciado": "Crime militar em serviço com participação de integrantes de mais de um Batalhão de Polícia de Choque. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante do BPChq em cuja área se deu a ocorrência policial",
+    "ao Comandante do BPChq do policial militar mais antigo envolvido",
+    "ao Comandante de Policiamento de Área ou do Interior do local",
+    "ao Comandante do Policiamento de Choque, pessoalmente ou por delegação"
+   ],
+   "correta": 3,
+   "explicacao": "A pluralidade de Batalhões de Choque leva a instauração ao Comandante do Policiamento de Choque. A regra segue a lógica das especializadas: pluralidade interna sobe ao Comando da especialidade; participação de PM de fora leva ao CPA ou CPI.",
+   "tags": [
+    "choque",
+    "pluralidade"
+   ]
+  },
+  {
+   "id": "i40-elab-035",
+   "subtema": "Choque",
+   "artigo": "I-40-PM — Choque com PM de outra OPM",
+   "enunciado": "Crime militar praticado em serviço por policiais do Choque e por policiais de Batalhão territorial, fora do interior de quartel e sem envolvimento da Corregedoria. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante de Policiamento de Área ou do Interior do local dos fatos",
+    "ao Comandante do Batalhão territorial, por ser o da área dos fatos",
+    "ao Comandante do Policiamento de Choque, por ser a unidade de maior especialização",
+    "ao Comandante do BPChq, mantida a regra da unidade especializada"
+   ],
+   "correta": 0,
+   "explicacao": "Envolvendo PM que não seja do Choque, aplica-se a regra geral da pluralidade de OPM: instaura o CPA ou o CPI do local. Ressalvam-se a Corregedoria em serviço, o fato ocorrido no interior de OPM e o uso de técnicas e equipamentos de Bombeiros.",
+   "tags": [
+    "choque",
+    "pluralidade-externa"
+   ]
+  },
+  {
+   "id": "i40-elab-036",
+   "subtema": "Corpo de Bombeiros",
+   "artigo": "I-40-PM, art. 38",
+   "enunciado": "Crime militar praticado exclusivamente por integrantes do Corpo de Bombeiros em serviço. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante do Grupamento de Bombeiros, pessoalmente ou por delegação",
+    "ao Comandante do Corpo de Bombeiros, pessoalmente ou por delegação",
+    "ao Comandante de Policiamento de Área ou do Interior do local dos fatos",
+    "ao Comandante de Bombeiros Metropolitano ou do Interior, conforme o caso"
+   ],
+   "correta": 0,
+   "explicacao": "Com bombeiros em serviço, instaura o Cmt do Grupamento de Bombeiros. Havendo integrantes de mais de um GB, a atribuição é do Cmt de Bombeiros Metropolitano, do Cmt de Bombeiros do Interior ou do Cmt do Corpo de Bombeiros, conforme o caso.",
+   "tags": [
+    "bombeiros",
+    "servico"
+   ]
+  },
+  {
+   "id": "i40-elab-037",
+   "subtema": "Corpo de Bombeiros",
+   "artigo": "I-40-PM, art. 38, § 1º",
+   "enunciado": "Havendo participação de integrantes de mais de um Grupamento de Bombeiros em crime militar praticado em serviço, a instauração caberá:",
+   "alternativas": [
+    "ao Comandante do Grupamento do policial militar de maior posto entre os envolvidos",
+    "ao Comandante do Grupamento em cuja área ocorreram os fatos apurados",
+    "ao Comandante de Policiamento de Área ou do Interior do local dos fatos",
+    "ao Comandante de Bombeiros Metropolitano, do Interior ou do Corpo de Bombeiros"
+   ],
+   "correta": 3,
+   "explicacao": "A pluralidade de Grupamentos leva a instauração ao Cmt de Bombeiros Metropolitano, ao Cmt de Bombeiros do Interior ou ao Cmt do Corpo de Bombeiros, conforme o caso, e não ao comando territorial.",
+   "tags": [
+    "bombeiros",
+    "pluralidade"
+   ]
+  },
+  {
+   "id": "i40-elab-038",
+   "subtema": "Corpo de Bombeiros",
+   "artigo": "I-40-PM, arts. 38 e 39",
+   "enunciado": "Bombeiro em serviço e policial militar de Batalhão territorial praticam crime militar sem qualquer uso de técnicas ou equipamentos de Bombeiros, em via pública. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante do Grupamento de Bombeiros, por envolver integrante do CCB",
+    "ao Comandante de Policiamento de Área ou do Interior do local dos fatos",
+    "ao Comandante do Batalhão territorial, por ser da área dos fatos",
+    "ao Comandante do Corpo de Bombeiros, por haver concurso de agentes"
+   ],
+   "correta": 1,
+   "explicacao": "Sem o uso de equipamentos ou técnicas específicas de Bombeiros, não incide o art. 38, § 2º, e a pluralidade de OPM devolve a atribuição ao CPA ou ao CPI do local. Crime com bombeiro DE FOLGA também vai ao CPA ou CPI.",
+   "tags": [
+    "bombeiros",
+    "sem-tecnica"
+   ]
+  },
+  {
+   "id": "i40-elab-039",
+   "subtema": "Ambiental e Rodoviária",
+   "artigo": "I-40-PM, art. 41",
+   "enunciado": "Crime militar praticado exclusivamente por integrantes do Comando de Policiamento Ambiental, em serviço, com participação de policiais de mais de um Batalhão ambiental. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante do Policiamento Ambiental, pela pluralidade de Batalhões",
+    "ao Comandante do Batalhão ambiental da área dos fatos, por prevenção",
+    "ao Comandante de Policiamento de Área ou do Interior do local dos fatos",
+    "ao Comandante do Batalhão ambiental do policial militar mais antigo"
+   ],
+   "correta": 0,
+   "explicacao": "Com PM do CPAmb em serviço, instaura o Cmt do BPAmb; havendo mais de um Batalhão ambiental, sobe ao Comandante do Policiamento Ambiental. A mesma lógica vale para a Rodoviária: Cmt do BPRv e, na pluralidade, Cmt do Policiamento Rodoviário.",
+   "tags": [
+    "ambiental",
+    "rodoviaria"
+   ]
+  },
+  {
+   "id": "i40-elab-040",
+   "subtema": "Ambiental e Rodoviária",
+   "artigo": "I-40-PM, art. 42",
+   "enunciado": "Policial militar do Comando de Policiamento Rodoviário, de folga, pratica crime militar na área de Batalhão do interior. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante do Batalhão rodoviário a que pertence o policial militar",
+    "ao Comandante do Batalhão de Polícia Militar do Interior da área dos fatos",
+    "ao Comandante de Policiamento do Interior do local dos fatos",
+    "ao Comandante do Policiamento Rodoviário, por ser a especialidade envolvida"
+   ],
+   "correta": 2,
+   "explicacao": "PM de OPM especializada DE FOLGA leva a instauração ao CPA ou ao CPI do local dos fatos. A exceção fica por conta do PM de ÚNICA OPM de folga, hipótese em que instaura o Comandante da própria Unidade.",
+   "tags": [
+    "rodoviaria",
+    "folga"
+   ]
+  },
+  {
+   "id": "i40-elab-041",
+   "subtema": "Aviação",
+   "artigo": "I-40-PM, art. 44",
+   "enunciado": "Crime militar praticado por integrante do Comando de Aviação PM em serviço, em decorrência da utilização de aeronave oficial. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante do Comando de Aviação PM, pessoalmente ou por delegação",
+    "ao Comandante de Policiamento de Área do local dos fatos apurados",
+    "ao Comandante de Policiamento do Interior, se o pouso ocorrer no interior",
+    "ao Corregedor PM, por envolver meio aéreo institucional da Instituição"
+   ],
+   "correta": 0,
+   "explicacao": "Com uso de aeronave oficial, instaura o Comandante do CAvPM. SEM o uso de aeronave oficial, a atribuição passa ao Comandante de CPA ou CPI do local dos fatos, pessoalmente ou por delegação.",
+   "tags": [
+    "cavpm",
+    "aeronave"
+   ]
+  },
+  {
+   "id": "i40-elab-042",
+   "subtema": "Aviação",
+   "artigo": "I-40-PM, art. 44",
+   "enunciado": "Integrante do Comando de Aviação PM, em serviço administrativo na sede da Unidade, pratica crime militar em via pública, sem qualquer emprego de aeronave oficial. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante do Comando de Aviação PM, por ser a Unidade do envolvido",
+    "ao Comandante de Policiamento de Área ou do Interior do local dos fatos",
+    "ao Comandante do Batalhão territorial em cuja área ocorreu o fato",
+    "ao Corregedor PM, diante da natureza especializada da Unidade"
+   ],
+   "correta": 1,
+   "explicacao": "A atribuição do Cmt do CAvPM pressupõe o uso de aeronave oficial. Sem esse elemento, o caso vai ao CPA ou ao CPI do local dos fatos, o que também ocorre quando o policial do CAvPM está de folga.",
+   "tags": [
+    "cavpm",
+    "sem-aeronave"
+   ]
+  },
+  {
+   "id": "i40-elab-043",
+   "subtema": "Órgãos de Direção e Apoio",
+   "artigo": "I-40-PM, arts. 47 e 48",
+   "enunciado": "Policial militar classificado em Diretoria pratica crime militar durante o serviço. A instauração do procedimento de polícia judiciária militar caberá:",
+   "alternativas": [
+    "ao Diretor do órgão, por ser a autoridade originária da Unidade envolvida",
+    "ao Comandante do Batalhão territorial em cuja área ocorreu o fato",
+    "ao Subcomandante PM, assessorado pela Corregedoria PM da Instituição",
+    "ao Comandante de Policiamento de Área ou do Interior do local dos fatos"
+   ],
+   "correta": 3,
+   "explicacao": "Para integrante de Órgão de Direção ou de Apoio, em serviço OU de folga, a instauração é SEMPRE do Cmt de CPA ou CPI do local dos fatos. Ressalvam-se a Corregedoria em serviço, o interior de OPM e o uso de técnicas e equipamentos de Bombeiros.",
+   "tags": [
+    "orgao-direcao",
+    "apoio"
+   ]
+  },
+  {
+   "id": "i40-elab-044",
+   "subtema": "Trânsito",
+   "artigo": "I-40-PM, art. 52-A",
+   "enunciado": "Crime militar praticado exclusivamente por integrantes do Comando de Policiamento de Trânsito, em serviço. A instauração caberá:",
+   "alternativas": [
+    "ao respectivo Comandante de Unidade ou ao Comandante do Policiamento de Trânsito",
+    "ao Comandante de Policiamento de Área ou do Interior do local dos fatos",
+    "ao Comandante do Batalhão territorial da área em que ocorreu o fato",
+    "ao Comandante do Policiamento de Trânsito, com exclusividade, em qualquer caso"
+   ],
+   "correta": 0,
+   "explicacao": "Com PM do Trânsito em serviço, instaura o respectivo Cmt de Unidade ou o Cmt do Policiamento de Trânsito. Havendo integrantes de mais de um BPTran, a atribuição é do Comandante do Policiamento de Trânsito.",
+   "tags": [
+    "cptran",
+    "servico"
+   ]
+  },
+  {
+   "id": "i40-elab-045",
+   "subtema": "Trânsito",
+   "artigo": "I-40-PM, art. 52-A",
+   "enunciado": "Policiais militares do Comando de Policiamento de Trânsito, em serviço, praticam crime militar juntamente com integrantes de Batalhão territorial, em via pública. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante de Policiamento de Área ou do Interior do local dos fatos",
+    "ao respectivo Comandante de Unidade do Trânsito, por prevenção da atribuição",
+    "ao Comandante do Policiamento de Trânsito, por atrair a especialidade envolvida",
+    "ao Comandante do Batalhão territorial a que pertencem os demais envolvidos"
+   ],
+   "correta": 0,
+   "explicacao": "A participação de OPM que não seja do Trânsito devolve a atribuição ao CPA ou ao CPI, salvo se houver integrante da Corregedoria em serviço, se o fato ocorrer no interior de Unidade ou se envolver bombeiro com uso de técnicas e equipamentos específicos.",
+   "tags": [
+    "cptran",
+    "pluralidade"
+   ]
+  },
+  {
+   "id": "i40-elab-046",
+   "subtema": "Ações Especiais de Polícia",
+   "artigo": "I-40-PM, art. 52-E",
+   "enunciado": "Crime militar praticado exclusivamente por integrantes de Batalhão de Ações Especiais de Polícia, em serviço. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante de Policiamento de Área, por se tratar de emprego tático",
+    "ao Corregedor PM, sempre que houver emprego de armamento letal",
+    "ao Comandante do Policiamento de Choque, pela natureza da atividade",
+    "ao respectivo Comandante de Unidade, pessoalmente ou por delegação"
+   ],
+   "correta": 3,
+   "explicacao": "Com BAEP em serviço, instaura o respectivo Comandante de Unidade. Havendo participação de integrantes de mais de uma OPM, a instauração passa ao Comandante do CPA ou do CPI do local dos fatos.",
+   "tags": [
+    "baep",
+    "servico"
+   ]
+  },
+  {
+   "id": "i40-elab-047",
+   "subtema": "Ações Especiais de Polícia",
+   "artigo": "I-40-PM, art. 52-E",
+   "enunciado": "Integrantes de Batalhão de Ações Especiais de Polícia e de Batalhão territorial praticam, em serviço, crime militar em via pública. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante de Policiamento de Área ou do Interior do local dos fatos",
+    "ao Comandante do Batalhão territorial da área em que ocorreu o fato",
+    "ao Comandante do Batalhão de Ações Especiais de Polícia envolvido",
+    "ao Comandante do Policiamento de Choque, por analogia com a atividade"
+   ],
+   "correta": 0,
+   "explicacao": "Havendo participação de integrantes de mais de uma OPM, a instauração cabe ao Cmt do CPA ou do CPI do local. As ressalvas são as mesmas: Corregedoria em serviço, interior de OPM e bombeiro com técnicas ou equipamentos específicos.",
+   "tags": [
+    "baep",
+    "pluralidade"
+   ]
+  },
+  {
+   "id": "i40-elab-048",
+   "subtema": "Interior de quartel",
+   "artigo": "I-40-PM, art. 49",
+   "enunciado": "Crime militar praticado no interior de quartel, com concurso de agentes entre policiais da Unidade e integrantes de OPM especializada. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante de Policiamento de Área, pela pluralidade de Unidades envolvidas",
+    "ao Corregedor PM, sempre que houver concurso de agentes de Unidades diversas",
+    "ao Comandante da OPM especializada, por atrair a atribuição da especialidade",
+    "ao Comandante da Unidade instalada no local, pessoalmente ou por delegação"
+   ],
+   "correta": 3,
+   "explicacao": "O art. 49 prevalece sobre as regras de pluralidade e de especializadas: nos crimes militares ocorridos no interior de quartéis ou lugares sob administração policial-militar, instaura o Comandante da Unidade ali instalada, pessoalmente ou por delegação.",
+   "tags": [
+    "art-49",
+    "interior-quartel"
+   ]
+  },
+  {
+   "id": "i40-elab-049",
+   "subtema": "Interior de quartel",
+   "artigo": "I-40-PM, arts. 49 e 50",
+   "enunciado": "Qual a única ressalva que retira do Comandante da Unidade a atribuição para instaurar o procedimento de PJM nos crimes militares ocorridos no interior do quartel?",
+   "alternativas": [
+    "o envolvimento de bombeiro com uso de técnicas e equipamentos específicos",
+    "o envolvimento de integrante da Corregedoria PM em serviço na ocorrência",
+    "o concurso de agentes entre policiais de Unidades territoriais diversas",
+    "o envolvimento de oficial superior como indiciado na apuração do fato"
+   ],
+   "correta": 1,
+   "explicacao": "A única ressalva do art. 49 é a do art. 50: atuação de integrante da Corregedoria PM EM SERVIÇO, hipótese em que instaura o Corregedor PM. O art. 38, § 2º, sobre técnicas e equipamentos de Bombeiros, não contém a cláusula que alcançaria o interior de OPM.",
+   "tags": [
+    "art-49",
+    "ressalva"
+   ]
+  },
+  {
+   "id": "i40-elab-050",
+   "subtema": "Corregedoria",
+   "artigo": "I-40-PM, art. 50",
+   "enunciado": "Sobre a atribuição do Corregedor PM para instaurar procedimento de polícia judiciária militar, é correto afirmar que alcança a ocorrência:",
+   "alternativas": [
+    "com qualquer policial militar, desde que o fato tenha repercussão na imprensa",
+    "com integrante da Corregedoria em serviço ou de folga, em qualquer local",
+    "com integrante da Corregedoria de folga, quando houver concurso de agentes",
+    "com integrante da Corregedoria em serviço, inclusive no interior de quartéis"
+   ],
+   "correta": 3,
+   "explicacao": "A regra do art. 50 exige integrante da Corregedoria EM SERVIÇO e prevalece inclusive quando o crime ocorre no interior de quartéis ou é praticado por PM de outra Unidade. De FOLGA, o PM da Corregedoria segue a regra geral, com instauração pelo CPA ou CPI.",
+   "tags": [
+    "corregedoria",
+    "servico"
+   ]
+  },
+  {
+   "id": "i40-elab-051",
+   "subtema": "Policial de folga",
+   "artigo": "I-40-PM — regra da folga",
+   "enunciado": "Policial militar de Batalhão territorial, de folga, pratica crime militar na área do próprio Batalhão, sem concurso de agentes de outras Unidades. A instauração caberá:",
+   "alternativas": [
+    "ao Comandante de Policiamento de Área ou do Interior, pela regra geral da folga",
+    "ao Comandante da Companhia do policial militar envolvido na ocorrência",
+    "ao Comandante do próprio Batalhão, pessoalmente ou mediante delegação",
+    "ao Corregedor PM, por inexistir vínculo com o serviço no momento do fato"
+   ],
+   "correta": 2,
+   "explicacao": "A regra geral da folga remete ao CPA ou CPI, mas a única exceção é justamente a do PM de ÚNICA OPM: nesse caso instaura o Comandante da própria Unidade. É a leitura conjunta da regra territorial com as regras específicas de folga.",
+   "tags": [
+    "folga",
+    "unica-opm"
+   ]
+  },
+  {
+   "id": "i40-elab-052",
+   "subtema": "Conflito de atribuições",
+   "artigo": "I-40-PM — conflito de atribuições",
+   "enunciado": "Persistindo dúvida entre duas autoridades de polícia judiciária militar sobre quem deve instaurar o procedimento, o conflito será resolvido:",
+   "alternativas": [
+    "pela autoridade de polícia judiciária militar superior àquelas em conflito",
+    "pelo Corregedor PM, em qualquer hipótese de dúvida sobre a atribuição",
+    "pelo Juiz de Direito da Justiça Militar do Estado, mediante representação",
+    "pela autoridade mais antiga entre as que se encontram em conflito"
+   ],
+   "correta": 0,
+   "explicacao": "Esgotadas as regras de atribuição, o conflito, positivo ou negativo, é resolvido pela autoridade de PJM SUPERIOR àquelas em conflito. Essa é, aliás, uma das finalidades declaradas das I-40-PM: esclarecer a forma de solução desses conflitos.",
+   "tags": [
+    "conflito",
+    "solucao"
+   ]
+  },
+  {
+   "id": "i40-elab-053",
+   "subtema": "Supervisão em ocorrências GMV",
+   "artigo": "I-40-PM, art. 30",
+   "enunciado": "Cientificado pelo Oficial do PPJMD do envolvimento de policial militar em infração penal comum ou militar, fora do horário de expediente administrativo, o Supervisor Regional deverá:",
+   "alternativas": [
+    "comparecer ao local dos fatos, acompanhar e orientar as medidas adotadas",
+    "aguardar o relatório do Oficial do plantão e comunicar a Corregedoria PM",
+    "determinar a lavratura do auto de prisão em flagrante e presidir o ato",
+    "instaurar o inquérito policial-militar, por delegação presumida da autoridade"
+   ],
+   "correta": 0,
+   "explicacao": "Fora do expediente, o Supervisor Regional comparece ao local, acompanha e orienta as medidas. A instauração depende de delegação expressa da autoridade originária, e a lavratura do auto cabe à autoridade de PJM competente.",
+   "tags": [
+    "supervisor-regional",
+    "gmv"
+   ]
+  },
+  {
+   "id": "i40-elab-054",
+   "subtema": "Supervisão em ocorrências GMV",
+   "artigo": "I-40-PM, art. 30, § 1º",
+   "enunciado": "Em ocorrências com morte, graves ou vultosas, cabe ao Supervisor Regional, quanto às demais autoridades policiais-militares que comparecerem ao local:",
+   "alternativas": [
+    "substituí-las na coordenação, por ser o oficial de serviço na Região",
+    "determinar-lhes as medidas instrutórias do inquérito policial-militar",
+    "cientificá-las e apoiá-las nas providências adotadas no local dos fatos",
+    "encaminhá-las ao Plantão de PJM e Disciplina para registro do fato"
+   ],
+   "correta": 2,
+   "explicacao": "O art. 30, § 1º, atribui ao Sup Reg CIENTIFICAR E APOIAR as autoridades PM que comparecerem ao local em ocorrências com morte, graves ou vultosas. Determinar medidas instrutórias ao Oficial do PPJMD é atribuição distinta, prevista para o Sup Reg e o Superior de Sobreaviso fora do expediente.",
+   "tags": [
+    "art-30",
+    "apoio"
+   ]
+  },
+  {
+   "id": "i40-elab-055",
+   "subtema": "Supervisão em ocorrências GMV",
+   "artigo": "I-40-PM — Comandante do PM envolvido",
+   "enunciado": "Cientificado do envolvimento de subordinado em ocorrência com morte, grave ou vultosa, o Comandante da Unidade do policial militar deverá:",
+   "alternativas": [
+    "comparecer pessoalmente ao local, vedada a designação de outro oficial",
+    "aguardar a comunicação formal do Supervisor Regional antes de qualquer medida",
+    "designar o Oficial do Serviço de PJM e Disciplina para presidir os atos no local",
+    "avaliar a necessidade de comparecimento de oficial de posto superior ao do envolvido"
+   ],
+   "correta": 3,
+   "explicacao": "Cabe ao Comandante da Unidade AVALIAR A NECESSIDADE de comparecimento de algum oficial sob seu comando, de POSTO SUPERIOR ao do envolvido, para acompanhar os registros e as apurações.",
+   "tags": [
+    "comandante",
+    "posto-superior"
+   ]
+  },
+  {
+   "id": "i40-elab-056",
+   "subtema": "GMV com único BPM",
+   "artigo": "I-40-PM, art. 32",
+   "enunciado": "Ocorrência com evento morte envolvendo exclusivamente policial militar do Batalhão da área dos fatos, durante o horário de expediente administrativo. Deve comparecer ao local:",
+   "alternativas": [
+    "o Comandante da Companhia do policial militar envolvido",
+    "o Subcomandante do Batalhão do policial militar envolvido",
+    "o Coordenador Operacional do Batalhão da área dos fatos",
+    "o Supervisor Regional do Comando de Policiamento da área"
+   ],
+   "correta": 0,
+   "explicacao": "A ordem do art. 32 é sucessiva: Cmt da Cia do PM envolvido; havendo fato que o impeça, o Coordenador Operacional do BPM; impedidos ambos, o Subcomandante do Batalhão. O Supervisor Regional atua fora do expediente.",
+   "tags": [
+    "art-32",
+    "expediente"
+   ]
+  },
+  {
+   "id": "i40-elab-057",
+   "subtema": "GMV com único BPM",
+   "artigo": "I-40-PM, art. 32",
+   "enunciado": "Na hipótese do artigo 32, estando impedidos de comparecer o Comandante da Companhia e o Coordenador Operacional do Batalhão, deve comparecer ao local:",
+   "alternativas": [
+    "o Oficial Superior de Sobreaviso do Comando de Policiamento",
+    "o Comandante do Batalhão de Polícia Militar da área dos fatos",
+    "o Subcomandante do Batalhão do policial militar envolvido",
+    "o Oficial de Serviço no Plantão de PJM e Disciplina da área"
+   ],
+   "correta": 2,
+   "explicacao": "O terceiro da escala sucessiva do art. 32 é o Subcomandante do BPM do policial militar envolvido. O Comandante do Batalhão não integra essa sequência de comparecimento, e o Superior de Sobreaviso atua fora do expediente.",
+   "tags": [
+    "art-32",
+    "sucessao"
+   ]
+  },
+  {
+   "id": "i40-elab-058",
+   "subtema": "GMV com único BPM",
+   "artigo": "I-40-PM, art. 32 c/c art. 30, § 1º",
+   "enunciado": "Ocorrência grave envolvendo exclusivamente policial militar do Batalhão da área dos fatos, fora do horário de expediente administrativo. Quanto ao comparecimento:",
+   "alternativas": [
+    "o artigo 32 prevê expressamente a presença do Comandante da Companhia",
+    "cabe ao Oficial do Plantão de PJM e Disciplina substituir os oficiais da Unidade",
+    "o comparecimento é dispensado, bastando a comunicação à Corregedoria PM",
+    "aplica-se a regra geral: o Supervisor Regional cientifica e apoia as autoridades"
+   ],
+   "correta": 3,
+   "explicacao": "O art. 32 disciplina apenas o horário de expediente. Fora dele, aplica-se a regra geral do art. 30, § 1º: o Supervisor Regional cientifica e apoia as autoridades PM que comparecerem ao local dos fatos.",
+   "tags": [
+    "art-32",
+    "fora-expediente"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i40-elab-059",
+   "subtema": "GMV com único BPM",
+   "artigo": "I-40-PM, art. 32, parágrafo único",
+   "enunciado": "Ocorrência com morte envolvendo policial militar de um Batalhão, em área contígua pertencente a outro Batalhão. Nessa situação:",
+   "alternativas": [
+    "o comparecimento e a instauração cabem integralmente ao Batalhão da área dos fatos",
+    "o comparecimento cabe ao Comando de Policiamento e a instauração, à Corregedoria",
+    "o comparecimento e a instauração cabem ao Batalhão do policial militar envolvido",
+    "o comparecimento segue a regra do artigo 32 e apenas a instauração cabe ao Batalhão da área"
+   ],
+   "correta": 3,
+   "explicacao": "As disposições do art. 32 aplicam-se igualmente aos fatos em área contígua pertencente a outro BPM, situação em que APENAS A INSTAURAÇÃO do procedimento de PJM caberá ao Comandante do Batalhão da área dos fatos.",
+   "tags": [
+    "area-contigua",
+    "gmv"
+   ]
+  },
+  {
+   "id": "i40-elab-060",
+   "subtema": "GMV com mais de uma OPM",
+   "artigo": "I-40-PM, art. 34",
+   "enunciado": "Ocorrência com morte envolvendo, como autores, policiais militares de serviço integrantes de mais de uma OPM. Devem comparecer ao local dos fatos:",
+   "alternativas": [
+    "apenas o Supervisor Regional do Comando de Policiamento da área dos fatos",
+    "os oficiais das OPM dos policiais militares envolvidos, conforme a escala sucessiva",
+    "apenas os oficiais da OPM em cuja área territorial ocorreram os fatos apurados",
+    "os oficiais designados pelo Corregedor PM, dada a pluralidade de Unidades"
+   ],
+   "correta": 1,
+   "explicacao": "No art. 34, comparecem os oficiais das OPM dos envolvidos: no expediente, o Cmt de Cia do PM; em sua falta, o Coord Op do Batalhão; na falta de ambos, o Subcomandante. Fora do expediente, aplica-se a regra geral do art. 30, § 1º.",
+   "tags": [
+    "art-34",
+    "pluralidade"
+   ]
+  },
+  {
+   "id": "i40-elab-061",
+   "subtema": "GMV com mais de uma OPM",
+   "artigo": "I-40-PM, art. 34, parágrafo único",
+   "enunciado": "Os oficiais que comparecerem ao local, na hipótese de ocorrência com morte envolvendo policiais de mais de uma OPM, deverão:",
+   "alternativas": [
+    "lavrar o auto de prisão em flagrante delito dos policiais militares envolvidos",
+    "instaurar procedimento disciplinar imediato contra os policiais de sua Unidade",
+    "confeccionar parte circunstanciada ao respectivo Comandante sobre o ocorrido",
+    "elaborar o registro de polícia judiciária militar da ocorrência atendida"
+   ],
+   "correta": 2,
+   "explicacao": "Os oficiais confeccionam PARTE CIRCUNSTANCIADA ao respectivo Comandante, visando ao controle da situação funcional dos envolvidos e à apreciação da necessidade de medidas disciplinares. O registro de PJM é do Oficial do PPJMD.",
+   "tags": [
+    "parte-circunstanciada"
+   ]
+  },
+  {
+   "id": "i40-elab-062",
+   "subtema": "GMV no Choque",
+   "artigo": "I-40-PM, art. 37",
+   "enunciado": "Ocorrência vultosa envolvendo exclusivamente policiais do Comando de Policiamento de Choque em serviço, fora do horário de expediente administrativo. Deve comparecer ao local:",
+   "alternativas": [
+    "o Supervisor Regional do Comando de Policiamento de Área em que se deu o fato",
+    "o Supervisor de Choque, salvo impedimento que atraia o Comandante de Cia P Chq",
+    "o Comandante da Companhia de Polícia de Choque do policial militar envolvido",
+    "o Coordenador Operacional do Batalhão de Polícia de Choque do PM envolvido"
+   ],
+   "correta": 1,
+   "explicacao": "No art. 37, fora do expediente comparece o Supervisor de Choque; no expediente, o Cmt da Cia P Chq do envolvido, que também atua fora dele se houver impedimento do Supervisor; e, impedidos ambos, o Coordenador Operacional do BPChq.",
+   "tags": [
+    "art-37",
+    "choque"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i40-elab-063",
+   "subtema": "GMV no Choque",
+   "artigo": "I-40-PM, art. 37",
+   "enunciado": "Na hipótese de ocorrência grave com policiais do Choque em serviço, durante o horário de expediente administrativo, o comparecimento cabe:",
+   "alternativas": [
+    "ao Supervisor de Choque, que responde pelo acompanhamento em qualquer horário",
+    "ao Comandante do Batalhão de Polícia de Choque, pessoalmente ou por delegação",
+    "ao Comandante da Companhia de Polícia de Choque do policial militar envolvido",
+    "ao Supervisor Regional do CPA, por ser o responsável territorial pela área"
+   ],
+   "correta": 2,
+   "explicacao": "Durante o expediente, comparece o Cmt da Cia P Chq do envolvido; o Supervisor de Choque atua fora do expediente. O Coordenador Operacional do BPChq entra apenas quando impedidos o Cmt Cia e o Supervisor.",
+   "tags": [
+    "art-37",
+    "expediente"
+   ]
+  },
+  {
+   "id": "i40-elab-064",
+   "subtema": "GMV no Corpo de Bombeiros",
+   "artigo": "I-40-PM, art. 40",
+   "enunciado": "Ocorrência com morte envolvendo exclusivamente bombeiros em serviço, com ou sem uso de equipamentos específicos, fora do horário de expediente. Deve comparecer ao local:",
+   "alternativas": [
+    "o Comandante do Subgrupamento de Bombeiros do policial militar envolvido",
+    "o Supervisor de Bombeiros ou equivalente, conforme previsto nas Instruções",
+    "o Subcomandante do Grupamento de Bombeiros do policial envolvido",
+    "o Supervisor Regional do Comando de Policiamento de Área da região"
+   ],
+   "correta": 1,
+   "explicacao": "O art. 40 alcança as ocorrências COM OU SEM uso de técnicas e equipamentos de Bombeiros. Fora do expediente comparece o Supervisor de Bombeiros ou equivalente; no expediente, o Cmt do SGB; impedidos ambos, o Subcomandante do Grupamento.",
+   "tags": [
+    "art-40",
+    "bombeiros"
+   ]
+  },
+  {
+   "id": "i40-elab-065",
+   "subtema": "GMV no Corpo de Bombeiros",
+   "artigo": "I-40-PM, art. 40",
+   "enunciado": "Estando impedidos de comparecer o Comandante do Subgrupamento de Bombeiros e o Supervisor de Bombeiros, em ocorrência grave com bombeiro em serviço, comparecerá:",
+   "alternativas": [
+    "o Subcomandante do Grupamento de Bombeiros do policial envolvido",
+    "o Comandante do Grupamento de Bombeiros, pessoalmente ou por delegação",
+    "o Comandante de Bombeiros Metropolitano ou do Interior, conforme o caso",
+    "o Oficial Superior de Sobreaviso do Comando de Policiamento da área"
+   ],
+   "correta": 0,
+   "explicacao": "A escala sucessiva do art. 40 termina no Subcomandante do Grupamento de Bombeiros do policial militar envolvido. Cmt de Bombeiros Metropolitano e do Interior aparecem nas regras de INSTAURAÇÃO com pluralidade de Grupamentos, e não no comparecimento.",
+   "tags": [
+    "art-40",
+    "sucessao"
+   ]
+  },
+  {
+   "id": "i40-elab-066",
+   "subtema": "GMV no Ambiental e na Rodoviária",
+   "artigo": "I-40-PM, art. 43",
+   "enunciado": "Ocorrência vultosa envolvendo exclusivamente policial do Comando de Policiamento Ambiental em serviço, durante o horário de expediente administrativo. Deve comparecer ao local:",
+   "alternativas": [
+    "o Supervisor do Batalhão especializado a que pertence o policial envolvido",
+    "o Comandante do Policiamento Ambiental, pessoalmente ou por delegação",
+    "o Subcomandante do Batalhão ambiental do policial militar envolvido",
+    "o Comandante da Companhia especializada do policial militar envolvido"
+   ],
+   "correta": 3,
+   "explicacao": "No art. 43, durante o expediente comparece o Cmt da Cia especializada do envolvido, que também atua fora dele quando o Supervisor estiver impossibilitado; fora do expediente, o Supervisor do Batalhão especializado; por fim, o Subcomandante do Batalhão.",
+   "tags": [
+    "art-43",
+    "ambiental"
+   ]
+  },
+  {
+   "id": "i40-elab-067",
+   "subtema": "GMV no Ambiental e na Rodoviária",
+   "artigo": "I-40-PM, art. 43",
+   "enunciado": "Ocorrência com morte envolvendo exclusivamente policial do Comando de Policiamento Rodoviário em serviço, fora do horário de expediente administrativo. Deve comparecer ao local:",
+   "alternativas": [
+    "o Supervisor Regional do Comando de Policiamento do Interior da região",
+    "o Supervisor do Batalhão especializado a que pertence o policial envolvido",
+    "o Comandante da Companhia rodoviária do policial militar envolvido",
+    "o Comandante do Policiamento Rodoviário, pessoalmente ou por delegação"
+   ],
+   "correta": 1,
+   "explicacao": "Fora do expediente, comparece o Supervisor do Batalhão especializado do envolvido, seja no CPRv, seja no CPAmb. O Cmt da Cia especializada atua no expediente ou, fora dele, quando o Supervisor estiver impossibilitado.",
+   "tags": [
+    "art-43",
+    "rodoviaria"
+   ]
+  },
+  {
+   "id": "i40-elab-068",
+   "subtema": "GMV no Trânsito",
+   "artigo": "I-40-PM, arts. 52-C e 52-D",
+   "enunciado": "Ocorrência grave envolvendo exclusivamente policiais do Comando de Policiamento de Trânsito em serviço, fora do horário de expediente administrativo. Deve comparecer ao local:",
+   "alternativas": [
+    "o Comandante da Companhia de Policiamento de Trânsito do envolvido",
+    "o Coordenador Operacional do Batalhão de Policiamento de Trânsito",
+    "o Supervisor Regional de Trânsito e, impedido, o Superior de Sobreaviso",
+    "o Supervisor Regional do Comando de Policiamento de Área da região dos fatos"
+   ],
+   "correta": 2,
+   "explicacao": "Fora do expediente (art. 52-D), comparece o Supervisor Regional de Trânsito e, havendo impedimento, o Superior de Sobreaviso de Trânsito. Durante o expediente (art. 52-C), a escala é Cmt Cia P Tran, Coordenador Operacional do BPTran e Subcomandante do BPTran.",
+   "tags": [
+    "cptran",
+    "gmv"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i40-elab-069",
+   "subtema": "GMV no Trânsito",
+   "artigo": "I-40-PM, art. 52-C",
+   "enunciado": "Durante o expediente administrativo, em ocorrência vultosa com policiais do Trânsito em serviço, estando impedido o Comandante da Companhia de Policiamento de Trânsito, comparecerá:",
+   "alternativas": [
+    "o Supervisor Regional de Trânsito, que acumula a função no período diurno",
+    "o Comandante do Policiamento de Trânsito, pessoalmente ou por delegação",
+    "o Subcomandante do Batalhão de Policiamento de Trânsito, de imediato",
+    "o Coordenador Operacional do Batalhão de Policiamento de Trânsito"
+   ],
+   "correta": 3,
+   "explicacao": "A escala do art. 52-C é sucessiva: Cmt da Cia P Tran; impedido este, o Coordenador Operacional do BPTran; impedidos ambos, o Subcomandante do BPTran. O Supervisor Regional de Trânsito atua fora do expediente.",
+   "tags": [
+    "art-52-c",
+    "sucessao"
+   ]
+  },
+  {
+   "id": "i40-elab-070",
+   "subtema": "GMV no BAEP",
+   "artigo": "I-40-PM, arts. 52-G e 52-H",
+   "enunciado": "Ocorrência com morte envolvendo exclusivamente integrantes de Batalhão de Ações Especiais de Polícia em serviço. Quanto ao comparecimento ao local:",
+   "alternativas": [
+    "no expediente e fora dele, sempre o Subcomandante do Batalhão de Ações Especiais",
+    "no expediente, o Supervisor Regional e, fora dele, o Comandante da Cia AEP",
+    "no expediente, o Coordenador Operacional e, fora dele, o Comandante do BAEP",
+    "no expediente, o Cmt da Cia AEP e, fora dele, o Supervisor Regional do CPA ou CPI"
+   ],
+   "correta": 3,
+   "explicacao": "Art. 52-G: no expediente, Cmt da Cia AEP e, impedido, o Subcomandante do BAEP. Art. 52-H: fora do expediente, Supervisor Regional do CPA ou CPI e, impedido, o Oficial Superior de Sobreaviso. Note que o BAEP não possui supervisor próprio.",
+   "tags": [
+    "baep",
+    "gmv"
+   ]
+  },
+  {
+   "id": "i40-elab-071",
+   "subtema": "GMV na Aviação",
+   "artigo": "I-40-PM, art. 46",
+   "enunciado": "Ocorrência grave envolvendo exclusivamente integrante do Comando de Aviação PM em serviço. Segundo as I-40-PM:",
+   "alternativas": [
+    "comparece o Supervisor de Aviação, fora do horário de expediente administrativo",
+    "o Comandante da Unidade determina o comparecimento de oficial superior ao envolvido",
+    "comparece o Supervisor Regional do Comando de Policiamento de Área do local",
+    "o Comandante determina o comparecimento do oficial mais antigo da Unidade"
+   ],
+   "correta": 1,
+   "explicacao": "O CAvPM não possui a figura do Supervisor. O art. 46 determina que o Comandante da Unidade providencie o comparecimento ao local de um oficial SUPERIOR HIERÁRQUICO em relação ao envolvido, solução idêntica à dos Órgãos de Direção e Apoio e da Corregedoria.",
+   "tags": [
+    "art-46",
+    "cavpm"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i40-elab-072",
+   "subtema": "GMV em Órgão de Direção ou Apoio",
+   "artigo": "I-40-PM, art. 48",
+   "enunciado": "Ocorrência vultosa envolvendo exclusivamente integrante de Órgão de Direção ou de Apoio, em serviço. Deve comparecer ao local:",
+   "alternativas": [
+    "oficial designado pelo Comandante do Órgão, superior hierárquico ao envolvido",
+    "o Supervisor Regional do Comando de Policiamento de Área do local dos fatos",
+    "o Oficial Superior de Sobreaviso, fora do horário de expediente administrativo",
+    "oficial designado pelo Corregedor PM, dada a natureza administrativa do órgão"
+   ],
+   "correta": 0,
+   "explicacao": "Nos Órgãos de Direção e de Apoio, o Comandante do órgão determina o comparecimento de oficial SUPERIOR HIERÁRQUICO ao envolvido, dentro ou fora do expediente — não há supervisor próprio nem atuação obrigatória do Sup Reg territorial.",
+   "tags": [
+    "art-48",
+    "orgao-direcao"
+   ]
+  },
+  {
+   "id": "i40-elab-073",
+   "subtema": "GMV na Corregedoria",
+   "artigo": "I-40-PM, art. 51",
+   "enunciado": "Ocorrência com morte em que atua integrante da Corregedoria PM em serviço. Quanto ao comparecimento ao local dos fatos:",
+   "alternativas": [
+    "cabe ao Supervisor da Corregedoria PM, fora do horário de expediente",
+    "cabe ao Supervisor Regional do CPA ou CPI, em qualquer horário do dia",
+    "cabe ao Corregedor PM determinar o comparecimento de oficial superior ao envolvido",
+    "cabe ao Comandante da Unidade do local dos fatos designar oficial para o acompanhamento"
+   ],
+   "correta": 2,
+   "explicacao": "A Corregedoria PM não tem a figura de Supervisor. O art. 51 impõe ao Corregedor PM determinar o comparecimento ao local de um oficial SUPERIOR HIERÁRQUICO em relação ao envolvido.",
+   "tags": [
+    "art-51",
+    "corregedoria"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i40-elab-074",
+   "subtema": "GMV com PM de folga",
+   "artigo": "I-40-PM — ocorrências com PM de folga",
+   "enunciado": "Em ocorrências com morte, graves ou vultosas envolvendo policial militar de OPM especializada DE FOLGA, a regra das I-40-PM é que:",
+   "alternativas": [
+    "o comparecimento de oficial é obrigatório, na mesma escala prevista para o serviço",
+    "o Supervisor Regional comparecerá, independentemente da Unidade do envolvido",
+    "seu Comandante avaliará a necessidade de designação de oficial para comparecer",
+    "o comparecimento é dispensado, bastando a comunicação à Corregedoria PM"
+   ],
+   "correta": 2,
+   "explicacao": "Para as OPM especializadas, na folga, o Comandante do envolvido AVALIA A NECESSIDADE de designar oficial para comparecer ao local. A exceção é a Corregedoria: nesse caso, quem avalia é o próprio Corregedor PM.",
+   "tags": [
+    "folga",
+    "gmv"
+   ]
+  },
+  {
+   "id": "i40-elab-075",
+   "subtema": "GMV com PM de folga",
+   "artigo": "I-40-PM — Corregedoria de folga",
+   "enunciado": "Em ocorrência grave envolvendo policial militar da Corregedoria PM de folga, a avaliação sobre a designação de oficial para comparecer ao local cabe:",
+   "alternativas": [
+    "ao Corregedor PM, e não ao Comandante da Unidade do envolvido",
+    "ao Supervisor Regional do Comando de Policiamento do local dos fatos",
+    "ao Comandante da Unidade onde o policial militar prestava serviço anteriormente",
+    "ao Comandante de Policiamento de Área, por ser o responsável territorial"
+   ],
+   "correta": 0,
+   "explicacao": "Na folga, a fórmula padrão manda o Comandante da Unidade avaliar a designação; para a Corregedoria, a norma desloca essa avaliação para o CORREGEDOR PM. Atenção: a instauração do ato de PJM, na folga, cabe ao CPA ou CPI.",
+   "tags": [
+    "corregedoria",
+    "folga"
+   ]
+  },
+  {
+   "id": "i40-elab-076",
+   "subtema": "GMV no interior de OPM",
+   "artigo": "I-40-PM, art. 49",
+   "enunciado": "Ocorrência com morte no interior de quartel envolvendo policial militar da própria Unidade, de folga. Quanto ao comparecimento de oficial ao local:",
+   "alternativas": [
+    "as Instruções nada preveem, aplicando-se apenas as regras de instauração do inquérito",
+    "o Comandante de Policiamento de Área designa oficial de posto superior ao envolvido",
+    "o Supervisor Regional comparece, por se tratar de policial militar de folga",
+    "o Comandante da Unidade designa oficial, pois a norma não distinguiu serviço e folga"
+   ],
+   "correta": 3,
+   "explicacao": "O art. 49 trata do crime militar no interior de quartéis sem especificar o estado de serviço. Assim, em ocorrência com morte, grave ou vultosa no interior da Unidade, em serviço ou de folga, o Comandante da Unidade designa oficial para comparecer ao local.",
+   "tags": [
+    "art-49",
+    "interior"
+   ]
+  },
+  {
+   "id": "i40-elab-077",
+   "subtema": "IPM — prazos",
+   "artigo": "I-40-PM — inquérito policial-militar",
+   "enunciado": "A contagem do prazo para a conclusão do inquérito policial-militar, segundo as I-40-PM, inicia-se:",
+   "alternativas": [
+    "na data do fato criminoso apurado no procedimento instaurado",
+    "na data do termo de recebimento lavrado pelo Oficial Encarregado",
+    "na data da ciência da autoridade originária de polícia judiciária militar",
+    "na data da portaria que instaurou o inquérito policial-militar"
+   ],
+   "correta": 3,
+   "explicacao": "O prazo corre da DATA DA PORTARIA. Tomar a data do fato ou a da ciência da autoridade é o erro clássico; o termo de recebimento pertence ao rito dos processos regulares das I-16-PM.",
+   "tags": [
+    "ipm",
+    "prazo"
+   ]
+  },
+  {
+   "id": "i40-elab-078",
+   "subtema": "IPM — prazos",
+   "artigo": "I-40-PM — inquérito policial-militar",
+   "enunciado": "Quanto aos prazos de conclusão do inquérito policial-militar, é correto afirmar:",
+   "alternativas": [
+    "30 dias com indiciado preso, contados da lavratura do auto, e 60 dias com indiciado solto",
+    "20 dias com indiciado preso, contados da efetivação da ordem de prisão, e 40 dias com indiciado solto",
+    "20 dias com indiciado preso, contados da portaria, e 45 dias com indiciado solto",
+    "30 dias com indiciado preso, contados da efetivação da prisão, e 40 dias com indiciado solto"
+   ],
+   "correta": 1,
+   "explicacao": "Preso: 20 dias, contados da data em que se efetivou a ORDEM DE PRISÃO. Solto: 40 dias, prorrogáveis por mais 20 pela autoridade originária. A contagem inicial do procedimento, contudo, é a da portaria.",
+   "tags": [
+    "ipm",
+    "20-40"
+   ]
+  },
+  {
+   "id": "i40-elab-079",
+   "subtema": "IPM — prazos",
+   "artigo": "I-40-PM — prorrogação",
+   "enunciado": "Não concluída a instrução do inquérito policial-militar com indiciado solto, a prorrogação:",
+   "alternativas": [
+    "é automática por mais 40 dias, mediante simples comunicação à Corregedoria",
+    "cabe à autoridade originária, por mais 20 dias, quando não concluída a instrução",
+    "cabe ao Oficial Encarregado, por mais 20 dias, com registro nos autos",
+    "cabe ao Juiz de Direito da Justiça Militar, mediante requerimento fundamentado"
+   ],
+   "correta": 1,
+   "explicacao": "Com indiciado solto, o prazo de 40 dias pode ser prorrogado por mais 20 pela AUTORIDADE ORIGINÁRIA. O Oficial Encarregado não prorroga: ele deve solicitar a prorrogação com 5 dias úteis de antecedência do término do prazo.",
+   "tags": [
+    "ipm",
+    "prorrogacao"
+   ]
+  },
+  {
+   "id": "i40-elab-080",
+   "subtema": "IPM — prazos",
+   "artigo": "I-40-PM — pedido de prorrogação",
+   "enunciado": "O Oficial Encarregado que necessitar de prorrogação do prazo do inquérito deve solicitá-la:",
+   "alternativas": [
+    "com 5 dias úteis de antecedência do término do prazo em curso",
+    "no primeiro dia útil seguinte ao vencimento do prazo original",
+    "com 10 dias corridos de antecedência do término do prazo",
+    "a qualquer tempo, desde que antes do relatório final do inquérito"
+   ],
+   "correta": 0,
+   "explicacao": "A solicitação deve ser feita 5 DIAS ÚTEIS antes do término do prazo, permitindo que a autoridade originária delibere antes do vencimento. Pedido posterior ao vencimento não convalida a inércia.",
+   "tags": [
+    "ipm",
+    "5-dias-uteis"
+   ]
+  },
+  {
+   "id": "i40-elab-081",
+   "subtema": "IPM — regime",
+   "artigo": "I-40-PM — instauração do IPM",
+   "enunciado": "Instaurado o inquérito policial-militar, verificando o Oficial Encarregado que os fatos são de menor relevância penal, poderá:",
+   "alternativas": [
+    "arquivar os autos, com a concordância da autoridade originária de PJM",
+    "transformar os autos em sindicância, para apuração exclusivamente disciplinar",
+    "concluir o inquérito e remetê-lo, pois é vedado arquivar ou transformar os autos",
+    "suspender o procedimento até deliberação do Ministério Público Militar"
+   ],
+   "correta": 2,
+   "explicacao": "Instaurado o IPM, NÃO podem os autos ser arquivados nem transformados em outra espécie de apuração. A solução cabe à autoridade competente, e os autos seguem à Justiça Militar Estadual.",
+   "tags": [
+    "ipm",
+    "vedacao-arquivamento"
+   ]
+  },
+  {
+   "id": "i40-elab-082",
+   "subtema": "IPM — encerramento",
+   "artigo": "I-40-PM — remessa à Justiça Militar",
+   "enunciado": "Ao término do inquérito policial-militar, os autos devem ser encaminhados:",
+   "alternativas": [
+    "à Corregedoria PM, para controle e posterior remessa à Justiça Militar",
+    "ao Juiz de Direito Distribuidor da Justiça Militar do Estado de São Paulo",
+    "ao Ministério Público Militar, para oferecimento da denúncia cabível",
+    "ao Comando de Policiamento de Área, para homologação da solução adotada"
+   ],
+   "correta": 1,
+   "explicacao": "Os autos vão IMEDIATAMENTE ao Juiz de Direito Distribuidor da JME/SP. À Corregedoria cabem o controle e a normatização da PJM e o recebimento das informações pelo aplicativo, não a intermediação da remessa.",
+   "tags": [
+    "ipm",
+    "jme"
+   ]
+  },
+  {
+   "id": "i40-elab-083",
+   "subtema": "IPM — encerramento",
+   "artigo": "I-40-PM — objetos apreendidos",
+   "enunciado": "Havendo instrumentos utilizados na prática do crime militar a serem remetidos com o inquérito, a entrega dos autos à Justiça Militar:",
+   "alternativas": [
+    "deverá ser precedida de autorização do Juiz de Direito Distribuidor da JME",
+    "poderá ser feita por malote, desde que os objetos sejam descritos no relatório",
+    "deverá ser realizada pessoalmente, com os objetos relacionados no ofício de remessa",
+    "poderá ser feita por meio eletrônico, permanecendo os objetos na Unidade"
+   ],
+   "correta": 2,
+   "explicacao": "A entrega é PESSOAL quando houver encaminhamento de instrumentos e objetos apreendidos, que devem ser expressamente relacionados no ofício de remessa, para garantir a cadeia de custódia.",
+   "tags": [
+    "ipm",
+    "objetos"
+   ]
+  },
+  {
+   "id": "i40-elab-084",
+   "subtema": "IPM — encerramento",
+   "artigo": "I-40-PM — substâncias apreendidas",
+   "enunciado": "Apreendidas, no curso do inquérito, substâncias entorpecentes e produtos inflamáveis, o tratamento previsto é:",
+   "alternativas": [
+    "remessa das substâncias com os autos, na mesma oportunidade da entrega pessoal",
+    "permanência das substâncias na OPM, com juntada dos laudos circunstanciados aos autos",
+    "entrega imediata das substâncias à Corregedoria PM, para destruição administrativa",
+    "destruição pelo Oficial Encarregado, com registro fotográfico juntado aos autos"
+   ],
+   "correta": 1,
+   "explicacao": "As substâncias seguem normas próprias da Justiça Militar: PERMANECEM NA OPM, os laudos circunstanciados são juntados e somente os autos vão à JME, devendo o encarregado envidar esforços junto ao juízo para a destruição.",
+   "tags": [
+    "ipm",
+    "entorpecentes"
+   ]
+  },
+  {
+   "id": "i40-elab-085",
+   "subtema": "IPM — registro",
+   "artigo": "I-40-PM — aplicativo da Corregedoria",
+   "enunciado": "Devem ser inseridas em aplicativo disponibilizado pela Corregedoria PM as informações sobre:",
+   "alternativas": [
+    "instauração e solução de IPM e as sindicâncias instauradas na Unidade",
+    "instauração, relatório e solução de IPM, auto de prisão militar e flagrante comum",
+    "instauração de IPM e os procedimentos disciplinares decorrentes do fato",
+    "instauração de IPM e as decisões proferidas pela Justiça Militar Estadual"
+   ],
+   "correta": 1,
+   "explicacao": "O aplicativo recebe as informações sobre instauração, relatório e solução de IPM, sobre a instauração de auto de prisão em flagrante por crime militar e sobre prisões em flagrante por crime COMUM. Sindicâncias e procedimentos disciplinares seguem as I-16-PM.",
+   "tags": [
+    "aplicativo",
+    "corregedoria"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i40-elab-086",
+   "subtema": "IPM — arquivo",
+   "artigo": "I-40-PM — arquivamento da cópia digitalizada",
+   "enunciado": "A cópia digitalizada dos autos do inquérito será mantida na Seção de PJM e Disciplina da OPM em que o feito foi solucionado até que ocorram, cumulativamente:",
+   "alternativas": [
+    "a prescrição das infrações penais militares e o arquivamento do feito pela Justiça",
+    "a solução do inquérito, a remessa à Justiça Militar e a ciência da Corregedoria PM",
+    "o trânsito em julgado do processo criminal e as prescrições disciplinar e penal",
+    "o trânsito em julgado do processo criminal e a conclusão do processo regular"
+   ],
+   "correta": 2,
+   "explicacao": "São três requisitos CUMULATIVOS: trânsito em julgado de eventual processo criminal na JME ou na Justiça comum; prescrição do direito de propor ação judicial em face de sanção disciplinar; e prescrição das infrações penais militares apuradas.",
+   "tags": [
+    "arquivo",
+    "requisitos"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i40-elab-087",
+   "subtema": "APFDM",
+   "artigo": "I-40-PM c/c Provimento 02/05 da CG da JME",
+   "enunciado": "Lavrado o auto de prisão em flagrante delito militar, a remessa à Justiça Militar Estadual:",
+   "alternativas": [
+    "depende de homologação pela autoridade hierarquicamente superior à que lavrou",
+    "depende do visto do Corregedor PM, que controla os atos de polícia judiciária",
+    "independe de homologação, visto ou ratificação por autoridade superior",
+    "depende de ratificação do Comandante da Unidade do policial militar preso"
+   ],
+   "correta": 2,
+   "explicacao": "O Provimento nº 002/05 da Corregedoria Geral da Justiça Militar dispõe que a autoridade de PJM que lavrar o auto realiza a remessa SEM necessidade de homologação, visto ou ratificação por autoridade hierarquicamente superior.",
+   "tags": [
+    "apfdm",
+    "provimento"
+   ]
+  },
+  {
+   "id": "i40-elab-088",
+   "subtema": "APFDM",
+   "artigo": "I-40-PM — remessa do auto",
+   "enunciado": "Lavrado o auto de prisão em flagrante delito militar e havendo diligências pendentes, a autoridade de polícia judiciária militar deverá:",
+   "alternativas": [
+    "remeter cópia à Justiça Militar e permanecer com os originais por mais 5 dias",
+    "remeter os originais à Justiça Militar e comunicar as diligências no ofício",
+    "suspender a remessa até a conclusão integral das diligências pendentes",
+    "remeter os originais à Corregedoria PM, que os encaminhará após as diligências"
+   ],
+   "correta": 0,
+   "explicacao": "Sem diligências pendentes, remete-se o ORIGINAL. Com diligências pendentes, remete-se CÓPIA e os originais permanecem por mais 5 dias, com empenho em concluir as diligências nesse prazo; não as concluindo, o empenho permanece.",
+   "tags": [
+    "apfdm",
+    "diligencias"
+   ]
+  },
+  {
+   "id": "i40-elab-089",
+   "subtema": "APFDM",
+   "artigo": "I-40-PM — cópias do auto",
+   "enunciado": "Além da via original remetida à Justiça Militar, o auto de prisão em flagrante delito militar deve ter cópias integrais encaminhadas:",
+   "alternativas": [
+    "à Corregedoria PM, à Consultoria Jurídica da Instituição e à Unidade do policial militar",
+    "ao Ministério Público Militar, à Corregedoria PM e ao Comando de Policiamento de Área",
+    "ao PMRG, à Corregedoria PM e à Unidade do policial militar, para medidas disciplinares",
+    "ao PMRG, ao Comando de Policiamento de Área e à Seção de PJM e Disciplina da Unidade"
+   ],
+   "correta": 2,
+   "explicacao": "As cópias integrais vão ao PMRG, quando da apresentação do preso; à Corregedoria PM, imediatamente após a lavratura; e à respectiva Unidade do policial militar, para as medidas disciplinares cabíveis.",
+   "tags": [
+    "apfdm",
+    "copias"
+   ]
+  },
+  {
+   "id": "i40-elab-090",
+   "subtema": "APFDM",
+   "artigo": "I-40-PM — exame de corpo de delito",
+   "enunciado": "Antes de apresentar o policial militar preso ao Presídio Militar Romão Gomes, a autoridade que lavrou o auto deverá:",
+   "alternativas": [
+    "providenciar sua apresentação ao Juiz de Direito para audiência de custódia",
+    "submetê-lo a inspeção de saúde pela junta médica, para fins de agregação imediata",
+    "comunicar previamente a Corregedoria PM e aguardar a designação de escolta",
+    "encaminhá-lo ao Centro Médico para exame de corpo de delito, cujo laudo integra os autos"
+   ],
+   "correta": 3,
+   "explicacao": "O encaminhamento ao CMed para EXAME DE CORPO DE DELITO é obrigatório antes da apresentação ao PMRG, com juntada do laudo aos autos originais, e alcança todos os tipos de prisão que ocorram no PMRG, inclusive por crime comum.",
+   "tags": [
+    "apfdm",
+    "corpo-de-delito"
+   ]
+  },
+  {
+   "id": "i40-elab-091",
+   "subtema": "Medidas disciplinares",
+   "artigo": "I-40-PM — prisão em flagrante e processo regular",
+   "enunciado": "Preso em flagrante por crime militar um Sargento PM e, em fato diverso, um Capitão PM, o Comandante da Unidade deverá, respectivamente:",
+   "alternativas": [
+    "instaurar processo regular em ambos os casos, comunicando a Corregedoria PM",
+    "instaurar processo regular quanto à praça e remeter cópias à Corregedoria quanto ao oficial",
+    "remeter cópias à Corregedoria PM em ambos os casos, aguardando orientação",
+    "instaurar procedimento disciplinar quanto à praça e processo regular quanto ao oficial"
+   ],
+   "correta": 1,
+   "explicacao": "Sendo o indiciado PRAÇA, o Cmt da Unidade instaura processo regular; sendo OFICIAL, remete imediatamente à Corregedoria PM cópia do auto e demais documentos, para análise e elaboração da representação visando à instauração de Conselho de Justificação.",
+   "tags": [
+    "processo-regular",
+    "oficial-praca"
+   ]
+  },
+  {
+   "id": "i40-elab-092",
+   "subtema": "Medidas disciplinares",
+   "artigo": "I-40-PM — prisão preventiva ou temporária",
+   "enunciado": "Decretada prisão preventiva de policial militar durante a instrução de inquérito, o Comandante da Unidade deverá determinar:",
+   "alternativas": [
+    "a instauração imediata de processo regular, independentemente do curso do inquérito",
+    "ao Oficial de PJM e Disciplina que acompanhe o caso, com processo regular após a denúncia",
+    "a remessa dos autos à Corregedoria PM, que decidirá sobre as medidas disciplinares",
+    "a suspensão de qualquer medida disciplinar até o trânsito em julgado da sentença"
+   ],
+   "correta": 1,
+   "explicacao": "O Cmt determina ao Oficial PJMD que ACOMPANHE o caso e, havendo posterior RECEBIMENTO DE DENÚNCIA, adotam-se as medidas de instauração de processo regular. O mesmo vale se o PM for preso durante ou ao final do processo judicial.",
+   "tags": [
+    "prisao-preventiva",
+    "denuncia"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i40-elab-093",
+   "subtema": "Medidas disciplinares",
+   "artigo": "I-40-PM — comunicação à Corregedoria",
+   "enunciado": "Quanto às medidas disciplinares decorrentes da prisão de policial militar, o Comandante da Unidade deve comunicá-las à Corregedoria PM no prazo de:",
+   "alternativas": [
+    "15 dias, prorrogáveis por igual período mediante justificativa",
+    "30 dias, comunicando no mesmo prazo eventual impedimento momentâneo",
+    "45 dias, contados do recebimento da denúncia pelo juízo competente",
+    "60 dias, contados do trânsito em julgado da decisão condenatória"
+   ],
+   "correta": 1,
+   "explicacao": "O prazo é de 30 DIAS para comunicar à Corregedoria PM as medidas disciplinares adotadas; havendo impedimento momentâneo para a instauração do processo regular, a comunicação específica ocorre no MESMO prazo.",
+   "tags": [
+    "30-dias",
+    "comunicacao"
+   ]
+  },
+  {
+   "id": "i40-elab-094",
+   "subtema": "Medidas disciplinares",
+   "artigo": "I-40-PM — incapacidade ético-moral",
+   "enunciado": "Independentemente das hipóteses de prisão previstas nas Instruções, a instauração de processo regular deverá ocorrer sempre que:",
+   "alternativas": [
+    "os elementos colhidos revelarem incapacidade ético-moral para permanecer na Instituição",
+    "houver indiciamento do policial militar em inquérito policial comum ou militar",
+    "houver recebimento de denúncia pela Justiça Militar do Estado de São Paulo",
+    "a Corregedoria PM assim determinar, após análise dos documentos remetidos"
+   ],
+   "correta": 0,
+   "explicacao": "A regra é material, e não formal: sempre que os elementos revelarem INCAPACIDADE ÉTICO-MORAL de permanecer nas fileiras, instaura-se processo regular, especialmente quando o indiciamento em IP ou IPM indicar essa necessidade.",
+   "tags": [
+    "etico-moral",
+    "processo-regular"
+   ]
+  },
+  {
+   "id": "i40-elab-095",
+   "subtema": "Medidas disciplinares",
+   "artigo": "I-40-PM — medida alternativa",
+   "enunciado": "Entendendo o Comandante da Unidade que os fatos que levaram à prisão não revelam incapacidade ético-moral do preso, poderá:",
+   "alternativas": [
+    "deixar de instaurar o processo regular, bastando registrar a decisão em boletim interno",
+    "submeter a decisão ao Comandante de Policiamento de Área, que a homologará em 15 dias",
+    "solicitar ao Subcomandante PM, via Corregedoria, a homologação de sua decisão em 30 dias",
+    "converter o processo regular em procedimento disciplinar, por ato motivado nos autos"
+   ],
+   "correta": 2,
+   "explicacao": "A medida alternativa exige manifestação MOTIVADA e por via hierárquica, dirigida ao SUBCOMANDANTE PM, VIA CORREGEDORIA PM, solicitando a homologação da decisão de não instaurar o processo regular, no prazo máximo de 30 dias da prisão ou do ato que a fundamenta.",
+   "tags": [
+    "homologacao",
+    "subcomandante"
+   ]
+  },
+  {
+   "id": "i40-elab-096",
+   "subtema": "Medidas disciplinares",
+   "artigo": "I-40-PM — condenação a pena não privativa",
+   "enunciado": "Condenado o policial militar, por crime militar ou comum, a pena diversa das privativas de liberdade, cabe ao Comandante da Unidade:",
+   "alternativas": [
+    "instaurar obrigatoriamente processo regular, por força da condenação criminal",
+    "aplicar diretamente a sanção de reforma administrativa disciplinar ao condenado",
+    "aguardar manifestação da Corregedoria PM sobre as medidas cabíveis",
+    "decidir por ato motivado quais medidas disciplinares serão adotadas"
+   ],
+   "correta": 3,
+   "explicacao": "Na condenação a pena NÃO privativa de liberdade, o Comandante decide, por ATO MOTIVADO, as medidas disciplinares, providenciando a remessa das principais peças do processo judicial e de certidão de objeto e pé à Corregedoria PM.",
+   "tags": [
+    "condenacao",
+    "ato-motivado"
+   ]
+  },
+  {
+   "id": "i40-elab-097",
+   "subtema": "Medidas disciplinares",
+   "artigo": "I-40-PM — inativos",
+   "enunciado": "Preso em flagrante por crime COMUM um Oficial da reserva remunerada, o acompanhamento do fato e a remessa de cópias à Corregedoria PM cabem:",
+   "alternativas": [
+    "à autoridade de polícia judiciária militar que tomou conhecimento da ocorrência",
+    "ao Batalhão do local dos fatos, sob supervisão do Cmt Cia PM ou do Supervisor Regional",
+    "à Unidade em que o oficial prestava serviço antes da passagem para a inatividade",
+    "ao Comando de Policiamento de Área, por meio do Oficial Superior de Sobreaviso"
+   ],
+   "correta": 1,
+   "explicacao": "Inativo preso por CRIME COMUM: acompanha o BPM do local dos fatos, sob supervisão do Cmt da Cia PM no expediente ou do Supervisor Regional fora dele. Sendo CRIME MILITAR, a autoridade de PJM que lavrou o auto encaminha cópias à Corregedoria PM.",
+   "tags": [
+    "inativo",
+    "crime-comum"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i40-elab-098",
+   "subtema": "Serviço de PJM e Disciplina",
+   "artigo": "I-40-PM — Serviço de PJM e Disciplina",
+   "enunciado": "Quanto à escolha dos integrantes do Serviço de PJM e Disciplina da Unidade, é correto afirmar que:",
+   "alternativas": [
+    "o oficial deve obrigatoriamente possuir o curso de especialização em polícia judiciária militar",
+    "o oficial é escolhido pelo Comandante, com preferência para quem possua o curso da área",
+    "o oficial é indicado pela Corregedoria PM entre os que concluíram o curso de especialização",
+    "o oficial é o mais antigo entre os subalternos da Unidade, independentemente de curso"
+   ],
+   "correta": 1,
+   "explicacao": "A escolha é do Comandante e recai PREFERENCIALMENTE sobre oficial com curso de PJM; não havendo, providencia-se a matrícula o mais rapidamente possível. A mesma preferência vale para os Subtenentes e Sargentos do serviço.",
+   "tags": [
+    "sjd",
+    "preferencia"
+   ]
+  },
+  {
+   "id": "i40-elab-099",
+   "subtema": "Serviço de PJM e Disciplina",
+   "artigo": "I-40-PM — vedações",
+   "enunciado": "Não podem compor o Serviço de PJM e Disciplina da Unidade os policiais militares que estejam:",
+   "alternativas": [
+    "cumprindo sanção disciplinar de permanência ou de detenção nos últimos doze meses de serviço",
+    "respondendo a procedimento disciplinar ou classificados no comportamento bom há menos de um ano",
+    "respondendo a processo judicial penal, a processo regular ou, praças, no comportamento regular ou mau",
+    "aguardando promoção por merecimento ou frequentando curso de formação na Instituição"
+   ],
+   "correta": 2,
+   "explicacao": "As vedações são três: responder a processo judicial por infração penal militar ou comum; estar submetido a processo regular; e, para praças, ingressar no comportamento REGULAR ou MAU. Havendo envolvimento superveniente, o Comandante avalia a movimentação preventiva.",
+   "tags": [
+    "sjd",
+    "vedacoes"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "i40-elab-100",
+   "subtema": "Plantão de PJM e Disciplina",
+   "artigo": "I-40-PM — PPJMD",
+   "enunciado": "Sobre o Plantão de Polícia Judiciária Militar e Disciplina, organizado pelos Comandos de Policiamento, é correto afirmar que:",
+   "alternativas": [
+    "é vedada a utilização de Aspirantes a Oficial na escala, salvo na condição de estagiário",
+    "atende apenas as ocorrências de policiais das OPM diretamente subordinadas ao Comando",
+    "a equipe de apoio é composta por dois Sargentos escrivães e um oficial subalterno",
+    "nas áreas do interior o plantão é sempre presencial, vedado o regime de sobreaviso"
+   ],
+   "correta": 0,
+   "explicacao": "É VEDADO o Aspirante na escala do PPJMD, EXCETO como estagiário. O plantão atende todas as ocorrências de crime militar da área do CPA ou CPI, independentemente da OPM do envolvido; a equipe é de 1 Sargento escrivão e 1 Cabo ou Soldado auxiliar, que também é motorista; e no interior pode funcionar em sobreaviso, a critério do CPI.",
+   "tags": [
+    "ppjmd",
+    "aspirante"
+   ]
+  },
+  {
+   "id": "i40-elab-101",
+   "subtema": "Corregedoria PM",
+   "artigo": "I-40-PM — atribuições da Corregedoria",
+   "enunciado": "Assinale a alternativa que NÃO corresponde a atribuição da Corregedoria PM nas I-40-PM:",
+   "alternativas": [
+    "solicitar a apresentação de oficiais e praças relacionados com infrações graves ou penais",
+    "solicitar a remessa imediata de documentos e arquivos eletrônicos sobre essas infrações",
+    "movimentar oficiais e praças envolvidos em infrações penais, para fortalecer a disciplina",
+    "propor ao Comando Geral a retirada de oficiais e praças das atividades operacionais"
+   ],
+   "correta": 2,
+   "explicacao": "A Corregedoria PM PROPÕE ao Comando Geral a retirada das atividades operacionais; não tem poder de MOVIMENTAR policiais militares. As demais alternativas reproduzem atribuições expressas de solicitação de apresentação, documentos e informações.",
+   "tags": [
+    "corregedoria",
+    "atribuicoes"
+   ]
+  },
+  {
+   "id": "i40-elab-102",
+   "subtema": "Deserção",
+   "artigo": "Portaria CORREGPM-1/310/16 — consumação da deserção",
+   "enunciado": "Consumada a deserção de praça, a Unidade deverá instaurar o processo regular no prazo de:",
+   "alternativas": [
+    "8 dias, contados da data da lavratura do Termo de Deserção",
+    "5 dias, contados da data da consumação do crime de deserção",
+    "6 dias, contados da data da lavratura da Parte de Ausência",
+    "6 dias, contados da data da captura ou da apresentação espontânea"
+   ],
+   "correta": 2,
+   "explicacao": "O prazo é de 6 DIAS contados da lavratura da PARTE DE AUSÊNCIA. O Termo de Deserção é ato de PJM lavrado imediatamente após a consumação, e não se confunde com a portaria do processo regular.",
+   "tags": [
+    "desercao",
+    "parte-de-ausencia"
+   ]
+  },
+  {
+   "id": "i40-elab-103",
+   "subtema": "Deserção",
+   "artigo": "Portaria CORREGPM-1/310/16 — efeitos",
+   "enunciado": "Quanto aos efeitos da consumação da deserção, é correto afirmar que a OPM exclui o desertor do estado efetivo e a Diretoria de Pessoal o agrega, respectivamente:",
+   "alternativas": [
+    "ambos a contar da data da lavratura da Parte de Ausência na Unidade",
+    "a contar da data da consumação e a contar do dia anterior à consumação",
+    "ambos a contar da data da lavratura do Termo de Deserção pela Unidade",
+    "a contar do dia anterior à consumação e a contar da data da consumação"
+   ],
+   "correta": 3,
+   "explicacao": "A OPM exclui do estado efetivo a contar do DIA ANTERIOR à consumação; a DP agrega o desertor a contar da DATA DA CONSUMAÇÃO e exclui do serviço ativo a praça desertora. O último dia de vencimento é o dia anterior à falta ao serviço.",
+   "tags": [
+    "desercao",
+    "agregacao"
+   ]
+  }
+ ]
+}
