@@ -1,0 +1,2027 @@
+{
+ "materia": "ensino-elab",
+ "versao": "1.6.0",
+ "atualizadoEm": "2026-09-12",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Avaliação",
+  "Competências",
+  "Concurso público",
+  "Convênios",
+  "Corpo discente",
+  "Corpo docente",
+  "Desligamento",
+  "Educação profissional",
+  "Educação superior",
+  "Ensino a distância",
+  "Equivalência de estudos",
+  "Estabilidade",
+  "Estágio probatório",
+  "Fundamentos e valores",
+  "Ingresso",
+  "Nomeação e posse",
+  "Recursos financeiros",
+  "Sistema de Ensino",
+  "Órgãos de ensino"
+ ],
+ "questoes": [
+  {
+   "id": "ensino-elab-001",
+   "subtema": "Sistema de Ensino",
+   "artigo": "LC 1.036/08 — Finalidade do Sistema de Ensino",
+   "enunciado": "Em aula inaugural, discute-se a relação entre o Sistema de Ensino da Polícia Militar e a legislação educacional comum. Segundo a Lei de Ensino, esse sistema é dotado de características próprias porque",
+   "alternativas": [
+    "os cursos policiais-militares não integram o sistema educacional brasileiro",
+    "a Lei de Diretrizes e Bases não alcança as instituições militares estaduais",
+    "a Lei de Diretrizes e Bases prevê regulação própria e equivalência de estudos",
+    "a formação policial-militar é regida apenas por normas internas da Instituição"
+   ],
+   "correta": 2,
+   "explicacao": "O Sistema de Ensino da PMESP possui características próprias justamente porque a LDB estipula regulação própria e equivalência de estudos para o ensino militar. A pegadinha está em concluir que a especialidade significa exclusão do sistema educacional nacional, quando um dos fundamentos do Sistema é exatamente a integração à educação nacional.",
+   "tags": [
+    "ensino",
+    "sistema",
+    "ldb"
+   ]
+  },
+  {
+   "id": "ensino-elab-002",
+   "subtema": "Sistema de Ensino",
+   "artigo": "LC 1.036/08 — Qualificação do policial militar",
+   "enunciado": "A qualificação promovida pelo Sistema de Ensino da Polícia Militar alcança o policial militar em polícia ostensiva, em preservação da ordem pública e nas ações de bombeiro e defesa civil, sempre em conformidade",
+   "alternativas": [
+    "com as diretrizes de treinamento fixadas por cada Órgão de Apoio de Ensino",
+    "com os programas de ensino aprovados pelo Conselho Estadual de Educação",
+    "com o currículo mínimo nacional definido pelo Ministério da Educação",
+    "com a filosofia de polícia comunitária que norteia a atuação institucional"
+   ],
+   "correta": 3,
+   "explicacao": "A Lei de Ensino vincula a qualificação do policial militar à filosofia de polícia comunitária, expressão que se repete na descrição de praticamente todos os cursos do Sistema. As demais alternativas transferem a definição do conteúdo a órgãos externos, o que contraria a regulação própria reconhecida pela LDB.",
+   "tags": [
+    "ensino",
+    "sistema",
+    "policia-comunitaria"
+   ]
+  },
+  {
+   "id": "ensino-elab-003",
+   "subtema": "Sistema de Ensino",
+   "artigo": "LC 1.036/08 — Transmissão de conhecimentos",
+   "enunciado": "A educação e a capacitação desenvolvidas pelo Sistema de Ensino da Polícia Militar pressupõem a transmissão de conhecimentos",
+   "alternativas": [
+    "doutrinários e disciplinares, adequados à hierarquia da Instituição policial-militar",
+    "estritamente técnicos e operacionais, próprios da atividade de polícia ostensiva",
+    "jurídicos e administrativos, voltados ao exercício das funções de assessoramento",
+    "tecnológicos, humanísticos, científicos e gerais ao operador de segurança pública"
+   ],
+   "correta": 3,
+   "explicacao": "A norma indica a transmissão de conhecimentos tecnológicos, humanísticos, científicos e gerais ao operador do sistema de segurança pública. Reduzir o rol à técnica operacional ignora a dimensão humanística e científica expressamente prevista.",
+   "tags": [
+    "ensino",
+    "sistema",
+    "conhecimentos"
+   ]
+  },
+  {
+   "id": "ensino-elab-004",
+   "subtema": "Sistema de Ensino",
+   "artigo": "LC 1.036/08 — Finalidades da educação e capacitação",
+   "enunciado": "A educação e a capacitação do operador do sistema de segurança pública visam à habilitação, à especialização, à formação, ao aperfeiçoamento e",
+   "alternativas": [
+    "à progressão funcional do policial militar nas respectivas carreiras",
+    "ao treinamento do policial militar para o exercício de suas funções",
+    "à avaliação periódica do desempenho profissional do policial militar",
+    "à titulação acadêmica equivalente conferida por instituição externa"
+   ],
+   "correta": 1,
+   "explicacao": "O rol legal reúne habilitação, especialização, formação, aperfeiçoamento e treinamento. A progressão funcional é consequência possível da conclusão dos cursos, mas não figura entre as finalidades declaradas da educação e da capacitação.",
+   "tags": [
+    "ensino",
+    "sistema",
+    "finalidades"
+   ]
+  },
+  {
+   "id": "ensino-elab-005",
+   "subtema": "Sistema de Ensino",
+   "artigo": "LC 1.036/08 — Composição do Sistema",
+   "enunciado": "O Sistema de Ensino da Polícia Militar compreende, segundo a Lei de Ensino,",
+   "alternativas": [
+    "a educação básica complementar, a educação superior e a educação profissional",
+    "a educação superior, a educação profissional e a educação militar de valores",
+    "a educação militar e a educação técnico-superior, voltadas às estratégias de ensino",
+    "a educação superior, em suas diversas modalidades, e a educação profissional"
+   ],
+   "correta": 3,
+   "explicacao": "A Lei prevê duas vertentes: a educação superior, nas suas diversas modalidades, e a educação profissional, conforme as áreas de concentração dos estudos e as funções atribuídas aos policiais militares, inclusive as de bombeiro. A chamada educação militar não é categoria autônoma do Sistema.",
+   "tags": [
+    "ensino",
+    "sistema",
+    "modalidades"
+   ]
+  },
+  {
+   "id": "ensino-elab-006",
+   "subtema": "Educação superior",
+   "artigo": "LC 1.036/08 — Curso sequencial de formação específica",
+   "enunciado": "Soldado PM recém-ingressado frequenta curso destinado a qualificá-lo, no início da carreira, para a análise e a execução produtiva das funções próprias de polícia ostensiva e de preservação da ordem pública. Esse curso é",
+   "alternativas": [
+    "o Curso Superior de Tecnólogo de Polícia Ostensiva e Preservação da Ordem Pública I",
+    "o Curso Superior de Técnico de Polícia Ostensiva e Preservação da Ordem Pública",
+    "o Curso Superior de Tecnólogo de Administração Policial-Militar, realizado na APMBB",
+    "o Bacharelado em Ciências Policiais de Segurança e Ordem Pública, realizado na APMBB"
+   ],
+   "correta": 1,
+   "explicacao": "O Curso Superior de Técnico de Polícia Ostensiva e Preservação da Ordem Pública é sequencial de formação específica, qualifica tecnicamente o Soldado PM no início da carreira e é realizado pela ESSd, atribuindo a especialidade superior de Técnico. O Tecnólogo I destina-se à habilitação para 3º Sargento, em curso sequencial de complementação de estudos.",
+   "tags": [
+    "ensino",
+    "educacao-superior",
+    "cfsd"
+   ]
+  },
+  {
+   "id": "ensino-elab-007",
+   "subtema": "Educação superior",
+   "artigo": "LC 1.036/08 — Tecnólogo de PO e POP I",
+   "enunciado": "O Curso Superior de Tecnólogo de Polícia Ostensiva e Preservação da Ordem Pública I é sequencial de complementação de estudos e destina-se a qualificar",
+   "alternativas": [
+    "tecnicamente o Soldado PM para as funções próprias da graduação inicial",
+    "tecnicamente as Praças para o ingresso no Quadro Auxiliar de Oficiais PM",
+    "profissionalmente o 2º Sargento PM às funções de 1º Sargento e Subtenente",
+    "profissionalmente o Soldado ou o Cabo PM ao exercício das funções de 3º Sargento"
+   ],
+   "correta": 3,
+   "explicacao": "O Tecnólogo I qualifica profissionalmente o Soldado ou o Cabo PM ao exercício das funções de 3º Sargento, sendo realizado na ESSgt. Qualificação tecnicamente é expressão reservada ao curso de Técnico, destinado ao Soldado no início da carreira.",
+   "tags": [
+    "ensino",
+    "educacao-superior",
+    "cfs"
+   ]
+  },
+  {
+   "id": "ensino-elab-008",
+   "subtema": "Educação superior",
+   "artigo": "LC 1.036/08 — Tecnólogo de PO e POP II",
+   "enunciado": "O Curso Superior de Tecnólogo de Polícia Ostensiva e Preservação da Ordem Pública II destina-se a qualificar profissionalmente",
+   "alternativas": [
+    "o 3º Sargento PM ao exercício das funções de 2º Sargento PM na Unidade",
+    "o Cabo PM ao exercício das funções de 3º Sargento PM nas frações de tropa",
+    "o Subtenente PM ao exercício das funções previstas no Quadro Auxiliar",
+    "o 2º Sargento PM ao exercício das funções de 1º Sargento e Subtenente PM"
+   ],
+   "correta": 3,
+   "explicacao": "O Tecnólogo II habilita o 2º Sargento PM ao exercício das funções de 1º Sargento PM e de Subtenente PM, correspondendo ao CAS, realizado na ESSgt. A habilitação do Cabo às funções de 3º Sargento corresponde ao Tecnólogo I.",
+   "tags": [
+    "ensino",
+    "educacao-superior",
+    "cas"
+   ]
+  },
+  {
+   "id": "ensino-elab-009",
+   "subtema": "Educação superior",
+   "artigo": "LC 1.036/08 — Tecnólogo de Administração Policial-Militar",
+   "enunciado": "O Curso Superior de Tecnólogo de Administração Policial-Militar, realizado na APMBB, habilita profissionalmente as Praças para o ingresso no QAOPM, dotando-as de capacidade de análise das práticas específicas de",
+   "alternativas": [
+    "polícia ostensiva e preservação da ordem pública, em nível de assessoramento",
+    "gestão operacional e comando de frações, conferindo especialidade ao formando",
+    "administração de pessoal e logística, conferindo grau universitário ao formando",
+    "administração geral e financeira, conferindo especialidade superior ao formando"
+   ],
+   "correta": 3,
+   "explicacao": "O CSTAPM volta-se às práticas específicas de administração geral e financeira e sua conclusão confere a especialidade superior de Tecnólogo de Administração Policial-Militar. A pegadinha clássica troca especialidade por grau ou título, reservados ao Bacharelado.",
+   "tags": [
+    "ensino",
+    "educacao-superior",
+    "cstapm"
+   ]
+  },
+  {
+   "id": "ensino-elab-010",
+   "subtema": "Educação superior",
+   "artigo": "LC 1.036/08 — Graduação",
+   "enunciado": "A conclusão com aproveitamento do Bacharelado em Ciências Policiais de Segurança e Ordem Pública atribuirá ao ocupante do posto inicial de Oficial",
+   "alternativas": [
+    "a especialidade superior de Bacharel em Ciências Policiais de Segurança e Ordem Pública",
+    "o grau universitário de Bacharel em Ciências Policiais de Segurança e Ordem Pública",
+    "o título de Bacharel em Ciências Militares de Segurança e Ordem Pública",
+    "a titulação profissional de Tecnólogo em Ciências Policiais e Ordem Pública"
+   ],
+   "correta": 1,
+   "explicacao": "O curso de graduação forma o profissional ocupante do posto inicial de Oficial e confere o grau universitário de Bacharel em Ciências Policiais de Segurança e Ordem Pública. As trocas entre grau, especialidade e titulação são o principal foco de cobrança nesse tema.",
+   "tags": [
+    "ensino",
+    "educacao-superior",
+    "cfo"
+   ]
+  },
+  {
+   "id": "ensino-elab-011",
+   "subtema": "Educação superior",
+   "artigo": "LC 1.036/08 — Educação física",
+   "enunciado": "A qualificação do policial militar quanto ao preparo físico, à saúde e ao treinamento de técnicas policiais é desenvolvida",
+   "alternativas": [
+    "pela Academia de Polícia Militar do Barro Branco, em curso de extensão específico",
+    "pela Escola de Educação Física, em graduação e treinamento técnico-operacional",
+    "pelo Centro de Altos Estudos de Segurança, em programa de pós-graduação lato",
+    "pela Escola Superior de Soldados, no curso sequencial de formação específica"
+   ],
+   "correta": 1,
+   "explicacao": "A EEF é o Órgão de Apoio de Ensino Superior responsável pela graduação em Educação Física e pelos cursos de treinamento técnico-operacional, voltados ao preparo físico, à saúde e às técnicas policiais. Cada OAES tem competência própria, e a troca entre eles é recorrente nas provas.",
+   "tags": [
+    "ensino",
+    "educacao-superior",
+    "eef"
+   ]
+  },
+  {
+   "id": "ensino-elab-012",
+   "subtema": "Educação superior",
+   "artigo": "LC 1.036/08 — Pós-graduação lato sensu",
+   "enunciado": "Os cursos destinados a ampliar os conhecimentos técnico-profissionais que exijam práticas específicas, habilitando ou aperfeiçoando a formação do policial militar para o exercício de suas funções, classificam-se como",
+   "alternativas": [
+    "cursos de extensão, integrantes da modalidade de educação profissional",
+    "cursos de especialização, pós-graduação em sentido estrito, na educação superior",
+    "cursos de especialização, pós-graduação em sentido lato, na educação superior",
+    "cursos sequenciais de complementação de estudos, na educação superior"
+   ],
+   "correta": 2,
+   "explicacao": "Os cursos de especialização integram a educação superior como pós-graduação em sentido lato, conferindo as especialidades respectivas nos termos da DGE, com designações estabelecidas em regulamento. Em sentido estrito estão apenas o mestrado e o doutorado profissionais.",
+   "tags": [
+    "ensino",
+    "educacao-superior",
+    "especializacao"
+   ]
+  },
+  {
+   "id": "ensino-elab-013",
+   "subtema": "Educação superior",
+   "artigo": "LC 1.036/08 — Mestrado profissional",
+   "enunciado": "O Mestrado em Ciências Policiais de Segurança e Ordem Pública constitui programa de mestrado profissional, realizado pelo CAES, destinado a",
+   "alternativas": [
+    "pós-graduar o Oficial Superior para as funções de administração estratégica",
+    "pós-graduar o Oficial Intermediário para o assessoramento governamental",
+    "graduar o Oficial Subalterno, habilitando-o às funções de comando e chefia",
+    "graduar o Oficial Intermediário, capacitando-o à pesquisa científica de alto nível"
+   ],
+   "correta": 3,
+   "explicacao": "O mestrado profissional é direcionado à continuidade da formação científica, acadêmica e profissional e destina-se a graduar o Oficial Intermediário, capacitando-o à pesquisa científica, à análise, ao planejamento e ao desenvolvimento em alto nível. O verbo empregado pela norma é graduar, e não pós-graduar.",
+   "tags": [
+    "ensino",
+    "pos-graduacao",
+    "mestrado"
+   ]
+  },
+  {
+   "id": "ensino-elab-014",
+   "subtema": "Educação superior",
+   "artigo": "LC 1.036/08 — Doutorado profissional",
+   "enunciado": "O Doutorado em Ciências Policiais de Segurança e Ordem Pública destina-se a graduar o Oficial Superior para as funções de administração",
+   "alternativas": [
+    "policial-militar, direção, comando e chefia, e para o assessoramento ministerial",
+    "estratégica, direção, comando e chefia, e para o assessoramento governamental",
+    "operacional, comando e chefia, e para o assessoramento do Comando Geral",
+    "estratégica e de ensino superior, e para o assessoramento parlamentar da PM"
+   ],
+   "correta": 1,
+   "explicacao": "O doutorado destina-se a graduar o Oficial Superior para as funções de administração estratégica, direção, comando e chefia, bem como do assessoramento governamental em segurança pública, atribuindo a titulação de Doutor. As trocas de adjetivos e de destinatário do assessoramento são as armadilhas típicas.",
+   "tags": [
+    "ensino",
+    "pos-graduacao",
+    "doutorado"
+   ]
+  },
+  {
+   "id": "ensino-elab-015",
+   "subtema": "Educação profissional",
+   "artigo": "LC 1.036/08 — Educação profissional",
+   "enunciado": "Seminários, cursos, estágios e encontros técnicos e científicos que promovem o aperfeiçoamento profissional, o intercâmbio cultural, a integração social e comunitária e a qualidade de vida e saúde dos policiais militares integram",
+   "alternativas": [
+    "a educação superior, conferindo certificados de especialização aos participantes",
+    "a educação superior, na modalidade sequencial de complementação de estudos",
+    "a educação profissional, conferindo especialidades nos termos da DGE vigente",
+    "a educação profissional, conferindo certificados de extensão aos participantes"
+   ],
+   "correta": 3,
+   "explicacao": "Tais atividades integram a educação profissional e conferem certificados de extensão, observados os cursos superiores exigidos para sua frequência. Cursos de especialização, que conferem especialidades, pertencem à educação superior e não se confundem com os de extensão.",
+   "tags": [
+    "ensino",
+    "educacao-profissional",
+    "extensao"
+   ]
+  },
+  {
+   "id": "ensino-elab-016",
+   "subtema": "Educação profissional",
+   "artigo": "Dec. 54.911/09 — Calendários de ensino",
+   "enunciado": "Os cursos e estágios do Sistema de Ensino deverão estar previstos no Calendário de Cursos e Estágios, ao passo que os seminários e encontros técnicos e científicos deverão constar do Calendário de Encontros Técnico-Científicos, organizado e aprovado",
+   "alternativas": [
+    "pelo Comando Geral, que aprova os dois calendários do Sistema de Ensino",
+    "pelo Diretor de Ensino, a quem cabe a organização do respectivo calendário",
+    "pela Inspetoria Geral, no exercício da fiscalização das atividades de ensino",
+    "pelos Comandantes dos OAES, quanto às atividades de sua competência"
+   ],
+   "correta": 1,
+   "explicacao": "O CETC é organizado e aprovado pelo Diretor de Ensino, enquanto o CCE é aprovado pelo Comando Geral. A troca entre as duas autoridades e os dois calendários é a pegadinha mais explorada nesse ponto.",
+   "tags": [
+    "ensino",
+    "educacao-profissional",
+    "cce"
+   ]
+  },
+  {
+   "id": "ensino-elab-017",
+   "subtema": "Educação profissional",
+   "artigo": "Dec. 54.911/09 — Execução das atividades",
+   "enunciado": "Os seminários, cursos, estágios e encontros técnicos e científicos da educação profissional poderão ser desenvolvidos",
+   "alternativas": [
+    "somente pelos Órgãos de Apoio de Ensino Superior, que detêm competência exclusiva",
+    "pelos OAES ou por outro órgão da PM, conforme a área e a necessidade de treinamento",
+    "por qualquer OPM, independentemente de previsão em calendário de ensino",
+    "por instituições conveniadas, mediante delegação do Comandante do OAES"
+   ],
+   "correta": 1,
+   "explicacao": "A norma admite que tais atividades sejam desenvolvidas pelos OAES ou por outro órgão da Polícia Militar, conforme a área de atuação e a necessidade de treinamento profissional, mas sempre com previsão nos calendários próprios. A exclusividade dos OAES é falsa.",
+   "tags": [
+    "ensino",
+    "educacao-profissional",
+    "oaes"
+   ]
+  },
+  {
+   "id": "ensino-elab-018",
+   "subtema": "Educação superior",
+   "artigo": "Dec. 54.911/09 — Art. 47",
+   "enunciado": "Soldado PM matriculado no Curso Superior de Tecnólogo de Polícia Ostensiva e Preservação da Ordem Pública I invoca sua condição de aluno para exigir obediência de um Cabo PM. À luz do Decreto, a condição de aluno",
+   "alternativas": [
+    "altera a condição hierárquica apenas durante o período de realização do curso",
+    "não produz qualquer efeito de identificação, salvo o uso de insígnias próprias",
+    "não altera a condição hierárquica, gerando precedência só para continência",
+    "equipara o aluno ao 3º Sargento PM para todos os efeitos disciplinares"
+   ],
+   "correta": 2,
+   "explicacao": "O art. 47 do Decreto assegura, sem alteração da condição hierárquica, a anotação da condição de aluno na cédula de identidade funcional, o uso de uniforme e insígnias próprias e a precedência sobre os demais Soldados e Cabos PM apenas para efeito de continência e sinais de respeito. A precedência é protocolar, não hierárquica.",
+   "tags": [
+    "ensino",
+    "aluno",
+    "precedencia"
+   ]
+  },
+  {
+   "id": "ensino-elab-019",
+   "subtema": "Educação superior",
+   "artigo": "Dec. 54.911/09 — Art. 54",
+   "enunciado": "Comparadas as prerrogativas dos alunos do Tecnólogo de Polícia Ostensiva I e dos alunos do Tecnólogo de Administração Policial-Militar, verifica-se que apenas aos primeiros é assegurada",
+   "alternativas": [
+    "a precedência sobre os demais, para continência e sinais de respeito",
+    "a anotação da condição de aluno na cédula de identidade funcional da PM",
+    "o uso de uniforme e insígnias próprias, na forma do regulamento vigente",
+    "a manutenção integral da remuneração percebida na unidade de origem"
+   ],
+   "correta": 0,
+   "explicacao": "O art. 54 do Decreto assegura aos alunos do CSTAPM apenas a anotação da condição de aluno e o uso de uniforme e insígnias próprias, sem a precedência para continência prevista no art. 47 para os alunos do Tecnólogo I. A remuneração preservada é direito comum a todo o corpo discente.",
+   "tags": [
+    "ensino",
+    "aluno",
+    "cstapm"
+   ]
+  },
+  {
+   "id": "ensino-elab-020",
+   "subtema": "Equivalência de estudos",
+   "artigo": "LC 1.036/08 — Quadro de Oficiais de Saúde",
+   "enunciado": "Os integrantes do Quadro de Oficiais de Saúde serão adaptados às áreas de atuação e poderão, para efeito de equivalência visando à promoção, ter reconhecidos",
+   "alternativas": [
+    "os graus e títulos acadêmicos obtidos em estabelecimentos estranhos à Polícia Militar",
+    "os cursos de especialização realizados nos Órgãos de Apoio de Ensino Superior",
+    "os certificados de extensão expedidos por instituições públicas conveniadas",
+    "os períodos de exercício profissional anteriores ao ingresso na Instituição"
+   ],
+   "correta": 0,
+   "explicacao": "A Lei de Ensino permite o reconhecimento dos graus e títulos acadêmicos obtidos em estabelecimentos de ensino estranhos à estrutura da Polícia Militar, para efeito de equivalência e promoção. O reconhecimento alcança titulação acadêmica externa, não tempo de serviço nem certificados internos.",
+   "tags": [
+    "ensino",
+    "equivalencia",
+    "qos"
+   ]
+  },
+  {
+   "id": "ensino-elab-021",
+   "subtema": "Equivalência de estudos",
+   "artigo": "Dec. 54.911/09 — Art. 73",
+   "enunciado": "Capitão do Quadro de Oficiais de Saúde pretende obter dispensa da realização do Mestrado em Ciências Policiais de Segurança e Ordem Pública mediante o reconhecimento de seus títulos na área de Saúde. Para tanto, deverá",
+   "alternativas": [
+    "requerer ao Comando Geral, comprovando dois anos no posto de Capitão",
+    "requerer ao Diretor de Ensino, contando no mínimo três anos no posto",
+    "requerer ao Comandante do CAES, após a conclusão do curso de adaptação",
+    "aguardar a promoção a Major, quando a dispensa se dará de forma automática"
+   ],
+   "correta": 1,
+   "explicacao": "O art. 73 do Decreto exige que o Oficial Intermediário do QOS conte com no mínimo três anos no posto de Capitão e requeira ao DEC o reconhecimento dos graus e títulos obtidos na área de Saúde, para fim de equivalência e dispensa do mestrado. Não há dispensa automática por promoção.",
+   "tags": [
+    "ensino",
+    "equivalencia",
+    "mestrado"
+   ]
+  },
+  {
+   "id": "ensino-elab-022",
+   "subtema": "Equivalência de estudos",
+   "artigo": "Dec. 54.911/09 — Art. 79",
+   "enunciado": "Quanto à dispensa do Doutorado em Ciências Policiais de Segurança e Ordem Pública para o Oficial Superior do Quadro de Oficiais de Saúde, o Decreto exige, se Major,",
+   "alternativas": [
+    "tempo mínimo de seis meses no posto e título de Mestre ou equivalente",
+    "tempo mínimo de três anos no posto e título de Mestre ou equivalente",
+    "tempo mínimo de seis meses no posto, dispensada qualquer titulação anterior",
+    "tempo mínimo de um ano no posto e conclusão de curso de adaptação ao Quadro"
+   ],
+   "correta": 0,
+   "explicacao": "O art. 79 exige do Major do QOS o tempo mínimo de seis meses no posto e o título de Mestre em Ciências Policiais de Segurança e Ordem Pública ou equivalente para requerer ao DEC o reconhecimento dos títulos na área de Saúde e a dispensa do doutorado. Os três anos referem-se ao Capitão, no art. 73.",
+   "tags": [
+    "ensino",
+    "equivalencia",
+    "doutorado"
+   ]
+  },
+  {
+   "id": "ensino-elab-023",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Art. 8º, X",
+   "enunciado": "A competência para conceder ou suprir titulações e graus universitários no Sistema de Ensino da Polícia Militar é",
+   "alternativas": [
+    "do Comando Geral, que aprova a Diretriz Geral de Ensino da Instituição",
+    "dos Comandantes dos OAES, que expedem diplomas e certificados dos cursos",
+    "do Diretor de Ensino, por ato próprio ou mediante delegação de atribuições",
+    "do Subcomandante da Polícia Militar, como última instância administrativa"
+   ],
+   "correta": 2,
+   "explicacao": "Compete ao Diretor de Ensino, por ato próprio ou delegado, conceder ou suprir titulações e graus universitários. Os Comandantes de OAES expedem diplomas e certificados, atividade distinta da concessão do grau, cujo registro cabe à DEC.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "diretor"
+   ]
+  },
+  {
+   "id": "ensino-elab-024",
+   "subtema": "Sistema de Ensino",
+   "artigo": "Dec. 54.911/09 — Composição do Sistema",
+   "enunciado": "Conforme o Decreto que regulamenta a Lei de Ensino, o Sistema de Ensino da Polícia Militar, cuja finalidade é qualificar recursos humanos para a ocupação de cargos policiais-militares, é composto",
+   "alternativas": [
+    "pela Diretoria de Ensino e pelos Órgãos de Apoio de Ensino Superior apenas",
+    "pelo Comando Geral, pela Diretoria de Ensino e pelas unidades gestoras do conhecimento",
+    "pela Diretoria de Ensino e pelas secretarias de ensino das unidades gestoras",
+    "pelo Comando Geral, pela Diretoria de Ensino e pelos Órgãos de Apoio de Ensino Superior"
+   ],
+   "correta": 3,
+   "explicacao": "A composição prevista no Decreto reúne o Comando Geral, a Diretoria de Ensino e os Órgãos de Apoio de Ensino Superior. As alternativas que arrolam nominalmente as escolas ou incluem secretarias de ensino desviam da estrutura tripartite fixada na norma.",
+   "tags": [
+    "ensino",
+    "sistema",
+    "composicao"
+   ]
+  },
+  {
+   "id": "ensino-elab-025",
+   "subtema": "Sistema de Ensino",
+   "artigo": "Dec. 54.911/09 — Órgãos de Apoio de Ensino Superior",
+   "enunciado": "São Órgãos de Apoio de Ensino Superior responsáveis pela formação, graduação, pós-graduação, aperfeiçoamento, habilitação e treinamento dos integrantes da Polícia Militar, exceto",
+   "alternativas": [
+    "o Centro de Altos Estudos de Segurança e a Academia de Polícia Militar do Barro Branco",
+    "a Escola Superior de Sargentos e a Escola Superior de Soldados da Instituição",
+    "o Corpo Musical da Polícia Militar, ainda que subordinado à Diretoria de Ensino",
+    "a Escola de Educação Física e a Escola Superior de Bombeiros da Instituição"
+   ],
+   "correta": 2,
+   "explicacao": "Os OAES são o CAES, a APMBB, a ESSgt, a ESSd, a EEF e a ESB. O Corpo Musical não integra esse rol, ainda que mantenha vínculo com a estrutura de ensino, e a ESB, embora seja OAES, é subordinada ao CCB, órgão de execução.",
+   "tags": [
+    "ensino",
+    "sistema",
+    "oaes"
+   ]
+  },
+  {
+   "id": "ensino-elab-026",
+   "subtema": "Fundamentos e valores",
+   "artigo": "LC 1.036/08 — Fundamentos do Sistema de Ensino",
+   "enunciado": "Analise os enunciados a seguir: I. integração à educação nacional; II. seleção por mérito; III. profissionalização continuada e progressiva; IV. avaliação integral, contínua e cumulativa; V. pluralismo pedagógico; VI. edificação constante dos padrões morais, deontológicos, culturais e de eficiência. Fundamentam o Sistema de Ensino da Polícia Militar",
+   "alternativas": [
+    "todos os enunciados apresentados, que constituem os seus fundamentos",
+    "apenas os enunciados I, II, III e V, sendo os demais valores do Sistema",
+    "apenas os enunciados I, III, V e VI, sendo os demais valores do Sistema",
+    "apenas os enunciados I, II, III, IV e VI, sendo o remanescente um valor"
+   ],
+   "correta": 0,
+   "explicacao": "Os seis enunciados integram o rol de fundamentos do Sistema de Ensino: profissionalização continuada e progressiva, avaliação integral, contínua e cumulativa, pluralismo pedagógico, edificação constante dos padrões morais, deontológicos, culturais e de eficiência, integração à educação nacional e seleção por mérito. A banca costuma retirar um item verdadeiro para induzir ao erro.",
+   "tags": [
+    "ensino",
+    "fundamentos",
+    "principios"
+   ]
+  },
+  {
+   "id": "ensino-elab-027",
+   "subtema": "Fundamentos e valores",
+   "artigo": "LC 1.036/08 — Valores do Sistema de Ensino",
+   "enunciado": "As expressões integração à educação nacional e democratização do ensino correspondem, respectivamente, a",
+   "alternativas": [
+    "dois fundamentos do Sistema de Ensino da Polícia Militar",
+    "valor e fundamento do Sistema de Ensino da Polícia Militar",
+    "fundamento e valor do Sistema de Ensino da Polícia Militar",
+    "dois valores do Sistema de Ensino da Polícia Militar"
+   ],
+   "correta": 2,
+   "explicacao": "A integração à educação nacional é fundamento do Sistema, ao passo que a democratização do ensino figura entre os valores. A proximidade temática entre as duas expressões é o que torna a questão difícil.",
+   "tags": [
+    "ensino",
+    "fundamentos",
+    "valores"
+   ]
+  },
+  {
+   "id": "ensino-elab-028",
+   "subtema": "Fundamentos e valores",
+   "artigo": "LC 1.036/08 — Fundamentos e valores",
+   "enunciado": "As expressões pensamento reflexivo, articulado e crítico e pluralismo pedagógico correspondem, respectivamente, a",
+   "alternativas": [
+    "valor e fundamento do Sistema de Ensino da Polícia Militar",
+    "fundamento e valor do Sistema de Ensino da Polícia Militar",
+    "dois valores do Sistema de Ensino da Polícia Militar",
+    "expressões sinônimas empregadas pela Lei de Ensino em vigor"
+   ],
+   "correta": 0,
+   "explicacao": "O pensamento reflexivo, articulado e crítico é valor do Sistema, enquanto o pluralismo pedagógico é fundamento. A distinção entre as duas listas é a cobrança recorrente sobre o tema.",
+   "tags": [
+    "ensino",
+    "fundamentos",
+    "valores"
+   ]
+  },
+  {
+   "id": "ensino-elab-029",
+   "subtema": "Fundamentos e valores",
+   "artigo": "LC 1.036/08 — Valores do Sistema de Ensino",
+   "enunciado": "Assinale a expressão que não integra o rol de valores do Sistema de Ensino da Polícia Militar.",
+   "alternativas": [
+    "Convicções democráticas, crença na justiça, na ordem e no cumprimento da lei",
+    "Pesquisa científica, tecnológica e humanística aplicada à segurança pública",
+    "Avaliação integral, contínua e cumulativa do desempenho do corpo discente",
+    "Vida, integridade física, liberdade e dignidade da pessoa humana"
+   ],
+   "correta": 2,
+   "explicacao": "A avaliação integral, contínua e cumulativa é fundamento, e não valor, do Sistema de Ensino. Integram os valores, entre outros, a vida e a dignidade humana, a integração permanente com a comunidade, a democratização do ensino, a pesquisa científica e as convicções democráticas.",
+   "tags": [
+    "ensino",
+    "valores"
+   ]
+  },
+  {
+   "id": "ensino-elab-030",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Art. 5º",
+   "enunciado": "Compete ao Comando Geral, no Sistema de Ensino da Polícia Militar, definir e conduzir a política de ensino, as estratégias e diretrizes de ensino e pesquisa e ainda",
+   "alternativas": [
+    "expedir os diplomas e os certificados de todos os cursos realizados nos OAES da Instituição",
+    "elaborar os programas e os planos de ensino dos cursos a serem realizados nos OAES",
+    "designar e dispensar os professores dos cursos e programas de ensino da Instituição",
+    "normatizar a matrícula, o credenciamento de docentes civis e os recursos extraorçamentários"
+   ],
+   "correta": 3,
+   "explicacao": "Ao Comando Geral cabe definir e conduzir a política, as estratégias, as diretrizes e a estrutura do Sistema, além de normatizar a matrícula, o credenciamento dos professores civis e as fontes de recursos extraorçamentários, sendo tais normas propostas pela DEC. Expedição de diplomas e designação de professores competem a outras autoridades.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "comando-geral"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "ensino-elab-031",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Diretriz Geral de Ensino",
+   "enunciado": "A Diretriz Geral de Ensino definirá a política de ensino, as estratégias de ensino e pesquisa, a estrutura do Sistema de Ensino, as condições de matrícula, aproveitamento e desligamento, os padrões de qualidade e os regimes escolares militares, bem como",
+   "alternativas": [
+    "as normas da educação superior e da educação profissional da Instituição",
+    "as normas da educação superior e da educação policial-militar da Instituição",
+    "a programação anual dos cursos e estágios a serem realizados no exercício",
+    "as condições de cassação do licenciamento escolar dos estabelecimentos"
+   ],
+   "correta": 0,
+   "explicacao": "A DGE abrange as normas da educação superior e da educação profissional, únicas vertentes previstas na Lei de Ensino. A expressão educação policial-militar é enxertada pelas bancas justamente para explorar a ausência dessa categoria, e a programação anual é objeto do CCE.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "dge"
+   ]
+  },
+  {
+   "id": "ensino-elab-032",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Elaboração e aprovação da DGE",
+   "enunciado": "Na elaboração da Diretriz Geral de Ensino e do Calendário de Cursos e Estágios, observa-se que",
+   "alternativas": [
+    "o Comando Geral elabora a DGE e os OAES aprovam a parte do calendário que lhes afeta",
+    "a Diretoria de Ensino elabora integralmente a DGE e o Diretor de Ensino aprova o calendário",
+    "os OAES elaboram a parte da DGE que lhes afeta e o Comando Geral aprova os dois documentos",
+    "os OAES elaboram os dois documentos, cabendo a aprovação ao Diretor de Ensino"
+   ],
+   "correta": 2,
+   "explicacao": "Os OAES elaboram a parte da DGE que lhes afeta, a DEC assessora e o Comando Geral aprova tanto a DGE quanto o CCE. O CETC, por sua vez, é organizado e aprovado pelo Diretor de Ensino, o que explica a confusão frequente.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "dge"
+   ]
+  },
+  {
+   "id": "ensino-elab-033",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Atos da vida escolar",
+   "enunciado": "A efetivação da matrícula, da aprovação, da reprovação, do desligamento e dos demais atos da vida escolar dos alunos dos cursos desenvolvidos sob responsabilidade do Órgão de Apoio de Ensino Superior compete",
+   "alternativas": [
+    "ao Comandante do respectivo Órgão de Apoio de Ensino Superior",
+    "ao Diretor de Ensino, que normatiza os atos da vida escolar do Sistema",
+    "ao Comando Geral, que normatiza a matrícula nos cursos e estágios",
+    "à Diretoria de Ensino, que registra os atos escolares dos alunos"
+   ],
+   "correta": 0,
+   "explicacao": "Ao Comandante do OAES compete efetivar a matrícula, a aprovação, a reprovação, o desligamento e os demais atos da vida escolar dos alunos dos cursos sob sua responsabilidade. Ao Comando Geral cabe apenas normatizar a matrícula, sem praticá-la.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "cmt-oaes"
+   ]
+  },
+  {
+   "id": "ensino-elab-034",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Designação de professores",
+   "enunciado": "Quanto à designação e à dispensa de professores no Sistema de Ensino da Polícia Militar,",
+   "alternativas": [
+    "o Comando Geral designa e dispensa todos os professores civis credenciados",
+    "o Diretor de Ensino designa e dispensa os professores dos cursos e programas",
+    "compete exclusivamente aos Comandantes de OAES designar e dispensar docentes",
+    "a designação depende de prévio concurso público de provas e títulos específico"
+   ],
+   "correta": 1,
+   "explicacao": "O Diretor de Ensino designa e dispensa os professores dos cursos e programas, cabendo aos Comandantes de OAES fazê-lo em relação aos cursos e programas de sua responsabilidade. Ao Comando Geral cabe apenas normatizar o credenciamento de docentes civis.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "docentes"
+   ]
+  },
+  {
+   "id": "ensino-elab-035",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Diplomas e certificados",
+   "enunciado": "No Sistema de Ensino da Polícia Militar, a expedição e o registro dos diplomas e certificados dos cursos cabem, respectivamente,",
+   "alternativas": [
+    "à Diretoria de Ensino e ao Comandante do respectivo OAES da Instituição",
+    "ao Comandante do OAES e à Diretoria de Ensino da Polícia Militar",
+    "ao Diretor de Ensino e ao Comando Geral da Polícia Militar do Estado",
+    "ao Comandante do OAES e à secretaria de ensino da unidade gestora"
+   ],
+   "correta": 1,
+   "explicacao": "O Comandante do OAES expede os diplomas e certificados e a DEC os registra. A inversão dessas duas competências é uma das pegadinhas clássicas de concurso sobre a matéria.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "diplomas"
+   ]
+  },
+  {
+   "id": "ensino-elab-036",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Atividades desportivas",
+   "enunciado": "Quanto às atividades desportivas da Polícia Militar, o Decreto atribui",
+   "alternativas": [
+    "ao Comando Geral a definição das diretrizes do desporto e o controle de sua execução",
+    "ao Comandante da Escola de Educação Física o planejamento e o controle do desporto",
+    "ao Diretor de Ensino a direção, a orientação e a coordenação técnica dessas atividades",
+    "aos Comandantes de OAES o planejamento das atividades desportivas institucionais"
+   ],
+   "correta": 2,
+   "explicacao": "O Diretor de Ensino dirige, orienta e coordena tecnicamente as atividades de ensino e desportivas, enquanto a DEC planeja, fiscaliza, coordena e controla as atividades de desporto. A EEF executa, mas não centraliza o planejamento.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "desporto"
+   ]
+  },
+  {
+   "id": "ensino-elab-037",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Planejamento e execução",
+   "enunciado": "Na divisão de tarefas entre a Diretoria de Ensino e os Órgãos de Apoio de Ensino Superior,",
+   "alternativas": [
+    "a DEC executa e os OAES fiscalizam as atividades de formação e treinamento",
+    "ambos executam as atividades, cabendo o controle ao Comando Geral da Instituição",
+    "a DEC planeja, fiscaliza, coordena e controla, e os OAES executam as atividades",
+    "a DEC planeja e executa, cabendo aos OAES apenas propor melhorias no ensino"
+   ],
+   "correta": 2,
+   "explicacao": "A DEC planeja, fiscaliza, coordena e controla as atividades de formação, graduação, pós-graduação, habilitação e treinamento, ao passo que os OAES as executam segundo suas competências. Aos OAES cabe ainda propor melhorias no ensino da Instituição.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "dec"
+   ]
+  },
+  {
+   "id": "ensino-elab-038",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Art. 8º, XI",
+   "enunciado": "Sobre as atribuições do Diretor de Ensino, é correto afirmar que",
+   "alternativas": [
+    "exerce atribuições indelegáveis, por decorrerem de competência regulamentar",
+    "pode delegar atribuições de sua competência, na forma prevista no Decreto",
+    "somente pode delegar atribuições mediante autorização do Comando Geral",
+    "delega suas atribuições exclusivamente aos Comandantes de OAES da Instituição"
+   ],
+   "correta": 1,
+   "explicacao": "O Decreto autoriza expressamente o Diretor de Ensino a delegar atribuições de sua competência, o que se soma à possibilidade de conceder ou suprir titulações e graus por ato próprio ou delegado. Não há exigência de autorização prévia do Comando Geral.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "delegacao"
+   ]
+  },
+  {
+   "id": "ensino-elab-039",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Assessoramento",
+   "enunciado": "No Sistema de Ensino da Polícia Militar, o assessoramento se organiza de modo que",
+   "alternativas": [
+    "o Comando Geral assessora o Governo do Estado nas políticas de ensino policial",
+    "os OAES assessoram diretamente o Comando Geral nas questões de ensino superior",
+    "a DEC assessora os OAES na execução dos cursos sob responsabilidade de cada um",
+    "a DEC e o Diretor de Ensino assessoram o Comando Geral, e os OAES assessoram a DEC"
+   ],
+   "correta": 3,
+   "explicacao": "A DEC e o Diretor de Ensino assessoram o Comando Geral, enquanto os OAES e seus Comandantes assessoram a DEC e o Diretor de Ensino. A cadeia de assessoramento acompanha a estrutura tripartite do Sistema.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "assessoramento"
+   ]
+  },
+  {
+   "id": "ensino-elab-040",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Produção de conhecimento",
+   "enunciado": "A aglutinação e a ordenação das fontes doutrinário-institucionais de interesse da segurança pública, a coordenação da produção de recursos bibliográficos e o registro de obras literárias e audiovisuais oriundas de pesquisas científicas competem",
+   "alternativas": [
+    "aos Órgãos de Apoio de Ensino Superior, no âmbito de suas competências",
+    "ao Centro de Altos Estudos de Segurança, que desenvolve a pesquisa científica",
+    "à Diretoria de Ensino, responsável pela produção do conhecimento institucional",
+    "ao Comando Geral, que define as diretrizes de ensino e pesquisa da Instituição"
+   ],
+   "correta": 2,
+   "explicacao": "Todas essas atribuições, ligadas à produção de conhecimento, concentram-se na DEC, que também produz conhecimentos técnico-científicos e promove pesquisas voltadas ao aprimoramento do ensino. O CAES executa programas de pós-graduação, mas não centraliza a produção doutrinária.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "conhecimento"
+   ]
+  },
+  {
+   "id": "ensino-elab-041",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Proposição de cursos",
+   "enunciado": "A proposição da realização de programas, cursos, concursos e estágios de interesse da Polícia Militar, bem como das normas necessárias à sua realização, compete",
+   "alternativas": [
+    "ao Comandante do OAES, que elabora os programas e planos de ensino dos cursos",
+    "ao Diretor de Ensino, que também apresenta relatórios das atividades de ensino",
+    "ao Comando Geral, que aprova o calendário anual de cursos e estágios da PM",
+    "à secretaria de ensino da unidade gestora do conhecimento correspondente"
+   ],
+   "correta": 1,
+   "explicacao": "Cabe ao Diretor de Ensino propor a realização de programas, cursos, concursos e estágios e as normas necessárias a eles, além de apresentar relatórios e sumários das atividades de ensino. A elaboração dos programas e planos de ensino de cada curso é do Comandante do OAES responsável.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "diretor"
+   ]
+  },
+  {
+   "id": "ensino-elab-042",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Art. 12",
+   "enunciado": "Entre as atribuições comuns aos Comandantes de Órgãos de Apoio de Ensino Superior, inclui-se",
+   "alternativas": [
+    "propor a celebração de convênios, em conformidade com a legislação vigente",
+    "celebrar convênios com universidades e fundações públicas ou privadas",
+    "aprovar a parte da Diretriz Geral de Ensino que afete o respectivo OAES",
+    "registrar os diplomas expedidos aos alunos dos cursos sob sua responsabilidade"
+   ],
+   "correta": 0,
+   "explicacao": "O art. 12 do Decreto atribui aos Comandantes de OAES propor a celebração de convênios, ao passo que a celebração é da Polícia Militar, nos termos do art. 19. Quem propõe não celebra, e essa separação é o ponto central da cobrança.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "convenios"
+   ]
+  },
+  {
+   "id": "ensino-elab-043",
+   "subtema": "Convênios",
+   "artigo": "Dec. 54.911/09 — Arts. 19 e 20",
+   "enunciado": "A Polícia Militar poderá celebrar convênios ou contratos com universidades, fundações ou outras instituições, públicas ou privadas, para fins de ensino, pesquisa e desenvolvimento das atividades de formação e treinamento, exigindo-se que tais ajustes",
+   "alternativas": [
+    "sejam precedidos de competente motivação e observem a Lei de Licitações",
+    "sejam previamente aprovados pelo Conselho Estadual de Educação do Estado",
+    "estejam limitados a instituições públicas, vedada a contratação de privadas",
+    "sejam submetidos à ratificação do Diretor de Ensino após a sua assinatura"
+   ],
+   "correta": 0,
+   "explicacao": "As contratações e convênios deverão ser precedidos de competente motivação e processados com observância da Lei de Licitações. A norma admite expressamente instituições públicas ou privadas, o que afasta a alternativa restritiva.",
+   "tags": [
+    "ensino",
+    "convenios",
+    "licitacao"
+   ]
+  },
+  {
+   "id": "ensino-elab-044",
+   "subtema": "Órgãos de ensino",
+   "artigo": "Dec. 54.911/09 — Escola Superior de Bombeiros",
+   "enunciado": "Sobre a Escola Superior de Bombeiros, é correto afirmar que",
+   "alternativas": [
+    "está subordinada diretamente à Diretoria de Ensino, como os demais OAES",
+    "é órgão de execução, razão pela qual não integra o rol dos OAES da Instituição",
+    "é o único OAES sediado na Capital, por concentrar a formação de bombeiros",
+    "é órgão de apoio ao ensino, porém subordinada ao Comando do Corpo de Bombeiros"
+   ],
+   "correta": 3,
+   "explicacao": "A ESB é Órgão de Apoio de Ensino Superior, mas subordina-se ao CCB, que é órgão de execução, e é o único OAES sediado fora da Capital, em Franco da Rocha. Ela pode ainda formar, aperfeiçoar e habilitar bombeiros civis e brigadistas de organizações públicas e privadas.",
+   "tags": [
+    "ensino",
+    "oaes",
+    "esb"
+   ]
+  },
+  {
+   "id": "ensino-elab-045",
+   "subtema": "Órgãos de ensino",
+   "artigo": "Dec. 54.911/09 — Comando dos OAES",
+   "enunciado": "O comando dos Órgãos de Apoio de Ensino Superior da Polícia Militar será exercido",
+   "alternativas": [
+    "por Coronel PM ou Tenente-Coronel PM, conforme a estrutura do Sistema",
+    "por Coronel PM, exclusivamente, dada a natureza superior das atividades",
+    "por Oficial Superior possuidor do título de Doutor em Ciências Policiais",
+    "por Oficial designado pelo Diretor de Ensino entre os docentes da escola"
+   ],
+   "correta": 0,
+   "explicacao": "O comando dos OAES é exercido por Coronel ou Tenente-Coronel. A norma não condiciona a designação à titulação acadêmica do Oficial nem restringe o encargo ao posto de Coronel.",
+   "tags": [
+    "ensino",
+    "oaes",
+    "comando"
+   ]
+  },
+  {
+   "id": "ensino-elab-046",
+   "subtema": "Órgãos de ensino",
+   "artigo": "Dec. 54.911/09 — Cursos fora dos OAES",
+   "enunciado": "Determinado Batalhão, que não é Órgão de Apoio de Ensino Superior, pretende realizar curso cuja competência pertence a um OAES. Segundo o Decreto,",
+   "alternativas": [
+    "a realização é vedada, pois a competência dos OAES é indelegável",
+    "a realização é possível, cabendo ao OAES centralizar e supervisionar as atividades",
+    "a realização depende de convênio prévio celebrado entre as duas unidades",
+    "a realização depende de autorização individual do Diretor de Ensino para cada turma"
+   ],
+   "correta": 1,
+   "explicacao": "OPM que não sejam OAES podem realizar cursos, cabendo aos OAES centralizar e supervisionar as atividades quando os cursos de sua competência estiverem sendo realizados fora deles. Por diretrizes do Comando Geral, seminários, cursos, estágios e encontros também podem funcionar fora dos OAES.",
+   "tags": [
+    "ensino",
+    "oaes",
+    "descentralizacao"
+   ]
+  },
+  {
+   "id": "ensino-elab-047",
+   "subtema": "Recursos financeiros",
+   "artigo": "Dec. 54.911/09 — Recursos do Sistema de Ensino",
+   "enunciado": "Os recursos financeiros destinados às atividades do Sistema de Ensino da Polícia Militar são orçamentários e extraorçamentários, sendo estes últimos obtidos mediante",
+   "alternativas": [
+    "contribuições, subvenções, doações ou indenizações revertidas ao FEPOM",
+    "dotações suplementares abertas por decreto do Governador do Estado",
+    "transferências voluntárias da União destinadas à segurança pública estadual",
+    "arrecadação das multas disciplinares aplicadas no âmbito dos cursos e estágios"
+   ],
+   "correta": 0,
+   "explicacao": "Os recursos extraorçamentários provêm de contribuições, subvenções, doações ou indenizações e revertem para o Fundo Especial de Despesa da Polícia Militar. A normatização das fontes extraorçamentárias compete ao Comando Geral.",
+   "tags": [
+    "ensino",
+    "recursos",
+    "fepom"
+   ]
+  },
+  {
+   "id": "ensino-elab-048",
+   "subtema": "Recursos financeiros",
+   "artigo": "Dec. 54.911/09 — Ressarcimento de cursos",
+   "enunciado": "Policial militar desliga-se a pedido de curso do Sistema de Ensino. Quanto aos valores despendidos pela Instituição, o Decreto determina que",
+   "alternativas": [
+    "não haverá ressarcimento, por se tratar de investimento institucional na carreira",
+    "haverá ressarcimento integral, como também na reprovação e na exoneração",
+    "haverá ressarcimento proporcional ao período de curso efetivamente frequentado",
+    "haverá ressarcimento apenas se o desligamento decorrer de falta disciplinar grave"
+   ],
+   "correta": 1,
+   "explicacao": "Os militares da PMESP ressarcirão integralmente os valores dos cursos em caso de desligamento a pedido, reprovação, exoneração ou licença para tratar de interesses particulares. Os discentes não pertencentes à Instituição, por sua vez, arcam integralmente com as contribuições de sua participação.",
+   "tags": [
+    "ensino",
+    "recursos",
+    "ressarcimento"
+   ]
+  },
+  {
+   "id": "ensino-elab-049",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Art. 12",
+   "enunciado": "A atribuição do Comandante de OAES de primar pelo intercâmbio de conhecimentos técnico-científicos entre seu órgão e os demais órgãos da Instituição e entidades ligadas ao serviço policial expressa, no plano axiológico,",
+   "alternativas": [
+    "o fundamento da profissionalização continuada e progressiva do policial",
+    "o valor da assimilação e prática dos direitos e dos deveres éticos",
+    "o fundamento do pluralismo pedagógico aplicado às atividades de ensino",
+    "o valor da democratização do ensino no âmbito do Sistema de Ensino"
+   ],
+   "correta": 3,
+   "explicacao": "O intercâmbio de conhecimentos técnico-científicos traduz o valor da democratização do ensino. Já a busca de qualidade na prestação de serviços à comunidade interna e externa expressa a integração permanente com a comunidade, e o culto aos valores e deveres éticos remete tanto ao valor correspondente quanto ao fundamento da edificação moral e deontológica.",
+   "tags": [
+    "ensino",
+    "valores",
+    "cmt-oaes"
+   ]
+  },
+  {
+   "id": "ensino-elab-050",
+   "subtema": "Competências",
+   "artigo": "Dec. 54.911/09 — Art. 10",
+   "enunciado": "Segundo o Decreto, os Órgãos de Apoio de Ensino Superior executam as atividades de formação, graduação, pós-graduação, aperfeiçoamento, habilitação e treinamento profissional de policiais militares, cabendo-lhes ainda",
+   "alternativas": [
+    "propor melhorias no ensino da Polícia Militar, no âmbito de sua competência",
+    "promover e coordenar as pesquisas relativas ao aprimoramento do ensino",
+    "normatizar as condições de matrícula nos cursos de sua responsabilidade",
+    "conceder ou suprir as titulações e os graus universitários aos formandos"
+   ],
+   "correta": 0,
+   "explicacao": "Aos OAES cabe propor melhorias no ensino, enquanto a promoção e coordenação de pesquisas para o aprimoramento do ensino é atribuição da DEC. A normatização da matrícula é do Comando Geral e a concessão de graus é do Diretor de Ensino.",
+   "tags": [
+    "ensino",
+    "competencias",
+    "oaes"
+   ]
+  },
+  {
+   "id": "ensino-elab-051",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Corpo docente civil",
+   "enunciado": "O corpo docente civil do Sistema de Ensino da Polícia Militar compreende as categorias de professor",
+   "alternativas": [
+    "convidado, assistente e conteudista, conforme a atividade desenvolvida",
+    "convidado, associado e credenciado, conforme o vínculo de cada docente",
+    "associado, tutor e credenciado, conforme a modalidade do curso ofertado",
+    "titular, adjunto e convidado, conforme a titulação acadêmica comprovada"
+   ],
+   "correta": 1,
+   "explicacao": "O corpo docente civil divide-se em professor convidado, associado e credenciado. Assistente, tutor e conteudista são funções relacionadas ao modo de desenvolvimento das aulas, presenciais ou a distância, e não categorias de vínculo.",
+   "tags": [
+    "ensino",
+    "docente",
+    "categorias"
+   ]
+  },
+  {
+   "id": "ensino-elab-052",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Professor credenciado",
+   "enunciado": "Servidor público de autarquia estadual passa a lecionar regularmente em curso do Sistema de Ensino da Polícia Militar. Esse docente civil enquadra-se como professor",
+   "alternativas": [
+    "convidado, por não possuir vínculo funcional com a Polícia Militar",
+    "assistente, por secundar o professor responsável pela matéria ministrada",
+    "associado, por integrar entidade da administração indireta do Estado",
+    "credenciado, categoria que abrange servidores da administração direta e indireta"
+   ],
+   "correta": 3,
+   "explicacao": "O professor credenciado é o servidor público da administração direta, indireta ou do Judiciário. O associado é o vinculado a universidades ou fundações, públicas ou privadas, mediante convênio ou contrato, e o convidado atua em palestras e eventos assemelhados.",
+   "tags": [
+    "ensino",
+    "docente",
+    "credenciado"
+   ]
+  },
+  {
+   "id": "ensino-elab-053",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Professor convidado",
+   "enunciado": "O professor convidado, que pode ou não ter vínculo com o Estado de São Paulo, é chamado a proferir palestras, conferências, seminários ou eventos de mesma natureza, observado o limite de",
+   "alternativas": [
+    "vinte horas-aula mensais por convidado, nos termos do regulamento",
+    "dez horas-aula mensais por convidado, nos termos do regulamento",
+    "dez horas-aula semanais por curso em que atuar como convidado",
+    "trinta horas-aula por semestre letivo em cada Órgão de Apoio de Ensino"
+   ],
+   "correta": 1,
+   "explicacao": "O limite fixado é de dez horas-aula mensais por convidado. A cobrança costuma alterar a unidade de tempo, trocando o limite mensal por semanal ou semestral.",
+   "tags": [
+    "ensino",
+    "docente",
+    "convidado"
+   ]
+  },
+  {
+   "id": "ensino-elab-054",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Professor associado",
+   "enunciado": "O professor associado é aquele vinculado a universidades ou fundações, públicas ou privadas, para atividades de ensino, pesquisa, formação, graduação, pós-graduação, aperfeiçoamento, habilitação e treinamento, atuando mediante",
+   "alternativas": [
+    "convênio ou contrato, observada a legislação de licitações e contratos",
+    "credenciamento individual normatizado pelo Diretor de Ensino da PM",
+    "designação direta do Comandante do Órgão de Apoio de Ensino Superior",
+    "termo de cooperação firmado pela própria instituição de ensino superior"
+   ],
+   "correta": 0,
+   "explicacao": "O professor associado atua por meio de convênio ou contrato celebrado com a instituição a que se vincula, submetido à Lei de Licitações. O credenciamento de docentes civis, por sua vez, é matéria normatizada pelo Comando Geral.",
+   "tags": [
+    "ensino",
+    "docente",
+    "associado"
+   ]
+  },
+  {
+   "id": "ensino-elab-055",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Honorários",
+   "enunciado": "Quanto aos honorários percebidos pelos docentes do Sistema de Ensino da Polícia Militar, é correto afirmar que",
+   "alternativas": [
+    "incorporam-se aos vencimentos após cinco anos de exercício continuado",
+    "geram direito a décimo terceiro salário proporcional às horas-aula ministradas",
+    "não se incorporam aos vencimentos e não sofrem descontos previdenciários",
+    "sofrem desconto de assistência médica, mas não de contribuição previdenciária"
+   ],
+   "correta": 2,
+   "explicacao": "Os honorários não se incorporam aos vencimentos para nenhum efeito legal, não incidindo sobre eles qualquer vantagem, décimo terceiro salário ou descontos previdenciários e de assistência médica. A docência também não implica investidura em cargo, emprego ou função pública.",
+   "tags": [
+    "ensino",
+    "docente",
+    "honorarios"
+   ]
+  },
+  {
+   "id": "ensino-elab-056",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Pagamento dos honorários",
+   "enunciado": "O pagamento dos honorários devidos ao docente civil, após a Polícia Militar encaminhar o documento relativo às horas-aula lecionadas, será efetuado",
+   "alternativas": [
+    "pela Diretoria de Finanças da Polícia Militar, mediante empenho específico",
+    "pelo Departamento de Despesa de Pessoal do Estado, da Secretaria da Fazenda",
+    "pelo Fundo Especial de Despesa da Polícia Militar, com recursos próprios",
+    "pelo Órgão de Apoio de Ensino Superior em que as aulas foram ministradas"
+   ],
+   "correta": 1,
+   "explicacao": "O pagamento é efetuado pelo Departamento de Despesa de Pessoal do Estado, da Secretaria da Fazenda, após o encaminhamento do documento sobre as horas-aula lecionadas. Quanto aos inativos, o pagamento é realizado pela SPPREV, e não pelo CIAF, previsão desatualizada do Decreto.",
+   "tags": [
+    "ensino",
+    "docente",
+    "pagamento"
+   ]
+  },
+  {
+   "id": "ensino-elab-057",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Efeitos da docência",
+   "enunciado": "O exercício da docência no Sistema de Ensino da Polícia Militar, tanto pelo professor civil quanto pelo policial militar,",
+   "alternativas": [
+    "implica investidura em função pública, com efeitos para fins de aposentadoria",
+    "equipara o docente civil ao servidor público estadual para todos os efeitos",
+    "gera contagem de tempo especial para efeito de estabilidade no serviço público",
+    "não implica investidura em cargo, emprego ou função pública nem gera estabilidade"
+   ],
+   "correta": 3,
+   "explicacao": "A docência não implica a investidura em cargo, emprego ou função pública, não gerando efeitos para estabilidade ou aposentadoria. A regra vale para ambas as categorias de docentes, civis e policiais militares.",
+   "tags": [
+    "ensino",
+    "docente",
+    "efeitos"
+   ]
+  },
+  {
+   "id": "ensino-elab-058",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Professor policial-militar",
+   "enunciado": "Quanto ao professor policial-militar, o Decreto estabelece que",
+   "alternativas": [
+    "oficiais e praças, inclusive inativos, podem compor o corpo docente do Sistema",
+    "somente oficiais da ativa podem compor o corpo docente dos cursos superiores",
+    "praças somente podem atuar como professores-assistentes nos cursos presenciais",
+    "inativos podem lecionar apenas em cursos de extensão da educação profissional"
+   ],
+   "correta": 0,
+   "explicacao": "O corpo docente policial-militar abrange oficiais e praças, inclusive inativos, sendo o professor PM remunerado por hora-aula independentemente de eventuais incorporações e da quantidade de docentes necessária por aula. Não há restrição por posto, graduação ou situação funcional.",
+   "tags": [
+    "ensino",
+    "docente",
+    "pm"
+   ]
+  },
+  {
+   "id": "ensino-elab-059",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Pluralidade de docentes",
+   "enunciado": "O emprego de mais de um docente por hora-aula é admitido no Sistema de Ensino da Polícia Militar",
+   "alternativas": [
+    "sempre que houver disponibilidade orçamentária no exercício financeiro",
+    "apenas nos cursos de pós-graduação em sentido estrito realizados no CAES",
+    "nas matérias em que a necessidade didática ou a segurança assim exigirem",
+    "somente quando o professor titular estiver acompanhado de assistente civil"
+   ],
+   "correta": 2,
+   "explicacao": "A pluralidade de docentes na mesma hora-aula é admitida nas matérias em que a necessidade didática ou a segurança exigirem, e o professor PM é remunerado independentemente da quantidade de docentes empregados. A figura do professor-assistente, que secunda o titular, é hipótese distinta.",
+   "tags": [
+    "ensino",
+    "docente",
+    "hora-aula"
+   ]
+  },
+  {
+   "id": "ensino-elab-060",
+   "subtema": "Ensino a distância",
+   "artigo": "Dec. 54.911/09 — Gestor de EAD",
+   "enunciado": "No ensino a distância, o responsável pelo controle de qualidade e de conteúdo, bem como pelo funcionamento e pela regularidade dos cursos desenvolvidos em sua OPM, é o",
+   "alternativas": [
+    "gestor, incumbido do controle de qualidade e da regularidade dos cursos",
+    "tutor, que medeia e orienta o processo de ensino e aprendizagem",
+    "conteudista, que elabora o conteúdo programático do curso a distância",
+    "professor-assistente, que secunda o docente responsável pela matéria"
+   ],
+   "correta": 0,
+   "explicacao": "O gestor responde pelo controle de qualidade e de conteúdo e pelo funcionamento e regularidade dos cursos EAD em sua OPM. O tutor medeia, estimula, orienta e colabora no processo de ensino e aprendizagem, e o conteudista elabora o conteúdo programático.",
+   "tags": [
+    "ensino",
+    "ead",
+    "gestor"
+   ]
+  },
+  {
+   "id": "ensino-elab-061",
+   "subtema": "Ensino a distância",
+   "artigo": "Dec. 54.911/09 — Tutor e conteudista",
+   "enunciado": "Comparadas as funções de tutor e de conteudista no ensino a distância, verifica-se que",
+   "alternativas": [
+    "ambos podem ser civis, desde que credenciados na forma do regulamento",
+    "ambos devem ser policiais militares designados pelo Comandante do OAES",
+    "o tutor é necessariamente policial-militar e o conteudista pode ser civil",
+    "o tutor pode ser civil ou militar, enquanto o conteudista é policial-militar"
+   ],
+   "correta": 3,
+   "explicacao": "O tutor é o professor, civil ou militar, designado para mediar, estimular, orientar e colaborar no processo de ensino e aprendizagem, ao passo que o conteudista é o professor policial-militar designado para elaborar o conteúdo programático. A distinção quanto à possibilidade de docente civil é o ponto decisivo.",
+   "tags": [
+    "ensino",
+    "ead",
+    "tutor"
+   ]
+  },
+  {
+   "id": "ensino-elab-062",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Atividades docentes",
+   "enunciado": "As atividades docentes no Sistema de Ensino da Polícia Militar compreendem ações em classe e extraclasse, abrangendo a gestão, a coordenação e o auxílio das atividades de ensino, o ensino, a pesquisa e ainda",
+   "alternativas": [
+    "a elaboração dos calendários de cursos e de encontros técnico-científicos",
+    "a fiscalização disciplinar do corpo discente durante as atividades curriculares",
+    "a supervisão da prestação de serviços à comunidade e a difusão de conhecimentos",
+    "a avaliação periódica dos padrões de qualidade dos estabelecimentos de ensino"
+   ],
+   "correta": 2,
+   "explicacao": "O rol legal inclui a supervisão de prestação de serviços à comunidade, além da difusão de conhecimentos científico-tecnológicos e culturais. Os calendários e a avaliação dos padrões de qualidade pertencem às competências de comando e direção, não às atividades docentes.",
+   "tags": [
+    "ensino",
+    "docente",
+    "atividades"
+   ]
+  },
+  {
+   "id": "ensino-elab-063",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Deveres do docente",
+   "enunciado": "Docente do Sistema de Ensino é procurado por aluno de sua matéria para aulas particulares remuneradas. Nos termos do Decreto, o professor",
+   "alternativas": [
+    "pode aceitar, desde que fora do horário das atividades curriculares regulares",
+    "pode aceitar, desde que o aluno não esteja matriculado no curso que ministra",
+    "pode aceitar, mediante autorização expressa do Comandante do OAES",
+    "não pode lecionar, em caráter particular, matéria de que seja responsável"
+   ],
+   "correta": 3,
+   "explicacao": "É dever do docente não lecionar, em caráter particular e a qualquer título, a aluno ou grupo de alunos do Sistema de Ensino a matéria de que seja responsável. A vedação não comporta autorização de comando nem ressalva de horário.",
+   "tags": [
+    "ensino",
+    "docente",
+    "deveres"
+   ]
+  },
+  {
+   "id": "ensino-elab-064",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Deveres do docente",
+   "enunciado": "Entre os deveres do docente previstos no Decreto, inclui-se",
+   "alternativas": [
+    "aprovar o conteúdo programático da matéria antes do início de cada turma",
+    "propor ao Diretor de Ensino a realização dos cursos de sua especialidade",
+    "expedir os certificados dos alunos aprovados na matéria sob sua responsabilidade",
+    "elaborar o Plano Didático de Matéria e os respectivos planos de aula ou sessão"
+   ],
+   "correta": 3,
+   "explicacao": "É dever do docente elaborar o Plano Didático de Matéria e os planos de aula ou sessão, além de ministrar as aulas introduzindo os preceitos da doutrina institucional e atender às convocações do Comando Geral, do Diretor de Ensino e do Comandante do OAES. Expedir certificados é atribuição do Comandante do OAES.",
+   "tags": [
+    "ensino",
+    "docente",
+    "pdm"
+   ]
+  },
+  {
+   "id": "ensino-elab-065",
+   "subtema": "Corpo docente",
+   "artigo": "Dec. 54.911/09 — Direitos do docente",
+   "enunciado": "Sobre os direitos do docente no Sistema de Ensino da Polícia Militar, é correto afirmar que",
+   "alternativas": [
+    "as honras e os sinais de respeito são assegurados apenas ao docente militar",
+    "as honras e os sinais de respeito alcançam o docente, civil ou militar",
+    "a certificação das funções desenvolvidas cabe à Diretoria de Ensino da PM",
+    "a remuneração é devida somente ao docente sem vínculo com o Estado"
+   ],
+   "correta": 1,
+   "explicacao": "São direitos do docente perceber remuneração, ter acesso a meios de ensino adequados, receber certificação do respectivo OAES e receber honras e sinais de respeito conforme as instruções de continências e o regimento interno, sem a exclusão do professor civil. A certificação é expedida pelo OAES, não pela DEC.",
+   "tags": [
+    "ensino",
+    "docente",
+    "direitos"
+   ]
+  },
+  {
+   "id": "ensino-elab-066",
+   "subtema": "Corpo discente",
+   "artigo": "Dec. 54.911/09 — Matrícula de civis e estrangeiros",
+   "enunciado": "A matrícula de civis e de militares nacionais e estrangeiros nos cursos do Sistema de Ensino da Polícia Militar é possível, desde que",
+   "alternativas": [
+    "haja vaga remanescente após a matrícula de todos os policiais militares",
+    "o candidato seja oriundo de instituição com convênio firmado há mais de um ano",
+    "exista autorização do Governador do Estado para cada curso pretendido",
+    "atendido o interesse da PMESP, a aprovação em seleção e a existência de intercâmbio"
+   ],
+   "correta": 3,
+   "explicacao": "Podem ser matriculados civis e militares nacionais e estrangeiros, observado o interesse da PMESP, desde que preencham as condições exigidas e sejam aprovados em processo de seleção, ficando a matrícula condicionada também à existência de intercâmbio ou mútua cooperação na área de ensino superior. A frequência de estrangeiros, portanto, não é vedada.",
+   "tags": [
+    "ensino",
+    "discente",
+    "matricula"
+   ]
+  },
+  {
+   "id": "ensino-elab-067",
+   "subtema": "Corpo discente",
+   "artigo": "Dec. 54.911/09 — Deveres do discente",
+   "enunciado": "Entre os deveres do corpo discente do Sistema de Ensino da Polícia Militar, inclui-se",
+   "alternativas": [
+    "optar pela OPM de destino segundo a ordem de classificação no curso concluído",
+    "participar de estágios, serviços, exercícios e representações internas e externas",
+    "fruir férias ou recesso escolar conforme o plano anual da unidade de origem",
+    "receber certificação das atividades curriculares complementares cumpridas"
+   ],
+   "correta": 1,
+   "explicacao": "É dever do discente frequentar todas as atividades escolares e participar de estágios operacionais e administrativos, serviços, exercícios e representações internas e externas estabelecidos como atividades curriculares, extracurriculares ou complementares, além de cumprir escalas e determinações. As demais alternativas descrevem direitos, e não deveres.",
+   "tags": [
+    "ensino",
+    "discente",
+    "deveres"
+   ]
+  },
+  {
+   "id": "ensino-elab-068",
+   "subtema": "Corpo discente",
+   "artigo": "Dec. 54.911/09 — Direitos do discente",
+   "enunciado": "Ao primeiro colocado do Bacharelado em Ciências Policiais de Segurança e Ordem Pública é assegurado, entre os direitos do corpo discente, o recebimento",
+   "alternativas": [
+    "de dispensa do estágio administrativo-operacional do aspirantado",
+    "de medalha Pedro Dias de Campos, entre as recompensas do RDPM",
+    "de espada com a gravação Ao Mérito, entre as recompensas do RDPM",
+    "de escolha preferencial de OPM, independentemente das vagas oferecidas"
+   ],
+   "correta": 2,
+   "explicacao": "O primeiro colocado do Bacharelado recebe espada com a gravação Ao Mérito, entre as recompensas do RDPM. A medalha Pedro Dias de Campos e o diploma são conferidos aos primeiros colocados de diversos cursos, como CFSd, CFS, CAS, CSTAPM, CFO, CBS, CBO, Bacharelado em Educação Física, CAO e CSP, independentemente do Quadro.",
+   "tags": [
+    "ensino",
+    "discente",
+    "recompensas"
+   ]
+  },
+  {
+   "id": "ensino-elab-069",
+   "subtema": "Corpo discente",
+   "artigo": "Dec. 54.911/09 — Direitos do discente",
+   "enunciado": "Quanto à remuneração dos integrantes do corpo discente da Polícia Militar durante a frequência a cursos do Sistema de Ensino, o Decreto assegura que",
+   "alternativas": [
+    "será acrescida de gratificação de aluno enquanto durar o respectivo curso",
+    "poderá ser reduzida nas parcelas variáveis ligadas à atividade operacional",
+    "será mantida pela OPM de origem apenas nos cursos de habilitação",
+    "não será reduzida em relação à percebida em sua unidade de origem"
+   ],
+   "correta": 3,
+   "explicacao": "O Decreto assegura que os integrantes do corpo discente não terão reduzida a remuneração percebida em sua unidade de origem. Não há previsão de gratificação específica pela condição de aluno nem autorização para supressão de parcelas.",
+   "tags": [
+    "ensino",
+    "discente",
+    "remuneracao"
+   ]
+  },
+  {
+   "id": "ensino-elab-070",
+   "subtema": "Corpo discente",
+   "artigo": "Dec. 54.911/09 — Direitos do discente",
+   "enunciado": "Ao término, com aproveitamento, do respectivo curso de formação ou de habilitação, é direito do discente",
+   "alternativas": [
+    "optar pela OPM onde deseja servir, segundo a classificação e as vagas oferecidas",
+    "ser classificado na OPM mais próxima de sua residência, por interesse pessoal",
+    "permanecer na unidade de origem, independentemente da existência de vagas",
+    "escolher a OPM entre as unidades especializadas, conforme sua especialidade"
+   ],
+   "correta": 0,
+   "explicacao": "O direito de opção é exercido segundo a ordem de classificação, na conformidade das vagas oferecidas. A classificação por proximidade de residência ou a permanência automática na unidade de origem não constam do Decreto.",
+   "tags": [
+    "ensino",
+    "discente",
+    "opcao"
+   ]
+  },
+  {
+   "id": "ensino-elab-071",
+   "subtema": "Avaliação",
+   "artigo": "Dec. 54.911/09 — Instrumentos de avaliação",
+   "enunciado": "A avaliação no Sistema de Ensino da Polícia Militar dar-se-á pela aplicação regular e constante de verificações escritas, práticas, orais ou prático-orais, além da exigência de trabalhos técnico-científicos",
+   "alternativas": [
+    "em todos os cursos de educação superior realizados pelos OAES da Instituição",
+    "para os cursos de especialização da pós-graduação em sentido lato",
+    "para os programas de mestrado e de doutorado desenvolvidos pelo CAES",
+    "nos cursos sequenciais de complementação de estudos das Praças da PM"
+   ],
+   "correta": 2,
+   "explicacao": "A exigência de trabalhos técnico-científicos é prevista para os programas de mestrado e de doutorado, únicos cursos de pós-graduação em sentido estrito do Sistema. Estender a exigência aos demais cursos é a armadilha da questão.",
+   "tags": [
+    "ensino",
+    "avaliacao",
+    "instrumentos"
+   ]
+  },
+  {
+   "id": "ensino-elab-072",
+   "subtema": "Avaliação",
+   "artigo": "Dec. 54.911/09 — Nota mínima",
+   "enunciado": "A nota mínima para aprovação final, por matéria, no Sistema de Ensino da Polícia Militar, é 5,0, ressalvada a matéria de",
+   "alternativas": [
+    "prática policial-militar, cuja nota é atribuída pelo Comandante do OAES",
+    "estágio operacional, cuja avaliação é feita pelo Comandante da OPM",
+    "educação física, cuja nota será disciplinada na Diretriz Geral de Ensino",
+    "trabalho técnico-científico, avaliado por banca designada pelo Diretor"
+   ],
+   "correta": 2,
+   "explicacao": "A exceção prevista é a matéria de educação física, cuja nota será disciplinada na DGE. As demais alternativas criam exceções inexistentes na norma.",
+   "tags": [
+    "ensino",
+    "avaliacao",
+    "nota"
+   ]
+  },
+  {
+   "id": "ensino-elab-073",
+   "subtema": "Avaliação",
+   "artigo": "Dec. 54.911/09 — Conclusão com aproveitamento",
+   "enunciado": "O aluno concluirá com aproveitamento o curso ou estágio quando obtiver nota final igual ou superior a 5,0, não incorrer nas situações de desligamento e alcançar frequência mínima de",
+   "alternativas": [
+    "setenta e cinco por cento da carga horária do respectivo currículo",
+    "setenta por cento da carga horária do respectivo currículo escolar",
+    "oitenta por cento da carga horária de cada matéria cursada no período",
+    "setenta e cinco por cento da carga horária de cada matéria cursada"
+   ],
+   "correta": 0,
+   "explicacao": "A frequência mínima exigida é de setenta e cinco por cento da carga horária do respectivo currículo, e não por matéria. As bancas exploram tanto o percentual quanto a base de cálculo da frequência.",
+   "tags": [
+    "ensino",
+    "avaliacao",
+    "frequencia"
+   ]
+  },
+  {
+   "id": "ensino-elab-074",
+   "subtema": "Avaliação",
+   "artigo": "Dec. 54.911/09 — Recurso do desligamento",
+   "enunciado": "Aluno desligado de curso do Sistema de Ensino pretende recorrer da decisão. Nos termos do Decreto, o recurso administrativo",
+   "alternativas": [
+    "é dirigido ao Comandante do OAES e possui efeito suspensivo imediato",
+    "é dirigido ao Subcomandante da PM, no prazo de dez dias úteis da publicação",
+    "é dirigido ao Comando Geral, no prazo de três dias úteis, com efeito suspensivo",
+    "é dirigido ao Diretor de Ensino, no prazo de cinco dias úteis, sem efeito suspensivo"
+   ],
+   "correta": 3,
+   "explicacao": "O recurso do desligamento é endereçado ao Diretor de Ensino, no prazo de cinco dias úteis contados da ciência do desligamento, e não tem efeito suspensivo. Da decisão fundamentada do Diretor cabe recurso, em última instância, ao Subcomandante da Polícia Militar.",
+   "tags": [
+    "ensino",
+    "desligamento",
+    "recurso"
+   ]
+  },
+  {
+   "id": "ensino-elab-075",
+   "subtema": "Avaliação",
+   "artigo": "Dec. 54.911/09 — Última instância",
+   "enunciado": "Indeferido o recurso pelo Diretor de Ensino, o aluno desligado poderá recorrer, em última instância administrativa,",
+   "alternativas": [
+    "ao Comando Geral, que decide após parecer da Diretoria de Ensino",
+    "ao Subcomandante da Polícia Militar, em decisão que encerra a via administrativa",
+    "ao Presidente da Comissão Especial de Concurso do certame de ingresso",
+    "ao Comandante do Órgão de Apoio de Ensino Superior responsável pelo curso"
+   ],
+   "correta": 1,
+   "explicacao": "Recebido o recurso, o Diretor de Ensino emite decisão fundamentada, da qual cabe recurso em última instância ao Subcomandante da Polícia Militar. O Presidente da Comissão Especial de Concurso decide em última instância os recursos do concurso de ingresso, matéria diversa.",
+   "tags": [
+    "ensino",
+    "desligamento",
+    "recurso"
+   ]
+  },
+  {
+   "id": "ensino-elab-076",
+   "subtema": "Desligamento",
+   "artigo": "Dec. 54.911/09 — Causas de desligamento",
+   "enunciado": "Assinale a situação que não figura entre as causas de desligamento de curso previstas no Decreto que regulamenta a Lei de Ensino.",
+   "alternativas": [
+    "Ser condenado por crime doloso, com trânsito em julgado, a pena restritiva de liberdade",
+    "Obter nota de conduta escolar insuficiente ou praticar falta punível com demissão",
+    "Ser classificado em unidade diversa da pretendida ao término do curso de formação",
+    "Deixar de preencher qualquer dos requisitos de ingresso exigidos para o cargo"
+   ],
+   "correta": 2,
+   "explicacao": "São causas de desligamento, entre outras, a solicitação do aluno, a reprovação definitiva, a frequência insuficiente, a nota de conduta escolar insuficiente, a falta grave punível com demissão ou expulsão, a perda de requisito de ingresso, a falta que enseje o mau comportamento, a condenação por crime doloso com pena restritiva de liberdade e o descumprimento dos requisitos do estágio probatório. A classificação em OPM diversa não é causa de desligamento.",
+   "tags": [
+    "ensino",
+    "desligamento",
+    "causas"
+   ]
+  },
+  {
+   "id": "ensino-elab-077",
+   "subtema": "Desligamento",
+   "artigo": "Dec. 54.911/09 — Aluno-Oficial PM",
+   "enunciado": "Além das causas comuns, o Aluno-Oficial PM será desligado do Bacharelado em Ciências Policiais de Segurança e Ordem Pública quando obtiver",
+   "alternativas": [
+    "conceito insuficiente de aptidão para o oficialato em qualquer traço avaliado",
+    "média inferior a sete em qualquer das matérias do currículo do curso",
+    "conceito regular de aptidão para o oficialato em dois anos letivos seguidos",
+    "avaliação negativa do Comandante da unidade em que realizou estágio"
+   ],
+   "correta": 0,
+   "explicacao": "O Decreto prevê o desligamento do Al Of PM que obtiver conceito insuficiente de aptidão para o oficialato em qualquer traço, ou conceito inferior em um mesmo traço em dois semestres consecutivos, independentemente do ano letivo. A nota mínima de aprovação por matéria continua sendo 5,0.",
+   "tags": [
+    "ensino",
+    "desligamento",
+    "aluno-oficial"
+   ]
+  },
+  {
+   "id": "ensino-elab-078",
+   "subtema": "Desligamento",
+   "artigo": "Dec. 54.911/09 — Soldado PM de 2ª Classe",
+   "enunciado": "Soldado PM de 2ª Classe é julgado definitivamente incapaz para o serviço policial-militar durante o Curso de Formação de Soldados. Nos termos do Decreto, ele será",
+   "alternativas": [
+    "desligado do curso e rematriculado no curso subsequente da mesma escola",
+    "afastado das atividades curriculares até nova inspeção de saúde do órgão",
+    "exonerado do cargo, por deixar de preencher requisito do estágio probatório",
+    "desligado do curso e reformado, na forma da legislação aplicável"
+   ],
+   "correta": 3,
+   "explicacao": "A incapacidade definitiva durante o CFSd acarreta o desligamento do curso e a reforma do Soldado PM de 2ª Classe. A rematrícula é reservada à invalidez ou incapacidade temporária por prazo inferior a vinte e quatro meses, entre outras hipóteses.",
+   "tags": [
+    "ensino",
+    "desligamento",
+    "reforma"
+   ]
+  },
+  {
+   "id": "ensino-elab-079",
+   "subtema": "Desligamento",
+   "artigo": "Dec. 54.911/09 — Hipóteses de rematrícula",
+   "enunciado": "Será desligado e rematriculado no curso subsequente o aluno do Curso de Formação de Soldados que",
+   "alternativas": [
+    "for reprovado em definitivo em matéria integrante do currículo do curso",
+    "for julgado temporariamente inválido por prazo inferior a 24 meses",
+    "obtiver nota de conduta escolar insuficiente no decorrer do ano letivo",
+    "for condenado por crime doloso a pena restritiva de liberdade transitada"
+   ],
+   "correta": 1,
+   "explicacao": "A rematrícula é assegurada nos casos de gestante com parecer médico que recomende o afastamento, de invalidez ou incapacidade temporária por prazo inferior a vinte e quatro meses e de decisão judicial que assegure a permanência na Instituição sem permitir o alcance da frequência mínima. As demais hipóteses acarretam desligamento puro e simples.",
+   "tags": [
+    "ensino",
+    "desligamento",
+    "rematricula"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "ensino-elab-080",
+   "subtema": "Desligamento",
+   "artigo": "Dec. 54.911/09 — Efeitos da rematrícula",
+   "enunciado": "Quanto à rematrícula do Soldado PM de 2ª Classe no curso subsequente, o Decreto estabelece que",
+   "alternativas": [
+    "o estágio probatório será contado a partir da matrícula no novo curso",
+    "o estágio probatório continuará a contar desde a primeira matrícula realizada",
+    "a rematrícula poderá ser repetida enquanto perdurar o motivo que a ensejou",
+    "a rematrícula independe da espécie de motivo que gerou o desligamento"
+   ],
+   "correta": 0,
+   "explicacao": "Nos casos de rematrícula, o estágio probatório do Soldado PM de 2ª Classe é contado a partir da matrícula no novo curso, e a rematrícula fundamentada na mesma espécie de motivo é assegurada uma única vez. A repetição ilimitada é a armadilha da questão.",
+   "tags": [
+    "ensino",
+    "desligamento",
+    "rematricula"
+   ]
+  },
+  {
+   "id": "ensino-elab-081",
+   "subtema": "Desligamento",
+   "artigo": "Dec. 54.911/09 — Recondução do Aluno-Oficial",
+   "enunciado": "Aluno-Oficial PM oriundo das fileiras da Instituição é desligado do Bacharelado em Ciências Policiais de Segurança e Ordem Pública. Segundo o Decreto, esse militar",
+   "alternativas": [
+    "poderá ser reconduzido ao cargo que ocupava antes do ingresso no curso",
+    "será necessariamente exonerado, por perda da condição de aluno do curso",
+    "permanecerá na graduação de Aluno-Oficial até nova decisão do Comando",
+    "será reclassificado na graduação inicial, reiniciando o estágio probatório"
+   ],
+   "correta": 0,
+   "explicacao": "O Decreto autoriza a recondução do Al Of PM oriundo das fileiras da Instituição ao cargo ocupado anteriormente ao ingresso no Bacharelado. A exoneração alcança quem não detinha vínculo anterior com a Corporação.",
+   "tags": [
+    "ensino",
+    "desligamento",
+    "reconducao"
+   ]
+  },
+  {
+   "id": "ensino-elab-082",
+   "subtema": "Ingresso",
+   "artigo": "LC 1.291/16 — Carreiras e escolaridade",
+   "enunciado": "Candidato ao Quadro de Praças Policiais Militares deve comprovar, além do ensino médio, requisito específico consistente em",
+   "alternativas": [
+    "habilitação para condução de veículo motorizado nas categorias A e B",
+    "curso de nível superior de graduação em qualquer área do conhecimento",
+    "habilitação para condução de veículo motorizado entre as categorias B e E",
+    "certificado de conclusão de curso técnico em segurança pública ou afim"
+   ],
+   "correta": 2,
+   "explicacao": "Para o QPPM exige-se ensino médio somado à habilitação para condução de veículo motorizado entre as categorias B e E. Curso superior é requisito do QOS, e o QOM exige bacharelado em música com conhecimentos técnico-musicais definidos em regulamento.",
+   "tags": [
+    "ingresso",
+    "requisitos",
+    "escolaridade"
+   ]
+  },
+  {
+   "id": "ensino-elab-083",
+   "subtema": "Ingresso",
+   "artigo": "LC 1.291/16 — Estatura mínima",
+   "enunciado": "Quanto à estatura mínima exigida para ingresso nas carreiras policiais-militares, medida descalço e descoberto, é correto afirmar que",
+   "alternativas": [
+    "é de 160 cm para mulheres e 165 cm para homens, em todos os Quadros",
+    "é de 155 cm para mulheres e 160 cm para homens, sem qualquer exceção",
+    "é de 155 cm para mulheres e 160 cm para homens, salvo no QOS e no QOM",
+    "é definida em edital, conforme as peculiaridades de cada Quadro da PM"
+   ],
+   "correta": 2,
+   "explicacao": "A estatura mínima é de 155 cm para mulheres e 160 cm para homens, medida descalço e descoberto, e não se aplica aos candidatos ao QOS e ao QOM. A existência dessa exceção é o ponto mais cobrado do dispositivo.",
+   "tags": [
+    "ingresso",
+    "requisitos",
+    "estatura"
+   ]
+  },
+  {
+   "id": "ensino-elab-084",
+   "subtema": "Ingresso",
+   "artigo": "LC 1.291/16 — Requisitos de inscrição",
+   "enunciado": "São requisitos para inscrição no concurso de ingresso nas carreiras da Polícia Militar",
+   "alternativas": [
+    "ser brasileiro nato e possuir idade mínima de dezoito anos completos",
+    "ser brasileiro e possuir idade mínima de dezoito anos completos",
+    "ser brasileiro nato e possuir idade mínima de dezessete anos de idade",
+    "ser brasileiro e possuir idade mínima de dezessete anos de idade"
+   ],
+   "correta": 3,
+   "explicacao": "A Lei de Ingresso exige ser brasileiro, sem a restrição a brasileiro nato, e idade mínima de dezessete anos. As bancas costumam acrescentar o adjetivo nato ou elevar a idade mínima para dezoito anos.",
+   "tags": [
+    "ingresso",
+    "requisitos",
+    "idade"
+   ]
+  },
+  {
+   "id": "ensino-elab-085",
+   "subtema": "Ingresso",
+   "artigo": "LC 1.291/16 — Idade máxima",
+   "enunciado": "Quanto aos limites de idade máxima para inscrição no concurso de ingresso, a Lei Complementar nº 1.291/16 estabelece",
+   "alternativas": [
+    "trinta anos para todos os Quadros, sem qualquer exceção legalmente prevista",
+    "trinta e cinco anos para todos os Quadros das carreiras policiais-militares",
+    "quarenta anos para o QPPM e trinta e cinco anos para os demais Quadros",
+    "trinta anos para QOPM e QPPM e trinta e cinco anos para QOS e QOM"
+   ],
+   "correta": 3,
+   "explicacao": "A idade máxima é de trinta anos para QOPM e QPPM e de trinta e cinco anos para QOS e QOM, limites que não se aplicam aos candidatos já pertencentes aos Quadros da PMESP. Essa ressalva em favor do policial militar da ativa costuma ser omitida nas alternativas.",
+   "tags": [
+    "ingresso",
+    "requisitos",
+    "idade"
+   ]
+  },
+  {
+   "id": "ensino-elab-086",
+   "subtema": "Ingresso",
+   "artigo": "LC 1.291/16 — Tatuagem",
+   "enunciado": "Candidato ao ingresso na Polícia Militar possui tatuagem em local visível com o uniforme operacional de verão, sem qualquer conteúdo ofensivo. À luz da Lei de Ingresso e da decisão do Tribunal de Justiça sobre a matéria,",
+   "alternativas": [
+    "a tatuagem é causa de eliminação, por estar visível com o uniforme de verão",
+    "a tatuagem somente é admitida se puder ser coberta pelo uniforme de serviço",
+    "a tatuagem não impede o ingresso, pois a vedação recai sobre o seu conteúdo",
+    "a tatuagem depende de autorização prévia da Comissão Especial de Concurso"
+   ],
+   "correta": 2,
+   "explicacao": "A vedação legal alcança a tatuagem que ofenda valores e deveres éticos da Instituição ou que faça alusão a ideologia terrorista ou extremista, discriminação ou preconceito de raça, credo, sexo ou origem, ideia ou ato libidinoso e ideia ou ato ofensivo aos direitos humanos. Não divulgando tais símbolos, a tatuagem pode estar em local visível, ainda que com o uniforme operacional de verão.",
+   "tags": [
+    "ingresso",
+    "requisitos",
+    "tatuagem"
+   ]
+  },
+  {
+   "id": "ensino-elab-087",
+   "subtema": "Concurso público",
+   "artigo": "LC 1.291/16 — Art. 4º",
+   "enunciado": "Assinale a etapa que não integra o rol de etapas dos concursos públicos de ingresso previstas na Lei Complementar nº 1.291/16.",
+   "alternativas": [
+    "Exames de conhecimentos, constituídos de prova objetiva e dissertativa",
+    "Avaliação da conduta social, da reputação e da idoneidade do candidato",
+    "Entrevista pessoal perante banca examinadora composta por oficiais",
+    "Exames de saúde, compreendendo os médicos, odontológicos e toxicológicos"
+   ],
+   "correta": 2,
+   "explicacao": "As etapas legais são exames de conhecimentos, exames de aptidão física, exames de saúde, exames psicológicos, avaliação da conduta social, reputação e idoneidade, análise de documentos e análise de títulos. A entrevista pessoal não figura entre elas.",
+   "tags": [
+    "ingresso",
+    "concurso",
+    "etapas"
+   ]
+  },
+  {
+   "id": "ensino-elab-088",
+   "subtema": "Concurso público",
+   "artigo": "LC 1.291/16 — Natureza das etapas",
+   "enunciado": "Quanto à natureza das etapas do concurso de ingresso, é correto afirmar que",
+   "alternativas": [
+    "a análise de títulos é eliminatória, por comprovar os requisitos exigidos para o cargo",
+    "todas as etapas do concurso público de ingresso possuem natureza eliminatória e classificatória",
+    "os exames de aptidão física são classificatórios e os de saúde, meramente eliminatórios",
+    "os exames de conhecimentos são eliminatórios e classificatórios, e os títulos, classificatórios"
+   ],
+   "correta": 3,
+   "explicacao": "Os exames de conhecimentos são eliminatórios e classificatórios e a análise de títulos é meramente classificatória, sendo eliminatórias as demais etapas. Confundir a análise de títulos com a análise de documentos, esta sim eliminatória, é erro frequente.",
+   "tags": [
+    "ingresso",
+    "concurso",
+    "etapas"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "ensino-elab-089",
+   "subtema": "Concurso público",
+   "artigo": "LC 1.291/16 — Investigação social",
+   "enunciado": "A avaliação da conduta social, da reputação e da idoneidade do candidato, realizada de forma sigilosa por órgão técnico da Polícia Militar, tem por objeto",
+   "alternativas": [
+    "apenas os fatos pregressos relativos ao candidato, anteriores à inscrição",
+    "apenas os fatos ocorridos durante a realização das etapas do concurso",
+    "os fatos atuais e pregressos do candidato, podendo ocorrer a qualquer tempo",
+    "os antecedentes criminais do candidato, mediante consulta a órgãos externos"
+   ],
+   "correta": 2,
+   "explicacao": "A investigação social averigua os fatos atuais e pregressos do candidato em seus aspectos social, moral, profissional e escolar, quanto à compatibilidade para o exercício do cargo, e é realizável a qualquer tempo durante as etapas do concurso público. O caráter sigiloso e a amplitude temporal são os pontos centrais.",
+   "tags": [
+    "ingresso",
+    "concurso",
+    "investigacao-social"
+   ]
+  },
+  {
+   "id": "ensino-elab-090",
+   "subtema": "Concurso público",
+   "artigo": "LC 1.291/16 — Gestão do concurso",
+   "enunciado": "O planejamento, a coordenação e a realização dos concursos públicos de ingresso dar-se-ão sob a gestão",
+   "alternativas": [
+    "do Comandante Geral, que poderá delegá-la ao órgão de pessoal da Polícia Militar",
+    "do Secretário da Segurança Pública, que poderá delegá-la ao Comandante Geral",
+    "do Diretor de Ensino, que responde pela realização dos concursos da Instituição",
+    "do Presidente da Comissão Especial de Concurso designada para cada certame"
+   ],
+   "correta": 0,
+   "explicacao": "A gestão cabe ao Comandante Geral, que poderá delegá-la ao órgão de pessoal da Polícia Militar, admitida a realização por terceiros, na forma da lei, de uma ou da totalidade das etapas. O Presidente da Comissão Especial de Concurso decide os recursos, mas não detém a gestão do certame.",
+   "tags": [
+    "ingresso",
+    "concurso",
+    "gestao"
+   ]
+  },
+  {
+   "id": "ensino-elab-091",
+   "subtema": "Concurso público",
+   "artigo": "LC 1.291/16 — Nota final e desempate",
+   "enunciado": "Dois candidatos obtêm idêntica nota final no concurso de ingresso. Segundo a Lei de Ingresso, o primeiro critério de desempate é",
+   "alternativas": [
+    "a idade mais avançada entre os candidatos empatados no certame",
+    "a maior nota obtida na prova objetiva do exame de conhecimentos",
+    "a maior nota obtida na prova dissertativa do exame de conhecimentos",
+    "a maior pontuação obtida na etapa de análise de títulos do concurso"
+   ],
+   "correta": 1,
+   "explicacao": "A ordem legal de desempate é a maior nota na prova objetiva, depois a maior nota na prova dissertativa e, por fim, a idade mais avançada. A nota final, por sua vez, resulta das provas de conhecimentos somadas à avaliação de títulos, quando houver.",
+   "tags": [
+    "ingresso",
+    "concurso",
+    "desempate"
+   ]
+  },
+  {
+   "id": "ensino-elab-092",
+   "subtema": "Concurso público",
+   "artigo": "LC 1.291/16 — Recurso administrativo",
+   "enunciado": "Candidato pretende recorrer do resultado de uma das etapas do concurso de ingresso. Nos termos da Lei de Ingresso, o recurso deve ser interposto no prazo de",
+   "alternativas": [
+    "três dias úteis da publicação, dirigido ao Presidente da Comissão Especial",
+    "cinco dias úteis da publicação, dirigido ao Comandante Geral da Instituição",
+    "três dias corridos da publicação, dirigido ao órgão de pessoal da Polícia Militar",
+    "dez dias úteis da publicação, dirigido ao Secretário da Segurança Pública"
+   ],
+   "correta": 0,
+   "explicacao": "O recurso é interposto no prazo de três dias úteis da publicação e endereçado ao Presidente da Comissão Especial de Concurso, competente para a decisão final em última instância administrativa. O prazo de cinco dias úteis refere-se ao recurso contra o desligamento de curso, dirigido ao Diretor de Ensino.",
+   "tags": [
+    "ingresso",
+    "concurso",
+    "recurso"
+   ]
+  },
+  {
+   "id": "ensino-elab-093",
+   "subtema": "Concurso público",
+   "artigo": "LC 1.291/16 — Requisitos do recurso",
+   "enunciado": "Sobre o recurso administrativo no concurso de ingresso, é correto afirmar que",
+   "alternativas": [
+    "é cabível como pedido de reavaliação da prova, desde que fundamentado",
+    "deve apontar o prejuízo causado e o dispositivo legal ou editalício violado",
+    "possui efeito suspensivo automático em relação à etapa seguinte do certame",
+    "pode versar sobre qualquer matéria, ainda que estranha ao concurso público"
+   ],
+   "correta": 1,
+   "explicacao": "O recurso deve apontar o prejuízo causado e o dispositivo legal, regulamentar ou editalício violado, é cabível para cada etapa e somente quanto a matérias afetas ao concurso, não sendo admitido como mero pedido de revisão, reavaliação ou repetição da prova.",
+   "tags": [
+    "ingresso",
+    "concurso",
+    "recurso"
+   ]
+  },
+  {
+   "id": "ensino-elab-094",
+   "subtema": "Nomeação e posse",
+   "artigo": "LC 1.291/16 — Nomeação",
+   "enunciado": "A nomeação dos candidatos aprovados no concurso de ingresso nas carreiras policiais-militares compete",
+   "alternativas": [
+    "ao Comandante Geral da Polícia Militar, no exercício da gestão do concurso público",
+    "ao Governador, que poderá delegá-la por decreto ao Secretário da Segurança Pública",
+    "ao Departamento de Pessoal da Polícia Militar, que também dá posse aos nomeados",
+    "ao Secretário da Segurança Pública, por competência originária prevista em lei"
+   ],
+   "correta": 1,
+   "explicacao": "A nomeação é ato do Governador do Estado, que poderá delegá-la por decreto ao Secretário da Segurança Pública, ao passo que a posse é dada pelo Departamento de Pessoal. A nomeação pode ainda ser precedida de prévia anuência do candidato.",
+   "tags": [
+    "ingresso",
+    "nomeacao",
+    "posse"
+   ],
+   "revisada": "2026-09-12"
+  },
+  {
+   "id": "ensino-elab-095",
+   "subtema": "Nomeação e posse",
+   "artigo": "LC 1.291/16 — Posse",
+   "enunciado": "Candidato nomeado não comparece para assinar o termo de posse na data prevista pela Administração, por sua própria vontade. Nesse caso,",
+   "alternativas": [
+    "o ato de nomeação será tornado sem efeito pela autoridade competente",
+    "o candidato será reclassificado no último lugar da lista de aprovados",
+    "a posse poderá ser realizada por procurador com poderes específicos",
+    "o prazo de posse será automaticamente prorrogado por mais trinta dias"
+   ],
+   "correta": 0,
+   "explicacao": "A posse ocorre com a assinatura do termo de posse em até trinta dias da publicação do ato de nomeação, é ato pessoal e não admite representação por procuração. Não ocorrendo na data prevista por vontade do empossando, o ato de nomeação será tornado sem efeito.",
+   "tags": [
+    "ingresso",
+    "posse",
+    "prazo"
+   ]
+  },
+  {
+   "id": "ensino-elab-096",
+   "subtema": "Nomeação e posse",
+   "artigo": "LC 1.291/16 — Efeitos da posse",
+   "enunciado": "A posse nas carreiras policiais-militares produz o efeito de",
+   "alternativas": [
+    "conferir estabilidade ao militar do Estado desde a assinatura do termo",
+    "substituir a nomeação quando esta não tiver sido publicada em tempo hábil",
+    "iniciar a contagem do tempo de serviço apenas para fins de promoção",
+    "dar início ao exercício do cargo e deflagrar o início do estágio probatório"
+   ],
+   "correta": 3,
+   "explicacao": "A posse dá início ao exercício do cargo e deflagra o início do estágio probatório, cuja aprovação é que conduz à estabilidade. Confundir posse com aquisição de estabilidade é o erro mais comum nesse tema.",
+   "tags": [
+    "ingresso",
+    "posse",
+    "estagio"
+   ]
+  },
+  {
+   "id": "ensino-elab-097",
+   "subtema": "Nomeação e posse",
+   "artigo": "LC 1.291/16 — Condições de posse",
+   "enunciado": "Assinale a alternativa que não constitui condição para a posse nas carreiras policiais-militares.",
+   "alternativas": [
+    "Se militar, estar no comportamento bom e não ter cometido transgressão grave em dois anos",
+    "Possuir higidez física e mental, aptidão física e perfil psicológico compatível com o cargo",
+    "Possuir idade máxima de trinta anos, quando se tratar de candidato ao QOPM ou ao QPPM",
+    "Ter boa conduta social, reputação e idoneidade ilibadas e estar quite com as obrigações eleitorais"
+   ],
+   "correta": 2,
+   "explicacao": "A idade máxima é requisito para inscrição no concurso, e não condição de posse. São condições de posse, entre outras, a higidez física e mental, a aptidão física, o perfil psicológico compatível, a quitação eleitoral e militar, a boa conduta social, reputação e idoneidade ilibadas e os requisitos disciplinares exigidos do candidato militar.",
+   "tags": [
+    "ingresso",
+    "posse",
+    "condicoes"
+   ]
+  },
+  {
+   "id": "ensino-elab-098",
+   "subtema": "Estágio probatório",
+   "artigo": "LC 1.291/16 — Duração por carreira",
+   "enunciado": "Quanto à duração do estágio probatório nas carreiras policiais-militares, a Lei de Ingresso prevê",
+   "alternativas": [
+    "um ano para o QOS e três anos para o QOM e para o QPPM",
+    "três anos para o QOS e um ano para o QOM e para o QPPM",
+    "dois anos para todos os Quadros, contados da data da posse",
+    "um ano para o QOM e três anos para o QOS e para o QPPM"
+   ],
+   "correta": 0,
+   "explicacao": "O estágio probatório dura um ano para o ingresso no QOS, na condição de 2º Tenente Estagiário, e três anos para o QOM, na mesma condição, e para o QPPM, na graduação de Soldado PM de 2ª Classe. Para o QOPM, inicia-se com a matrícula no Bacharelado e se estende até a promoção ao posto inicial de Oficial.",
+   "tags": [
+    "ingresso",
+    "estagio-probatorio",
+    "prazos"
+   ]
+  },
+  {
+   "id": "ensino-elab-099",
+   "subtema": "Estágio probatório",
+   "artigo": "LC 1.291/16 — QOPM",
+   "enunciado": "O estágio probatório do candidato ao Quadro de Oficiais da Polícia Militar tem início com a matrícula no Bacharelado em Ciências Policiais de Segurança e Ordem Pública e",
+   "alternativas": [
+    "estende-se até a promoção ao posto inicial de Oficial do respectivo Quadro",
+    "encerra-se com a declaração de Aspirante a Oficial PM, após o curso",
+    "encerra-se ao final do terceiro ano do curso de formação de oficiais",
+    "estende-se até a conclusão do Mestrado em Ciências Policiais de Segurança"
+   ],
+   "correta": 0,
+   "explicacao": "O estágio probatório do QOPM se dá na graduação de Aluno-Oficial PM e se estende até a promoção ao posto inicial de Oficial. Concluído o Bacharelado com aproveitamento, o Aluno-Oficial é declarado Aspirante a Oficial PM e inicia o estágio administrativo-operacional.",
+   "tags": [
+    "ingresso",
+    "estagio-probatorio",
+    "qopm"
+   ]
+  },
+  {
+   "id": "ensino-elab-100",
+   "subtema": "Estágio probatório",
+   "artigo": "LC 1.291/16 — Aspirante a Oficial",
+   "enunciado": "Durante o estágio administrativo-operacional, o Aspirante a Oficial PM",
+   "alternativas": [
+    "permanece classificado no Órgão de Apoio de Ensino Superior onde se formou",
+    "exerce, com autonomia plena, as funções privativas do posto inicial de Oficial",
+    "mantém vínculo didático-pedagógico com a APMBB e serve em unidade territorial",
+    "fica dispensado da supervisão do comando, por já ter concluído o Bacharelado"
+   ],
+   "correta": 2,
+   "explicacao": "O Aspirante mantém vínculo didático-pedagógico com a APMBB e deve ser classificado em unidade territorial, onde exercerá, sob supervisão, as funções do posto inicial de Oficial até a promoção. A supervisão é elemento essencial do estágio.",
+   "tags": [
+    "ingresso",
+    "estagio-probatorio",
+    "aspirante"
+   ]
+  },
+  {
+   "id": "ensino-elab-101",
+   "subtema": "Estágio probatório",
+   "artigo": "LC 1.291/16 — Requisitos do estágio",
+   "enunciado": "Entre os requisitos verificados a qualquer tempo durante o estágio probatório, a Lei de Ingresso prevê a aptidão para a carreira, aferida",
+   "alternativas": [
+    "pela comissão de avaliação designada pelo Diretor de Ensino da Instituição",
+    "pelo conceito de aptidão emitido pelo Comandante da OPM do estagiário",
+    "pelo resultado dos exames psicológicos aplicados no concurso de ingresso",
+    "pelo desempenho escolar obtido no curso de formação correspondente"
+   ],
+   "correta": 1,
+   "explicacao": "A aptidão para a carreira é aferida pelo conceito de aptidão emitido pelo Comandante de sua OPM, oficial do posto de Coronel ou Tenente-Coronel. Somam-se a ela a conduta social, a dedicação ao serviço, o aproveitamento escolar, o perfil psicológico, a aptidão física, as condições de saúde e o comprometimento com os valores e deveres éticos.",
+   "tags": [
+    "ingresso",
+    "estagio-probatorio",
+    "requisitos"
+   ]
+  },
+  {
+   "id": "ensino-elab-102",
+   "subtema": "Estágio probatório",
+   "artigo": "LC 1.291/16 — Exoneração no estágio",
+   "enunciado": "Militar do Estado em estágio probatório deixa de preencher um dos requisitos exigidos pela Lei de Ingresso. Nesse caso, será",
+   "alternativas": [
+    "desligado do curso, mantendo-se o vínculo até decisão do Comando Geral",
+    "exonerado de plano, por se tratar de vínculo precário sem estabilidade",
+    "exonerado mediante processo específico, com ampla defesa e contraditório",
+    "submetido a nova avaliação semestral antes de qualquer medida definitiva"
+   ],
+   "correta": 2,
+   "explicacao": "A exoneração do militar em estágio probatório que deixa de preencher qualquer dos requisitos depende de processo específico, assegurados o contraditório e a ampla defesa. A precariedade do vínculo não dispensa o devido processo legal.",
+   "tags": [
+    "ingresso",
+    "estagio-probatorio",
+    "exoneracao"
+   ]
+  },
+  {
+   "id": "ensino-elab-103",
+   "subtema": "Nomeação e posse",
+   "artigo": "LC 1.291/16 — Candidata gestante",
+   "enunciado": "Empossada gestante é submetida a nova inspeção de saúde e obtém parecer médico contrário ao início do curso de formação. Nos termos da Lei de Ingresso, ela",
+   "alternativas": [
+    "será empenhada em atividades administrativas e matriculada no curso seguinte",
+    "terá a nomeação tornada sem efeito, com direito de inscrição em novo concurso",
+    "frequentará normalmente as atividades curriculares, com adaptação da carga",
+    "aguardará em licença o encerramento do período gestacional, sem exercício"
+   ],
+   "correta": 0,
+   "explicacao": "Com parecer contrário, a empossada gestante será empenhada em atividades administrativas na unidade responsável pelo desenvolvimento do curso durante o período gestacional e terá assegurado o direito de ser matriculada no primeiro curso iniciado após o encerramento da licença gestante. Havendo parecer favorável, frequenta normalmente as atividades curriculares.",
+   "tags": [
+    "ingresso",
+    "posse",
+    "gestante"
+   ]
+  },
+  {
+   "id": "ensino-elab-104",
+   "subtema": "Nomeação e posse",
+   "artigo": "LC 1.291/16 — Inobservância de requisitos",
+   "enunciado": "Constatado, após a realização da posse, que o militar do Estado não preenchia requisito de ingresso por fato preexistente, a invalidação da nomeação dar-se-á",
+   "alternativas": [
+    "de ofício, pela mesma autoridade que expediu o ato de nomeação",
+    "mediante instauração de processo administrativo de exoneração",
+    "por decisão do Comandante Geral, ouvido o órgão de pessoal da PM",
+    "somente por decisão judicial transitada em julgado sobre a matéria"
+   ],
+   "correta": 1,
+   "explicacao": "Antes da posse, a nomeação é invalidada pela mesma autoridade que expediu o ato; após a posse, a invalidação exige a instauração de processo administrativo de exoneração. O marco temporal da posse é o que define o procedimento aplicável.",
+   "tags": [
+    "ingresso",
+    "nomeacao",
+    "invalidacao"
+   ]
+  },
+  {
+   "id": "ensino-elab-105",
+   "subtema": "Estabilidade",
+   "artigo": "LC 1.291/16 — Perda do cargo",
+   "enunciado": "Após a aquisição da estabilidade, a perda do cargo pelo militar do Estado observa a seguinte disciplina:",
+   "alternativas": [
+    "a praça perde o cargo por processo administrativo ou sentença transitada em julgado",
+    "tanto o oficial quanto a praça somente perdem o cargo por sentença judicial",
+    "a praça somente perde o cargo por sentença judicial transitada em julgado",
+    "o oficial perde o cargo por processo administrativo regular ou sentença judicial"
+   ],
+   "correta": 0,
+   "explicacao": "A praça estável perde o cargo por processo administrativo ou por sentença judicial transitada em julgado, enquanto o oficial, por força da vitaliciedade, somente o perde por sentença judicial transitada em julgado. A troca entre as duas situações é a pegadinha mais explorada.",
+   "tags": [
+    "ingresso",
+    "estabilidade",
+    "perda-do-cargo"
+   ]
+  }
+ ]
+}

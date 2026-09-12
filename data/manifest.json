@@ -91,6 +91,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "ensino-elab",
+      "nome": "Lei de Ensino",
+      "nomeCompleto": "Sistema de Ensino da PMESP e ingresso nas carreiras policiais-militares (105 questões)",
+      "norma": "LC 1.036/08, Dec. 54.911/09 e LC 1.291/16",
+      "arquivo": "data/ensino-elab.json",
+      "cor": "#8a5a1f",
+      "ativo": true,
+      "ordem": 9,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
