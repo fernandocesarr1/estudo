@@ -201,6 +201,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "osop-elab",
+      "nome": "Ordens de serviço operacionais",
+      "nomeCompleto": "RAIA, tempo-resposta, dispositivos luminosos e sonoros e disparo em colete e viatura (114 questões)",
+      "norma": "OS PM3-002/02/14, PM3-003/02/17, PM3-011/02/18 e NI PM4-001/1.2/17",
+      "arquivo": "data/osop-elab.json",
+      "cor": "#1f6f5c",
+      "ativo": true,
+      "ordem": 19,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",

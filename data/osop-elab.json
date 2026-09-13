@@ -1,0 +1,2149 @@
+{
+  "materia": "osop-elab",
+  "versao": "1.5.0",
+  "atualizadoEm": "2026-09-13",
+  "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+  "subtemas": [
+    "Aplicação prática",
+    "Atribuições",
+    "Colete — Consolidação",
+    "Colete — Dados médicos",
+    "Colete — Dados técnicos",
+    "Colete — Fluxo",
+    "Colete — Fluxo excepcional",
+    "Colete — Formulário",
+    "Colete — Relatório",
+    "Colete — Reuniões",
+    "Colete — Sindicância",
+    "Defeitos",
+    "Difusão",
+    "Disparo em colete e viatura — Objeto",
+    "Dispositivos luminosos — Norma",
+    "Faróis — Emergência",
+    "Faróis — Regra geral",
+    "Fiscalização",
+    "Fundamentos",
+    "Giroflex — Alcance",
+    "Giroflex — Emergência",
+    "Giroflex — Regra geral",
+    "NORSOP — Estrutura",
+    "NORSOP — Pilares",
+    "NORSOP — Princípios",
+    "Procedimentos diferenciados",
+    "Proibições",
+    "RAIA — Atribuições",
+    "RAIA — Cabimento",
+    "RAIA — Conceito",
+    "RAIA — Controle",
+    "RAIA — Códigos",
+    "RAIA — Destinatário final",
+    "RAIA — Dever",
+    "RAIA — Forma",
+    "RAIA — Formulário",
+    "RAIA — Fundamento",
+    "RAIA — ICC",
+    "RAIA — Inserção",
+    "RAIA — Legitimado",
+    "RAIA — Medidas operacionais",
+    "RAIA — Natureza",
+    "RAIA — Remessa",
+    "RAIA — SIOPM Web",
+    "RAIA — TMD",
+    "RAIA — Tramitação",
+    "RAIA — Veículo abandonado",
+    "Sirene — Distinção",
+    "Sirene — Hipóteses",
+    "Tempo de resposta — Aplicação",
+    "Tempo de resposta — COPOM",
+    "Tempo de resposta — Conceito",
+    "Tempo de resposta — Equipamento defeituoso",
+    "Tempo de resposta — Finalidade",
+    "Tempo de resposta — Fiscalização",
+    "Tempo de resposta — Fundamento",
+    "Tempo de resposta — Instrução",
+    "Tempo de resposta — Marcas",
+    "Tempo de resposta — Meta",
+    "Tempo de resposta — Monitoramento",
+    "Tempo de resposta — NORSOP",
+    "Tempo de resposta — RAC",
+    "Tempo de resposta — Sem TMD",
+    "Tempo de resposta — Siglas",
+    "Tempo de resposta — TMD",
+    "Viatura — Apresentação",
+    "Viatura — Finalidade",
+    "Viatura — Fluxo",
+    "Viatura — Relatório",
+    "Viatura — Reparo",
+    "Viatura — Vistoria"
+  ],
+  "questoes": [
+    {
+      "id": "osop-elab-001",
+      "subtema": "RAIA — Conceito",
+      "artigo": "OS PM3-002/02/14 — Objeto",
+      "enunciado": "O Relatório sobre Averiguação de Incidente Administrativo destina-se a registrar a constatação de incidente relacionado à violação de normas",
+      "alternativas": [
+        "de trânsito cuja fiscalização compita exclusivamente aos órgãos municipais",
+        "penais e processuais penais que escapem à atribuição da Polícia Militar do Estado",
+        "disciplinares militares constatadas durante o serviço operacional das unidades",
+        "administrativas, sanitárias, fiscais, trabalhistas e civis, entre outras"
+      ],
+      "correta": 3,
+      "explicacao": "O RAIA registra a constatação de incidente administrativo relacionado à violação de normas administrativas, sanitárias, fiscais, trabalhistas, civis e congêneres, sem prejuízo das medidas de caráter operacional cabíveis.",
+      "tags": [
+        "raia",
+        "conceito"
+      ]
+    },
+    {
+      "id": "osop-elab-002",
+      "subtema": "RAIA — Fundamento",
+      "artigo": "OS PM3-002/02/14 — Polícia Comunitária",
+      "enunciado": "A elaboração do RAIA decorre da exigência de proatividade quanto aos aspectos da ordem pública, assim compreendidos",
+      "alternativas": [
+        "a segurança pública, a defesa civil e a atividade de bombeiro",
+        "a segurança, a moralidade e a incolumidade públicas",
+        "a segurança, a tranquilidade e a salubridade públicas",
+        "a prevenção criminal, a repressão imediata e a investigação"
+      ],
+      "correta": 2,
+      "explicacao": "A polícia comunitária exige proatividade nos três aspectos da ordem pública: segurança, tranquilidade e salubridade públicas, seja pela atividade policial, de bombeiro ou de defesa civil.",
+      "tags": [
+        "raia",
+        "ordem-publica"
+      ]
+    },
+    {
+      "id": "osop-elab-003",
+      "subtema": "RAIA — Fundamento",
+      "artigo": "OS PM3-002/02/14 — Atuação institucional",
+      "enunciado": "Além da segurança pública, com ações de prevenção e repressão imediata, a Polícia Militar atua, segundo a norma,",
+      "alternativas": [
+        "na apuração administrativa das irregularidades constatadas por outros órgãos públicos",
+        "na fiscalização direta das posturas municipais, substituindo os órgãos competentes",
+        "na contenção de toda violação aos direitos das pessoas, para melhorar a qualidade de vida",
+        "na aplicação de sanções administrativas aos responsáveis pelos incidentes constatados"
+      ],
+      "correta": 2,
+      "explicacao": "A norma destaca que a atuação da Corporação alcança a contenção de toda e qualquer violação aos direitos das pessoas, com vistas à melhoria da qualidade de vida, sem que isso implique assumir a atribuição de outros órgãos.",
+      "tags": [
+        "raia",
+        "fundamento"
+      ]
+    },
+    {
+      "id": "osop-elab-004",
+      "subtema": "RAIA — Legitimado",
+      "artigo": "OS PM3-002/02/14 — Preenchimento",
+      "enunciado": "O preenchimento do RAIA cabe ao policial militar que constatar ou for comunicado sobre indícios de incidente administrativo",
+      "alternativas": [
+        "exclusivamente durante o patrulhamento ostensivo preventivo em área territorial",
+        "em patrulhamento, no atendimento de ocorrências ou nas atividades de bombeiro e defesa civil",
+        "apenas no atendimento de ocorrências policiais despachadas pelo centro de operações",
+        "somente quando estiver empregado em Atividade Delegada junto ao município"
+      ],
+      "correta": 1,
+      "explicacao": "A legitimação é ampla e alcança o policial em patrulhamento, no atendimento de ocorrências policiais e ainda no exercício das atividades de bombeiro e de defesa civil, o que amplia a captação de incidentes administrativos.",
+      "tags": [
+        "raia",
+        "legitimado"
+      ]
+    },
+    {
+      "id": "osop-elab-005",
+      "subtema": "RAIA — Cabimento",
+      "artigo": "OS PM3-002/02/14 — Incidente administrativo",
+      "enunciado": "O incidente administrativo que enseja o preenchimento do RAIA é aquele que, de alguma forma,",
+      "alternativas": [
+        "configure infração penal de menor potencial ofensivo",
+        "possa afetar exclusivamente a segurança pública da área",
+        "possa afetar a ordem pública em qualquer de seus aspectos",
+        "esteja previsto como infração administrativa municipal"
+      ],
+      "correta": 2,
+      "explicacao": "O critério é a potencialidade de afetar a ordem pública em qualquer de seus aspectos, e não apenas a segurança pública; nem todo incidente administrativo enseja o relatório, mas apenas aquele com essa potencialidade.",
+      "tags": [
+        "raia",
+        "cabimento"
+      ]
+    },
+    {
+      "id": "osop-elab-006",
+      "subtema": "RAIA — Dever",
+      "artigo": "OS PM3-002/02/14 — Obrigatoriedade",
+      "enunciado": "Diante de incidente administrativo que enseje a elaboração do RAIA, o policial militar",
+      "alternativas": [
+        "poderá preenchê-lo, avaliando a oportunidade e a conveniência da medida",
+        "deverá preenchê-lo incontinenti, sem prejuízo das medidas operacionais cabíveis",
+        "deverá acionar a prefeitura regional para a resolução imediata do problema",
+        "poderá preenchê-lo apenas quando não houver medida operacional a adotar"
+      ],
+      "correta": 1,
+      "explicacao": "A norma emprega dever, não faculdade: o preenchimento é incontinenti e não substitui nem posterga as medidas de caráter operacional que eventualmente couberem.",
+      "tags": [
+        "raia",
+        "obrigatoriedade"
+      ]
+    },
+    {
+      "id": "osop-elab-007",
+      "subtema": "RAIA — Forma",
+      "artigo": "OS PM3-002/02/14 — Meios",
+      "enunciado": "O RAIA pode ser elaborado",
+      "alternativas": [
+        "por meio do Formulário PM O-31 ou via Terminal Móvel de Dados",
+        "somente por meio do Formulário PM O-31, vedado o meio eletrônico",
+        "por meio do Formulário PM O-31, do BO/PM ou via Terminal Móvel de Dados",
+        "somente via Terminal Móvel de Dados, extinto o formulário físico"
+      ],
+      "correta": 0,
+      "explicacao": "São dois os meios admitidos: o Formulário PM O-31 e a funcionalidade própria do Terminal Móvel de Dados; o boletim de ocorrência não é veículo de registro do incidente administrativo.",
+      "tags": [
+        "raia",
+        "forma"
+      ]
+    },
+    {
+      "id": "osop-elab-008",
+      "subtema": "RAIA — Formulário",
+      "artigo": "OS PM3-002/02/14 — Rasuras",
+      "enunciado": "Preenchido o RAIA por meio do Formulário PM O-31, havendo erro no preenchimento,",
+      "alternativas": [
+        "o formulário deverá ser refeito, pois não pode conter rasuras",
+        "admite-se a correção por ressalva assinada pelo policial que o elaborou",
+        "admite-se o uso de corretivo líquido, desde que anotado no relatório de serviço",
+        "o erro é sanado pelo oficial comandante imediato no momento da conferência"
+      ],
+      "correta": 0,
+      "explicacao": "O formulário deve ser preenchido e assinado pelo policial que constatou o incidente e não pode conter rasuras, o que significa refazê-lo quando houver erro; a alternativa sobre corretivo líquido é a distratora clássica da prova.",
+      "tags": [
+        "raia",
+        "formulario"
+      ]
+    },
+    {
+      "id": "osop-elab-009",
+      "subtema": "RAIA — Tramitação",
+      "artigo": "OS PM3-002/02/14 — Conferência",
+      "enunciado": "Após o preenchimento do Formulário PM O-31, a conferência e a assinatura competem",
+      "alternativas": [
+        "ao comandante de companhia territorial, dispensada a via do comandante imediato",
+        "ao graduado comandante imediato do policial militar que o elaborou",
+        "ao oficial comandante imediato do policial militar que elaborou o relatório",
+        "ao oficial de dia da unidade, antes do encerramento do turno de serviço"
+      ],
+      "correta": 2,
+      "explicacao": "A conferência e a assinatura são atribuídas ao oficial comandante imediato do policial que elaborou o RAIA; a substituição por graduado é a pegadinha recorrente nas provas.",
+      "tags": [
+        "raia",
+        "conferencia"
+      ]
+    },
+    {
+      "id": "osop-elab-010",
+      "subtema": "RAIA — Tramitação",
+      "artigo": "OS PM3-002/02/14 — Encaminhamento",
+      "enunciado": "Conferido pelo comandante imediato, o RAIA deverá ser encaminhado",
+      "alternativas": [
+        "ao comandante de batalhão, que decidirá sobre a pertinência do relatório",
+        "diretamente ao órgão público municipal responsável pela solução do incidente",
+        "ao centro de operações da área, para inserção imediata no sistema corporativo",
+        "ao Cmt Cia PM, em OPM territorial, ou ao Cmt, Ch, Dir ou Correg PM das demais"
+      ],
+      "correta": 3,
+      "explicacao": "O relatório segue ao Comandante de Companhia PM nas OPM territoriais ou ao Comandante, Chefe, Diretor ou Corregedor PM nas demais, autoridade que determinará a inserção no SIOPM Web, módulo ocorrências.",
+      "tags": [
+        "raia",
+        "encaminhamento"
+      ]
+    },
+    {
+      "id": "osop-elab-011",
+      "subtema": "RAIA — SIOPM Web",
+      "artigo": "OS PM3-002/02/14 — Vedação",
+      "enunciado": "É proibida a inserção das informações do RAIA no SIOPM Web sem prévia conferência dos dados pelo",
+      "alternativas": [
+        "oficial comandante do policial que o elaborou, sendo facultativo o formulário físico",
+        "oficial comandante do policial que o elaborou, exigido o formulário físico antes",
+        "graduado comandante do policial que o elaborou, exigido o formulário físico antes",
+        "oficial comandante do policial que o elaborou, mediante entrevista prévia com ele"
+      ],
+      "correta": 1,
+      "explicacao": "A vedação implica, obrigatoriamente, o preenchimento e a conferência do formulário físico pelo oficial comandante do elaborador antes de os dados serem lançados no módulo eletrônico.",
+      "tags": [
+        "raia",
+        "siopm"
+      ]
+    },
+    {
+      "id": "osop-elab-012",
+      "subtema": "RAIA — SIOPM Web",
+      "artigo": "OS PM3-002/02/14 — Finalidade da inserção",
+      "enunciado": "A inserção dos dados do incidente administrativo no SIOPM Web é necessária para que",
+      "alternativas": [
+        "o comandante de companhia possa validar o relatório elaborado pela guarnição",
+        "o órgão municipal competente seja notificado por ofício do incidente constatado",
+        "cópia do RAIA seja encaminhada automaticamente ao CIISP da Secretaria da Segurança",
+        "o relatório seja arquivado na companhia para consulta em caso de reincidência"
+      ],
+      "correta": 2,
+      "explicacao": "A inserção no sistema corporativo é a condição para o envio automático de cópia do RAIA ao Centro Integrado de Inteligência de Segurança Pública da SSP, o que integra o incidente à base estadual de dados.",
+      "tags": [
+        "raia",
+        "ciisp"
+      ]
+    },
+    {
+      "id": "osop-elab-013",
+      "subtema": "RAIA — Remessa",
+      "artigo": "OS PM3-002/02/14 — Integração eletrônica",
+      "enunciado": "Nos municípios em que houver integração eletrônica com a prefeitura ou com outro órgão público com atribuição legal,",
+      "alternativas": [
+        "o RAIA ou sua síntese deverá ser remetido eletronicamente ao órgão responsável",
+        "o RAIA será impresso e encaminhado por ofício, para garantir o registro formal",
+        "o RAIA será entregue pessoalmente por emissário da unidade policial-militar",
+        "o RAIA permanecerá arquivado na companhia até a solicitação do órgão público"
+      ],
+      "correta": 0,
+      "explicacao": "Havendo integração eletrônica, a remessa é eletrônica, do RAIA ou de sua síntese; inexistindo, o relatório é impresso e encaminhado por ofício ao órgão municipal, estadual ou federal competente.",
+      "tags": [
+        "raia",
+        "remessa"
+      ]
+    },
+    {
+      "id": "osop-elab-014",
+      "subtema": "RAIA — Remessa",
+      "artigo": "OS PM3-002/02/14 — Ausência de integração",
+      "enunciado": "Nos municípios sem integração eletrônica, o RAIA será encaminhado ao órgão com atribuição legal",
+      "alternativas": [
+        "somente após a solução do incidente pelas medidas operacionais adotadas",
+        "por mensagem eletrônica simples, dispensada a formalização por ofício",
+        "por intermédio do centro de operações da área, que fará a intermediação",
+        "impresso, por meio de ofício, ao órgão municipal, estadual ou federal competente"
+      ],
+      "correta": 3,
+      "explicacao": "Sem integração eletrônica, a remessa se faz por ofício, com o relatório impresso, ao órgão público municipal, estadual ou federal que tenha atribuição legal para conhecer do incidente administrativo.",
+      "tags": [
+        "raia",
+        "oficio"
+      ]
+    },
+    {
+      "id": "osop-elab-015",
+      "subtema": "RAIA — TMD",
+      "artigo": "OS PM3-002/02/14 — Funcionalidade",
+      "enunciado": "Acionada a funcionalidade RAIA no Terminal Móvel de Dados, o relatório é gerado automaticamente com",
+      "alternativas": [
+        "rol exemplificativo de opções, a ser complementado pelo comandante imediato",
+        "campo livre para descrição do incidente, sem indicação da localização do policial",
+        "necessidade de validação prévia pelo centro de operações antes da geração",
+        "georreferenciamento da localização e rol taxativo de opções, com envio imediato"
+      ],
+      "correta": 3,
+      "explicacao": "A funcionalidade gera o relatório automaticamente, valendo-se do georreferenciamento indicado pelo próprio terminal e de rol taxativo de opções, o que permite o envio imediato aos destinatários.",
+      "tags": [
+        "raia",
+        "tmd"
+      ]
+    },
+    {
+      "id": "osop-elab-016",
+      "subtema": "RAIA — TMD",
+      "artigo": "OS PM3-002/02/14 — Dispensa do formulário",
+      "enunciado": "Dispondo a unidade de Terminal Móvel de Dados com a funcionalidade RAIA, é correto afirmar que o policial militar",
+      "alternativas": [
+        "deve preencher também o formulário impresso, para garantir a tramitação",
+        "fica dispensado do preenchimento do formulário impresso para a tramitação",
+        "deve preencher o formulário impresso somente quando o incidente for grave",
+        "deve preencher o formulário impresso e anexá-lo ao relatório de serviço"
+      ],
+      "correta": 1,
+      "explicacao": "A exigência de preencher também o formulário impresso é justamente a assertiva incorreta cobrada em prova: o registro via TMD é autônomo e as informações são armazenadas na mesma base de dados dos RAIA inseridos no SIOPM Web.",
+      "tags": [
+        "raia",
+        "tmd",
+        "pegadinha"
+      ]
+    },
+    {
+      "id": "osop-elab-017",
+      "subtema": "RAIA — TMD",
+      "artigo": "OS PM3-002/02/14 — Base de dados",
+      "enunciado": "As informações do RAIA geradas pelo Terminal Móvel de Dados",
+      "alternativas": [
+        "ficam armazenadas no próprio terminal até a descarga mensal pela subfrota",
+        "constituem base de dados autônoma, acessível apenas ao comando da unidade",
+        "são transmitidas apenas ao órgão público responsável, sem registro interno",
+        "são registradas na mesma base em que ficam os RAIA inseridos no SIOPM Web"
+      ],
+      "correta": 3,
+      "explicacao": "A norma é expressa ao determinar que essas informações, complementarmente, sejam registradas na mesma base de dados em que são armazenados os RAIA inseridos no SIOPM Web pela OPM.",
+      "tags": [
+        "raia",
+        "tmd",
+        "base-dados"
+      ]
+    },
+    {
+      "id": "osop-elab-018",
+      "subtema": "RAIA — TMD",
+      "artigo": "OS PM3-002/02/14 — Vantagens",
+      "enunciado": "Entre as vantagens apontadas para o preenchimento do RAIA via Terminal Móvel de Dados está",
+      "alternativas": [
+        "a dispensa da conferência dos dados por oficial comandante do elaborador",
+        "a celeridade, a desburocratização e o abastecimento de informações em tempo real",
+        "a remessa direta ao CIISP, sem passagem pelo sistema corporativo da Corporação",
+        "a possibilidade de retificação posterior do relatório pelo próprio policial militar"
+      ],
+      "correta": 1,
+      "explicacao": "O TMD confere celeridade, desburocratização e abastecimento de informações em tempo real, sem afastar a estrutura de controle prevista para o registro no sistema corporativo.",
+      "tags": [
+        "raia",
+        "tmd",
+        "vantagens"
+      ]
+    },
+    {
+      "id": "osop-elab-019",
+      "subtema": "RAIA — Códigos",
+      "artigo": "OS PM3-002/02/14 — M-16-PM",
+      "enunciado": "Os incidentes administrativos motivadores da elaboração do RAIA são os constantes",
+      "alternativas": [
+        "da relação de infrações administrativas editada anualmente pela DTic",
+        "do anexo único da própria Ordem de Serviço, em rol exemplificativo",
+        "da tabela de naturezas de ocorrência do SIOPM Web, módulo ocorrências",
+        "da tabela de códigos do grupo Z do Manual M-16-PM da Corporação"
+      ],
+      "correta": 3,
+      "explicacao": "A norma remete à tabela de códigos do grupo Z do M-16-PM, que define os incidentes administrativos passíveis de registro por meio do relatório.",
+      "tags": [
+        "raia",
+        "codigos"
+      ]
+    },
+    {
+      "id": "osop-elab-020",
+      "subtema": "RAIA — Atribuições",
+      "artigo": "OS PM3-002/02/14 — DTic",
+      "enunciado": "Cabe à DTic, no âmbito da sistemática do RAIA,",
+      "alternativas": [
+        "viabilizar a inserção no módulo ocorrências e disponibilizar tutorial e manual",
+        "conferir os formulários físicos antes da inserção no sistema corporativo",
+        "encaminhar mensalmente os relatórios produzidos ao CIISP da Secretaria",
+        "definir os incidentes administrativos que ensejam a elaboração do relatório"
+      ],
+      "correta": 0,
+      "explicacao": "À DTic compete adotar as providências para que as OPM possam inserir as informações do Formulário PM O-31 no módulo ocorrências do SIOPM Web e disponibilizar o tutorial e o manual de preenchimento, atualizando-os quando necessário.",
+      "tags": [
+        "raia",
+        "dtic"
+      ]
+    },
+    {
+      "id": "osop-elab-021",
+      "subtema": "RAIA — Atribuições",
+      "artigo": "OS PM3-002/02/14 — Comandos",
+      "enunciado": "Os comandantes, chefes, diretores e o Corregedor PM que receberem a Ordem de Serviço deverão",
+      "alternativas": [
+        "zelar para que todo o efetivo sob seu comando seja orientado sobre a norma",
+        "validar individualmente cada relatório elaborado pelos policiais subordinados",
+        "encaminhar relatório mensal de incidentes administrativos ao Comando Geral",
+        "manter arquivo físico dos relatórios pelo prazo de cinco anos na unidade"
+      ],
+      "correta": 0,
+      "explicacao": "A atribuição fixada é de difusão e orientação: zelar para que todo o efetivo sob seu comando conheça o conteúdo da norma, sem prejuízo das atribuições específicas de conferência e inserção.",
+      "tags": [
+        "raia",
+        "comandos"
+      ]
+    },
+    {
+      "id": "osop-elab-022",
+      "subtema": "RAIA — Natureza",
+      "artigo": "OS PM3-002/02/14 — Polícia comunitária",
+      "enunciado": "Quanto à natureza do RAIA, é correto afirmar que se trata de instrumento que",
+      "alternativas": [
+        "documenta a atuação individual do policial para fins de avaliação de desempenho",
+        "resguarda a Corporação de críticas quanto a atribuições de outros órgãos públicos",
+        "viabiliza a premissa de que o policial é elo entre a comunidade e o poder público",
+        "substitui o registro de ocorrência quando o fato não configurar infração penal"
+      ],
+      "correta": 2,
+      "explicacao": "O RAIA concretiza a premissa de polícia comunitária segundo a qual o policial é elo entre a comunidade e o poder público, devendo buscar a identificação e a resolução conjunta dos problemas que afetam a ordem pública.",
+      "tags": [
+        "raia",
+        "natureza"
+      ]
+    },
+    {
+      "id": "osop-elab-023",
+      "subtema": "RAIA — Medidas operacionais",
+      "artigo": "OS PM3-002/02/14 — Concomitância",
+      "enunciado": "A elaboração do RAIA em relação às medidas de caráter operacional cabíveis",
+      "alternativas": [
+        "é subsidiária, pois só se justifica quando inexistir medida operacional possível",
+        "é cumulativa, pois o relatório não prejudica nem substitui aquelas medidas",
+        "é alternativa, cabendo ao policial optar pela providência mais eficaz no caso",
+        "é prejudicial, pois o registro do incidente suspende a atuação operacional"
+      ],
+      "correta": 1,
+      "explicacao": "A norma consigna que o registro do incidente administrativo se dá sem prejuízo das medidas operacionais que eventualmente couberem, o que afasta qualquer relação de alternatividade ou subsidiariedade.",
+      "tags": [
+        "raia",
+        "medidas-operacionais"
+      ]
+    },
+    {
+      "id": "osop-elab-024",
+      "subtema": "RAIA — Destinatário final",
+      "artigo": "OS PM3-002/02/14 — Órgão competente",
+      "enunciado": "O destinatário final do RAIA, para a solução do incidente administrativo, é",
+      "alternativas": [
+        "o Centro Integrado de Inteligência de Segurança Pública da Secretaria",
+        "o órgão público com atribuição legal para conhecer do incidente constatado",
+        "o Comando de Policiamento de Área a que se subordina a unidade elaboradora",
+        "o Ministério Público, a quem cabe requisitar as providências necessárias"
+      ],
+      "correta": 1,
+      "explicacao": "A solução do incidente compete ao órgão público municipal, estadual ou federal com atribuição legal; o envio de cópia ao CIISP decorre da inserção no sistema e tem finalidade de inteligência e consolidação de dados.",
+      "tags": [
+        "raia",
+        "destinatario"
+      ]
+    },
+    {
+      "id": "osop-elab-025",
+      "subtema": "RAIA — ICC",
+      "artigo": "OS PM3-002/02/14 — ICC 225",
+      "enunciado": "A Ordem de Serviço que disciplina o RAIA tem como instrução correspondente",
+      "alternativas": [
+        "a ICC 225, referenciada na própria norma",
+        "a ICC 220, comum às normas de proteção balística",
+        "as I-22-PM, do sistema integrado de treinamento",
+        "o M-16-PM, manual de códigos de ocorrência"
+      ],
+      "correta": 0,
+      "explicacao": "A norma do RAIA é a OS nº PM3-002/02/14, vinculada à ICC 225; a ICC 220 corresponde à NI PM4-001/1.2/17, sobre disparo em colete balístico e em viatura.",
+      "tags": [
+        "raia",
+        "icc"
+      ]
+    },
+    {
+      "id": "osop-elab-026",
+      "subtema": "RAIA — Formulário",
+      "artigo": "OS PM3-002/02/14 — Assinatura",
+      "enunciado": "O Formulário PM O-31 deve ser preenchido e assinado",
+      "alternativas": [
+        "pelo encarregado do serviço de dia da unidade de policiamento",
+        "pelo comandante de companhia da área em que ocorreu o incidente",
+        "pelo comandante imediato, com base no relato verbal do policial",
+        "pelo policial militar que constatou o incidente administrativo"
+      ],
+      "correta": 3,
+      "explicacao": "A assinatura é do policial que constatou o incidente; ao oficial comandante imediato cabe conferir e assinar em seguida, etapa distinta e obrigatória da tramitação.",
+      "tags": [
+        "raia",
+        "assinatura"
+      ]
+    },
+    {
+      "id": "osop-elab-027",
+      "subtema": "RAIA — Inserção",
+      "artigo": "OS PM3-002/02/14 — Determinação",
+      "enunciado": "A determinação de inserir as informações do RAIA no SIOPM Web, módulo ocorrências, compete",
+      "alternativas": [
+        "ao encarregado do centro de operações que recebeu a comunicação",
+        "ao oficial comandante imediato que conferiu e assinou o formulário",
+        "ao policial militar que constatou o incidente e elaborou o relatório",
+        "ao Cmt Cia PM territorial ou ao Cmt, Ch, Dir ou Correg PM das demais OPM"
+      ],
+      "correta": 3,
+      "explicacao": "Recebido o relatório conferido, a determinação de inserção no sistema é da autoridade destinatária: o Comandante de Companhia nas OPM territoriais ou o Comandante, Chefe, Diretor ou Corregedor nas demais.",
+      "tags": [
+        "raia",
+        "insercao"
+      ]
+    },
+    {
+      "id": "osop-elab-028",
+      "subtema": "RAIA — Veículo abandonado",
+      "artigo": "OS PM3-002/02/14 — Aplicação prática",
+      "enunciado": "A constatação de veículo abandonado e sem identificação em via pública, sem indícios de outros crimes, enseja",
+      "alternativas": [
+        "a elaboração do RAIA, além do registro da ocorrência policial-militar cabível",
+        "apenas o registro em boletim de ocorrência, dispensado o relatório de incidente",
+        "a preservação do local até a chegada da perícia técnico-científica da Polícia Civil",
+        "a remoção do veículo pela unidade de serviço ao pátio municipal credenciado"
+      ],
+      "correta": 0,
+      "explicacao": "A situação é exemplo clássico de incidente administrativo com repercussão na ordem pública, ensejando o RAIA para o órgão competente, sem prejuízo do registro próprio da ocorrência.",
+      "tags": [
+        "raia",
+        "aplicacao"
+      ]
+    },
+    {
+      "id": "osop-elab-029",
+      "subtema": "RAIA — Controle",
+      "artigo": "OS PM3-002/02/14 — Conferência prévia",
+      "enunciado": "A exigência de conferência prévia pelo oficial antes da inserção no sistema tem por finalidade",
+      "alternativas": [
+        "permitir que o oficial decida sobre a conveniência de encaminhar o relatório",
+        "transferir ao oficial a responsabilidade pela constatação do incidente administrativo",
+        "assegurar a fidedignidade dos dados que integrarão a base estadual de informações",
+        "substituir a assinatura do policial militar que constatou o incidente no local"
+      ],
+      "correta": 2,
+      "explicacao": "O controle hierárquico prévio visa à fidedignidade dos dados que serão inseridos no SIOPM Web e, por consequência, encaminhados ao CIISP, sem deslocar a autoria da constatação nem a assinatura do elaborador.",
+      "tags": [
+        "raia",
+        "controle"
+      ]
+    },
+    {
+      "id": "osop-elab-030",
+      "subtema": "Tempo de resposta — Fundamento",
+      "artigo": "OS PM3-003/02/17 — Finalidade",
+      "enunciado": "A aferição mais acurada do tempo de resposta e do tempo de empenho da unidade de serviço, propiciada pelas ferramentas tecnológicas, destina-se a",
+      "alternativas": [
+        "classificar as unidades de serviço segundo o número de ocorrências atendidas",
+        "instruir procedimentos disciplinares contra as guarnições com desempenho inferior",
+        "subsidiar os comandantes no planejamento da distribuição do efetivo em suas áreas",
+        "substituir os indicadores criminais na avaliação das unidades operacionais"
+      ],
+      "correta": 2,
+      "explicacao": "Os dados de tempo-resposta e de empenho, associados a outras informações, subsidiam os comandantes de OPM no planejamento acerca da forma como seus efetivos estão distribuídos nas respectivas áreas de atuação.",
+      "tags": [
+        "tempo-resposta",
+        "finalidade"
+      ]
+    },
+    {
+      "id": "osop-elab-031",
+      "subtema": "Tempo de resposta — NORSOP",
+      "artigo": "OS PM3-003/02/17 — Responsividade",
+      "enunciado": "A diretriz básica prevista na NORSOP de 2006 que diz respeito ao tempo de resposta às demandas de segurança pública é a",
+      "alternativas": [
+        "universalidade",
+        "proatividade",
+        "acessibilidade",
+        "responsividade"
+      ],
+      "correta": 3,
+      "explicacao": "A responsividade era a diretriz básica ligada ao tempo de resposta ao atendimento das demandas da sociedade; proatividade, acessibilidade e universalidade figuram entre os princípios básicos, não como diretriz de tempo-resposta.",
+      "tags": [
+        "tempo-resposta",
+        "norsop"
+      ]
+    },
+    {
+      "id": "osop-elab-032",
+      "subtema": "Tempo de resposta — Meta",
+      "artigo": "OS PM3-003/02/17 — PPA 2016-2019",
+      "enunciado": "O PPA 2016-2019 estabeleceu meta relativa ao percentual de ocorrências de natureza urgente atendidas em até vinte minutos, prevendo elevação",
+      "alternativas": [
+        "de sessenta por cento, aferido em 2014, para setenta por cento até 2018",
+        "de sessenta e seis por cento, aferido em 2014, para setenta e cinco por cento até 2019",
+        "de cinquenta por cento, aferido em 2015, para sessenta por cento até 2019",
+        "de cinquenta e oito por cento, aferido em 2014, para sessenta e seis por cento até 2019"
+      ],
+      "correta": 3,
+      "explicacao": "A meta do PPA 2016-2019 partia de cinquenta e oito por cento, índice aferido em 2014, para sessenta e seis por cento até 2019, tomando por referência as ocorrências urgentes atendidas em até vinte minutos.",
+      "tags": [
+        "tempo-resposta",
+        "meta"
+      ]
+    },
+    {
+      "id": "osop-elab-033",
+      "subtema": "Tempo de resposta — TMD",
+      "artigo": "OS PM3-003/02/17 — Horário de saída",
+      "enunciado": "No Terminal Móvel de Dados, o horário de saída corresponde ao momento em que",
+      "alternativas": [
+        "o COPOM conclui a triagem da solicitação recebida pelo serviço de emergência",
+        "a viatura efetivamente inicia o deslocamento em direção ao local dos fatos",
+        "a unidade visualiza na tela do terminal a ocorrência despachada pelo COPOM",
+        "a guarnição confirma por rádio o recebimento da ocorrência despachada"
+      ],
+      "correta": 2,
+      "explicacao": "O HS corresponde ao horário em que a US visualiza a ocorrência despachada pelo COPOM na tela do TMD, sendo registrado automaticamente pelo equipamento.",
+      "tags": [
+        "tempo-resposta",
+        "hs"
+      ]
+    },
+    {
+      "id": "osop-elab-034",
+      "subtema": "Tempo de resposta — TMD",
+      "artigo": "OS PM3-003/02/17 — Registro automático",
+      "enunciado": "São registrados automaticamente pelo equipamento os horários de",
+      "alternativas": [
+        "chegada e saída de locais intermediários, como delegacia e pronto-socorro",
+        "saída e de chegada e saída do local da ocorrência",
+        "saída final, correspondente ao encerramento e retorno ao patrulhamento",
+        "chegada ao local e de saída final da ocorrência atendida"
+      ],
+      "correta": 1,
+      "explicacao": "São automáticos o HS e os horários de chegada e saída do local da ocorrência; os horários de locais intermediários e o horário de saída final são registrados manualmente pela unidade no terminal.",
+      "tags": [
+        "tempo-resposta",
+        "automatico"
+      ]
+    },
+    {
+      "id": "osop-elab-035",
+      "subtema": "Tempo de resposta — TMD",
+      "artigo": "OS PM3-003/02/17 — Horário de saída final",
+      "enunciado": "O horário de saída final, que corresponde ao encerramento da ocorrência e ao retorno da viatura ao patrulhamento, é registrado",
+      "alternativas": [
+        "pelo COPOM, ao encerrar a ocorrência no sistema corporativo",
+        "automaticamente pelo equipamento, ao detectar o deslocamento da viatura",
+        "manualmente pela unidade de serviço no terminal móvel de dados",
+        "pelo comandante de grupo de patrulha, em relatório de serviço operacional"
+      ],
+      "correta": 2,
+      "explicacao": "O HSF é de registro manual pela US; afirmar que é automático é justamente a assertiva incorreta cobrada em prova sobre as funcionalidades do terminal.",
+      "tags": [
+        "tempo-resposta",
+        "hsf",
+        "pegadinha"
+      ]
+    },
+    {
+      "id": "osop-elab-036",
+      "subtema": "Tempo de resposta — TMD",
+      "artigo": "OS PM3-003/02/17 — Locais intermediários",
+      "enunciado": "Os horários de chegada e de saída de locais intermediários, como delegacia, instituto médico-legal e pronto-socorro,",
+      "alternativas": [
+        "são registrados manualmente pela unidade de serviço no terminal",
+        "são registrados automaticamente, por georreferenciamento do terminal",
+        "são informados pelo COPOM, mediante consulta ao sistema corporativo",
+        "são dispensados quando o deslocamento decorrer de determinação do delegado"
+      ],
+      "correta": 0,
+      "explicacao": "Os HCI e HSI são de lançamento manual pela unidade no terminal, diferentemente do HS e dos horários de chegada e saída do local da ocorrência, que são automáticos.",
+      "tags": [
+        "tempo-resposta",
+        "intermediarios"
+      ]
+    },
+    {
+      "id": "osop-elab-037",
+      "subtema": "Tempo de resposta — Marcas",
+      "artigo": "OS PM3-003/02/17 — Equipamentos",
+      "enunciado": "A norma determina que utilizem a funcionalidade de registro de horários, conforme procedimento próprio,",
+      "alternativas": [
+        "todas as unidades de serviço, ainda que sem terminal móvel de dados",
+        "as unidades de serviço com terminais aptos a registrar esses horários",
+        "apenas as unidades de serviço lotadas na região metropolitana da capital",
+        "somente as unidades de serviço empregadas em ocorrências urgentes"
+      ],
+      "correta": 1,
+      "explicacao": "A obrigação recai sobre as US cujos terminais estejam aptos ao registro dos horários; as que não dispõem desses equipamentos seguem regime próprio de informação via rádio.",
+      "tags": [
+        "tempo-resposta",
+        "equipamentos"
+      ]
+    },
+    {
+      "id": "osop-elab-038",
+      "subtema": "Tempo de resposta — Sem TMD",
+      "artigo": "OS PM3-003/02/17 — Procedimento supletivo",
+      "enunciado": "As unidades de serviço que ainda não dispõem de terminais aptos ao registro dos horários deverão",
+      "alternativas": [
+        "encaminhar planilha mensal de horários à seção operacional do batalhão",
+        "informar os dados via rádio ao COPOM ou CAD, cientificar o CGP e lançar no RSO",
+        "registrar os horários apenas no relatório de serviço operacional da guarnição",
+        "aguardar a substituição dos equipamentos, ficando dispensadas do registro"
+      ],
+      "correta": 1,
+      "explicacao": "O procedimento supletivo exige a informação via rádio ao centro de operações para registro no SIOPM, a solicitação de ciência ao Comandante de Grupo de Patrulha e o registro dos dados no Relatório de Serviço Operacional.",
+      "tags": [
+        "tempo-resposta",
+        "supletivo"
+      ]
+    },
+    {
+      "id": "osop-elab-039",
+      "subtema": "Tempo de resposta — COPOM",
+      "artigo": "OS PM3-003/02/17 — Registro no sistema",
+      "enunciado": "Informados os horários via rádio pelas unidades de serviço, compete aos COPOM e CAD",
+      "alternativas": [
+        "encaminhá-los à seção operacional do batalhão para consolidação",
+        "registrá-los no SIOPM Corp ou Web, conforme o sistema disponível",
+        "consolidá-los em relatório analítico mensal remetido ao comando de área",
+        "validá-los mediante conferência com o relatório de serviço operacional"
+      ],
+      "correta": 1,
+      "explicacao": "Os centros de operações registram no SIOPM Corp ou Web os horários de atendimento das ocorrências informados via rádio pelas unidades, garantindo que o dado ingresse na base corporativa.",
+      "tags": [
+        "tempo-resposta",
+        "copom"
+      ]
+    },
+    {
+      "id": "osop-elab-040",
+      "subtema": "Tempo de resposta — Fiscalização",
+      "artigo": "OS PM3-003/02/17 — Fiscalização primária",
+      "enunciado": "A fiscalização primária do registro dos horários das ocorrências nos terminais, pelas unidades subordinadas, é responsabilidade",
+      "alternativas": [
+        "dos centros de operações da área e da seção operacional do batalhão",
+        "dos comandantes de companhia e dos comandantes de batalhão",
+        "dos Comandantes de Grupo de Patrulha e dos Comandantes de Força Patrulha",
+        "da Coordenadoria de Operações, em monitoramento mensal centralizado"
+      ],
+      "correta": 2,
+      "explicacao": "A norma atribui aos CGP e CFP a fiscalização primária do registro dos horários pelas unidades de serviço a eles subordinadas, reservando outras atribuições aos comandos de batalhão e à Coordenadoria de Operações.",
+      "tags": [
+        "tempo-resposta",
+        "fiscalizacao"
+      ]
+    },
+    {
+      "id": "osop-elab-041",
+      "subtema": "Tempo de resposta — Instrução",
+      "artigo": "OS PM3-003/02/17 — Comandantes de batalhão",
+      "enunciado": "A instrução dos efetivos quanto à utilização da funcionalidade de registro dos horários no terminal compete",
+      "alternativas": [
+        "à Diretoria de Ensino e Cultura, mediante roteiro de instruções específico",
+        "aos comandantes de companhia, por intermédio dos comandantes de força patrulha",
+        "aos comandantes de batalhão, por intermédio de suas seções operacionais",
+        "ao Departamento de Tecnologia da Informação, por meio de tutorial próprio"
+      ],
+      "correta": 2,
+      "explicacao": "Os comandantes de batalhão, por meio das respectivas seções operacionais, respondem pela instrução dos efetivos, devendo providenciar o acesso às instruções de uso e manutenção dos terminais.",
+      "tags": [
+        "tempo-resposta",
+        "instrucao"
+      ]
+    },
+    {
+      "id": "osop-elab-042",
+      "subtema": "Tempo de resposta — Instrução",
+      "artigo": "OS PM3-003/02/17 — Intranet",
+      "enunciado": "As instruções de uso e manutenção dos terminais móveis de dados devem ser acessadas no portal da Intranet PM,",
+      "alternativas": [
+        "na aba Operacional, link Manuais Técnicos de Equipamentos",
+        "na aba Utilitários, link Instruções dos Sistemas Corporativos",
+        "na aba Utilitários, link Central de Serviços da Corporação",
+        "na aba Ensino, link Instruções Complementares de Capacitação"
+      ],
+      "correta": 1,
+      "explicacao": "A norma indica expressamente a aba Utilitários e o link Instruções dos Sistemas Corporativos, mesmo caminho em que se encontram os relatórios analíticos de business intelligence.",
+      "tags": [
+        "tempo-resposta",
+        "intranet"
+      ]
+    },
+    {
+      "id": "osop-elab-043",
+      "subtema": "Tempo de resposta — Equipamento defeituoso",
+      "artigo": "OS PM3-003/02/17 — Solicitação de ajuste",
+      "enunciado": "Havendo na OPM viatura sem terminal móvel de dados ou com equipamento sem condições de operação, o ajuste necessário deverá ser solicitado",
+      "alternativas": [
+        "pela Coordenadoria de Operações, no monitoramento mensal das prescrições",
+        "pelo comandante de grupo de patrulha, diretamente ao centro de operações da área",
+        "pela subfrota da unidade, mediante formulário de movimentação de materiais",
+        "pelo respectivo comandante, via canal técnico, pelo webchat da central de serviços"
+      ],
+      "correta": 3,
+      "explicacao": "A solicitação compete ao respectivo comandante e se faz pelo canal técnico, por intermédio do webchat da central de serviços disponível no portal da Intranet PM.",
+      "tags": [
+        "tempo-resposta",
+        "ajuste"
+      ]
+    },
+    {
+      "id": "osop-elab-044",
+      "subtema": "Tempo de resposta — Monitoramento",
+      "artigo": "OS PM3-003/02/17 — Coordenadoria de Operações",
+      "enunciado": "O monitoramento do cumprimento das prescrições sobre acompanhamento do tempo-resposta compete à Coordenadoria de Operações",
+      "alternativas": [
+        "mensalmente, por meio de relatórios analíticos de business intelligence",
+        "trimestralmente, por meio de reuniões de análise crítica com os comandos",
+        "semestralmente, por meio de relatórios consolidados enviados ao Subcomandante",
+        "anualmente, por meio de auditoria realizada nas unidades territoriais"
+      ],
+      "correta": 0,
+      "explicacao": "O monitoramento é mensal e se apoia nos relatórios analíticos fornecidos pelas ferramentas de business intelligence, acessíveis na aba Utilitários do portal da Intranet PM.",
+      "tags": [
+        "tempo-resposta",
+        "monitoramento"
+      ]
+    },
+    {
+      "id": "osop-elab-045",
+      "subtema": "Tempo de resposta — RAC",
+      "artigo": "OS PM3-003/02/17 — Reuniões de Análise Crítica",
+      "enunciado": "Para aprimorar o planejamento operacional das OPM territoriais, os comandantes devem incluir nas Reuniões de Análise Crítica",
+      "alternativas": [
+        "levantamento dos terminais defeituosos, com solicitação direta de substituição",
+        "avaliação disciplinar das guarnições com maior tempo de empenho nas ocorrências",
+        "exame pormenorizado do tempo-resposta, identificando fatores positivos e negativos",
+        "consolidação dos relatórios semestrais a serem remetidos ao Subcomandante PM"
+      ],
+      "correta": 2,
+      "explicacao": "O exame do tempo-resposta nas RAC busca identificar os fatores que contribuem positiva ou negativamente para o tempo aferido, permitindo definir estratégias de maior celeridade no atendimento à população.",
+      "tags": [
+        "tempo-resposta",
+        "rac"
+      ]
+    },
+    {
+      "id": "osop-elab-046",
+      "subtema": "Tempo de resposta — RAC",
+      "artigo": "OS PM3-003/02/17 — Comandos territoriais",
+      "enunciado": "A determinação de examinar o tempo-resposta nas Reuniões de Análise Crítica dirige-se, expressamente, às OPM territoriais integrantes",
+      "alternativas": [
+        "do CPC, do CPM e do CPI",
+        "do CPAmb, do CPRv e do CPTran",
+        "do CPChq, do CPAmb e do Corpo de Bombeiros",
+        "do CPC e do Comando de Policiamento de Choque"
+      ],
+      "correta": 0,
+      "explicacao": "A norma dirige a providência ao aprimoramento do planejamento operacional das OPM territoriais, isto é, das unidades do CPC, do CPM e do CPI, sem prejuízo das demais prescrições gerais.",
+      "tags": [
+        "tempo-resposta",
+        "territoriais"
+      ]
+    },
+    {
+      "id": "osop-elab-047",
+      "subtema": "Tempo de resposta — Finalidade",
+      "artigo": "OS PM3-003/02/17 — Celeridade",
+      "enunciado": "O resultado esperado do exame do tempo-resposta pelos comandos é",
+      "alternativas": [
+        "definir estratégias para promover maior celeridade no atendimento à população",
+        "reduzir o número de ocorrências despachadas às unidades de serviço territoriais",
+        "ampliar o efetivo das unidades com maior volume de ocorrências urgentes",
+        "padronizar o tempo máximo de empenho por natureza de ocorrência atendida"
+      ],
+      "correta": 0,
+      "explicacao": "A finalidade declarada é a definição de estratégias que promovam maior celeridade no atendimento à população, e não a fixação de tempos máximos padronizados por natureza de ocorrência.",
+      "tags": [
+        "tempo-resposta",
+        "celeridade"
+      ]
+    },
+    {
+      "id": "osop-elab-048",
+      "subtema": "Tempo de resposta — Siglas",
+      "artigo": "OS PM3-003/02/17 — Marcações",
+      "enunciado": "As marcações relacionadas ao atendimento de ocorrência compreendem os horários identificados pelas siglas",
+      "alternativas": [
+        "HS, HCL, HSL, HCI, HSI e HSC",
+        "HS, HCL, HSL, HCI, HSI e HSF",
+        "HD, HCL, HSL, HCI, HSI e HSF",
+        "HS, HCO, HSO, HCI, HSI e HSF"
+      ],
+      "correta": 1,
+      "explicacao": "As seis marcações são HS, HCL e HSL, HCI e HSI e HSF, correspondentes, respectivamente, à saída, à chegada e saída do local, à chegada e saída de locais intermediários e à saída final.",
+      "tags": [
+        "tempo-resposta",
+        "siglas"
+      ]
+    },
+    {
+      "id": "osop-elab-049",
+      "subtema": "NORSOP — Pilares",
+      "artigo": "OS PM3-003/02/17 — GESPOL",
+      "enunciado": "São apontados como os três pilares doutrinários do modelo de gestão operacional",
+      "alternativas": [
+        "excelência na gestão, acessibilidade e níveis de resposta",
+        "polícia comunitária, proatividade e autonomia operacional",
+        "direitos humanos, universalidade e equilíbrio de meios e recursos",
+        "polícia comunitária, direitos humanos e excelência na gestão"
+      ],
+      "correta": 3,
+      "explicacao": "Polícia comunitária, direitos humanos e excelência na gestão figuram como diretrizes básicas e pilares doutrinários; proatividade, autonomia operacional, universalidade, acessibilidade e equilíbrio de meios integram os princípios básicos.",
+      "tags": [
+        "norsop",
+        "gespol"
+      ]
+    },
+    {
+      "id": "osop-elab-050",
+      "subtema": "NORSOP — Estrutura",
+      "artigo": "OS PM3-003/02/17 — Estrutura básica",
+      "enunciado": "A estrutura básica prevista na NORSOP compreende",
+      "alternativas": [
+        "as matrizes operacionais I e II e os níveis de resposta 1 a 3",
+        "as matrizes operacionais I, II e III e os níveis de resposta 1 a 4",
+        "os três pilares doutrinários e os cinco princípios básicos",
+        "as diretrizes básicas e os níveis de supervisão operacional"
+      ],
+      "correta": 1,
+      "explicacao": "A estrutura básica é composta pelas matrizes operacionais I, II e III e pelos níveis de resposta 1 a 4, distintos das diretrizes e dos princípios básicos.",
+      "tags": [
+        "norsop",
+        "estrutura"
+      ]
+    },
+    {
+      "id": "osop-elab-051",
+      "subtema": "NORSOP — Princípios",
+      "artigo": "OS PM3-003/02/17 — Princípios básicos",
+      "enunciado": "Figuram entre os princípios básicos da NORSOP",
+      "alternativas": [
+        "hierarquia, disciplina, ostensividade, prevenção e repressão imediata",
+        "responsividade, celeridade, eficiência, economicidade e publicidade",
+        "polícia comunitária, direitos humanos, excelência na gestão e legalidade",
+        "acessibilidade, proatividade, autonomia operacional, equilíbrio e universalidade"
+      ],
+      "correta": 3,
+      "explicacao": "Os princípios básicos são acessibilidade, proatividade, autonomia operacional, equilíbrio de meios e recursos e universalidade; os três primeiros itens da alternativa incorreta correspondem às diretrizes básicas.",
+      "tags": [
+        "norsop",
+        "principios"
+      ]
+    },
+    {
+      "id": "osop-elab-052",
+      "subtema": "Tempo de resposta — Conceito",
+      "artigo": "OS PM3-003/02/17 — Empenho",
+      "enunciado": "Distinguem-se, na norma, o tempo de resposta e o tempo de empenho, sendo este último o período",
+      "alternativas": [
+        "transcorrido entre o despacho da ocorrência e a chegada ao local dos fatos",
+        "decorrido entre a solicitação da população e o despacho pelo centro de operações",
+        "despendido pela unidade de serviço na resolução da ocorrência atendida",
+        "utilizado pela unidade no deslocamento entre locais intermediários da ocorrência"
+      ],
+      "correta": 2,
+      "explicacao": "O tempo de resposta refere-se ao atendimento da solicitação de intervenção, ao passo que o tempo de empenho corresponde ao período despendido pela US na resolução da ocorrência, até o retorno ao patrulhamento.",
+      "tags": [
+        "tempo-resposta",
+        "empenho"
+      ]
+    },
+    {
+      "id": "osop-elab-053",
+      "subtema": "Tempo de resposta — Aplicação",
+      "artigo": "OS PM3-003/02/17 — Caso concreto",
+      "enunciado": "Guarnição sem terminal móvel de dados atende ocorrência urgente e conduz partes ao distrito policial. Quanto ao registro dos horários, a conduta correta é",
+      "alternativas": [
+        "registrar apenas o horário de saída final, por ser o único de controle manual",
+        "lançar os horários apenas no relatório de serviço operacional da guarnição",
+        "informar todos os horários via rádio ao centro e lançá-los também no RSO",
+        "aguardar a instalação do terminal para iniciar o registro dos horários"
+      ],
+      "correta": 2,
+      "explicacao": "Sem terminal apto, a US informa os dados via rádio ao COPOM ou CAD para registro no SIOPM, solicita ciência ao CGP e também registra os dados no RSO, providências cumulativas e não alternativas.",
+      "tags": [
+        "tempo-resposta",
+        "aplicacao"
+      ]
+    },
+    {
+      "id": "osop-elab-054",
+      "subtema": "Dispositivos luminosos — Norma",
+      "artigo": "OS PM3-011/02/18 — Revogação",
+      "enunciado": "A Ordem de Serviço nº PM3-011/02/18-Circular, que disciplina o uso de dispositivos luminosos e sonoros pelas viaturas,",
+      "alternativas": [
+        "alterou parcialmente a OS nº PM3-023/02/08-Circular, mantendo-a em vigor",
+        "revogou a OS nº PM3-023/02/08-Circular, de 30 de dezembro de 2008",
+        "revogou as prescrições da NORSOP sobre emprego de viaturas caracterizadas",
+        "complementou a Nota de Instrução sobre atendimento e registro de ocorrências"
+      ],
+      "correta": 1,
+      "explicacao": "A norma vigente revogou expressamente a OS nº PM3-023/02/08-Circular, de 30DEZ08, substituindo integralmente a disciplina anterior sobre giroflex, sirenes e faróis.",
+      "tags": [
+        "giroflex",
+        "norma"
+      ]
+    },
+    {
+      "id": "osop-elab-055",
+      "subtema": "Giroflex — Regra geral",
+      "artigo": "OS PM3-011/02/18 — Uso obrigatório",
+      "enunciado": "Todas as viaturas caracterizadas, operacionais ou administrativas, devem acionar o dispositivo luminoso de emergência",
+      "alternativas": [
+        "durante o dia e à noite, em todos os deslocamentos e estacionamentos preventivos",
+        "somente à noite, nos deslocamentos para atendimento de ocorrências urgentes",
+        "somente durante o dia, quando houver baixa visibilidade na via pública",
+        "apenas nos deslocamentos em situação de emergência caracterizada"
+      ],
+      "correta": 0,
+      "explicacao": "A regra é ampla: giroflex acionado de dia e à noite, em todos os deslocamentos e estacionamentos preventivos, o que amplia a ostensividade e a segurança do policial e dos demais usuários da via.",
+      "tags": [
+        "giroflex",
+        "regra-geral"
+      ]
+    },
+    {
+      "id": "osop-elab-056",
+      "subtema": "Giroflex — Alcance",
+      "artigo": "OS PM3-011/02/18 — Viaturas alcançadas",
+      "enunciado": "A obrigação de acionar o dispositivo luminoso de emergência alcança",
+      "alternativas": [
+        "apenas as viaturas operacionais empregadas em radiopatrulhamento",
+        "todas as viaturas caracterizadas, operacionais ou administrativas",
+        "todas as viaturas da Corporação, inclusive as descaracterizadas",
+        "apenas as viaturas caracterizadas das unidades territoriais"
+      ],
+      "correta": 1,
+      "explicacao": "A norma abrange todas as viaturas caracterizadas, sem distinguir entre operacionais e administrativas; as descaracterizadas não estão sujeitas à mesma prescrição de ostensividade.",
+      "tags": [
+        "giroflex",
+        "alcance"
+      ]
+    },
+    {
+      "id": "osop-elab-057",
+      "subtema": "Giroflex — Emergência",
+      "artigo": "OS PM3-011/02/18 — Permanência",
+      "enunciado": "Nas situações de emergência, quanto ao dispositivo luminoso de emergência, a norma prevê que",
+      "alternativas": [
+        "o giroflex seja acionado apenas na chegada ao local da ocorrência",
+        "o giroflex seja desligado para não comprometer o fator surpresa da abordagem",
+        "o giroflex seja substituído pelo uso exclusivo dos faróis altos da viatura",
+        "o giroflex permanece acionado durante toda a situação de emergência"
+      ],
+      "correta": 3,
+      "explicacao": "Se o giroflex já deve ser usado em todos os deslocamentos e estacionamentos preventivos, com maior razão permanece acionado nas situações de emergência e no atendimento de ocorrências.",
+      "tags": [
+        "giroflex",
+        "emergencia"
+      ]
+    },
+    {
+      "id": "osop-elab-058",
+      "subtema": "Sirene — Hipóteses",
+      "artigo": "OS PM3-011/02/18 — Uso",
+      "enunciado": "O uso da sirene pelas viaturas caracterizadas, operacionais ou administrativas, é admitido, durante o dia ou à noite,",
+      "alternativas": [
+        "somente nos deslocamentos para atendimento de ocorrências de natureza urgente",
+        "em todos os deslocamentos e estacionamentos preventivos, como o giroflex",
+        "nos deslocamentos para atendimento de ocorrências e em outras situações de emergência",
+        "apenas quando houver autorização expressa do centro de operações da área"
+      ],
+      "correta": 2,
+      "explicacao": "A sirene é admitida nos deslocamentos para atendimento de ocorrências e em outros deslocamentos ou situações, desde que caracterizada a emergência ou seja recomendável sua utilização; seu regime é mais restrito que o do giroflex.",
+      "tags": [
+        "sirene",
+        "hipoteses"
+      ]
+    },
+    {
+      "id": "osop-elab-059",
+      "subtema": "Sirene — Distinção",
+      "artigo": "OS PM3-011/02/18 — Comparação com o giroflex",
+      "enunciado": "Comparados os regimes do giroflex e da sirene, é correto afirmar que",
+      "alternativas": [
+        "ambos dependem de emergência caracterizada ou de recomendação do comando",
+        "ambos são de uso permanente em todos os deslocamentos das viaturas caracterizadas",
+        "a sirene é de uso permanente e o giroflex depende de emergência caracterizada",
+        "o giroflex é de uso permanente nos deslocamentos e a sirene é de uso condicionado"
+      ],
+      "correta": 3,
+      "explicacao": "A distinção é essencial: o giroflex acompanha todos os deslocamentos e estacionamentos preventivos, ao passo que a sirene pressupõe atendimento de ocorrência, emergência caracterizada ou recomendação de uso.",
+      "tags": [
+        "sirene",
+        "distincao"
+      ]
+    },
+    {
+      "id": "osop-elab-060",
+      "subtema": "Faróis — Regra geral",
+      "artigo": "OS PM3-011/02/18 — Faróis baixos",
+      "enunciado": "Nos deslocamentos, independentemente de local ou de horário, as viaturas caracterizadas deverão trafegar",
+      "alternativas": [
+        "com as luzes de posição acionadas, reservando os faróis à noite",
+        "com os faróis altos ligados, para ampliar a visibilidade",
+        "com os faróis baixos ligados, em qualquer via e horário",
+        "com os faróis baixos ligados apenas em vias não iluminadas"
+      ],
+      "correta": 2,
+      "explicacao": "A norma impõe faróis baixos ligados em todos os deslocamentos, independentemente de local ou horário, medida ligada à visibilidade e à segurança do policial militar.",
+      "tags": [
+        "farois",
+        "regra-geral"
+      ]
+    },
+    {
+      "id": "osop-elab-061",
+      "subtema": "Faróis — Emergência",
+      "artigo": "OS PM3-011/02/18 — Faróis altos",
+      "enunciado": "Nas situações de emergência, as viaturas caracterizadas",
+      "alternativas": [
+        "deverão manter apenas os faróis baixos, vedado o uso dos faróis altos",
+        "deverão substituir os faróis baixos pelos altos durante todo o deslocamento",
+        "poderão utilizar também os faróis altos, além do giroflex e da sirene",
+        "poderão utilizar os faróis altos somente em vias rurais não iluminadas"
+      ],
+      "correta": 2,
+      "explicacao": "Em emergência admite-se o uso adicional dos faróis altos, somando-se aos dispositivos luminosos e sonoros de emergência; trata-se de faculdade, e não de substituição dos faróis baixos.",
+      "tags": [
+        "farois",
+        "emergencia"
+      ]
+    },
+    {
+      "id": "osop-elab-062",
+      "subtema": "Procedimentos diferenciados",
+      "artigo": "OS PM3-011/02/18 — Autorização",
+      "enunciado": "Situações específicas que demandem uso diverso da norma geral admitem procedimentos diferenciados mediante autorização",
+      "alternativas": [
+        "do centro de operações da área, com anotação no sistema corporativo",
+        "dos oficiais e sargentos responsáveis, com registro no relatório de serviço",
+        "do comandante de grupo de patrulha, com comunicação ao centro de operações",
+        "dos oficiais responsáveis, com registro no respectivo relatório de serviço"
+      ],
+      "correta": 3,
+      "explicacao": "A autorização é dos oficiais responsáveis, devendo o fato constar dos respectivos RSO; a inclusão de sargentos entre os autorizadores é a assertiva incorreta reiteradamente cobrada em prova.",
+      "tags": [
+        "giroflex",
+        "autorizacao",
+        "pegadinha"
+      ]
+    },
+    {
+      "id": "osop-elab-063",
+      "subtema": "Procedimentos diferenciados",
+      "artigo": "OS PM3-011/02/18 — Registro",
+      "enunciado": "Adotado procedimento diferenciado quanto ao uso dos dispositivos, a formalidade exigida é",
+      "alternativas": [
+        "a consignação do fato no respectivo relatório de serviço operacional",
+        "a elaboração de relatório circunstanciado ao comandante de batalhão",
+        "a comunicação imediata ao centro de operações, por rede rádio",
+        "o registro em boletim de ocorrência policial-militar da unidade"
+      ],
+      "correta": 0,
+      "explicacao": "A norma exige que a adoção de procedimento diferenciado, ainda que autorizada, conste dos respectivos relatórios de serviço operacional, garantindo rastreabilidade da decisão.",
+      "tags": [
+        "giroflex",
+        "rso"
+      ]
+    },
+    {
+      "id": "osop-elab-064",
+      "subtema": "Proibições",
+      "artigo": "OS PM3-011/02/18 — Período noturno",
+      "enunciado": "É proibido o acionamento da sirene ou da buzina das viaturas para fins de testes e demais situações contrárias à norma no período compreendido entre",
+      "alternativas": [
+        "vinte e uma e seis horas",
+        "vinte e três e cinco horas",
+        "vinte e duas e seis horas",
+        "vinte e duas e cinco horas"
+      ],
+      "correta": 2,
+      "explicacao": "O intervalo fixado pela norma é das 22h00 às 06h00, período em que também se vedam alaridos, gritarias, algazarras e acelerações violentas dos motores.",
+      "tags": [
+        "giroflex",
+        "proibicoes",
+        "horario"
+      ]
+    },
+    {
+      "id": "osop-elab-065",
+      "subtema": "Proibições",
+      "artigo": "OS PM3-011/02/18 — Ruídos",
+      "enunciado": "Além dos testes de sirene e buzina no período vedado, a norma proíbe",
+      "alternativas": [
+        "o emprego dos faróis altos nas situações de emergência caracterizada",
+        "o uso do giroflex em estacionamentos preventivos no período noturno",
+        "alaridos, gritarias, algazarras e acelerações violentas dos motores",
+        "o acionamento do giroflex em deslocamentos administrativos da unidade"
+      ],
+      "correta": 2,
+      "explicacao": "A vedação alcança alaridos, gritarias, algazarras, acelerações violentas dos motores e outros ruídos que, por seu exagero e inutilidade, se tornem incômodos para a população.",
+      "tags": [
+        "giroflex",
+        "ruidos"
+      ]
+    },
+    {
+      "id": "osop-elab-066",
+      "subtema": "Proibições",
+      "artigo": "OS PM3-011/02/18 — Critério",
+      "enunciado": "O critério adotado pela norma para vedar os demais ruídos produzidos pelas viaturas é o de que",
+      "alternativas": [
+        "sejam exagerados e inúteis, tornando-se incômodos para a população",
+        "ultrapassem os limites de decibéis fixados pela legislação ambiental estadual",
+        "sejam produzidos fora das situações de emergência previamente autorizadas",
+        "ocorram em área residencial, ainda que durante o período diurno"
+      ],
+      "correta": 0,
+      "explicacao": "O critério normativo é o exagero e a inutilidade do ruído, com a consequente incomodidade à população, e não a aferição técnica de nível sonoro.",
+      "tags": [
+        "giroflex",
+        "criterio"
+      ]
+    },
+    {
+      "id": "osop-elab-067",
+      "subtema": "Defeitos",
+      "artigo": "OS PM3-011/02/18 — Comunicação",
+      "enunciado": "Constatado defeito no funcionamento dos dispositivos luminosos ou sonoros de emergência, o fato deve ser comunicado de imediato",
+      "alternativas": [
+        "ao Cmt F Ptr, ao Cmt Gp Ptr e ao oficial ou seção responsável pela manutenção",
+        "exclusivamente à subfrota da unidade, para abertura de ordem de serviço",
+        "ao centro de operações da área, que determinará o recolhimento da viatura",
+        "ao comandante de companhia, que decidirá sobre a continuidade do emprego"
+      ],
+      "correta": 0,
+      "explicacao": "A comunicação é tríplice, ao Comandante de Força Patrulha, ao Comandante de Grupo de Patrulha e ao oficial ou seção responsável pela manutenção, para que os reparos ocorram com a máxima urgência.",
+      "tags": [
+        "giroflex",
+        "defeitos"
+      ]
+    },
+    {
+      "id": "osop-elab-068",
+      "subtema": "Defeitos",
+      "artigo": "OS PM3-011/02/18 — Formalidade",
+      "enunciado": "A constatação de defeito nos dispositivos luminosos ou sonoros de emergência deve, ainda,",
+      "alternativas": [
+        "ser objeto de sindicância para apuração de eventual dano ao material",
+        "ser registrada em boletim de ocorrência policial-militar próprio",
+        "ser comunicada ao CIISP, para consolidação estatística estadual",
+        "constar do relatório de serviço operacional da unidade de serviço"
+      ],
+      "correta": 3,
+      "explicacao": "Além da comunicação imediata às autoridades indicadas, a norma exige que o fato conste do RSO, o que documenta a ciência e a urgência do reparo.",
+      "tags": [
+        "giroflex",
+        "rso"
+      ]
+    },
+    {
+      "id": "osop-elab-069",
+      "subtema": "Difusão",
+      "artigo": "OS PM3-011/02/18 — COPOM e CAD",
+      "enunciado": "Os COPOM e CAD deverão promover a difusão do uso do giroflex e da sirene via rede rádio",
+      "alternativas": [
+        "três vezes por turno de serviço, desde que o fluxo de comunicações permita",
+        "duas vezes por turno de serviço, independentemente do fluxo de comunicações",
+        "uma vez por turno de serviço, preferencialmente no início do expediente",
+        "diariamente, em horário fixado pelo comando de policiamento de área"
+      ],
+      "correta": 0,
+      "explicacao": "A difusão é de três vezes por turno de serviço, condicionada à disponibilidade do fluxo de comunicações, medida que reforça o cumprimento da norma pelas guarnições em atividade.",
+      "tags": [
+        "giroflex",
+        "difusao"
+      ]
+    },
+    {
+      "id": "osop-elab-070",
+      "subtema": "Fiscalização",
+      "artigo": "OS PM3-011/02/18 — Comando e supervisão",
+      "enunciado": "Aos oficiais e graduados em função de comando e supervisão incumbe, quanto à Ordem de Serviço,",
+      "alternativas": [
+        "apenas instruir os policiais, cabendo a fiscalização à seção operacional",
+        "instruir os policiais e fiscalizar o cumprimento, adotando as medidas cabíveis",
+        "apenas fiscalizar o cumprimento, cabendo a instrução à Diretoria de Ensino",
+        "autorizar procedimentos diferenciados quanto ao uso dos dispositivos"
+      ],
+      "correta": 1,
+      "explicacao": "A atribuição é dupla, instruir e fiscalizar, com adoção das medidas administrativas e disciplinares pertinentes quando constatada inconformidade ou descumprimento; a autorização de procedimento diferenciado é privativa dos oficiais responsáveis.",
+      "tags": [
+        "giroflex",
+        "fiscalizacao"
+      ]
+    },
+    {
+      "id": "osop-elab-071",
+      "subtema": "Fundamentos",
+      "artigo": "OS PM3-011/02/18 — Tecnologia",
+      "enunciado": "Entre os fundamentos considerados pela norma está o aperfeiçoamento tecnológico dos dispositivos adquiridos pela Corporação, que passaram a utilizar como fonte luminosa",
+      "alternativas": [
+        "o diodo emissor de luz, atualmente padrão nos equipamentos adquiridos",
+        "a lâmpada halógena de alta intensidade, hoje padrão nos equipamentos",
+        "a lâmpada estroboscópica de descarga, hoje padrão nos equipamentos",
+        "a lâmpada incandescente reforçada, hoje padrão nos equipamentos"
+      ],
+      "correta": 0,
+      "explicacao": "A norma considera a adoção do LED como fonte luminosa, tecnologia de menor consumo, o que sustenta a ampliação das hipóteses de uso do dispositivo luminoso.",
+      "tags": [
+        "giroflex",
+        "led"
+      ]
+    },
+    {
+      "id": "osop-elab-072",
+      "subtema": "Fundamentos",
+      "artigo": "OS PM3-011/02/18 — Ostensividade",
+      "enunciado": "Segundo os fundamentos da norma, a utilização dos dispositivos luminosos da viatura",
+      "alternativas": [
+        "destina-se primordialmente a identificar a viatura perante os órgãos de trânsito",
+        "compromete o fator surpresa, devendo ser ponderada caso a caso pela guarnição",
+        "tem finalidade exclusiva de sinalização em situações de emergência caracterizada",
+        "amplia a ostensividade, refletindo na prevenção criminal e na segurança do trânsito"
+      ],
+      "correta": 3,
+      "explicacao": "A norma fundamenta a ampliação do uso na ostensividade, com reflexo direto na prevenção criminal e na segurança do trânsito, contribuindo para a preservação da vida e da integridade física de policiais e cidadãos.",
+      "tags": [
+        "giroflex",
+        "ostensividade"
+      ]
+    },
+    {
+      "id": "osop-elab-073",
+      "subtema": "Fundamentos",
+      "artigo": "OS PM3-011/02/18 — Sistema elétrico",
+      "enunciado": "Quanto ao risco de descarga da bateria pelo uso do dispositivo luminoso com o motor desligado, a norma considera que os sistemas elétricos atuais",
+      "alternativas": [
+        "limitam o uso do dispositivo a trinta minutos com o motor desligado",
+        "impedem o acionamento do giroflex enquanto o motor estiver desligado",
+        "exigem a manutenção do motor ligado durante os estacionamentos preventivos",
+        "reservam automaticamente carga para a partida, desligando o sistema luminoso"
+      ],
+      "correta": 3,
+      "explicacao": "Os atuais sistemas elétricos contemplam dispositivo de segurança que reserva automaticamente carga para a partida do motor, desligando o sistema luminoso e evitando a descarga total da bateria.",
+      "tags": [
+        "giroflex",
+        "bateria"
+      ]
+    },
+    {
+      "id": "osop-elab-074",
+      "subtema": "Fundamentos",
+      "artigo": "OS PM3-011/02/18 — Tempo de uso",
+      "enunciado": "Quanto ao tempo de uso do dispositivo luminoso com o motor desligado, é correto afirmar que a norma",
+      "alternativas": [
+        "não fixa tempos distintos conforme a lâmpada seja de LED ou halógena",
+        "fixa maior tempo para lâmpadas de LED e menor para halógenas",
+        "fixa maior tempo para lâmpadas halógenas e menor para as de LED",
+        "fixa tempo único de uma hora, qualquer que seja a fonte luminosa"
+      ],
+      "correta": 0,
+      "explicacao": "A norma não estabelece tempos diferenciados por tipo de lâmpada; a afirmação de que haveria maior tempo para LED e menor para halógenas é a assertiva incorreta cobrada em prova.",
+      "tags": [
+        "giroflex",
+        "tempo",
+        "pegadinha"
+      ]
+    },
+    {
+      "id": "osop-elab-075",
+      "subtema": "Fundamentos",
+      "artigo": "OS PM3-011/02/18 — Valorização do efetivo",
+      "enunciado": "A norma insere a padronização do uso dos dispositivos no contexto da melhoria da qualidade dos serviços prestados, notadamente por medidas que objetivam",
+      "alternativas": [
+        "o aumento da visibilidade e da própria segurança do policial militar",
+        "a redução do consumo de combustível e a economia de recursos materiais",
+        "a padronização estética da frota operacional e administrativa da Corporação",
+        "a uniformização dos procedimentos de manutenção preventiva das viaturas"
+      ],
+      "correta": 0,
+      "explicacao": "A melhoria da qualidade dos serviços passa pela padronização de procedimentos e por sistemáticas de valorização do efetivo, com destaque para o aumento da visibilidade e da segurança do policial militar.",
+      "tags": [
+        "giroflex",
+        "valorizacao"
+      ]
+    },
+    {
+      "id": "osop-elab-076",
+      "subtema": "Aplicação prática",
+      "artigo": "OS PM3-011/02/18 — Estacionamento preventivo",
+      "enunciado": "Viatura caracterizada em estacionamento preventivo, às quinze horas, em via movimentada, deve",
+      "alternativas": [
+        "manter apenas as luzes de posição, reservando o giroflex à noite",
+        "manter o dispositivo luminoso de emergência acionado normalmente",
+        "manter o giroflex desligado, por inexistir situação de emergência",
+        "acionar giroflex e sirene simultaneamente, para ampliar a ostensividade"
+      ],
+      "correta": 1,
+      "explicacao": "O estacionamento preventivo está expressamente entre as hipóteses de uso do giroflex, de dia e à noite; a sirene, porém, depende de atendimento de ocorrência, emergência caracterizada ou recomendação de uso.",
+      "tags": [
+        "giroflex",
+        "aplicacao"
+      ]
+    },
+    {
+      "id": "osop-elab-077",
+      "subtema": "Aplicação prática",
+      "artigo": "OS PM3-011/02/18 — Deslocamento administrativo",
+      "enunciado": "Viatura caracterizada administrativa em deslocamento para entrega de documentos, ao meio-dia, deve",
+      "alternativas": [
+        "acionar o giroflex somente ao cruzar áreas de maior incidência criminal",
+        "trafegar apenas com faróis baixos, por inexistir atendimento de ocorrência",
+        "trafegar sem dispositivos acionados, por se tratar de viatura administrativa",
+        "trafegar com faróis baixos e dispositivo luminoso de emergência acionado"
+      ],
+      "correta": 3,
+      "explicacao": "A norma não distingue viaturas operacionais e administrativas: ambas, quando caracterizadas, trafegam com faróis baixos ligados e com o dispositivo luminoso de emergência acionado em todos os deslocamentos.",
+      "tags": [
+        "giroflex",
+        "administrativa"
+      ]
+    },
+    {
+      "id": "osop-elab-078",
+      "subtema": "Aplicação prática",
+      "artigo": "OS PM3-011/02/18 — Teste noturno",
+      "enunciado": "Guarnição que, às vinte e três horas, aciona a sirene para testar o equipamento no pátio da unidade",
+      "alternativas": [
+        "contraria a norma, que veda o acionamento para testes entre vinte e duas e seis horas",
+        "age corretamente, pois o teste em pátio fechado está excluído da vedação",
+        "age corretamente, desde que anote o teste no relatório de serviço operacional",
+        "contraria a norma apenas se houver reclamação formal de moradores vizinhos"
+      ],
+      "correta": 0,
+      "explicacao": "A vedação é objetiva quanto ao período das 22h00 às 06h00 e alcança os testes, independentemente do local ou de reclamação, cabendo as medidas administrativas e disciplinares pertinentes.",
+      "tags": [
+        "giroflex",
+        "teste"
+      ]
+    },
+    {
+      "id": "osop-elab-079",
+      "subtema": "Disparo em colete e viatura — Objeto",
+      "artigo": "NI PM4-001/1.2/17 — Objeto",
+      "enunciado": "A NI PM4-001/1.2/17 regula a coleta, a catalogação e a consolidação de informações",
+      "alternativas": [
+        "disciplinares sobre o emprego de arma de fogo pelo policial militar em serviço",
+        "exclusivamente técnicas sobre o desempenho do colete balístico atingido",
+        "técnicas e médicas sobre disparo de arma de fogo em colete balístico e em viatura",
+        "estatísticas sobre confrontos armados envolvendo unidades de serviço da Corporação"
+      ],
+      "correta": 2,
+      "explicacao": "A norma abrange informações técnicas e médicas sobre disparos em colete balístico e em viatura, além de análises quanto à frequência e às superfícies atingidas pelos disparos.",
+      "tags": [
+        "colete",
+        "objeto"
+      ]
+    },
+    {
+      "id": "osop-elab-080",
+      "subtema": "Colete — Dados técnicos",
+      "artigo": "NI PM4-001/1.2/17 — Agência de Área",
+      "enunciado": "Ocorrendo disparo de arma de fogo em colete balístico, deverá dirigir-se ao local para coletar os dados técnicos e fotografar as placas de proteção",
+      "alternativas": [
+        "o policial militar da Agência de Área do ocorrido",
+        "o Comandante de Força Patrulha responsável pelo setor",
+        "o supervisor regional de serviço no momento do fato",
+        "o comandante de companhia do policial militar atingido"
+      ],
+      "correta": 0,
+      "explicacao": "A atribuição é do policial militar da Agência de Área do ocorrido, que coleta os dados e tira as fotos das placas conforme o Formulário de Impacto de Tiro Contra Colete.",
+      "tags": [
+        "colete",
+        "agencia-area"
+      ]
+    },
+    {
+      "id": "osop-elab-081",
+      "subtema": "Colete — Formulário",
+      "artigo": "NI PM4-001/1.2/17 — Formulário próprio",
+      "enunciado": "A coleta dos dados técnicos referentes à proteção balística do colete observa",
+      "alternativas": [
+        "o Formulário de Movimentação de Materiais da OPM",
+        "o Formulário de Impacto de Tiro Contra Colete",
+        "o Formulário PM O-31, comum aos incidentes administrativos",
+        "o formulário de ferimento por projétil sobre colete balístico"
+      ],
+      "correta": 1,
+      "explicacao": "O documento técnico é o Formulário de Impacto de Tiro Contra Colete; o formulário de ferimento por projétil é médico, preenchido por oficial médico, e o FMM é logístico, elaborado pelo P/4.",
+      "tags": [
+        "colete",
+        "formulario"
+      ]
+    },
+    {
+      "id": "osop-elab-082",
+      "subtema": "Colete — Fluxo",
+      "artigo": "NI PM4-001/1.2/17 — Encaminhamento",
+      "enunciado": "Colhidos os dados e as fotos das placas do colete, o policial militar da Agência de Área encaminha-os",
+      "alternativas": [
+        "ao Serviço de Dia da unidade, que os remeterá ao comando de área",
+        "diretamente ao Centro de Material Bélico, via notes",
+        "à Agência Regional e à Sala de Situação da área",
+        "ao Centro Médico, que consolidará as informações técnicas e médicas"
+      ],
+      "correta": 2,
+      "explicacao": "O fluxo ordinário segue da Agência de Área para a Agência Regional e a Sala de Situação, cabendo a esta cientificar o Chefe da CIPM e remeter cópia ao CMB.",
+      "tags": [
+        "colete",
+        "fluxo"
+      ]
+    },
+    {
+      "id": "osop-elab-083",
+      "subtema": "Colete — Fluxo",
+      "artigo": "NI PM4-001/1.2/17 — Sala de Situação",
+      "enunciado": "Recebidos os dados e as fotos do colete atingido, a Sala de Situação deverá",
+      "alternativas": [
+        "cientificar o Comandante de Força Patrulha e arquivar os dados na agência regional",
+        "cientificar o Chefe da CIPM e remeter cópia, via notes, à Seção de Materiais do CMB",
+        "remeter os dados diretamente ao Subcomandante PM, para consolidação semestral",
+        "encaminhar o colete atingido ao Instituto de Criminalística para perícia técnica"
+      ],
+      "correta": 1,
+      "explicacao": "A Sala de Situação cientifica o Chefe da CIPM e remete cópia, via notes, à Seção de Materiais do CMB, para análise de desempenho do material de proteção balística.",
+      "tags": [
+        "colete",
+        "sala-situacao"
+      ]
+    },
+    {
+      "id": "osop-elab-084",
+      "subtema": "Colete — Fluxo excepcional",
+      "artigo": "NI PM4-001/1.2/17 — Ausência da Agência de Área",
+      "enunciado": "Não havendo policial militar da Agência de Área de serviço no momento da ocorrência, os procedimentos serão realizados, excepcionalmente, por unidade de serviço designada",
+      "alternativas": [
+        "pelo Comando de Policiamento de Área",
+        "pelo Comando de Força Patrulha",
+        "pelo Chefe da Controladoria Interna",
+        "pelo comandante de companhia do policial atingido"
+      ],
+      "correta": 1,
+      "explicacao": "A designação excepcional é do Comando de Força Patrulha; a unidade designada coleta os dados e as fotos e os encaminha ao Serviço de Dia, que os remete à Agência de Área.",
+      "tags": [
+        "colete",
+        "excepcional"
+      ]
+    },
+    {
+      "id": "osop-elab-085",
+      "subtema": "Colete — Fluxo excepcional",
+      "artigo": "NI PM4-001/1.2/17 — Encadeamento",
+      "enunciado": "No fluxo excepcional, após a coleta pela unidade de serviço designada, a sequência correta de encaminhamento é",
+      "alternativas": [
+        "Serviço de Dia, Sala de Situação, Agência Regional e Agência de Área",
+        "Serviço de Dia, Agência de Área, Agência Regional e Sala de Situação",
+        "Agência Regional, Agência de Área, Serviço de Dia e Sala de Situação",
+        "Sala de Situação, Serviço de Dia, Agência de Área e Agência Regional"
+      ],
+      "correta": 1,
+      "explicacao": "A unidade designada encaminha ao Serviço de Dia, que remete à Agência de Área, a qual envia à Agência Regional e à Sala de Situação; esta cientifica o Chefe da CIPM e remete cópia, via notes, ao CMB.",
+      "tags": [
+        "colete",
+        "encadeamento"
+      ]
+    },
+    {
+      "id": "osop-elab-086",
+      "subtema": "Colete — Sindicância",
+      "artigo": "NI PM4-001/1.2/17 — Restituição do patrimônio",
+      "enunciado": "Quanto ao colete atingido, o oficial sindicante deverá ser diligente na restituição do patrimônio do Estado, após realizada a perícia",
+      "alternativas": [
+        "pela Divisão de Fiscalização de Produtos Controlados do Exército",
+        "pelo Laboratório de Análise Balística da Diretoria de Saúde",
+        "pelo Setor de Perícias da Corregedoria PM",
+        "pelo Instituto de Criminalística"
+      ],
+      "correta": 3,
+      "explicacao": "A perícia é do Instituto de Criminalística; concluída, o sindicante encaminha o colete e cópia do laudo ao CMB, acompanhados do Formulário de Movimentação de Materiais.",
+      "tags": [
+        "colete",
+        "pericia"
+      ]
+    },
+    {
+      "id": "osop-elab-087",
+      "subtema": "Colete — Sindicância",
+      "artigo": "NI PM4-001/1.2/17 — Destino do colete",
+      "enunciado": "Realizada a perícia no colete balístico atingido, ele deve ser encaminhado, com cópia do laudo,",
+      "alternativas": [
+        "à Sala de Situação, que o remeterá à Agência Regional correspondente",
+        "ao P/4 da OPM, que o manterá em depósito até deliberação do comando",
+        "ao Centro Médico, para estudo conjunto dos aspectos técnicos e médicos",
+        "ao CMB, acompanhado do Formulário de Movimentação de Materiais"
+      ],
+      "correta": 3,
+      "explicacao": "O destino é o CMB, com cópia do laudo e o FMM elaborado pelo oficial P/4 da OPM; afirmar que o colete é encaminhado ao P/4 é a assertiva incorreta cobrada em prova.",
+      "tags": [
+        "colete",
+        "destino",
+        "pegadinha"
+      ]
+    },
+    {
+      "id": "osop-elab-088",
+      "subtema": "Colete — Sindicância",
+      "artigo": "NI PM4-001/1.2/17 — FMM",
+      "enunciado": "O Formulário de Movimentação de Materiais que acompanha o colete encaminhado ao CMB é elaborado",
+      "alternativas": [
+        "pelo policial militar da Agência de Área do ocorrido",
+        "pelo oficial sindicante do procedimento instaurado",
+        "pelo chefe da subfrota da unidade policial-militar",
+        "pelo oficial P/4 da organização policial-militar"
+      ],
+      "correta": 3,
+      "explicacao": "O FMM é de elaboração do oficial P/4 da OPM, ao passo que a diligência quanto à restituição do patrimônio do Estado é do oficial sindicante.",
+      "tags": [
+        "colete",
+        "fmm"
+      ]
+    },
+    {
+      "id": "osop-elab-089",
+      "subtema": "Colete — Dados médicos",
+      "artigo": "NI PM4-001/1.2/17 — Socorro",
+      "enunciado": "O policial militar atingido no colete balístico deverá, em qualquer hipótese,",
+      "alternativas": [
+        "ser submetido a perícia médica pelo Chefe do Departamento de Perícias Médicas",
+        "ser apresentado à unidade de saúde detentora de seu prontuário no mesmo dia",
+        "ser socorrido a um hospital, qualquer que seja a lesão constatada",
+        "permanecer no local até a chegada do policial da Agência de Área"
+      ],
+      "correta": 2,
+      "explicacao": "A norma determina o socorro hospitalar do policial atingido, desdobrando-se o procedimento conforme haja internação ou atendimento com liberação.",
+      "tags": [
+        "colete",
+        "socorro"
+      ]
+    },
+    {
+      "id": "osop-elab-090",
+      "subtema": "Colete — Dados médicos",
+      "artigo": "NI PM4-001/1.2/17 — Internação no HPM",
+      "enunciado": "Sendo o policial militar socorrido e internado no Hospital da Polícia Militar, o formulário médico será preenchido",
+      "alternativas": [
+        "pela equipe médica que o atender",
+        "pelo médico da unidade de saúde detentora de seu prontuário",
+        "por junta designada pelo Centro Médico",
+        "pelo Chefe do Departamento de Perícias Médicas"
+      ],
+      "correta": 0,
+      "explicacao": "Havendo internação no HPM, o preenchimento cabe à própria equipe médica que atender o policial; em hospital diverso, ao médico da UIS, no local da internação.",
+      "tags": [
+        "colete",
+        "hpm"
+      ]
+    },
+    {
+      "id": "osop-elab-091",
+      "subtema": "Colete — Dados médicos",
+      "artigo": "NI PM4-001/1.2/17 — Hospital diverso",
+      "enunciado": "Internado o policial militar em hospital diverso do HPM, o formulário médico será preenchido",
+      "alternativas": [
+        "pelo oficial médico da unidade detentora do prontuário, após a alta",
+        "pela equipe médica do hospital em que se deu a internação",
+        "por junta designada pelo Centro Médico, em qualquer caso",
+        "pelo médico da unidade de saúde, no local da internação"
+      ],
+      "correta": 3,
+      "explicacao": "Em hospital diverso do HPM, o médico da UIS se desloca e preenche o formulário no local da internação, solução que preserva a padronização da coleta de dados médicos.",
+      "tags": [
+        "colete",
+        "hospital-diverso"
+      ]
+    },
+    {
+      "id": "osop-elab-092",
+      "subtema": "Colete — Dados médicos",
+      "artigo": "NI PM4-001/1.2/17 — Casos excepcionais",
+      "enunciado": "Nos casos excepcionais, o preenchimento do formulário médico caberá a junta designada",
+      "alternativas": [
+        "pela Diretoria de Saúde, em todos os casos de policial alvejado no colete",
+        "pelo Centro Médico, por intermédio do Chefe do Departamento de Perícias Médicas",
+        "pelo Comando de Força Patrulha da unidade do policial militar atingido",
+        "pelo Centro de Material Bélico, responsável pela análise do material"
+      ],
+      "correta": 1,
+      "explicacao": "A junta é excepcional, designada pelo CMed por meio do Chefe do Departamento de Perícias Médicas; afirmar que todos os casos são avaliados por essa junta é a assertiva incorreta cobrada em prova.",
+      "tags": [
+        "colete",
+        "junta",
+        "pegadinha"
+      ]
+    },
+    {
+      "id": "osop-elab-093",
+      "subtema": "Colete — Dados médicos",
+      "artigo": "NI PM4-001/1.2/17 — Atendido e liberado",
+      "enunciado": "O policial militar atendido e liberado, sem internação, deverá ser apresentado na unidade de saúde detentora de seu prontuário",
+      "alternativas": [
+        "no segundo dia útil do término da ocorrência",
+        "no terceiro dia útil do término da ocorrência",
+        "no segundo dia corrido do término da ocorrência",
+        "no terceiro dia corrido do término da ocorrência"
+      ],
+      "correta": 0,
+      "explicacao": "O prazo é o segundo dia útil do término da ocorrência, para reavaliação médica; a troca por terceiro dia útil é distratora recorrente nas provas do CAO.",
+      "tags": [
+        "colete",
+        "prazo-medico"
+      ]
+    },
+    {
+      "id": "osop-elab-094",
+      "subtema": "Colete — Dados médicos",
+      "artigo": "NI PM4-001/1.2/17 — Reavaliação",
+      "enunciado": "Na apresentação à unidade de saúde detentora do prontuário, o oficial médico preencherá o formulário",
+      "alternativas": [
+        "Ferimento por projétil de arma de fogo sobre colete e lesões associadas",
+        "Impacto de Tiro Contra Colete, com as fotografias das placas de proteção",
+        "de Movimentação de Materiais, para a restituição do colete ao CMB",
+        "Impacto de Tiro Contra Viatura, quando houver dano simultâneo ao veículo"
+      ],
+      "correta": 0,
+      "explicacao": "O formulário médico é o de ferimento por projétil disparado de arma de fogo sobre colete balístico e lesões associadas, distinto dos formulários técnicos de impacto de tiro.",
+      "tags": [
+        "colete",
+        "formulario-medico"
+      ]
+    },
+    {
+      "id": "osop-elab-095",
+      "subtema": "Colete — Consolidação",
+      "artigo": "NI PM4-001/1.2/17 — CMed",
+      "enunciado": "Os formulários médicos relativos a policiais atingidos em colete balístico são remetidos",
+      "alternativas": [
+        "ao CMB, que consolidará as informações técnicas e médicas da ocorrência",
+        "ao CMed, que consolidará as informações para estudos conjuntos com o CMB",
+        "à Sala de Situação, que cientificará o Chefe da CIPM sobre os dados médicos",
+        "à Agência Regional, que os encaminhará ao Subcomandante PM semestralmente"
+      ],
+      "correta": 1,
+      "explicacao": "A consolidação dos dados médicos é do CMed, que os articula com o CMB em estudos conjuntos sobre o grau de proteção balística e a extensão das lesões.",
+      "tags": [
+        "colete",
+        "cmed"
+      ]
+    },
+    {
+      "id": "osop-elab-096",
+      "subtema": "Colete — Reuniões",
+      "artigo": "NI PM4-001/1.2/17 — Periodicidade",
+      "enunciado": "O CMB e o CMed deverão reunir-se, por convocação da Diretoria de Logística, para discussão dos aspectos médicos e técnicos do grau de proteção balística",
+      "alternativas": [
+        "semestralmente",
+        "trimestralmente",
+        "mensalmente",
+        "semanalmente"
+      ],
+      "correta": 1,
+      "explicacao": "As reuniões são trimestrais, ocorrendo em janeiro, abril, julho e outubro, por convocação do DL, e antecedem a consolidação semestral encaminhada ao Subcomandante PM.",
+      "tags": [
+        "colete",
+        "reunioes"
+      ]
+    },
+    {
+      "id": "osop-elab-097",
+      "subtema": "Colete — Reuniões",
+      "artigo": "NI PM4-001/1.2/17 — Meses",
+      "enunciado": "As reuniões trimestrais entre CMB e CMed ocorrem nos meses de",
+      "alternativas": [
+        "fevereiro, maio, agosto e novembro",
+        "janeiro, abril, julho e outubro",
+        "março, junho, setembro e dezembro",
+        "janeiro, março, julho e setembro"
+      ],
+      "correta": 1,
+      "explicacao": "A norma indica janeiro, abril, julho e outubro para as reuniões trimestrais, distintas da remessa semestral do relatório consolidado ao Subcomandante PM.",
+      "tags": [
+        "colete",
+        "meses"
+      ]
+    },
+    {
+      "id": "osop-elab-098",
+      "subtema": "Colete — Relatório",
+      "artigo": "NI PM4-001/1.2/17 — Remessa",
+      "enunciado": "O relatório com dados consolidados e propostas de melhoria decorrente das reuniões entre CMB e CMed é remetido ao Subcomandante PM",
+      "alternativas": [
+        "semestralmente",
+        "trimestralmente",
+        "mensalmente",
+        "anualmente"
+      ],
+      "correta": 0,
+      "explicacao": "Embora as reuniões sejam trimestrais, a remessa do relatório consolidado ao Subcomandante PM é semestral, distinção frequentemente explorada em prova.",
+      "tags": [
+        "colete",
+        "relatorio",
+        "pegadinha"
+      ]
+    },
+    {
+      "id": "osop-elab-099",
+      "subtema": "Viatura — Apresentação",
+      "artigo": "NI PM4-001/1.2/17 — Prazo",
+      "enunciado": "Atingida a viatura por disparo de arma de fogo, ela deverá ser apresentada na subfrota, em até",
+      "alternativas": [
+        "dois dias corridos do término da ocorrência ou da perícia técnico-científica",
+        "três dias úteis do término da ocorrência ou da perícia técnico-científica",
+        "dois dias úteis do término da ocorrência ou da perícia técnico-científica",
+        "três dias corridos do término da ocorrência ou da perícia técnico-científica"
+      ],
+      "correta": 2,
+      "explicacao": "O prazo é de dois dias úteis contados do término da ocorrência ou da perícia técnico-científica; a troca por três dias úteis é a distratora clássica da prova do CAO 2018.",
+      "tags": [
+        "viatura",
+        "prazo"
+      ]
+    },
+    {
+      "id": "osop-elab-100",
+      "subtema": "Viatura — Apresentação",
+      "artigo": "NI PM4-001/1.2/17 — Responsável",
+      "enunciado": "A apresentação da viatura atingida na subfrota compete",
+      "alternativas": [
+        "ao oficial sindicante do procedimento instaurado",
+        "ao administrador do material da unidade",
+        "ao detentor executivo da viatura atingida",
+        "ao comandante de grupo de patrulha da guarnição"
+      ],
+      "correta": 2,
+      "explicacao": "A obrigação de apresentar a viatura na subfrota, ou seção equivalente, é do detentor executivo, no prazo de dois dias úteis do término da ocorrência ou da perícia.",
+      "tags": [
+        "viatura",
+        "detentor"
+      ]
+    },
+    {
+      "id": "osop-elab-101",
+      "subtema": "Viatura — Vistoria",
+      "artigo": "NI PM4-001/1.2/17 — Conteúdo",
+      "enunciado": "Na vistoria da viatura atingida, a subfrota registrará, em formulário específico,",
+      "alternativas": [
+        "a localização, a trajetória e a quantidade de disparos",
+        "a marca, o modelo e o calibre da arma empregada nos disparos",
+        "a identificação do autor dos disparos e o número do boletim lavrado",
+        "o custo estimado do reparo e a previsão de indisponibilidade do veículo"
+      ],
+      "correta": 0,
+      "explicacao": "O Formulário de Impacto de Tiro Contra Viatura registra localização, trajetória e quantidade de disparos, dados que subsidiam o estudo técnico sobre a proteção do policial no interior do veículo.",
+      "tags": [
+        "viatura",
+        "vistoria"
+      ]
+    },
+    {
+      "id": "osop-elab-102",
+      "subtema": "Viatura — Fluxo",
+      "artigo": "NI PM4-001/1.2/17 — Encaminhamento",
+      "enunciado": "Preenchido o Formulário de Impacto de Tiro Contra Viatura, a subfrota encaminhará cópia",
+      "alternativas": [
+        "ao oficial sindicante e ao detentor executivo",
+        "à Agência de Área e à Sala de Situação",
+        "diretamente ao CSM MM, via notes",
+        "à Agência Regional e à Sala de Situação"
+      ],
+      "correta": 3,
+      "explicacao": "A subfrota encaminha cópia à AR e à Sala de Situação; esta, por sua vez, remete cópia do formulário, via notes, ao CSM MM.",
+      "tags": [
+        "viatura",
+        "fluxo"
+      ]
+    },
+    {
+      "id": "osop-elab-103",
+      "subtema": "Viatura — Fluxo",
+      "artigo": "NI PM4-001/1.2/17 — Sala de Situação",
+      "enunciado": "A Sala de Situação, ao receber o formulário relativo à viatura atingida, envia cópia, via notes,",
+      "alternativas": [
+        "ao Centro Médico",
+        "ao CMB",
+        "ao CSM MM",
+        "ao Diretor de Logística"
+      ],
+      "correta": 2,
+      "explicacao": "Nos casos de viatura o destinatário é o centro responsável pelo material motomecanizado; nas ocorrências de colete, a remessa da Sala de Situação é dirigida à Seção de Materiais do CMB.",
+      "tags": [
+        "viatura",
+        "csm-mm"
+      ]
+    },
+    {
+      "id": "osop-elab-104",
+      "subtema": "Viatura — Finalidade",
+      "artigo": "NI PM4-001/1.2/17 — Estudo técnico",
+      "enunciado": "A análise e a catalogação dos dados do formulário pelo CSM MM destinam-se a subsidiar estudo técnico para",
+      "alternativas": [
+        "dimensionar o custo médio de reparo da frota operacional da Corporação",
+        "definir o padrão de coletes balísticos adquiridos pela Corporação",
+        "aperfeiçoar a proteção policial-militar no interior das viaturas",
+        "estabelecer critérios de substituição das viaturas com maior quilometragem"
+      ],
+      "correta": 2,
+      "explicacao": "A finalidade declarada é o aperfeiçoamento da proteção policial-militar no interior das viaturas; o estudo do desempenho do colete cabe ao CMB, a partir do fluxo próprio.",
+      "tags": [
+        "viatura",
+        "finalidade"
+      ]
+    },
+    {
+      "id": "osop-elab-105",
+      "subtema": "Viatura — Relatório",
+      "artigo": "NI PM4-001/1.2/17 — Periodicidade",
+      "enunciado": "O relatório com dados consolidados e propostas relativo às viaturas atingidas é encaminhado ao Subcomandante PM",
+      "alternativas": [
+        "anualmente",
+        "semestralmente",
+        "trimestralmente",
+        "mensalmente"
+      ],
+      "correta": 1,
+      "explicacao": "A remessa é semestral, tal como ocorre com o relatório referente aos coletes; a alternativa que indica periodicidade anual é a distratora da questão do CAO 2018.",
+      "tags": [
+        "viatura",
+        "relatorio"
+      ]
+    },
+    {
+      "id": "osop-elab-106",
+      "subtema": "Viatura — Reparo",
+      "artigo": "NI PM4-001/1.2/17 — Autorização",
+      "enunciado": "O oficial sindicante só poderá autorizar o reparo dos danos causados pelos disparos após ser cientificado de que",
+      "alternativas": [
+        "o CSM MM catalogou os dados e concluiu o estudo técnico pertinente",
+        "o detentor executivo apresentou a viatura no prazo de dois dias úteis",
+        "a subfrota realizou a vistoria e preencheu o formulário específico",
+        "o Instituto de Criminalística concluiu a perícia técnico-científica do veículo"
+      ],
+      "correta": 2,
+      "explicacao": "A condição para autorizar o reparo é a ciência de que a subfrota vistoriou a viatura e preencheu o Formulário de Impacto de Tiro Contra Viatura, preservando-se o registro dos dados antes da descaracterização dos danos.",
+      "tags": [
+        "viatura",
+        "reparo"
+      ]
+    },
+    {
+      "id": "osop-elab-107",
+      "subtema": "Atribuições",
+      "artigo": "NI PM4-001/1.2/17 — DEC",
+      "enunciado": "Compete à Diretoria de Ensino e Cultura, no âmbito da norma,",
+      "alternativas": [
+        "elaborar ICC e PVT no prazo de seis meses contados da publicação da norma",
+        "analisar os dados referentes a colete e viatura por meio de seus órgãos de apoio",
+        "elaborar protocolo de estudo médico sobre a extensão dos traumas constatados",
+        "manter relatórios estatísticos sobre os disparos para consulta institucional"
+      ],
+      "correta": 0,
+      "explicacao": "À DEC cabe elaborar ICC e PVT a contar de seis meses da publicação da norma; a análise dos dados é do DL por meio do CMB e do CMM, e o protocolo médico é da Diretoria de Saúde.",
+      "tags": [
+        "colete",
+        "atribuicoes",
+        "dec"
+      ]
+    },
+    {
+      "id": "osop-elab-108",
+      "subtema": "Atribuições",
+      "artigo": "NI PM4-001/1.2/17 — DL",
+      "enunciado": "À Diretoria de Logística compete, por meio de seus órgãos de apoio,",
+      "alternativas": [
+        "fiscalizar o cumprimento dos prazos de apresentação da viatura na subfrota",
+        "designar a junta médica responsável pelos casos excepcionais de atendimento",
+        "elaborar o protocolo de estudo médico sobre extensão e profundidade dos traumas",
+        "analisar os dados de colete e viatura por intermédio do CMB e do CMM"
+      ],
+      "correta": 3,
+      "explicacao": "O DL atua por meio do CMB, quanto aos coletes, e do CMM, quanto às viaturas, analisando os dados para aprimorar a segurança do policial militar.",
+      "tags": [
+        "colete",
+        "atribuicoes",
+        "dl"
+      ]
+    },
+    {
+      "id": "osop-elab-109",
+      "subtema": "Atribuições",
+      "artigo": "NI PM4-001/1.2/17 — Relatórios semestrais",
+      "enunciado": "Os relatórios semestrais previstos na norma devem ser encaminhados ao Subcomandante PM até o último dia útil dos meses de",
+      "alternativas": [
+        "janeiro e julho",
+        "fevereiro e agosto",
+        "março e setembro",
+        "junho e dezembro"
+      ],
+      "correta": 1,
+      "explicacao": "A norma fixa como termo final o último dia útil de fevereiro e de agosto para o encaminhamento dos relatórios semestrais ao Subcomandante PM.",
+      "tags": [
+        "colete",
+        "relatorios",
+        "prazos"
+      ]
+    },
+    {
+      "id": "osop-elab-110",
+      "subtema": "Atribuições",
+      "artigo": "NI PM4-001/1.2/17 — DS",
+      "enunciado": "À Diretoria de Saúde compete elaborar protocolo de estudo médico sobre a extensão e a profundidade dos traumas, para análise do órgão técnico, por meio",
+      "alternativas": [
+        "do Hospital da Polícia Militar",
+        "do Departamento de Perícias Médicas",
+        "do Laboratório de Análise Balística",
+        "da Seção de Materiais do CMB"
+      ],
+      "correta": 2,
+      "explicacao": "O protocolo de estudo médico é elaborado com vista à análise do órgão técnico por meio do Laboratório de Análise Balística, cabendo ainda à DS providenciar as informações médicas para as reuniões trimestrais com o CMB.",
+      "tags": [
+        "colete",
+        "atribuicoes",
+        "ds"
+      ]
+    },
+    {
+      "id": "osop-elab-111",
+      "subtema": "Atribuições",
+      "artigo": "NI PM4-001/1.2/17 — Informações médicas",
+      "enunciado": "As informações médicas necessárias às reuniões trimestrais com o CMB são providenciadas",
+      "alternativas": [
+        "pela Diretoria de Logística",
+        "pela Diretoria de Saúde",
+        "pela Controladoria Interna da Polícia Militar",
+        "pela Diretoria de Ensino e Cultura"
+      ],
+      "correta": 1,
+      "explicacao": "A DS provê as informações médicas para as reuniões trimestrais com o CMB, ao passo que a convocação dessas reuniões é atribuída ao DL.",
+      "tags": [
+        "colete",
+        "atribuicoes",
+        "informacoes"
+      ]
+    },
+    {
+      "id": "osop-elab-112",
+      "subtema": "Atribuições",
+      "artigo": "NI PM4-001/1.2/17 — CIPM",
+      "enunciado": "À Controladoria Interna da Polícia Militar compete, no âmbito da norma,",
+      "alternativas": [
+        "disponibilizar relatórios estatísticos sobre os dados coletados para consulta",
+        "convocar as reuniões trimestrais entre o CMB e o Centro Médico",
+        "autorizar o reparo dos danos causados por disparos nas viaturas",
+        "designar a unidade de serviço substituta da Agência de Área ausente"
+      ],
+      "correta": 0,
+      "explicacao": "À CIPM cabe a produção de relatórios estatísticos para consulta, papel compatível com a ciência que recebe da Sala de Situação a cada ocorrência de disparo em colete.",
+      "tags": [
+        "colete",
+        "atribuicoes",
+        "cipm"
+      ]
+    },
+    {
+      "id": "osop-elab-113",
+      "subtema": "Aplicação prática",
+      "artigo": "NI PM4-001/1.2/17 — Caso concreto",
+      "enunciado": "Comandante de grupo de patrulha, após confronto, verifica que um disparo atingiu a viatura. Quanto ao procedimento, é correto afirmar que",
+      "alternativas": [
+        "o CSM MM encaminhará anualmente o relatório consolidado ao Subcomandante PM",
+        "o detentor executivo apresentará a viatura na subfrota em até três dias úteis",
+        "o sindicante poderá autorizar o reparo independentemente da vistoria da subfrota",
+        "a subfrota realizará a vistoria e registrará os dados em formulário específico"
+      ],
+      "correta": 3,
+      "explicacao": "Das quatro assertivas, apenas a vistoria pela subfrota com registro em formulário específico é correta: o prazo de apresentação é de dois dias úteis, o reparo depende da ciência da vistoria e o relatório é semestral.",
+      "tags": [
+        "viatura",
+        "aplicacao"
+      ]
+    },
+    {
+      "id": "osop-elab-114",
+      "subtema": "Aplicação prática",
+      "artigo": "NI PM4-001/1.2/17 — Caso concreto",
+      "enunciado": "Policial militar é alvejado no colete, atendido em hospital diverso do HPM e liberado sem internação. É correto afirmar que",
+      "alternativas": [
+        "ficará dispensado da reavaliação médica, por não ter havido internação hospitalar",
+        "deverá ser avaliado por junta designada pelo Chefe do Departamento de Perícias Médicas",
+        "terá o formulário médico preenchido pela equipe do hospital em que foi atendido",
+        "deverá apresentar-se à UIS detentora de seu prontuário no segundo dia útil seguinte"
+      ],
+      "correta": 3,
+      "explicacao": "A liberação sem internação conduz à apresentação na UIS detentora do prontuário no segundo dia útil do término da ocorrência, para reavaliação e preenchimento do formulário pelo oficial médico.",
+      "tags": [
+        "colete",
+        "aplicacao"
+      ]
+    }
+  ]
+}
