@@ -1,0 +1,2018 @@
+{
+ "materia": "cmr-paapm-elab",
+ "versao": "1.6.0",
+ "atualizadoEm": "2026-09-13",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "CMR — 1ª fase",
+  "CMR — 2ª fase",
+  "CMR — 3ª fase",
+  "CMR — 4ª fase",
+  "CMR — competência",
+  "CMR — composição",
+  "CMR — disposições gerais",
+  "PAAPM — 1ª fase",
+  "PAAPM — 2ª fase",
+  "PAAPM — 3ª fase",
+  "PAAPM — aplicação",
+  "PAAPM — atribuições",
+  "PAAPM — comissões",
+  "PAAPM — conceitos",
+  "PAAPM — coordenação",
+  "PAAPM — disposições gerais",
+  "PAAPM — estrutura",
+  "PAAPM — níveis",
+  "PAAPM — temas correlatos",
+  "Síntese"
+ ],
+ "questoes": [
+  {
+   "id": "cmr-paapm-elab-001",
+   "subtema": "CMR — disposições gerais",
+   "artigo": "OS PM3-006/03/20 — Finalidade",
+   "enunciado": "A Comissão de Mitigação de Riscos, criada pela Ordem de Serviço nº PM3-006/03/20, destina-se a identificar e mitigar riscos em casos de ocorrência",
+   "alternativas": [
+    "com lesão corporal grave em civis, avaliando a necessidade de apuração criminal militar",
+    "com uso de arma de fogo, ainda que sem vítimas, avaliando a responsabilidade disciplinar",
+    "com resultado morte decorrente de intervenção policial, avaliando o aprimoramento profissional",
+    "de qualquer natureza em que haja emprego de força, avaliando a conduta dos envolvidos"
+   ],
+   "correta": 2,
+   "explicacao": "A CMR identifica e mitiga riscos nas ocorrências com resultado morte decorrente de intervenção policial, avaliando a necessidade de aprimoramento profissional dos envolvidos no âmbito do respectivo Comando de Policiamento, em trabalho de caráter estritamente educativo.",
+   "tags": [
+    "cmr",
+    "finalidade"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-002",
+   "subtema": "CMR — disposições gerais",
+   "artigo": "OS PM3-006/03/20 — Natureza dos trabalhos",
+   "enunciado": "Quanto à natureza dos trabalhos da Comissão de Mitigação de Riscos, é correto afirmar que",
+   "alternativas": [
+    "as fases têm caráter disciplinar, servindo de instrução prévia ao processo administrativo",
+    "todas as fases têm caráter educativo, desvinculado de natureza disciplinar, cível ou criminal",
+    "as fases têm caráter investigativo, com colheita de provas sobre a dinâmica da ocorrência",
+    "as fases têm caráter misto, educativo na primeira e apuratório nas demais etapas"
+   ],
+   "correta": 1,
+   "explicacao": "Todas as fases têm caráter educativo, desvinculado de qualquer natureza disciplinar, cível ou criminal, cujas apurações, se cabíveis, seguem processo ou procedimento administrativo próprio. Os relatórios ficam adstritos à Comissão e servem apenas ao aprimoramento profissional.",
+   "tags": [
+    "cmr",
+    "natureza"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-003",
+   "subtema": "CMR — disposições gerais",
+   "artigo": "OS PM3-006/03/20 — Uso dos relatórios",
+   "enunciado": "Os Relatórios de Mitigação de Riscos produzidos pela Comissão",
+   "alternativas": [
+    "devem ser remetidos à Corregedoria para subsidiar eventual apuração disciplinar",
+    "devem ser juntados ao inquérito policial militar instaurado sobre a mesma ocorrência",
+    "não podem ser juntados a inquérito, sindicância, processo regular ou procedimento disciplinar",
+    "podem ser juntados a procedimentos apuratórios mediante autorização do Presidente"
+   ],
+   "correta": 2,
+   "explicacao": "É vedada a juntada dos Relatórios de Mitigação de Riscos a procedimentos apuratórios, como IPM, sindicância, processo regular ou procedimento disciplinar, assim como o registro em áudio e vídeo das reuniões promovidas pela Comissão.",
+   "tags": [
+    "cmr",
+    "relatorios",
+    "vedacoes"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-004",
+   "subtema": "CMR — disposições gerais",
+   "artigo": "OS PM3-006/03/20 — Gravação das reuniões",
+   "enunciado": "Sobre o registro das reuniões da Comissão de Mitigação de Riscos, a norma",
+   "alternativas": [
+    "exige a gravação integral em áudio e vídeo, preservada enquanto durar o trabalho",
+    "veda a gravação por meio de equipamentos ou recursos audiovisuais de qualquer tipo",
+    "admite a gravação apenas quando o policial militar envolvido consentir por escrito",
+    "exige a gravação apenas da reunião da primeira fase, dispensadas as demais"
+   ],
+   "correta": 1,
+   "explicacao": "A vedação é expressa e alcança qualquer tipo de registro audiovisual das reuniões, o que preserva o caráter educativo e não apuratório dos trabalhos, coerentemente com a proibição de juntada dos relatórios a procedimentos disciplinares.",
+   "tags": [
+    "cmr",
+    "vedacoes",
+    "gravacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-005",
+   "subtema": "CMR — disposições gerais",
+   "artigo": "OS PM3-006/03/20 — Participação dos envolvidos",
+   "enunciado": "A participação dos policiais militares envolvidos na reunião da primeira fase da Comissão de Mitigação de Riscos",
+   "alternativas": [
+    "é facultada, franqueando-se a palavra, vedada qualquer inquirição com fins investigativos",
+    "é obrigatória, assegurado o direito ao silêncio durante toda a reunião realizada",
+    "é obrigatória, com dever de fornecer dados e provas sobre a dinâmica da ocorrência",
+    "é vedada, para preservar a imparcialidade dos membros na avaliação do caso"
+   ],
+   "correta": 0,
+   "explicacao": "A participação é facultativa, sendo franqueada a palavra para que o envolvido se manifeste sobre a dinâmica da ocorrência, ficando vedada qualquer inquirição com fins investigativos e não se solicitando o fornecimento de dados ou provas.",
+   "tags": [
+    "cmr",
+    "participacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-006",
+   "subtema": "CMR — composição",
+   "artigo": "OS PM3-006/03/20 — Presidência",
+   "enunciado": "A Comissão de Mitigação de Riscos funciona no âmbito do Comando de Policiamento dos envolvidos e é presidida, em regra,",
+   "alternativas": [
+    "pelo Comandante do CPA, CPI ou Comando de Policiamento correspondente",
+    "pelo Corregedor da Polícia Militar, por se tratar de morte em intervenção policial",
+    "pelo Comandante do Batalhão de origem dos policiais militares envolvidos",
+    "pelo Chefe do Gabinete Técnico do respectivo Comando de Policiamento"
+   ],
+   "correta": 0,
+   "explicacao": "A presidência cabe ao Comandante do CPA, CPI ou Comando de Policiamento correspondente, sendo o Chefe do Gabinete Técnico do Comando de Policiamento o secretário da Comissão.",
+   "tags": [
+    "cmr",
+    "composicao",
+    "presidencia"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-007",
+   "subtema": "CMR — composição",
+   "artigo": "OS PM3-006/03/20 — Membros",
+   "enunciado": "Compõem a Comissão de Mitigação de Riscos, como membros,",
+   "alternativas": [
+    "dois Tenentes-Coronéis e dois Majores do Comando de Policiamento, sem rotatividade",
+    "um Tenente-Coronel, um Major, um Capitão Cmt Cia e um Tenente Cmt Pelotão",
+    "um Major, um Capitão e dois Tenentes designados pelo Corregedor da Instituição",
+    "os Comandantes de todas as OPM subordinadas ao respectivo Comando de Policiamento"
+   ],
+   "correta": 1,
+   "explicacao": "Os membros são um Tenente-Coronel, um Major, um Capitão Comandante de Companhia e um Tenente Comandante de Pelotão, do próprio Comando de Policiamento ou de unidades subordinadas, com rotatividade a cada três meses, por sorteio.",
+   "tags": [
+    "cmr",
+    "composicao",
+    "membros"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-008",
+   "subtema": "CMR — composição",
+   "artigo": "OS PM3-006/03/20 — Rotatividade",
+   "enunciado": "A designação dos membros da Comissão de Mitigação de Riscos observa",
+   "alternativas": [
+    "rotatividade a cada três meses, mediante sorteio entre os oficiais",
+    "designação permanente pelo Presidente, enquanto durar seu comando",
+    "rotatividade anual, mediante indicação dos Comandantes de Batalhão",
+    "escolha pelo Corregedor PM, entre oficiais sem restrição disciplinar"
+   ],
+   "correta": 0,
+   "explicacao": "A norma prevê rotatividade de três meses, por sorteio, entre oficiais do Comando de Policiamento ou de unidades subordinadas que preencham os requisitos fixados, o que evita a personalização dos trabalhos.",
+   "tags": [
+    "cmr",
+    "composicao",
+    "rotatividade"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-009",
+   "subtema": "CMR — composição",
+   "artigo": "OS PM3-006/03/20 — Requisitos dos membros",
+   "enunciado": "Entre os requisitos exigidos dos membros da Comissão de Mitigação de Riscos inclui-se",
+   "alternativas": [
+    "contar com, no mínimo, cinco anos de exercício no respectivo posto ocupado",
+    "possuir curso de especialização em uso progressivo da força ou equivalente",
+    "não estar respondendo a processo regular nem a procedimento por transgressão grave",
+    "ter atuado como encarregado de inquérito policial militar nos últimos dois anos"
+   ],
+   "correta": 2,
+   "explicacao": "Exige-se estar em pleno exercício das funções policiais-militares, não responder a processo regular, não responder a procedimento disciplinar que apure transgressão grave, desonrosa ou atentatória às instituições, ao Estado e aos direitos humanos, e não figurar como acusado em processo criminal ou cível sobre fatos que violem valores e deveres policiais-militares.",
+   "tags": [
+    "cmr",
+    "composicao",
+    "requisitos"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-010",
+   "subtema": "CMR — composição",
+   "artigo": "OS PM3-006/03/20 — Convidados",
+   "enunciado": "Participam da Comissão de Mitigação de Riscos, na condição de convidados,",
+   "alternativas": [
+    "representantes do Ministério Público e da Defensoria Pública da comarca dos fatos",
+    "o Corregedor PM e o encarregado do inquérito policial militar instaurado sobre o fato",
+    "o Coord Op Btl, o oficial da agência de área e o Oficial Superior de Sobreaviso, entre outros",
+    "os familiares do policial militar envolvido, para relatar alterações de comportamento"
+   ],
+   "correta": 2,
+   "explicacao": "São convidados, a critério do Presidente, o Coord Op Btl e o oficial da agência de área dos envolvidos, o Oficial Superior de Sobreaviso, o Supervisor Regional, o Comandante de Força de Patrulha e o Comandante de Grupo de Patrulha, além de outros policiais com conhecimentos técnico-operacionais ou que atuaram no gerenciamento da ocorrência.",
+   "tags": [
+    "cmr",
+    "composicao",
+    "convidados"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-011",
+   "subtema": "CMR — composição",
+   "artigo": "OS PM3-006/03/20 — Policiais de outro Comando",
+   "enunciado": "Quando os policiais militares envolvidos não pertencerem ao Comando de Policiamento com responsabilidade territorial sobre o local dos fatos, a Comissão será presidida",
+   "alternativas": [
+    "pelo Corregedor PM, para preservar a imparcialidade dos trabalhos educativos",
+    "pelo Comandante de Policiamento da área onde ocorreu o fato, em qualquer caso",
+    "pelo respectivo Comandante, Chefe ou Diretor dos policiais militares envolvidos",
+    "pelo Subcomandante PM, que designará os membros entre oficiais de outra região"
+   ],
+   "correta": 2,
+   "explicacao": "Nessa hipótese, que alcança policiais de outros Comandos, órgãos de direção e assessorias, inclusive em DEJEM, atividade delegada ou escalas extraordinárias, a Comissão é presidida pelo respectivo Cmt, Ch ou Dir dos envolvidos com participação direta, cabendo ao Presidente designar membros, secretário e convidados.",
+   "tags": [
+    "cmr",
+    "composicao",
+    "competencia"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-012",
+   "subtema": "CMR — competência",
+   "artigo": "Ordem Complementar PM3-02/03/20",
+   "enunciado": "Ocorrendo morte decorrente de intervenção policial envolvendo dois ou mais policiais militares de OPM distintas, a Ordem Complementar determina que",
+   "alternativas": [
+    "a Comissão seja presidida pelo Corregedor PM, dada a pluralidade de unidades envolvidas",
+    "seja instalada Comissão única, presidida pelo Comandante mais antigo entre os envolvidos",
+    "cada Comando de Policiamento instale sua Comissão para a primeira fase dos trabalhos",
+    "os trabalhos sejam suspensos até a conclusão do inquérito policial militar correspondente"
+   ],
+   "correta": 2,
+   "explicacao": "Cada Comando de Policiamento instala sua respectiva Comissão para a primeira fase e os relatórios são encaminhados à autoridade imediatamente superior aos respectivos Comandos, que delibera sobre providências e demais fases, garantindo isonomia e medidas equânimes a todos os envolvidos.",
+   "tags": [
+    "cmr",
+    "competencia",
+    "opm-distintas"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-013",
+   "subtema": "CMR — competência",
+   "artigo": "Ordem Complementar PM3-02/03/20",
+   "enunciado": "Na hipótese de envolvidos de OPM distintas, os prazos das fases seguintes da Comissão de Mitigação de Riscos começam a correr",
+   "alternativas": [
+    "da ciência da deliberação da autoridade imediatamente superior aos Comandos envolvidos",
+    "da data do fato que originou a intervenção policial com resultado morte",
+    "da conclusão da primeira fase pela Comissão instalada em cada Comando de Policiamento",
+    "da publicação do ato de designação dos membros de cada uma das Comissões"
+   ],
+   "correta": 0,
+   "explicacao": "Os prazos passam a correr da ciência da deliberação da autoridade superior, que examina os relatórios das comissões instaladas em cada Comando e uniformiza as providências, assegurando tratamento equânime aos envolvidos.",
+   "tags": [
+    "cmr",
+    "competencia",
+    "prazos"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-014",
+   "subtema": "CMR — 1ª fase",
+   "artigo": "OS PM3-006/03/20 — Identificação dos riscos",
+   "enunciado": "A primeira fase da Comissão de Mitigação de Riscos, de identificação dos riscos e avaliação, realiza-se mediante reunião convocada pelo Presidente",
+   "alternativas": [
+    "em até cinco dias úteis contados da data do fato, na sede do Comando de Policiamento",
+    "em até dez dias corridos contados da data do fato, na sede do Batalhão de origem",
+    "em até quarenta e oito horas da ocorrência, no local onde se deram os fatos",
+    "em até trinta dias do fato, na sede da Companhia de origem dos envolvidos"
+   ],
+   "correta": 0,
+   "explicacao": "A reunião ocorre em até cinco dias úteis contados da data do fato, na sede do CPA ou CPI, com o fim de colher informações sobre o atendimento da ocorrência e avaliar o grau de capacitação técnico-procedimental dos envolvidos.",
+   "tags": [
+    "cmr",
+    "primeira-fase",
+    "prazo"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-015",
+   "subtema": "CMR — 1ª fase",
+   "artigo": "OS PM3-006/03/20 — Instrução da reunião",
+   "enunciado": "Na primeira fase, a compreensão do ocorrido é buscada por meio de relatórios, registros da ocorrência, evidências audiovisuais e brainstorming, respondendo os membros",
+   "alternativas": [
+    "individualmente aos quesitos do Relatório de Mitigação de Riscos da primeira fase",
+    "coletivamente a um único formulário, assinado por todos os presentes na reunião",
+    "apenas às perguntas formuladas oralmente pelo Presidente durante a reunião",
+    "a questionário elaborado pela Corregedoria para uniformizar as avaliações"
+   ],
+   "correta": 0,
+   "explicacao": "Os membros respondem individualmente aos quesitos constantes do Relatório de Mitigação de Riscos da primeira fase, o que nivela o conhecimento sobre os fatos antes das manifestações orais e do parecer final.",
+   "tags": [
+    "cmr",
+    "primeira-fase",
+    "instrucao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-016",
+   "subtema": "CMR — 1ª fase",
+   "artigo": "OS PM3-006/03/20 — Ordem das manifestações",
+   "enunciado": "Na reunião da primeira fase, as manifestações sobre a dinâmica da ocorrência iniciam-se",
+   "alternativas": [
+    "pelos superiores de sobreaviso e demais superiores que atuaram no dia dos fatos",
+    "pelos membros mais modernos da Comissão, para evitar influência hierárquica",
+    "pelo Presidente da Comissão, que fixa as premissas a serem observadas",
+    "pelo secretário, que apresenta a síntese documental da ocorrência atendida"
+   ],
+   "correta": 0,
+   "explicacao": "Manifestam-se primeiro os superiores de sobreaviso do local e os demais superiores imediatos presentes que atuaram no dia dos fatos, como Supervisor Regional, Comandante de Força de Patrulha e Comandante de Grupo de Patrulha, seguindo-se os demais membros e, por fim, o Presidente.",
+   "tags": [
+    "cmr",
+    "primeira-fase",
+    "manifestacoes"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-017",
+   "subtema": "CMR — 1ª fase",
+   "artigo": "OS PM3-006/03/20 — Parecer e deliberação",
+   "enunciado": "O parecer motivado sobre a necessidade de aprimoramento profissional dos envolvidos, emitido ao final da primeira fase,",
+   "alternativas": [
+    "é alçado à deliberação do Presidente da Comissão de Mitigação de Riscos",
+    "vincula o Presidente, que apenas homologa a conclusão dos membros",
+    "é submetido à ratificação do Comandante Geral por meio do canal de comando",
+    "depende de aprovação por maioria absoluta dos membros e convidados presentes"
+   ],
+   "correta": 0,
+   "explicacao": "Após as manifestações e as considerações finais, emite-se parecer motivado sobre a necessidade ou não de aprimoramento profissional, cabendo a deliberação ao Presidente da Comissão.",
+   "tags": [
+    "cmr",
+    "primeira-fase",
+    "parecer"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-018",
+   "subtema": "CMR — 1ª fase",
+   "artigo": "OS PM3-006/03/20 — Ausência de necessidade",
+   "enunciado": "Concluindo a Comissão pela desnecessidade de aprimoramento profissional,",
+   "alternativas": [
+    "a OPM de origem arquiva o relatório e remete cópia digital à Coord Op PM",
+    "os trabalhos seguem obrigatoriamente para a segunda fase, de treinamento dirigido",
+    "o relatório é encaminhado à Corregedoria para arquivamento definitivo",
+    "o caso é remetido ao CAPS para avaliação psicológica complementar dos envolvidos"
+   ],
+   "correta": 0,
+   "explicacao": "Não havendo necessidade de aprimoramento, a OPM de origem arquiva o Relatório de Mitigação de Riscos da primeira fase e envia cópia digital à Coord Op PM, para agrupamento de dados destinados à política estratégica institucional.",
+   "tags": [
+    "cmr",
+    "primeira-fase",
+    "arquivamento"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-019",
+   "subtema": "CMR — 2ª fase",
+   "artigo": "OS PM3-006/03/20 — Plano de ação educativo",
+   "enunciado": "Havendo necessidade de aprimoramento, a Comissão elabora o Plano de Ação Educativo, implementado por meio do Treinamento Dirigido, cuja responsabilidade, gestão e fiscalização cabem",
+   "alternativas": [
+    "ao Presidente da Comissão de Mitigação de Riscos, na sede do Comando de Policiamento",
+    "ao Chefe do Gabinete Técnico ou Oficial P/3 da OPM de origem dos envolvidos",
+    "ao Comandante de Companhia dos policiais militares submetidos ao treinamento",
+    "à Diretoria de Ensino e Cultura, que designa os instrutores do treinamento"
+   ],
+   "correta": 1,
+   "explicacao": "O Treinamento Dirigido é desenvolvido sob responsabilidade, gestão e fiscalização do Chefe do Gabinete Técnico ou do Oficial P/3 da OPM de origem, cabendo ao secretário da Comissão preencher a parte inicial do relatório da segunda fase, um para cada envolvido.",
+   "tags": [
+    "cmr",
+    "segunda-fase",
+    "plano-educativo"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-020",
+   "subtema": "CMR — 2ª fase",
+   "artigo": "OS PM3-006/03/20 — Treinamento dirigido",
+   "enunciado": "O Treinamento Dirigido, segunda fase da Comissão de Mitigação de Riscos, realiza-se",
+   "alternativas": [
+    "na sede do Comando de Policiamento, no prazo de trinta dias da primeira fase",
+    "na sede do Batalhão de origem, na semana seguinte à primeira fase, por duas semanas",
+    "na sede da Companhia de origem, pelo período de trinta dias corridos",
+    "no Centro de Altos Estudos, em regime de internato de uma semana"
+   ],
+   "correta": 1,
+   "explicacao": "O treinamento ocorre na sede do Batalhão de origem, na semana subsequente à primeira fase, com duração de duas semanas sequenciais, de segunda a sexta-feira, das nove às dezoito horas, respeitado o meio expediente semanal.",
+   "tags": [
+    "cmr",
+    "segunda-fase",
+    "treinamento"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-021",
+   "subtema": "CMR — 2ª fase",
+   "artigo": "OS PM3-006/03/20 — Emprego durante o treinamento",
+   "enunciado": "Durante o Treinamento Dirigido, os policiais militares envolvidos serão empregados",
+   "alternativas": [
+    "em atividades de patrulhamento acompanhados por instrutor tecnicamente capacitado",
+    "normalmente no policiamento ostensivo, fora do horário das instruções programadas",
+    "exclusivamente em funções administrativas, atendimento ou registro de ocorrências",
+    "em atividade delegada e DEJEM, para não prejudicar sua remuneração no período"
+   ],
+   "correta": 2,
+   "explicacao": "O emprego é exclusivamente em funções administrativas, serviços de atendimento ao público ou registro de ocorrências realizados na sede da OPM onde se desenvolve o treinamento, com no mínimo duas horas-aula diárias de instrução.",
+   "tags": [
+    "cmr",
+    "segunda-fase",
+    "emprego"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-022",
+   "subtema": "CMR — 2ª fase",
+   "artigo": "OS PM3-006/03/20 — Avaliação do treinamento",
+   "enunciado": "Para assegurar a efetividade do Treinamento Dirigido, exige-se dos policiais militares envolvidos",
+   "alternativas": [
+    "nota mínima cinco em prova escrita, repetindo-se o ciclo até a aprovação",
+    "nota mínima sete em prova prática, admitida uma única repetição do ciclo",
+    "frequência mínima de setenta e cinco por cento, dispensada a avaliação escrita",
+    "aprovação em verificação final e, se reprovado, dependência até novo plano educativo"
+   ],
+   "correta": 0,
+   "explicacao": "A norma exige nota mínima cinco em prova escrita para aprovação e prosseguimento à terceira fase; não alcançada a nota, o policial refaz o ciclo até a aprovação. Não há regime de dependência nem verificações do sistema escolar comum.",
+   "tags": [
+    "cmr",
+    "segunda-fase",
+    "avaliacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-023",
+   "subtema": "CMR — 2ª fase",
+   "artigo": "OS PM3-006/03/20 — Instrutores",
+   "enunciado": "Devem ser empregados como instrutores do Treinamento Dirigido",
+   "alternativas": [
+    "oficiais do Comando de Policiamento indicados pelo Presidente da Comissão",
+    "policiais tecnicamente capacitados, preferencialmente com cursos relativos aos temas",
+    "instrutores civis credenciados pela Diretoria de Ensino e Cultura da Instituição",
+    "os próprios membros da Comissão, para garantir a aderência ao plano educativo"
+   ],
+   "correta": 1,
+   "explicacao": "Os instrutores devem ser policiais militares tecnicamente capacitados, preferencialmente possuidores de cursos ou estágios de especialização relativos aos temas tratados no treinamento, que segue estritamente o Plano de Ação Educativo.",
+   "tags": [
+    "cmr",
+    "segunda-fase",
+    "instrutores"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-024",
+   "subtema": "CMR — 3ª fase",
+   "artigo": "OS PM3-006/03/20 — Monitoramento educativo",
+   "enunciado": "A terceira fase da Comissão de Mitigação de Riscos, de monitoramento educativo, tem duração de",
+   "alternativas": [
+    "sessenta dias corridos, contados da deliberação do Presidente da Comissão",
+    "quinze dias úteis, iniciados no dia seguinte ao término do treinamento dirigido",
+    "trinta dias corridos, iniciados na segunda-feira subsequente ao término da segunda fase",
+    "noventa dias, prorrogáveis por igual período a critério do Comandante de Companhia"
+   ],
+   "correta": 2,
+   "explicacao": "O monitoramento educativo dura trinta dias corridos, iniciados na segunda-feira imediatamente subsequente ao término da segunda fase, sob responsabilidade do Comandante de Companhia, e destina-se a verificar a efetividade das atividades de ensino.",
+   "tags": [
+    "cmr",
+    "terceira-fase",
+    "prazo"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-025",
+   "subtema": "CMR — 3ª fase",
+   "artigo": "OS PM3-006/03/20 — Responsável pelo monitoramento",
+   "enunciado": "No monitoramento educativo, será designado Responsável pelo Monitoramento",
+   "alternativas": [
+    "o Comandante de Companhia, pessoalmente, em todos os turnos de serviço",
+    "o Comandante de Força de Patrulha ou, na falta dele, o de Grupo de Patrulha",
+    "o Coordenador de Operações do Batalhão, com apoio do Gabinete Técnico",
+    "o oficial da agência de área do policial militar monitorado no período"
+   ],
+   "correta": 1,
+   "explicacao": "O Cmt Cia é o responsável pela fase, mas o Responsável pelo Monitoramento é o CFP ou, na impossibilidade deste, o CGP do respectivo turno de serviço, incumbido da observação e dos registros diários do desempenho do policial militar.",
+   "tags": [
+    "cmr",
+    "terceira-fase",
+    "responsavel"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-026",
+   "subtema": "CMR — 3ª fase",
+   "artigo": "OS PM3-006/03/20 — Registros diários",
+   "enunciado": "O Relatório de Mitigação de Riscos da terceira fase, relativo ao período de monitoramento, deve ser preenchido",
+   "alternativas": [
+    "pelo Comandante de Companhia, com base nos registros do sistema de escalas",
+    "apenas pelo responsável pelo monitoramento, ao final dos trinta dias corridos",
+    "apenas pelo policial monitorado, em forma de autoavaliação semanal",
+    "pelo policial monitorado e pelo responsável, a cada dia trabalhado"
+   ],
+   "correta": 3,
+   "explicacao": "A cada dia trabalhado, o policial monitorado e o responsável pelo monitoramento preenchem os campos que lhes cabem; ao final, o Cmt Cia finaliza e subscreve o relatório, encaminhando-o ao Presidente da Comissão por intermédio do Coord Op Btl.",
+   "tags": [
+    "cmr",
+    "terceira-fase",
+    "relatorio"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-027",
+   "subtema": "CMR — 4ª fase",
+   "artigo": "OS PM3-006/03/20 — Avaliação final",
+   "enunciado": "A quarta fase da Comissão de Mitigação de Riscos, de avaliação final, realiza-se na sede do Comando de Policiamento, na semana subsequente ao término da terceira fase, com a participação",
+   "alternativas": [
+    "do Corregedor PM e do encarregado do procedimento disciplinar correspondente",
+    "de todos os membros e convidados que participaram da reunião da primeira fase",
+    "do Comandante de Companhia e do responsável pelo monitoramento educativo",
+    "do Presidente, do Coord Op Btl e do Chefe do Gabinete Técnico do Comando"
+   ],
+   "correta": 3,
+   "explicacao": "A avaliação final reúne o Presidente, o Coord Op Btl e o Chefe do Gabinete Técnico do Comando de Policiamento, que revisam os relatórios das três fases anteriores, colhem o feedback dos envolvidos e elaboram o Relatório de Mitigação de Riscos da quarta fase, com o parecer final.",
+   "tags": [
+    "cmr",
+    "quarta-fase",
+    "composicao"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-028",
+   "subtema": "CMR — 4ª fase",
+   "artigo": "OS PM3-006/03/20 — Parecer final",
+   "enunciado": "Concluindo a Comissão, na avaliação final, que não é necessário complementar o aprimoramento profissional,",
+   "alternativas": [
+    "a Comissão oficia à DEC para matrícula em curso de atualização profissional",
+    "os autos são remetidos à Corregedoria para arquivamento e controle estatístico",
+    "o policial militar permanece em funções administrativas por mais trinta dias",
+    "o Presidente encerra os trabalhos e os relatórios originais são arquivados no GT ou P/3"
+   ],
+   "correta": 3,
+   "explicacao": "O Presidente encerra os trabalhos, os relatórios originais são arquivados no Gabinete Técnico ou na P/3 da OPM de origem e os policiais são reapresentados para retorno às atividades de rotina, salvo se houver restrição operacional vinculada ao PAAPM.",
+   "tags": [
+    "cmr",
+    "quarta-fase",
+    "encerramento"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-029",
+   "subtema": "CMR — 4ª fase",
+   "artigo": "OS PM3-006/03/20 — Insuficiência das ações",
+   "enunciado": "Verificada a insuficiência das ações educativas desenvolvidas, a Comissão de Mitigação de Riscos",
+   "alternativas": [
+    "reinicia integralmente os trabalhos, a partir de nova reunião da primeira fase",
+    "remete o caso à Corregedoria para instauração de procedimento disciplinar",
+    "determina o afastamento definitivo do policial militar das funções operacionais",
+    "oficia à DEC, via canal de comando, para frequência a curso ou estágio específico"
+   ],
+   "correta": 3,
+   "explicacao": "Constatada a insuficiência, a Comissão oficia à Diretoria de Ensino e Cultura, pelo canal de comando, para frequência a curso ou estágio, como o de Procedimentos de Menor Potencial Ofensivo, mantendo-se o caráter educativo dos trabalhos.",
+   "tags": [
+    "cmr",
+    "quarta-fase",
+    "insuficiencia"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-030",
+   "subtema": "CMR — 4ª fase",
+   "artigo": "OS PM3-006/03/20 — Retorno às atividades",
+   "enunciado": "Encerrados os trabalhos da Comissão de Mitigação de Riscos com parecer favorável, o retorno do policial militar às atividades de rotina",
+   "alternativas": [
+    "depende de nova avaliação psicológica no CAPS ou no NAPS correspondente",
+    "ocorre com sua reapresentação, salvo restrição operacional vinculada ao PAAPM",
+    "depende de autorização expressa do Comandante de Policiamento da área",
+    "ocorre somente após decurso de trinta dias do encerramento dos trabalhos"
+   ],
+   "correta": 1,
+   "explicacao": "Os policiais são reapresentados para retorno às atividades de rotina, ressalvada a existência de restrição operacional decorrente de Nível de Acompanhamento prescrito no PAAPM, programa que corre em paralelo e cuida da saúde mental.",
+   "tags": [
+    "cmr",
+    "quarta-fase",
+    "retorno"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-031",
+   "subtema": "PAAPM — disposições gerais",
+   "artigo": "NI PM3-001/03/20 — Finalidade",
+   "enunciado": "O Programa de Acompanhamento e Apoio ao Policial Militar destina-se a avaliar as condições psicoemocionais do policial militar envolvido em situações que impliquem risco à sua integridade física e psíquica e",
+   "alternativas": [
+    "avaliar a necessidade de aprimoramento técnico-profissional dos envolvidos no evento",
+    "apurar as não conformidades operacionais verificadas no atendimento da ocorrência",
+    "adotar medidas para preservar ou restabelecer o equilíbrio psicoemocional",
+    "instruir eventual procedimento disciplinar decorrente do uso da força pelo policial"
+   ],
+   "correta": 2,
+   "explicacao": "A finalidade do PAAPM é avaliar as condições psicoemocionais e adotar medidas para preservar ou restabelecer o equilíbrio, propiciando o adequado retorno às atividades profissionais. A análise das não conformidades operacionais migrou para a Comissão de Mitigação de Riscos.",
+   "tags": [
+    "paapm",
+    "finalidade"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-032",
+   "subtema": "PAAPM — disposições gerais",
+   "artigo": "NI PM3-001/03/20 — Objetivo e missão",
+   "enunciado": "O objetivo declarado do PAAPM é consolidar medidas administrativas voltadas",
+   "alternativas": [
+    "à substituição do afastamento médico por acompanhamento psicológico ambulatorial",
+    "à redução dos índices de letalidade decorrentes de intervenções policiais no Estado",
+    "ao controle disciplinar dos policiais militares envolvidos em eventos críticos",
+    "à proteção do policial militar quanto à preservação e ao restabelecimento da saúde mental"
+   ],
+   "correta": 3,
+   "explicacao": "O objetivo é consolidar medidas administrativas de proteção do policial militar no aspecto da preservação e do restabelecimento de sua saúde mental, cabendo à Instituição adotar medidas administrativas para o restabelecimento psicoemocional dos envolvidos em situações de risco.",
+   "tags": [
+    "paapm",
+    "objetivo"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-033",
+   "subtema": "PAAPM — conceitos",
+   "artigo": "NI PM3-001/03/20 — Trauma",
+   "enunciado": "Do ponto de vista psicológico, o conceito de trauma adotado pelo PAAPM corresponde",
+   "alternativas": [
+    "à transgressão às defesas psíquicas naturais, resultante de eventos potencialmente traumáticos",
+    "à lesão corporal sofrida pelo policial militar durante o atendimento da ocorrência",
+    "ao acontecimento que representa perigo segundo a interpretação personalíssima do agente",
+    "à situação vinculada a acontecimento não esperado e com resultado negativo"
+   ],
+   "correta": 0,
+   "explicacao": "Por analogia com a lesão causada por agente externo, o trauma psicológico é a transgressão às defesas psíquicas naturais, resultante da exposição a eventos potencialmente traumáticos. As demais alternativas definem evento potencialmente crítico e circunstâncias trágicas.",
+   "tags": [
+    "paapm",
+    "conceitos",
+    "trauma"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-034",
+   "subtema": "PAAPM — conceitos",
+   "artigo": "NI PM3-001/03/20 — Evento potencialmente crítico",
+   "enunciado": "Define-se evento potencialmente crítico, na norma do PAAPM, como",
+   "alternativas": [
+    "todo acontecimento que provoque ou represente perigo segundo interpretação própria",
+    "o acontecimento relativo ao gerenciamento de crise com compressão de tempo para decidir",
+    "a situação vinculada a acontecimento não esperado e com resultado negativo",
+    "a exposição prolongada do policial militar a situações de risco iminente no serviço"
+   ],
+   "correta": 0,
+   "explicacao": "O evento potencialmente crítico é todo acontecimento que, a despeito de sua natureza, venha a provocar ou representar perigo em face de sua interpretação personalíssima. O gerenciamento de crise caracteriza o evento crítico, e o resultado negativo inesperado, as circunstâncias trágicas.",
+   "tags": [
+    "paapm",
+    "conceitos",
+    "evento-critico"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-035",
+   "subtema": "PAAPM — conceitos",
+   "artigo": "NI PM3-001/03/20 — Evento crítico",
+   "enunciado": "São considerados eventos críticos, na norma do PAAPM, aqueles relativos",
+   "alternativas": [
+    "aos acidentes de trânsito com vítima sofridos pela própria equipe policial",
+    "à exposição involuntária do policial a situações de risco durante a folga",
+    "às ocorrências com resultado morte decorrente de intervenção policial em serviço",
+    "ao gerenciamento de crise, com compressão de tempo e imprevisibilidade na decisão"
+   ],
+   "correta": 3,
+   "explicacao": "Eventos críticos são os relativos ao gerenciamento de uma crise que, somados à compressão de tempo para articulação e tomada de decisão e à imprevisibilidade, podem desencadear consequências graves e indesejáveis.",
+   "tags": [
+    "paapm",
+    "conceitos",
+    "crise"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-036",
+   "subtema": "PAAPM — conceitos",
+   "artigo": "NI PM3-001/03/20 — Circunstâncias trágicas",
+   "enunciado": "Circunstâncias trágicas, para os fins do PAAPM, são situações vinculadas a acontecimento",
+   "alternativas": [
+    "de natureza disciplinar, que afeta a estabilidade funcional do policial envolvido",
+    "previsível e de resultado incerto, que exige do policial militar decisão imediata",
+    "não esperado e com resultado negativo, que causam estresse ao policial militar",
+    "reiterado no cotidiano policial, cuja repetição gera insensibilidade progressiva"
+   ],
+   "correta": 2,
+   "explicacao": "As circunstâncias trágicas vinculam-se a acontecimento não esperado e com resultado negativo, caracterizando ocorrências graves que causam ao policial militar estresse com diretas decorrências orgânicas e emocionais, capazes de interferir no resultado das ocorrências.",
+   "tags": [
+    "paapm",
+    "conceitos",
+    "tragicas"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-037",
+   "subtema": "PAAPM — conceitos",
+   "artigo": "NI PM3-001/03/20 — Abordagem psicoeducativa",
+   "enunciado": "As práticas da psicologia aplicadas no PAAPM, alinhadas ao SisMen, recorrem a técnicas psicoeducativas que objetivam",
+   "alternativas": [
+    "avaliar a aptidão do policial militar para o porte de arma de fogo em serviço",
+    "substituir integralmente o tratamento clínico especializado em saúde mental",
+    "diminuir sintomas e superar limitações sociais e ocupacionais do policial militar",
+    "identificar simulação de sintomas por parte do policial militar avaliado"
+   ],
+   "correta": 2,
+   "explicacao": "As abordagens psicoeducativas, combinadas a estratégias cognitivo-comportamentais e interpessoais, objetivam diminuir sintomas e superar limitações sociais e ocupacionais, atuando preventivamente em favor do desenvolvimento psicoemocional.",
+   "tags": [
+    "paapm",
+    "conceitos",
+    "psicoeducacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-038",
+   "subtema": "PAAPM — aplicação",
+   "artigo": "NI PM3-001/03/20 — Destinatários",
+   "enunciado": "O Programa de Acompanhamento e Apoio ao Policial Militar destina-se",
+   "alternativas": [
+    "aos policiais militares da ativa, exclusivamente quando em situação de serviço",
+    "aos policiais militares da ativa e aos inativos expostos a situações de risco",
+    "a todo policial militar da ativa que, de folga ou de serviço, esteja exposto a situação de risco",
+    "aos policiais militares da ativa, excetuados os integrantes de unidades especializadas"
+   ],
+   "correta": 2,
+   "explicacao": "O PAAPM alcança todo policial militar do serviço ativo que, de folga ou de serviço, tenha a integridade física e psíquica exposta a situações de risco, sem exclusão de unidades especializadas e sem alcançar os inativos.",
+   "tags": [
+    "paapm",
+    "aplicacao",
+    "destinatarios"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-039",
+   "subtema": "PAAPM — aplicação",
+   "artigo": "NI PM3-001/03/20 — Hipóteses de aplicação",
+   "enunciado": "Assinale a situação que não figura entre as hipóteses de submissão ao PAAPM.",
+   "alternativas": [
+    "Participação direta em intervenção policial com resultado morte, em serviço ou de folga",
+    "Resgate e salvamento de vítimas de acidentes de graves proporções ou calamidades",
+    "Agressão direta ou indireta dirigida ao policial militar ou à sua família",
+    "Reincidência de faltas disciplinares no período de um ano de efetivo serviço"
+   ],
+   "correta": 3,
+   "explicacao": "As hipóteses são salvamento e resgate em acidentes graves, circunstâncias trágicas ou calamidades; acidente de trânsito grave com vítima; agressão direta ou indireta ao policial ou à família em razão da condição de policial militar; instabilidade emocional ou mudança nos padrões de desempenho; e participação direta em intervenção policial com resultado morte, de folga ou em serviço. A reincidência disciplinar não integra o rol.",
+   "tags": [
+    "paapm",
+    "aplicacao",
+    "hipoteses"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-040",
+   "subtema": "PAAPM — aplicação",
+   "artigo": "NI PM3-001/03/20 — Acidente de trânsito",
+   "enunciado": "O acidente de trânsito que enseja a submissão ao PAAPM é o",
+   "alternativas": [
+    "acidente de qualquer natureza ocorrido durante o deslocamento para o serviço",
+    "acidente com vítima fatal, exclusivamente quando envolver viatura policial-militar",
+    "acidente grave com vítima, em atendimento a terceiros ou sofrido pela própria equipe",
+    "acidente com danos materiais de grande monta a veículos de terceiros"
+   ],
+   "correta": 2,
+   "explicacao": "A hipótese abrange o acidente de trânsito grave com vítima, como abalroamentos, colisões, choques, atropelamentos e capotamentos, tanto em atendimento a terceiros quanto sofridos pela própria equipe.",
+   "tags": [
+    "paapm",
+    "aplicacao",
+    "transito"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-041",
+   "subtema": "PAAPM — aplicação",
+   "artigo": "NI PM3-001/03/20 — Procura espontânea",
+   "enunciado": "Entre as hipóteses de submissão ao PAAPM, a norma prevê expressamente a possibilidade de procura espontânea pelo próprio policial militar no caso de",
+   "alternativas": [
+    "comportamento associado a quadro emocional instável ou mudança de desempenho",
+    "participação direta em intervenção policial com resultado morte em serviço",
+    "agressão direta ou indireta dirigida ao policial militar ou à sua família",
+    "resgate e salvamento de vítimas em acidentes de graves proporções"
+   ],
+   "correta": 0,
+   "explicacao": "A indicação, nessa hipótese, pode decorrer da apresentação do policial ao CAPS ou NAPS pelo superior hierárquico ou funcional, ou da procura espontânea do próprio profissional, o que a distingue das demais situações de aplicação do programa.",
+   "tags": [
+    "paapm",
+    "aplicacao",
+    "espontanea"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-042",
+   "subtema": "PAAPM — aplicação",
+   "artigo": "NI PM3-001/03/20 — Instabilidade emocional",
+   "enunciado": "O comportamento associado a quadro emocional instável, que enseja submissão ao PAAPM, pode revelar-se, a título de ilustração, por",
+   "alternativas": [
+    "recusa reiterada em participar de treinamentos técnicos promovidos pela unidade",
+    "reincidência em faltas disciplinares de natureza média no período de um ano",
+    "indícios de depressão, agressividade, problemas de autoconfiança e de integração social",
+    "resultados insuficientes nas avaliações periódicas de aptidão física da corporação"
+   ],
+   "correta": 2,
+   "explicacao": "A norma exemplifica o quadro emocional instável com indícios de depressão, agressividade, problemas de autoconfiança e de integração social, entre outras mudanças nos padrões habituais de desempenho funcional.",
+   "tags": [
+    "paapm",
+    "aplicacao",
+    "instabilidade"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-043",
+   "subtema": "PAAPM — estrutura",
+   "artigo": "NI PM3-001/03/20 — Relação com a CMR",
+   "enunciado": "Com a reformulação do PAAPM, a análise das não conformidades operacionais nas mortes decorrentes de intervenção policial em serviço",
+   "alternativas": [
+    "permaneceu no PAAPM, como segunda fase denominada Comissão de Estudo de Caso",
+    "passou à Comissão de Mitigação de Riscos, ficando o PAAPM restrito à saúde mental",
+    "foi transferida à Corregedoria PM, que instaura procedimento disciplinar próprio",
+    "passou à Comissão de Controle de Letalidade, presidida pelo Comandante Geral"
+   ],
+   "correta": 1,
+   "explicacao": "A antiga segunda fase do PAAPM, a Comissão de Estudo de Caso, foi transferida para a Ordem de Serviço da Comissão de Mitigação de Riscos, de modo que o PAAPM passou a cuidar exclusivamente da saúde mental e a CMR dos aspectos operacionais.",
+   "tags": [
+    "paapm",
+    "estrutura",
+    "cmr"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-044",
+   "subtema": "PAAPM — estrutura",
+   "artigo": "NI PM3-001/03/20 — Fases do programa",
+   "enunciado": "O PAAPM, na sistemática vigente, compreende",
+   "alternativas": [
+    "três fases, sendo a segunda a Comissão de Estudo de Caso realizada no Comando",
+    "quatro fases, incluindo o EEP Procedimentos de Menor Potencial Ofensivo ao final",
+    "duas fases: avaliação psicológica inicial e reavaliação psicológica no CAPS ou NAPS",
+    "três fases: avaliação psicológica inicial, EEP Desenvolvimento Psicoemocional e reavaliação"
+   ],
+   "correta": 3,
+   "explicacao": "São três fases: avaliação psicológica inicial, EEP Desenvolvimento Psicoemocional e reavaliação psicológica. A antiga quarta fase, do EEP Procedimentos de Menor Potencial Ofensivo, foi extinta, podendo esse curso ser uma das medidas adotadas pela Comissão de Mitigação de Riscos.",
+   "tags": [
+    "paapm",
+    "estrutura",
+    "fases"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-045",
+   "subtema": "PAAPM — 1ª fase",
+   "artigo": "NI PM3-001/03/20 — Avaliação psicológica inicial",
+   "enunciado": "A avaliação psicológica inicial do PAAPM é realizada",
+   "alternativas": [
+    "na própria OPM de origem, por oficial designado pelo Comandante do Batalhão",
+    "no CAPS ou no NAPS respectivo, por profissional da área de saúde mental",
+    "no Centro Médico, por junta médica composta por psiquiatras da Instituição",
+    "em clínica civil credenciada, mediante convênio com a Diretoria de Saúde"
+   ],
+   "correta": 1,
+   "explicacao": "A primeira fase ocorre no CAPS ou no NAPS respectivo, por profissional da área de saúde mental, e alcança todas as situações que ensejam o PAAPM, resultando em parecer com prescrição de Acompanhamento Nível I a III ou de liberação.",
+   "tags": [
+    "paapm",
+    "primeira-fase",
+    "local"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-046",
+   "subtema": "PAAPM — 1ª fase",
+   "artigo": "NI PM3-001/03/20 — Prazo de apresentação",
+   "enunciado": "A apresentação do policial militar ao CAPS ou NAPS, para a avaliação psicológica inicial, deve ocorrer",
+   "alternativas": [
+    "em até quarenta e oito horas do fato, independentemente da hipótese aplicável",
+    "em até cinco dias úteis do fato, inclusive nos casos de comportamento instável",
+    "em até três dias úteis do fato, salvo nos casos de comportamento instável",
+    "no prazo fixado pelo CAPS na convocação enviada à OPM de origem do policial"
+   ],
+   "correta": 2,
+   "explicacao": "A apresentação cabe ao Cmt, Ch ou Dir, independentemente de convocação, em até três dias úteis posteriores ao fato, salvo nos casos de comportamento instável, cuja apresentação pode ocorrer a qualquer tempo, respeitados os períodos de folga.",
+   "tags": [
+    "paapm",
+    "primeira-fase",
+    "prazo"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-047",
+   "subtema": "PAAPM — 1ª fase",
+   "artigo": "NI PM3-001/03/20 — Horário e parecer",
+   "enunciado": "Quanto à apresentação para a avaliação psicológica inicial, a norma estabelece que",
+   "alternativas": [
+    "seja feita a qualquer horário do expediente administrativo, mediante prévio agendamento",
+    "seja feita às sete horas e trinta minutos, exceto nos NAPS, conforme agenda do núcleo",
+    "seja feita no período da tarde, para não prejudicar a escala de serviço do policial",
+    "dispense parecer do comando, bastando o encaminhamento do boletim de ocorrência"
+   ],
+   "correta": 1,
+   "explicacao": "A apresentação é sempre às sete horas e trinta minutos, exceto nos NAPS, cujo horário se adequa à agenda do núcleo, respeitado o prazo. O Cmt, Ch ou Dir elabora parecer, preferencialmente por intermédio do Cmt Cia, Chefe de Seção ou autoridade de escalão superior, com síntese expositiva do fato gerador.",
+   "tags": [
+    "paapm",
+    "primeira-fase",
+    "parecer"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-048",
+   "subtema": "PAAPM — 1ª fase",
+   "artigo": "NI PM3-001/03/20 — Resultado da avaliação",
+   "enunciado": "A avaliação psicológica inicial resulta em parecer do profissional da área de saúde mental com uma das seguintes prescrições:",
+   "alternativas": [
+    "encaminhamento ao Centro Médico, ao PMRG ou à Comissão de Mitigação de Riscos",
+    "aptidão plena, restrição parcial ou afastamento temporário do serviço ativo",
+    "apto, inapto temporário ou inapto definitivo para o serviço policial-militar",
+    "Acompanhamento Nível I, II ou III, ou liberação do policial militar avaliado"
+   ],
+   "correta": 3,
+   "explicacao": "O parecer indica Acompanhamento Nível I, II ou III, ou a liberação do avaliado. A inaptidão para o serviço é matéria de inspeção de saúde, e não do PAAPM, que tem natureza administrativa e psicoeducativa.",
+   "tags": [
+    "paapm",
+    "primeira-fase",
+    "prescricao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-049",
+   "subtema": "PAAPM — 1ª fase",
+   "artigo": "NI PM3-001/03/20 — Indicação para a 2ª fase",
+   "enunciado": "A indicação de matrícula e frequência do policial militar ao EEP Desenvolvimento Psicoemocional",
+   "alternativas": [
+    "depende de deliberação do Comandante da OPM de origem do policial militar",
+    "somente é possível quando prescrito o Acompanhamento Nível I na primeira fase",
+    "pode dar-se em qualquer momento do PAAPM, independentemente do Nível atribuído",
+    "ocorre automaticamente sempre que houver morte decorrente de intervenção policial"
+   ],
+   "correta": 2,
+   "explicacao": "A indicação para o EEP dá-se em qualquer momento do programa, observados critérios técnicos do profissional de saúde mental e independentemente do Nível de Acompanhamento atribuído, por ser medida de apoio necessária ao reequilíbrio.",
+   "tags": [
+    "paapm",
+    "primeira-fase",
+    "eep"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-050",
+   "subtema": "PAAPM — 1ª fase",
+   "artigo": "NI PM3-001/03/20 — Emprego enquanto aguarda o EEP",
+   "enunciado": "Enquanto aguarda o início das atividades do EEP Desenvolvimento Psicoemocional, o policial militar",
+   "alternativas": [
+    "será empregado apenas em atividades administrativas, qualquer que seja o Nível",
+    "permanecerá afastado de qualquer atividade até o início do estágio programado",
+    "poderá ser empregado em atividade compatível com o Nível de Acompanhamento atribuído",
+    "retornará integralmente às atividades operacionais até a data da matrícula"
+   ],
+   "correta": 2,
+   "explicacao": "A norma permite o emprego em atividade que esteja em consonância com o Nível de Acompanhamento prescrito pelo profissional de saúde mental, o que preserva o policial sem afastá-lo integralmente do serviço.",
+   "tags": [
+    "paapm",
+    "primeira-fase",
+    "emprego"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-051",
+   "subtema": "PAAPM — 1ª fase",
+   "artigo": "NI PM3-001/03/20 — Abrangência da fase",
+   "enunciado": "Quanto à abrangência da avaliação psicológica inicial, é correto afirmar que",
+   "alternativas": [
+    "apenas os casos de morte decorrente de intervenção policial passam por essa fase",
+    "todos os casos de submissão ao programa passam necessariamente por essa fase",
+    "os casos de agressão ao policial dispensam a avaliação, indo direto ao EEP",
+    "os casos de procura espontânea dispensam a avaliação inicial no CAPS ou NAPS"
+   ],
+   "correta": 1,
+   "explicacao": "A avaliação psicológica inicial ocorre em todas as situações que ensejam o PAAPM, sejam elas de salvamento, acidente de trânsito, agressão, instabilidade emocional ou morte decorrente de intervenção policial, de folga ou em serviço.",
+   "tags": [
+    "paapm",
+    "primeira-fase",
+    "abrangencia"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-052",
+   "subtema": "PAAPM — disposições gerais",
+   "artigo": "NI PM3-001/03/20 — Postura institucional",
+   "enunciado": "Quanto às ocorrências com resultado morte, a norma registra que a Polícia Militar adota postura proativa, ciente de que esse resultado",
+   "alternativas": [
+    "embora possível, não é desejado nem buscado pelos profissionais interventores",
+    "é consequência natural do emprego da força em intervenções policiais legítimas",
+    "deve ser tratado exclusivamente no âmbito dos procedimentos disciplinares cabíveis",
+    "exige o afastamento imediato do policial militar das atividades operacionais"
+   ],
+   "correta": 0,
+   "explicacao": "A norma afirma a postura proativa da Instituição, reconhecendo que o resultado morte, embora possível na atividade laboral, não é desejado nem buscado, e por isso investe em técnicas de menor potencial ofensivo e em ferramentas de atenção à saúde e qualidade de vida.",
+   "tags": [
+    "paapm",
+    "postura-institucional"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-053",
+   "subtema": "PAAPM — 2ª fase",
+   "artigo": "NI PM3-001/03/20 — EEP Desenvolvimento Psicoemocional",
+   "enunciado": "A segunda fase do PAAPM consiste na matrícula e frequência do policial militar ao EEP Desenvolvimento Psicoemocional, sob responsabilidade",
+   "alternativas": [
+    "do Comando de Policiamento, por meio de seu Gabinete Técnico regional",
+    "da OPM de origem, que designa instrutores entre seus oficiais mais antigos",
+    "da Diretoria de Ensino e Cultura, que fixa o currículo e designa os professores",
+    "do CAPS ou do NAPS, conforme prescrição do profissional da área de saúde mental"
+   ],
+   "correta": 3,
+   "explicacao": "O EEP funciona sob responsabilidade do CAPS ou NAPS, conforme prescrição decorrente da avaliação da primeira fase. Ao CAPS, na condição de OPM gestora do conhecimento, cabe designar professores quando o estágio funcionar em sua sede e propor o aperfeiçoamento do currículo à DEC.",
+   "tags": [
+    "paapm",
+    "segunda-fase",
+    "eep"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-054",
+   "subtema": "PAAPM — 2ª fase",
+   "artigo": "NI PM3-001/03/20 — Situação do policial no EEP",
+   "enunciado": "Durante a frequência ao EEP Desenvolvimento Psicoemocional, o policial militar",
+   "alternativas": [
+    "fica adido ao CAPS, com prejuízo da remuneração recebida na unidade de origem",
+    "permanece escalado normalmente no serviço operacional de sua unidade de origem",
+    "fica à disposição da OPM que desenvolve o estágio, sendo apresentado após convocação",
+    "é dispensado do serviço até a reavaliação psicológica da terceira fase"
+   ],
+   "correta": 2,
+   "explicacao": "O comandante apresenta o policial após convocação do CAPS ou NAPS, ficando ele à disposição da OPM que desenvolve o estágio durante o EEP. Não há prejuízo remuneratório, e a reapresentação à unidade de origem ocorre ao término das atividades.",
+   "tags": [
+    "paapm",
+    "segunda-fase",
+    "situacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-055",
+   "subtema": "PAAPM — 2ª fase",
+   "artigo": "NI PM3-001/03/20 — Vedação de DEJEM",
+   "enunciado": "O policial militar que estiver frequentando o EEP Desenvolvimento Psicoemocional",
+   "alternativas": [
+    "não poderá ser empregado em atividade delegada nem em DEJEM",
+    "poderá ser empregado em atividade delegada, vedado apenas o DEJEM",
+    "poderá inscrever-se no DEJEM desde que em policiamento ostensivo a pé",
+    "poderá ser empregado em ambas, desde que fora do horário do estágio"
+   ],
+   "correta": 0,
+   "explicacao": "É vedado o emprego em atividade delegada ou DEJEM ao policial que estiver frequentando o EEP, vedação que também alcança quem estiver sob prescrição de Acompanhamento Nível I.",
+   "tags": [
+    "paapm",
+    "segunda-fase",
+    "dejem"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-056",
+   "subtema": "PAAPM — 2ª fase",
+   "artigo": "NI PM3-001/03/20 — Substituição facultativa",
+   "enunciado": "A frequência ao EEP Desenvolvimento Psicoemocional poderá ser substituída por sessões de atendimento clínico-psicológico",
+   "alternativas": [
+    "sempre que houver insuficiência de vagas no estágio promovido pelo CAPS",
+    "somente quando o policial militar estiver sob prescrição de Acompanhamento Nível III",
+    "quando a recomendação técnica assim indicar, independentemente do Nível atribuído",
+    "apenas quando o policial militar residir em município sem NAPS credenciado"
+   ],
+   "correta": 2,
+   "explicacao": "A substituição facultativa depende apenas da recomendação técnica, independentemente do Nível de Acompanhamento atribuído, mantendo-se a necessidade de realização da terceira fase, a reavaliação psicológica, dentro de três meses.",
+   "tags": [
+    "paapm",
+    "segunda-fase",
+    "substituicao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-057",
+   "subtema": "PAAPM — 2ª fase",
+   "artigo": "NI PM3-001/03/20 — Substituição obrigatória",
+   "enunciado": "A frequência à segunda fase será obrigatoriamente substituída por atendimento clínico-psicológico quando o policial militar avaliado",
+   "alternativas": [
+    "tiver participado de intervenção policial com resultado morte em serviço",
+    "estiver respondendo a processo de natureza exoneratória, com Nível prescrito",
+    "estiver classificado em unidade especializada de operações especiais",
+    "tiver frequentado o estágio nos doze meses anteriores à nova avaliação"
+   ],
+   "correta": 1,
+   "explicacao": "Respondendo o policial a processo administrativo de natureza exoneratória, como PAD, Conselho de Disciplina, Conselho de Justificação ou processo administrativo de exoneração, e prescrito Nível de Acompanhamento, a segunda fase é substituída pelo atendimento clínico-psicológico, seguindo-se a terceira fase.",
+   "tags": [
+    "paapm",
+    "segunda-fase",
+    "exoneratorio"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-058",
+   "subtema": "PAAPM — 2ª fase",
+   "artigo": "NI PM3-001/03/20 — Exceção do PMRG",
+   "enunciado": "A regra de substituição obrigatória da segunda fase por atendimento clínico-psicológico comporta exceção quanto aos policiais militares",
+   "alternativas": [
+    "lotados em unidades especializadas, que possuem acompanhamento próprio",
+    "recolhidos ao Presídio Militar Romão Gomes, com equipe multidisciplinar",
+    "que já tenham concluído o estágio em oportunidade anterior no mesmo ano",
+    "submetidos a Conselho de Justificação, por dependerem de decisão judicial"
+   ],
+   "correta": 1,
+   "explicacao": "A exceção alcança os policiais recolhidos ao PMRG, cuja rotina já inclui acompanhamento por equipe multidisciplinar, dispensando-se a substituição por atendimento clínico-psicológico prevista para quem responde a processo exoneratório.",
+   "tags": [
+    "paapm",
+    "segunda-fase",
+    "pmrg"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-059",
+   "subtema": "PAAPM — 2ª fase",
+   "artigo": "NI PM3-001/03/20 — Término do estágio",
+   "enunciado": "Ao término do EEP Desenvolvimento Psicoemocional, obtendo o policial militar prescrição de aptidão plena,",
+   "alternativas": [
+    "deverá submeter-se à reavaliação psicológica no prazo máximo de três meses",
+    "fica liberado para atividades operacionais e administrativas, isento da terceira fase",
+    "permanecerá em funções administrativas até nova avaliação no CAPS ou NAPS",
+    "será encaminhado à Comissão de Mitigação de Riscos para avaliação operacional"
+   ],
+   "correta": 1,
+   "explicacao": "A aptidão plena ao final da segunda fase libera o policial para as atividades operacionais e administrativas, isento de Nível de Acompanhamento e também da terceira fase. É a única exceção à obrigatoriedade da reavaliação psicológica.",
+   "tags": [
+    "paapm",
+    "segunda-fase",
+    "aptidao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-060",
+   "subtema": "PAAPM — 2ª fase",
+   "artigo": "NI PM3-001/03/20 — Manutenção do nível",
+   "enunciado": "Mantido ou prescrito novo Nível de Acompanhamento ao término da segunda fase,",
+   "alternativas": [
+    "o policial militar reinicia o estágio, até obter prescrição de aptidão plena",
+    "agenda-se a reavaliação psicológica no prazo máximo de três meses do término do EEP",
+    "o caso é encaminhado ao Centro Médico para inspeção de saúde específica",
+    "o policial militar permanece à disposição do CAPS por mais trinta dias corridos"
+   ],
+   "correta": 1,
+   "explicacao": "Havendo manutenção ou nova prescrição de Nível de Acompanhamento, agenda-se a terceira fase, de reavaliação psicológica, no prazo máximo de três meses contados do término do EEP.",
+   "tags": [
+    "paapm",
+    "segunda-fase",
+    "reavaliacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-061",
+   "subtema": "PAAPM — 2ª fase",
+   "artigo": "NI PM3-001/03/20 — Reapresentação",
+   "enunciado": "A reapresentação do policial militar à OPM de origem, ao término do estágio, dar-se-á",
+   "alternativas": [
+    "após autorização do Comandante da OPM que desenvolveu o estágio",
+    "somente após o recebimento do resultado pela unidade, em até seis dias úteis",
+    "no mesmo dia do término, em qualquer hipótese, independentemente do dia da semana",
+    "no início do expediente administrativo seguinte, salvo véspera de fim de semana ou feriado"
+   ],
+   "correta": 3,
+   "explicacao": "A reapresentação ocorre no início do expediente administrativo seguinte ao término do estágio, salvo em vésperas de fim de semana e feriado, quando pode ser feita na mesma data, indicando-se aptidão plena, manutenção ou prescrição de novo Nível.",
+   "tags": [
+    "paapm",
+    "segunda-fase",
+    "reapresentacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-062",
+   "subtema": "PAAPM — 3ª fase",
+   "artigo": "NI PM3-001/03/20 — Reavaliação psicológica",
+   "enunciado": "A terceira fase do PAAPM consiste na reavaliação psicológica realizada no CAPS ou NAPS e destina-se",
+   "alternativas": [
+    "à monitoria do profissional que ainda exija algum Nível de Acompanhamento",
+    "à avaliação inicial dos policiais que não passaram pela primeira fase do programa",
+    "à verificação da aptidão para o porte de arma de fogo do policial militar",
+    "à homologação do encerramento dos trabalhos da Comissão de Mitigação de Riscos"
+   ],
+   "correta": 0,
+   "explicacao": "A reavaliação destina-se à monitoria do profissional que exija algum Nível de Acompanhamento, decorrendo do término do EEP Desenvolvimento Psicoemocional ou do atendimento clínico-psicológico que o tenha substituído.",
+   "tags": [
+    "paapm",
+    "terceira-fase",
+    "finalidade"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-063",
+   "subtema": "PAAPM — 3ª fase",
+   "artigo": "NI PM3-001/03/20 — Resultado da reavaliação",
+   "enunciado": "Se, na reavaliação psicológica, o policial militar apresentar evolução que não recomende mais qualquer Nível de Acompanhamento,",
+   "alternativas": [
+    "será submetido a nova avaliação inicial, para encerramento formal do programa",
+    "permanecerá em acompanhamento por mais três meses, a título de observação",
+    "deverá frequentar novamente o EEP, para consolidação dos resultados alcançados",
+    "será considerado plenamente apto às atividades operacionais e administrativas"
+   ],
+   "correta": 3,
+   "explicacao": "Constatada a evolução, o policial é considerado plenamente apto às atividades operacionais e administrativas, sem necessidade de nova reavaliação para fins de acompanhamento de suas condições psicoemocionais.",
+   "tags": [
+    "paapm",
+    "terceira-fase",
+    "resultado"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-064",
+   "subtema": "PAAPM — 3ª fase",
+   "artigo": "NI PM3-001/03/20 — Novo agendamento",
+   "enunciado": "Recomendando o quadro diagnosticado na reavaliação a manutenção de Nível de Acompanhamento I, II ou III,",
+   "alternativas": [
+    "o policial militar será encaminhado à inspeção de saúde para eventual reforma",
+    "nova reavaliação deverá ser agendada no prazo máximo de três meses",
+    "o policial militar deverá frequentar o EEP novamente, em caráter obrigatório",
+    "o caso será submetido à Comissão Superior de Auditoria do programa"
+   ],
+   "correta": 1,
+   "explicacao": "Persistindo a necessidade de acompanhamento, nova reavaliação é agendada no prazo máximo de três meses, podendo o profissional de saúde mental, sobretudo em sucessivas reavaliações, recomendar algum tipo de atendimento clínico-psicológico.",
+   "tags": [
+    "paapm",
+    "terceira-fase",
+    "prazo"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-065",
+   "subtema": "PAAPM — 3ª fase",
+   "artigo": "NI PM3-001/03/20 — Prazo de comunicação",
+   "enunciado": "Realizada a reavaliação psicológica, o CAPS ou NAPS deverá encaminhar à OPM de origem o resultado, com a prescrição correspondente,",
+   "alternativas": [
+    "no prazo de até seis dias úteis contados da reavaliação realizada",
+    "no prazo de até três dias úteis contados da reavaliação realizada",
+    "no prazo de até trinta dias corridos contados da reavaliação realizada",
+    "no primeiro dia útil subsequente à reavaliação, por meio eletrônico"
+   ],
+   "correta": 0,
+   "explicacao": "O prazo é de até seis dias úteis para encaminhamento do resultado com prescrição de Nível de Acompanhamento, que exige nova reavaliação em até três meses, ou de aptidão plena para atividades operacionais ou administrativas.",
+   "tags": [
+    "paapm",
+    "terceira-fase",
+    "comunicacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-066",
+   "subtema": "PAAPM — níveis",
+   "artigo": "NI PM3-001/03/20 — Acompanhamento Nível I",
+   "enunciado": "A prescrição de Acompanhamento Nível I permite ao policial militar o exercício",
+   "alternativas": [
+    "apenas de funções administrativas, vedados o DEJEM e a atividade delegada",
+    "de funções administrativas e de policiamento ostensivo a pé, vedado o motorizado",
+    "de funções administrativas e operacionais, sem qualquer restrição de emprego",
+    "de atendimento ao público e registro de ocorrências em edificações policiais"
+   ],
+   "correta": 0,
+   "explicacao": "O Nível I admite apenas funções administrativas, entre elas as territoriais básicas e peculiares previstas nas matrizes organizacionais, e veda o emprego em atividade delegada e em DEJEM enquanto perdurar a prescrição.",
+   "tags": [
+    "paapm",
+    "niveis",
+    "nivel-i"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-067",
+   "subtema": "PAAPM — níveis",
+   "artigo": "NI PM3-001/03/20 — Acompanhamento Nível II",
+   "enunciado": "O Acompanhamento Nível II permite funções administrativas, atendimento ao público e registro de ocorrências em edificações policiais-militares, além",
+   "alternativas": [
+    "do emprego em atividade delegada, vedado somente o DEJEM noturno",
+    "do policiamento motorizado, vedado apenas o emprego em operações especiais",
+    "de qualquer atividade operacional, desde que acompanhada por outro policial",
+    "do policiamento ostensivo a pé, vedado o emprego em policiamento motorizado"
+   ],
+   "correta": 3,
+   "explicacao": "No Nível II é vedado o emprego em processo de policiamento motorizado, sendo permitido o policiamento ostensivo a pé, cabendo ao próprio policial cientificar o responsável pela atividade operacional dessa condição durante a revista da tropa que antecede a escala.",
+   "tags": [
+    "paapm",
+    "niveis",
+    "nivel-ii"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-068",
+   "subtema": "PAAPM — níveis",
+   "artigo": "NI PM3-001/03/20 — Ciência da condição",
+   "enunciado": "A ciência ao responsável pela realização da atividade operacional acerca da restrição decorrente do Acompanhamento Nível II incumbe",
+   "alternativas": [
+    "ao Chefe do Gabinete Técnico, por ocasião da publicação em boletim interno",
+    "ao Comandante de Companhia, por meio de documento reservado ao escalante",
+    "ao CAPS ou NAPS, que comunica diretamente o comandante da fração de tropa",
+    "ao próprio policial militar, durante a revista da tropa que antecede a escala"
+   ],
+   "correta": 3,
+   "explicacao": "A norma atribui ao próprio policial militar o dever de cientificar o responsável pela atividade operacional acerca da restrição, durante a revista da tropa que antecede o início do cumprimento da escala.",
+   "tags": [
+    "paapm",
+    "niveis",
+    "ciencia"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-069",
+   "subtema": "PAAPM — níveis",
+   "artigo": "NI PM3-001/03/20 — Acompanhamento Nível III",
+   "enunciado": "A prescrição de Acompanhamento Nível III permite ao policial militar",
+   "alternativas": [
+    "a liberação plena, encerrando-se automaticamente o acompanhamento",
+    "apenas o exercício de funções administrativas na sede da unidade de origem",
+    "o exercício de funções operacionais exclusivamente em policiamento a pé",
+    "o exercício de funções administrativas e operacionais, mantido o acompanhamento"
+   ],
+   "correta": 3,
+   "explicacao": "O Nível III permite funções administrativas e operacionais, sendo o menos restritivo dos três; ainda assim, por existir prescrição de acompanhamento, permanece a obrigatoriedade da reavaliação psicológica da terceira fase.",
+   "tags": [
+    "paapm",
+    "niveis",
+    "nivel-iii"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-070",
+   "subtema": "PAAPM — níveis",
+   "artigo": "NI PM3-001/03/20 — Finalidade das prescrições",
+   "enunciado": "As prescrições de Níveis de Acompanhamento nas fases do PAAPM são definidas com o intuito de",
+   "alternativas": [
+    "preservar o profissional de atividades que favoreçam elevada exposição ao risco",
+    "sancionar administrativamente o policial militar envolvido em evento crítico",
+    "reduzir o efetivo empregado em atividades operacionais de maior complexidade",
+    "possibilitar o controle estatístico da letalidade nas intervenções policiais"
+   ],
+   "correta": 0,
+   "explicacao": "As prescrições visam preservar o profissional do exercício de atividades que, por sua natureza, favoreçam elevada exposição ao risco, enquanto se restabelece sua saúde mental e se acompanham suas condições psicoemocionais.",
+   "tags": [
+    "paapm",
+    "niveis",
+    "finalidade"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-071",
+   "subtema": "PAAPM — níveis",
+   "artigo": "Dtz PM3-004/02/21 — DEJEM",
+   "enunciado": "Segundo a Diretriz que disciplina a DEJEM, o policial militar sob Acompanhamento Nível II",
+   "alternativas": [
+    "poderá inscrever-se mediante autorização expressa do profissional de saúde mental",
+    "está impedido de inscrever-se em qualquer modalidade de atividade DEJEM",
+    "poderá inscrever-se em qualquer modalidade, inclusive no policiamento motorizado",
+    "poderá inscrever-se quando a atividade for exclusivamente de policiamento a pé"
+   ],
+   "correta": 3,
+   "explicacao": "Para o Nível II, a Diretriz admite a inscrição e a realização do DEJEM quando a atividade for exclusivamente por meio do processo de policiamento ostensivo a pé, o que é coerente com a vedação ao policiamento motorizado.",
+   "tags": [
+    "paapm",
+    "niveis",
+    "dejem"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-072",
+   "subtema": "PAAPM — níveis",
+   "artigo": "Dtz PM3-004/02/21 — Requisitos do DEJEM",
+   "enunciado": "Entre os requisitos para o emprego do efetivo em atividade DEJEM, a Diretriz de 2021 menciona não estar frequentando o EEP Desenvolvimento Psicoemocional ou o EEP Procedimentos de Menor Potencial Ofensivo, este último",
+   "alternativas": [
+    "criado pela Ordem de Serviço que instituiu a Comissão de Mitigação de Riscos",
+    "referido à segunda fase do PAAPM, mantida na sistemática vigente do programa",
+    "aplicável a todos os policiais militares submetidos ao programa, em qualquer fase",
+    "referido à quarta fase do PAAPM, já extinta pela norma de 2020 do programa"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz da DEJEM, editada em 2021, ainda menciona a quarta fase do PAAPM, extinta pela norma de 2020, que reduziu o programa a três fases. O EEP de Procedimentos de Menor Potencial Ofensivo pode hoje ser medida adotada pela Comissão de Mitigação de Riscos.",
+   "tags": [
+    "paapm",
+    "dejem",
+    "atualizacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-073",
+   "subtema": "PAAPM — coordenação",
+   "artigo": "NI PM3-001/03/20 — Coordenação geral",
+   "enunciado": "A coordenação geral do PAAPM compete",
+   "alternativas": [
+    "à Diretoria de Pessoal, que gerencia o programa e dissemina a doutrina do Comando Geral",
+    "ao Subcomandante PM, que preside a Comissão Superior de Auditoria do programa",
+    "ao Centro de Apoio Psicológico e Social, responsável pela execução dos atendimentos",
+    "à Diretoria de Saúde, que centraliza as ações de saúde mental na Instituição"
+   ],
+   "correta": 0,
+   "explicacao": "A coordenação geral é da Diretoria de Pessoal, que gerencia o PAAPM no âmbito da Instituição, dissemina a doutrina do Comando Geral e padroniza os procedimentos. O CAPS exerce a coordenação executiva e os CPI e CPA com NAPS, a coordenação regional.",
+   "tags": [
+    "paapm",
+    "coordenacao",
+    "geral"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-074",
+   "subtema": "PAAPM — coordenação",
+   "artigo": "NI PM3-001/03/20 — Coordenação executiva",
+   "enunciado": "A coordenação executiva do PAAPM compete ao CAPS, a quem cabe",
+   "alternativas": [
+    "designar os membros das comissões de mitigação de riscos dos Comandos de Policiamento",
+    "organizar, gerir e auditar as ações de atendimento e controlar o pessoal atendido",
+    "apresentar os policiais militares aos núcleos regionais de apoio psicológico e social",
+    "deliberar sobre os Níveis de Acompanhamento prescritos pelos profissionais de saúde"
+   ],
+   "correta": 1,
+   "explicacao": "Ao CAPS, coordenador executivo, cabe adotar providências para a organização, a gestão e a auditoria das ações de atendimento, bem como o controle de pessoal dos profissionais atendidos, monitorando e supervisionando as fases do programa em toda a Instituição.",
+   "tags": [
+    "paapm",
+    "coordenacao",
+    "executiva"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-075",
+   "subtema": "PAAPM — coordenação",
+   "artigo": "NI PM3-001/03/20 — Coordenação regional",
+   "enunciado": "A coordenação regional do PAAPM cabe aos Comandos de Policiamento do Interior e de Área que possuam NAPS, os quais atenderão",
+   "alternativas": [
+    "somente o efetivo das unidades territoriais, excluídas as unidades especializadas",
+    "todo o efetivo sediado territorialmente em suas regiões, nos padrões do Coordenador-Geral",
+    "o efetivo que expressamente solicitar atendimento no núcleo de sua região",
+    "o efetivo da própria sede do Comando, remetendo os demais casos ao CAPS"
+   ],
+   "correta": 1,
+   "explicacao": "Os coordenadores regionais atendem, por meio de seus NAPS habilitados, todo o efetivo sediado territorialmente em suas regiões, nos padrões estabelecidos pelo Coordenador-Geral e conforme os procedimentos da coordenação executiva.",
+   "tags": [
+    "paapm",
+    "coordenacao",
+    "regional"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-076",
+   "subtema": "PAAPM — coordenação",
+   "artigo": "NI PM3-001/03/20 — Atendimento do efetivo",
+   "enunciado": "O atendimento do efetivo sediado nas circunscrições dos Comandos de Policiamento Metropolitanos e do Interior será realizado",
+   "alternativas": [
+    "pelos NAPS credenciados pelo CAPS, observada a residência do atendido",
+    "exclusivamente pelo CAPS, na capital, independentemente da residência do atendido",
+    "por profissionais civis credenciados pela Diretoria de Saúde em cada município",
+    "pelos próprios oficiais de recursos humanos das unidades de origem dos policiais"
+   ],
+   "correta": 0,
+   "explicacao": "Nas circunscrições dos CPM e CPI o atendimento é feito pelos NAPS credenciados pelo CAPS, observando-se sempre que possível o local de residência do atendido, ao passo que no âmbito do CPC o atendimento cabe ao próprio CAPS ou a NAPS designado.",
+   "tags": [
+    "paapm",
+    "coordenacao",
+    "atendimento"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-077",
+   "subtema": "PAAPM — coordenação",
+   "artigo": "NI PM3-001/03/20 — Regiões sem NAPS",
+   "enunciado": "Os Grandes Comandos cujos municípios de atuação não disponham de NAPS deverão",
+   "alternativas": [
+    "suspender a aplicação do programa até a criação de núcleo na respectiva região",
+    "encaminhar o policial a psicólogos civis credenciados pela Polícia Federal",
+    "solicitar a designação de equipe itinerante do CAPS para atendimento local",
+    "apresentar o policial no CAPS ou em NAPS limítrofe ou próximo à sua residência"
+   ],
+   "correta": 3,
+   "explicacao": "A norma determina que se empenhem esforços para apresentar o policial no CAPS ou em NAPS limítrofe ou próximo à região onde ele reside, especialmente quando deva frequentar o EEP, respeitados em qualquer circunstância os prazos das fases do programa.",
+   "tags": [
+    "paapm",
+    "coordenacao",
+    "naps"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-078",
+   "subtema": "PAAPM — coordenação",
+   "artigo": "NI PM3-001/03/20 — Parcerias",
+   "enunciado": "Para suprir eventuais carências internas de profissionais para a execução do programa, a norma autoriza",
+   "alternativas": [
+    "a delegação dos atendimentos aos oficiais médicos do Centro Médico da Instituição",
+    "a contratação direta de psicólogos autônomos pelas unidades operacionais",
+    "o encaminhamento dos policiais à rede pública estadual de saúde mental",
+    "o estabelecimento de parcerias, especialmente com estabelecimentos de ensino superior"
+   ],
+   "correta": 3,
+   "explicacao": "A norma autoriza parcerias, em consonância com o Decreto nº 46.039/01 e com o RI-25-PM, especialmente com estabelecimentos de ensino superior, para suprir eventuais carências internas de profissionais na execução do PAAPM.",
+   "tags": [
+    "paapm",
+    "coordenacao",
+    "parcerias"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-079",
+   "subtema": "PAAPM — comissões",
+   "artigo": "NI PM3-001/03/20 — Comissão Superior de Auditoria",
+   "enunciado": "A Comissão Superior de Auditoria do PAAPM é presidida",
+   "alternativas": [
+    "pelo Chefe do CAPS, coordenador executivo das ações do programa",
+    "pelo Diretor de Pessoal, na condição de Coordenador-Geral do programa",
+    "pelo Corregedor PM, a quem cabe a fiscalização das atividades de auditoria",
+    "pelo Subcomandante PM, sendo o Chefe do CAPS o seu secretário"
+   ],
+   "correta": 3,
+   "explicacao": "A Comissão Superior de Auditoria é presidida pelo Subcomandante PM e secretariada pelo Chefe do CAPS, incumbindo-lhe a avaliação da sistemática do programa e a adoção de medidas para o seu aperfeiçoamento.",
+   "tags": [
+    "paapm",
+    "comissoes",
+    "auditoria"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-080",
+   "subtema": "PAAPM — comissões",
+   "artigo": "NI PM3-001/03/20 — Composição da CSA",
+   "enunciado": "Integram a Comissão Superior de Auditoria do PAAPM, entre outros membros,",
+   "alternativas": [
+    "o Coord Op PM, o Corregedor PM, o Chefe do CIPM, o CComSoc e o Diretor de Pessoal",
+    "os Comandantes de todos os Batalhões territoriais do Estado de São Paulo",
+    "os chefes dos NAPS credenciados em cada Comando de Policiamento do Interior",
+    "representantes da Diretoria de Saúde e do Centro Médico da Instituição"
+   ],
+   "correta": 0,
+   "explicacao": "A Comissão reúne, entre outros, o Coord Op PM, o Corregedor PM, o Chefe do CIPM, o CComSoc, a CAJ, o Diretor de Pessoal e comandantes de grandes comandos operacionais e especializados, com secretaria do Chefe do CAPS.",
+   "tags": [
+    "paapm",
+    "comissoes",
+    "composicao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-081",
+   "subtema": "PAAPM — comissões",
+   "artigo": "NI PM3-001/03/20 — Atribuição da CSA",
+   "enunciado": "À Comissão Superior de Auditoria do PAAPM incumbe",
+   "alternativas": [
+    "auditar individualmente os atendimentos prestados pelos profissionais de saúde",
+    "deliberar sobre os Níveis de Acompanhamento prescritos em cada caso concreto",
+    "avaliar a sistemática do programa e adotar medidas necessárias ao seu aperfeiçoamento",
+    "apurar a responsabilidade disciplinar dos policiais militares submetidos ao programa"
+   ],
+   "correta": 2,
+   "explicacao": "A Comissão avalia a sistemática do PAAPM e adota medidas de aperfeiçoamento, sem interferir nas prescrições técnicas de cada caso, que competem aos profissionais da área de saúde mental.",
+   "tags": [
+    "paapm",
+    "comissoes",
+    "atribuicoes"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-082",
+   "subtema": "PAAPM — comissões",
+   "artigo": "Comissão de Controle de Letalidade",
+   "enunciado": "Comparadas a Comissão Superior de Auditoria do PAAPM e a Comissão de Controle de Letalidade, é correto afirmar que",
+   "alternativas": [
+    "ambas são presididas pelo Diretor de Pessoal, coordenador-geral do programa",
+    "são o mesmo colegiado, apenas com denominações diversas em normas diferentes",
+    "são colegiados distintos, sendo a de letalidade voltada a assessorar o Comando Geral",
+    "ambas estão disciplinadas na Nota de Instrução que regula o PAAPM"
+   ],
+   "correta": 2,
+   "explicacao": "São colegiados distintos: a Comissão Superior de Auditoria avalia e aperfeiçoa o PAAPM, ao passo que a Comissão de Controle de Letalidade, presidida pelo Subcomandante e coordenada pelo Diretor de Pessoal, assessora o Comandante Geral no controle da letalidade e não está disciplinada na norma do PAAPM.",
+   "tags": [
+    "paapm",
+    "comissoes",
+    "letalidade"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-083",
+   "subtema": "PAAPM — comissões",
+   "artigo": "Comissão de Controle de Letalidade — composição",
+   "enunciado": "A Comissão de Controle de Letalidade tem por secretário",
+   "alternativas": [
+    "o Chefe do CComSoc, sendo o Coord Op PM o seu coordenador",
+    "o Chefe do CAPS, sendo o Corregedor PM o seu coordenador",
+    "o Corregedor PM, sendo o Diretor de Pessoal o seu coordenador",
+    "o Chefe do CIPM, sendo o Subcomandante PM o seu coordenador"
+   ],
+   "correta": 2,
+   "explicacao": "Na Comissão de Controle de Letalidade, o Subcomandante PM preside, o Diretor de Pessoal coordena e o Corregedor PM secretaria, integrando-a ainda o CIPM, o Chefe do CComSoc e a DPCDH.",
+   "tags": [
+    "paapm",
+    "comissoes",
+    "letalidade"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-084",
+   "subtema": "PAAPM — atribuições",
+   "artigo": "NI PM3-001/03/20 — Diretoria de Pessoal",
+   "enunciado": "Entre as atribuições da Diretoria de Pessoal, como coordenadora-geral do PAAPM, inclui-se",
+   "alternativas": [
+    "apresentar os policiais militares para a avaliação psicológica inicial",
+    "realizar localmente as auditorias dos serviços prestados pelos núcleos regionais",
+    "designar professores para o EEP quando este funcionar na sede do CAPS",
+    "designar equipes de auditoria para verificar as atividades desenvolvidas pelos NAPS"
+   ],
+   "correta": 3,
+   "explicacao": "À DP cabe coordenar o funcionamento geral, estabelecer por meio do CAPS os procedimentos e protocolos, implementar políticas de absorção da demanda, designar equipes de auditoria, promover estudos periódicos e reuniões e informar o Subcomandante sobre a evolução dos trabalhos. As auditorias locais e a designação de professores são do CAPS.",
+   "tags": [
+    "paapm",
+    "atribuicoes",
+    "dp"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-085",
+   "subtema": "PAAPM — atribuições",
+   "artigo": "NI PM3-001/03/20 — CAPS",
+   "enunciado": "Compete ao CAPS, no âmbito do PAAPM,",
+   "alternativas": [
+    "disseminar a doutrina do Comando Geral e padronizar os procedimentos",
+    "determinar as políticas e estratégias de absorção da demanda institucional",
+    "promover reuniões com os membros da Comissão Superior de Auditoria",
+    "monitorar e supervisionar as fases do programa em toda a Instituição"
+   ],
+   "correta": 3,
+   "explicacao": "O monitoramento e a supervisão do funcionamento das fases em toda a Instituição são atribuição direta do Chefe do Centro, coordenador executivo, a quem também cabem as auditorias locais, o aperfeiçoamento do currículo do EEP e o planejamento dos recursos. As demais alternativas descrevem atribuições da Diretoria de Pessoal.",
+   "tags": [
+    "paapm",
+    "atribuicoes",
+    "caps"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-086",
+   "subtema": "PAAPM — atribuições",
+   "artigo": "NI PM3-001/03/20 — Relatório mensal",
+   "enunciado": "O encaminhamento ao Subcomandante PM, até o quinto dia útil de cada mês, de relação quantitativa por fase e por Nível de Acompanhamento compete",
+   "alternativas": [
+    "aos Comandos de Policiamento com NAPS, por canal de comando",
+    "à Diretoria de Pessoal, diretamente ao Subcomandante PM",
+    "ao CAPS, por intermédio da Corregedoria da Polícia Militar",
+    "à Comissão Superior de Auditoria, ao final de cada trimestre"
+   ],
+   "correta": 2,
+   "explicacao": "Cabe ao CAPS encaminhar ao Subcmt PM, por intermédio da Corregedoria PM, até o quinto dia útil de cada mês, a relação quantitativa por fase e por Nível de Acompanhamento, instrumento de controle gerencial do programa.",
+   "tags": [
+    "paapm",
+    "atribuicoes",
+    "relatorio"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-087",
+   "subtema": "PAAPM — atribuições",
+   "artigo": "NI PM3-001/03/20 — Gestão do conhecimento",
+   "enunciado": "Na condição de OPM gestora do conhecimento, compete ao CAPS",
+   "alternativas": [
+    "credenciar instituições de ensino superior para ministrar o estágio no interior",
+    "expedir os certificados de conclusão do EEP aos policiais militares matriculados",
+    "aprovar o currículo do EEP, dispensada manifestação da Diretoria de Ensino",
+    "designar professores para a segunda fase e propor à DEC revisões curriculares do EEP"
+   ],
+   "correta": 3,
+   "explicacao": "Como OPM gestora do conhecimento, o CAPS designa professores para a segunda fase quando o EEP funcionar em sua sede, assessora os NAPS e elabora e propõe o contínuo aperfeiçoamento do currículo do estágio, encaminhando à DEC eventuais sugestões de revisão curricular.",
+   "tags": [
+    "paapm",
+    "atribuicoes",
+    "ogc"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-088",
+   "subtema": "PAAPM — atribuições",
+   "artigo": "NI PM3-001/03/20 — Comandantes, Chefes e Diretores",
+   "enunciado": "Incumbe ao Comandante, Chefe ou Diretor do policial militar submetido ao PAAPM",
+   "alternativas": [
+    "apresentá-lo no CAPS ou NAPS, elaborar o parecer e divulgar o programa no público interno",
+    "prescrever o Nível de Acompanhamento aplicável enquanto aguarda a avaliação inicial",
+    "auditar as ações de atendimento prestadas pelos núcleos de apoio da região",
+    "designar o profissional de saúde mental que realizará a avaliação do subordinado"
+   ],
+   "correta": 0,
+   "explicacao": "Ao Cmt, Ch ou Dir cabe apresentar o policial independentemente de convocação, elaborar o parecer com informações e síntese do fato gerador, encaminhá-lo ao CAPS ou NAPS e divulgar o programa junto ao público interno, deixando patente a preocupação institucional com a saúde psicoemocional.",
+   "tags": [
+    "paapm",
+    "atribuicoes",
+    "comandantes"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-089",
+   "subtema": "PAAPM — atribuições",
+   "artigo": "NI PM3-001/03/20 — Parecer do comando",
+   "enunciado": "O parecer que acompanha a apresentação do policial militar ao CAPS ou NAPS será elaborado",
+   "alternativas": [
+    "pelo profissional de saúde mental que realizará a avaliação psicológica inicial",
+    "obrigatoriamente pelo Comandante do Batalhão, sem possibilidade de delegação",
+    "preferencialmente pelo Cmt Cia, Chefe de Seção ou autoridade superior",
+    "pelo Coordenador de Operações do Batalhão, com base nos registros da ocorrência"
+   ],
+   "correta": 2,
+   "explicacao": "O parecer do Cmt, Ch ou Dir é elaborado preferencialmente por intermédio dos respectivos Cmt Cia PM, Chefes de Seção ou equivalentes, ou por autoridade policial-militar de escalão superior, com informações sobre o policial e síntese expositiva do fato gerador.",
+   "tags": [
+    "paapm",
+    "atribuicoes",
+    "parecer"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-090",
+   "subtema": "PAAPM — temas correlatos",
+   "artigo": "NI PM3-004/03/17 — PrPAP",
+   "enunciado": "O Programa de Aconselhamento Psicológico, disciplinado em norma própria, destina-se",
+   "alternativas": [
+    "ao policial militar submetido a processo administrativo de natureza exoneratória",
+    "ao policial militar inativo que necessite de suporte psicoemocional continuado",
+    "ao policial militar em formação, na transição para a vida adulta e para a fase prática",
+    "aos familiares do policial militar vitimado em intervenção policial com resultado morte"
+   ],
+   "correta": 2,
+   "explicacao": "O PrPAP volta-se ao policial militar em formação, oferecendo suporte psicoemocional na transição da adolescência para a vida adulta e da fase teórica para a prática, ao passo que o PAAPM alcança o policial da ativa exposto às situações de risco previstas na norma.",
+   "tags": [
+    "paapm",
+    "prpap",
+    "formacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-091",
+   "subtema": "PAAPM — temas correlatos",
+   "artigo": "GESPOL — Área de gestão",
+   "enunciado": "No modelo de gestão institucional, o PAAPM integra",
+   "alternativas": [
+    "a Gestão da Comunicação Social, na diretiva de interlocução com os públicos",
+    "a Gestão de Pessoas, na diretiva de administração de pessoal da Instituição",
+    "a Gestão Operacional, na diretiva de ações complementares de responsabilidade social",
+    "a Gestão de Saúde, na diretiva de saúde mental, vinculada ao SisMen"
+   ],
+   "correta": 3,
+   "explicacao": "O PAAPM está inserido na Gestão de Saúde, diretiva de saúde mental, alinhada ao SisMen, o que confirma sua natureza de programa de proteção psicoemocional, e não de instrumento de administração de pessoal ou de controle operacional.",
+   "tags": [
+    "paapm",
+    "gespol",
+    "sismen"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-092",
+   "subtema": "PAAPM — temas correlatos",
+   "artigo": "PAAVI — Análise de acidente com viatura",
+   "enunciado": "O Procedimento de Análise de Acidente com Viatura, conjunto de atos destinados ao estudo de caso para prevenir acidentes, ocorrerá até o quinto dia útil subsequente ao acidente e, até a realização do estudo, os policiais militares envolvidos",
+   "alternativas": [
+    "deverão ser apresentados obrigatoriamente ao PAAPM para avaliação inicial",
+    "não poderão exercer a função de motorista de viatura policial-militar",
+    "executarão apenas atividades administrativas na sede da unidade de origem",
+    "realizarão treinamento a distância sobre condução de veículos de emergência"
+   ],
+   "correta": 1,
+   "explicacao": "Até a realização do estudo de caso, a restrição imposta é a de não exercer a função de motorista de viatura. A apresentação ao PAAPM depende do enquadramento nas hipóteses próprias, como o acidente de trânsito grave com vítima.",
+   "tags": [
+    "paapm",
+    "paavi",
+    "viatura"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-093",
+   "subtema": "Síntese",
+   "artigo": "CMR e PAAPM — distinção",
+   "enunciado": "Comparados os dois instrumentos, é correto afirmar que",
+   "alternativas": [
+    "a CMR integra o PAAPM como sua segunda fase, dedicada ao estudo de caso",
+    "o PAAPM cuida da saúde mental e a CMR, dos aspectos operacionais",
+    "ambos têm natureza disciplinar e instruem eventual procedimento apuratório",
+    "ambos se aplicam apenas às ocorrências com resultado morte ocorridas em serviço"
+   ],
+   "correta": 1,
+   "explicacao": "Com a reformulação, o PAAPM passou a cuidar exclusivamente da saúde mental do policial da ativa, de folga ou em serviço, e a Comissão de Mitigação de Riscos, dos aspectos operacionais ligados à morte decorrente de intervenção policial, ambos com caráter não disciplinar.",
+   "tags": [
+    "cmr",
+    "paapm",
+    "sintese"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "cmr-paapm-elab-094",
+   "subtema": "Síntese",
+   "artigo": "CMR e PAAPM — aplicação simultânea",
+   "enunciado": "Policial militar envolvido diretamente em intervenção policial com resultado morte, em serviço, será",
+   "alternativas": [
+    "submetido apenas ao PAAPM, ficando a CMR reservada aos casos ocorridos em folga",
+    "submetido apenas à Comissão de Mitigação de Riscos, por se tratar de fato em serviço",
+    "submetido ao PAAPM e terá o caso examinado pela Comissão de Mitigação de Riscos",
+    "dispensado de ambos os procedimentos se houver inquérito policial militar instaurado"
+   ],
+   "correta": 2,
+   "explicacao": "As duas sistemáticas convivem: o PAAPM cuida das condições psicoemocionais, com avaliação inicial no CAPS ou NAPS, e a CMR examina, com finalidade educativa, a necessidade de aprimoramento profissional, sem prejuízo das apurações disciplinares e criminais próprias.",
+   "tags": [
+    "cmr",
+    "paapm",
+    "aplicacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-095",
+   "subtema": "Síntese",
+   "artigo": "CMR e PAAPM — restrições",
+   "enunciado": "Encerrados os trabalhos da Comissão de Mitigação de Riscos com parecer favorável, mas subsistindo prescrição de Acompanhamento Nível I no PAAPM, o policial militar",
+   "alternativas": [
+    "retornará integralmente às atividades de rotina, por força do parecer da Comissão",
+    "retornará apenas às funções administrativas, enquanto perdurar a prescrição",
+    "permanecerá afastado de qualquer atividade até nova reavaliação psicológica",
+    "será reapresentado à Comissão para revisão do parecer final emitido"
+   ],
+   "correta": 1,
+   "explicacao": "A reapresentação para retorno às atividades de rotina é ressalvada quando houver restrição operacional vinculada ao PAAPM: subsistindo o Nível I, apenas funções administrativas são permitidas, vedados ainda o DEJEM e a atividade delegada.",
+   "tags": [
+    "cmr",
+    "paapm",
+    "restricoes"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-096",
+   "subtema": "Síntese",
+   "artigo": "CMR — aplicação prática",
+   "enunciado": "Comandante de Batalhão pretende juntar o Relatório de Mitigação de Riscos da primeira fase ao processo disciplinar instaurado contra o policial militar envolvido. A providência",
+   "alternativas": [
+    "é possível, desde que autorizada pelo Presidente da Comissão de Mitigação de Riscos",
+    "é vedada pela norma, que proíbe a juntada dos relatórios a procedimentos apuratórios",
+    "é obrigatória, por constituir o relatório elemento de prova sobre a dinâmica dos fatos",
+    "é possível apenas se o policial militar envolvido consentir expressamente por escrito"
+   ],
+   "correta": 1,
+   "explicacao": "A vedação é expressa e não comporta autorização ou consentimento: os relatórios ficam adstritos à Comissão e servem apenas ao aprimoramento profissional, preservando-se o caráter educativo dos trabalhos.",
+   "tags": [
+    "cmr",
+    "aplicacao",
+    "vedacoes"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-097",
+   "subtema": "Síntese",
+   "artigo": "PAAPM — aplicação prática",
+   "enunciado": "Policial militar de folga é agredido em razão de sua condição, junto com um familiar. Quanto ao PAAPM,",
+   "alternativas": [
+    "há hipótese de aplicação, devendo ser apresentado em até três dias úteis do fato",
+    "não há hipótese de aplicação, por ter ocorrido fora do horário de serviço",
+    "há hipótese de aplicação apenas se a agressão resultar em lesão corporal grave",
+    "a apresentação depende de procura espontânea do próprio policial militar"
+   ],
+   "correta": 0,
+   "explicacao": "A agressão direta ou indireta dirigida ao policial militar ou à sua família, relacionada à sua condição, é hipótese expressa de aplicação do programa, que alcança o policial da ativa de folga ou em serviço, com apresentação pelo comando em até três dias úteis.",
+   "tags": [
+    "paapm",
+    "aplicacao",
+    "agressao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-098",
+   "subtema": "Síntese",
+   "artigo": "PAAPM — aplicação prática",
+   "enunciado": "Policial militar em Acompanhamento Nível II é escalado para o policiamento motorizado por engano do escalante. A conduta correta é",
+   "alternativas": [
+    "cumprir a escala, por não haver vedação expressa ao policiamento motorizado no Nível II",
+    "cientificar o responsável pela atividade durante a revista da tropa, por ser vedado o emprego",
+    "aguardar o início do serviço e recusar formalmente a missão perante o comandante",
+    "comunicar o fato ao CAPS, que deliberará sobre a possibilidade excepcional do emprego"
+   ],
+   "correta": 1,
+   "explicacao": "No Nível II é vedado o emprego em processo de policiamento motorizado, cabendo ao próprio policial cientificar o responsável pela realização da atividade operacional dessa condição, durante a revista da tropa que antecede o início da escala.",
+   "tags": [
+    "paapm",
+    "aplicacao",
+    "nivel-ii"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-099",
+   "subtema": "Síntese",
+   "artigo": "PAAPM — aplicação prática",
+   "enunciado": "Ao término do EEP, o policial militar obtém prescrição de Acompanhamento Nível III e a unidade recebe o resultado. A providência correta é",
+   "alternativas": [
+    "agendar a reavaliação psicológica no prazo máximo de três meses do término do estágio",
+    "encerrar o acompanhamento, pois o Nível III permite atividades administrativas e operacionais",
+    "manter o policial em funções administrativas até a conclusão de nova avaliação inicial",
+    "encaminhar o caso à Comissão Superior de Auditoria para revisão da prescrição"
+   ],
+   "correta": 0,
+   "explicacao": "A prescrição de qualquer Nível, inclusive o III, impõe a reavaliação psicológica no prazo máximo de três meses contados do término do EEP. Somente a aptidão plena isenta o policial da terceira fase.",
+   "tags": [
+    "paapm",
+    "aplicacao",
+    "reavaliacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-100",
+   "subtema": "Síntese",
+   "artigo": "CMR — aplicação prática",
+   "enunciado": "Ocorrência com resultado morte envolve policiais militares de um Batalhão territorial e de uma unidade especializada de outro Comando de Policiamento. Quanto aos trabalhos,",
+   "alternativas": [
+    "instala-se Comissão única no Comando com responsabilidade territorial sobre o local",
+    "cada Comando instala sua Comissão e a autoridade superior delibera sobre as demais fases",
+    "a Comissão é presidida pelo Corregedor PM, dada a pluralidade de unidades envolvidas",
+    "os trabalhos aguardam a conclusão do inquérito policial militar sobre o fato"
+   ],
+   "correta": 1,
+   "explicacao": "A Ordem Complementar determina que cada Comando de Policiamento instale sua Comissão para a primeira fase, remetendo os relatórios à autoridade imediatamente superior, que delibera sobre as providências e as demais fases para assegurar isonomia entre os envolvidos.",
+   "tags": [
+    "cmr",
+    "aplicacao",
+    "opm-distintas"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-101",
+   "subtema": "Síntese",
+   "artigo": "CMR — aplicação prática",
+   "enunciado": "Durante a reunião da primeira fase, um membro da Comissão pretende inquirir o policial militar envolvido sobre detalhes da dinâmica do disparo. Essa pretensão",
+   "alternativas": [
+    "é admissível, desde que o envolvido concorde em prestar esclarecimentos",
+    "é inadmissível, pois é vedada inquirição com fins investigativos na Comissão",
+    "é admissível, por integrar a coleta de informações sobre a ocorrência atendida",
+    "é inadmissível apenas se houver inquérito policial militar em andamento"
+   ],
+   "correta": 1,
+   "explicacao": "A participação do envolvido é facultativa e limitada à manifestação sobre a dinâmica da ocorrência, sendo vedada qualquer inquirição com fins investigativos e a solicitação de dados ou provas, o que preserva a natureza educativa dos trabalhos.",
+   "tags": [
+    "cmr",
+    "aplicacao",
+    "inquiricao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-102",
+   "subtema": "Síntese",
+   "artigo": "PAAPM — aplicação prática",
+   "enunciado": "Policial militar responde a Conselho de Disciplina e, na avaliação inicial do PAAPM, recebe prescrição de Acompanhamento Nível II. Quanto à segunda fase,",
+   "alternativas": [
+    "dependerá de autorização do presidente do Conselho de Disciplina instaurado",
+    "será cumprida normalmente, pois o processo disciplinar não interfere no programa",
+    "será dispensada, prosseguindo-se diretamente para a reavaliação psicológica",
+    "será substituída por atendimento clínico-psicológico, seguindo-se a reavaliação"
+   ],
+   "correta": 3,
+   "explicacao": "Respondendo o policial a processo administrativo de natureza exoneratória, como o Conselho de Disciplina, e prescrito Nível de Acompanhamento, a frequência à segunda fase é substituída pelo atendimento clínico-psicológico, após o qual se realiza a terceira fase.",
+   "tags": [
+    "paapm",
+    "aplicacao",
+    "exoneratorio"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-103",
+   "subtema": "Síntese",
+   "artigo": "CMR — aplicação prática",
+   "enunciado": "Na segunda fase da Comissão de Mitigação de Riscos, o policial militar obtém nota três na prova escrita do Treinamento Dirigido. Nesse caso,",
+   "alternativas": [
+    "refará o ciclo de treinamento até alcançar a nota mínima de aprovação",
+    "prosseguirá para a terceira fase, com anotação da nota no relatório da fase",
+    "ficará em dependência, aguardando a elaboração de novo plano educativo",
+    "será encaminhado à DEC para frequência a curso de especialização específico"
+   ],
+   "correta": 0,
+   "explicacao": "Não alcançada a nota mínima cinco, o policial refaz o ciclo até a aprovação, requisito para o prosseguimento à terceira fase. O ofício à DEC para curso ou estágio ocorre apenas na avaliação final, quando constatada a insuficiência das ações educativas.",
+   "tags": [
+    "cmr",
+    "aplicacao",
+    "avaliacao"
+   ]
+  },
+  {
+   "id": "cmr-paapm-elab-104",
+   "subtema": "Síntese",
+   "artigo": "PAAPM — aplicação prática",
+   "enunciado": "Unidade sediada em município sem NAPS precisa apresentar policial militar enquadrado no programa. Quanto aos prazos das fases,",
+   "alternativas": [
+    "passam a ser fixados pelo Comandante da unidade, conforme a disponibilidade de meios",
+    "ficam suspensos até a designação de núcleo credenciado na respectiva região",
+    "são prorrogados automaticamente pelo dobro, em razão da distância do atendimento",
+    "devem ser respeitados em qualquer circunstância, mesmo em núcleo limítrofe"
+   ],
+   "correta": 3,
+   "explicacao": "A norma é expressa: em qualquer circunstância, os prazos para avaliação inicial, matrícula e frequência ao EEP e reavaliação psicológica devem ser respeitados, ainda que a apresentação ocorra no CAPS ou em NAPS limítrofe ou próximo à residência do avaliado.",
+   "tags": [
+    "paapm",
+    "aplicacao",
+    "prazos"
+   ],
+   "revisada": "2026-09-13"
+  }
+ ]
+}

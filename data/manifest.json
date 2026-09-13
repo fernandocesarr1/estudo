@@ -135,6 +135,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "cmr-paapm-elab",
+      "nome": "Mitigacao de Riscos e PAAPM",
+      "nomeCompleto": "Comissao de Mitigacao de Riscos e Programa de Acompanhamento e Apoio ao Policial Militar (104 questões)",
+      "norma": "OS PM3-006/03/20 e NI PM3-001/03/20",
+      "arquivo": "data/cmr-paapm-elab.json",
+      "cor": "#2f5f7a",
+      "ativo": true,
+      "ordem": 13,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
