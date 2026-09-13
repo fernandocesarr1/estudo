@@ -1,0 +1,1992 @@
+{
+ "materia": "busca-elab",
+ "versao": "1.6.0",
+ "atualizadoEm": "2026-09-13",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Aplicação prática",
+  "Ação controlada",
+  "Busca pessoal",
+  "Consentimento do morador",
+  "Consequências da ilegalidade",
+  "Controle judicial",
+  "Crítica indevida",
+  "Divergência STF e STJ",
+  "Flagrante delito",
+  "Fundadas razões",
+  "Guardas municipais",
+  "Inviolabilidade domiciliar",
+  "Jurisprudência do STF",
+  "Jurisprudência do STJ",
+  "Justa causa",
+  "Ordem de Serviço",
+  "Procedimentos",
+  "Prova digital",
+  "Roubo e arma"
+ ],
+ "questoes": [
+  {
+   "id": "busca-elab-001",
+   "subtema": "Inviolabilidade domiciliar",
+   "artigo": "CF/88 — Art. 5º, XI",
+   "enunciado": "Nos termos do artigo 5º, inciso XI, da Constituição Federal, a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo",
+   "alternativas": [
+    "em caso de flagrante delito, de desastre ou de investigação criminal em curso, a qualquer hora do dia ou da noite",
+    "em caso de flagrante delito ou desastre, para prestar socorro, ou, a qualquer hora, por determinação judicial",
+    "em caso de fundada suspeita de crime, para prestar socorro, ou, durante o dia, por ordem da autoridade policial",
+    "em caso de flagrante delito ou desastre, para prestar socorro, ou, durante o dia, por determinação judicial"
+   ],
+   "correta": 3,
+   "explicacao": "O texto constitucional admite quatro exceções: flagrante delito, desastre, prestação de socorro e determinação judicial, esta última apenas durante o dia. A fundada suspeita autoriza busca pessoal, não ingresso domiciliar, e a ordem da autoridade policial jamais substitui a judicial.",
+   "tags": [
+    "busca",
+    "cf88",
+    "inviolabilidade"
+   ]
+  },
+  {
+   "id": "busca-elab-002",
+   "subtema": "Inviolabilidade domiciliar",
+   "artigo": "CF/88 — Art. 5º, XI",
+   "enunciado": "Das exceções constitucionais à inviolabilidade do domicílio, a única submetida à restrição de horário é",
+   "alternativas": [
+    "a determinação judicial, cujo cumprimento se dá durante o dia",
+    "o flagrante delito, que somente autoriza o ingresso durante o dia",
+    "a prestação de socorro, limitada ao período diurno pela Constituição",
+    "o desastre, salvo quando houver risco atual à vida dos moradores"
+   ],
+   "correta": 0,
+   "explicacao": "Apenas o cumprimento de determinação judicial está limitado ao período diurno. Flagrante delito, desastre e prestação de socorro autorizam o ingresso a qualquer hora do dia ou da noite.",
+   "tags": [
+    "busca",
+    "cf88",
+    "horario"
+   ]
+  },
+  {
+   "id": "busca-elab-003",
+   "subtema": "Flagrante delito",
+   "artigo": "OS PM3-002/02/18 — Espécies de flagrante",
+   "enunciado": "A hipótese constitucional de flagrante delito que autoriza o ingresso domiciliar sem mandado abrange",
+   "alternativas": [
+    "apenas o flagrante próprio, em que o agente é surpreendido cometendo a infração",
+    "o flagrante próprio, o impróprio e o presumido, nos termos da lei processual",
+    "apenas o flagrante próprio e o impróprio, excluído o flagrante presumido",
+    "o flagrante próprio e a prisão preventiva decretada durante a diligência"
+   ],
+   "correta": 1,
+   "explicacao": "A Ordem de Serviço trabalha com as três espécies de flagrante previstas na lei processual: próprio, impróprio e presumido. A prisão preventiva não é situação flagrancial e, por si, não dispensa o mandado de busca.",
+   "tags": [
+    "busca",
+    "flagrante",
+    "especies"
+   ]
+  },
+  {
+   "id": "busca-elab-004",
+   "subtema": "Flagrante delito",
+   "artigo": "OS PM3-002/02/18 — Crime permanente",
+   "enunciado": "Quanto ao crime permanente e ao ingresso em domicílio, é correto afirmar que",
+   "alternativas": [
+    "a permanência não interfere no estado de flagrância, que cessa com a ação inicial",
+    "a permanência prolonga a consumação e, com ela, o estado de flagrância",
+    "o crime permanente autoriza, por si só, o ingresso em qualquer domicílio",
+    "o crime permanente exige sempre mandado judicial para o ingresso policial"
+   ],
+   "correta": 1,
+   "explicacao": "No crime permanente a consumação se prolonga no tempo por vontade do agente, estendendo o estado flagrancial. Isso não significa autorização automática de ingresso: são necessárias fundadas razões objetivas, como assentou a jurisprudência a partir do RE 603.616.",
+   "tags": [
+    "busca",
+    "flagrante",
+    "permanente"
+   ]
+  },
+  {
+   "id": "busca-elab-005",
+   "subtema": "Flagrante delito",
+   "artigo": "OS PM3-002/02/18 — Crime instantâneo e permanente",
+   "enunciado": "Comparados o crime instantâneo e o crime permanente para fins de ingresso domiciliar, a Ordem de Serviço observa que",
+   "alternativas": [
+    "no instantâneo é mais difícil embasar as fundadas razões, pois a flagrância é instantânea",
+    "no permanente é mais difícil embasar as fundadas razões, pela ausência de urgência",
+    "em ambos a flagrância se prolonga, permitindo idêntica averiguação das informações",
+    "no instantâneo há mais campo para averiguação, dada a estabilidade da situação"
+   ],
+   "correta": 0,
+   "explicacao": "Nos crimes de consumação imediata o estado flagrancial também é instantâneo, o que dificulta o embasamento das fundadas razões; no permanente, a consumação prolongada abre mais campo para averiguar as informações antes do ingresso.",
+   "tags": [
+    "busca",
+    "flagrante",
+    "permanente"
+   ]
+  },
+  {
+   "id": "busca-elab-006",
+   "subtema": "Fundadas razões",
+   "artigo": "STF — RE 603.616 (Tema 280)",
+   "enunciado": "Segundo a tese fixada pelo Supremo Tribunal Federal no Tema 280 da repercussão geral, a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões",
+   "alternativas": [
+    "confirmadas pelo resultado da diligência, que convalida a entrada realizada",
+    "previamente submetidas ao juízo competente, ainda que por meio eletrônico",
+    "aferidas pelo próprio policial, dispensada qualquer justificação posterior",
+    "devidamente justificadas a posteriori, que indiquem flagrante delito na casa"
+   ],
+   "correta": 3,
+   "explicacao": "A tese exige fundadas razões devidamente justificadas a posteriori, indicativas de que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal e de nulidade dos atos praticados. O êxito da diligência não convalida o ingresso ilegal.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "tema-280"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "busca-elab-007",
+   "subtema": "Fundadas razões",
+   "artigo": "STF — RE 603.616",
+   "enunciado": "Comparado o entendimento jurisprudencial anterior a 2015 com o atual, verifica-se que",
+   "alternativas": [
+    "antes, a localização do ilícito validava as ações anteriores; hoje, exigem-se razões prévias",
+    "antes, exigiam-se razões prévias; hoje, basta o êxito da diligência policial realizada",
+    "antes e agora se exige autorização judicial prévia, inclusive nos crimes permanentes",
+    "antes e agora basta a intuição do policial, desde que registrada formalmente depois"
+   ],
+   "correta": 0,
+   "explicacao": "No entendimento anterior, localizado o objeto ilícito, a diligência bem-sucedida validava todas as ações anteriores, ainda que o ingresso decorresse de mera intuição. Hoje se exigem fundadas razões anteriores ao ingresso, com segurança e razoável probabilidade de que na casa ocorra crime passível de prisão em flagrante.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "evolucao"
+   ]
+  },
+  {
+   "id": "busca-elab-008",
+   "subtema": "Fundadas razões",
+   "artigo": "OS PM3-002/02/18 — Graus de convencimento",
+   "enunciado": "Na escala de exigência probatória adotada pela Ordem de Serviço, a fundada razão para ingresso em domicílio é",
+   "alternativas": [
+    "menos robusta que a fundada suspeita e mais densa que a certeza de autoria",
+    "mais robusta que a fundada suspeita e menos densa que a certeza de autoria",
+    "equivalente à fundada suspeita exigida para a realização de busca pessoal",
+    "equivalente à certeza de autoria e materialidade exigida para a prisão em flagrante"
+   ],
+   "correta": 1,
+   "explicacao": "A fundada razão é requisito mais robusto que a fundada suspeita, que autoriza a busca pessoal, e menos denso que a certeza de autoria e materialidade, exigida para a prisão em flagrante. Trata-se de conceito jurídico indeterminado, não definido em lei.",
+   "tags": [
+    "busca",
+    "fundadas-razoes",
+    "graus"
+   ]
+  },
+  {
+   "id": "busca-elab-009",
+   "subtema": "Fundadas razões",
+   "artigo": "OS PM3-002/02/18 — Conceito indeterminado",
+   "enunciado": "Sobre o conceito de fundada razão para o ingresso em domicílio, é correto afirmar que",
+   "alternativas": [
+    "está definido expressamente no Código de Processo Penal em rol taxativo",
+    "é conceito jurídico indeterminado, não definido pela lei, aferido no caso concreto",
+    "corresponde à convicção pessoal do policial, insuscetível de controle judicial",
+    "depende de prévia homologação do Ministério Público em cada diligência"
+   ],
+   "correta": 1,
+   "explicacao": "A lei não define o que é fundada razão, tratando-se de conceito jurídico indeterminado aferido objetivamente no caso concreto e sujeito a controle judicial posterior. A convicção puramente subjetiva do policial não satisfaz a exigência.",
+   "tags": [
+    "busca",
+    "fundadas-razoes",
+    "conceito"
+   ]
+  },
+  {
+   "id": "busca-elab-010",
+   "subtema": "Controle judicial",
+   "artigo": "OS PM3-002/02/18 — Controle a priori e a posteriori",
+   "enunciado": "O controle judicial das diligências de busca domiciliar pode ser prévio ou posterior. O controle posterior consiste em",
+   "alternativas": [
+    "comunicar o Ministério Público, após a diligência, para ratificação do procedimento",
+    "submeter ao juiz, antes do ingresso, os elementos que justificam a diligência policial",
+    "demonstrar que o ingresso sem mandado se deu com justa causa, baseada em fundadas razões",
+    "registrar em boletim de ocorrência o resultado da busca, dispensada outra justificação"
+   ],
+   "correta": 2,
+   "explicacao": "No controle a priori o policial solicita o mandado e só então ingressa; no controle a posteriori, cabe aos policiais demonstrar que o ingresso sem mandado foi feito mediante justa causa, baseada em fundadas razões de que havia flagrante delito, objetos ilícitos ou vítima no local.",
+   "tags": [
+    "busca",
+    "controle-judicial"
+   ]
+  },
+  {
+   "id": "busca-elab-011",
+   "subtema": "Controle judicial",
+   "artigo": "OS PM3-002/02/18 — Consequência da ilegalidade",
+   "enunciado": "As provas obtidas em ingresso domiciliar realizado sem o cumprimento dos requisitos constitucionais e jurisprudenciais",
+   "alternativas": [
+    "podem ser convalidadas por posterior autorização judicial da diligência",
+    "são válidas se o crime for permanente e a droga for efetivamente encontrada",
+    "são ilegais e geram nulidade, alcançando as provas delas derivadas",
+    "são ilegais, mas preservam a validade das provas obtidas em decorrência"
+   ],
+   "correta": 2,
+   "explicacao": "A ilicitude contamina as provas obtidas e as que delas decorram em relação de causalidade, aplicando-se a teoria dos frutos da árvore envenenada, sem prejuízo da responsabilização disciplinar, civil e penal dos agentes. Não há convalidação posterior.",
+   "tags": [
+    "busca",
+    "nulidade",
+    "prova-ilicita"
+   ]
+  },
+  {
+   "id": "busca-elab-012",
+   "subtema": "Justa causa",
+   "artigo": "OS PM3-002/02/18 — Elementos insuficientes",
+   "enunciado": "Segundo a Ordem de Serviço, não servem, isoladamente, para demonstrar a justa causa do ingresso domiciliar",
+   "alternativas": [
+    "as declarações de testemunhas presenciais colhidas no local dos fatos",
+    "as denúncias anônimas, as informações de inteligência e os informantes policiais",
+    "a observação direta da prática criminosa pelos policiais em diligência",
+    "as imagens captadas por câmeras operacionais portáteis durante a ocorrência"
+   ],
+   "correta": 1,
+   "explicacao": "A norma afasta a suficiência isolada das denúncias anônimas, das informações de inteligência policial, das provas ilícitas e dos informantes policiais. Observação direta e depoimentos de testemunhas, ao contrário, podem compor as fundadas razões.",
+   "tags": [
+    "busca",
+    "justa-causa",
+    "insuficiencia"
+   ]
+  },
+  {
+   "id": "busca-elab-013",
+   "subtema": "Justa causa",
+   "artigo": "OS PM3-002/02/18 — Dúvida sobre o flagrante",
+   "enunciado": "Havendo dúvida sobre a ocorrência de flagrante, por inconsistência ou insuficiência das informações, e dispondo a guarnição de meios, a Ordem de Serviço determina que os policiais",
+   "alternativas": [
+    "solicitem o consentimento verbal do morador e ingressem independentemente de registro",
+    "ingressem no imóvel e justifiquem posteriormente a fundada razão da entrada",
+    "aguardem a chegada da autoridade policial civil para deliberar sobre o ingresso",
+    "cerquem e monitorem a casa e solicitem a ordem judicial de busca domiciliar"
+   ],
+   "correta": 3,
+   "explicacao": "Havendo meios, como viatura e efetivo, a solução é cercar e monitorar o imóvel e pedir a ordem judicial. Não havendo meios, a guarnição deixa o local, lavra boletim de ocorrência e o encaminha à Polícia Civil para investigação.",
+   "tags": [
+    "busca",
+    "procedimentos",
+    "duvida"
+   ]
+  },
+  {
+   "id": "busca-elab-014",
+   "subtema": "Justa causa",
+   "artigo": "OS PM3-002/02/18 — Ausência de meios",
+   "enunciado": "Persistindo a dúvida sobre a existência de flagrante e não dispondo a guarnição de meios para cercar e monitorar o imóvel, a providência determinada é",
+   "alternativas": [
+    "requisitar apoio de unidade especializada para o cumprimento da diligência",
+    "ingressar no imóvel com autorização verbal do proprietário do bem",
+    "deixar o local, lavrar boletim de ocorrência e encaminhá-lo à Polícia Civil",
+    "aguardar no local até a obtenção do mandado, ainda que por vários dias"
+   ],
+   "correta": 2,
+   "explicacao": "Sem meios para o cerco e o monitoramento, a orientação é deixar o local, confeccionar o BOPM e remetê-lo à Polícia Civil para investigação. A dúvida resolve-se em favor da inviolabilidade do domicílio.",
+   "tags": [
+    "busca",
+    "procedimentos",
+    "bopm"
+   ]
+  },
+  {
+   "id": "busca-elab-015",
+   "subtema": "Ordem de Serviço",
+   "artigo": "OS PM3-002/02/18 — Hipóteses autorizadas",
+   "enunciado": "Segundo a Ordem de Serviço nº PM3-002/02/18, editada por ordem do Subcomandante PM, a busca domiciliar só está autorizada",
+   "alternativas": [
+    "em qualquer hipótese, desde que haja fundada suspeita de crime no imóvel",
+    "mediante mandado judicial, requisição do Ministério Público ou flagrante",
+    "mediante mandado judicial ou autorização do Comandante da unidade",
+    "mediante mandado judicial ou em situação de flagrante delito"
+   ],
+   "correta": 3,
+   "explicacao": "A norma restringe a busca domiciliar a duas situações: o mandado judicial e o flagrante delito, nas modalidades própria, imprópria e presumida. Requisição ministerial e autorização de comando não suprem a exigência constitucional.",
+   "tags": [
+    "busca",
+    "ordem-de-servico",
+    "hipoteses"
+   ]
+  },
+  {
+   "id": "busca-elab-016",
+   "subtema": "Ordem de Serviço",
+   "artigo": "OS PM3-002/02/18 — Ordem judicial em urgência",
+   "enunciado": "O Tribunal de Justiça de São Paulo admite a expedição de ordem judicial de busca domiciliar à Polícia Militar, em casos de urgência, ainda que fora de inquérito policial, exigindo que o cumprimento se dê",
+   "alternativas": [
+    "preferencialmente por Oficial PM, admitido o cumprimento por Sargento",
+    "por Oficial PM, responsável pela execução da ordem judicial expedida",
+    "por Oficial ou Sargento PM, conforme a disponibilidade da unidade",
+    "por qualquer policial militar, desde que acompanhado de duas testemunhas"
+   ],
+   "correta": 1,
+   "explicacao": "Nesse caso de urgência, com solicitação da própria Polícia Militar e independentemente de inquérito policial, a ordem judicial deve ser cumprida por Oficial. A preferência por Oficial ou Sargento é regra da hipótese diversa, de ingresso sem mandado em flagrante.",
+   "tags": [
+    "busca",
+    "ordem-de-servico",
+    "oficial"
+   ]
+  },
+  {
+   "id": "busca-elab-017",
+   "subtema": "Ordem de Serviço",
+   "artigo": "OS PM3-002/02/18 — Ingresso em flagrante",
+   "enunciado": "Havendo fundadas razões de que está ocorrendo flagrante delito no interior de uma residência, a busca domiciliar sem mandado, inclusive em período noturno, será realizada",
+   "alternativas": [
+    "obrigatoriamente por Oficial PM, sob pena de nulidade da diligência",
+    "preferencialmente na presença de Oficial ou Sargento PM",
+    "obrigatoriamente na presença de Oficial ou de Sargento PM",
+    "preferencialmente por Oficial PM, vedada a atuação de graduados"
+   ],
+   "correta": 1,
+   "explicacao": "A Ordem de Serviço admite, excepcionalmente, a busca domiciliar sem mandado, mesmo à noite, preferencialmente na presença de Oficial ou Sargento, desde que existam fundadas razões de flagrante. A exigência de Oficial é obrigatória apenas no cumprimento da ordem judicial obtida em urgência.",
+   "tags": [
+    "busca",
+    "ordem-de-servico",
+    "flagrante"
+   ]
+  },
+  {
+   "id": "busca-elab-018",
+   "subtema": "Procedimentos",
+   "artigo": "OS PM3-002/02/18 — Averiguação sumária",
+   "enunciado": "Ao receber informações de testemunhas sobre a ocorrência de flagrante no interior de uma casa, a guarnição deve",
+   "alternativas": [
+    "realizar averiguação sumária das informações, podendo filmar para registrar a prova",
+    "ingressar imediatamente no imóvel, por se tratar de notícia de flagrante em curso",
+    "encaminhar as testemunhas à Delegacia de Polícia antes de qualquer diligência",
+    "aguardar autorização do Comandante de Companhia para iniciar a averiguação"
+   ],
+   "correta": 0,
+   "explicacao": "A norma orienta a averiguação sumária das informações recebidas, admitida a filmagem para registro da prova. Somente com fundadas razões, e vislumbrada a urgência, é que se ingressa sem ordem judicial, mesmo à noite.",
+   "tags": [
+    "busca",
+    "procedimentos",
+    "averiguacao"
+   ]
+  },
+  {
+   "id": "busca-elab-019",
+   "subtema": "Procedimentos",
+   "artigo": "OS PM3-002/02/18 — Urgência",
+   "enunciado": "O ingresso sem ordem judicial, segundo a Ordem de Serviço, pressupõe que a guarnição vislumbre que a medida é urgente e que a postergação",
+   "alternativas": [
+    "possa prejudicar a vítima ou as provas do crime que se apura",
+    "possa gerar responsabilidade administrativa do comandante da guarnição",
+    "impeça o cumprimento das metas operacionais fixadas para a unidade",
+    "acarrete o encerramento do turno de serviço da equipe empenhada"
+   ],
+   "correta": 0,
+   "explicacao": "A urgência liga-se ao risco de prejuízo à vítima ou às provas, o que dialoga com a tese do STJ no HC 598.051, segundo a qual o ingresso se legitima quando do atraso na obtenção do mandado se possa inferir, objetiva e concretamente, que a prova será destruída ou ocultada.",
+   "tags": [
+    "busca",
+    "procedimentos",
+    "urgencia"
+   ]
+  },
+  {
+   "id": "busca-elab-020",
+   "subtema": "Ação controlada",
+   "artigo": "Lei 12.850/13 — Art. 8º",
+   "enunciado": "A ação controlada, prevista na Lei de Organizações Criminosas, consiste em",
+   "alternativas": [
+    "delegar a diligência a agente infiltrado, dispensada a comunicação ao juiz competente",
+    "antecipar a intervenção policial ao início dos atos executórios da organização criminosa",
+    "retardar a intervenção policial, mantida a observação, para atuar no momento mais eficaz",
+    "suspender a investigação até a expedição de mandado judicial de busca domiciliar"
+   ],
+   "correta": 2,
+   "explicacao": "A ação controlada é o retardamento da intervenção policial ou administrativa relativa à ação praticada por organização criminosa ou a ela vinculada, mantida sob observação e acompanhamento, para que a medida legal se concretize no momento mais eficaz à formação de provas e à obtenção de informações, com comunicação ao juiz.",
+   "tags": [
+    "busca",
+    "acao-controlada",
+    "orcrim"
+   ]
+  },
+  {
+   "id": "busca-elab-021",
+   "subtema": "Ação controlada",
+   "artigo": "Lei 12.850/13 — Art. 8º",
+   "enunciado": "Quanto ao controle judicial da ação controlada, a lei exige que",
+   "alternativas": [
+    "o Ministério Público requeira a medida ao juízo competente",
+    "o juiz autorize previamente cada diligência de acompanhamento",
+    "o juiz seja comunicado do retardamento da intervenção policial",
+    "o delegado de polícia instaure inquérito antes do retardamento"
+   ],
+   "correta": 2,
+   "explicacao": "A lei exige a comunicação ao juiz competente, que pode estabelecer os limites da medida. Não se trata de autorização prévia para cada ato de acompanhamento nem de exigência de prévio inquérito.",
+   "tags": [
+    "busca",
+    "acao-controlada",
+    "comunicacao"
+   ]
+  },
+  {
+   "id": "busca-elab-022",
+   "subtema": "Fundadas razões",
+   "artigo": "STJ — HC 598.051",
+   "enunciado": "Segundo o Superior Tribunal de Justiça, no HC 598.051, o tráfico ilícito de entorpecentes, apesar de ser crime permanente,",
+   "alternativas": [
+    "jamais autoriza a entrada sem mandado, dada a proteção reforçada do domicílio",
+    "sempre autoriza a entrada sem mandado, por se prolongar o estado de flagrância",
+    "nem sempre autoriza a entrada sem mandado, admitida apenas em situações de urgência",
+    "autoriza a entrada sem mandado apenas durante o dia, por simetria com a regra judicial"
+   ],
+   "correta": 2,
+   "explicacao": "O STJ assentou que a permanência do delito não basta: o ingresso só se legitima em situações de urgência, quando do atraso decorrente da obtenção do mandado se possa inferir, objetiva e concretamente, que a prova do crime ou a própria droga será destruída ou ocultada.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "trafico"
+   ]
+  },
+  {
+   "id": "busca-elab-023",
+   "subtema": "Fundadas razões",
+   "artigo": "STJ — HC 598.051",
+   "enunciado": "Ainda segundo o HC 598.051 do Superior Tribunal de Justiça, a existência de fundadas razões para o ingresso domiciliar deve ser",
+   "alternativas": [
+    "demonstrada pela defesa, a quem incumbe provar a ilegalidade da medida",
+    "presumida quando a diligência resultar na apreensão de objetos ilícitos",
+    "aferida segundo a experiência pessoal e o tirocínio do policial que atua",
+    "aferida de modo objetivo e devidamente justificada pelos agentes estatais"
+   ],
+   "correta": 3,
+   "explicacao": "A decisão exige aferição objetiva e devidamente justificada das fundadas razões, atribuindo ao Estado, em caso de dúvida, o ônus da prova sobre a legalidade da diligência. O tirocínio isolado e o resultado da busca não suprem essa exigência.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "onus-da-prova"
+   ]
+  },
+  {
+   "id": "busca-elab-024",
+   "subtema": "Fundadas razões",
+   "artigo": "STJ — HC 609.982/RS",
+   "enunciado": "Denúncia anônima confirmada por vizinho, desacompanhada de investigação preliminar, seguida de ingresso imediato no domicílio,",
+   "alternativas": [
+    "não legitima o ingresso, por não cumprir o requisito de fundamentos razoáveis",
+    "legitima o ingresso, pois a confirmação por vizinho supre a origem anônima",
+    "legitima o ingresso apenas se houver apreensão de entorpecentes no local",
+    "legitima o ingresso desde que a diligência ocorra durante o período diurno"
+   ],
+   "correta": 0,
+   "explicacao": "O STJ assentou que denúncias de origem não identificada, que por si não servem como prova, seguidas de ingresso imediato sem diligências investigatórias adicionais, não cumprem o requisito de fundamentos razoáveis da existência de crime permanente dentro do domicílio.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "denuncia-anonima"
+   ]
+  },
+  {
+   "id": "busca-elab-025",
+   "subtema": "Inviolabilidade domiciliar",
+   "artigo": "CPP — Conceito de casa",
+   "enunciado": "Policiais pretendem realizar busca por foragido em quarto de albergue onde residem dois suspeitos de dar-lhe esconderijo. Segundo a proteção constitucional do domicílio,",
+   "alternativas": [
+    "a busca poderá ser feita durante o dia, por determinação judicial",
+    "a busca poderá ser feita a qualquer hora, por se tratar de estabelecimento comercial",
+    "a busca é vedada em qualquer hipótese, por ser propriedade de terceiros",
+    "a busca independe de ordem judicial, bastando a autorização do proprietário"
+   ],
+   "correta": 0,
+   "explicacao": "O quarto de albergue habitado é abrangido pelo conceito de casa e goza da proteção do art. 5º, XI, da Constituição, de modo que a busca depende de determinação judicial cumprida durante o dia, salvo flagrante, desastre ou socorro. A natureza comercial do estabelecimento não afasta a inviolabilidade do espaço privativo ocupado.",
+   "tags": [
+    "busca",
+    "conceito-de-casa",
+    "albergue"
+   ]
+  },
+  {
+   "id": "busca-elab-026",
+   "subtema": "Fundadas razões",
+   "artigo": "STF — RE 603.616",
+   "enunciado": "A inobservância dos requisitos para a entrada forçada em domicílio sem mandado judicial sujeita o agente ou a autoridade a responsabilidade",
+   "alternativas": [
+    "civil e penal, ressalvada a validade dos atos quando houver apreensão de drogas",
+    "exclusivamente disciplinar, preservada a validade da prova obtida na diligência",
+    "disciplinar, civil e penal, além de acarretar a nulidade dos atos praticados",
+    "apenas penal, quando comprovado o dolo específico de violar o domicílio alheio"
+   ],
+   "correta": 2,
+   "explicacao": "A tese do Tema 280 é expressa quanto à tríplice responsabilidade, disciplinar, civil e penal, somada à nulidade dos atos praticados. A apreensão de objetos ilícitos não convalida a entrada irregular.",
+   "tags": [
+    "busca",
+    "responsabilidade",
+    "tema-280"
+   ]
+  },
+  {
+   "id": "busca-elab-027",
+   "subtema": "Consentimento do morador",
+   "artigo": "OS PM3-002/02/18 — Registro do consentimento",
+   "enunciado": "Autorizado pelo morador o ingresso da guarnição em sua residência, a Ordem de Serviço determina que o consentimento seja",
+   "alternativas": [
+    "comunicado verbalmente ao COPOM, com gravação do áudio da comunicação",
+    "registrado apenas na narrativa do boletim, dispensada a assinatura do morador",
+    "registrado em boletim de ocorrência assinado pelo morador e por testemunhas",
+    "formalizado em termo próprio encaminhado ao juízo competente em 24 horas"
+   ],
+   "correta": 2,
+   "explicacao": "O consentimento deve ser registrado em BOPM assinado pelo morador e por testemunhas. A exigência dialoga com o HC 598.051 do STJ, que reclama declaração assinada por quem autorizou o ingresso, com indicação de testemunhas sempre que possível.",
+   "tags": [
+    "busca",
+    "consentimento",
+    "registro"
+   ]
+  },
+  {
+   "id": "busca-elab-028",
+   "subtema": "Consentimento do morador",
+   "artigo": "OS PM3-002/02/18 — Retratação",
+   "enunciado": "Após autorizar a entrada dos policiais, o morador se arrepende e pede que se retirem. Nos termos da Ordem de Serviço,",
+   "alternativas": [
+    "o consentimento é irretratável depois de iniciada a diligência no local",
+    "o consentimento é retratável e os policiais devem se retirar do imóvel",
+    "a retratação só produz efeitos se manifestada por escrito e com testemunhas",
+    "a retratação autoriza a permanência, por indicar tentativa de ocultar provas"
+   ],
+   "correta": 1,
+   "explicacao": "O consentimento é retratável e, havendo arrependimento do morador, o policial deve se retirar. Tratar a retratação como indício de crime inverteria a lógica da garantia constitucional.",
+   "tags": [
+    "busca",
+    "consentimento",
+    "retratacao"
+   ]
+  },
+  {
+   "id": "busca-elab-029",
+   "subtema": "Consentimento do morador",
+   "artigo": "OS PM3-002/02/18 — Pluralidade de moradores",
+   "enunciado": "Residindo no imóvel mais de uma pessoa plenamente capaz, a autorização para o ingresso",
+   "alternativas": [
+    "cabe exclusivamente ao proprietário do imóvel, ainda que ali não resida",
+    "basta ser dada por qualquer uma delas, prevalecendo a primeira manifestação",
+    "deve ser dada por todas elas e, havendo divergência, não se deve ingressar",
+    "cabe ao morador mais velho, a quem se atribui a chefia da unidade familiar"
+   ],
+   "correta": 2,
+   "explicacao": "A autorização deve ser dada por todos os moradores plenamente capazes e, havendo divergência, opta-se por não ingressar. A propriedade do bem não se confunde com a titularidade da garantia, que protege quem ali habita.",
+   "tags": [
+    "busca",
+    "consentimento",
+    "pluralidade"
+   ]
+  },
+  {
+   "id": "busca-elab-030",
+   "subtema": "Consentimento do morador",
+   "artigo": "CPP — Cumprimento de mandado",
+   "enunciado": "No cumprimento de mandado judicial de busca em imóvel habitado por casal, o marido consente com o ingresso no período noturno e a esposa se opõe de forma expressa. Nessa situação,",
+   "alternativas": [
+    "o mandado poderá ser cumprido à noite, bastando o consentimento de um morador",
+    "o mandado não poderá ser cumprido à noite, pois falta consentimento de ambos",
+    "o mandado poderá ser cumprido à noite, pois a ordem judicial dispensa consentimento",
+    "o mandado deverá ser devolvido ao juízo, para nova deliberação sobre o horário"
+   ],
+   "correta": 1,
+   "explicacao": "O cumprimento noturno depende do consentimento válido dos moradores, e a oposição expressa de um deles impede o ingresso naquele período, restando o cumprimento durante o dia. A ordem judicial autoriza o ingresso diurno, e não supre o consentimento para a diligência noturna.",
+   "tags": [
+    "busca",
+    "consentimento",
+    "mandado"
+   ]
+  },
+  {
+   "id": "busca-elab-031",
+   "subtema": "Consentimento do morador",
+   "artigo": "OS PM3-002/02/18 — Ambientes plurifamiliares",
+   "enunciado": "Em pensões e cortiços, a autorização dada por um dos responsáveis",
+   "alternativas": [
+    "é irrelevante, exigindo-se sempre a ordem judicial para o ingresso",
+    "autoriza o ingresso em todas as dependências do imóvel coletivo",
+    "autoriza o ingresso apenas no espaço privativo por ele ocupado",
+    "somente vale se confirmada pelo proprietário do estabelecimento"
+   ],
+   "correta": 2,
+   "explicacao": "Em ambientes plurifamiliares a autorização de um dos responsáveis limita-se ao espaço privativo por ele ocupado, pois cada unidade goza de proteção autônoma. As áreas comuns e as demais unidades permanecem protegidas.",
+   "tags": [
+    "busca",
+    "consentimento",
+    "cortico"
+   ]
+  },
+  {
+   "id": "busca-elab-032",
+   "subtema": "Consentimento do morador",
+   "artigo": "STJ — HC 598.051",
+   "enunciado": "Para o Superior Tribunal de Justiça, o consentimento do morador que valida o ingresso de agentes estatais em sua casa deve ser",
+   "alternativas": [
+    "reduzido a termo perante a autoridade policial civil competente",
+    "obtido na presença de advogado constituído pelo próprio morador",
+    "voluntário e livre de qualquer tipo de constrangimento ou coação",
+    "confirmado por decisão judicial posterior que ratifique a diligência"
+   ],
+   "correta": 2,
+   "explicacao": "O consentimento precisa ser voluntário e livre de constrangimento ou coação, cabendo ao Estado, em caso de dúvida, provar a legalidade e a voluntariedade, preferencialmente por declaração assinada e registro em áudio e vídeo da operação.",
+   "tags": [
+    "busca",
+    "consentimento",
+    "voluntariedade"
+   ]
+  },
+  {
+   "id": "busca-elab-033",
+   "subtema": "Consentimento do morador",
+   "artigo": "STJ — HC 598.051",
+   "enunciado": "Quanto à prova da legalidade e da voluntariedade do consentimento para o ingresso domiciliar, o Superior Tribunal de Justiça firmou que",
+   "alternativas": [
+    "o ônus incumbe ao Estado, com declaração assinada e registro em áudio e vídeo",
+    "o ônus incumbe à defesa, que deve demonstrar o vício da autorização dada",
+    "o ônus é do Ministério Público apenas quando houver impugnação expressa",
+    "a prova é dispensável quando a diligência resultar em prisão em flagrante"
+   ],
+   "correta": 0,
+   "explicacao": "A prova incumbe ao Estado em caso de dúvida e deve ser feita com declaração assinada por quem autorizou o ingresso, indicando-se testemunhas sempre que possível, devendo a operação ser registrada em áudio e vídeo e a prova preservada enquanto durar o processo.",
+   "tags": [
+    "busca",
+    "consentimento",
+    "onus-da-prova"
+   ]
+  },
+  {
+   "id": "busca-elab-034",
+   "subtema": "Consentimento do morador",
+   "artigo": "STJ — REsp 2.114.277",
+   "enunciado": "Segundo julgado da Sexta Turma do Superior Tribunal de Justiça de 2024, a permissão para ingresso no domicílio proferida em clima de estresse policial",
+   "alternativas": [
+    "convalida-se com a confirmação verbal do morador na audiência de custódia",
+    "presume-se espontânea, pois emana de manifestação do próprio morador",
+    "é sempre nula, ainda que documentada em áudio e vídeo pela guarnição",
+    "não deve ser considerada espontânea, salvo se escrita e testemunhada ou filmada"
+   ],
+   "correta": 3,
+   "explicacao": "O Tribunal assentou que a autorização obtida em clima de estresse policial não se presume espontânea, a menos que tenha sido por escrito e testemunhada, ou documentada em vídeo. A documentação é o que permite aferir a voluntariedade.",
+   "tags": [
+    "busca",
+    "consentimento",
+    "estresse"
+   ]
+  },
+  {
+   "id": "busca-elab-035",
+   "subtema": "Consequências da ilegalidade",
+   "artigo": "STJ — HC 598.051",
+   "enunciado": "A violação das regras e condições legais e constitucionais para o ingresso no domicílio alheio resulta",
+   "alternativas": [
+    "na nulidade do processo desde a denúncia, com extinção da punibilidade do agente",
+    "na ilicitude apenas das provas diretamente apreendidas no interior do imóvel",
+    "na mera irregularidade administrativa, sem reflexo sobre a validade da prova",
+    "na ilicitude das provas obtidas e das que dela decorram em relação de causalidade"
+   ],
+   "correta": 3,
+   "explicacao": "A ilicitude alcança as provas obtidas e as demais que dela decorram em relação de causalidade, sem prejuízo de eventual responsabilização penal dos agentes públicos que realizaram a diligência. Trata-se da aplicação da teoria dos frutos da árvore envenenada.",
+   "tags": [
+    "busca",
+    "prova-ilicita",
+    "causalidade"
+   ]
+  },
+  {
+   "id": "busca-elab-036",
+   "subtema": "Consequências da ilegalidade",
+   "artigo": "STF — Teoria dos frutos da árvore envenenada",
+   "enunciado": "Guarnição invade aleatoriamente residência durante ronda, sem qualquer elemento prévio, e localiza meio quilo de maconha, prendendo o morador reincidente em flagrante. Nesse caso,",
+   "alternativas": [
+    "a prisão deve ser relaxada e a diligência anulada, por prova ilícita derivada",
+    "a prisão é válida, pois a apreensão da droga demonstra a fundada razão",
+    "a prisão é válida, dada a natureza permanente do crime de tráfico de drogas",
+    "a reincidência do morador impede o relaxamento da prisão pelo Judiciário"
+   ],
+   "correta": 0,
+   "explicacao": "A invasão aleatória, sem fundadas razões prévias, torna ilícita a prova e nula a diligência, impondo o relaxamento da prisão. Nem o êxito da apreensão nem a reincidência convalidam o ingresso ilegal.",
+   "tags": [
+    "busca",
+    "prova-ilicita",
+    "caso-concreto"
+   ]
+  },
+  {
+   "id": "busca-elab-037",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — REsp 1.871.856/SE",
+   "enunciado": "Para o Superior Tribunal de Justiça, a denúncia anônima isolada, desacompanhada de outros elementos indicativos da ocorrência de crime,",
+   "alternativas": [
+    "não legitima o ingresso de policiais no domicílio, por ausência de justa causa",
+    "legitima o ingresso, desde que registrada previamente no sistema da corporação",
+    "legitima o ingresso quando se referir a crime permanente, como o tráfico",
+    "legitima o ingresso se confirmada por policial que conheça o denunciante"
+   ],
+   "correta": 0,
+   "explicacao": "A denúncia anônima isolada não legitima o ingresso domiciliar, inexistindo justa causa para a medida, e a prova obtida com violação à norma constitucional é imprestável para legitimar os atos dela derivados. Exige-se ao menos breve averiguação prévia.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "denuncia-anonima"
+   ]
+  },
+  {
+   "id": "busca-elab-038",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — RHC 89.853/SP",
+   "enunciado": "Ao exigir prévia realização de diligências para verificar a veracidade de notícia anônima, o Superior Tribunal de Justiça esclareceu que a exigência",
+   "alternativas": [
+    "impõe a oitiva formal do denunciante, ainda que preservada sua identidade",
+    "reclama investigação formal instaurada, com relatório circunstanciado prévio",
+    "exige monitoramento eletrônico autorizado judicialmente antes do ingresso",
+    "não reclama diligências profundas, bastando breve averiguação, como campana"
+   ],
+   "correta": 3,
+   "explicacao": "O Tribunal explicitou que não se exigem diligências profundas, mas breve averiguação, como campana próxima à residência que ateste movimentação atípica, apta a ratificar a notícia anônima. Denúncia anônima seguida apenas de fuga para dentro da casa, naquele julgado, não legitimou o ingresso.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "campana"
+   ]
+  },
+  {
+   "id": "busca-elab-039",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — RHC 126.092/SP",
+   "enunciado": "A chamada fama de traficante, decorrente de envolvimento anterior com o tráfico de drogas,",
+   "alternativas": [
+    "justifica a condução do suspeito à sua residência para busca imediata",
+    "justifica o ingresso, por indicar probabilidade de crime permanente no local",
+    "não justifica, por si só, o ingresso na casa sem mandado judicial",
+    "autoriza o ingresso desde que acompanhado de registro em boletim próprio"
+   ],
+   "correta": 2,
+   "explicacao": "A informação de envolvimento pretérito com o tráfico não autoriza conduzir o suspeito a seu local de trabalho ou residência para ali efetuar busca sem autorização judicial e sem consentimento, por inexistir fundamento suficiente de que naqueles locais estivesse sendo cometido delito, permanente ou não.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "antecedentes"
+   ]
+  },
+  {
+   "id": "busca-elab-040",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — AgRg no REsp 1.886.985/RS",
+   "enunciado": "Denúncia anônima aliada à venda de drogas na porta da residência, segundo o Superior Tribunal de Justiça,",
+   "alternativas": [
+    "não autoriza presumir o armazenamento de substância ilícita no interior da casa",
+    "autoriza presumir o armazenamento da droga no interior da residência",
+    "autoriza o ingresso apenas se a venda for presenciada por duas testemunhas",
+    "autoriza o ingresso por configurar flagrante próprio do crime de tráfico"
+   ],
+   "correta": 0,
+   "explicacao": "O Tribunal assentou que a venda de drogas em frente à residência não autoriza presumir o armazenamento de droga em seu interior, sendo ilícito o ingresso sem mandado nessa circunstância. A prisão pela venda na via pública é questão distinta do ingresso domiciliar.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "presuncao"
+   ]
+  },
+  {
+   "id": "busca-elab-041",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — AgInt no HC 566.818/RJ",
+   "enunciado": "A sinalização de cão farejador em frente a residência, durante deslocamento de rotina da guarnição,",
+   "alternativas": [
+    "autoriza o ingresso, por constituir elemento técnico objetivo de flagrância",
+    "por si só, não autoriza o ingresso no domicílio sem mandado judicial",
+    "autoriza o ingresso desde que o cão seja certificado por órgão especializado",
+    "autoriza o ingresso apenas no período diurno, por equiparar-se à ordem judicial"
+   ],
+   "correta": 1,
+   "explicacao": "No caso julgado não havia investigação prévia nem flagrante em curso, tratando-se de apreensão inesperada a partir da sinalização do animal, o que não supre a exigência de fundadas razões para o ingresso sem mandado.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "cao-farejador"
+   ]
+  },
+  {
+   "id": "busca-elab-042",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — AgRg no HC 561.360/SP",
+   "enunciado": "Perseguição a veículo que não atende à ordem de parada, iniciada em patrulhamento de rotina e sem monitoramento prévio, seguida de ingresso em condomínio e residência,",
+   "alternativas": [
+    "autoriza o ingresso, desde que o fato seja registrado em boletim de ocorrência",
+    "autoriza o ingresso, por configurar flagrante impróprio em perseguição",
+    "autoriza o ingresso apenas se houver apreensão de entorpecentes no imóvel",
+    "não autoriza o ingresso policial no domicílio sem ordem judicial"
+   ],
+   "correta": 3,
+   "explicacao": "Naquele julgado o STJ considerou ilícito o ingresso, pois inexistia investigação ou monitoramento prévio, tratando-se de patrulhamento de rotina. A leitura da perseguição como flagrante impróprio não foi acolhida para dispensar a ordem judicial.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "perseguicao"
+   ]
+  },
+  {
+   "id": "busca-elab-043",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — HC 609.072/SP",
+   "enunciado": "Indivíduo que se encontra de pé no portão de sua casa e, ao avistar a viatura, dirige-se ao interior do imóvel, sem qualquer denúncia ou investigação prévia. Para o Superior Tribunal de Justiça, essa conduta",
+   "alternativas": [
+    "legitima a busca pessoal e, por consequência, o ingresso no interior da casa",
+    "constitui fundada razão apta a legitimar o ingresso imediato na residência",
+    "legitima o ingresso, desde que o policial permaneça restrito ao quintal do imóvel",
+    "não constitui fundamento suficiente para o ingresso domiciliar da guarnição"
+   ],
+   "correta": 3,
+   "explicacao": "O Tribunal entendeu insuficiente o mero avistamento do indivíduo que se recolhe ao imóvel, sem denúncia ou investigação prévia. No caso concreto, a visão do ato suspeito só foi possível porque o policial já havia transposto o portão, em violação à proteção constitucional do domicílio, que alcança também o quintal.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "fuga"
+   ]
+  },
+  {
+   "id": "busca-elab-044",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — HC 561.988/PR",
+   "enunciado": "Provas colhidas em estufa de plantação de maconha foram anuladas pelo Superior Tribunal de Justiça porque",
+   "alternativas": [
+    "o cultivo de vegetais não caracteriza crime permanente apto a gerar flagrância",
+    "a diligência ocorreu durante o dia, sem a presença de testemunhas do ato",
+    "os policiais não filmaram integralmente a apreensão das plantas encontradas",
+    "o acesso ao local se deu pela casa de vizinha, sem comprovação de seu consentimento"
+   ],
+   "correta": 3,
+   "explicacao": "A nulidade decorreu do acesso pela residência de vizinha sem comprovação do consentimento dela, contaminando a localização das plantas pela teoria dos frutos da árvore envenenada. A decisão destacou que era possível buscar previamente a autorização judicial, por não haver urgência.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "consentimento"
+   ]
+  },
+  {
+   "id": "busca-elab-045",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — RHC 168.319",
+   "enunciado": "Ao examinar o cumprimento de mandado de busca domiciliar às cinco horas e vinte e cinco minutos, o Superior Tribunal de Justiça decidiu que",
+   "alternativas": [
+    "a diligência é válida, pois realizada fora do período compreendido entre vinte e uma e cinco horas",
+    "a diligência é ilegal, ainda que fora do intervalo criminalizado na lei de abuso de autoridade",
+    "a diligência é válida se o mandado autorizar expressamente o cumprimento antes do amanhecer",
+    "a diligência configura crime de abuso de autoridade, por ocorrer em período noturno"
+   ],
+   "correta": 1,
+   "explicacao": "O colegiado invalidou a diligência, esclarecendo que o limite de vinte e uma às cinco horas da lei de abuso de autoridade criminaliza determinada conduta, mas não torna lícita a incursão em outros horários prévios ao amanhecer, que permanece ilegal e sujeita à nulidade, ainda que não configure crime.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "horario"
+   ]
+  },
+  {
+   "id": "busca-elab-046",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — HC 752.670/RJ",
+   "enunciado": "Quanto ao ingresso em residência fundamentado no sistema de rastreamento de aparelho celular subtraído, o Superior Tribunal de Justiça entende que",
+   "alternativas": [
+    "o ingresso é ilegítimo, por depender sempre de prévia autorização judicial",
+    "o ingresso é legítimo, por constituir elemento objetivo indicativo do local do ilícito",
+    "o ingresso é legítimo apenas se o rastreamento for confirmado por denúncia anônima",
+    "o ingresso é ilegítimo, por se tratar de prova obtida por meio tecnológico invasivo"
+   ],
+   "correta": 1,
+   "explicacao": "O Tribunal admite como legítimo o ingresso fundado no sistema de rastreamento do celular, por se tratar de elemento objetivo que indica a localização do bem e, com ela, a probabilidade da situação flagrancial, ao contrário de meras intuições.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "rastreamento"
+   ]
+  },
+  {
+   "id": "busca-elab-047",
+   "subtema": "Procedimentos",
+   "artigo": "OS PM3-002/02/18 — Registro audiovisual",
+   "enunciado": "O registro audiovisual da diligência de ingresso domiciliar, segundo a orientação normativa e jurisprudencial,",
+   "alternativas": [
+    "deve ser realizado e preservado enquanto durar o processo judicial",
+    "é facultativo e serve apenas ao controle interno da corporação",
+    "substitui a necessidade de fundadas razões para o ingresso no imóvel",
+    "somente é exigido quando houver apreensão de entorpecentes no local"
+   ],
+   "correta": 0,
+   "explicacao": "O HC 598.051 determina que a operação seja registrada em áudio e vídeo, preservada tal prova enquanto durar o processo, exigência coerente com a possibilidade de filmagem prevista na Ordem de Serviço. O registro documenta, mas não substitui, as fundadas razões.",
+   "tags": [
+    "busca",
+    "procedimentos",
+    "audiovisual"
+   ]
+  },
+  {
+   "id": "busca-elab-048",
+   "subtema": "Procedimentos",
+   "artigo": "OS PM3-002/02/18 — Sequência procedimental",
+   "enunciado": "Ordenando cronologicamente o procedimento previsto na Ordem de Serviço para o ingresso sem mandado, tem-se",
+   "alternativas": [
+    "ingresso imediato, averiguação sumária no interior do imóvel e posterior comunicação ao juízo",
+    "observação ou recebimento de informações, averiguação sumária, exame da urgência e ingresso",
+    "solicitação de ordem judicial, aguardo da resposta e ingresso somente após a autorização",
+    "abordagem do morador, colheita do consentimento e ingresso, sempre com filmagem"
+   ],
+   "correta": 1,
+   "explicacao": "A sequência prevista parte da observação do flagrante ou do recebimento de informações de testemunhas, passa pela averiguação sumária, com possibilidade de filmagem, e pela verificação da urgência, culminando no ingresso quando presentes fundadas razões, mesmo à noite.",
+   "tags": [
+    "busca",
+    "procedimentos",
+    "sequencia"
+   ]
+  },
+  {
+   "id": "busca-elab-049",
+   "subtema": "Consentimento do morador",
+   "artigo": "OS PM3-002/02/18 — Divergência entre moradores",
+   "enunciado": "Havendo divergência entre moradores plenamente capazes quanto à autorização de ingresso, a solução determinada é",
+   "alternativas": [
+    "não ingressar, prevalecendo a recusa sobre a autorização manifestada",
+    "ingressar, prevalecendo a autorização sobre a recusa manifestada",
+    "consultar o proprietário do imóvel para solução do impasse instaurado",
+    "ingressar apenas nas áreas comuns, preservados os cômodos privativos"
+   ],
+   "correta": 0,
+   "explicacao": "Havendo divergência, deve-se optar por não ingressar, solução que preserva a garantia constitucional do morador que recusa. A divisão do imóvel em áreas de ingresso permitido é critério próprio dos ambientes plurifamiliares, como pensões e cortiços.",
+   "tags": [
+    "busca",
+    "consentimento",
+    "divergencia"
+   ]
+  },
+  {
+   "id": "busca-elab-050",
+   "subtema": "Fundadas razões",
+   "artigo": "STJ — HC 598.051",
+   "enunciado": "Entre as diretrizes fixadas pelo Superior Tribunal de Justiça no HC 598.051 não se inclui",
+   "alternativas": [
+    "a exigência de fundadas razões aferidas de modo objetivo para o ingresso",
+    "a necessidade de consentimento voluntário e livre de coação do morador",
+    "a autorização automática do ingresso em todo crime de natureza permanente",
+    "a atribuição ao Estado do ônus de provar a legalidade do consentimento"
+   ],
+   "correta": 2,
+   "explicacao": "O julgado afasta expressamente a automaticidade do ingresso nos crimes permanentes, admitindo-o apenas em situações de urgência. As demais diretrizes integram o rol fixado, ao lado do registro audiovisual e da ilicitude das provas derivadas.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "diretrizes"
+   ]
+  },
+  {
+   "id": "busca-elab-051",
+   "subtema": "Procedimentos",
+   "artigo": "OS PM3-002/02/18 — Objeto das fundadas razões",
+   "enunciado": "As fundadas razões que legitimam o ingresso sem mandado devem indicar, no interior do imóvel,",
+   "alternativas": [
+    "apenas a presença de entorpecentes destinados ao comércio ilícito",
+    "situação de flagrante delito, objetos ilícitos ou a presença de vítima",
+    "somente a permanência de pessoa procurada por mandado de prisão",
+    "a existência de indícios de crime já consumado em momento anterior"
+   ],
+   "correta": 1,
+   "explicacao": "A justa causa se apoia em fundadas razões de que no interior da casa há flagrante delito, objetos ilícitos ou vítima. A referência a crime já exaurido, sem situação flagrancial atual, não autoriza o ingresso sem ordem judicial.",
+   "tags": [
+    "busca",
+    "fundadas-razoes",
+    "objeto"
+   ]
+  },
+  {
+   "id": "busca-elab-052",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — RE 1.447.032 AgR",
+   "enunciado": "Ao cassar acórdão do Superior Tribunal de Justiça que exigira diligências prévias para validar o ingresso domiciliar após averiguação de denúncia anônima seguida de fuga, o Supremo Tribunal Federal fundamentou-se em que o STJ",
+   "alternativas": [
+    "deixou de observar a legislação processual penal sobre busca e apreensão domiciliar",
+    "aplicou corretamente o Tema 280, mas divergiu da jurisprudência das demais Turmas",
+    "acrescentou requisitos inexistentes no art. 5º, XI, da Constituição, contrariando o Tema 280",
+    "invadiu a competência do Tribunal de Justiça local para valorar a prova produzida"
+   ],
+   "correta": 2,
+   "explicacao": "O Supremo considerou que o STJ acrescentou requisitos inexistentes no inciso XI do art. 5º da Constituição, extrapolando sua competência ao inovar em matéria constitucional e contrariando o Tema 280. A divergência entre as Cortes gira em torno do que basta para caracterizar a fundada razão.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "stf-stj"
+   ]
+  },
+  {
+   "id": "busca-elab-053",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — RE 1.447.939",
+   "enunciado": "Em decisão de 2023, o Supremo Tribunal Federal considerou lícito o ingresso domiciliar quando houve fuga do agente ao visualizar a polícia e autorização para o ingresso, após os policiais",
+   "alternativas": [
+    "visualizarem um tijolo de maconha sobre a pia do imóvel abordado",
+    "receberem denúncia anônima sobre a prática de tráfico naquela residência",
+    "obterem mandado judicial expedido em plantão durante a diligência",
+    "constatarem que o agente possuía antecedentes por tráfico de drogas"
+   ],
+   "correta": 0,
+   "explicacao": "No RE 1.447.939 o Supremo reputou lícito o ingresso diante da conjugação da fuga do agente, da autorização dada e da visualização do entorpecente sobre a pia. A soma de elementos objetivos é o que caracteriza a justa causa reconhecida pela Corte.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "stf"
+   ]
+  },
+  {
+   "id": "busca-elab-054",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — RE 1.466.339/SC",
+   "enunciado": "Para o Supremo Tribunal Federal, a fuga do agente para dentro da residência ao visualizar os policiais durante patrulhamento de rotina",
+   "alternativas": [
+    "autoriza o ingresso da polícia na residência, por configurar justa causa",
+    "não autoriza o ingresso, por se tratar de patrulhamento sem investigação prévia",
+    "autoriza apenas a busca pessoal do agente, vedado o ingresso no imóvel",
+    "autoriza o ingresso somente se houver denúncia anônima anterior à fuga"
+   ],
+   "correta": 0,
+   "explicacao": "O Supremo reconheceu que a fuga para dentro da residência, mesmo em patrulhamento de rotina, autoriza o ingresso policial. É precisamente nesse ponto que a Corte diverge de julgados do STJ que exigiam diligências prévias.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "fuga"
+   ]
+  },
+  {
+   "id": "busca-elab-055",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — ARE 1.411.272/SC",
+   "enunciado": "O Supremo Tribunal Federal reputou lícita a ação policial em que os agentes, após receberem informações do setor de inteligência e realizarem diligências que confirmaram o aluguel de casa por facção para armazenamento de drogas,",
+   "alternativas": [
+    "abordaram o locador do imóvel e obtiveram dele autorização para o ingresso",
+    "ingressaram imediatamente no imóvel, diante da gravidade da informação recebida",
+    "solicitaram autorização judicial, cumprida por oficial em período noturno",
+    "passaram a monitorar o local e perceberam, de fora da casa, a entrega das drogas"
+   ],
+   "correta": 3,
+   "explicacao": "A licitude decorreu do encadeamento entre informação de inteligência, diligências prévias confirmatórias, monitoramento e percepção da entrega do entorpecente a partir do exterior da casa. Informações de inteligência isoladas, como adverte a Ordem de Serviço, não bastam.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "inteligencia"
+   ]
+  },
+  {
+   "id": "busca-elab-056",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — RE 1.447.063/RS",
+   "enunciado": "Segundo decisão do Supremo Tribunal Federal, configura fundada razão para o ingresso domiciliar a situação em que o foragido",
+   "alternativas": [
+    "é apontado por informante policial como morador do imóvel objeto da diligência",
+    "é reconhecido por fotografia constante do sistema de mandados de prisão em aberto",
+    "possui condenação anterior por tráfico de drogas cumprida há menos de cinco anos",
+    "resiste violentamente à abordagem no beco onde reside, havendo denúncia de tráfico"
+   ],
+   "correta": 3,
+   "explicacao": "A Corte reconheceu fundadas razões na conjugação entre a resistência violenta à abordagem e a existência de denúncia indicando tráfico na residência, cassando decisão do STJ que anulara as provas por suposta violação do Tema 280.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "resistencia"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "busca-elab-057",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — RE 1.448.762",
+   "enunciado": "Para o Supremo Tribunal Federal, autoriza o ingresso da polícia na residência a situação em que há",
+   "alternativas": [
+    "informação prestada por informante policial, confirmada apenas pelo histórico criminal do suspeito",
+    "uma única denúncia anônima sobre o comércio de drogas naquele imóvel, sem qualquer averiguação",
+    "várias denúncias anônimas indicando os veículos usados na traficância e fuga na averiguação",
+    "sinalização de cão farejador em frente ao imóvel, durante patrulhamento de rotina da guarnição"
+   ],
+   "correta": 2,
+   "explicacao": "A Corte considerou suficiente a pluralidade de denúncias anônimas com indicação concreta dos veículos empregados na traficância somada à fuga do réu no momento da averiguação. A denúncia isolada, sem qualquer elemento adicional, segue sendo insuficiente.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "denuncia-anonima"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "busca-elab-058",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — RE 1.447.033",
+   "enunciado": "Durante patrulhamento, moradores indicam que há tráfico de drogas em determinada casa, os policiais passam a monitorar o local e o suspeito foge para o interior do imóvel ao avistá-los. Para o Supremo Tribunal Federal, essa sequência",
+   "alternativas": [
+    "configura justa causa para o ingresso em domicílio, validando a diligência",
+    "não configura justa causa, por faltar denúncia formalizada por testemunha",
+    "configura justa causa apenas se a apreensão de drogas for efetivamente realizada",
+    "exige a obtenção prévia de ordem judicial, por inexistir urgência no caso"
+   ],
+   "correta": 0,
+   "explicacao": "O Supremo reconheceu justa causa na conjugação entre a indicação feita por pessoas no local, o monitoramento subsequente e a fuga do acusado para dentro da residência. A validade não depende do resultado da apreensão.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "monitoramento"
+   ]
+  },
+  {
+   "id": "busca-elab-059",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — RE 1.470.559/SP",
+   "enunciado": "Foi reconhecida justa causa para o ingresso domiciliar, pelo Supremo Tribunal Federal, na hipótese de",
+   "alternativas": [
+    "recusa do passageiro em fornecer documentos de identificação durante a abordagem",
+    "abordagem aleatória de passageiro em ponto conhecido pela venda de entorpecentes",
+    "identificação do passageiro como pessoa com antecedentes por crimes patrimoniais",
+    "tentativa de fuga de passageiro de aplicativo somada a informações do motorista"
+   ],
+   "correta": 3,
+   "explicacao": "A Corte considerou que a tentativa de fuga do passageiro abordado, associada às informações prestadas pelo motorista do veículo de aplicativo, evidenciava a justa causa para o ingresso. Novamente, é a soma de dados objetivos que sustenta a medida.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "fuga"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "busca-elab-060",
+   "subtema": "Divergência STF e STJ",
+   "artigo": "STJ — HC 877.943",
+   "enunciado": "Quanto à fuga do indivíduo ao avistar a guarnição policial, a divergência entre as Cortes superiores pode ser assim sintetizada:",
+   "alternativas": [
+    "para o STJ configura fundada suspeita para busca pessoal, mas não fundada razão para ingresso domiciliar",
+    "para o STJ configura fundada razão para ingresso domiciliar, mas não fundada suspeita para busca pessoal",
+    "para o STF não configura fundada suspeita nem fundada razão, exigindo-se diligências prévias",
+    "para ambas as Cortes a fuga é irrelevante, por constituir reação natural à presença policial"
+   ],
+   "correta": 0,
+   "explicacao": "O STJ admite a fuga como motivo idôneo para a busca pessoal, negando-lhe força para legitimar o ingresso domiciliar; o STF, ao contrário, tem reconhecido na fuga fundada razão apta a autorizar também o ingresso na residência.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "divergencia"
+   ]
+  },
+  {
+   "id": "busca-elab-061",
+   "subtema": "Divergência STF e STJ",
+   "artigo": "STJ — HC 877.943",
+   "enunciado": "Ao admitir a fuga como motivo idôneo para a busca pessoal, o relator no Superior Tribunal de Justiça destacou que fugir correndo diante da aproximação policial",
+   "alternativas": [
+    "equivale a desviar o olhar ou mudar de direção, comportamentos igualmente suspeitos",
+    "é conduta meramente intuitiva, avaliada segundo o tirocínio do policial",
+    "é fato objetivo e controlável pelo Judiciário, distinto de reações corporais sutis",
+    "caracteriza, por si só, situação de flagrante delito apta a justificar a prisão"
+   ],
+   "correta": 2,
+   "explicacao": "O relator assentou que fugir é conduta visível, controlável pelo Judiciário e objetiva, diversa de comportamentos naturais como olhar, desviar o olhar, levantar-se, mudar de direção ou de passo. Ainda assim, não equivale a flagrante delito.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "fuga"
+   ]
+  },
+  {
+   "id": "busca-elab-062",
+   "subtema": "Divergência STF e STJ",
+   "artigo": "STJ — HC 877.943",
+   "enunciado": "A expressão arredondar a ocorrência, mencionada no julgamento do HC 877.943, designa a preocupação com",
+   "alternativas": [
+    "a adaptação do discurso policial para tornar justificáveis no papel as ações realizadas",
+    "o arquivamento sumário de ocorrências de menor potencial ofensivo pela guarnição",
+    "a padronização dos boletins de ocorrência por sistemas informatizados da corporação",
+    "a conclusão antecipada de diligências para reduzir o tempo de empenho das equipes"
+   ],
+   "correta": 0,
+   "explicacao": "O jargão alude ao risco de o policial ajustar a narrativa para tornar todas as suas ações justificáveis no papel, risco que levou o Tribunal a reafirmar a necessidade de escrutínio rigoroso do depoimento policial.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "depoimento"
+   ]
+  },
+  {
+   "id": "busca-elab-063",
+   "subtema": "Divergência STF e STJ",
+   "artigo": "STJ — HC 877.943 e STF — RE 603.616",
+   "enunciado": "O chamado especial escrutínio sobre o depoimento policial, referido a partir do RE 603.616, compreende, entre suas diretrizes,",
+   "alternativas": [
+    "condicionar a validade do depoimento à apresentação de registro audiovisual integral",
+    "presumir a veracidade do depoimento policial, salvo prova cabal em sentido contrário",
+    "exigir a confirmação do depoimento por ao menos dois policiais da mesma guarnição",
+    "rejeitar o testemunho inverossímil e atribuir ao Estado o ônus da prova da legalidade da busca"
+   ],
+   "correta": 3,
+   "explicacao": "As quatro diretrizes são analisar o depoimento com especial cautela, rejeitá-lo se inverossímil, excluir as provas se houver contradição entre depoimentos policiais ou corroboração da versão do réu e atribuir ao Estado o ônus da prova sobre a legalidade da busca, abandonando-se o caráter quase inquestionável desses testemunhos.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "depoimento"
+   ]
+  },
+  {
+   "id": "busca-elab-064",
+   "subtema": "Busca pessoal",
+   "artigo": "STF — HC 208.240",
+   "enunciado": "Segundo o Supremo Tribunal Federal, a busca pessoal realizada por policiais deve fundar-se em elementos indiciários objetivos, não sendo lícita a abordagem baseada em",
+   "alternativas": [
+    "atitude do indivíduo diante da aproximação da viatura policial no local",
+    "raça, sexo, orientação sexual, cor da pele ou aparência física do abordado",
+    "informações sobre a incidência de traficância na localidade abordada",
+    "denúncias formuladas por moradores da região sobre o comércio de drogas"
+   ],
+   "correta": 1,
+   "explicacao": "A Corte fixou que as buscas devem apoiar-se em elementos indiciários objetivos de posse de arma proibida ou de objetos e papéis, não sendo lícita a medida com base em raça, sexo, orientação sexual, cor da pele ou aparência física. O perfilamento racial invalida as provas colhidas.",
+   "tags": [
+    "busca",
+    "busca-pessoal",
+    "perfilamento"
+   ]
+  },
+  {
+   "id": "busca-elab-065",
+   "subtema": "Busca pessoal",
+   "artigo": "STF — HC 208.240",
+   "enunciado": "Define-se perfilamento racial, na linha adotada pelo Supremo Tribunal Federal, como a prática de",
+   "alternativas": [
+    "priorizar abordagens em regiões com maior incidência de indicadores criminais",
+    "selecionar alvos a partir de evidências objetivas de atitude suspeita no local",
+    "padronizar abordagens segundo o histórico criminal registrado em sistemas oficiais",
+    "realizar buscas com base em raça, cor, descendência, nacionalidade ou etnicidade do alvo"
+   ],
+   "correta": 3,
+   "explicacao": "O perfilamento ocorre quando as buscas pessoais não decorrem de evidências objetivas de atitude suspeita, mas de raça, cor, descendência, nacionalidade ou etnicidade do alvo. Critérios territoriais de policiamento não se confundem com essa prática vedada.",
+   "tags": [
+    "busca",
+    "busca-pessoal",
+    "perfilamento"
+   ]
+  },
+  {
+   "id": "busca-elab-066",
+   "subtema": "Busca pessoal",
+   "artigo": "STF — HC 208.240",
+   "enunciado": "No caso concreto examinado no HC 208.240, o Supremo Tribunal Federal concluiu que a fundada suspeita não decorreu exclusivamente da cor da pele porque",
+   "alternativas": [
+    "havia mandado de prisão em aberto contra um dos indivíduos abordados na via pública",
+    "os abordados portavam objetos compatíveis com a prática do crime de tráfico de drogas",
+    "havia incidência de traficância no local e a atitude dos envolvidos com a viatura",
+    "a abordagem foi determinada previamente pelo comando da unidade responsável pela área"
+   ],
+   "correta": 2,
+   "explicacao": "A Corte verificou a presença de outros elementos objetivos, como a incidência de traficância na localidade e a atitude dos envolvidos quando a viatura se aproximou, o que afastou a tese de abordagem fundada apenas na cor da pele. O relator no STJ, em sentido diverso, reputara inidôneo o fundamento.",
+   "tags": [
+    "busca",
+    "busca-pessoal",
+    "caso-concreto"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "busca-elab-067",
+   "subtema": "Guardas municipais",
+   "artigo": "STF — Reclamação 62.455",
+   "enunciado": "Ao julgar a Reclamação 62.455, o Supremo Tribunal Federal decidiu que a Guarda Municipal pode realizar busca pessoal",
+   "alternativas": [
+    "em suspeitos de crimes em geral, quando houver fundada suspeita",
+    "apenas no âmbito da proteção de bens, serviços e instalações municipais",
+    "somente mediante requisição da autoridade policial civil competente",
+    "exclusivamente em parques e próprios municipais sob sua vigilância"
+   ],
+   "correta": 0,
+   "explicacao": "O Supremo afastou a restrição imposta pelo STJ e assentou que a Guarda Municipal pode realizar busca pessoal em suspeitos de crime em geral quando houver fundada suspeita, nos termos do art. 244 do Código de Processo Penal.",
+   "tags": [
+    "busca",
+    "guarda-municipal",
+    "busca-pessoal"
+   ]
+  },
+  {
+   "id": "busca-elab-068",
+   "subtema": "Guardas municipais",
+   "artigo": "STF — ADPF 995",
+   "enunciado": "Quanto à natureza jurídica das guardas municipais, o Supremo Tribunal Federal firmou que",
+   "alternativas": [
+    "integram o sistema de segurança pública apenas quando conveniadas com a Polícia Militar",
+    "não integram o sistema de segurança pública, por ausência de previsão no art. 144 da CF",
+    "são órgãos de segurança pública, não prevalecendo o argumento de rol taxativo do art. 144",
+    "exercem atividade administrativa de fiscalização, sem atribuição de natureza policial"
+   ],
+   "correta": 2,
+   "explicacao": "A Corte concluiu que as guardas municipais são órgãos de segurança pública e que o deslocamento topográfico de sua disciplina no texto constitucional não as desconfigura como agentes de segurança, sendo inconstitucionais as interpretações que as excluam do sistema.",
+   "tags": [
+    "busca",
+    "guarda-municipal",
+    "seguranca-publica"
+   ]
+  },
+  {
+   "id": "busca-elab-069",
+   "subtema": "Guardas municipais",
+   "artigo": "STF — Reclamação 62.455",
+   "enunciado": "Entre as responsabilidades reconhecidas às guardas municipais pelo Supremo Tribunal Federal inclui-se",
+   "alternativas": [
+    "expedir mandados de busca em imóveis situados no território do município",
+    "presidir o inquérito policial relativo às ocorrências atendidas em área municipal",
+    "conduzir investigações criminais em concorrência com as polícias judiciárias",
+    "interromper atividades criminosas ou infracionais, realizando prisões e apreensões"
+   ],
+   "correta": 3,
+   "explicacao": "A decisão reconhece às guardas municipais a responsabilidade de interromper atividades criminosas ou infracionais, realizando prisões ou apreensões e busca pessoal quando houver fundadas razões. Investigação e atos judiciais permanecem fora de suas atribuições.",
+   "tags": [
+    "busca",
+    "guarda-municipal",
+    "atribuicoes"
+   ]
+  },
+  {
+   "id": "busca-elab-070",
+   "subtema": "Prova digital",
+   "artigo": "STJ — AREsp 2.340.362",
+   "enunciado": "Para o Superior Tribunal de Justiça, a leitura, sem autorização judicial, das mensagens exibidas na barra de notificações de celular bloqueado",
+   "alternativas": [
+    "configura mera irregularidade, sanável pela posterior autorização judicial",
+    "é lícita, por não exigir desbloqueio do aparelho nem acesso a aplicativos",
+    "é lícita quando o aparelho estiver em poder de preso em flagrante delito",
+    "configura violação do sigilo das comunicações e torna ilícitas as provas obtidas"
+   ],
+   "correta": 3,
+   "explicacao": "A Quinta Turma assentou que a simples leitura das mensagens exibidas na tela bloqueada viola o sigilo de dados e contamina as provas subsequentes. A jurisprudência do Tribunal veda a devassa do aparelho celular do suspeito durante o flagrante sem autorização judicial.",
+   "tags": [
+    "busca",
+    "prova-digital",
+    "celular"
+   ]
+  },
+  {
+   "id": "busca-elab-071",
+   "subtema": "Prova digital",
+   "artigo": "STJ — AREsp 2.340.362",
+   "enunciado": "Ainda segundo esse julgado, não há violação do sigilo de dados quando os policiais",
+   "alternativas": [
+    "leem as mensagens exibidas na tela bloqueada do aparelho apreendido",
+    "verificam o IMEI do aparelho, mera identificação não abarcada pelo sigilo",
+    "acessam a lista de chamadas recentes do aparelho durante o flagrante",
+    "fotografam as conversas exibidas em aplicativo de mensagens instantâneas"
+   ],
+   "correta": 1,
+   "explicacao": "O Tribunal ressalvou que a averiguação do próprio objeto do crime, como o IMEI, é mera identificação do aparelho e não está abarcada pelo sigilo de dados. O acesso ao conteúdo das comunicações, ao contrário, exige autorização judicial.",
+   "tags": [
+    "busca",
+    "prova-digital",
+    "imei"
+   ]
+  },
+  {
+   "id": "busca-elab-072",
+   "subtema": "Prova digital",
+   "artigo": "STJ — AREsp 2.340.362",
+   "enunciado": "No caso julgado no AREsp 2.340.362, a apreensão de cocaína em residência foi considerada inválida porque",
+   "alternativas": [
+    "decorreu de leitura ilícita de mensagens realizada na abordagem anterior",
+    "ocorreu em período noturno, sem mandado judicial de busca domiciliar",
+    "a moradora não assinou o termo de consentimento para o ingresso policial",
+    "não houve registro audiovisual da diligência realizada pelos policiais"
+   ],
+   "correta": 0,
+   "explicacao": "A cadeia causal partiu da leitura ilícita das mensagens na tela bloqueada, que levou os policiais até a residência da interlocutora, contaminando a apreensão posterior. Trata-se de aplicação direta da ilicitude por derivação.",
+   "tags": [
+    "busca",
+    "prova-digital",
+    "derivacao"
+   ]
+  },
+  {
+   "id": "busca-elab-073",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — ARE 1.385.315",
+   "enunciado": "Ao decidir sobre a responsabilidade do Estado por vítimas de bala perdida em operações de segurança pública, o Supremo Tribunal Federal fixou que",
+   "alternativas": [
+    "a responsabilidade é subjetiva, cabendo à vítima demonstrar a conduta do agente",
+    "o Estado responde apenas quando comprovado o dolo ou a culpa do agente público",
+    "o Estado responde na esfera cível, nos termos da teoria do risco administrativo",
+    "a responsabilidade é afastada quando a perícia não identificar a origem do disparo"
+   ],
+   "correta": 2,
+   "explicacao": "A primeira tese fixada afirma a responsabilidade civil do Estado por morte ou ferimento decorrente de operações de segurança pública, com base na teoria do risco administrativo, o que dispensa a demonstração de culpa do agente.",
+   "tags": [
+    "busca",
+    "responsabilidade-civil",
+    "bala-perdida"
+   ]
+  },
+  {
+   "id": "busca-elab-074",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — ARE 1.385.315",
+   "enunciado": "Quanto ao ônus da prova das excludentes de responsabilidade civil nas operações de segurança pública, o Supremo Tribunal Federal fixou que",
+   "alternativas": [
+    "incumbe ao Ministério Público apurar a origem do disparo antes da ação civil",
+    "incumbe à vítima ou a seus familiares demonstrar o nexo causal e a culpa estatal",
+    "incumbe ao ente federativo demonstrar eventuais excludentes de responsabilidade",
+    "não há distribuição do ônus, resolvendo-se a controvérsia pela perícia oficial"
+   ],
+   "correta": 2,
+   "explicacao": "A segunda tese atribui ao ente federativo o ônus de demonstrar eventuais excludentes de responsabilidade civil, invertendo o encargo probatório em favor da vítima, coerentemente com a teoria do risco administrativo.",
+   "tags": [
+    "busca",
+    "responsabilidade-civil",
+    "onus-da-prova"
+   ]
+  },
+  {
+   "id": "busca-elab-075",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — ARE 1.385.315",
+   "enunciado": "Sobre a perícia inconclusiva quanto à origem do disparo fatal em operações policiais e militares, a tese fixada pelo Supremo Tribunal Federal afirma que",
+   "alternativas": [
+    "afasta integralmente a responsabilidade do Estado, por ausência de nexo causal",
+    "não é suficiente, por si só, para afastar a responsabilidade civil do Estado",
+    "transfere ao autor da ação o ônus de identificar o agente responsável pelo disparo",
+    "impõe o sobrestamento da ação civil até a conclusão do inquérito policial"
+   ],
+   "correta": 1,
+   "explicacao": "A terceira tese estabelece que a perícia inconclusiva não basta, isoladamente, para afastar a responsabilidade civil do Estado, por constituir elemento indiciário. A conclusão reforça a distribuição do ônus probatório fixada na segunda tese.",
+   "tags": [
+    "busca",
+    "responsabilidade-civil",
+    "pericia"
+   ]
+  },
+  {
+   "id": "busca-elab-076",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — REsp 1.971.993 e 1.977.652",
+   "enunciado": "Em recursos repetitivos, a Terceira Seção do Superior Tribunal de Justiça fixou que o princípio da insignificância é aplicável ao crime de contrabando de cigarros quando",
+   "alternativas": [
+    "o valor dos tributos iludidos não ultrapassar vinte mil reais, mesmo ao reincidente",
+    "a quantidade apreendida não ultrapassar quinhentos maços, inclusive ao reincidente",
+    "houver apreensão de qualquer quantidade destinada exclusivamente ao consumo próprio",
+    "a quantidade apreendida não ultrapassar mil maços, salvo em caso de reincidência"
+   ],
+   "correta": 3,
+   "explicacao": "A tese admite a insignificância até mil maços de cigarro, ressalvando expressamente o reincidente, circunstância que indica maior reprovabilidade e periculosidade social da ação.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "contrabando"
+   ]
+  },
+  {
+   "id": "busca-elab-077",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — Súmula 668",
+   "enunciado": "Segundo a Súmula 668 do Superior Tribunal de Justiça, o delito de porte ou posse de arma de fogo de uso permitido com numeração, marca ou sinal de identificação raspado, suprimido ou adulterado",
+   "alternativas": [
+    "não é considerado hediondo, ainda que presente a supressão da identificação",
+    "é considerado hediondo, dada a supressão dos elementos identificadores da arma",
+    "é considerado hediondo apenas quando a arma for apreendida municiada",
+    "não constitui crime autônomo, absorvendo-se pelo porte de arma de uso restrito"
+   ],
+   "correta": 0,
+   "explicacao": "A súmula afasta a natureza hedionda do porte ou posse de arma de fogo de uso permitido com identificação suprimida. A hediondez alcança outras figuras da legislação de armas, não essa.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "armas"
+   ]
+  },
+  {
+   "id": "busca-elab-078",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — HC 227.219",
+   "enunciado": "A Segunda Turma do Supremo Tribunal Federal absolveu acusado de porte ilegal de arma de fogo cuja perícia comprovou tratar-se de revólver defeituoso e incapaz de efetuar disparos, por entender que a hipótese",
+   "alternativas": [
+    "configura crime impossível apenas quando o agente desconhece o defeito da arma",
+    "equivale ao porte de arma desmuniciada, igualmente atípico na jurisprudência",
+    "aproxima-se do conceito de simulacro ou de arma obsoleta, cujo porte não é crime",
+    "configura o crime, por ser irrelevante a potencialidade lesiva do armamento"
+   ],
+   "correta": 2,
+   "explicacao": "A Corte equiparou a arma comprovadamente incapaz de disparar a simulacro ou arma obsoleta, cujo porte não configura crime. A hipótese não se confunde com a arma desmuniciada ou desmontada, que, embora inviabilizado o uso imediato, é arma apta a disparar se montada ou municiada.",
+   "tags": [
+    "busca",
+    "armas",
+    "atipicidade"
+   ]
+  },
+  {
+   "id": "busca-elab-079",
+   "subtema": "Jurisprudência do STF",
+   "artigo": "STF — HC 227.219",
+   "enunciado": "Ao distinguir a arma defeituosa da arma desmuniciada ou desmontada, o Supremo Tribunal Federal destacou que nestas últimas",
+   "alternativas": [
+    "há mero objeto inerte, sem qualquer potencialidade lesiva a ser considerada",
+    "há arma de fogo que, montada ou municiada, estaria apta a cumprir sua finalidade",
+    "a tipicidade depende da apreensão simultânea da munição correspondente",
+    "a atipicidade decorre da impossibilidade de uso imediato do armamento"
+   ],
+   "correta": 1,
+   "explicacao": "O fundamento da distinção é que, na arma desmuniciada ou desmontada, embora inviabilizado o uso imediato, permanece existindo arma de fogo que, montada ou municiada, estaria apta a disparar e a cumprir sua finalidade, o que não ocorre com o armamento comprovadamente defeituoso.",
+   "tags": [
+    "busca",
+    "armas",
+    "distincao"
+   ]
+  },
+  {
+   "id": "busca-elab-080",
+   "subtema": "Roubo e arma",
+   "artigo": "Jurisprudência — Simulacro no roubo",
+   "enunciado": "Segundo corrente jurisprudencial que admite a incidência da majorante do roubo, a ausência de apreensão e perícia da arma de fogo",
+   "alternativas": [
+    "afasta automaticamente a majorante, por ausência de comprovação da potencialidade lesiva",
+    "não afasta o reconhecimento da majorante, cabendo à defesa provar tratar-se de simulacro",
+    "transfere ao Ministério Público o ônus de produzir prova pericial substitutiva",
+    "impede a condenação pelo crime de roubo, por ausência de materialidade delitiva"
+   ],
+   "correta": 1,
+   "explicacao": "Para essa corrente, a palavra da vítima, corroborada por outras provas, sustenta a majorante, constituindo ônus da defesa demonstrar que o instrumento era simulacro ou arma de brinquedo. A corrente oposta, filiada à teoria objetiva, afasta o aumento e reconhece apenas a grave ameaça.",
+   "tags": [
+    "busca",
+    "roubo",
+    "majorante"
+   ]
+  },
+  {
+   "id": "busca-elab-081",
+   "subtema": "Roubo e arma",
+   "artigo": "Jurisprudência — Teoria objetiva",
+   "enunciado": "Para a corrente que adota a teoria objetiva quanto ao emprego de arma de brinquedo no roubo, tal circunstância",
+   "alternativas": [
+    "serve apenas para caracterizar a elementar da grave ameaça, sem majorar a pena",
+    "configura crime impossível, por absoluta ineficácia do meio empregado",
+    "majora a pena, por gerar na vítima o mesmo temor da arma verdadeira",
+    "desclassifica o roubo para o crime de constrangimento ilegal qualificado"
+   ],
+   "correta": 0,
+   "explicacao": "Pela teoria objetiva, a arma de brinquedo não aumenta a pena, prestando-se apenas a caracterizar a grave ameaça, elementar do roubo. Também não há crime impossível, pois a força intimidativa é suficiente para configurar a elementar típica.",
+   "tags": [
+    "busca",
+    "roubo",
+    "simulacro"
+   ]
+  },
+  {
+   "id": "busca-elab-082",
+   "subtema": "Roubo e arma",
+   "artigo": "STJ — Tema 1110",
+   "enunciado": "Quanto ao emprego de arma branca no roubo, após a Lei nº 13.654/18, o Superior Tribunal de Justiça fixou no Tema 1110 que a circunstância",
+   "alternativas": [
+    "autoriza a aplicação da agravante genérica de emprego de meio cruel",
+    "permanece configurando causa de aumento, por analogia com a arma de fogo",
+    "é irrelevante para a dosimetria, por integrar a elementar da grave ameaça",
+    "não é mais causa de aumento, mas pode fundamentar a majoração da pena-base"
+   ],
+   "correta": 3,
+   "explicacao": "Em razão da novatio legis in mellius trazida pela Lei nº 13.654/18, o emprego de arma branca deixou de ser causa de aumento do roubo, podendo, contudo, ser utilizado como fundamento para a majoração da pena-base quando as circunstâncias do caso concreto justificarem.",
+   "tags": [
+    "busca",
+    "roubo",
+    "arma-branca"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "busca-elab-083",
+   "subtema": "Roubo e arma",
+   "artigo": "Jurisprudência — Concurso de pessoas",
+   "enunciado": "Em roubo praticado por dois agentes, um deles ameaçando a vítima enquanto o outro subtrai o bem, a nítida divisão de tarefas na dinâmica delitiva",
+   "alternativas": [
+    "afasta a majorante, por não haver liame subjetivo previamente ajustado",
+    "impõe o reconhecimento da majorante relativa ao concurso de pessoas",
+    "configura mera coautoria, sem repercussão na dosimetria da pena aplicada",
+    "permite a aplicação da majorante apenas ao agente que exerceu a ameaça"
+   ],
+   "correta": 1,
+   "explicacao": "A divisão de tarefas evidencia o liame subjetivo e a atuação conjunta, impondo o reconhecimento da majorante do concurso de pessoas, que alcança ambos os agentes.",
+   "tags": [
+    "busca",
+    "roubo",
+    "concurso"
+   ]
+  },
+  {
+   "id": "busca-elab-084",
+   "subtema": "Crítica indevida",
+   "artigo": "STF — ADPF 475",
+   "enunciado": "Quanto ao crime militar de publicação ou crítica indevida, o Supremo Tribunal Federal, na ADPF 475,",
+   "alternativas": [
+    "conferiu interpretação conforme, restringindo o tipo aos militares da ativa",
+    "declarou a inconstitucionalidade do tipo, por violação à liberdade de expressão",
+    "declarou a constitucionalidade do tipo penal militar questionado",
+    "reconheceu a revogação tácita do tipo pela nova redação do Código Penal Militar"
+   ],
+   "correta": 2,
+   "explicacao": "O crime de publicação ou crítica indevida foi declarado constitucional pelo Supremo na ADPF 475. A discussão subsequente diz respeito à incidência de imunidades e à conduta do militar que compartilha ou endossa críticas de terceiros.",
+   "tags": [
+    "busca",
+    "crime-militar",
+    "critica-indevida"
+   ]
+  },
+  {
+   "id": "busca-elab-085",
+   "subtema": "Crítica indevida",
+   "artigo": "STF — Inq 2.295",
+   "enunciado": "Militar reformado que exerce mandato eletivo e critica ato de comando, no exercício da função parlamentar,",
+   "alternativas": [
+    "somente é protegido se a crítica for proferida no interior do parlamento",
+    "incorre no crime militar, pois a condição de militar prevalece sobre o mandato",
+    "responde apenas disciplinarmente, por permanecer vinculado à corporação",
+    "não incorre no crime militar, por força da imunidade material parlamentar"
+   ],
+   "correta": 3,
+   "explicacao": "A imunidade material torna o parlamentar inviolável civil e penalmente por suas opiniões, palavras e votos no exercício do mandato, dentro ou fora do parlamento, desde que haja nexo com a função, afastando o crime militar de crítica indevida.",
+   "tags": [
+    "busca",
+    "imunidade",
+    "material"
+   ]
+  },
+  {
+   "id": "busca-elab-086",
+   "subtema": "Crítica indevida",
+   "artigo": "CF/88 — Art. 53",
+   "enunciado": "A imunidade material parlamentar, que torna invioláveis civil e penalmente as opiniões, palavras e votos,",
+   "alternativas": [
+    "alcança vereadores em todo o território nacional, independentemente do nexo funcional",
+    "alcança apenas senadores e deputados federais, por previsão expressa do art. 53",
+    "alcança vereadores na circunscrição do município, desde que no exercício do mandato",
+    "não alcança deputados estaduais, por ausência de previsão constitucional específica"
+   ],
+   "correta": 2,
+   "explicacao": "A imunidade material aplica-se a senadores, deputados federais e estaduais e aos vereadores na circunscrição de seu município, sempre no exercício do mandato, dentro ou fora do parlamento, exigido o nexo causal com a função.",
+   "tags": [
+    "busca",
+    "imunidade",
+    "material"
+   ]
+  },
+  {
+   "id": "busca-elab-087",
+   "subtema": "Crítica indevida",
+   "artigo": "STF — Teoria da acessoriedade limitada",
+   "enunciado": "Policial militar da ativa compartilha ou curte, em rede social, crítica lançada por parlamentar no exercício do mandato. Considerada a teoria da acessoriedade limitada, esse militar",
+   "alternativas": [
+    "responderá apenas na esfera disciplinar, em razão do dever de subordinação",
+    "será punido como autor de crime militar autônomo de crítica indevida",
+    "será punido como partícipe, pois a imunidade é personalíssima do parlamentar",
+    "não será punido, pois a imunidade afasta a tipicidade ou a ilicitude do fato"
+   ],
+   "correta": 3,
+   "explicacao": "Como o Brasil adotou a teoria da acessoriedade limitada, a punição do partícipe exige fato típico e antijurídico; sendo a imunidade material excludente de tipicidade ou de ilicitude, ela se estende a quem apenas reproduz a manifestação parlamentar.",
+   "tags": [
+    "busca",
+    "imunidade",
+    "participe"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "busca-elab-088",
+   "subtema": "Crítica indevida",
+   "artigo": "STF — Súmula 245",
+   "enunciado": "A Súmula 245 do Supremo Tribunal Federal enuncia que a imunidade parlamentar não se estende ao corréu sem essa prerrogativa. Segundo a doutrina majoritária, esse enunciado",
+   "alternativas": [
+    "foi superado pela jurisprudência recente, que estendeu ambas ao corréu",
+    "aplica-se indistintamente às imunidades formal e material do parlamentar",
+    "aplica-se apenas à imunidade material, por sua natureza personalíssima",
+    "aplica-se à imunidade formal, e não à imunidade material do parlamentar"
+   ],
+   "correta": 3,
+   "explicacao": "A doutrina majoritária restringe a súmula à imunidade formal, relativa à prisão e ao processo, de modo que a imunidade material, por excluir tipicidade ou ilicitude, comunica-se ao partícipe que apenas reproduz a manifestação.",
+   "tags": [
+    "busca",
+    "imunidade",
+    "sumula-245"
+   ]
+  },
+  {
+   "id": "busca-elab-089",
+   "subtema": "Crítica indevida",
+   "artigo": "Jurisprudência — Conduta autônoma",
+   "enunciado": "Militar da ativa que, além de compartilhar, acrescenta comentários próprios endossando a crítica dirigida ao comando",
+   "alternativas": [
+    "somente responde se o comentário atingir diretamente superior hierárquico seu",
+    "permanece protegido pela imunidade, por reproduzir a mesma manifestação",
+    "responde apenas por transgressão disciplinar, jamais por crime militar",
+    "pratica conduta nova e autônoma, não alcançada pela imunidade parlamentar"
+   ],
+   "correta": 3,
+   "explicacao": "O comentário próprio configura nova conduta, praticada por quem não detém imunidade, o que afasta a extensão da proteção e permite a responsabilização criminal. A mera reprodução, ao contrário, é alcançada pela imunidade material.",
+   "tags": [
+    "busca",
+    "imunidade",
+    "conduta-autonoma"
+   ]
+  },
+  {
+   "id": "busca-elab-090",
+   "subtema": "Crítica indevida",
+   "artigo": "STF — AP 1.044",
+   "enunciado": "O parlamentar que incita militares a praticar críticas indevidas ou outros crimes",
+   "alternativas": [
+    "é protegido pela imunidade material, por se tratar de manifestação de opinião",
+    "não é protegido pela imunidade, podendo responder pelo crime de incitamento",
+    "responde apenas civilmente, preservada a inviolabilidade penal do mandato",
+    "somente responde se a incitação ocorrer fora das dependências do parlamento"
+   ],
+   "correta": 1,
+   "explicacao": "A imunidade material protege opiniões, palavras e votos com nexo funcional, mas não ampara a incitação à prática de crimes, hipótese em que o parlamentar responde pelo delito correspondente, como assentado no julgamento da AP 1.044.",
+   "tags": [
+    "busca",
+    "imunidade",
+    "incitamento"
+   ]
+  },
+  {
+   "id": "busca-elab-091",
+   "subtema": "Crítica indevida",
+   "artigo": "STJ — RHC 75.125/PB",
+   "enunciado": "Para o Superior Tribunal de Justiça, o mero ato de compartilhar publicação de terceiro, sem que se identifique circunstância reveladora do ânimo de criticar ato de superior ou assunto de disciplina militar,",
+   "alternativas": [
+    "é suficiente para a responsabilização penal, por propagar a manifestação original",
+    "não é suficiente para a responsabilização penal, ainda que propague a publicação",
+    "configura crime apenas quando o compartilhamento alcançar grupo fechado",
+    "configura crime independentemente de identificação do conteúdo compartilhado"
+   ],
+   "correta": 1,
+   "explicacao": "O Tribunal reconheceu que o compartilhamento torna o texto visível a terceiros, mas exigiu, para a responsabilização penal, a demonstração do animus dirigido a reproduzir a crítica ao ato de superior ou a assunto de disciplina militar, trancando o processo na ausência de descrição do conteúdo.",
+   "tags": [
+    "busca",
+    "crime-militar",
+    "compartilhamento"
+   ]
+  },
+  {
+   "id": "busca-elab-092",
+   "subtema": "Crítica indevida",
+   "artigo": "TJ-PR — Apelação 0028624-38.2019",
+   "enunciado": "Em sentido diverso, decisão do Tribunal de Justiça do Paraná reconheceu o crime militar de crítica indevida na conduta do militar que",
+   "alternativas": [
+    "manteve arquivada em seu aparelho celular imagem crítica ao Comandante Geral",
+    "curtiu publicação de parlamentar que criticava o comando da corporação",
+    "compartilhou imagem com texto crítico a superiores em grupo com 256 pessoas",
+    "encaminhou reclamação formal ao comando por meio do canal interno da unidade"
+   ],
+   "correta": 2,
+   "explicacao": "O Tribunal considerou típica a conduta do militar que compartilhou, em grupo de aplicativo de mensagens com 256 integrantes, imagem com texto crítico ao Governador e ao Comandante Geral, ainda que não fosse o autor da imagem, dada a amplitude e o conteúdo da propagação.",
+   "tags": [
+    "busca",
+    "crime-militar",
+    "compartilhamento"
+   ]
+  },
+  {
+   "id": "busca-elab-093",
+   "subtema": "Crítica indevida",
+   "artigo": "CF/88 — Art. 53, §§ 2º e 3º",
+   "enunciado": "Quanto à imunidade formal, é correto afirmar que",
+   "alternativas": [
+    "aplica-se a todos os detentores de mandato eletivo, inclusive aos vereadores",
+    "aplica-se a parlamentares federais e a deputados estaduais, mas não a vereadores",
+    "impede a prisão do parlamentar mesmo em flagrante de crime inafiançável",
+    "alcança o suplente desde a diplomação do titular do mandato legislativo"
+   ],
+   "correta": 1,
+   "explicacao": "A imunidade formal, relativa à prisão e à sustação do processo, aplica-se a parlamentares federais e a deputados estaduais, não alcançando vereadores. Ela admite a prisão em flagrante de crime inafiançável, e o suplente, enquanto nessa condição, não goza de qualquer imunidade.",
+   "tags": [
+    "busca",
+    "imunidade",
+    "formal"
+   ]
+  },
+  {
+   "id": "busca-elab-094",
+   "subtema": "Jurisprudência do STJ",
+   "artigo": "STJ — RHC 181.336",
+   "enunciado": "Para o Superior Tribunal de Justiça, o indeferimento do pedido de juntada da certidão de antecedentes criminais da vítima, em processo de competência do Tribunal do Júri,",
+   "alternativas": [
+    "configura nulidade absoluta apenas quando a vítima possuir condenação transitada",
+    "é correto, pois o histórico da vítima não afasta a responsabilidade penal do réu",
+    "é correto, salvo se a defesa antecipar expressamente a tese que pretende sustentar",
+    "configura cerceamento de defesa, dada a pertinência da exploração argumentativa em plenário"
+   ],
+   "correta": 3,
+   "explicacao": "O Tribunal entendeu que teses como legítima defesa e homicídio privilegiado podem ganhar credibilidade diante de registros criminais indicativos de perfil violento da vítima, sendo estratégia defensiva válida reservar os argumentos para a sessão plenária, razão pela qual o indeferimento cerceia a defesa.",
+   "tags": [
+    "busca",
+    "jurisprudencia",
+    "juri"
+   ]
+  },
+  {
+   "id": "busca-elab-095",
+   "subtema": "Aplicação prática",
+   "artigo": "OS PM3-002/02/18 — Caso concreto",
+   "enunciado": "Guarnição recebe denúncia anônima de tráfico em uma residência, realiza campana por trinta minutos e observa intensa movimentação de pessoas que ali permanecem por poucos instantes. Nessa situação,",
+   "alternativas": [
+    "a campana é vedada sem autorização judicial prévia, por configurar monitoramento",
+    "a denúncia anônima permanece isolada, sendo obrigatório aguardar ordem judicial",
+    "há elementos que somados à denúncia podem compor as fundadas razões para o ingresso",
+    "o ingresso é vedado, pois a movimentação atípica não constitui elemento objetivo"
+   ],
+   "correta": 2,
+   "explicacao": "A jurisprudência exige breve averiguação que ratifique a notícia anônima, como campana que ateste movimentação atípica na residência. Não se exigem diligências profundas, mas a denúncia isolada, sem qualquer confirmação, não sustenta o ingresso.",
+   "tags": [
+    "busca",
+    "aplicacao",
+    "campana"
+   ]
+  },
+  {
+   "id": "busca-elab-096",
+   "subtema": "Aplicação prática",
+   "artigo": "OS PM3-002/02/18 — Caso concreto",
+   "enunciado": "Durante diligência autorizada pelo morador, os policiais percebem que ele passa a demonstrar arrependimento e pede a interrupção da busca, quando já localizada pequena quantidade de entorpecente. A conduta correta da guarnição é",
+   "alternativas": [
+    "cessar a busca e, havendo flagrante já caracterizado, adotar as providências cabíveis",
+    "prosseguir na busca, pois o consentimento se torna irretratável após a localização da droga",
+    "prosseguir na busca, desde que solicite apoio de oficial para acompanhar a diligência",
+    "cessar a busca e liberar o material localizado, por ilicitude superveniente da prova"
+   ],
+   "correta": 0,
+   "explicacao": "O consentimento é retratável, devendo a busca cessar; contudo, o flagrante já caracterizado durante o período de autorização válida produz seus efeitos próprios, com registro formal do consentimento e da retratação em boletim.",
+   "tags": [
+    "busca",
+    "aplicacao",
+    "retratacao"
+   ]
+  },
+  {
+   "id": "busca-elab-097",
+   "subtema": "Aplicação prática",
+   "artigo": "OS PM3-002/02/18 — Caso concreto",
+   "enunciado": "Policiais militares perseguem indivíduo que, ao avistar a viatura, corre para o interior de sua residência. Considerada a divergência entre as Cortes superiores, a guarnição deve ponderar que",
+   "alternativas": [
+    "para o STJ a fuga configura justa causa, embora o STF exija diligências prévias",
+    "para o STF a fuga configura justa causa, mas o STJ exige elementos prévios adicionais",
+    "ambas as Cortes reputam a fuga insuficiente, sendo obrigatória a ordem judicial",
+    "ambas as Cortes reputam a fuga suficiente, dispensada qualquer justificação posterior"
+   ],
+   "correta": 1,
+   "explicacao": "O STF tem reconhecido na fuga para dentro do imóvel justa causa para o ingresso, enquanto o STJ a considera suficiente apenas para busca pessoal, exigindo elementos prévios para o ingresso domiciliar. A justificação posterior é exigida em qualquer hipótese pelo Tema 280.",
+   "tags": [
+    "busca",
+    "aplicacao",
+    "divergencia"
+   ]
+  },
+  {
+   "id": "busca-elab-098",
+   "subtema": "Aplicação prática",
+   "artigo": "OS PM3-002/02/18 — Áreas protegidas",
+   "enunciado": "Policial militar transpõe o portão de uma residência e, já no quintal, observa o morador dispensando um invólucro. Para a jurisprudência do Superior Tribunal de Justiça,",
+   "alternativas": [
+    "o quintal não integra a proteção domiciliar, por ser área externa à edificação",
+    "o quintal integra a proteção domiciliar, viciando a observação realizada após o ingresso",
+    "a observação é válida, pois o ato de dispensar o invólucro ocorreu em área comum",
+    "a observação é válida desde que o policial não ingresse no interior da edificação"
+   ],
+   "correta": 1,
+   "explicacao": "O Tribunal reputou violada a proteção constitucional porque a visão do ato somente foi possível depois de o policial transpor o portão e alcançar o quintal, área abrangida pelo conceito de casa. O vício contamina a prova obtida a partir daí.",
+   "tags": [
+    "busca",
+    "aplicacao",
+    "quintal"
+   ]
+  },
+  {
+   "id": "busca-elab-099",
+   "subtema": "Aplicação prática",
+   "artigo": "OS PM3-002/02/18 — Documentação",
+   "enunciado": "Concluída diligência de ingresso domiciliar sem mandado, com fundadas razões e apreensão de entorpecentes, a documentação da ocorrência deve demonstrar",
+   "alternativas": [
+    "apenas a quantidade e a espécie do material apreendido no interior do imóvel",
+    "os elementos objetivos anteriores ao ingresso que caracterizaram as fundadas razões",
+    "a autorização verbal do morador, ainda que não assinada por ele ou testemunhas",
+    "a comunicação prévia ao juízo competente sobre a intenção de ingressar no imóvel"
+   ],
+   "correta": 1,
+   "explicacao": "O controle a posteriori recai sobre as razões anteriores ao ingresso, que devem estar descritas de modo objetivo na documentação, acompanhadas, sempre que possível, do registro audiovisual. O resultado da apreensão não substitui essa demonstração.",
+   "tags": [
+    "busca",
+    "aplicacao",
+    "documentacao"
+   ]
+  },
+  {
+   "id": "busca-elab-100",
+   "subtema": "Aplicação prática",
+   "artigo": "OS PM3-002/02/18 — Comparação de requisitos",
+   "enunciado": "Comparadas as duas hipóteses disciplinadas pela Ordem de Serviço, tem-se que o cumprimento de ordem judicial obtida em urgência exige Oficial, ao passo que o ingresso em flagrante",
+   "alternativas": [
+    "exige preferencialmente a presença de Oficial ou Sargento, inclusive à noite",
+    "exige obrigatoriamente a presença de Oficial, ainda que em período noturno",
+    "dispensa qualquer exigência quanto à graduação dos policiais envolvidos",
+    "exige a presença de dois Sargentos, para fins de testemunho da diligência"
+   ],
+   "correta": 0,
+   "explicacao": "A norma distingue as situações: no cumprimento da ordem judicial obtida em urgência, exige-se Oficial; no ingresso excepcional em flagrante, inclusive noturno, a presença de Oficial ou Sargento é preferencial, e não obrigatória.",
+   "tags": [
+    "busca",
+    "aplicacao",
+    "comparacao"
+   ]
+  },
+  {
+   "id": "busca-elab-101",
+   "subtema": "Aplicação prática",
+   "artigo": "OS PM3-002/02/18 — Encaminhamento",
+   "enunciado": "Optando a guarnição por não ingressar no imóvel diante da insuficiência das informações, o boletim de ocorrência confeccionado deve ser encaminhado",
+   "alternativas": [
+    "à Polícia Civil, para investigação dos fatos noticiados à guarnição",
+    "ao juízo criminal competente, com pedido de expedição de mandado",
+    "à Corregedoria da Polícia Militar, para avaliação da conduta adotada",
+    "ao Ministério Público, para eventual requisição de diligências complementares"
+   ],
+   "correta": 0,
+   "explicacao": "A Ordem de Serviço determina que, não havendo meios para cercar e monitorar e permanecendo a dúvida, a guarnição deixe o local, lavre o BOPM e o encaminhe à Polícia Civil para investigação, preservando-se a garantia constitucional e a notícia do fato.",
+   "tags": [
+    "busca",
+    "aplicacao",
+    "encaminhamento"
+   ]
+  },
+  {
+   "id": "busca-elab-102",
+   "subtema": "Aplicação prática",
+   "artigo": "STF e STJ — Síntese",
+   "enunciado": "Assinale a situação que, isoladamente considerada, é reputada insuficiente para caracterizar fundadas razões de ingresso domiciliar, tanto pelo STF quanto pelo STJ.",
+   "alternativas": [
+    "A conjugação de denúncias anônimas com monitoramento prévio do local",
+    "A fuga do agente para o interior do imóvel ao avistar a guarnição policial",
+    "A visualização, do exterior, da entrega de entorpecentes na porta do imóvel",
+    "A informação de que o morador possui envolvimento anterior com o tráfico de drogas"
+   ],
+   "correta": 3,
+   "explicacao": "A chamada fama de traficante, isoladamente, não autoriza o ingresso em nenhuma das Cortes. A fuga é aceita pelo STF e recusada pelo STJ, enquanto a visualização direta da traficância e a conjugação de denúncias com monitoramento são admitidas como elementos objetivos.",
+   "tags": [
+    "busca",
+    "sintese",
+    "fundadas-razoes"
+   ]
+  },
+  {
+   "id": "busca-elab-103",
+   "subtema": "Aplicação prática",
+   "artigo": "STF — Tema 280 e OS PM3-002/02/18",
+   "enunciado": "Considerando o conjunto normativo e jurisprudencial sobre busca domiciliar, é correto afirmar que",
+   "alternativas": [
+    "a assinatura do morador no boletim convalida ingresso anterior sem consentimento",
+    "a apreensão de grande quantidade de droga supre a ausência de justa causa inicial",
+    "o êxito da diligência não convalida o ingresso desprovido de fundadas razões prévias",
+    "a filmagem integral da diligência dispensa a demonstração das fundadas razões"
+   ],
+   "correta": 2,
+   "explicacao": "O ponto central da virada jurisprudencial inaugurada pelo RE 603.616 é que o resultado da diligência não valida o ingresso: exigem-se razões anteriores, objetivas e justificadas, sendo a documentação e a filmagem meios de prova dessas razões, e não substitutos delas.",
+   "tags": [
+    "busca",
+    "sintese",
+    "tema-280"
+   ]
+  }
+ ]
+}

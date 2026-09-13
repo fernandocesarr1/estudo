@@ -113,6 +113,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "busca-elab",
+      "nome": "Busca Domiciliar",
+      "nomeCompleto": "Busca domiciliar, fundadas razoes e jurisprudencia do STF e do STJ sobre o trabalho policial (103 questões)",
+      "norma": "OS PM3-002/02/18 e ICC 194",
+      "arquivo": "data/busca-elab.json",
+      "cor": "#4a6f2f",
+      "ativo": true,
+      "ordem": 11,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
