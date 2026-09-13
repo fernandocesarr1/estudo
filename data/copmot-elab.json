@@ -1,0 +1,1961 @@
+{
+ "materia": "copmot-elab",
+ "versao": "1.5.0",
+ "atualizadoEm": "2026-09-13",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Acesso às gravações",
+  "Acionamentos",
+  "Atribuição",
+  "Botão P0",
+  "Botão de pânico",
+  "Cartão RFID",
+  "Casos de interesse policial",
+  "Classificação — Apoio",
+  "Classificação — Ações corretivas",
+  "Classificação — Campos",
+  "Classificação — Condutor",
+  "Classificação — Momento",
+  "Classificação — Registro",
+  "Classificação — Regra",
+  "Classificação — Sem talão",
+  "Conceitos",
+  "Desatribuição",
+  "Dever funcional",
+  "Distribuição",
+  "Doca",
+  "Encerramento",
+  "Entrega ao CFP",
+  "Etiquetas",
+  "Ferramentas",
+  "Fixação",
+  "Funcionamento — Ações corretivas",
+  "Funcionamento — Ações críticas",
+  "Funcionamento — Erros",
+  "Funcionamento — Resultados",
+  "Gravação",
+  "Informação às partes",
+  "Inoperância",
+  "Interrupção",
+  "Modo tático",
+  "Não acionamento",
+  "Obrigações do operador",
+  "Operações",
+  "Pronto emprego",
+  "Registro no BOe",
+  "Remoção da COP",
+  "Situações excepcionais",
+  "Transferência",
+  "Uso — Ações críticas",
+  "Uso — Divulgação",
+  "Uso — Erros",
+  "Uso — Finalidade",
+  "Uso — Fundamentos",
+  "Uso — Propriedade",
+  "Uso — Resultados",
+  "Uso — Vedações",
+  "Verificação",
+  "Visor",
+  "Áudio bidirecional"
+ ],
+ "questoes": [
+  {
+   "id": "copmot-elab-001",
+   "subtema": "Funcionamento — Ações críticas",
+   "artigo": "POP 5.28.01 — Ações críticas",
+   "enunciado": "São ações críticas do POP de funcionamento da COP Motorola",
+   "alternativas": [
+    "atribuição, classificação das evidências e entrega da COP ao comandante de força",
+    "atribuição e desatribuição, verificação antes do serviço e fixação na capa do colete",
+    "verificação antes do serviço, acionamento remoto e upload manual das gravações",
+    "fixação no colete, uso do modo tático e transmissão ao vivo das ocorrências"
+   ],
+   "correta": 1,
+   "explicacao": "O POP 5.28.01 elenca a atribuição e desatribuição da COP, a verificação do equipamento antes do serviço e a fixação na capa do colete ou peça complementar.",
+   "tags": [
+    "cop-motorola",
+    "funcionamento",
+    "acoes-criticas"
+   ]
+  },
+  {
+   "id": "copmot-elab-002",
+   "subtema": "Cartão RFID",
+   "artigo": "POP 5.28.01 — Esclarecimentos",
+   "enunciado": "O cartão RFID utilizado com a COP Motorola é",
+   "alternativas": [
+    "individual, mas transferível ao policial que assumir o mesmo posto no turno seguinte",
+    "coletivo, atribuído à unidade de serviço e compartilhado entre seus integrantes",
+    "individual, pessoal e intransferível, vinculando equipamento e usuário com rastreabilidade",
+    "de uso restrito ao comandante de força patrulha para liberação das câmeras da doca"
+   ],
+   "correta": 2,
+   "explicacao": "O cartão RFID é de identificação individual, pessoal e intransferível, e ativa a COP pela doca, garantindo a vinculação entre equipamento e usuário e a rastreabilidade das gravações.",
+   "tags": [
+    "cop-motorola",
+    "rfid"
+   ]
+  },
+  {
+   "id": "copmot-elab-003",
+   "subtema": "Cartão RFID",
+   "artigo": "POP 5.28.01 — Gestão",
+   "enunciado": "A gestão dos cartões RFID das COP Motorola será realizada",
+   "alternativas": [
+    "pelo Comandante de Força Patrulha do turno",
+    "pelo P/4 da OPM, responsável pelo material",
+    "pelo Chefe da Agência de Inteligência da OPM",
+    "pela Central de Serviços de TIC da Polícia Militar"
+   ],
+   "correta": 2,
+   "explicacao": "A gestão dos cartões RFID cabe ao Chefe da Agência de Inteligência da OPM, a quem também se recorre quando a COP não é atribuída por problema no cartão.",
+   "tags": [
+    "cop-motorola",
+    "rfid",
+    "gestao"
+   ]
+  },
+  {
+   "id": "copmot-elab-004",
+   "subtema": "Gravação",
+   "artigo": "POP 5.28.01 — Início e fim",
+   "enunciado": "Na COP Motorola, para iniciar e para finalizar uma gravação, o policial deve, respectivamente,",
+   "alternativas": [
+    "dar duplo clique no botão frontal e pressioná-lo por três segundos",
+    "pressionar o botão frontal por três segundos e dar duplo clique nele",
+    "dar clique único no botão P0 e pressionar o botão P1 por três segundos",
+    "pressionar o botão P2 por três segundos e dar duplo clique no botão P0"
+   ],
+   "correta": 0,
+   "explicacao": "Inicia-se a gravação com duplo clique no botão frontal e finaliza-se pressionando o mesmo botão por três segundos.",
+   "tags": [
+    "cop-motorola",
+    "gravacao",
+    "botoes"
+   ]
+  },
+  {
+   "id": "copmot-elab-005",
+   "subtema": "Gravação",
+   "artigo": "POP 5.28.01 — Pre-buffer",
+   "enunciado": "Ao iniciar uma gravação, a COP Motorola inclui no armazenamento interno cenas de áudio e vídeo",
+   "alternativas": [
+    "dos cento e vinte segundos anteriores ao acionamento",
+    "dos sessenta segundos anteriores ao acionamento",
+    "dos trinta segundos anteriores ao acionamento",
+    "dos noventa segundos anteriores ao acionamento"
+   ],
+   "correta": 3,
+   "explicacao": "O recurso de pre-buffer inclui no armazenamento interno as cenas de áudio e vídeo dos noventa segundos anteriores ao acionamento.",
+   "tags": [
+    "cop-motorola",
+    "pre-buffer"
+   ]
+  },
+  {
+   "id": "copmot-elab-006",
+   "subtema": "Modo tático",
+   "artigo": "POP 5.28.01 — Acionamento",
+   "enunciado": "O modo tático, velado ou stealth, da COP Motorola é ativado e desativado, respectivamente,",
+   "alternativas": [
+    "pressionando o botão P1 por três segundos e o botão P2 por três segundos",
+    "pressionando o botão P2 por três segundos e o botão P1 por três segundos",
+    "com duplo clique no botão P0 e clique único no mesmo botão P0",
+    "pressionando o botão T2 por três segundos e o botão frontal por três segundos"
+   ],
+   "correta": 1,
+   "explicacao": "Ativa-se o modo tático pressionando P2 por três segundos e desativa-se pressionando P1 por três segundos.",
+   "tags": [
+    "cop-motorola",
+    "modo-tatico",
+    "botoes"
+   ]
+  },
+  {
+   "id": "copmot-elab-007",
+   "subtema": "Modo tático",
+   "artigo": "POP 5.28.01 — Efeitos",
+   "enunciado": "Ativado o modo tático da COP Motorola,",
+   "alternativas": [
+    "desativam-se sons e luzes, mantendo-se a gravação audiovisual em funcionamento",
+    "desativam-se sons, luzes e a captação de áudio, preservando apenas o vídeo",
+    "interrompe-se a gravação, preservando-se o sigilo da posição da equipe",
+    "desativa-se o georreferenciamento, preservando-se a gravação audiovisual"
+   ],
+   "correta": 0,
+   "explicacao": "O modo tático opera a COP com som e luzes desativados, mantendo o registro audiovisual em pleno funcionamento.",
+   "tags": [
+    "cop-motorola",
+    "modo-tatico",
+    "efeitos"
+   ]
+  },
+  {
+   "id": "copmot-elab-008",
+   "subtema": "Modo tático",
+   "artigo": "POP 5.28.01 — Cabimento",
+   "enunciado": "O modo velado da COP Motorola somente deverá ser utilizado quando",
+   "alternativas": [
+    "a gravação envolver vítima de crime sexual ou criança em situação de risco",
+    "o policial desejar preservar a própria imagem durante o turno de serviço",
+    "luzes e som expuserem o policial a risco ou a situação tática assim exigir",
+    "o COPOM determinar a interrupção dos sinais para economia de bateria"
+   ],
+   "correta": 2,
+   "explicacao": "O modo velado é restrito às situações em que as luzes e o som exponham o policial a risco ou em que a situação tática em andamento o exija, preservando a segurança ou o êxito da missão.",
+   "tags": [
+    "cop-motorola",
+    "modo-tatico",
+    "cabimento"
+   ]
+  },
+  {
+   "id": "copmot-elab-009",
+   "subtema": "Botão P0",
+   "artigo": "POP 5.28.01 — Marcador e pânico",
+   "enunciado": "Quanto ao botão P0 da COP Motorola, é correto afirmar que",
+   "alternativas": [
+    "um clique gera marcador com imagem, e dois cliques acionam o modo pânico",
+    "dois cliques geram marcador com imagem, e um clique aciona o modo pânico",
+    "um clique ilumina o visor, e dois cliques acionam o modo tático",
+    "um clique inicia a gravação, e dois cliques geram marcador no vídeo"
+   ],
+   "correta": 0,
+   "explicacao": "O mesmo botão P0 serve ao marcador, com clique único durante a gravação, e ao botão de pânico, com dois cliques.",
+   "tags": [
+    "cop-motorola",
+    "p0",
+    "marcador",
+    "panico"
+   ]
+  },
+  {
+   "id": "copmot-elab-010",
+   "subtema": "Botão de pânico",
+   "artigo": "POP 5.28.01 — Efeitos",
+   "enunciado": "Acionado o botão de pânico da COP Motorola, o sistema",
+   "alternativas": [
+    "recebe alerta de emergência, com acompanhamento das cenas e georreferenciamento",
+    "interrompe a gravação e transmite a última imagem capturada ao centro",
+    "aciona automaticamente as COP das unidades num raio de um quilômetro",
+    "ativa o áudio bidirecional com o supervisor regional de serviço"
+   ],
+   "correta": 0,
+   "explicacao": "O botão de pânico envia alerta de emergência ao sistema, permitindo o acompanhamento das cenas e o georreferenciamento da COP.",
+   "tags": [
+    "cop-motorola",
+    "panico"
+   ]
+  },
+  {
+   "id": "copmot-elab-011",
+   "subtema": "Visor",
+   "artigo": "POP 5.28.01 — Iluminação",
+   "enunciado": "Para acender o visor do painel de controle e verificar as informações da COP Motorola, pressiona-se o botão",
+   "alternativas": [
+    "P0, na parte frontal",
+    "P1, na lateral superior",
+    "T2, ao lado do led",
+    "P2, ao lado do microfone"
+   ],
+   "correta": 2,
+   "explicacao": "O botão T2, localizado ao lado do led, acende o visor do painel de controle para verificação das informações da COP.",
+   "tags": [
+    "cop-motorola",
+    "visor"
+   ]
+  },
+  {
+   "id": "copmot-elab-012",
+   "subtema": "Doca",
+   "artigo": "POP 5.28.01 — Conceito",
+   "enunciado": "A doca ou estação de acoplamento da COP Motorola destina-se a",
+   "alternativas": [
+    "armazenar localmente as gravações até a requisição formal pelo comandante",
+    "classificar automaticamente as evidências digitais segundo as etiquetas eletrônicas",
+    "transmitir ao vivo as gravações ao COPOM durante o turno de serviço",
+    "receber os dados gravados, transferi-los para armazenamento e recarregar a bateria"
+   ],
+   "correta": 3,
+   "explicacao": "A doca é plataforma física de acoplagem que recebe os dados gravados, transfere-os para armazenamento em nuvem ou local e recarrega a bateria.",
+   "tags": [
+    "cop-motorola",
+    "doca"
+   ]
+  },
+  {
+   "id": "copmot-elab-013",
+   "subtema": "Atribuição",
+   "artigo": "POP 5.28.01 — Sequência",
+   "enunciado": "Ao encostar o cartão RFID no leitor da doca, o sistema identifica o usuário e atribui automaticamente",
+   "alternativas": [
+    "a câmera atribuída ao mesmo policial no turno anterior, para rastreabilidade",
+    "a câmera escolhida pelo policial, desde que com carga superior a cinquenta por cento",
+    "a câmera em melhor condição de emprego, pela bateria e sem descarregamento em curso",
+    "a câmera indicada pelo comandante de força patrulha no sistema de escala"
+   ],
+   "correta": 2,
+   "explicacao": "O sistema atribui automaticamente a câmera em melhor condição de emprego, considerando nível de bateria e ausência de descarregamento de vídeo em andamento.",
+   "tags": [
+    "cop-motorola",
+    "atribuicao"
+   ]
+  },
+  {
+   "id": "copmot-elab-014",
+   "subtema": "Atribuição",
+   "artigo": "POP 5.28.01 — Sinalização",
+   "enunciado": "Selecionada a câmera pelo sistema, a indicação de que está pronta para uso é",
+   "alternativas": [
+    "sinal sonoro e luz verde",
+    "sinal sonoro e luz azul",
+    "vibração e luz verde",
+    "luz vermelha intermitente"
+   ],
+   "correta": 0,
+   "explicacao": "A câmera selecionada emite sinal sonoro e luminoso, na cor verde, indicando que está pronta; a luz vermelha indica falha de atribuição.",
+   "tags": [
+    "cop-motorola",
+    "atribuicao",
+    "sinal"
+   ]
+  },
+  {
+   "id": "copmot-elab-015",
+   "subtema": "Atribuição",
+   "artigo": "POP 5.28.01 — Falha",
+   "enunciado": "Não reconhecendo o sistema o cartão RFID, ou sendo a COP retirada da doca sem atribuição, o equipamento",
+   "alternativas": [
+    "grava normalmente, vinculando as imagens ao último usuário",
+    "exibe indicador amarelo e permanece ligado em modo de espera",
+    "emite alerta sonoro contínuo até ser recolocado na doca",
+    "exibe indicador vermelho e desliga automaticamente após um minuto"
+   ],
+   "correta": 3,
+   "explicacao": "Nessa hipótese, a COP exibe indicador luminoso vermelho e se desliga automaticamente após um minuto; o problema no cartão é tratado com a Agência de Inteligência.",
+   "tags": [
+    "cop-motorola",
+    "atribuicao",
+    "falha"
+   ]
+  },
+  {
+   "id": "copmot-elab-016",
+   "subtema": "Fixação",
+   "artigo": "POP 5.28.01 — Posição",
+   "enunciado": "Verificado o funcionamento e a atribuição, a COP Motorola deve ser fixada",
+   "alternativas": [
+    "no capacete ou na cobertura, garantindo a visão do ponto de vista do policial",
+    "no ombro do lado da mão fraca, com visão lateral do interior da viatura",
+    "na altura da cintura, sobre o cinto de guarnição, próxima ao coldre",
+    "na parte superior do tronco, sobre o colete, com visão acima do para-brisa embarcado"
+   ],
+   "correta": 3,
+   "explicacao": "A COP é fixada na parte superior do tronco, sobre o colete, de modo que embarcado tenha visão acima do para-brisa e desembarcado enquadre corretamente todas as cenas.",
+   "tags": [
+    "cop-motorola",
+    "fixacao"
+   ]
+  },
+  {
+   "id": "copmot-elab-017",
+   "subtema": "Pronto emprego",
+   "artigo": "POP 5.28.01 — Condição",
+   "enunciado": "Durante todo o turno, a COP deve permanecer em condição de pronto emprego, o que significa estar apta à gravação",
+   "alternativas": [
+    "via COPOM, pela supervisão, por Bluetooth ou manual, com reativação automática",
+    "apenas manual, pelo policial militar, com upload imediato ao término de cada ocorrência",
+    "apenas remota, pelo COPOM, dispensado o acionamento manual pelo usuário",
+    "manual ou por Bluetooth, vedada a ativação remota pela supervisão"
+   ],
+   "correta": 0,
+   "explicacao": "Pronto emprego é estar apta a iniciar gravação remota automática via COPOM, remota pela supervisão, por proximidade via Bluetooth ou manual, permitindo ainda a reativação automática.",
+   "tags": [
+    "cop-motorola",
+    "pronto-emprego"
+   ]
+  },
+  {
+   "id": "copmot-elab-018",
+   "subtema": "Desatribuição",
+   "artigo": "POP 5.28.01 — Momento",
+   "enunciado": "A desatribuição do usuário da COP Motorola ocorre",
+   "alternativas": [
+    "ao conectar a COP na doca, com envio automático dos vídeos e recarga da bateria",
+    "ao aproximar o cartão RFID do leitor da doca ao final do turno de serviço",
+    "ao finalizar a última gravação do turno, pressionando o botão frontal",
+    "por comando do CFP no sistema, após a conferência das gravações do turno"
+   ],
+   "correta": 0,
+   "explicacao": "A desatribuição ocorre ao conectar a COP na doca, momento em que os vídeos são enviados automaticamente ao armazenamento e a bateria é recarregada.",
+   "tags": [
+    "cop-motorola",
+    "desatribuicao"
+   ]
+  },
+  {
+   "id": "copmot-elab-019",
+   "subtema": "Transferência",
+   "artigo": "POP 5.28.03 — Término do turno",
+   "enunciado": "Os vídeos da COP devem ser transferidos para o sistema de armazenamento, obrigatoriamente,",
+   "alternativas": [
+    "semanalmente, pela Agência de Inteligência da OPM detentora",
+    "ao término de cada ocorrência, por meio do aplicativo no smartphone",
+    "ao término de cada turno, quando o equipamento for conectado na doca",
+    "somente quando houver requisição formal da Seção de PJMD"
+   ],
+   "correta": 2,
+   "explicacao": "A transferência é obrigatória ao término de cada turno de serviço, quando o usuário ou responsável conecta o equipamento na doca.",
+   "tags": [
+    "cop-motorola",
+    "transferencia"
+   ]
+  },
+  {
+   "id": "copmot-elab-020",
+   "subtema": "Funcionamento — Ações corretivas",
+   "artigo": "POP 5.28.01 — RFID",
+   "enunciado": "Não sendo a COP atribuída ao policial por problemas no cartão RFID, a ação corretiva determina",
+   "alternativas": [
+    "contatar a Agência de Inteligência da unidade",
+    "acionar a Central de Serviços de TIC da PM",
+    "utilizar o cartão de outro policial da mesma US",
+    "comunicar o fato ao CFP e sair sem a câmera"
+   ],
+   "correta": 0,
+   "explicacao": "Problemas no cartão RFID são tratados com a Agência de Inteligência da unidade, responsável pela gestão dos cartões; o cartão é pessoal e intransferível.",
+   "tags": [
+    "cop-motorola",
+    "acoes-corretivas",
+    "rfid"
+   ]
+  },
+  {
+   "id": "copmot-elab-021",
+   "subtema": "Funcionamento — Erros",
+   "artigo": "POP 5.28.01 — Possibilidades de erro",
+   "enunciado": "Constitui possibilidade de erro do POP de funcionamento da COP",
+   "alternativas": [
+    "acoplar a COP em local diverso do estabelecido",
+    "verificar o visor antes do início do serviço",
+    "desatribuir a COP ao conectá-la na doca",
+    "fixar a COP sobre o colete de proteção"
+   ],
+   "correta": 0,
+   "explicacao": "São erros não conhecer o processo de atribuição, não verificar o visor, acoplar a COP em local diverso e não saber operar o equipamento por falta de treinamento.",
+   "tags": [
+    "cop-motorola",
+    "erros",
+    "funcionamento"
+   ]
+  },
+  {
+   "id": "copmot-elab-022",
+   "subtema": "Funcionamento — Resultados",
+   "artigo": "POP 5.28.01 — Resultados esperados",
+   "enunciado": "Entre os resultados esperados do POP de funcionamento da COP está que o policial militar",
+   "alternativas": [
+    "saiba editar as gravações antes do envio ao sistema de armazenamento",
+    "saiba fixar a COP ao uniforme de modo que as gravações tenham melhor visão",
+    "saiba desativar a gravação remota durante os deslocamentos da viatura",
+    "saiba transferir a COP a outro policial sem necessidade de nova atribuição"
+   ],
+   "correta": 1,
+   "explicacao": "Espera-se que o policial possua cartão RFID e saiba usá-lo, leia o painel de controle e fixe corretamente a COP, garantindo melhor visão do ambiente nas gravações.",
+   "tags": [
+    "cop-motorola",
+    "resultados",
+    "funcionamento"
+   ]
+  },
+  {
+   "id": "copmot-elab-023",
+   "subtema": "Verificação",
+   "artigo": "POP 5.28.01 — Retirada da doca",
+   "enunciado": "Ao retirar a COP da doca, o usuário deverá",
+   "alternativas": [
+    "verificar as informações do visor e checar as condições físicas do equipamento",
+    "realizar gravação de teste e classificá-la como vídeo acidental",
+    "conferir as gravações do turno anterior antes de iniciar o serviço",
+    "ativar o modo tático para preservar a bateria durante o deslocamento"
+   ],
+   "correta": 0,
+   "explicacao": "Ao retirar a COP da doca, o usuário verifica as informações do visor do painel de controle e checa as condições físicas do equipamento.",
+   "tags": [
+    "cop-motorola",
+    "verificacao"
+   ]
+  },
+  {
+   "id": "copmot-elab-024",
+   "subtema": "Fixação",
+   "artigo": "POP 5.28.01 — Ação corretiva",
+   "enunciado": "Estando a COP acoplada em outra parte do uniforme, a ação corretiva determina",
+   "alternativas": [
+    "registrar a posição adotada no relatório de serviço",
+    "recolocá-la corretamente na parte superior do tronco",
+    "mantê-la na posição, desde que o enquadramento seja adequado",
+    "comunicar o CFP para autorização da posição alternativa"
+   ],
+   "correta": 1,
+   "explicacao": "A COP acoplada em outras partes do uniforme deve ser recolocada corretamente na parte superior do tronco, conforme o item 6 da sequência de ações.",
+   "tags": [
+    "cop-motorola",
+    "fixacao",
+    "correcao"
+   ]
+  },
+  {
+   "id": "copmot-elab-025",
+   "subtema": "Conceitos",
+   "artigo": "POP 5.28.02 — Fato de interesse policial",
+   "enunciado": "Fato de interesse policial, para fins de classificação das gravações da COP, é",
+   "alternativas": [
+    "todo fato com intervenção ou interação do PM com o público na polícia ostensiva",
+    "todo fato que configure infração penal apurada em inquérito policial ou militar",
+    "todo fato registrado em talão de ocorrência despachado pelo centro de operações",
+    "todo fato indicado pelo comandante de força patrulha como relevante ao serviço"
+   ],
+   "correta": 0,
+   "explicacao": "É todo fato com intervenção ou interação do PM com o público destinatário no exercício da polícia ostensiva e de preservação da ordem pública, cuja gravação constitui evidência digital.",
+   "tags": [
+    "cop-motorola",
+    "conceitos",
+    "fato-interesse"
+   ]
+  },
+  {
+   "id": "copmot-elab-026",
+   "subtema": "Conceitos",
+   "artigo": "POP 5.28.02 — Evidência digital",
+   "enunciado": "Evidência digital é o registro audiovisual dotado de",
+   "alternativas": [
+    "autenticidade, publicidade e imparcialidade, garantido por assinatura digital",
+    "integridade, rastreabilidade e credibilidade, garantido por cadeia de custódia",
+    "integridade, sigilo e disponibilidade, garantido por criptografia do sistema",
+    "rastreabilidade, legalidade e oficialidade, garantido por perícia oficial"
+   ],
+   "correta": 1,
+   "explicacao": "A evidência digital é registro audiovisual dotado de integridade, rastreabilidade e credibilidade, garantido por cadeia de custódia, constituindo elemento probatório administrativo ou judicial.",
+   "tags": [
+    "cop-motorola",
+    "conceitos",
+    "evidencia"
+   ]
+  },
+  {
+   "id": "copmot-elab-027",
+   "subtema": "Conceitos",
+   "artigo": "POP 5.28.02 — Etiqueta eletrônica",
+   "enunciado": "A classificação das informações produzidas pela COP por etiquetas eletrônicas é de responsabilidade",
+   "alternativas": [
+    "da Seção de PJMD, cabendo à DTic definir e divulgar o rol de etiquetas",
+    "do CFP, cabendo à Agência de Inteligência definir e divulgar o rol de etiquetas",
+    "do policial usuário, cabendo à Coord Op PM definir e divulgar o rol de etiquetas",
+    "do policial usuário, cabendo ao comandante do batalhão definir o rol de etiquetas"
+   ],
+   "correta": 2,
+   "explicacao": "A classificação é responsabilidade do policial usuário; a Coord Op PM define, atualiza e divulga o rol completo de etiquetas eletrônicas, mantendo-o atualizado na intranet.",
+   "tags": [
+    "cop-motorola",
+    "etiqueta"
+   ]
+  },
+  {
+   "id": "copmot-elab-028",
+   "subtema": "Conceitos",
+   "artigo": "POP 5.28.02 — Natureza do fato",
+   "enunciado": "Na classificação da gravação, a natureza do fato deve ser selecionada",
+   "alternativas": [
+    "entre os códigos do Manual de Codificação de Ocorrências ou opções sem talão",
+    "entre as etiquetas eletrônicas definidas pelo comandante da unidade",
+    "livremente pelo policial, com descrição resumida do fato gravado",
+    "entre os tipos penais indicados no boletim de ocorrência lavrado"
+   ],
+   "correta": 0,
+   "explicacao": "A natureza do fato corresponde aos códigos do Manual de Codificação de Ocorrências da Polícia ou às opções de interações e intervenções sem talão.",
+   "tags": [
+    "cop-motorola",
+    "natureza"
+   ]
+  },
+  {
+   "id": "copmot-elab-029",
+   "subtema": "Conceitos",
+   "artigo": "POP 5.28.02 — Categoria do fato",
+   "enunciado": "Quanto à categoria do fato, representada pelas etiquetas eletrônicas, o policial militar",
+   "alternativas": [
+    "deve aguardar a indicação da categoria pelo condutor da ocorrência no distrito",
+    "deve selecionar uma única, correspondente ao desfecho principal da ocorrência",
+    "pode selecionar mais de uma, conforme os desdobramentos do fato registrado",
+    "pode deixar de selecioná-la quando houver natureza do fato preenchida"
+   ],
+   "correta": 2,
+   "explicacao": "O policial pode selecionar mais de uma categoria (tag), conforme o tipo de ocorrência e os desdobramentos do fato registrado.",
+   "tags": [
+    "cop-motorola",
+    "categoria"
+   ]
+  },
+  {
+   "id": "copmot-elab-030",
+   "subtema": "Ferramentas",
+   "artigo": "POP 5.28.02 — SIGCED e VB SmartControl",
+   "enunciado": "O aplicativo VB SmartControl é utilizado, segundo o POP, para",
+   "alternativas": [
+    "gerir evidências captadas por drones e circuitos de monitoramento",
+    "transmitir ao vivo as gravações da COP ao centro de operações",
+    "adicionar metadados aos vídeos gravados por meio do smartphone",
+    "atribuir a COP ao usuário sem necessidade do cartão RFID"
+   ],
+   "correta": 2,
+   "explicacao": "O VB SmartControl adiciona metadados, como hora, local, identificação do PM e natureza do fato, aos vídeos; o SIGCED reúne ferramentas de gestão de evidências de qualquer meio de captação.",
+   "tags": [
+    "cop-motorola",
+    "ferramentas"
+   ]
+  },
+  {
+   "id": "copmot-elab-031",
+   "subtema": "Classificação — Momento",
+   "artigo": "POP 5.28.02 — Sequência",
+   "enunciado": "As evidências digitais produzidas pela COP deverão ser classificadas pelo próprio policial usuário",
+   "alternativas": [
+    "em até vinte e quatro horas da gravação",
+    "ao término do turno, antes de acoplar a COP",
+    "após o upload automático na doca",
+    "logo após o encerramento da gravação"
+   ],
+   "correta": 3,
+   "explicacao": "A classificação é feita pelo próprio usuário logo após o encerramento da gravação, conforme as etiquetas eletrônicas pré-estabelecidas.",
+   "tags": [
+    "cop-motorola",
+    "classificacao",
+    "momento"
+   ]
+  },
+  {
+   "id": "copmot-elab-032",
+   "subtema": "Classificação — Campos",
+   "artigo": "POP 5.28.02 — Critérios",
+   "enunciado": "As evidências devem ser classificadas por",
+   "alternativas": [
+    "data, horário, georreferenciamento e tipo penal",
+    "ano, mês, dia, prefixo da viatura e nome do condutor",
+    "talão, natureza, local do fato e nome das partes",
+    "ano, mês, dia, talão, natureza e categoria do fato"
+   ],
+   "correta": 3,
+   "explicacao": "A classificação observa ano, mês, dia, talão de ocorrência, natureza do fato (código) e categoria do fato (etiqueta), pela plataforma web ou pelo VB SmartControl.",
+   "tags": [
+    "cop-motorola",
+    "classificacao",
+    "campos"
+   ]
+  },
+  {
+   "id": "copmot-elab-033",
+   "subtema": "Classificação — Registro",
+   "artigo": "POP 5.28.02 — RSO e BOe",
+   "enunciado": "A existência de evidência digital sobre fato de interesse policial produzida pela COP deve ser registrada no RSO ou no BOe",
+   "alternativas": [
+    "somente quando a gravação foi acionada manualmente pelo policial",
+    "inclusive quando a gravação foi acionada automaticamente por Bluetooth",
+    "somente quando houver prisão em flagrante ou apreensão de objetos",
+    "somente quando a gravação ultrapassar noventa segundos de duração"
+   ],
+   "correta": 1,
+   "explicacao": "Registra-se no RSO ou BOe a existência de evidência digital, inclusive das gravações acionadas automaticamente por proximidade via Bluetooth.",
+   "tags": [
+    "cop-motorola",
+    "classificacao",
+    "registro"
+   ]
+  },
+  {
+   "id": "copmot-elab-034",
+   "subtema": "Classificação — Apoio",
+   "artigo": "POP 5.28.02 — US em apoio",
+   "enunciado": "Os policiais com COP em apoio a ocorrência atendida por outra US devem classificar seus vídeos",
+   "alternativas": [
+    "somente após a validação do BO pelo comandante de companhia da área",
+    "com classificação própria, conforme a participação de cada um na ocorrência",
+    "como apoio a outros órgãos, dispensados os demais campos de classificação",
+    "com a classificação da patrulha que registra o BO, sob coordenação do CGP ou CFP"
+   ],
+   "correta": 3,
+   "explicacao": "A classificação deve ser a mesma aplicada pela patrulha responsável pelo BO, buscando o policial as informações para uniformizar os dados, sob coordenação do CGP ou CFP.",
+   "tags": [
+    "cop-motorola",
+    "classificacao",
+    "apoio"
+   ]
+  },
+  {
+   "id": "copmot-elab-035",
+   "subtema": "Classificação — Sem talão",
+   "artigo": "POP 5.28.02 — Abordagem sem talão",
+   "enunciado": "Nas evidências decorrentes de abordagem sem talão de ocorrência, o policial deverá",
+   "alternativas": [
+    "deixar a gravação sem classificação até a abertura de talão pelo COPOM",
+    "lançar a data e o número do RSO no campo destinado ao talão de ocorrência",
+    "lançar apenas a data, como 20250622, e selecionar Abordagem na natureza",
+    "classificar como vídeo acidental, por ausência de ocorrência registrada"
+   ],
+   "correta": 2,
+   "explicacao": "Sem talão, lançam-se apenas os valores da data, por exemplo 20250622, e seleciona-se Abordagem ou Outros fatos de interesse policial sem talão na natureza do fato.",
+   "tags": [
+    "cop-motorola",
+    "classificacao",
+    "sem-talao"
+   ]
+  },
+  {
+   "id": "copmot-elab-036",
+   "subtema": "Classificação — Regra",
+   "artigo": "POP 5.28.02 — Nenhum vídeo sem classificação",
+   "enunciado": "Quanto aos vídeos gravados pela COP, o POP estabelece que",
+   "alternativas": [
+    "os acidentais dispensam classificação",
+    "apenas os de flagrante devem ser classificados",
+    "os de teste dispensam classificação",
+    "nenhum poderá ficar sem classificação"
+   ],
+   "correta": 3,
+   "explicacao": "Nenhum vídeo pode ficar sem a classificação por ano, mês, dia, talão, natureza e categoria; mesmo os acidentais recebem a etiqueta Vídeo Acidental.",
+   "tags": [
+    "cop-motorola",
+    "classificacao",
+    "regra"
+   ]
+  },
+  {
+   "id": "copmot-elab-037",
+   "subtema": "Etiquetas",
+   "artigo": "POP 5.28.02 — Flagrante",
+   "enunciado": "Deparando-se o policial com flagrante delito, a gravação deve ser classificada com a etiqueta",
+   "alternativas": [
+    "Polícia Administrativa e também a tag Flagrante",
+    "Polícia Judiciária e também a tag Flagrante",
+    "Polícia Judiciária Militar e também a tag Flagrante",
+    "Flagrante, dispensada qualquer outra etiqueta"
+   ],
+   "correta": 1,
+   "explicacao": "Todas as circunstâncias de flagrante delito são classificadas com a etiqueta Polícia Judiciária e também com a tag Flagrante (FGT).",
+   "tags": [
+    "cop-motorola",
+    "etiquetas",
+    "flagrante"
+   ]
+  },
+  {
+   "id": "copmot-elab-038",
+   "subtema": "Etiquetas",
+   "artigo": "POP 5.28.02 — Polícia Administrativa",
+   "enunciado": "A etiqueta Polícia Administrativa destina-se a evidências que",
+   "alternativas": [
+    "podem compor provas em IPM e processos da Justiça Militar Estadual",
+    "podem compor provas em inquéritos e processos em geral, inclusive flagrantes",
+    "não demandam polícia judiciária ou judiciária militar, como autuações ambientais",
+    "se destinam à divulgação de boas ações indicadas pelo CDCA"
+   ],
+   "correta": 2,
+   "explicacao": "A etiqueta PA abrange evidências que não demandam ações de polícia judiciária ou judiciária militar, como autuações ambientais, busca e varredura, incursões e operações policiais.",
+   "tags": [
+    "cop-motorola",
+    "etiquetas",
+    "pa"
+   ]
+  },
+  {
+   "id": "copmot-elab-039",
+   "subtema": "Etiquetas",
+   "artigo": "POP 5.28.02 — Abordagens e fiscalizações",
+   "enunciado": "Abordagens a pessoas a pé ou em veículos e fiscalizações de competência da PM, exceto as de trânsito, devem ser registradas",
+   "alternativas": [
+    "como Polícia Judiciária e também na etiqueta Abordagens/Fiscalização",
+    "como Polícia Administrativa e também na etiqueta Abordagens/Fiscalização",
+    "exclusivamente na etiqueta Abordagens/Fiscalização, sem etiqueta principal",
+    "como Polícia Administrativa e também na etiqueta Notificação de Trânsito"
+   ],
+   "correta": 1,
+   "explicacao": "Excetuadas as de trânsito, abordagens e fiscalizações são registradas como Polícia Administrativa e também na etiqueta Abordagens/Fiscalização; as de trânsito vão para Notificação de Trânsito.",
+   "tags": [
+    "cop-motorola",
+    "etiquetas",
+    "abordagem"
+   ]
+  },
+  {
+   "id": "copmot-elab-040",
+   "subtema": "Etiquetas",
+   "artigo": "POP 5.28.02 — Busca domiciliar",
+   "enunciado": "Na etiqueta Busca Domiciliar, quando a ação não for precedida de mandado judicial, o POP exige que",
+   "alternativas": [
+    "a gravação seja classificada também como Polícia Judiciária Militar",
+    "o consentimento do morador seja colhido por escrito, dispensada a gravação",
+    "a gravação seja interrompida no interior do imóvel, preservando a intimidade",
+    "o consentimento do morador seja registrado por meio da COP"
+   ],
+   "correta": 3,
+   "explicacao": "Evidências de busca domiciliar sem mandado exigem o registro do consentimento do morador por meio da COP.",
+   "tags": [
+    "cop-motorola",
+    "etiquetas",
+    "busca-domiciliar"
+   ]
+  },
+  {
+   "id": "copmot-elab-041",
+   "subtema": "Etiquetas",
+   "artigo": "POP 5.28.02 — Polícia Judiciária Militar",
+   "enunciado": "A etiqueta Polícia Judiciária Militar abrange evidências que podem compor provas em IPM e processos da JME, admitindo subetiquetas como",
+   "alternativas": [
+    "FGT, TCO, BD e Ab/Fisc",
+    "MDIP, LCDIP, DAF e EFF",
+    "Or Pub, ApOO, Not Trans e Tr",
+    "Vid Ac, T, Tr e DivComSoc"
+   ],
+   "correta": 1,
+   "explicacao": "A PJM admite subetiquetas como Morte Decorrente de Intervenção Policial, Lesão Corporal Decorrente de Intervenção Policial, Disparo de Arma de Fogo e Emprego de Força Física.",
+   "tags": [
+    "cop-motorola",
+    "etiquetas",
+    "pjm"
+   ]
+  },
+  {
+   "id": "copmot-elab-042",
+   "subtema": "Etiquetas",
+   "artigo": "POP 5.28.02 — Uso Diferenciado de Força",
+   "enunciado": "Usando o policial verbalização, negociação ou equipamento de menor potencial ofensivo para prender ou controlar resistência, exceto controle físico e Taser, deve selecionar",
+   "alternativas": [
+    "Polícia Judiciária e Controle Físico",
+    "Polícia Administrativa e Uso Diferenciado da Força",
+    "Polícia Judiciária Militar e Uso Diferenciado da Força",
+    "Polícia Judiciária Militar e Controle Físico"
+   ],
+   "correta": 2,
+   "explicacao": "Nesses casos, independentemente de lesão, selecionam-se as etiquetas Polícia Judiciária Militar e Uso Diferenciado da Força; controle físico e AIN Taser têm etiquetas próprias.",
+   "tags": [
+    "cop-motorola",
+    "etiquetas",
+    "udf"
+   ]
+  },
+  {
+   "id": "copmot-elab-043",
+   "subtema": "Etiquetas",
+   "artigo": "POP 5.28.02 — AIN Taser",
+   "enunciado": "Tendo sido utilizada a arma de incapacitação neuromuscular na ocorrência, a gravação deve receber as etiquetas",
+   "alternativas": [
+    "Polícia Judiciária Militar e AIN Taser",
+    "Polícia Administrativa e AIN Taser",
+    "Uso Diferenciado da Força e AIN Taser",
+    "Polícia Judiciária e Controle Físico"
+   ],
+   "correta": 0,
+   "explicacao": "O uso da AIN impõe selecionar a etiqueta Polícia Judiciária Militar e também a etiqueta AIN Taser.",
+   "tags": [
+    "cop-motorola",
+    "etiquetas",
+    "taser"
+   ]
+  },
+  {
+   "id": "copmot-elab-044",
+   "subtema": "Etiquetas",
+   "artigo": "POP 5.28.02 — Controle Físico",
+   "enunciado": "A etiqueta Controle Físico destina-se às ocorrências em que o nível de força é caracterizado",
+   "alternativas": [
+    "pela verbalização e negociação sem contato físico com a pessoa",
+    "pelo uso de espargidor de agente químico para dispersar a resistência",
+    "pelo emprego de algemas após a voz de prisão em flagrante delito",
+    "pelo uso de técnicas de defesa pessoal para controlar e imobilizar a pessoa"
+   ],
+   "correta": 3,
+   "explicacao": "Controle Físico classifica ocorrências em que se usam técnicas de defesa pessoal policial para controlar, reduzir a oposição e imobilizar a pessoa.",
+   "tags": [
+    "cop-motorola",
+    "etiquetas",
+    "controle-fisico"
+   ]
+  },
+  {
+   "id": "copmot-elab-045",
+   "subtema": "Etiquetas",
+   "artigo": "POP 5.28.02 — Orientação ao Público",
+   "enunciado": "As interações com a população para orientação, que não sejam ações policiais, devem ser registradas",
+   "alternativas": [
+    "na etiqueta Polícia Administrativa e na tag Orientação ao Público",
+    "exclusivamente na tag Orientação ao Público, sem etiqueta principal",
+    "na etiqueta Divulgação ao CComSoc e na tag Orientação ao Público",
+    "como vídeo acidental, por não constituírem fato de interesse policial"
+   ],
+   "correta": 0,
+   "explicacao": "As interações de orientação que não sejam ações policiais são registradas na etiqueta Polícia Administrativa e na tag específica Orientação ao Público.",
+   "tags": [
+    "cop-motorola",
+    "etiquetas",
+    "orientacao"
+   ]
+  },
+  {
+   "id": "copmot-elab-046",
+   "subtema": "Etiquetas",
+   "artigo": "POP 5.28.02 — Divulgação",
+   "enunciado": "A etiqueta Divulgação ao CComSoc destina-se a",
+   "alternativas": [
+    "vídeos produzidos com fins de instrução e treinamento do efetivo policial-militar",
+    "boas ações, incidentes críticos resolvidos e ocorrências meritórias indicadas pelo CDCA",
+    "evidências requisitadas pela imprensa por meio da Sala de Imprensa da PMESP",
+    "gravações de ocorrências de grande repercussão entregues ao comandante de força"
+   ],
+   "correta": 1,
+   "explicacao": "Destina-se à divulgação de boas ações, resolução de incidentes críticos, atuação em catástrofes e ocorrências positivas ou meritórias indicadas para divulgação pelo CDCA.",
+   "tags": [
+    "cop-motorola",
+    "etiquetas",
+    "divulgacao"
+   ]
+  },
+  {
+   "id": "copmot-elab-047",
+   "subtema": "Etiquetas",
+   "artigo": "POP 5.28.02 — Vídeo Acidental",
+   "enunciado": "Acionando involuntariamente a COP e gravando situação sem interesse policial, o policial deverá",
+   "alternativas": [
+    "solicitar a exclusão da gravação ao CFP",
+    "classificar a evidência como Vídeo Acidental",
+    "classificar a evidência como Teste",
+    "deixar a gravação sem classificação"
+   ],
+   "correta": 1,
+   "explicacao": "Gravação acionada involuntariamente, sem interesse policial, é classificada como Vídeo Acidental; é vedado apagar qualquer gravação.",
+   "tags": [
+    "cop-motorola",
+    "etiquetas",
+    "acidental"
+   ]
+  },
+  {
+   "id": "copmot-elab-048",
+   "subtema": "Classificação — Ações corretivas",
+   "artigo": "POP 5.28.02 — Correção",
+   "enunciado": "Verificando o policial, após o upload dos vídeos, que há erros nas informações incluídas, deverá",
+   "alternativas": [
+    "acessar o sistema e fazer as correções necessárias",
+    "solicitar à Agência de Inteligência a exclusão do vídeo",
+    "registrar o erro no RSO, vedada a alteração posterior",
+    "gravar novo vídeo explicando o equívoco cometido"
+   ],
+   "correta": 0,
+   "explicacao": "A ação corretiva permite ao policial acessar o sistema e corrigir as informações de classificação; a vedação recai sobre alterar ou apagar o conteúdo das gravações.",
+   "tags": [
+    "cop-motorola",
+    "classificacao",
+    "correcao"
+   ]
+  },
+  {
+   "id": "copmot-elab-049",
+   "subtema": "Classificação — Condutor",
+   "artigo": "POP 5.28.02 — Resultados esperados",
+   "enunciado": "Espera-se que o policial responsável pelo registro da ocorrência, o condutor,",
+   "alternativas": [
+    "encaminhe os vídeos dos policiais em apoio à Seção de PJMD do batalhão",
+    "classifique pessoalmente todos os vídeos produzidos pelos policiais em apoio",
+    "solicite ao COPOM a unificação dos vídeos em um único arquivo da ocorrência",
+    "certifique-se de que os vídeos dos policiais em apoio recebam a mesma classificação"
+   ],
+   "correta": 3,
+   "explicacao": "O condutor deve certificar-se de que os vídeos produzidos pelos policiais em apoio recebam as informações para a mesma classificação das evidências.",
+   "tags": [
+    "cop-motorola",
+    "classificacao",
+    "condutor"
+   ]
+  },
+  {
+   "id": "copmot-elab-050",
+   "subtema": "Etiquetas",
+   "artigo": "POP 5.28.02 — MDIP",
+   "enunciado": "Resultando o uso da força na morte do criminoso, a gravação deve receber as etiquetas",
+   "alternativas": [
+    "Polícia Judiciária Militar e MDIP",
+    "Polícia Judiciária e MDIP",
+    "Uso Diferenciado da Força e MDIP",
+    "Polícia Judiciária Militar e DAF"
+   ],
+   "correta": 0,
+   "explicacao": "A morte decorrente de intervenção policial impõe as etiquetas Polícia Judiciária Militar e MDIP; a lesão decorrente segue a mesma lógica com a subetiqueta própria.",
+   "tags": [
+    "cop-motorola",
+    "etiquetas",
+    "mdip"
+   ]
+  },
+  {
+   "id": "copmot-elab-051",
+   "subtema": "Uso — Ações críticas",
+   "artigo": "POP 5.28.03 — Ações críticas",
+   "enunciado": "Figura entre as ações críticas do POP de uso da COP Motorola",
+   "alternativas": [
+    "definir o rol de etiquetas eletrônicas aplicáveis às gravações",
+    "realizar o upload das gravações ao término de cada ocorrência",
+    "informar aos interessados como solicitar o acesso às gravações",
+    "autorizar a transmissão ao vivo das ocorrências de repercussão"
+   ],
+   "correta": 2,
+   "explicacao": "São ações críticas as formas de acionamento, impedir extravio, captura, cópia ou apagamento dos dados, a gravação de fato de interesse policial e informar aos interessados como solicitar acesso.",
+   "tags": [
+    "cop-motorola",
+    "uso",
+    "acoes-criticas"
+   ]
+  },
+  {
+   "id": "copmot-elab-052",
+   "subtema": "Uso — Finalidade",
+   "artigo": "POP 5.28.03 — Uso exclusivo",
+   "enunciado": "A COP é equipamento de uso policial exclusivo em serviço operacional, sendo vedada a captação sem relação com o interesse policial, excetuadas",
+   "alternativas": [
+    "instruções, treinamentos e testes de funcionamento",
+    "solenidades, formaturas e eventos institucionais",
+    "gravações autorizadas pelo comandante da companhia",
+    "gravações solicitadas por vítimas ou testemunhas"
+   ],
+   "correta": 0,
+   "explicacao": "A vedação comporta apenas as exceções de uso em instruções, treinamentos ou testes de funcionamento.",
+   "tags": [
+    "cop-motorola",
+    "uso",
+    "exclusivo"
+   ]
+  },
+  {
+   "id": "copmot-elab-053",
+   "subtema": "Uso — Vedações",
+   "artigo": "POP 5.28.03 — Integridade dos dados",
+   "enunciado": "Quanto às gravações de áudio, vídeo ou foto realizadas pela COP, é terminantemente proibido ao policial",
+   "alternativas": [
+    "informar às partes que a cena está sendo gravada",
+    "classificar as gravações após o encerramento da captação",
+    "corrigir no sistema os dados de classificação incluídos",
+    "alterar, editar, copiar, duplicar ou apagar qualquer registro"
+   ],
+   "correta": 3,
+   "explicacao": "É terminantemente proibido alterar, editar, copiar, capturar, duplicar ou apagar qualquer gravação; corrigir a classificação no sistema é ação corretiva admitida.",
+   "tags": [
+    "cop-motorola",
+    "uso",
+    "vedacoes"
+   ]
+  },
+  {
+   "id": "copmot-elab-054",
+   "subtema": "Uso — Fundamentos",
+   "artigo": "POP 5.28.03 — Gravação imparcial",
+   "enunciado": "Entre os benefícios atribuídos pelo POP ao emprego das COP está",
+   "alternativas": [
+    "reduzir a necessidade de supervisão presencial",
+    "dispensar o registro escrito das ocorrências atendidas",
+    "substituir o depoimento dos policiais em juízo",
+    "proteger os policiais de falsas acusações de conduta irregular"
+   ],
+   "correta": 3,
+   "explicacao": "A gravação imparcial compõe o conjunto probatório, incrementa a força dos testemunhos e escriturações, protege de falsas acusações e serve ao aprimoramento e treinamento.",
+   "tags": [
+    "cop-motorola",
+    "uso",
+    "beneficios"
+   ]
+  },
+  {
+   "id": "copmot-elab-055",
+   "subtema": "Uso — Divulgação",
+   "artigo": "POP 5.28.03 — Violações",
+   "enunciado": "Violações relacionadas a divulgações não autorizadas dos dados de multimídia das COP",
+   "alternativas": [
+    "serão objeto de apuração disciplinar, sem prejuízo de outras medidas",
+    "serão apuradas apenas se houver representação da pessoa filmada",
+    "ensejam somente advertência verbal na primeira ocorrência",
+    "são irrelevantes quando o conteúdo não for classificado como secreto"
+   ],
+   "correta": 0,
+   "explicacao": "O POP determina que as violações por divulgações não autorizadas sejam objeto de apuração disciplinar, sem prejuízo de outras medidas que o caso requeira.",
+   "tags": [
+    "cop-motorola",
+    "uso",
+    "divulgacao"
+   ]
+  },
+  {
+   "id": "copmot-elab-056",
+   "subtema": "Uso — Propriedade",
+   "artigo": "POP 5.28.03 — Titularidade",
+   "enunciado": "As imagens e áudios produzidos por policiais em serviço, no desenvolvimento da missão constitucional, são de propriedade da Instituição",
+   "alternativas": [
+    "somente quando captados por equipamentos pertencentes à PMESP",
+    "ainda que captados por equipamentos não pertencentes à PMESP",
+    "somente após a classificação e o upload no sistema oficial",
+    "somente quando relacionados a ocorrências com talão aberto"
+   ],
+   "correta": 1,
+   "explicacao": "Todas as imagens e áudios produzidos por equipamentos pertencentes ou não à PMESP, mas tomados no desenvolvimento da missão por policiais em serviço, são de propriedade da Instituição.",
+   "tags": [
+    "cop-motorola",
+    "uso",
+    "propriedade"
+   ]
+  },
+  {
+   "id": "copmot-elab-057",
+   "subtema": "Acesso às gravações",
+   "artigo": "POP 5.28.03 — Autoridades",
+   "enunciado": "Solicitando autoridade, mesmo com competência legal sobre o fato, cópia de vídeo da COP, o policial deve orientá-la a pedir formalmente",
+   "alternativas": [
+    "ao Comandante da Companhia, via Agência de Inteligência",
+    "ao Comandante do Batalhão, via Seção de PJMD",
+    "à Coordenadoria Operacional, via intranet",
+    "ao Poder Judiciário, em qualquer hipótese"
+   ],
+   "correta": 1,
+   "explicacao": "Autoridades, ainda que com competência legal, devem solicitar formalmente ao Cmt do Btl, via Seção de PJMD; às partes envolvidas, o acesso se dá por via judicial.",
+   "tags": [
+    "cop-motorola",
+    "acesso",
+    "autoridades"
+   ]
+  },
+  {
+   "id": "copmot-elab-058",
+   "subtema": "Acesso às gravações",
+   "artigo": "POP 5.28.03 — Partes",
+   "enunciado": "Havendo interesse das partes envolvidas na ocorrência em obter as gravações da COP, o policial deve orientar que o acesso",
+   "alternativas": [
+    "será entregue no próprio distrito",
+    "será feito pela Seção de PJMD",
+    "será feito por pedido na LAI",
+    "será realizado por via judicial"
+   ],
+   "correta": 3,
+   "explicacao": "Às partes envolvidas, o acesso aos dados das COP deve ser realizado por via judicial; não orientá-las é possibilidade de erro.",
+   "tags": [
+    "cop-motorola",
+    "acesso",
+    "partes"
+   ]
+  },
+  {
+   "id": "copmot-elab-059",
+   "subtema": "Acesso às gravações",
+   "artigo": "POP 5.28.03 — Guarda",
+   "enunciado": "O policial deve informar às partes que os dados das COP são classificados como secretos perante a LAI e que o período de guarda é de",
+   "alternativas": [
+    "cinco anos, devendo o pedido à Seção de PJMD ocorrer nesse prazo",
+    "um ano, devendo o pedido ao Judiciário ocorrer nesse prazo",
+    "quinze anos, prazo máximo de restrição para informações secretas",
+    "noventa dias, devendo o pedido ao batalhão ocorrer nesse prazo"
+   ],
+   "correta": 1,
+   "explicacao": "O período de guarda é de um ano; a parte interessada deve buscar a cópia por pedido ao Poder Judiciário no prazo de até um ano a contar do registro.",
+   "tags": [
+    "cop-motorola",
+    "acesso",
+    "guarda"
+   ]
+  },
+  {
+   "id": "copmot-elab-060",
+   "subtema": "Distribuição",
+   "artigo": "POP 5.28.03 — Critério mínimo",
+   "enunciado": "Não sendo o número de COP suficiente para todo o efetivo, deverá ser garantido, como critério mínimo,",
+   "alternativas": [
+    "ao menos duas COP por unidade de serviço",
+    "ao menos uma COP por unidade de serviço",
+    "ao menos uma COP por companhia no turno",
+    "ao menos uma COP para cada supervisor"
+   ],
+   "correta": 1,
+   "explicacao": "Todos os PM de US devem ser equipados sempre que houver disponibilidade; na insuficiência, garante-se ao menos uma COP por US.",
+   "tags": [
+    "cop-motorola",
+    "distribuicao",
+    "minimo"
+   ]
+  },
+  {
+   "id": "copmot-elab-061",
+   "subtema": "Distribuição",
+   "artigo": "POP 5.28.03 — Prioridade",
+   "enunciado": "Quando não for possível equipar integralmente o efetivo, a primeira prioridade na distribuição das COP é dos",
+   "alternativas": [
+    "comandantes de grupo e de força patrulha",
+    "programas complementares, como Escolar e Trânsito",
+    "programas primários, Radiopatrulha e Força Tática",
+    "policiamentos com bicicletas, a cavalo e náutico"
+   ],
+   "correta": 2,
+   "explicacao": "A ordem é: 1º programas primários (Radiopatrulha e Força Tática); 2º complementares (Escolar, Trânsito, Rural e Comunitário); 3º atividades diversas; 4º comando e supervisão.",
+   "tags": [
+    "cop-motorola",
+    "distribuicao",
+    "prioridade"
+   ]
+  },
+  {
+   "id": "copmot-elab-062",
+   "subtema": "Distribuição",
+   "artigo": "POP 5.28.03 — Comando e supervisão",
+   "enunciado": "Na quarta prioridade de distribuição das COP, destinada às funções de comando e supervisão, a ordem é",
+   "alternativas": [
+    "Supervisor Regional, CFP e CGP",
+    "CGP, CFP e Supervisor Regional",
+    "CFP, CGP e Supervisor Regional",
+    "Cmt Cia, CFP e CGP"
+   ],
+   "correta": 1,
+   "explicacao": "Nas funções de comando e supervisão, a ordem é CGP, CFP e Supervisor Regional.",
+   "tags": [
+    "cop-motorola",
+    "distribuicao",
+    "supervisao"
+   ]
+  },
+  {
+   "id": "copmot-elab-063",
+   "subtema": "Distribuição",
+   "artigo": "POP 5.28.03 — Atividades diversas",
+   "enunciado": "Integram a terceira prioridade de distribuição das COP, como atividades operacionais diversas,",
+   "alternativas": [
+    "policiamento escolar, rural e comunitário, além da ronda ostensiva",
+    "Radiopatrulha, Força Tática e policiamento de trânsito urbano e rodoviário",
+    "DEJEM, Atividade Delegada e policiamento com bicicletas, a cavalo ou náutico",
+    "funções de CGP e CFP e a supervisão regional do policiamento"
+   ],
+   "correta": 2,
+   "explicacao": "A terceira prioridade abrange DEJEM, Atividade Delegada, serviço de dia com atendimento ao público e policiamentos com bicicleta, a cavalo, náutico e em fóruns.",
+   "tags": [
+    "cop-motorola",
+    "distribuicao",
+    "diversas"
+   ]
+  },
+  {
+   "id": "copmot-elab-064",
+   "subtema": "Operações",
+   "artigo": "POP 5.28.03 — Restauração da ordem",
+   "enunciado": "Havendo disponibilidade, é obrigatório o uso das COP pelos policiais empregados em operações para restauração da ordem pública, como as de",
+   "alternativas": [
+    "fiscalização de trânsito, policiamento escolar e eventos esportivos",
+    "grande envergadura, em comunidades vulneráveis ou após ataques contra PM",
+    "controle de acesso a fóruns, escoltas de presos e serviço de dia",
+    "policiamento comunitário, visitas solidárias e orientação ao público"
+   ],
+   "correta": 1,
+   "explicacao": "O uso é obrigatório em operações de grande envergadura, em comunidades vulneráveis e em resposta a ataques contra PM, priorizando-se o deslocamento de efetivo com COP quando não houver para todos.",
+   "tags": [
+    "cop-motorola",
+    "operacoes"
+   ]
+  },
+  {
+   "id": "copmot-elab-065",
+   "subtema": "Operações",
+   "artigo": "POP 5.28.03 — Comunicação ao COPOM",
+   "enunciado": "Nas operações para restauração da ordem pública, emergenciais ou programadas, cabe ao CFP ou equivalente",
+   "alternativas": [
+    "acionar pessoalmente a gravação das COP de todos os policiais empenhados",
+    "informar o COPOM do início e término, para acionamento por despacho das COP das US",
+    "autorizar o modo tático em todas as COP para preservar a segurança da tropa",
+    "recolher as COP ao final e realizar pessoalmente o upload das gravações"
+   ],
+   "correta": 1,
+   "explicacao": "O CFP ou equivalente informa ao COPOM, via rádio, o início e o término da operação, e o COPOM aciona por despacho de ocorrência as COP de todas as US empenhadas.",
+   "tags": [
+    "cop-motorola",
+    "operacoes",
+    "copom"
+   ]
+  },
+  {
+   "id": "copmot-elab-066",
+   "subtema": "Dever funcional",
+   "artigo": "POP 5.28.03 — Responsabilização",
+   "enunciado": "Constitui dever funcional do policial acionar, manter acionada e não interromper a gravação da COP nas hipóteses previstas, sendo o descumprimento",
+   "alternativas": [
+    "irrelevante quando houver outra COP gravando a mesma ocorrência",
+    "passível apenas de orientação pelo comandante imediato, na primeira ocorrência",
+    "passível de responsabilização civil perante a pessoa não filmada",
+    "passível de responsabilização disciplinar e, conforme as circunstâncias, criminal"
+   ],
+   "correta": 3,
+   "explicacao": "O descumprimento é passível de responsabilização disciplinar e, a depender das circunstâncias, criminal; não sendo possível cumprir, o policial deve justificar a excepcionalidade.",
+   "tags": [
+    "cop-motorola",
+    "dever-funcional"
+   ]
+  },
+  {
+   "id": "copmot-elab-067",
+   "subtema": "Dever funcional",
+   "artigo": "POP 5.28.03 — Justificativa",
+   "enunciado": "Não sendo possível cumprir o dever de acionar e manter acionada a gravação, o policial deverá justificar a excepcionalidade com base em razões",
+   "alternativas": [
+    "de preservação da própria imagem do policial",
+    "de conveniência e oportunidade do serviço",
+    "técnicas, operacionais e/ou administrativas",
+    "de sigilo das técnicas policiais empregadas"
+   ],
+   "correta": 2,
+   "explicacao": "A justificativa deve fundar-se em razões técnicas, operacionais e/ou administrativas.",
+   "tags": [
+    "cop-motorola",
+    "dever-funcional",
+    "justificativa"
+   ]
+  },
+  {
+   "id": "copmot-elab-068",
+   "subtema": "Obrigações do operador",
+   "artigo": "POP 5.28.03 — Desobstrução",
+   "enunciado": "O policial deverá conservar lentes e microfone da COP completamente desobstruídos e mantê-la voltada para o sítio dos acontecimentos, sendo vedada, entre outras condutas,",
+   "alternativas": [
+    "a sobreposição de mãos, peças do uniforme ou do armamento sobre a câmera",
+    "a fixação da câmera sobre o colete de proteção individual do policial",
+    "a informação às partes de que a cena está sendo gravada",
+    "a ativação do modo tático nas situações que exijam disciplina de luz e som"
+   ],
+   "correta": 0,
+   "explicacao": "É vedada qualquer ação que prejudique a captação, como sobrepor mãos, peças do uniforme, equipamentos ou armamento, manter resíduos na lente ou voltar o corpo para outro local.",
+   "tags": [
+    "cop-motorola",
+    "obrigacoes",
+    "desobstrucao"
+   ]
+  },
+  {
+   "id": "copmot-elab-069",
+   "subtema": "Obrigações do operador",
+   "artigo": "POP 5.28.03 — Uso contrário às normas",
+   "enunciado": "É vedado o uso da COP de forma contrária às normas, incluindo, mas não se limitando a,",
+   "alternativas": [
+    "acionamento manual antes do despacho da ocorrência pelo centro de operações",
+    "uso para fins particulares, acionamentos simulados ou manipulação dos registros",
+    "gravação de abordagens encerradas sem constatação de irregularidade",
+    "gravação de interações com o público para simples orientação"
+   ],
+   "correta": 1,
+   "explicacao": "O POP veda uso para fins particulares, acionamentos simulados ou manipulação indevida dos registros, entre outras condutas, que caracterizam infração funcional.",
+   "tags": [
+    "cop-motorola",
+    "obrigacoes",
+    "vedacoes"
+   ]
+  },
+  {
+   "id": "copmot-elab-070",
+   "subtema": "Obrigações do operador",
+   "artigo": "POP 5.28.03 — Afastamento",
+   "enunciado": "Caracteriza infração funcional passível de responsabilização, quanto ao posicionamento do policial,",
+   "alternativas": [
+    "o reposicionamento da câmera a pedido de vítima, com justificativa em áudio",
+    "a aproximação do local do fato para melhor enquadramento das cenas",
+    "o afastamento não justificado do local do fato, prejudicando a captação",
+    "a retirada da câmera para uso do sanitário, sem gravação em andamento"
+   ],
+   "correta": 2,
+   "explicacao": "O afastamento não justificado do local do fato, prejudicando a captação de vídeo e áudio, é conduta vedada; o reposicionamento justificado e a retirada para o sanitário sem gravação são admitidos.",
+   "tags": [
+    "cop-motorola",
+    "obrigacoes",
+    "afastamento"
+   ]
+  },
+  {
+   "id": "copmot-elab-071",
+   "subtema": "Inoperância",
+   "artigo": "POP 5.28.03 — Providências",
+   "enunciado": "Passando a COP à condição de inoperante durante atendimento de ocorrência, o policial deverá",
+   "alternativas": [
+    "retornar à unidade para troca do equipamento antes de concluir a ocorrência",
+    "registrar o fato apenas no RSO ao término do turno, com a descrição da falha",
+    "prosseguir sem a câmera, dispensado qualquer registro se houver outra COP na US",
+    "reportar ao escalão superior e registrar no BOe o horário e o local da inoperância"
+   ],
+   "correta": 3,
+   "explicacao": "A inoperância é reportada de imediato ao escalão superior e registrada em relatório ou, se durante ocorrência, no BOe, com horário e local, substituindo-se o equipamento se houver disponibilidade.",
+   "tags": [
+    "cop-motorola",
+    "inoperancia"
+   ]
+  },
+  {
+   "id": "copmot-elab-072",
+   "subtema": "Inoperância",
+   "artigo": "POP 5.28.03 — Central de Serviços",
+   "enunciado": "Ao acionar a Central de Serviços de TIC da PM em razão de COP inoperante, o policial deve informar",
+   "alternativas": [
+    "o prefixo da viatura e o número do talão",
+    "o número do cartão RFID do usuário atribuído",
+    "o número de série gravado no chassi do equipamento",
+    "o horário da última gravação classificada"
+   ],
+   "correta": 2,
+   "explicacao": "Informa-se o número de série, gravado no chassi, do equipamento defeituoso.",
+   "tags": [
+    "cop-motorola",
+    "inoperancia",
+    "central"
+   ]
+  },
+  {
+   "id": "copmot-elab-073",
+   "subtema": "Inoperância",
+   "artigo": "POP 5.28.03 — Falta de bateria",
+   "enunciado": "Tornando-se a COP inoperante por falta de bateria, as providências de reporte e registro são adotadas",
+   "alternativas": [
+    "com instauração de apuração pelo comandante imediato",
+    "com contato obrigatório com a Central de Serviços de TIC",
+    "sem necessidade de contato com a Central de Serviços de TIC",
+    "com desatribuição imediata do usuário pela Agência de Inteligência"
+   ],
+   "correta": 2,
+   "explicacao": "Na falta de bateria, adotam-se as providências de reporte e registro, sem necessidade de contato com a Central de Serviços de TIC; no dano, sem prejuízo das apurações decorrentes.",
+   "tags": [
+    "cop-motorola",
+    "inoperancia",
+    "bateria"
+   ]
+  },
+  {
+   "id": "copmot-elab-074",
+   "subtema": "Inoperância",
+   "artigo": "POP 5.28.03 — Interrupção alheia",
+   "enunciado": "Sendo a gravação interrompida por situação alheia à vontade do policial, a ação corretiva inclui",
+   "alternativas": [
+    "registrar em RSO ou BOe o período e o motivo e informar o CGP ou CFP para troca",
+    "gravar declaração em áudio e dispensar o registro escrito da interrupção",
+    "comunicar a Seção de PJMD para preservação das gravações anteriores",
+    "classificar a gravação interrompida como Vídeo Acidental no sistema"
+   ],
+   "correta": 0,
+   "explicacao": "Registra-se o fato em RSO ou BOe, com o período de inoperância e o possível motivo, e informa-se imediatamente o CGP ou CFP para a troca do equipamento.",
+   "tags": [
+    "cop-motorola",
+    "inoperancia",
+    "interrupcao"
+   ]
+  },
+  {
+   "id": "copmot-elab-075",
+   "subtema": "Registro no BOe",
+   "artigo": "POP 5.28.03 — Campo próprio",
+   "enunciado": "No atendimento de ocorrências com registro em BOe e gravação por COP, o uso do equipamento deve ser registrado",
+   "alternativas": [
+    "no campo Histórico, com a descrição resumida do vídeo",
+    "no campo Versão da Pessoa Qualificada, com o horário",
+    "no campo Evidência Digital, com os dados das gravações",
+    "no campo Objetos, com o número de série da câmera"
+   ],
+   "correta": 2,
+   "explicacao": "É imperioso registrar o uso do equipamento no campo Evidência Digital do BOe, inserindo os dados relacionados às gravações.",
+   "tags": [
+    "cop-motorola",
+    "boe",
+    "evidencia-digital"
+   ]
+  },
+  {
+   "id": "copmot-elab-076",
+   "subtema": "Acionamentos",
+   "artigo": "POP 5.28.03 — Vídeo intencional",
+   "enunciado": "Vídeo intencional é o registro audiovisual de fato de interesse policial produzido",
+   "alternativas": [
+    "por reativação automática após interrupção da gravação em curso",
+    "por acionamento automático via Bluetooth, sem intervenção do policial",
+    "por acionamento remoto do COPOM ao identificar interação de interesse",
+    "por acionamento manual da COP, marcando temporalmente o início e o término"
+   ],
+   "correta": 3,
+   "explicacao": "Vídeo intencional é o produzido por acionamento manual de gravação, marcando temporalmente início e término do registro.",
+   "tags": [
+    "cop-motorola",
+    "acionamentos",
+    "intencional"
+   ]
+  },
+  {
+   "id": "copmot-elab-077",
+   "subtema": "Acionamentos",
+   "artigo": "POP 5.28.03 — Remoto-intencional",
+   "enunciado": "O acionamento remoto-intencional da COP ocorre quando",
+   "alternativas": [
+    "uma COP inativa se aproxima de outra que esteja gravando, via Bluetooth",
+    "o talão eletrônico de ocorrência é registrado no SIOPM para a US despachada",
+    "o COPOM ou a supervisão ativa a gravação sem que tenha havido acionamento manual",
+    "a gravação é interrompida e o sistema a reativa em até um minuto"
+   ],
+   "correta": 2,
+   "explicacao": "É a ativação pelo COPOM, por despachador, supervisor de despacho, chefe de operações ou demais escalões, quando identificada interação de interesse policial sem acionamento manual.",
+   "tags": [
+    "cop-motorola",
+    "acionamentos",
+    "remoto-intencional"
+   ]
+  },
+  {
+   "id": "copmot-elab-078",
+   "subtema": "Acionamentos",
+   "artigo": "POP 5.28.03 — Remoto-automático",
+   "enunciado": "São espécies de acionamento remoto-automático da COP",
+   "alternativas": [
+    "por Bluetooth, pelo botão de pânico e por comando do supervisor",
+    "por Bluetooth, por despacho de ocorrência e por reativação automática",
+    "por despacho de ocorrência, por comando do CFP e por georreferenciamento",
+    "por reativação automática, pelo pre-buffer e pelo modo tático"
+   ],
+   "correta": 1,
+   "explicacao": "O acionamento remoto-automático, sem intervenção direta do PM, ocorre por Bluetooth, por despacho de ocorrência e por reativação automática por interrupção.",
+   "tags": [
+    "cop-motorola",
+    "acionamentos",
+    "remoto-automatico"
+   ]
+  },
+  {
+   "id": "copmot-elab-079",
+   "subtema": "Acionamentos",
+   "artigo": "POP 5.28.03 — Bluetooth",
+   "enunciado": "O acionamento remoto-automático por Bluetooth ocorre quando",
+   "alternativas": [
+    "o supervisor aproxima o terminal portátil da câmera do policial",
+    "o policial aproxima o smartphone com o aplicativo da câmera desligada",
+    "a viatura com rádio embarcado se aproxima do local da ocorrência despachada",
+    "uma COP com gravação desativada se aproxima de outra com gravação ativada"
+   ],
+   "correta": 3,
+   "explicacao": "Ao detectar, via Bluetooth, o sinal de COP em operação, a câmera inativa próxima inicia automaticamente sua gravação.",
+   "tags": [
+    "cop-motorola",
+    "acionamentos",
+    "bluetooth"
+   ]
+  },
+  {
+   "id": "copmot-elab-080",
+   "subtema": "Acionamentos",
+   "artigo": "POP 5.28.03 — Despacho",
+   "enunciado": "No acionamento remoto-automático por despacho de ocorrência, a gravação da COP vinculada à US é acionada",
+   "alternativas": [
+    "pela chegada da viatura ao local da ocorrência",
+    "pelo registro preliminar do talão eletrônico no SIOPM",
+    "pela confirmação QSL da unidade de serviço",
+    "pelo encerramento da ocorrência no centro"
+   ],
+   "correta": 1,
+   "explicacao": "Despachada a US pelo SIOPM, o registro preliminar do talão eletrônico aciona automaticamente a gravação da COP vinculada.",
+   "tags": [
+    "cop-motorola",
+    "acionamentos",
+    "despacho"
+   ]
+  },
+  {
+   "id": "copmot-elab-081",
+   "subtema": "Acionamentos",
+   "artigo": "POP 5.28.03 — Reativação",
+   "enunciado": "A reativação automática por interrupção da gravação ocorre em intervalos máximos de",
+   "alternativas": [
+    "três minutos",
+    "trinta segundos",
+    "noventa segundos",
+    "sessenta segundos"
+   ],
+   "correta": 3,
+   "explicacao": "Havendo interrupção de gravação de ocorrência que deveria ser registrada, a reativação ocorre em intervalos máximos de um minuto; noventa segundos é o pre-buffer.",
+   "tags": [
+    "cop-motorola",
+    "acionamentos",
+    "reativacao"
+   ]
+  },
+  {
+   "id": "copmot-elab-082",
+   "subtema": "Casos de interesse policial",
+   "artigo": "POP 5.28.03 — Abordagens",
+   "enunciado": "Nas abordagens policiais, a gravação intencional da COP deve ser mantida",
+   "alternativas": [
+    "até a liberação dos envolvidos",
+    "até a conclusão da busca pessoal",
+    "até a consulta ao centro de operações",
+    "até a identificação dos abordados"
+   ],
+   "correta": 0,
+   "explicacao": "Em todas as abordagens policiais, a gravação deve ser acionada e mantida até a liberação dos envolvidos.",
+   "tags": [
+    "cop-motorola",
+    "casos",
+    "abordagens"
+   ]
+  },
+  {
+   "id": "copmot-elab-083",
+   "subtema": "Casos de interesse policial",
+   "artigo": "POP 5.28.03 — Condução e custódia",
+   "enunciado": "Na condução de pessoas a outros órgãos, como DP, hospitais ou sistema prisional, a gravação deve ocorrer",
+   "alternativas": [
+    "apenas quando houver resistência da pessoa durante o deslocamento",
+    "apenas no embarque e no desembarque da pessoa conduzida na viatura",
+    "apenas quando a pessoa conduzida estiver algemada no deslocamento",
+    "durante o período em que a custódia estiver a cargo da autoridade PM"
+   ],
+   "correta": 3,
+   "explicacao": "Na condução e custódia, grava-se durante todo o período em que a custódia ou responsabilidade estiver a cargo da autoridade policial-militar.",
+   "tags": [
+    "cop-motorola",
+    "casos",
+    "custodia"
+   ]
+  },
+  {
+   "id": "copmot-elab-084",
+   "subtema": "Casos de interesse policial",
+   "artigo": "POP 5.28.03 — Princípio da precaução",
+   "enunciado": "Havendo dúvida quanto à necessidade de gravar determinada interação, a COP deverá",
+   "alternativas": [
+    "permanecer em modo tático, sem gravação, até que a dúvida seja sanada",
+    "permanecer desligada até consulta ao comandante de grupo de patrulha",
+    "ser acionada somente se a pessoa envolvida autorizar a gravação",
+    "ser acionada intencionalmente, prevalecendo o princípio da precaução"
+   ],
+   "correta": 3,
+   "explicacao": "Na dúvida sobre a necessidade de gravação, a COP deve ser acionada intencionalmente, prevalecendo o princípio da precaução.",
+   "tags": [
+    "cop-motorola",
+    "casos",
+    "precaucao"
+   ]
+  },
+  {
+   "id": "copmot-elab-085",
+   "subtema": "Casos de interesse policial",
+   "artigo": "POP 5.28.03 — Hipóteses",
+   "enunciado": "Figura entre os principais casos de interesse policial em que se deve acionar intencionalmente a COP",
+   "alternativas": [
+    "a permanência do policial na base comunitária sem atendimento",
+    "o deslocamento da viatura sem ocorrência entre setores",
+    "o intervalo de refeição do policial em local reservado",
+    "o acionamento do policial por qualquer pessoa na via pública"
+   ],
+   "correta": 3,
+   "explicacao": "Entre as hipóteses está o acionamento do policial por qualquer pessoa, além de abordagens, operações, mandados, fiscalizações, acompanhamentos, flagrantes, incursões e buscas.",
+   "tags": [
+    "cop-motorola",
+    "casos",
+    "hipoteses"
+   ]
+  },
+  {
+   "id": "copmot-elab-086",
+   "subtema": "Áudio bidirecional",
+   "artigo": "POP 5.28.03 — Uso restrito",
+   "enunciado": "O áudio bidirecional da COP, que permite ao COPOM ou à supervisão comunicar-se com o policial, tem uso restrito, entre outras, à situação de",
+   "alternativas": [
+    "negociação sensível com infratores em ocorrência com reféns",
+    "impossibilidade momentânea de comunicação pela rede de rádio convencional",
+    "manuseio de armamento ou condução de motocicleta em alta velocidade",
+    "operação que exija disciplina de luz e som para preservar a equipe"
+   ],
+   "correta": 1,
+   "explicacao": "O uso restrito inclui impossibilidade momentânea do rádio, urgência de orientações operacionais, comunicação com terceiros quando o PM estiver incapacitado ou em risco e risco iminente; as demais são situações a evitar.",
+   "tags": [
+    "cop-motorola",
+    "audio-bidirecional",
+    "uso"
+   ]
+  },
+  {
+   "id": "copmot-elab-087",
+   "subtema": "Áudio bidirecional",
+   "artigo": "POP 5.28.03 — Situações a evitar",
+   "enunciado": "O policial do COPOM ou da supervisão deve evitar ativar o áudio bidirecional",
+   "alternativas": [
+    "quando a rede de rádio convencional estiver momentaneamente indisponível",
+    "durante negociações sensíveis, entrevistas ou diálogos estratégicos com as partes",
+    "quando houver necessidade urgente de transmitir orientações operacionais",
+    "em risco iminente, para reforçar comandos ou alertar sobre mudanças táticas"
+   ],
+   "correta": 1,
+   "explicacao": "Evita-se o áudio bidirecional em ações críticas, em situações de disciplina de luz e som, em negociações, entrevistas ou diálogos estratégicos e quando o ruído comprometer a segurança.",
+   "tags": [
+    "cop-motorola",
+    "audio-bidirecional",
+    "evitar"
+   ]
+  },
+  {
+   "id": "copmot-elab-088",
+   "subtema": "Informação às partes",
+   "artigo": "POP 5.28.03 — Consentimento",
+   "enunciado": "Iniciada a gravação pela COP, quanto às partes, o policial deverá",
+   "alternativas": [
+    "informá-las apenas ao término, para não prejudicar a espontaneidade",
+    "obter o consentimento expresso, sob pena de nulidade da evidência digital",
+    "informá-las, sempre que seguro e possível, sendo desnecessário o consentimento",
+    "informá-las somente se questionado sobre a existência da câmera"
+   ],
+   "correta": 2,
+   "explicacao": "Sempre que seguro e possível, o policial informa que a cena está sendo gravada; não há necessidade de consentimento para acionar ou continuar a gravação.",
+   "tags": [
+    "cop-motorola",
+    "informacao-partes"
+   ]
+  },
+  {
+   "id": "copmot-elab-089",
+   "subtema": "Informação às partes",
+   "artigo": "POP 5.28.03 — Ação corretiva",
+   "enunciado": "Não tendo o policial informado às partes que a cena estava sendo gravada, a ação corretiva determina",
+   "alternativas": [
+    "apagar o trecho não informado",
+    "fazê-lo assim que possível",
+    "classificar como vídeo acidental",
+    "interromper e reiniciar a gravação"
+   ],
+   "correta": 1,
+   "explicacao": "A ação corretiva manda informar às partes assim que possível; é vedado apagar qualquer trecho da gravação.",
+   "tags": [
+    "cop-motorola",
+    "informacao-partes",
+    "correcao"
+   ]
+  },
+  {
+   "id": "copmot-elab-090",
+   "subtema": "Encerramento",
+   "artigo": "POP 5.28.03 — Justificativa em áudio",
+   "enunciado": "A COP deve ser mantida em funcionamento até o encerramento do fato de interesse policial, cabendo ao policial",
+   "alternativas": [
+    "solicitar ao COPOM autorização expressa para encerrar a gravação em curso",
+    "registrar em áudio, com sua voz, a justificativa do encerramento e a conclusão do fato",
+    "anotar no RSO o horário de encerramento, dispensado qualquer registro em áudio",
+    "aguardar a desativação automática pelo sistema após o fim da ocorrência"
+   ],
+   "correta": 1,
+   "explicacao": "Cabe ao policial registrar, em áudio com a própria voz, a justificativa do encerramento, indicando que o fato foi integralmente concluído.",
+   "tags": [
+    "cop-motorola",
+    "encerramento"
+   ]
+  },
+  {
+   "id": "copmot-elab-091",
+   "subtema": "Interrupção",
+   "artigo": "POP 5.28.03 — Reacionamento",
+   "enunciado": "Constatada a interrupção da gravação durante o atendimento de fato de interesse policial, o policial deverá",
+   "alternativas": [
+    "reacionar manualmente de imediato, registrar a falha e, persistindo, pedir substituição",
+    "aguardar a reativação automática, dispensado o registro se ocorrer em até um minuto",
+    "encerrar o atendimento e retornar à unidade para substituição do equipamento",
+    "acionar o modo tático para preservar a bateria até a chegada de outra US"
+   ],
+   "correta": 0,
+   "explicacao": "O policial reaciona manualmente o equipamento de imediato, registra a falha em BOe ou RSO e, persistindo, informa o escalão superior e solicita a substituição da COP.",
+   "tags": [
+    "cop-motorola",
+    "interrupcao",
+    "reacionamento"
+   ]
+  },
+  {
+   "id": "copmot-elab-092",
+   "subtema": "Não acionamento",
+   "artigo": "POP 5.28.03 — Ação corretiva",
+   "enunciado": "Se, por qualquer motivo, o policial não iniciar a gravação quando deveria, deverá",
+   "alternativas": [
+    "iniciá-la logo que cesse o impedimento e gravar declaração explicando o motivo",
+    "registrar a omissão apenas no RSO, dispensada a gravação posterior",
+    "solicitar ao COPOM a recuperação das imagens pelo pre-buffer do turno",
+    "comunicar a omissão à Seção de PJMD para instauração de apuração"
+   ],
+   "correta": 0,
+   "explicacao": "Deve-se iniciar a gravação imediatamente após cessar o fato impeditivo e gravar declaração explicando os motivos do não acionamento intencional.",
+   "tags": [
+    "cop-motorola",
+    "nao-acionamento"
+   ]
+  },
+  {
+   "id": "copmot-elab-093",
+   "subtema": "Situações excepcionais",
+   "artigo": "POP 5.28.03 — Busca pessoal minuciosa",
+   "enunciado": "Na realização de busca pessoal minuciosa, com adaptação temporária do uso da COP, o ambiente deve ser previamente registrado",
+   "alternativas": [
+    "em trezentos e sessenta graus, e, se inviável, a COP é desligada até o fim da busca",
+    "em setecentos e vinte graus, e, se inviável, a COP é posta em superfície que capte o áudio",
+    "em cento e oitenta graus, e, se inviável, a COP permanece no uniforme em modo tático",
+    "em setecentos e vinte graus, e, se inviável, a gravação é suspensa mediante justificativa"
+   ],
+   "correta": 1,
+   "explicacao": "O ambiente é previamente registrado em 720º (omnidirecional); não sendo tecnicamente viável, a COP é retirada do uniforme e alocada em superfície segura que permita a captação do áudio.",
+   "tags": [
+    "cop-motorola",
+    "excepcionais",
+    "busca-minuciosa"
+   ]
+  },
+  {
+   "id": "copmot-elab-094",
+   "subtema": "Situações excepcionais",
+   "artigo": "POP 5.28.03 — Vítima que não quer ser filmada",
+   "enunciado": "Solicitando vítima ou testemunha não ser filmada, o policial poderá realizar a entrevista",
+   "alternativas": [
+    "somente após o consentimento formal da vítima colhido por escrito",
+    "com a câmera desligada, registrando a solicitação no boletim de ocorrência",
+    "com a câmera em modo tático, que suspende a captação de imagens e sons",
+    "com a câmera voltada a outra direção, avisando que o som continuará sendo gravado"
+   ],
+   "correta": 3,
+   "explicacao": "A entrevista pode ocorrer com a câmera apontada para outra direção ou superfície neutra, informando-se previamente que o equipamento continuará gravando o som, com justificativa em áudio antes do ajuste.",
+   "tags": [
+    "cop-motorola",
+    "excepcionais",
+    "vitima"
+   ]
+  },
+  {
+   "id": "copmot-elab-095",
+   "subtema": "Situações excepcionais",
+   "artigo": "POP 5.28.03 — Criança vítima e crimes sexuais",
+   "enunciado": "Em ocorrência com criança ou adolescente vítima, ou em crime de natureza sexual, o registro pela COP deve limitar-se",
+   "alternativas": [
+    "à imagem da vítima, com posterior desfoque pela Seção de PJMD",
+    "ao áudio da entrevista com a vítima, vedada qualquer captação de imagens",
+    "a evidências do local de crime ou corpo de delito não ligadas à imagem da vítima",
+    "ao período anterior ao contato com a vítima, encerrando-se a gravação em seguida"
+   ],
+   "correta": 2,
+   "explicacao": "Limita-se o registro às evidências do local de crime ou do corpo de delito não relacionadas diretamente à imagem da vítima, pelo tempo estritamente necessário.",
+   "tags": [
+    "cop-motorola",
+    "excepcionais",
+    "crianca"
+   ]
+  },
+  {
+   "id": "copmot-elab-096",
+   "subtema": "Situações excepcionais",
+   "artigo": "POP 5.28.03 — Justificativa prévia",
+   "enunciado": "Nas situações excepcionais que admitem adaptação temporária do uso da COP, antes de qualquer ajuste de posicionamento, o policial deve",
+   "alternativas": [
+    "justificar com declaração registrada em áudio",
+    "obter autorização do CFP por rede de rádio",
+    "registrar a justificativa por escrito no RSO",
+    "comunicar o COPOM para acionamento remoto"
+   ],
+   "correta": 0,
+   "explicacao": "O policial deve justificar com declaração registrada em áudio antes de realizar qualquer ajuste de posicionamento do dispositivo.",
+   "tags": [
+    "cop-motorola",
+    "excepcionais",
+    "justificativa"
+   ]
+  },
+  {
+   "id": "copmot-elab-097",
+   "subtema": "Remoção da COP",
+   "artigo": "POP 5.28.03 — Caráter extraordinário",
+   "enunciado": "Após o início do serviço, a COP somente poderá ser removida da parte superior do tronco, em caráter extraordinário,",
+   "alternativas": [
+    "para refeições e descanso, desde que a câmera permaneça na viatura trancada",
+    "para uso do sanitário, ainda que haja gravação em andamento, mantida sob guarda",
+    "para ajuste de peças da farda, sob guarda de PM da US, ou para o sanitário sem gravação",
+    "para recarga da bateria em tomada da viatura, sob guarda do motorista da US"
+   ],
+   "correta": 2,
+   "explicacao": "A remoção extraordinária é admitida para ajuste durante sobreposição ou retirada de peças da farda, ficando sob guarda de outro PM da mesma US, ou para uso do sanitário, desde que não haja gravação em andamento.",
+   "tags": [
+    "cop-motorola",
+    "remocao"
+   ]
+  },
+  {
+   "id": "copmot-elab-098",
+   "subtema": "Entrega ao CFP",
+   "artigo": "POP 5.28.03 — Hipóteses",
+   "enunciado": "Impõe-se a entrega da COP ao Comandante de Força Patrulha, entre outras hipóteses, em ocorrência com",
+   "alternativas": [
+    "agressão contra PM, lesão ou morte decorrente de intervenção ou grande repercussão",
+    "prisão em flagrante por tráfico, apreensão de arma de fogo ou recuperação de veículo",
+    "condução de preso ao hospital, busca domiciliar sem mandado ou fuga de abordado",
+    "termo circunstanciado, violência doméstica ou apoio a outros órgãos públicos"
+   ],
+   "correta": 0,
+   "explicacao": "A entrega ao CFP ocorre em agressão contra PM, LCDIP, MDIP, indícios de má conduta ou ilegalidade da US e ocorrências de grande repercussão.",
+   "tags": [
+    "cop-motorola",
+    "entrega-cfp",
+    "hipoteses"
+   ]
+  },
+  {
+   "id": "copmot-elab-099",
+   "subtema": "Entrega ao CFP",
+   "artigo": "POP 5.28.03 — Upload",
+   "enunciado": "Recolhidas as COP nas hipóteses que exigem sua entrega, o CFP deverá",
+   "alternativas": [
+    "devolver as câmeras aos policiais após conferir as gravações no visor",
+    "encaminhar as câmeras à Seção de PJMD, que realizará o upload no dia seguinte",
+    "providenciar pessoalmente o upload, em ato contínuo, sem prejuízo do gerenciamento",
+    "aguardar a chegada do oficial de PJMD para o upload conjunto das gravações"
+   ],
+   "correta": 2,
+   "explicacao": "O CFP deve obrigatoriamente requisitar e recolher as COP, providenciando pessoalmente o upload, sempre que possível em ato contínuo, sem prejuízo das medidas de gerenciamento.",
+   "tags": [
+    "cop-motorola",
+    "entrega-cfp",
+    "upload"
+   ]
+  },
+  {
+   "id": "copmot-elab-100",
+   "subtema": "Uso — Erros",
+   "artigo": "POP 5.28.03 — Direitos do preso",
+   "enunciado": "Constitui possibilidade de erro do POP de uso da COP",
+   "alternativas": [
+    "classificar como vídeo acidental a gravação involuntária",
+    "informar às partes que a cena está sendo gravada pela câmera",
+    "orientar as partes a buscar as gravações por via judicial",
+    "deixar de gravar a ação referente ao cumprimento dos direitos do preso"
+   ],
+   "correta": 3,
+   "explicacao": "É erro deixar de registrar em áudio e vídeo toda ação referente ao cumprimento dos direitos constitucionais da pessoa presa; as demais condutas são corretas.",
+   "tags": [
+    "cop-motorola",
+    "erros",
+    "direitos-preso"
+   ]
+  },
+  {
+   "id": "copmot-elab-101",
+   "subtema": "Uso — Resultados",
+   "artigo": "POP 5.28.03 — LC 893/01",
+   "enunciado": "Entre os resultados esperados do POP de uso da COP está que o policial esteja ciente do dever de acionar, manter acionada e impedir a interrupção da gravação, sob pena das implicações disciplinares",
+   "alternativas": [
+    "da Lei Complementar nº 1.036/2008",
+    "do Decreto-Lei nº 1.001/1969",
+    "da Lei nº 13.869/2019",
+    "da Lei Complementar nº 893/2001"
+   ],
+   "correta": 3,
+   "explicacao": "O POP remete às implicações disciplinares da Lei Complementar nº 893/2001, o RDPM, e às eventuais normas aplicáveis.",
+   "tags": [
+    "cop-motorola",
+    "resultados",
+    "rdpm"
+   ]
+  }
+ ]
+}

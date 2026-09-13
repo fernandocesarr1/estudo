@@ -245,6 +245,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "copmot-elab",
+      "nome": "COP Motorola",
+      "nomeCompleto": "Processo 5.28.00 — Câmera Operacional Portátil Motorola: funcionamento, classificação das evidências digitais e uso (101 questões)",
+      "norma": "POP 5.28.00 (2025)",
+      "arquivo": "data/copmot-elab.json",
+      "cor": "#3d6b2f",
+      "ativo": true,
+      "ordem": 23,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
