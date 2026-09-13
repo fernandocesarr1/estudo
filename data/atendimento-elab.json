@@ -1,0 +1,2312 @@
+{
+  "materia": "atendimento-elab",
+  "versao": "1.5.0",
+  "atualizadoEm": "2026-09-13",
+  "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+  "subtemas": [
+    "Acidente de trânsito",
+    "Acidente de trânsito com vítima",
+    "Acidente de trânsito com vítima fatal",
+    "Adolescente infrator",
+    "Articulação externa",
+    "Atendimento preferencial",
+    "Atribuições",
+    "Atribuições dos Grandes Comandos",
+    "Boletim de ocorrência",
+    "Centro de operações",
+    "Comitês de Gestão Operacional",
+    "Comunicação formal",
+    "Comunicação à Polícia Civil",
+    "Corpo de Bombeiros",
+    "Delegacia Eletrônica",
+    "Descumprimento de medida protetiva",
+    "Esforço estratégico",
+    "Espírito da sistemática",
+    "Flagrante facultativo",
+    "Fluxo de comunicação",
+    "Hospitais e prontos-socorros",
+    "Instrução e capacitação",
+    "Integração operacional",
+    "Limites de atuação",
+    "Localização de veículo",
+    "Mera transmissão de dados",
+    "Morte natural",
+    "Notificação de ocorrência",
+    "Objetivos",
+    "Objetos e perícias",
+    "Ocorrências ambientais",
+    "Ocorrências sem campo de atuação",
+    "Peças complementares",
+    "Preservação de local",
+    "RAIA",
+    "Recibo de preso",
+    "Registro e estatística",
+    "Retorno ao policiamento",
+    "Termo circunstanciado",
+    "Vedações",
+    "Violência doméstica",
+    "Vítima em estabelecimento de saúde",
+    "Âmbito de aplicação"
+  ],
+  "questoes": [
+    {
+      "id": "atendimento-elab-001",
+      "subtema": "Objetivos",
+      "artigo": "NI PM3-001/02/15 — Objetivo",
+      "enunciado": "O objetivo central da sistemática de atuação da Polícia Militar no atendimento e registro de ocorrências é",
+      "alternativas": [
+        "transferir à Polícia Militar atribuições de polícia judiciária na lavratura de termos",
+        "reduzir o tempo de atendimento e de registro das ocorrências nos locais dos fatos",
+        "ampliar a permanência das equipes nas unidades policiais civis para instrução dos feitos",
+        "substituir o boletim de ocorrência da Polícia Civil pelo registro policial-militar"
+      ],
+      "correta": 1,
+      "explicacao": "A sistemática visa reduzir o tempo de atendimento e registro das ocorrências realizadas pelas unidades de serviço nos locais dos fatos, possibilitando retorno rápido ao patrulhamento, com celeridade, integração e eficiência.",
+      "tags": [
+        "atendimento",
+        "objetivos"
+      ]
+    },
+    {
+      "id": "atendimento-elab-002",
+      "subtema": "Atendimento preferencial",
+      "artigo": "Res. SSP-57/15 — Hipóteses",
+      "enunciado": "Terão atendimento preferencial nas unidades da Polícia Civil as apresentações relativas a",
+      "alternativas": [
+        "flagrante delito, localização de veículo e registro de desaparecimento",
+        "flagrante delito, termo circunstanciado e apreensão de adolescente infrator",
+        "termo circunstanciado, acidente de trânsito com vítima e morte natural",
+        "apreensão de adolescente, infrações ambientais e ocorrências de trânsito"
+      ],
+      "correta": 1,
+      "explicacao": "O atendimento preferencial alcança o auto de prisão em flagrante delito, o termo circunstanciado e o auto de apreensão de adolescente infrator, visando ao rápido retorno da unidade de serviço às atividades de polícia ostensivo-preventiva.",
+      "tags": [
+        "atendimento",
+        "preferencial"
+      ]
+    },
+    {
+      "id": "atendimento-elab-003",
+      "subtema": "Atendimento preferencial",
+      "artigo": "Res. SSP-57/15 — Alcance",
+      "enunciado": "O atendimento preferencial previsto na resolução alcança",
+      "alternativas": [
+        "exclusivamente os policiais militares que conduzam presos em flagrante delito",
+        "policiais militares e civis em serviço que apresentem ocorrências à Polícia Civil",
+        "somente as ocorrências apresentadas fora do horário de expediente administrativo",
+        "apenas as unidades de serviço que atuem em municípios sem plantão policial civil"
+      ],
+      "correta": 1,
+      "explicacao": "Policiais militares e civis em serviço têm atendimento preferencial em todas as ocorrências criminais apresentadas à Polícia Civil, respeitados os critérios de prioridade estabelecidos na Constituição e na legislação infraconstitucional.",
+      "tags": [
+        "atendimento",
+        "preferencial",
+        "alcance"
+      ]
+    },
+    {
+      "id": "atendimento-elab-004",
+      "subtema": "Atendimento preferencial",
+      "artigo": "Res. SSP-57/15 — Flagrante delito",
+      "enunciado": "Em caso de flagrante delito apresentado pela unidade de serviço, devem ser adotadas posturas para a rápida liberação dos policiais, o que inclui",
+      "alternativas": [
+        "lavrar previamente as peças que dependam de suas assinaturas e entregar o recibo de preso",
+        "dispensar a oitiva do condutor, bastando a juntada do boletim de ocorrência policial-militar",
+        "transferir a custódia do preso à unidade policial civil antes de qualquer formalidade",
+        "aguardar a conclusão integral do auto de prisão antes da liberação da guarnição"
+      ],
+      "correta": 0,
+      "explicacao": "A norma determina lavrar previamente as peças complementares que dependam das assinaturas dos policiais, buscando a pronta liberação da guarnição após suas oitivas e a entrega do recibo de preso.",
+      "tags": [
+        "atendimento",
+        "flagrante",
+        "liberacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-005",
+      "subtema": "Comunicação à Polícia Civil",
+      "artigo": "NI PM3-001/02/15 — Espécies",
+      "enunciado": "A comunicação da ocorrência criminal ao delegado de polícia pode ser realizada nas formas",
+      "alternativas": [
+        "prévia, nominal, formal e pessoal",
+        "simples, eletrônica, formal e pessoal",
+        "prévia, verbal, formal e pessoal",
+        "imediata, verbal, documental e presencial"
+      ],
+      "correta": 2,
+      "explicacao": "São quatro as espécies: prévia, por mensagem imediata; verbal, diretamente ao delegado ou agente presente no local; formal, pelo encaminhamento de cópia do boletim; e pessoal, pela apresentação da ocorrência na unidade policial civil.",
+      "tags": [
+        "atendimento",
+        "comunicacao",
+        "especies"
+      ]
+    },
+    {
+      "id": "atendimento-elab-006",
+      "subtema": "Comunicação à Polícia Civil",
+      "artigo": "NI PM3-001/02/15 — Comunicação prévia",
+      "enunciado": "A comunicação prévia caracteriza-se pela transmissão imediata por mensagem, dando-se, na capital,",
+      "alternativas": [
+        "diretamente da unidade de serviço ao distrito policial da circunscrição",
+        "do COPOM ao Centro de Operações da Polícia Civil",
+        "do Comandante de Companhia ao delegado seccional correspondente",
+        "da unidade de serviço ao Instituto de Criminalística responsável pela área"
+      ],
+      "correta": 1,
+      "explicacao": "A comunicação prévia é feita por mensagem simples de rádio ao COPOM ou CAD e deste ao CEPOL; nas demais regiões do Estado, a comunicação segue ajuste entre os Comandantes de CPI ou CPA e os dirigentes policiais civis correspondentes.",
+      "tags": [
+        "atendimento",
+        "comunicacao",
+        "previa"
+      ]
+    },
+    {
+      "id": "atendimento-elab-007",
+      "subtema": "Comunicação à Polícia Civil",
+      "artigo": "NI PM3-001/02/15 — Comunicação verbal",
+      "enunciado": "Para comprovar a comunicação verbal feita no local dos fatos, a unidade de serviço deverá",
+      "alternativas": [
+        "acionar a câmera operacional portátil e gravar integralmente o diálogo mantido",
+        "informar ao COPOM nome e função do policial civil presente e registrar no boletim",
+        "colher a assinatura do delegado de polícia no boletim de ocorrência lavrado",
+        "solicitar ao delegado a emissão de documento próprio atestando a comunicação"
+      ],
+      "correta": 1,
+      "explicacao": "A unidade informa ao COPOM ou CAD a presença do delegado ou de seu representante, transmitindo nome e cargo ou função, e registra o teor da transmissão verbal no respectivo boletim de ocorrência policial-militar.",
+      "tags": [
+        "atendimento",
+        "comunicacao",
+        "verbal"
+      ]
+    },
+    {
+      "id": "atendimento-elab-008",
+      "subtema": "Comunicação à Polícia Civil",
+      "artigo": "NI PM3-001/02/15 — Comunicação formal",
+      "enunciado": "A comunicação formal da ocorrência criminal consiste",
+      "alternativas": [
+        "na transmissão de mensagem de rádio ao centro de operações da Polícia Civil",
+        "na apresentação pessoal da ocorrência pela unidade de serviço no distrito",
+        "no encaminhamento de cópia do boletim ao distrito policial da circunscrição",
+        "no relato direto ao delegado que comparece ao local dos fatos atendidos"
+      ],
+      "correta": 2,
+      "explicacao": "A comunicação formal é o encaminhamento de cópia do boletim de ocorrência policial-militar ao distrito policial da circunscrição, providência que deve ocorrer até o primeiro dia útil subsequente aos fatos.",
+      "tags": [
+        "atendimento",
+        "comunicacao",
+        "formal"
+      ]
+    },
+    {
+      "id": "atendimento-elab-009",
+      "subtema": "Comunicação à Polícia Civil",
+      "artigo": "NI PM3-001/02/15 — Comunicação pessoal",
+      "enunciado": "A comunicação pessoal, mediante apresentação da ocorrência no distrito policial, é exigida, entre outras hipóteses,",
+      "alternativas": [
+        "na prisão em flagrante, no termo circunstanciado e na apreensão de adolescente",
+        "em toda ocorrência criminal registrada pela unidade de serviço no local dos fatos",
+        "nas ocorrências de mera transmissão de dados com autor desconhecido",
+        "nos casos de localização de veículo em que o proprietário não compareça"
+      ],
+      "correta": 0,
+      "explicacao": "A apresentação pessoal é exigida na prisão em flagrante, no termo circunstanciado e na apreensão de adolescente infrator, além das infrações com violência ou grave ameaça que ainda demandem providências policiais-militares.",
+      "tags": [
+        "atendimento",
+        "comunicacao",
+        "pessoal"
+      ]
+    },
+    {
+      "id": "atendimento-elab-010",
+      "subtema": "Comunicação à Polícia Civil",
+      "artigo": "NI PM3-001/02/15 — Violência ou grave ameaça",
+      "enunciado": "Nas infrações penais caracterizadas por violência ou grave ameaça, a apresentação pessoal da ocorrência é exigida",
+      "alternativas": [
+        "em qualquer circunstância, dada a gravidade da conduta praticada pelo autor",
+        "quando ainda houver providência policial-militar, como socorro ou perícia",
+        "somente quando o autor do fato tiver sido preso em flagrante delito no local",
+        "apenas quando a vítima manifestar expressamente o desejo de representar"
+      ],
+      "correta": 1,
+      "explicacao": "Exige-se a apresentação pessoal quando ainda houver providências da PM, como prestação de socorro, risco à integridade física de uma das partes, apreensão de objetos, preservação de local de crime ou exame de corpo de delito; ausentes tais providências, basta a comunicação formal até o primeiro dia útil subsequente.",
+      "tags": [
+        "atendimento",
+        "comunicacao",
+        "violencia"
+      ]
+    },
+    {
+      "id": "atendimento-elab-011",
+      "subtema": "Comunicação à Polícia Civil",
+      "artigo": "NI PM3-001/02/15 — Medidas protetivas e perícias",
+      "enunciado": "Também exigem apresentação pessoal da ocorrência as infrações penais que demandem",
+      "alternativas": [
+        "a simples notificação das partes para comparecimento posterior ao distrito",
+        "apenas o registro estatístico para fins de análise criminal da área territorial",
+        "medidas protetivas de urgência, apreensão de objetos ou exame de corpo de delito",
+        "o encaminhamento eletrônico do registro por meio da delegacia eletrônica"
+      ],
+      "correta": 2,
+      "explicacao": "A norma arrola entre as hipóteses de comunicação pessoal as infrações que demandem adoção de medidas protetivas, apreensão de objetos, realização de exame de corpo de delito ou outras perícias.",
+      "tags": [
+        "atendimento",
+        "comunicacao",
+        "protetivas"
+      ]
+    },
+    {
+      "id": "atendimento-elab-012",
+      "subtema": "Flagrante facultativo",
+      "artigo": "NI PM3-001/02/15 — Prisão por qualquer do povo",
+      "enunciado": "Na prisão em flagrante efetuada por qualquer do povo, a atuação da unidade de serviço limita-se, em regra,",
+      "alternativas": [
+        "à lavratura do auto de prisão em flagrante no local, com oitiva das testemunhas",
+        "ao apoio no transporte e acompanhamento das partes até a unidade policial civil",
+        "à condução do autor da prisão à delegacia, dispensado o acompanhamento das partes",
+        "à recusa do apoio, por se tratar de atribuição exclusiva da autoridade policial"
+      ],
+      "correta": 1,
+      "explicacao": "A atuação da US limita-se ao apoio no transporte e acompanhamento do autor da prisão, do preso, da vítima e das testemunhas até a unidade policial civil, fornecendo seus dados qualificativos por meio da notificação de ocorrência.",
+      "tags": [
+        "atendimento",
+        "flagrante-facultativo",
+        "apoio"
+      ]
+    },
+    {
+      "id": "atendimento-elab-013",
+      "subtema": "Flagrante facultativo",
+      "artigo": "NI PM3-001/02/15 — Condutor",
+      "enunciado": "Na prisão em flagrante por qualquer do povo, quem figura como condutor da ocorrência é",
+      "alternativas": [
+        "a pessoa que efetivou a prisão, ouvida junto com as testemunhas presenciais",
+        "o policial militar que prestou apoio no transporte das partes à delegacia",
+        "o delegado de polícia que preside a lavratura do auto de prisão em flagrante",
+        "o comandante da guarnição que acompanhou a apresentação da ocorrência"
+      ],
+      "correta": 0,
+      "explicacao": "A pessoa que efetivou a prisão figura como condutora e é ouvida, assim como as testemunhas presenciais, não sendo necessária a oitiva do policial militar nem sua assinatura no auto, que conterá apenas seus dados de qualificação.",
+      "tags": [
+        "atendimento",
+        "flagrante-facultativo",
+        "condutor"
+      ]
+    },
+    {
+      "id": "atendimento-elab-014",
+      "subtema": "Flagrante facultativo",
+      "artigo": "NI PM3-001/02/15 — Oitiva do policial",
+      "enunciado": "A oitiva do policial militar nas ocorrências de flagrante efetuado por qualquer do povo",
+      "alternativas": [
+        "é vedada em qualquer hipótese, por não ter o policial presenciado os fatos",
+        "é obrigatória em todos os casos, para validar a apresentação da ocorrência",
+        "depende de requerimento do autor da prisão dirigido ao delegado de polícia",
+        "só é cabível quando ele tiver participado diretamente, como testemunha presencial"
+      ],
+      "correta": 3,
+      "explicacao": "Considerando que a apresentação se dá pelo efetivo condutor, a oitiva de policiais militares só é cabível nos casos em que tenham participado mais diretamente da ocorrência, por exemplo, na condição de testemunha presencial.",
+      "tags": [
+        "atendimento",
+        "flagrante-facultativo",
+        "oitiva"
+      ]
+    },
+    {
+      "id": "atendimento-elab-015",
+      "subtema": "Flagrante facultativo",
+      "artigo": "NI PM3-001/02/15 — Eventos",
+      "enunciado": "Ocorrendo o flagrante facultativo em locais de eventos desportivos, artísticos ou religiosos, a unidade de serviço deverá",
+      "alternativas": [
+        "encaminhar as partes ao juizado ou órgão especializado representado no local do evento",
+        "conduzir as partes ao distrito policial da circunscrição, independentemente do evento",
+        "lavrar termo circunstanciado no próprio local, dispensada a apresentação à Polícia Civil",
+        "aguardar o encerramento do evento para apresentar a ocorrência à autoridade policial"
+      ],
+      "correta": 0,
+      "explicacao": "Havendo representação desses órgãos no sítio do evento, as partes envolvidas são encaminhadas ao juizado especial criminal ou às delegacias especializadas correspondentes, conforme o caso.",
+      "tags": [
+        "atendimento",
+        "flagrante-facultativo",
+        "eventos"
+      ]
+    },
+    {
+      "id": "atendimento-elab-016",
+      "subtema": "Limites de atuação",
+      "artigo": "Res. SSP-21/78 — Providências complementares",
+      "enunciado": "Quanto às providências complementares de polícia judiciária, como encaminhamento de pessoas ou coisas para exame,",
+      "alternativas": [
+        "é vedado o uso de recursos da PM, salvo urgência comprovada ou impossibilidade de outra forma",
+        "o uso de recursos da PM é livre, por integrar o apoio às atividades de persecução penal",
+        "o uso de recursos da PM depende de autorização do Comandante de Policiamento de Área",
+        "é obrigatório o apoio da PM sempre que solicitado pelo delegado de polícia da área"
+      ],
+      "correta": 0,
+      "explicacao": "A vedação decorre da Resolução SSP-21/78, excetuando-se os casos de comprovada urgência e quando for impossível atender de outra forma necessidade relevante para o serviço policial.",
+      "tags": [
+        "atendimento",
+        "limites",
+        "recursos"
+      ]
+    },
+    {
+      "id": "atendimento-elab-017",
+      "subtema": "Limites de atuação",
+      "artigo": "Res. SSP-21/78 — Atuação da US",
+      "enunciado": "As unidades de serviço que atenderem ocorrências de natureza criminal têm sua atuação limitada",
+      "alternativas": [
+        "à apresentação das partes e dos dados de interesse de polícia judiciária à unidade civil",
+        "à classificação jurídica do delito em conjunto com o delegado de polícia plantonista",
+        "à condução da investigação preliminar até a chegada da autoridade policial civil",
+        "à realização de diligências complementares determinadas pelo delegado no local"
+      ],
+      "correta": 0,
+      "explicacao": "A atuação limita-se à apresentação das partes e dos dados de interesse de polícia judiciária à unidade policial-civil competente, não cabendo à unidade de serviço atuar na classificação do delito nem em diligências investigativas.",
+      "tags": [
+        "atendimento",
+        "limites",
+        "atuacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-018",
+      "subtema": "Hospitais e prontos-socorros",
+      "artigo": "Res. SSP-57/15 — Entrada de vítimas",
+      "enunciado": "Acionada a unidade de serviço para hospital em razão da entrada de vítima de crime, constatado não haver campo de atuação policial-militar nem pessoas a serem presas, e não tendo a vítima recebido alta,",
+      "alternativas": [
+        "dispensa-se qualquer registro, bastando comunicação verbal ao centro de operações",
+        "aguarda-se a alta médica da vítima para conduzi-la ao distrito policial da área",
+        "apresenta-se a ocorrência pessoalmente ao delegado de polícia da circunscrição",
+        "elabora-se o boletim e informa-se a Polícia Civil, retornando a equipe ao policiamento"
+      ],
+      "correta": 3,
+      "explicacao": "A unidade elabora o respectivo boletim e transmite os dados ao COPOM ou CAD, que os retransmite à Polícia Civil, retornando em seguida às atividades rotineiras; cópia do boletim é enviada à unidade policial civil até o primeiro dia útil subsequente.",
+      "tags": [
+        "atendimento",
+        "hospitais",
+        "registro"
+      ]
+    },
+    {
+      "id": "atendimento-elab-019",
+      "subtema": "Hospitais e prontos-socorros",
+      "artigo": "NI PM3-001/02/15 — Alta médica",
+      "enunciado": "Recebendo a vítima alta médica ainda durante a permanência da unidade de serviço no estabelecimento de saúde, ela deverá",
+      "alternativas": [
+        "ser orientada quanto à conveniência ou obrigatoriedade do registro na Civil",
+        "ser conduzida obrigatoriamente ao distrito policial pela guarnição empenhada",
+        "assinar termo de desistência do registro, dispensando a comunicação à Polícia Civil",
+        "aguardar no local a chegada do delegado de polícia para colheita de depoimento"
+      ],
+      "correta": 0,
+      "explicacao": "A vítima é orientada quanto à conveniência, quando couber representação, ou à obrigatoriedade, nos casos de ação pública incondicionada, de registro em unidade policial civil, colhendo-se sua assinatura no campo destinado à versão e transmitindo-se os dados à Polícia Civil.",
+      "tags": [
+        "atendimento",
+        "hospitais",
+        "alta"
+      ]
+    },
+    {
+      "id": "atendimento-elab-020",
+      "subtema": "Hospitais e prontos-socorros",
+      "artigo": "NI PM3-001/02/15 — Alta anterior à chegada",
+      "enunciado": "Constatando a unidade de serviço que a vítima recebeu alta médica antes da chegada da equipe, o encarregado deverá",
+      "alternativas": [
+        "registrar o fato apenas no relatório de serviço operacional, dispensado o boletim",
+        "cientificar o centro de operações, registrar em boletim e voltar ao policiamento",
+        "localizar a vítima em sua residência para colher a versão dos fatos ocorridos",
+        "apresentar a ocorrência pessoalmente ao delegado de polícia da circunscrição"
+      ],
+      "correta": 1,
+      "explicacao": "O encarregado cientifica o COPOM ou CAD e retorna às atividades de polícia ostensivo-preventiva, providenciando o devido registro dos fatos em boletim de ocorrência policial-militar, e não apenas no relatório de serviço.",
+      "tags": [
+        "atendimento",
+        "hospitais",
+        "alta-previa"
+      ]
+    },
+    {
+      "id": "atendimento-elab-021",
+      "subtema": "Hospitais e prontos-socorros",
+      "artigo": "NI PM3-001/02/15 — Registro da comunicação",
+      "enunciado": "Ao cientificar a Polícia Civil sobre a entrada de vítima em estabelecimento de saúde, o COPOM ou CAD deverá",
+      "alternativas": [
+        "encaminhar cópia do prontuário médico da vítima à autoridade policial civil",
+        "solicitar o comparecimento imediato do delegado de polícia ao estabelecimento",
+        "registrar o nome e a função do policial civil que tomou ciência e transmiti-los à US",
+        "aguardar a alta médica da vítima para efetivar a comunicação à Polícia Civil"
+      ],
+      "correta": 2,
+      "explicacao": "O centro de operações registra o nome e a função do policial civil que tomou ciência dos fatos e transmite esses dados à unidade de serviço para os registros pertinentes, o que documenta a comunicação realizada.",
+      "tags": [
+        "atendimento",
+        "hospitais",
+        "comunicacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-022",
+      "subtema": "Morte natural",
+      "artigo": "Res. SSP-57/15 — Constatação de óbito",
+      "enunciado": "Nas ocorrências de morte natural, havendo constatação do óbito por profissional de saúde habilitado e não existindo indícios de crime, a unidade de serviço deverá",
+      "alternativas": [
+        "aguardar a remoção do corpo pelo serviço funerário antes de encerrar a ocorrência",
+        "preservar o local até a chegada do delegado de polícia e do perito criminal",
+        "conduzir o profissional de saúde ao distrito policial para prestar esclarecimentos",
+        "transmitir os dados ao centro de operações, lavrar o boletim e retornar ao policiamento"
+      ],
+      "correta": 3,
+      "explicacao": "Constatado o óbito por profissional habilitado e ausentes indícios de crime, a US colhe informações sobre a ocorrência e o profissional presente, transmite-as ao COPOM ou CAD, registra em boletim e retorna ao policiamento, encaminhando cópia à Polícia Civil até o primeiro dia útil.",
+      "tags": [
+        "atendimento",
+        "morte-natural",
+        "obito"
+      ]
+    },
+    {
+      "id": "atendimento-elab-023",
+      "subtema": "Morte natural",
+      "artigo": "Res. SSP-382/99 — Ausência de constatação",
+      "enunciado": "Não havendo profissional de saúde habilitado para constatar a morte ou existindo indícios da prática de crime, a unidade de serviço deverá",
+      "alternativas": [
+        "preservar o local, adotando as medidas previstas na resolução sobre local de crime",
+        "remover o corpo para o instituto médico-legal mais próximo do local dos fatos",
+        "encerrar a ocorrência e comunicar o fato ao centro de operações por rádio",
+        "acionar serviço de remoção funerária e liberar o local aos familiares presentes"
+      ],
+      "correta": 0,
+      "explicacao": "Nessas hipóteses a unidade preserva o local nos termos da Resolução SSP-382/99, adotando as medidas de preservação de local de crime, o que viabiliza a atuação pericial e a apuração dos fatos.",
+      "tags": [
+        "atendimento",
+        "morte-natural",
+        "preservacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-024",
+      "subtema": "Localização de veículo",
+      "artigo": "Res. SSP-173/13 — Procedimento",
+      "enunciado": "Atendendo ocorrência de localização de veículo produto de furto ou roubo, sem vínculo com crimes graves, a unidade de serviço deverá",
+      "alternativas": [
+        "conduzir o veículo até a unidade policial-militar e comunicar o proprietário",
+        "remover o veículo ao distrito policial da circunscrição e ali apresentar a ocorrência",
+        "aguardar no local a chegada do perito criminal para exame do veículo localizado",
+        "providenciar, via centro de operações, o comparecimento do proprietário ao local"
+      ],
+      "correta": 3,
+      "explicacao": "A unidade adota providências, via COPOM ou CAD, para o comparecimento do proprietário ou responsável ao local onde se encontra o veículo, a fim de acompanhar os registros e procedimentos necessários junto à Polícia Civil.",
+      "tags": [
+        "atendimento",
+        "veiculo",
+        "procedimento"
+      ]
+    },
+    {
+      "id": "atendimento-elab-025",
+      "subtema": "Localização de veículo",
+      "artigo": "NI PM3-001/02/15 — Comparecimento do proprietário",
+      "enunciado": "Comparecendo o proprietário ao local onde se encontra o veículo localizado,",
+      "alternativas": [
+        "recebe a notificação de ocorrência e é acompanhado à unidade policial civil pela equipe",
+        "recebe cópia do boletim e fica dispensado de comparecer à unidade policial civil",
+        "deve aguardar a remoção do veículo por guincho requisitado pelo centro de operações",
+        "assume a guarda do veículo, dispensando-se qualquer registro pela unidade de serviço"
+      ],
+      "correta": 0,
+      "explicacao": "Ao proprietário é entregue a NOc confeccionada no local e a unidade o acompanha à unidade policial civil para os registros de polícia judiciária; em seguida, elabora o boletim e retorna ao policiamento, ficando o registro na Polícia Civil a cargo do proprietário.",
+      "tags": [
+        "atendimento",
+        "veiculo",
+        "proprietario"
+      ]
+    },
+    {
+      "id": "atendimento-elab-026",
+      "subtema": "Localização de veículo",
+      "artigo": "NI PM3-001/02/15 — Ausência do proprietário",
+      "enunciado": "Não havendo condições de remoção do veículo e recusando-se o proprietário localizado a comparecer ao local,",
+      "alternativas": [
+        "o veículo é entregue a terceiro presente no local mediante recibo assinado",
+        "a guarnição permanece no local até a remoção do veículo por meio idôneo",
+        "a unidade remove o veículo ao pátio credenciado mais próximo do local",
+        "é vedada a permanência de policiais para a guarda, anotando-se no boletim"
+      ],
+      "correta": 3,
+      "explicacao": "O proprietário é cientificado de sua exclusiva responsabilidade em remover o veículo à unidade policial civil competente, ficando vedada a permanência de policiais militares para a guarda do veículo, circunstância que se anota no boletim.",
+      "tags": [
+        "atendimento",
+        "veiculo",
+        "guarda"
+      ]
+    },
+    {
+      "id": "atendimento-elab-027",
+      "subtema": "Localização de veículo",
+      "artigo": "NI PM3-001/02/15 — Veículo abandonado",
+      "enunciado": "Nas ocorrências de veículo abandonado e sem identificação, como automóvel carbonizado, a unidade de serviço deverá",
+      "alternativas": [
+        "notificar o proprietário identificado pelo número do chassi remanescente",
+        "aguardar a perícia técnica e conduzir os vestígios ao instituto de criminalística",
+        "elaborar o relatório de análise de irregularidades, além do registro da ocorrência",
+        "representar ao Ministério Público em caso de inércia da administração municipal"
+      ],
+      "correta": 2,
+      "explicacao": "Nessas ocorrências elabora-se o RAIA, instrumento de reporte de irregularidades; havendo indícios de outros crimes, como manchas de sangue, armas ou entorpecentes, a unidade deve preservar o local.",
+      "tags": [
+        "atendimento",
+        "veiculo",
+        "raia"
+      ]
+    },
+    {
+      "id": "atendimento-elab-028",
+      "subtema": "Localização de veículo",
+      "artigo": "NI PM3-001/02/15 — Indícios de outros crimes",
+      "enunciado": "Contendo o veículo localizado indícios do cometimento de outros crimes, como manchas de sangue ou entorpecentes, a unidade de serviço deverá",
+      "alternativas": [
+        "preservar o local, acionando a Polícia Civil por meio do centro de operações",
+        "recolher os vestígios encontrados e entregá-los na unidade policial civil",
+        "remover o veículo ao instituto de criminalística para exame imediato",
+        "liberar o veículo ao proprietário, registrando os indícios no boletim"
+      ],
+      "correta": 0,
+      "explicacao": "Havendo indícios de outros crimes, a unidade preserva o local e aciona a Polícia Civil, sendo-lhe vedado recolher ou receber material objeto de perícia, ainda que coletado e lacrado por perito habilitado.",
+      "tags": [
+        "atendimento",
+        "veiculo",
+        "preservacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-029",
+      "subtema": "Mera transmissão de dados",
+      "artigo": "NI PM3-001/02/15 — Conceito",
+      "enunciado": "Consideram-se ocorrências de mera transmissão de dados aquelas em que",
+      "alternativas": [
+        "não há autor conhecido nem providência de polícia judiciária a ser adotada de imediato",
+        "o autor é conhecido, mas a vítima não deseja representar criminalmente contra ele",
+        "há apreensão de objetos que devem ser periciados pelo instituto de criminalística",
+        "existe prisão em flagrante delito praticada por qualquer do povo no local dos fatos"
+      ],
+      "correta": 0,
+      "explicacao": "São ocorrências sem autoria conhecida e sem providências imediatas de polícia judiciária, nas quais a US transmite os dados ao centro de operações para retransmissão à Polícia Civil, registra em boletim e retorna ao policiamento.",
+      "tags": [
+        "atendimento",
+        "transmissao-dados",
+        "conceito"
+      ]
+    },
+    {
+      "id": "atendimento-elab-030",
+      "subtema": "Mera transmissão de dados",
+      "artigo": "NI PM3-001/02/15 — Procedimento",
+      "enunciado": "Nas ocorrências de mera transmissão de dados, a unidade de serviço deverá",
+      "alternativas": [
+        "conduzir a parte interessada ao distrito policial para lavratura do registro",
+        "entregar a notificação à parte e orientá-la quanto ao registro na Polícia Civil",
+        "lavrar termo circunstanciado e encaminhá-lo ao juizado especial criminal",
+        "dispensar o registro em boletim, bastando a transmissão por rádio ao centro"
+      ],
+      "correta": 1,
+      "explicacao": "A US fornece a NOc à parte, orienta-a sobre a necessidade e a forma de registro na unidade policial civil ou na Delegacia Eletrônica, elabora o boletim e transmite os dados ao COPOM ou CAD.",
+      "tags": [
+        "atendimento",
+        "transmissao-dados",
+        "procedimento"
+      ]
+    },
+    {
+      "id": "atendimento-elab-031",
+      "subtema": "Notificação de ocorrência",
+      "artigo": "NI PM3-001/02/15 — Cabimento",
+      "enunciado": "A notificação de ocorrência tem cabimento, entre outras hipóteses, na",
+      "alternativas": [
+        "prisão efetuada por qualquer do povo e na localização de veículo com proprietário",
+        "prisão em flagrante efetuada pela própria guarnição policial-militar empenhada",
+        "apreensão de adolescente infrator apresentada à delegacia especializada",
+        "lavratura de termo circunstanciado por infração de menor potencial ofensivo"
+      ],
+      "correta": 0,
+      "explicacao": "A NOc é utilizada na prisão em flagrante por qualquer do povo, nas ocorrências de mera transmissão de dados e na localização de veículo com comparecimento do proprietário, servindo para qualificar as partes e orientar o registro na Polícia Civil.",
+      "tags": [
+        "atendimento",
+        "noc",
+        "cabimento"
+      ]
+    },
+    {
+      "id": "atendimento-elab-032",
+      "subtema": "Notificação de ocorrência",
+      "artigo": "NI PM3-001/02/15 — Finalidade",
+      "enunciado": "A finalidade precípua da notificação de ocorrência entregue às partes é",
+      "alternativas": [
+        "documentar a entrega de objetos apreendidos à unidade policial civil competente",
+        "substituir o boletim de ocorrência policial-militar nas ocorrências de menor gravidade",
+        "formalizar a representação criminal da vítima perante a autoridade policial civil",
+        "fornecer os dados de qualificação dos policiais e do atendimento para registro posterior"
+      ],
+      "correta": 3,
+      "explicacao": "A NOc consigna os dados qualificativos dos policiais militares e do atendimento realizado, permitindo que a parte promova o registro na unidade policial civil; não substitui o boletim, que é elaborado pela unidade de serviço.",
+      "tags": [
+        "atendimento",
+        "noc",
+        "finalidade"
+      ]
+    },
+    {
+      "id": "atendimento-elab-033",
+      "subtema": "Boletim de ocorrência",
+      "artigo": "NI PM3-001/02/15 — Elaboração no local",
+      "enunciado": "Como regra, o boletim de ocorrência policial-militar deve ser elaborado",
+      "alternativas": [
+        "na sede da unidade policial-militar, após o encerramento do turno de serviço",
+        "no local dos fatos, por meio dos recursos tecnológicos disponíveis à unidade",
+        "na unidade policial civil, simultaneamente ao registro de polícia judiciária",
+        "pelo Comandante de Companhia, com base no relato transmitido pela guarnição"
+      ],
+      "correta": 1,
+      "explicacao": "A sistemática busca reduzir o tempo de registro determinando que o boletim seja confeccionado no próprio local dos fatos, com os recursos tecnológicos disponíveis, viabilizando o rápido retorno ao patrulhamento.",
+      "tags": [
+        "atendimento",
+        "boletim",
+        "local"
+      ]
+    },
+    {
+      "id": "atendimento-elab-034",
+      "subtema": "Boletim de ocorrência",
+      "artigo": "NI PM3-001/02/15 — Encaminhamento",
+      "enunciado": "A cópia do boletim de ocorrência policial-militar destinada à unidade policial civil deve ser encaminhada",
+      "alternativas": [
+        "no prazo de cinco dias úteis, juntamente com o relatório mensal da unidade",
+        "no prazo de quarenta e oito horas contadas do encerramento da ocorrência",
+        "imediatamente após a elaboração, ainda durante o turno de serviço",
+        "até o primeiro dia útil subsequente ao registro dos fatos atendidos"
+      ],
+      "correta": 3,
+      "explicacao": "A comunicação formal se aperfeiçoa com o envio de cópia do boletim ao distrito policial da circunscrição até o primeiro dia útil subsequente aos fatos, permanecendo a via original em poder da Polícia Militar.",
+      "tags": [
+        "atendimento",
+        "boletim",
+        "prazo"
+      ]
+    },
+    {
+      "id": "atendimento-elab-035",
+      "subtema": "Boletim de ocorrência",
+      "artigo": "NI PM3-001/02/15 — Via original",
+      "enunciado": "Quanto à via original do boletim de ocorrência policial-militar, é correto afirmar que",
+      "alternativas": [
+        "é arquivada no centro de operações, que centraliza todos os registros do Estado",
+        "é entregue ao delegado de polícia, retendo a Polícia Militar apenas cópia simples",
+        "é entregue à vítima, que a apresenta na unidade policial civil para registro",
+        "permanece em poder da Polícia Militar, enviando-se cópia à unidade policial civil"
+      ],
+      "correta": 3,
+      "explicacao": "A via original permanece em poder da PM, para fins de controle, estatística e eventual instrução de procedimentos, encaminhando-se cópia à Polícia Civil para a comunicação formal da ocorrência.",
+      "tags": [
+        "atendimento",
+        "boletim",
+        "original"
+      ]
+    },
+    {
+      "id": "atendimento-elab-036",
+      "subtema": "Boletim de ocorrência",
+      "artigo": "Res. SSP-57/15 — Aproveitamento pela Polícia Civil",
+      "enunciado": "Recebida a cópia do boletim de ocorrência policial-militar, a unidade policial civil deverá",
+      "alternativas": [
+        "aguardar o comparecimento espontâneo da vítima antes de qualquer providência",
+        "restituir o documento à Polícia Militar para complementação dos dados das partes",
+        "lavrar o boletim de ocorrência da Polícia Civil com base nos dados recebidos",
+        "arquivar o documento, salvo se houver representação formal do ofendido"
+      ],
+      "correta": 2,
+      "explicacao": "A resolução determina o aproveitamento dos dados do BO/PM para a lavratura do BO/PC, evitando duplicidade de esforços e a rerratificação de informações já colhidas no local pela unidade de serviço.",
+      "tags": [
+        "atendimento",
+        "boletim",
+        "policia-civil"
+      ]
+    },
+    {
+      "id": "atendimento-elab-037",
+      "subtema": "Delegacia Eletrônica",
+      "artigo": "NI PM3-001/02/15 — Orientação às partes",
+      "enunciado": "Nas ocorrências em que couber registro pela Delegacia Eletrônica, a unidade de serviço deverá",
+      "alternativas": [
+        "dispensar a elaboração do boletim de ocorrência policial-militar correspondente",
+        "efetuar ela própria o registro eletrônico em nome da vítima, entregando-lhe o protocolo",
+        "orientar a parte sobre essa possibilidade, sem prejuízo do registro no boletim próprio",
+        "conduzir a parte ao distrito policial, por ser vedado o registro eletrônico de crimes"
+      ],
+      "correta": 2,
+      "explicacao": "A orientação sobre o registro eletrônico é providência de atendimento à parte e não afasta o dever de elaborar o BO/PM nem de transmitir os dados ao centro de operações para retransmissão à Polícia Civil.",
+      "tags": [
+        "atendimento",
+        "delegacia-eletronica",
+        "orientacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-038",
+      "subtema": "Registro e estatística",
+      "artigo": "NI PM3-001/02/15 — Dados",
+      "enunciado": "A transmissão dos dados da ocorrência ao COPOM ou CAD, mesmo quando a US retorna imediatamente ao policiamento, justifica-se porque",
+      "alternativas": [
+        "dispensa a orientação da vítima quanto ao registro na unidade policial civil",
+        "substitui integralmente o envio posterior de cópia do boletim ao distrito policial",
+        "assegura o repasse à Polícia Civil e a alimentação dos registros de interesse criminal",
+        "transfere ao centro de operações a responsabilidade pela elaboração do boletim"
+      ],
+      "correta": 2,
+      "explicacao": "A transmissão viabiliza a comunicação prévia à Polícia Civil e alimenta os registros de interesse criminal, sem substituir a comunicação formal por cópia do boletim até o primeiro dia útil subsequente.",
+      "tags": [
+        "atendimento",
+        "registro",
+        "dados"
+      ]
+    },
+    {
+      "id": "atendimento-elab-039",
+      "subtema": "Termo circunstanciado",
+      "artigo": "Res. SSP-57/15 — Apresentação",
+      "enunciado": "Nas infrações de menor potencial ofensivo que ensejem termo circunstanciado, a atuação da unidade de serviço",
+      "alternativas": [
+        "depende de prévia autorização do delegado de polícia transmitida pelo centro",
+        "limita-se à comunicação formal por cópia do boletim até o primeiro dia útil",
+        "restringe-se à orientação das partes para registro pela Delegacia Eletrônica",
+        "exige apresentação pessoal, com atendimento preferencial na unidade policial civil"
+      ],
+      "correta": 3,
+      "explicacao": "O termo circunstanciado é uma das três hipóteses de atendimento preferencial, ao lado do auto de prisão em flagrante e do auto de apreensão de adolescente infrator, o que pressupõe a apresentação pessoal da ocorrência.",
+      "tags": [
+        "atendimento",
+        "termo-circunstanciado",
+        "apresentacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-040",
+      "subtema": "Adolescente infrator",
+      "artigo": "Res. SSP-57/15 — Apreensão",
+      "enunciado": "Na apreensão de adolescente em conflito com a lei, a unidade de serviço deverá",
+      "alternativas": [
+        "apresentar a ocorrência pessoalmente, com atendimento preferencial na unidade",
+        "lavrar termo circunstanciado e liberar o adolescente aos responsáveis no local",
+        "comunicar formalmente o fato por cópia do boletim até o primeiro dia útil",
+        "aguardar no local a chegada do conselho tutelar antes de qualquer condução"
+      ],
+      "correta": 0,
+      "explicacao": "O auto de apreensão de adolescente infrator integra as hipóteses de atendimento preferencial, demandando apresentação pessoal da ocorrência na unidade policial civil competente.",
+      "tags": [
+        "atendimento",
+        "adolescente",
+        "apresentacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-041",
+      "subtema": "Objetos e perícias",
+      "artigo": "NI PM3-001/02/15 — Vedação",
+      "enunciado": "Quanto ao material objeto de perícia, é correto afirmar que à unidade de serviço",
+      "alternativas": [
+        "é permitido recolhê-lo apenas quando houver risco de extravio no local dos fatos",
+        "cabe recolhê-lo e entregá-lo diretamente ao instituto de criminalística competente",
+        "cabe recebê-lo do perito e transportá-lo à unidade policial civil da circunscrição",
+        "é vedado recolhê-lo ou recebê-lo, ainda que coletado e lacrado por perito habilitado"
+      ],
+      "correta": 3,
+      "explicacao": "A norma veda à US recolher ou receber material objeto de perícia, mesmo quando já coletado e lacrado por perito, preservando-se a cadeia de custódia e a atribuição dos órgãos periciais.",
+      "tags": [
+        "atendimento",
+        "pericia",
+        "vedacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-042",
+      "subtema": "Objetos e perícias",
+      "artigo": "NI PM3-001/02/15 — Apreensão de objetos",
+      "enunciado": "Havendo objetos a apreender relacionados à infração penal atendida, a consequência quanto à forma de comunicação é que",
+      "alternativas": [
+        "basta a comunicação formal por cópia do boletim até o primeiro dia útil seguinte",
+        "torna-se exigível a apresentação pessoal da ocorrência na unidade policial civil",
+        "é suficiente a comunicação prévia por mensagem ao centro de operações da Civil",
+        "dispensa-se qualquer comunicação, cabendo à parte registrar a ocorrência depois"
+      ],
+      "correta": 1,
+      "explicacao": "A apreensão de objetos figura entre as hipóteses que exigem apresentação pessoal, pois demanda entrega formal à autoridade policial civil e providências de polícia judiciária.",
+      "tags": [
+        "atendimento",
+        "objetos",
+        "apresentacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-043",
+      "subtema": "Centro de operações",
+      "artigo": "NI PM3-001/02/15 — COPOM e CAD",
+      "enunciado": "No fluxo estabelecido pela sistemática, compete ao COPOM ou CAD",
+      "alternativas": [
+        "decidir sobre a necessidade de apresentação pessoal da ocorrência ao delegado",
+        "elaborar o boletim de ocorrência policial-militar relativo aos fatos atendidos",
+        "retransmitir à Polícia Civil os dados transmitidos pela unidade de serviço",
+        "encaminhar ao distrito policial a cópia do boletim até o primeiro dia útil"
+      ],
+      "correta": 2,
+      "explicacao": "Ao centro de operações cabe receber os dados da US e retransmiti-los ao centro de operações da Polícia Civil, registrando nome e função de quem tomou ciência; o boletim é da US e o envio de cópia cabe à unidade policial-militar.",
+      "tags": [
+        "atendimento",
+        "copom",
+        "atribuicoes"
+      ]
+    },
+    {
+      "id": "atendimento-elab-044",
+      "subtema": "Retorno ao policiamento",
+      "artigo": "NI PM3-001/02/15 — Finalidade",
+      "enunciado": "A previsão de que a unidade de serviço retorne imediatamente às atividades de polícia ostensivo-preventiva após o registro no local decorre",
+      "alternativas": [
+        "da competência exclusiva da Polícia Civil para o atendimento de ocorrências criminais",
+        "da vedação legal de permanência de policiais militares em unidades policiais civis",
+        "da busca por maior disponibilidade operacional e menor tempo de indisponibilidade",
+        "da necessidade de aguardar a validação do boletim pelo Comandante de Companhia"
+      ],
+      "correta": 2,
+      "explicacao": "A sistemática visa reduzir o tempo em que a guarnição permanece indisponível, ampliando a capacidade de resposta e a presença ostensiva, sem prejuízo das comunicações devidas à Polícia Civil.",
+      "tags": [
+        "atendimento",
+        "retorno",
+        "disponibilidade"
+      ]
+    },
+    {
+      "id": "atendimento-elab-045",
+      "subtema": "Atendimento preferencial",
+      "artigo": "Res. SSP-57/15 — Prioridades legais",
+      "enunciado": "O atendimento preferencial aos policiais em serviço nas unidades policiais civis deve observar",
+      "alternativas": [
+        "as prioridades já estabelecidas na Constituição e na legislação ordinária",
+        "a ordem cronológica de chegada, sem qualquer distinção entre os presentes",
+        "a exclusiva conveniência do delegado de polícia responsável pelo plantão",
+        "a precedência hierárquica entre os policiais que apresentam as ocorrências"
+      ],
+      "correta": 0,
+      "explicacao": "A preferência conferida aos policiais em serviço não afasta as prioridades legais já asseguradas a idosos, pessoas com deficiência e demais hipóteses previstas na Constituição e na legislação.",
+      "tags": [
+        "atendimento",
+        "preferencial",
+        "prioridades"
+      ]
+    },
+    {
+      "id": "atendimento-elab-046",
+      "subtema": "Peças complementares",
+      "artigo": "Res. SSP-57/15 — Lavratura prévia",
+      "enunciado": "A determinação para que sejam lavradas previamente as peças que dependam das assinaturas dos policiais tem por finalidade",
+      "alternativas": [
+        "permitir que a guarnição se retire antes da apresentação formal do preso",
+        "transferir à Polícia Militar a responsabilidade pela formalização do auto de prisão",
+        "dispensar a oitiva dos policiais militares condutores da ocorrência apresentada",
+        "abreviar a permanência da guarnição na unidade policial civil após as oitivas"
+      ],
+      "correta": 3,
+      "explicacao": "A antecipação da lavratura das peças complementares permite que, colhidas as assinaturas e realizadas as oitivas, a guarnição seja liberada com a entrega do recibo de preso, retornando prontamente ao policiamento.",
+      "tags": [
+        "atendimento",
+        "flagrante",
+        "pecas"
+      ]
+    },
+    {
+      "id": "atendimento-elab-047",
+      "subtema": "Recibo de preso",
+      "artigo": "Res. SSP-57/15 — Entrega",
+      "enunciado": "A entrega do recibo de preso à guarnição que apresentou a ocorrência",
+      "alternativas": [
+        "condiciona-se à conclusão integral do auto de prisão em flagrante delito",
+        "documenta a transferência da custódia e viabiliza a liberação da equipe",
+        "é providência dispensável quando o preso for apresentado por qualquer do povo",
+        "substitui o boletim de ocorrência policial-militar relativo ao fato atendido"
+      ],
+      "correta": 1,
+      "explicacao": "O recibo comprova a entrega do preso à autoridade policial civil, transferindo a custódia e permitindo a pronta liberação da guarnição, sem substituir o registro próprio da ocorrência.",
+      "tags": [
+        "atendimento",
+        "flagrante",
+        "recibo"
+      ]
+    },
+    {
+      "id": "atendimento-elab-048",
+      "subtema": "Comunicação à Polícia Civil",
+      "artigo": "NI PM3-001/02/15 — Interior",
+      "enunciado": "Fora da região metropolitana, a comunicação prévia entre os centros de operações observa",
+      "alternativas": [
+        "o fluxo obrigatório pelo COPOM da capital, que centraliza todas as transmissões",
+        "o ajuste entre os comandos de policiamento e os dirigentes policiais civis",
+        "a comunicação direta da guarnição ao delegado seccional, dispensado o centro",
+        "o encaminhamento exclusivamente por meio eletrônico, vedada a via radiofônica"
+      ],
+      "correta": 1,
+      "explicacao": "Nas demais regiões do Estado a comunicação prévia observa ajuste entre os Comandantes de CPI ou CPA e os respectivos dirigentes da Polícia Civil, adequando o fluxo às realidades locais.",
+      "tags": [
+        "atendimento",
+        "comunicacao",
+        "interior"
+      ]
+    },
+    {
+      "id": "atendimento-elab-049",
+      "subtema": "Comunicação à Polícia Civil",
+      "artigo": "NI PM3-001/02/15 — Cumulatividade",
+      "enunciado": "Realizada a comunicação verbal ao delegado presente no local, a unidade de serviço",
+      "alternativas": [
+        "deve apresentar pessoalmente a ocorrência, independentemente de outras providências",
+        "fica dispensada do registro em boletim, por já haver ciência da autoridade policial",
+        "permanece obrigada a registrar os fatos em boletim e a encaminhar cópia ao distrito",
+        "transfere ao delegado a responsabilidade pela elaboração do registro policial-militar"
+      ],
+      "correta": 2,
+      "explicacao": "As espécies de comunicação não se excluem: a verbal é registrada no boletim, que deve ser elaborado e cujo exemplar segue ao distrito policial da circunscrição até o primeiro dia útil subsequente.",
+      "tags": [
+        "atendimento",
+        "comunicacao",
+        "cumulatividade"
+      ]
+    },
+    {
+      "id": "atendimento-elab-050",
+      "subtema": "Flagrante facultativo",
+      "artigo": "NI PM3-001/02/15 — Dados dos policiais",
+      "enunciado": "Na prisão efetuada por qualquer do povo, os dados dos policiais militares que prestaram apoio",
+      "alternativas": [
+        "constam do auto apenas para qualificação, sem necessidade de assinatura das peças",
+        "são omitidos do auto, por não terem participado da prisão em flagrante delito",
+        "constam do auto na condição de condutores, com assinatura obrigatória das peças",
+        "são lançados apenas no boletim de ocorrência policial-militar, nunca no auto"
+      ],
+      "correta": 0,
+      "explicacao": "O auto conterá os dados qualificativos dos policiais para identificação de quem prestou o apoio, mas não é necessária sua assinatura nas peças nem sua oitiva, salvo participação direta como testemunha presencial.",
+      "tags": [
+        "atendimento",
+        "flagrante-facultativo",
+        "qualificacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-051",
+      "subtema": "Ocorrências sem campo de atuação",
+      "artigo": "NI PM3-001/02/15 — Encerramento",
+      "enunciado": "Constatando a unidade de serviço, ao chegar ao local, que inexiste campo de atuação policial-militar,",
+      "alternativas": [
+        "encerra o atendimento apenas no sistema de despacho, sem qualquer registro formal",
+        "registra a constatação em boletim de ocorrência e cientifica o centro de operações",
+        "encaminha as partes presentes ao distrito policial para esclarecimento dos fatos",
+        "aguarda o comparecimento de autoridade policial civil para a liberação do local"
+      ],
+      "correta": 1,
+      "explicacao": "Mesmo sem campo de atuação, os fatos devem ser registrados em boletim de ocorrência policial-militar e comunicados ao centro de operações, não bastando a anotação no relatório de serviço.",
+      "tags": [
+        "atendimento",
+        "encerramento",
+        "registro"
+      ]
+    },
+    {
+      "id": "atendimento-elab-052",
+      "subtema": "Hospitais e prontos-socorros",
+      "artigo": "NI PM3-001/02/15 — Pessoa a ser presa",
+      "enunciado": "Acionada a unidade de serviço a estabelecimento de saúde, havendo pessoa a ser presa em flagrante,",
+      "alternativas": [
+        "aguarda-se a alta médica da vítima para somente então efetuar a prisão em flagrante",
+        "adota-se o procedimento próprio do flagrante, com apresentação pessoal da ocorrência",
+        "registra-se a ocorrência em boletim e retorna-se imediatamente ao policiamento",
+        "comunica-se o fato formalmente ao distrito policial até o primeiro dia útil seguinte"
+      ],
+      "correta": 1,
+      "explicacao": "A regra de simples registro e retorno ao policiamento pressupõe a inexistência de campo de atuação policial-militar e de pessoas a serem presas; havendo flagrante, segue-se o rito próprio, com apresentação pessoal.",
+      "tags": [
+        "atendimento",
+        "hospitais",
+        "flagrante"
+      ]
+    },
+    {
+      "id": "atendimento-elab-053",
+      "subtema": "Morte natural",
+      "artigo": "NI PM3-001/02/15 — Informações",
+      "enunciado": "Nas ocorrências de morte natural com constatação médica, entre os dados que a unidade de serviço deve colher e transmitir estão",
+      "alternativas": [
+        "a qualificação do profissional de saúde que constatou o óbito e as circunstâncias do fato",
+        "o resultado do exame necroscópico realizado pelo instituto médico-legal competente",
+        "a relação de bens deixados pelo falecido e a qualificação dos herdeiros presentes",
+        "o laudo pericial de local elaborado pelo perito criminal designado para o caso"
+      ],
+      "correta": 0,
+      "explicacao": "A US colhe informações sobre a ocorrência e sobre o profissional habilitado presente, transmitindo-as ao centro de operações para retransmissão à Polícia Civil, e registra tudo no boletim de ocorrência.",
+      "tags": [
+        "atendimento",
+        "morte-natural",
+        "informacoes"
+      ]
+    },
+    {
+      "id": "atendimento-elab-054",
+      "subtema": "Localização de veículo",
+      "artigo": "NI PM3-001/02/15 — Registro pelo proprietário",
+      "enunciado": "Na localização de veículo com comparecimento do proprietário, o registro na unidade policial civil",
+      "alternativas": [
+        "é realizado pela unidade de serviço, que apresenta pessoalmente a ocorrência",
+        "fica a cargo do próprio proprietário, acompanhado pela unidade de serviço até o local",
+        "é dispensado, bastando o boletim de ocorrência policial-militar elaborado no local",
+        "compete ao centro de operações, mediante transmissão direta ao sistema da Civil"
+      ],
+      "correta": 1,
+      "explicacao": "Entregue a NOc e acompanhado o proprietário até a unidade policial civil, o registro de polícia judiciária fica a cargo dele; a US elabora seu boletim e retorna às atividades de polícia ostensivo-preventiva.",
+      "tags": [
+        "atendimento",
+        "veiculo",
+        "registro"
+      ]
+    },
+    {
+      "id": "atendimento-elab-055",
+      "subtema": "Vedações",
+      "artigo": "Res. SSP-21/78 — Urgência",
+      "enunciado": "A exceção que autoriza o emprego de recursos da Polícia Militar em providências complementares de polícia judiciária configura-se",
+      "alternativas": [
+        "na conveniência da guarnição, que pode optar por prestar o apoio requisitado",
+        "na simples solicitação do delegado de polícia formulada durante o plantão",
+        "na inexistência de viatura disponível na unidade policial civil da circunscrição",
+        "na comprovada urgência e na impossibilidade de atender de outra forma o caso"
+      ],
+      "correta": 3,
+      "explicacao": "A Resolução SSP-21/78 veda o uso de recursos da PM nessas providências, excetuando apenas os casos de comprovada urgência e de impossibilidade de atendimento por outra forma de necessidade relevante ao serviço policial.",
+      "tags": [
+        "atendimento",
+        "limites",
+        "urgencia"
+      ]
+    },
+    {
+      "id": "atendimento-elab-056",
+      "subtema": "Acidente de trânsito com vítima",
+      "artigo": "NI PM3-001/02/15 — Apresentação pessoal",
+      "enunciado": "Nos acidentes de trânsito com vítima, a apresentação pessoal da ocorrência é exigida quando houver indício de",
+      "alternativas": [
+        "danos materiais de grande monta em ambos os veículos envolvidos no evento",
+        "embriaguez do condutor, racha ou velocidade cinquenta quilômetros acima do limite",
+        "recusa do condutor em apresentar documento de habilitação à guarnição",
+        "ausência de seguro obrigatório em qualquer dos veículos envolvidos no acidente"
+      ],
+      "correta": 1,
+      "explicacao": "A norma elege três situações que impõem a apresentação pessoal nos acidentes com vítima: embriaguez, racha e velocidade superior em mais de cinquenta quilômetros por hora ao limite da via, hipóteses em que a conduta extrapola a culpa simples.",
+      "tags": [
+        "atendimento",
+        "transito",
+        "apresentacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-057",
+      "subtema": "Acidente de trânsito com vítima",
+      "artigo": "NI PM3-001/02/15 — Regra geral",
+      "enunciado": "Ausentes as hipóteses que exigem apresentação pessoal, o acidente de trânsito com vítima atendido pela unidade de serviço enseja",
+      "alternativas": [
+        "elaboração do boletim no local, socorro à vítima e comunicação formal à Polícia Civil",
+        "condução obrigatória dos condutores envolvidos ao distrito policial da circunscrição",
+        "lavratura de termo circunstanciado pela própria guarnição no local dos fatos",
+        "aguardo da perícia técnica de local em todos os casos de lesão corporal culposa"
+      ],
+      "correta": 0,
+      "explicacao": "Fora das hipóteses de embriaguez, racha e excesso qualificado de velocidade, basta o socorro à vítima, o registro em boletim no local e a comunicação formal por cópia ao distrito policial até o primeiro dia útil subsequente.",
+      "tags": [
+        "atendimento",
+        "transito",
+        "regra-geral"
+      ]
+    },
+    {
+      "id": "atendimento-elab-058",
+      "subtema": "Acidente de trânsito com vítima fatal",
+      "artigo": "Res. SSP-382/99 — Preservação",
+      "enunciado": "Havendo vítima fatal em acidente de trânsito, a unidade de serviço deve",
+      "alternativas": [
+        "recolher os vestígios existentes na pista e entregá-los ao instituto de criminalística",
+        "liberar a via imediatamente após a remoção do corpo pelo serviço de resgate",
+        "conduzir os condutores envolvidos ao distrito policial antes de qualquer perícia",
+        "preservar o local para a perícia, acionando a Polícia Civil pelo centro"
+      ],
+      "correta": 3,
+      "explicacao": "A vítima fatal impõe a preservação do local nos termos da Resolução SSP-382/99, para viabilizar os trabalhos periciais, sendo vedado à unidade de serviço recolher ou receber material objeto de perícia.",
+      "tags": [
+        "atendimento",
+        "transito",
+        "vitima-fatal"
+      ]
+    },
+    {
+      "id": "atendimento-elab-059",
+      "subtema": "Preservação de local",
+      "artigo": "Res. SSP-382/99 — Isolamento",
+      "enunciado": "A preservação do local de crime pela unidade de serviço consiste, essencialmente, em",
+      "alternativas": [
+        "fotografar a cena e encaminhar as imagens ao instituto de criminalística competente",
+        "arrolar os vestígios encontrados e acondicioná-los para entrega à autoridade policial",
+        "isolar a área e impedir a alteração do estado das coisas até a chegada da perícia",
+        "colher os depoimentos das testemunhas presentes e reduzi-los a termo no local"
+      ],
+      "correta": 2,
+      "explicacao": "Cabe à unidade de serviço isolar e preservar o local, impedindo a alteração do estado das coisas até a chegada dos peritos e da autoridade policial, sem manipular vestígios nem colher depoimentos formais.",
+      "tags": [
+        "atendimento",
+        "preservacao",
+        "isolamento"
+      ]
+    },
+    {
+      "id": "atendimento-elab-060",
+      "subtema": "Preservação de local",
+      "artigo": "Res. SSP-382/99 — Cadáver",
+      "enunciado": "Encontrando-se cadáver no local preservado, a unidade de serviço deve considerar que",
+      "alternativas": [
+        "o corpo aguarda no local a remoção pelo IML, após os trabalhos periciais",
+        "o corpo deve ser removido ao pronto-socorro mais próximo para constatação do óbito",
+        "cabe à guarnição acionar serviço funerário particular indicado pelos familiares",
+        "o corpo pode ser removido assim que a vítima for identificada pelos presentes"
+      ],
+      "correta": 0,
+      "explicacao": "O cadáver permanece no local aguardando a atuação pericial e a remoção pelo IML; a remoção prévia comprometeria a materialidade e a apuração dos fatos.",
+      "tags": [
+        "atendimento",
+        "preservacao",
+        "cadaver"
+      ]
+    },
+    {
+      "id": "atendimento-elab-061",
+      "subtema": "Preservação de local",
+      "artigo": "NI PM3-001/02/15 — Vedação ao recolhimento",
+      "enunciado": "No local preservado, quanto aos objetos relacionados ao crime, a guarnição deve",
+      "alternativas": [
+        "entregá-los à vítima ou a seus familiares mediante recibo lançado no boletim",
+        "recolhê-los e aguardar a chegada do delegado para a entrega formal dos itens",
+        "identificá-los com marcadores e removê-los para local seguro no interior da viatura",
+        "mantê-los na posição em que se encontram, cabendo a coleta aos peritos designados"
+      ],
+      "correta": 3,
+      "explicacao": "É vedado à unidade de serviço recolher ou receber material objeto de perícia, ainda que já coletado e lacrado por perito; a integridade da cena e da cadeia de custódia depende da atuação exclusiva dos órgãos periciais.",
+      "tags": [
+        "atendimento",
+        "preservacao",
+        "objetos"
+      ]
+    },
+    {
+      "id": "atendimento-elab-062",
+      "subtema": "Ocorrências ambientais",
+      "artigo": "NI PM3-001/02/15 — Acionamento",
+      "enunciado": "Nas ocorrências de natureza ambiental, a regra estabelecida é a de que o centro de operações",
+      "alternativas": [
+        "oriente o solicitante a procurar a delegacia especializada do meio ambiente",
+        "determine o atendimento pela unidade de área, vedado o acionamento da ambiental",
+        "encaminhe a comunicação diretamente ao órgão ambiental estadual licenciador",
+        "acione a unidade de policiamento ambiental da área para o atendimento especializado"
+      ],
+      "correta": 3,
+      "explicacao": "Como regra, o COPOM ou CAD aciona a OPM de policiamento ambiental responsável pela área, ressalvadas as situações de flagrante que exijam pronta intervenção da unidade de serviço mais próxima.",
+      "tags": [
+        "atendimento",
+        "ambiental",
+        "acionamento"
+      ]
+    },
+    {
+      "id": "atendimento-elab-063",
+      "subtema": "Ocorrências ambientais",
+      "artigo": "NI PM3-001/02/15 — Flagrante",
+      "enunciado": "Deparando-se a unidade de serviço territorial com flagrante de infração ambiental, a conduta correta é",
+      "alternativas": [
+        "orientar o autor a comparecer espontaneamente à unidade ambiental mais próxima",
+        "abster-se de agir e aguardar no local a chegada da unidade de policiamento ambiental",
+        "intervir de imediato, comunicando o fato para o acionamento da unidade ambiental",
+        "encaminhar o caso à Polícia Civil, por ausência de atribuição policial-militar"
+      ],
+      "correta": 2,
+      "explicacao": "A regra de acionamento da unidade ambiental não afasta o dever de agir em situação de flagrante, hipótese em que a US intervém e o fato é comunicado para o apoio ou a continuidade do atendimento pela unidade especializada.",
+      "tags": [
+        "atendimento",
+        "ambiental",
+        "flagrante"
+      ]
+    },
+    {
+      "id": "atendimento-elab-064",
+      "subtema": "Corpo de Bombeiros",
+      "artigo": "NI PM3-001/02/15 — Certidão de Sinistro",
+      "enunciado": "Nas ocorrências de sinistro atendidas pelo Corpo de Bombeiros, o documento próprio expedido para registro do evento é",
+      "alternativas": [
+        "o relatório de análise de irregularidades, encaminhado ao órgão municipal",
+        "o boletim de ocorrência policial-militar, lavrado pela unidade de serviço da área",
+        "o auto de constatação de incêndio, firmado pelo perito criminal designado",
+        "a Certidão de Sinistro, elaborada pela unidade do Corpo de Bombeiros empenhada"
+      ],
+      "correta": 3,
+      "explicacao": "Cabe à unidade do Corpo de Bombeiros expedir a Certidão de Sinistro relativa ao evento atendido, documento próprio da atividade de bombeiros, distinto do boletim de ocorrência policial-militar.",
+      "tags": [
+        "atendimento",
+        "bombeiros",
+        "certidao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-065",
+      "subtema": "Corpo de Bombeiros",
+      "artigo": "NI PM3-001/02/15 — Indício de crime",
+      "enunciado": "Verificando a unidade do Corpo de Bombeiros, durante o atendimento de sinistro, indícios de crime,",
+      "alternativas": [
+        "conclui-se o atendimento e expede-se a Certidão de Sinistro, sem outras medidas",
+        "adota-se a preservação do local e comunica-se o fato à Polícia Civil pelo centro",
+        "remove-se o material atingido para exame posterior na unidade de bombeiros",
+        "orienta-se o proprietário do imóvel a registrar a ocorrência na Polícia Civil"
+      ],
+      "correta": 1,
+      "explicacao": "Havendo indícios de crime, a preservação do local e a comunicação à Polícia Civil são providências necessárias, pois viabilizam a perícia e a apuração da autoria, não bastando a expedição da Certidão de Sinistro.",
+      "tags": [
+        "atendimento",
+        "bombeiros",
+        "crime"
+      ]
+    },
+    {
+      "id": "atendimento-elab-066",
+      "subtema": "Hospitais e prontos-socorros",
+      "artigo": "NI PM3-001/02/15 — Assinatura da vítima",
+      "enunciado": "Recebendo a vítima alta médica na presença da guarnição, o boletim de ocorrência deve conter",
+      "alternativas": [
+        "o termo de representação criminal firmado pela vítima perante a guarnição",
+        "a transcrição integral do prontuário médico fornecido pelo estabelecimento",
+        "a assinatura do médico responsável atestando a natureza das lesões constatadas",
+        "a versão dos fatos apresentada pela vítima, com sua assinatura no campo próprio"
+      ],
+      "correta": 3,
+      "explicacao": "Colhe-se a assinatura da vítima no campo destinado à versão dos fatos, com sua orientação quanto ao registro na unidade policial civil; a representação formal é ato a ser praticado perante a autoridade competente.",
+      "tags": [
+        "atendimento",
+        "hospitais",
+        "assinatura"
+      ]
+    },
+    {
+      "id": "atendimento-elab-067",
+      "subtema": "Morte natural",
+      "artigo": "NI PM3-001/02/15 — Dúvida sobre a causa",
+      "enunciado": "Na ocorrência inicialmente classificada como morte natural, surgindo dúvida sobre a causa do óbito, a unidade de serviço deve",
+      "alternativas": [
+        "preservar o local e comunicar o fato, afastando a solução de simples registro",
+        "concluir o atendimento com o registro em boletim, por já haver constatação médica",
+        "conduzir os familiares presentes ao distrito policial para prestar esclarecimentos",
+        "autorizar a remoção do corpo pelo serviço funerário indicado pela família"
+      ],
+      "correta": 0,
+      "explicacao": "A solução de registro e retorno ao policiamento pressupõe constatação por profissional habilitado e ausência de indícios de crime; havendo dúvida, impõe-se a preservação do local nos termos da Resolução SSP-382/99.",
+      "tags": [
+        "atendimento",
+        "morte-natural",
+        "duvida"
+      ]
+    },
+    {
+      "id": "atendimento-elab-068",
+      "subtema": "Localização de veículo",
+      "artigo": "Res. SSP-173/13 — Finalidade",
+      "enunciado": "A sistemática específica para a localização de veículos subtraídos tem por finalidade principal",
+      "alternativas": [
+        "dispensar o comparecimento do proprietário à unidade policial civil competente",
+        "transferir à Polícia Militar a atribuição de restituir o veículo ao proprietário",
+        "concentrar na Polícia Militar o registro de polícia judiciária sobre o fato",
+        "evitar a permanência prolongada da guarnição na guarda do veículo localizado"
+      ],
+      "correta": 3,
+      "explicacao": "A sistemática busca a rápida liberação da guarnição, atribuindo ao proprietário a responsabilidade pela remoção e pelo registro na Polícia Civil, sendo vedada a permanência de policiais para guarda do veículo.",
+      "tags": [
+        "atendimento",
+        "veiculo",
+        "finalidade"
+      ]
+    },
+    {
+      "id": "atendimento-elab-069",
+      "subtema": "Localização de veículo",
+      "artigo": "NI PM3-001/02/15 — Vínculo com crime grave",
+      "enunciado": "A adoção do procedimento simplificado na localização de veículo pressupõe",
+      "alternativas": [
+        "o comparecimento imediato do proprietário, independentemente de outros fatores",
+        "a prévia autorização do delegado de polícia titular da circunscrição da área",
+        "a inexistência de vínculo do veículo com crimes de maior gravidade ou outros indícios",
+        "a realização de perícia no local antes de qualquer contato com o proprietário"
+      ],
+      "correta": 2,
+      "explicacao": "Havendo vínculo com crimes graves ou indícios de outros delitos, como armas, entorpecentes ou manchas de sangue, o procedimento cede lugar à preservação do local e ao acionamento da Polícia Civil.",
+      "tags": [
+        "atendimento",
+        "veiculo",
+        "pressupostos"
+      ]
+    },
+    {
+      "id": "atendimento-elab-070",
+      "subtema": "RAIA",
+      "artigo": "NI PM3-001/02/15 — Emprego",
+      "enunciado": "O relatório de análise de irregularidades é empregado, na sistemática de atendimento, para",
+      "alternativas": [
+        "reportar situações irregulares constatadas, como veículo abandonado sem identificação",
+        "substituir o boletim de ocorrência nas ocorrências de mera transmissão de dados",
+        "formalizar a apreensão de objetos entregues à unidade policial civil competente",
+        "documentar a comunicação verbal realizada ao delegado presente no local"
+      ],
+      "correta": 0,
+      "explicacao": "O RAIA é instrumento de reporte de irregularidades aos órgãos responsáveis, empregado, por exemplo, no caso de veículo abandonado e sem identificação, sem substituir o registro da ocorrência em boletim.",
+      "tags": [
+        "atendimento",
+        "raia",
+        "emprego"
+      ]
+    },
+    {
+      "id": "atendimento-elab-071",
+      "subtema": "Fluxo de comunicação",
+      "artigo": "NI PM3-001/02/15 — Sequência",
+      "enunciado": "Considerando o fluxo previsto na sistemática, a sequência correta em ocorrência de mera transmissão de dados é",
+      "alternativas": [
+        "atendimento, transmissão ao centro, notificação, boletim e retorno ao policiamento",
+        "atendimento, condução da parte ao distrito, boletim e retorno ao policiamento",
+        "atendimento, aguardo da Polícia Civil no local, boletim e condução das partes",
+        "atendimento, boletim na sede da unidade, entrega da notificação e comunicação verbal"
+      ],
+      "correta": 0,
+      "explicacao": "A sistemática encadeia o atendimento, a transmissão dos dados ao COPOM ou CAD para retransmissão à Polícia Civil, a entrega da NOc com orientação à parte, a elaboração do boletim no local e o retorno imediato ao policiamento.",
+      "tags": [
+        "atendimento",
+        "fluxo",
+        "sequencia"
+      ]
+    },
+    {
+      "id": "atendimento-elab-072",
+      "subtema": "Acidente de trânsito",
+      "artigo": "NI PM3-001/02/15 — Embriaguez",
+      "enunciado": "Constatado indício de embriaguez do condutor em acidente de trânsito com vítima, a consequência procedimental é",
+      "alternativas": [
+        "o encaminhamento do condutor ao pronto-socorro para exame clínico obrigatório",
+        "a simples comunicação formal por cópia do boletim ao distrito da circunscrição",
+        "a lavratura de termo circunstanciado no local pela própria unidade de serviço",
+        "a apresentação pessoal da ocorrência, com o condutor, na unidade policial civil"
+      ],
+      "correta": 3,
+      "explicacao": "A embriaguez é uma das três hipóteses que impõem apresentação pessoal nos acidentes com vítima, pois exige providências imediatas de polícia judiciária, inclusive quanto à materialidade da conduta.",
+      "tags": [
+        "atendimento",
+        "transito",
+        "embriaguez"
+      ]
+    },
+    {
+      "id": "atendimento-elab-073",
+      "subtema": "Acidente de trânsito",
+      "artigo": "NI PM3-001/02/15 — Racha",
+      "enunciado": "A disputa de corrida não autorizada, quando resulta em acidente com vítima, determina",
+      "alternativas": [
+        "o registro simplificado em boletim, dada a natureza culposa do resultado lesivo",
+        "a apresentação pessoal da ocorrência, por exigir providências de polícia judiciária",
+        "a exclusiva atuação dos órgãos de trânsito, sem participação da Polícia Militar",
+        "a preservação do local apenas quando houver testemunhas presenciais do racha"
+      ],
+      "correta": 1,
+      "explicacao": "O racha integra o rol das situações que afastam o tratamento simplificado dos acidentes com vítima, impondo a apresentação pessoal da ocorrência à autoridade policial civil.",
+      "tags": [
+        "atendimento",
+        "transito",
+        "racha"
+      ]
+    },
+    {
+      "id": "atendimento-elab-074",
+      "subtema": "Acidente de trânsito",
+      "artigo": "NI PM3-001/02/15 — Excesso de velocidade",
+      "enunciado": "O excesso de velocidade que, por si só, impõe a apresentação pessoal nos acidentes com vítima é aquele",
+      "alternativas": [
+        "superior em vinte por cento ao limite máximo de velocidade fixado para a via",
+        "superior em cinquenta quilômetros por hora ao limite máximo estabelecido para a via",
+        "que ultrapasse cem quilômetros por hora em qualquer via urbana do município",
+        "constatado por radar móvel operado por agente de trânsito no local dos fatos"
+      ],
+      "correta": 1,
+      "explicacao": "A norma fixa como parâmetro objetivo a velocidade superior em cinquenta quilômetros por hora ao limite máximo da via, critério que revela a intensidade da conduta e demanda pronta atuação de polícia judiciária.",
+      "tags": [
+        "atendimento",
+        "transito",
+        "velocidade"
+      ]
+    },
+    {
+      "id": "atendimento-elab-075",
+      "subtema": "Preservação de local",
+      "artigo": "Res. SSP-382/99 — Acionamento",
+      "enunciado": "Adotada a preservação do local pela unidade de serviço, o acionamento da Polícia Civil e da perícia ocorre",
+      "alternativas": [
+        "por contato direto do encarregado da guarnição com o instituto de criminalística",
+        "por meio do centro de operações, que registra a ciência do órgão acionado",
+        "pelo comparecimento de emissário da unidade ao distrito policial da área",
+        "por solicitação da vítima ou de seus familiares à autoridade policial competente"
+      ],
+      "correta": 1,
+      "explicacao": "O acionamento segue o fluxo institucional pelo COPOM ou CAD, que transmite a ocorrência aos órgãos competentes e registra nome e função de quem tomou ciência, documentando a comunicação.",
+      "tags": [
+        "atendimento",
+        "preservacao",
+        "acionamento"
+      ]
+    },
+    {
+      "id": "atendimento-elab-076",
+      "subtema": "Ocorrências ambientais",
+      "artigo": "NI PM3-001/02/15 — Registro",
+      "enunciado": "Atendida ocorrência ambiental pela unidade de policiamento especializada, o registro dos fatos",
+      "alternativas": [
+        "é dispensado quando o infrator se comprometer a reparar o dano constatado",
+        "restringe-se ao boletim de ocorrência policial-militar da unidade de área",
+        "compete exclusivamente ao órgão ambiental estadual acionado pelo centro",
+        "observa os documentos próprios da atividade ambiental, além do boletim cabível"
+      ],
+      "correta": 3,
+      "explicacao": "A atividade de policiamento ambiental possui documentos próprios de constatação e autuação, que se somam ao registro da ocorrência, não havendo dispensa de registro por compromisso de reparação do dano.",
+      "tags": [
+        "atendimento",
+        "ambiental",
+        "registro"
+      ]
+    },
+    {
+      "id": "atendimento-elab-077",
+      "subtema": "Integração operacional",
+      "artigo": "Res. SSP-57/15 — Fundamento",
+      "enunciado": "O fundamento da integração entre as polícias estabelecida na resolução reside em",
+      "alternativas": [
+        "atribuir à Polícia Civil a elaboração dos registros das ocorrências policiais-militares",
+        "concentrar na Polícia Militar os atos iniciais de investigação criminal preliminar",
+        "evitar duplicidade de procedimentos e reduzir o tempo de indisponibilidade operacional",
+        "uniformizar os sistemas informatizados de ambas as instituições em plataforma única"
+      ],
+      "correta": 2,
+      "explicacao": "A integração visa eliminar a duplicidade de esforços, com aproveitamento dos dados já colhidos no local pela PM, reduzindo o tempo de atendimento e a indisponibilidade das guarnições.",
+      "tags": [
+        "atendimento",
+        "integracao",
+        "fundamento"
+      ]
+    },
+    {
+      "id": "atendimento-elab-078",
+      "subtema": "Hospitais e prontos-socorros",
+      "artigo": "NI PM3-001/02/15 — Pressupostos",
+      "enunciado": "A providência de registrar e retornar ao policiamento, nas ocorrências em hospitais, pressupõe cumulativamente",
+      "alternativas": [
+        "autorização expressa do delegado de polícia transmitida pelo centro de operações",
+        "ausência de testemunhas presenciais e recusa da vítima em prestar informações",
+        "alta médica já concedida e presença de familiares responsáveis pela vítima",
+        "ausência de campo de atuação policial-militar e inexistência de pessoa a ser presa"
+      ],
+      "correta": 3,
+      "explicacao": "Os dois pressupostos são a inexistência de campo de atuação policial-militar e a ausência de pessoas a serem presas; presentes, a US registra, transmite os dados e retorna às atividades rotineiras.",
+      "tags": [
+        "atendimento",
+        "hospitais",
+        "pressupostos"
+      ]
+    },
+    {
+      "id": "atendimento-elab-079",
+      "subtema": "Comunicação formal",
+      "artigo": "NI PM3-001/02/15 — Destinatário",
+      "enunciado": "A cópia do boletim relativa à comunicação formal deve ser encaminhada",
+      "alternativas": [
+        "ao centro de operações da Polícia Civil responsável pela região metropolitana",
+        "à delegacia seccional de polícia a que se vincula a área de atendimento",
+        "ao distrito policial da circunscrição onde ocorreram os fatos atendidos",
+        "ao juizado especial criminal competente para as infrações de menor potencial"
+      ],
+      "correta": 2,
+      "explicacao": "O destinatário da comunicação formal é a unidade policial civil da circunscrição dos fatos, a quem compete lavrar o registro de polícia judiciária com base nos dados do boletim policial-militar.",
+      "tags": [
+        "atendimento",
+        "comunicacao",
+        "destinatario"
+      ]
+    },
+    {
+      "id": "atendimento-elab-080",
+      "subtema": "Preservação de local",
+      "artigo": "Res. SSP-382/99 — Perímetro",
+      "enunciado": "Ao delimitar o perímetro de preservação do local de crime, a guarnição deve considerar",
+      "alternativas": [
+        "estritamente o ponto em que se encontra o corpo ou o objeto principal do crime",
+        "a área em que possam existir vestígios relacionados ao fato, ainda que fora do núcleo",
+        "a via pública adjacente, para viabilizar o fluxo de veículos durante os trabalhos",
+        "o limite indicado pelas testemunhas presentes quanto à dinâmica dos fatos"
+      ],
+      "correta": 1,
+      "explicacao": "A preservação deve abranger toda a área em que possam ser encontrados vestígios úteis à perícia, e não apenas o núcleo do evento, sob pena de perda de elementos essenciais à apuração.",
+      "tags": [
+        "atendimento",
+        "preservacao",
+        "perimetro"
+      ]
+    },
+    {
+      "id": "atendimento-elab-081",
+      "subtema": "Vítima em estabelecimento de saúde",
+      "artigo": "NI PM3-001/02/15 — Ação penal",
+      "enunciado": "A orientação à vítima sobre a obrigatoriedade de registro na unidade policial civil justifica-se especialmente quando",
+      "alternativas": [
+        "o autor do fato for desconhecido e não houver providências de polícia judiciária",
+        "a vítima manifestar interesse em compor amigavelmente com o autor dos fatos",
+        "o crime se apura mediante ação penal pública incondicionada à representação",
+        "houver dano patrimonial de pequeno valor sem violência ou grave ameaça"
+      ],
+      "correta": 2,
+      "explicacao": "Nos crimes de ação penal pública incondicionada o registro não depende de representação; quando couber representação, a orientação é sobre a conveniência do registro, dada a disponibilidade conferida à vítima.",
+      "tags": [
+        "atendimento",
+        "hospitais",
+        "acao-penal"
+      ]
+    },
+    {
+      "id": "atendimento-elab-082",
+      "subtema": "Violência doméstica",
+      "artigo": "Portaria Cmt G PM3-01/02/17 e Res. SSP-02/17",
+      "enunciado": "A Portaria do Comandante Geral PM3-01/02/17, em conjunto com a Res. SSP-02/17, instituiu",
+      "alternativas": [
+        "o boletim de ocorrência eletrônico para os casos de violência doméstica e familiar",
+        "protocolo único de atendimento nas ocorrências de violência doméstica contra a mulher",
+        "as delegacias de defesa da mulher com atendimento ininterrupto em todo o Estado",
+        "o cadastro estadual de medidas protetivas de urgência deferidas pelo Poder Judiciário"
+      ],
+      "correta": 1,
+      "explicacao": "Os dois atos estabeleceram protocolo único de atendimento nas ocorrências de violência doméstica e familiar contra a mulher, padronizando as posturas das unidades de serviço da Polícia Militar e da Polícia Civil.",
+      "tags": [
+        "atendimento",
+        "violencia-domestica",
+        "protocolo"
+      ]
+    },
+    {
+      "id": "atendimento-elab-083",
+      "subtema": "Violência doméstica",
+      "artigo": "Portaria Cmt G PM3-01/02/17 — Procedimentos",
+      "enunciado": "A unidade de serviço que atenda ocorrência de violência doméstica e familiar contra a mulher deve, entre outras providências,",
+      "alternativas": [
+        "encaminhar a vítima ao serviço de acolhimento antes de qualquer registro formal",
+        "notificar o agressor para comparecer espontaneamente à delegacia especializada",
+        "colher termo de representação da vítima e encaminhá-lo ao juízo competente",
+        "verificar, quando possível, se há medida protetiva em vigor em face do agressor"
+      ],
+      "correta": 3,
+      "explicacao": "O protocolo determina que a US preserve o local de crime, verifique, quando possível, a existência de medida protetiva em face do agressor, informe essa circunstância ao delegado na comunicação da ocorrência, lavre o BO/PM e adote as demais medidas que o caso exigir.",
+      "tags": [
+        "atendimento",
+        "violencia-domestica",
+        "procedimentos"
+      ]
+    },
+    {
+      "id": "atendimento-elab-084",
+      "subtema": "Violência doméstica",
+      "artigo": "Portaria Cmt G PM3-01/02/17 — Comunicação",
+      "enunciado": "Constatada a existência de medida protetiva em face do agressor, a unidade de serviço deverá",
+      "alternativas": [
+        "conduzir a vítima ao abrigo institucional antes de qualquer comunicação à Polícia Civil",
+        "comunicar diretamente ao juízo que deferiu a medida protetiva de urgência descumprida",
+        "informar essa circunstância ao delegado quando da comunicação da ocorrência e lavrar o boletim",
+        "abster-se de registrar o fato, por competir ao Poder Judiciário a fiscalização da medida"
+      ],
+      "correta": 2,
+      "explicacao": "A informação sobre a existência da medida protetiva integra a comunicação da ocorrência ao delegado de polícia e deve constar do boletim de ocorrência policial-militar, subsidiando as providências de polícia judiciária.",
+      "tags": [
+        "atendimento",
+        "violencia-domestica",
+        "comunicacao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-085",
+      "subtema": "Descumprimento de medida protetiva",
+      "artigo": "Lei 13.641/18 — Inovação legislativa",
+      "enunciado": "A Resolução SSP-02/17 e a Portaria Cmt G PM3-01/02/17 são de 2017; posteriormente, a Lei nº 13.641/18",
+      "alternativas": [
+        "instituiu o crime de descumprimento de medidas protetivas de urgência",
+        "revogou o protocolo único de atendimento às ocorrências de violência doméstica e familiar",
+        "transferiu à Polícia Militar a atribuição de fiscalizar as medidas protetivas deferidas",
+        "dispensou o registro em boletim nas ocorrências em que houvesse medida protetiva vigente"
+      ],
+      "correta": 0,
+      "explicacao": "A Lei nº 13.641/18 criou o tipo penal de descumprimento de medidas protetivas de urgência; sendo caso de flagrante, impõe-se a apresentação pessoal da ocorrência nos termos da Res. SSP-57/15.",
+      "tags": [
+        "atendimento",
+        "violencia-domestica",
+        "lei-13641"
+      ]
+    },
+    {
+      "id": "atendimento-elab-086",
+      "subtema": "Descumprimento de medida protetiva",
+      "artigo": "Lei Maria da Penha — Art. 24-A",
+      "enunciado": "Na Lei Maria da Penha, a pena cominada ao crime de descumprimento de decisão judicial que defere medidas protetivas de urgência é de",
+      "alternativas": [
+        "detenção, de seis meses a três anos, e multa",
+        "detenção, de três meses a dois anos, e multa",
+        "reclusão, de um a quatro anos, sem previsão de multa",
+        "reclusão, de dois a cinco anos, e multa"
+      ],
+      "correta": 3,
+      "explicacao": "O art. 24-A da Lei Maria da Penha comina reclusão, de dois a cinco anos, e multa, ao descumprimento de decisão judicial que defere medidas protetivas de urgência previstas naquela lei.",
+      "tags": [
+        "atendimento",
+        "violencia-domestica",
+        "art-24a"
+      ]
+    },
+    {
+      "id": "atendimento-elab-087",
+      "subtema": "Descumprimento de medida protetiva",
+      "artigo": "Lei Henry Borel — Art. 25",
+      "enunciado": "O descumprimento de decisão judicial que defere medida protetiva de urgência em favor de criança ou adolescente é punido com",
+      "alternativas": [
+        "detenção, de um a quatro anos, e multa",
+        "reclusão, de dois a cinco anos, e multa",
+        "detenção, de três meses a dois anos",
+        "reclusão, de quatro a dez anos, e multa"
+      ],
+      "correta": 2,
+      "explicacao": "O art. 25 da Lei Henry Borel comina detenção, de três meses a dois anos; a distinção quanto à pena do art. 24-A da Lei Maria da Penha é pegadinha frequente, pois os parágrafos dos dois dispositivos são de teor idêntico.",
+      "tags": [
+        "atendimento",
+        "violencia-domestica",
+        "henry-borel"
+      ]
+    },
+    {
+      "id": "atendimento-elab-088",
+      "subtema": "Descumprimento de medida protetiva",
+      "artigo": "Lei Maria da Penha — Art. 24-A, § 1º",
+      "enunciado": "Quanto à configuração do crime de descumprimento de medidas protetivas de urgência, é correto afirmar que",
+      "alternativas": [
+        "depende de prévia intimação do agressor realizada por oficial de justiça no endereço",
+        "exige que as medidas tenham sido deferidas por juízo com competência criminal",
+        "independe da competência civil ou criminal do juiz que deferiu as medidas protetivas",
+        "só se configura quando houver nova agressão física praticada contra a vítima"
+      ],
+      "correta": 2,
+      "explicacao": "O § 1º do art. 24-A é expresso ao afirmar que a configuração do crime independe da competência civil ou criminal do juiz que deferiu as medidas, previsão repetida no § 1º do art. 25 da Lei Henry Borel.",
+      "tags": [
+        "atendimento",
+        "violencia-domestica",
+        "competencia"
+      ]
+    },
+    {
+      "id": "atendimento-elab-089",
+      "subtema": "Descumprimento de medida protetiva",
+      "artigo": "Lei Maria da Penha — Art. 24-A, § 2º",
+      "enunciado": "Havendo prisão em flagrante pelo crime de descumprimento de medidas protetivas de urgência, a fiança",
+      "alternativas": [
+        "depende de manifestação prévia do Ministério Público sobre o arbitramento",
+        "poderá ser arbitrada pelo delegado de polícia, dada a pena máxima cominada",
+        "é vedada em qualquer hipótese, por se tratar de crime inafiançável",
+        "somente poderá ser concedida pela autoridade judicial competente"
+      ],
+      "correta": 3,
+      "explicacao": "O § 2º do art. 24-A da Lei Maria da Penha, reproduzido no § 2º do art. 25 da Lei Henry Borel, reserva exclusivamente à autoridade judicial a concessão de fiança na hipótese de prisão em flagrante.",
+      "tags": [
+        "atendimento",
+        "violencia-domestica",
+        "fianca"
+      ]
+    },
+    {
+      "id": "atendimento-elab-090",
+      "subtema": "Descumprimento de medida protetiva",
+      "artigo": "Lei Maria da Penha — Art. 24-A, § 3º",
+      "enunciado": "A previsão do crime de descumprimento de medidas protetivas de urgência",
+      "alternativas": [
+        "substitui as medidas protetivas anteriormente deferidas em favor da vítima",
+        "absorve as demais infrações penais praticadas no contexto do descumprimento",
+        "afasta a aplicação de sanções civis decorrentes do descumprimento da ordem",
+        "não exclui a aplicação de outras sanções cabíveis ao mesmo fato praticado"
+      ],
+      "correta": 3,
+      "explicacao": "O § 3º do dispositivo ressalva expressamente que a tipificação não exclui a aplicação de outras sanções cabíveis, admitindo a cumulação com as demais consequências jurídicas do fato.",
+      "tags": [
+        "atendimento",
+        "violencia-domestica",
+        "sancoes"
+      ]
+    },
+    {
+      "id": "atendimento-elab-091",
+      "subtema": "Descumprimento de medida protetiva",
+      "artigo": "Lei Maria da Penha — Sujeitos",
+      "enunciado": "Deferida medida protetiva de urgência, se a própria mulher procura o agressor e dele se aproxima, é correto afirmar que",
+      "alternativas": [
+        "a mulher não responde pelo crime, pois as medidas protetivas obrigam o agressor",
+        "a mulher responde pelo crime em concurso com o agressor, por concorrer para o fato",
+        "a mulher responde pelo crime na modalidade culposa, admitida pelo tipo penal",
+        "a mulher responde pelo crime somente se houver reincidência na aproximação"
+      ],
+      "correta": 0,
+      "explicacao": "As medidas protetivas de urgência impõem deveres ao agressor, e não à vítima, de modo que a mulher não figura como sujeito ativo do crime do art. 24-A da Lei Maria da Penha.",
+      "tags": [
+        "atendimento",
+        "violencia-domestica",
+        "sujeito-ativo"
+      ]
+    },
+    {
+      "id": "atendimento-elab-092",
+      "subtema": "Descumprimento de medida protetiva",
+      "artigo": "Correntes doutrinárias — Primeira corrente",
+      "enunciado": "Segundo a primeira corrente doutrinária sobre o descumprimento consentido pela vítima, o agressor não comete o crime porque",
+      "alternativas": [
+        "a conduta é atípica por ausência de previsão legal quanto ao descumprimento",
+        "a medida protetiva perde eficácia automaticamente com a reconciliação do casal",
+        "há causa supralegal de exclusão da ilicitude e o direito penal é a ultima ratio",
+        "a vítima passa a figurar como coautora, o que impede a punição do agressor"
+      ],
+      "correta": 2,
+      "explicacao": "A primeira corrente invoca o consentimento da vítima como causa supralegal de exclusão da ilicitude, o erro de proibição do agressor procurado pela mulher e o caráter subsidiário e fragmentário do direito penal, na linha do HC 521.622/SC do STJ.",
+      "tags": [
+        "atendimento",
+        "violencia-domestica",
+        "primeira-corrente"
+      ]
+    },
+    {
+      "id": "atendimento-elab-093",
+      "subtema": "Descumprimento de medida protetiva",
+      "artigo": "Correntes doutrinárias — Segunda corrente",
+      "enunciado": "A segunda corrente sustenta que o agressor comete o crime ainda que haja consentimento da vítima, sob o fundamento de que",
+      "alternativas": [
+        "a vítima em situação de violência doméstica é sempre incapaz de consentir validamente",
+        "o consentimento da vítima em matéria penal é sempre juridicamente irrelevante",
+        "a medida protetiva somente pode ser revogada após o trânsito em julgado da ação",
+        "o delito tutela também a administração da justiça, bem jurídico indisponível pela vítima"
+      ],
+      "correta": 3,
+      "explicacao": "Para a segunda corrente, o sujeito passivo não é apenas a mulher, mas também o Estado, cuja ordem foi descumprida; a reconciliação deve ser previamente comunicada ao juízo, orientação alinhada ao Acórdão 1403034 do TJDF.",
+      "tags": [
+        "atendimento",
+        "violencia-domestica",
+        "segunda-corrente"
+      ]
+    },
+    {
+      "id": "atendimento-elab-094",
+      "subtema": "Preservação de local",
+      "artigo": "NI PM3-001/02/15 — Apoio ao transporte",
+      "enunciado": "Na preservação de local de crime, quanto ao material periciado e lacrado, a unidade de serviço",
+      "alternativas": [
+        "não pode coletá-lo nem prestar apoio ao seu transporte, ainda que já lacrado",
+        "pode transportá-lo quando solicitada pelo perito responsável pela coleta",
+        "deve recebê-lo mediante recibo e entregá-lo na unidade policial civil",
+        "pode transportá-lo apenas quando houver risco de deterioração do material"
+      ],
+      "correta": 0,
+      "explicacao": "A norma veda tanto a coleta quanto o apoio ao transporte de material lacrado e periciado, providências que competem aos órgãos de perícia e de polícia judiciária.",
+      "tags": [
+        "atendimento",
+        "preservacao",
+        "transporte"
+      ]
+    },
+    {
+      "id": "atendimento-elab-095",
+      "subtema": "Preservação de local",
+      "artigo": "NI PM3-001/02/15 — Dispensa da NOc",
+      "enunciado": "Nas hipóteses de preservação de local de crime, a elaboração da notificação de ocorrência é dispensada quando",
+      "alternativas": [
+        "o sítio já tiver sido integralmente periciado pelos peritos designados",
+        "o delegado de polícia comparecer ao local e receber a comunicação verbal",
+        "não houver parte interessada presente no local objeto da preservação",
+        "a guarnição permanecer no local por período superior a duas horas"
+      ],
+      "correta": 2,
+      "explicacao": "A dispensa da NOc decorre da inexistência de parte interessada no local, pois o formulário se destina a fornecer dados à parte para o registro na unidade policial civil.",
+      "tags": [
+        "atendimento",
+        "preservacao",
+        "noc"
+      ]
+    },
+    {
+      "id": "atendimento-elab-096",
+      "subtema": "Preservação de local",
+      "artigo": "NI PM3-001/02/15 — Encerramento",
+      "enunciado": "Não comparecendo o delegado de polícia ou seu representante ao local preservado e tendo o sítio sido periciado,",
+      "alternativas": [
+        "a guarnição deve permanecer no local até a liberação expressa pela autoridade",
+        "não comporta mais qualquer medida por parte da Polícia Militar naquele local",
+        "a guarnição deve conduzir os vestígios remanescentes ao distrito policial",
+        "a guarnição deve aguardar o comparecimento do Ministério Público ao local"
+      ],
+      "correta": 1,
+      "explicacao": "Realizada a perícia e ausente a autoridade policial, exaure-se a atuação policial-militar no local, ressalvada a hipótese de cadáver, que aguarda a remoção pelo IML.",
+      "tags": [
+        "atendimento",
+        "preservacao",
+        "encerramento"
+      ]
+    },
+    {
+      "id": "atendimento-elab-097",
+      "subtema": "Preservação de local",
+      "artigo": "NI PM3-001/02/15 — Apoio à condução",
+      "enunciado": "Nas ocorrências que comportem comunicação formal, havendo necessidade de apoio à condução por questões de segurança, a unidade de serviço",
+      "alternativas": [
+        "acompanha as partes interessadas ao distrito e retorna, ato contínuo, ao policiamento",
+        "apresenta pessoalmente a ocorrência ao delegado, aguardando a lavratura das peças",
+        "permanece no distrito policial até a conclusão do registro de polícia judiciária",
+        "recusa o apoio, por ser incompatível com a comunicação formal da ocorrência"
+      ],
+      "correta": 0,
+      "explicacao": "O apoio à condução por razões de segurança não converte a comunicação formal em pessoal: acompanhadas as partes ao distrito, a US retorna imediatamente às atribuições de polícia ostensivo-preventiva.",
+      "tags": [
+        "atendimento",
+        "preservacao",
+        "apoio"
+      ]
+    },
+    {
+      "id": "atendimento-elab-098",
+      "subtema": "Comitês de Gestão Operacional",
+      "artigo": "NI PM3-001/02/15 — Finalidade",
+      "enunciado": "Os Comitês de Gestão Operacional têm por finalidade",
+      "alternativas": [
+        "apurar as irregularidades cometidas pelas unidades de serviço na aplicação da norma",
+        "assessorar as unidades de serviço em dúvidas com desdobramentos jurídicos",
+        "substituir os comandos intermediários na supervisão do atendimento de ocorrências",
+        "deliberar sobre as propostas de alteração da nota de instrução encaminhadas ao Comando"
+      ],
+      "correta": 1,
+      "explicacao": "Os CGO assessoram as US quanto às dúvidas, especialmente as de desdobramento jurídico, e orientam posturas diante de eventual multiplicidade na interpretação das normas da sistemática.",
+      "tags": [
+        "atendimento",
+        "cgo",
+        "finalidade"
+      ]
+    },
+    {
+      "id": "atendimento-elab-099",
+      "subtema": "Comitês de Gestão Operacional",
+      "artigo": "NI PM3-001/02/15 — Funcionamento",
+      "enunciado": "Quanto ao funcionamento dos Comitês de Gestão Operacional, é correto afirmar que",
+      "alternativas": [
+        "atuam em nível regional ou de especialização, com consultas preferencialmente informais",
+        "funcionam centralizados no Comando Geral, com consultas formalizadas por ofício",
+        "são compostos exclusivamente por oficiais superiores designados pelo Subcomandante",
+        "têm caráter permanente e prazo indeterminado, vedada sua extinção pelos comandos"
+      ],
+      "correta": 0,
+      "explicacao": "Os Comitês funcionam em nível regional ou de especialização de cada Grande Comando, sob a premissa de simplificação do modo e do trâmite das consultas, preferencialmente informais, para esclarecer as US no menor tempo possível.",
+      "tags": [
+        "atendimento",
+        "cgo",
+        "funcionamento"
+      ]
+    },
+    {
+      "id": "atendimento-elab-100",
+      "subtema": "Comitês de Gestão Operacional",
+      "artigo": "NI PM3-001/02/15 — Composição",
+      "enunciado": "Os Comitês de Gestão Operacional serão compostos por",
+      "alternativas": [
+        "oficiais e praças com eminente conhecimento jurídico e técnico sobre a sistemática",
+        "oficiais do quadro de saúde e assessores jurídicos civis contratados pelo comando",
+        "somente oficiais superiores integrantes dos Estados-Maiores dos Grandes Comandos",
+        "representantes da Polícia Militar e da Polícia Civil, em composição paritária"
+      ],
+      "correta": 0,
+      "explicacao": "A composição abrange oficiais e praças com eminente conhecimento dos aspectos jurídicos e técnicos da sistemática, cabendo aos Grandes Comandos a estruturação dos Comitês conforme as demandas e condições regionais.",
+      "tags": [
+        "atendimento",
+        "cgo",
+        "composicao"
+      ]
+    },
+    {
+      "id": "atendimento-elab-101",
+      "subtema": "Comitês de Gestão Operacional",
+      "artigo": "NI PM3-001/02/15 — OPM precursoras",
+      "enunciado": "A norma destaca o papel difusor e precursor de determinadas unidades, sugerindo o emprego do canal técnico para consultas. Trata-se de unidades subordinadas ao",
+      "alternativas": [
+        "Comando de Policiamento de Choque e ao Corpo de Bombeiros, pela natureza das missões",
+        "CPAmb, ao CPRv e ao CPTran, em razão da especialização de suas atividades",
+        "CPC, ao CPM e ao CPI-2, que já haviam sistematizado parte da metodologia proposta",
+        "Comando de Policiamento do Interior 1 e ao Comando de Policiamento Rodoviário"
+      ],
+      "correta": 2,
+      "explicacao": "A NI ressalta a atuação precursora de unidades do CPC, do CPM e do CPI-2, que haviam sistematizado parte da metodologia em suas rotinas, recomendando o canal técnico para eventuais dúvidas.",
+      "tags": [
+        "atendimento",
+        "cgo",
+        "canal-tecnico"
+      ]
+    },
+    {
+      "id": "atendimento-elab-102",
+      "subtema": "Instrução e capacitação",
+      "artigo": "NI PM3-001/02/15 — I-22-PM",
+      "enunciado": "A participação do policial militar em sessões de treinamento e capacitação sobre a sistemática deve ser condicionada como elemento indispensável à sua atuação, incluindo",
+      "alternativas": [
+        "as instruções ministradas exclusivamente pelos Comitês de Gestão Operacional",
+        "os cursos de especialização realizados fora do horário de serviço ordinário",
+        "os estágios de adaptação previstos para os policiais recém-formados apenas",
+        "as sessões de Treinamento Durante o Serviço, nos termos das I-22-PM"
+      ],
+      "correta": 3,
+      "explicacao": "A norma vincula a atuação do policial à sua capacitação, incluindo o Treinamento Durante o Serviço disciplinado pelas I-22-PM, Instruções do Sistema Integrado de Treinamento Policial-Militar.",
+      "tags": [
+        "atendimento",
+        "instrucao",
+        "tds"
+      ]
+    },
+    {
+      "id": "atendimento-elab-103",
+      "subtema": "Instrução e capacitação",
+      "artigo": "NI PM3-001/02/15 — EAP",
+      "enunciado": "Quanto aos Estágios de Atualização Profissional, a norma determina que",
+      "alternativas": [
+        "sejam realizados apenas pelas unidades que apresentarem maior índice de inconformidade",
+        "sejam suspensos até que a Diretoria de Ensino conclua o roteiro de instruções",
+        "seja obrigatoriamente abordado, em módulo específico, o registro de ocorrências",
+        "sejam substituídos pelas reuniões didático-pedagógicas promovidas pelos órgãos de ensino"
+      ],
+      "correta": 2,
+      "explicacao": "A abordagem das rotinas de registro e apresentação de ocorrências, segundo a nova sistemática, é condicionante obrigatória dos módulos específicos dos EAP, robustecendo os conteúdos de instrução.",
+      "tags": [
+        "atendimento",
+        "instrucao",
+        "eap"
+      ]
+    },
+    {
+      "id": "atendimento-elab-104",
+      "subtema": "Instrução e capacitação",
+      "artigo": "NI PM3-001/02/15 — DEC",
+      "enunciado": "Compete à Diretoria de Ensino e Cultura, no âmbito da sistemática,",
+      "alternativas": [
+        "criar os Comitês de Gestão Operacional nas unidades territoriais e especializadas",
+        "estabelecer o roteiro de instruções e elaborar ICC e PVT específicos sobre o assunto",
+        "revisar e atualizar os procedimentos operacionais padrão relacionados à sistemática",
+        "monitorar os dados estatísticos de elaboração de notificações e boletins de ocorrência"
+      ],
+      "correta": 1,
+      "explicacao": "À DEC cabe sistematizar a revisão dos conteúdos programáticos, estabelecer o roteiro de instruções, elaborar ICC e PVT específicos e fomentar reuniões didático-pedagógicas por meio dos órgãos de apoio ao ensino subordinados.",
+      "tags": [
+        "atendimento",
+        "instrucao",
+        "dec"
+      ]
+    },
+    {
+      "id": "atendimento-elab-105",
+      "subtema": "Instrução e capacitação",
+      "artigo": "NI PM3-001/02/15 — Início imediato",
+      "enunciado": "Independentemente da sistematização de instruções e procedimentos pelos órgãos centrais, os comandantes, chefes e diretores das OPM",
+      "alternativas": [
+        "ficarão dispensados do treinamento enquanto não houver ICC e PVT sobre o assunto",
+        "deverão aguardar a publicação do roteiro de instruções elaborado pela Diretoria de Ensino",
+        "deverão iniciar de imediato o treinamento de seus contingentes com base nas normas vigentes",
+        "deverão submeter previamente seus planos de instrução à aprovação do Comando Geral"
+      ],
+      "correta": 2,
+      "explicacao": "A norma é expressa ao determinar o início imediato do treinamento e da capacitação dos contingentes com base nas normatizações vigentes, sem aguardar a sistematização pelos órgãos de ensino.",
+      "tags": [
+        "atendimento",
+        "instrucao",
+        "imediato"
+      ]
+    },
+    {
+      "id": "atendimento-elab-106",
+      "subtema": "Atribuições",
+      "artigo": "NI PM3-001/02/15 — 6ª EM/PM",
+      "enunciado": "A revisão e a atualização dos procedimentos operacionais padrão relacionados à sistemática, bem como a proposta de criação de novos procedimentos, competem",
+      "alternativas": [
+        "à Diretoria de Ensino e Cultura, sem prazo fixado pela nota de instrução",
+        "à 3ª EM/PM, no prazo de trinta dias contados da publicação da norma",
+        "à 6ª EM/PM, no prazo de cento e vinte dias contados da publicação da norma",
+        "aos Comitês de Gestão Operacional de cada Grande Comando envolvido"
+      ],
+      "correta": 2,
+      "explicacao": "A 6ª EM/PM é responsável pela revisão e atualização dos POP e pela proposição de novos procedimentos, tendo a norma instituído prazo de cento e vinte dias, a contar de sua publicação, para essas medidas.",
+      "tags": [
+        "atendimento",
+        "atribuicoes",
+        "6em"
+      ]
+    },
+    {
+      "id": "atendimento-elab-107",
+      "subtema": "Atribuições",
+      "artigo": "NI PM3-001/02/15 — 3ª EM/PM",
+      "enunciado": "A análise de eventuais propostas de aprimoramento e alteração da nota de instrução, com assessoramento ao Comando Geral, compete",
+      "alternativas": [
+        "à 1ª EM/PM, em conjunto com a Corregedoria da Polícia Militar",
+        "à 3ª EM/PM, que subsidia a deliberação sobre a necessidade de ajustes",
+        "à Coordenadoria de Operações, que mantém o Subcomandante informado",
+        "à Controladoria Interna, que acompanha o desenvolvimento da sistemática"
+      ],
+      "correta": 1,
+      "explicacao": "Cabe à 3ª EM/PM analisar as propostas de aprimoramento e alteração da NI, assessorando o Comando Geral na deliberação acerca da necessidade de ajustes a serem procedidos.",
+      "tags": [
+        "atendimento",
+        "atribuicoes",
+        "3em"
+      ]
+    },
+    {
+      "id": "atendimento-elab-108",
+      "subtema": "Atribuições",
+      "artigo": "NI PM3-001/02/15 — 1ª EM/PM e Corregedoria",
+      "enunciado": "À 1ª EM/PM e à Corregedoria PM compete, respeitado o canal de comando,",
+      "alternativas": [
+        "divulgar a sistemática ao público interno e aos órgãos de mídia do Estado",
+        "criar os Comitês de Gestão Operacional nos Grandes Comandos envolvidos",
+        "assessorar os CGO quanto a desdobramentos jurídicos de interpretação diversa",
+        "gerenciar a integração dos sistemas informatizados das instituições envolvidas"
+      ],
+      "correta": 2,
+      "explicacao": "A 1ª EM/PM e a Corregedoria assessoram os Comitês quanto a eventuais desdobramentos jurídicos decorrentes da multiplicidade na interpretação das normas da NI, observado o canal de comando.",
+      "tags": [
+        "atendimento",
+        "atribuicoes",
+        "1em"
+      ]
+    },
+    {
+      "id": "atendimento-elab-109",
+      "subtema": "Atribuições",
+      "artigo": "NI PM3-001/02/15 — DTic",
+      "enunciado": "Ao Departamento de Tecnologia da Informação e Comunicação compete, entre outras atribuições,",
+      "alternativas": [
+        "propor a criação de novos procedimentos operacionais padrão sobre o assunto",
+        "estabelecer o roteiro de instruções e elaborar ICC e PVT sobre a sistemática",
+        "monitorar o tempo de atendimento das ocorrências antes e depois da implantação",
+        "incluir a NOc no rol de formulários oficiais e gerenciar a integração dos sistemas"
+      ],
+      "correta": 3,
+      "explicacao": "Ao DTic cabem o controle e a inclusão da NOc no rol de formulários oficiais, sua padronização e disponibilização na Intranet, o controle quantitativo e qualitativo via SIOPM e a gestão da integração dos sistemas informatizados das instituições envolvidas.",
+      "tags": [
+        "atendimento",
+        "atribuicoes",
+        "dtic"
+      ]
+    },
+    {
+      "id": "atendimento-elab-110",
+      "subtema": "Atribuições",
+      "artigo": "NI PM3-001/02/15 — Comunicação social",
+      "enunciado": "A estratégia institucional de divulgação da sistemática ao público interno, aos órgãos de mídia e à população compete",
+      "alternativas": [
+        "à Coordenadoria de Operações da Polícia Militar",
+        "ao Centro de Comunicação Social da Polícia Militar",
+        "à Controladoria Interna da Polícia Militar",
+        "aos Comitês de Gestão Operacional dos Grandes Comandos"
+      ],
+      "correta": 1,
+      "explicacao": "A divulgação institucional da sistemática, interna e externamente, é atribuição do órgão de comunicação social da Corporação, distinta do assessoramento operacional e do monitoramento estatístico.",
+      "tags": [
+        "atendimento",
+        "atribuicoes",
+        "comunicacao-social"
+      ]
+    },
+    {
+      "id": "atendimento-elab-111",
+      "subtema": "Atribuições",
+      "artigo": "NI PM3-001/02/15 — Monitoramento",
+      "enunciado": "O monitoramento dos dados estatísticos relativos à elaboração de NOc, BO/PM e BO Eletrônico, com comparação do tempo despendido antes e depois da implantação da sistemática, cabe",
+      "alternativas": [
+        "ao Departamento de Tecnologia da Informação e Comunicação, por meio do SIOPM",
+        "à 3ª EM/PM, que assessora o Comando Geral quanto aos ajustes necessários",
+        "à Controladoria Interna da Polícia Militar, que informa o Subcomandante PM",
+        "aos Comitês de Gestão Operacional, em nível regional ou de especialização"
+      ],
+      "correta": 2,
+      "explicacao": "O acompanhamento do desenvolvimento da sistemática pelas OPM e o monitoramento estatístico, com a comparação do tempo total de atendimento antes e depois da implantação, são atribuições da Controladoria Interna, que informa o Subcomandante PM.",
+      "tags": [
+        "atendimento",
+        "atribuicoes",
+        "monitoramento"
+      ]
+    },
+    {
+      "id": "atendimento-elab-112",
+      "subtema": "Atribuições dos Grandes Comandos",
+      "artigo": "NI PM3-001/02/15 — COPOM e CAD subordinados",
+      "enunciado": "Quanto aos COPOM e CAD subordinados, os Grandes Comandos devem, entre outras medidas,",
+      "alternativas": [
+        "criar mecanismos de controle e registro dos acionamentos dos centros da Polícia Civil",
+        "centralizar a elaboração dos boletins de ocorrência das unidades de serviço da área",
+        "deliberar sobre o envio de perícia técnica aos locais dos fatos atendidos",
+        "arbitrar as divergências de interpretação surgidas entre as unidades de serviço"
+      ],
+      "correta": 0,
+      "explicacao": "Cabe aos Grandes Comandos, quanto aos centros de operações subordinados, atentar para a destinação das ocorrências e criar mecanismos de controle e registro dos acionamentos dos centros operacionais da Polícia Civil, subsidiando as US na elaboração de BO/PM, NOc e RSO.",
+      "tags": [
+        "atendimento",
+        "atribuicoes",
+        "copom"
+      ]
+    },
+    {
+      "id": "atendimento-elab-113",
+      "subtema": "Atribuições dos Grandes Comandos",
+      "artigo": "NI PM3-001/02/15 — Deliberação sobre perícia",
+      "enunciado": "Nas ocorrências que dependam de deliberação do delegado de polícia sobre o envio de perícia técnica ao local, os centros de operações devem",
+      "alternativas": [
+        "presumir o acionamento da perícia após uma hora de espera sem resposta",
+        "reiterar sistematicamente os contatos até a definição e o eventual acionamento",
+        "liberar a unidade de serviço do local, registrando a ausência de manifestação",
+        "acionar diretamente o instituto de criminalística, dispensada a deliberação"
+      ],
+      "correta": 1,
+      "explicacao": "Além da comunicação prévia, deve haver especial atenção ao trâmite dessas ocorrências, com reiteração sistemática dos contatos até que haja efetiva definição e, quando for o caso, confirmação do acionamento da perícia.",
+      "tags": [
+        "atendimento",
+        "atribuicoes",
+        "pericia"
+      ]
+    },
+    {
+      "id": "atendimento-elab-114",
+      "subtema": "Atribuições dos Grandes Comandos",
+      "artigo": "NI PM3-001/02/15 — Supervisão",
+      "enunciado": "O acompanhamento direto do desenvolvimento operacional e administrativo da sistemática pelas OPM subordinadas observa",
+      "alternativas": [
+        "as diretrizes de comunicação social editadas pelo Comando Geral",
+        "os parâmetros de auditoria fixados pela Corregedoria da Polícia Militar",
+        "os prazos de revisão estabelecidos pela Diretoria de Ensino e Cultura",
+        "os níveis de comando e de supervisão disciplinados pelas NORSOP"
+      ],
+      "correta": 3,
+      "explicacao": "Os Grandes Comandos acompanham o desenvolvimento da sistemática por meio das OPM subordinadas, de acordo com os níveis de comando e de supervisão disciplinados pelas NORSOP, amparando os policiais nas questões de registro e apresentação de ocorrências.",
+      "tags": [
+        "atendimento",
+        "atribuicoes",
+        "norsop"
+      ]
+    },
+    {
+      "id": "atendimento-elab-115",
+      "subtema": "Espírito da sistemática",
+      "artigo": "Res. SSP-57/15 e Portaria Conjunta PC/PM-1/15",
+      "enunciado": "O espírito da sistemática é o de envidar esforços para a racionalização da prestação de serviços à população por meio de relação mais objetiva, disciplinada e prática entre as polícias, cabendo o ajuste de muitas rotinas",
+      "alternativas": [
+        "à Secretaria da Segurança Pública, por meio de resoluções complementares anuais",
+        "aos altos dirigentes das instituições, mediante edição de novos atos normativos",
+        "ao Comitê de Gestão Operacional de cada Grande Comando, com poder deliberativo",
+        "aos gestores locais de ambas as instituições, inclusive em reuniões de análise crítica"
+      ],
+      "correta": 3,
+      "explicacao": "A norma remete o ajuste das rotinas às tratativas entre os gestores locais de ambas as instituições, que podem ocorrer em Reuniões de Análise Crítica ou em outras destinadas ao trabalho integrado, conforme as realidades regionais e de especialidade.",
+      "tags": [
+        "atendimento",
+        "espirito",
+        "gestores"
+      ]
+    },
+    {
+      "id": "atendimento-elab-116",
+      "subtema": "Articulação externa",
+      "artigo": "NI PM3-001/02/15 — Contatos",
+      "enunciado": "Para a operacionalização das medidas previstas na sistemática, faz-se necessária a interposição de contatos com representantes",
+      "alternativas": [
+        "exclusivamente do Poder Judiciário local e do Ministério Público estadual",
+        "do Poder Judiciário, do Ministério Público, da perícia e dos conselhos tutelares",
+        "somente da polícia técnico-científica e dos conselhos tutelares da região",
+        "apenas dos órgãos municipais de trânsito e das guardas civis metropolitanas"
+      ],
+      "correta": 1,
+      "explicacao": "A norma determina contatos com o Poder Judiciário local, o Ministério Público, a polícia técnico-científica, os conselhos tutelares e demais órgãos e serviços públicos afins, para angariar o apoio necessário à operacionalização das medidas.",
+      "tags": [
+        "atendimento",
+        "articulacao",
+        "orgaos"
+      ]
+    },
+    {
+      "id": "atendimento-elab-117",
+      "subtema": "Esforço estratégico",
+      "artigo": "NI PM3-001/02/15 — Boletim eletrônico",
+      "enunciado": "A sistemática integra esforço estratégico dos organismos policiais que inclui estudos voltados à implantação",
+      "alternativas": [
+        "do boletim de ocorrência eletrônico, com simplificação das rotinas de registro",
+        "do ciclo completo de polícia, com atribuição de polícia judiciária à PM",
+        "da unificação das polícias civil e militar em instituição única estadual",
+        "do boletim de ocorrência unificado, lavrado conjuntamente pelas duas polícias"
+      ],
+      "correta": 0,
+      "explicacao": "Os estudos mencionados voltam-se à implantação do boletim de ocorrência eletrônico, cujo foco é simplificar as rotinas de atendimento e registro e otimizar o emprego de recursos humanos e materiais de ambas as instituições.",
+      "tags": [
+        "atendimento",
+        "estrategia",
+        "bo-eletronico"
+      ]
+    },
+    {
+      "id": "atendimento-elab-118",
+      "subtema": "Âmbito de aplicação",
+      "artigo": "Res. SSP-57/15 — Destinatários",
+      "enunciado": "As bases da Res. SSP-57/15 aplicam-se",
+      "alternativas": [
+        "somente aos órgãos de execução especializados de policiamento",
+        "exclusivamente aos órgãos de execução territoriais da Polícia Militar",
+        "aos órgãos de execução territoriais e aos especializados",
+        "apenas às unidades sediadas na região metropolitana da capital"
+      ],
+      "correta": 2,
+      "explicacao": "A sistemática alcança tanto os órgãos de execução territoriais quanto os especializados, o que se confirma pela designação de Grandes Comandos especializados entre os responsáveis pela criação dos CGO.",
+      "tags": [
+        "atendimento",
+        "aplicacao",
+        "orgaos"
+      ]
+    },
+    {
+      "id": "atendimento-elab-119",
+      "subtema": "Objetivos",
+      "artigo": "Res. SSP-57/15 — Rol",
+      "enunciado": "Não constitui objetivo da Res. SSP-57/15",
+      "alternativas": [
+        "aumentar a disponibilidade das equipes para as ações de polícia ostensiva e de bombeiro",
+        "reduzir o tempo de permanência das unidades de serviço em unidades da Polícia Civil",
+        "transmitir dados à Polícia Civil com o necessário empenho pessoal das US nos distritos",
+        "valorizar o serviço policial-militar, atribuindo-lhe maiores responsabilidades e tempo"
+      ],
+      "correta": 2,
+      "explicacao": "O objetivo é justamente transmitir dados à Polícia Civil nas ocorrências que o permitam sem necessidade do empenho pessoal das US nas delegacias e distritos, desde que não haja prejuízo à persecução penal; a inversão desse enunciado é a pegadinha clássica.",
+      "tags": [
+        "atendimento",
+        "objetivos",
+        "pegadinha"
+      ]
+    }
+  ]
+}

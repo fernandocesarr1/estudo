@@ -190,6 +190,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "atendimento-elab",
+      "nome": "Atendimento e registro de ocorrências",
+      "nomeCompleto": "Sistemática de atuação da PM no atendimento e registro de ocorrências (Res. SSP-57/15) (119 questões)",
+      "norma": "NI PM3-001/02/15 e Res. SSP-57/15",
+      "arquivo": "data/atendimento-elab.json",
+      "cor": "#5c2f7a",
+      "ativo": true,
+      "ordem": 18,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
