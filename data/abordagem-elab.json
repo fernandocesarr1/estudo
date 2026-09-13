@@ -1,0 +1,2058 @@
+{
+  "materia": "abordagem-elab",
+  "versao": "1.5.0",
+  "atualizadoEm": "2026-09-13",
+  "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+  "subtemas": [
+    "Abordagem de CAC",
+    "Abordagem de grupo",
+    "Abordagem de policial",
+    "Agentes de outras instituições",
+    "Apresentação da ocorrência",
+    "Ações corretivas",
+    "Busca em cadeirante",
+    "Busca pessoal",
+    "Busca pessoal em mulher",
+    "Chegada ao local",
+    "Conceitos",
+    "Condutas vedadas",
+    "Condução das partes",
+    "Conhecimento do fato",
+    "Consulta de documentos",
+    "Câmeras operacionais portáteis",
+    "Deficiência auditiva",
+    "Deficiência intelectual",
+    "Deficiência visual",
+    "Deslocamento",
+    "Direitos do preso",
+    "Encerramento",
+    "Etapas",
+    "Finalização",
+    "Fiscalização de polícia",
+    "Fuga de abordado",
+    "Fundada suspeita",
+    "Idioma diverso",
+    "Infrator da lei",
+    "Pessoa com deficiência",
+    "Policial CAC",
+    "Policial abordado",
+    "Registro",
+    "Sequência da abordagem",
+    "Superioridade numérica",
+    "Tipos de abordagem",
+    "Transtorno do espectro autista",
+    "Transtornos adicionais",
+    "Uso de algemas",
+    "Uso seletivo da força",
+    "Área de perigo",
+    "Área de segurança",
+    "Áreas vulneráveis"
+  ],
+  "questoes": [
+    {
+      "id": "abordagem-elab-001",
+      "subtema": "Tipos de abordagem",
+      "artigo": "POP 1.01.05 — Classificação",
+      "enunciado": "Os procedimentos operacionais padrão referentes à abordagem de pessoa a pé preveem as seguintes situações de abordagem",
+      "alternativas": [
+        "sob fiscalização de polícia, sob fundada suspeita e de pessoa infratora da lei",
+        "sob fundada suspeita e de pessoa infratora da lei, apenas",
+        "preventiva, repressiva e de pessoa procurada pela Justiça",
+        "sob fiscalização de polícia, de pessoa infratora da lei e de pessoa armada"
+      ],
+      "correta": 0,
+      "explicacao": "São três as situações: abordagem de pessoa sob fiscalização de polícia, de pessoa em atitude sob fundada suspeita e de pessoa infratora da lei; a assertiva que menciona apenas duas foi a distratora da prova do CAO 2018.",
+      "tags": [
+        "abordagem",
+        "tipos"
+      ]
+    },
+    {
+      "id": "abordagem-elab-002",
+      "subtema": "Fiscalização de polícia",
+      "artigo": "POP 1.01.05 — Fundamento",
+      "enunciado": "A abordagem sob fiscalização de polícia, realizada quando não há qualquer suspeita, fundamenta-se",
+      "alternativas": [
+        "na autorização judicial genérica para busca pessoal em locais de risco",
+        "na fundada suspeita prevista no art. 240, § 2º, do Código de Processo Penal",
+        "no dever de agir diante de flagrante delito previsto no Código de Processo Penal",
+        "no poder de polícia a que alude o art. 78 do Código Tributário Nacional"
+      ],
+      "correta": 3,
+      "explicacao": "A fiscalização administrativa sem suspeita apoia-se no poder de polícia do art. 78 do CTN; a fundada suspeita do art. 240, § 2º, do CPP é o fundamento da segunda modalidade, que antecede a busca pessoal.",
+      "tags": [
+        "abordagem",
+        "fiscalizacao",
+        "ctn"
+      ]
+    },
+    {
+      "id": "abordagem-elab-003",
+      "subtema": "Fiscalização de polícia",
+      "artigo": "POP 1.01.05 — Técnica",
+      "enunciado": "Na abordagem sob fiscalização de polícia, em regra, o policial militar",
+      "alternativas": [
+        "mantém a arma na posição sul, aproxima-se sem tomada de ângulo e não realiza busca",
+        "mantém a arma na posição sul, aproxima-se com tomada de ângulo e realiza busca pessoal",
+        "mantém a arma no coldre, aproxima-se com tomada de ângulo e realiza busca pessoal",
+        "mantém a arma no coldre, aproxima-se sem tomada de ângulo e não realiza busca pessoal"
+      ],
+      "correta": 3,
+      "explicacao": "A abordagem de fiscalização é feita com a arma no coldre, aproximação sem tomada de ângulo e sem busca pessoal, ressalvadas as ações corretivas diante de perigo ou descumprimento da ordem legal.",
+      "tags": [
+        "abordagem",
+        "fiscalizacao",
+        "tecnica"
+      ]
+    },
+    {
+      "id": "abordagem-elab-004",
+      "subtema": "Fundada suspeita",
+      "artigo": "POP 1.01.05 — Art. 240, § 2º, do CPP",
+      "enunciado": "A abordagem sob fundada suspeita é aquela que antecede a busca pessoal, realizada sempre que houver fundada suspeita de que alguém",
+      "alternativas": [
+        "demonstre nervosismo diante da aproximação da viatura policial",
+        "tenha antecedentes criminais registrados nos sistemas de consulta",
+        "esteja em local conhecido pela incidência de crimes contra o patrimônio",
+        "oculte consigo arma proibida, munição ou outros objetos de crime"
+      ],
+      "correta": 3,
+      "explicacao": "O conceito remete ao art. 240, § 2º, do CPP: fundada suspeita de que alguém oculte consigo arma proibida, munição ou outros objetos de crime; antecedentes, local ou nervosismo, isoladamente, não correspondem à definição do POP.",
+      "tags": [
+        "abordagem",
+        "fundada-suspeita"
+      ]
+    },
+    {
+      "id": "abordagem-elab-005",
+      "subtema": "Fundada suspeita",
+      "artigo": "POP 1.01.05 — Técnica",
+      "enunciado": "Na abordagem sob fundada suspeita, a arma do policial militar ficará",
+      "alternativas": [
+        "no coldre, com aproximação mediante tomada de ângulo e busca pessoal",
+        "na posição terceiro olho, com aproximação direta e busca pessoal minuciosa",
+        "na posição sul, com aproximação mediante tomada de ângulo e busca pessoal",
+        "na posição sul, com aproximação direta e sem realização de busca pessoal"
+      ],
+      "correta": 2,
+      "explicacao": "A fundada suspeita comporta arma na posição sul, aproximação com tomada de ângulo e busca pessoal; o terceiro olho é a regra na abordagem de infrator da lei.",
+      "tags": [
+        "abordagem",
+        "fundada-suspeita",
+        "tecnica"
+      ]
+    },
+    {
+      "id": "abordagem-elab-006",
+      "subtema": "Infrator da lei",
+      "artigo": "POP 1.01.05 — Conceito",
+      "enunciado": "Considera-se infratora da lei, para fins de abordagem, a pessoa sobre a qual haja",
+      "alternativas": [
+        "certeza ou forte suspeita de crime ou contravenção, ou que seja procurada pela Justiça",
+        "mera suspeita de envolvimento em crime, independentemente de outros elementos",
+        "registro de antecedentes criminais, ainda que sem mandado de prisão em aberto",
+        "recusa em apresentar documento de identificação durante a fiscalização"
+      ],
+      "correta": 0,
+      "explicacao": "Infrator da lei é quem tenha, com certeza ou forte suspeita, cometido crime ou contravenção, seja procurado pela Justiça ou seja encontrado no local do crime ou próximo dele com objetos ou vestígios de que delinquiu.",
+      "tags": [
+        "abordagem",
+        "infrator",
+        "conceito"
+      ]
+    },
+    {
+      "id": "abordagem-elab-007",
+      "subtema": "Infrator da lei",
+      "artigo": "POP 1.01.05 — Técnica",
+      "enunciado": "Na abordagem de infrator da lei, o policial militar adota a arma",
+      "alternativas": [
+        "no coldre desabotoado, aproximando-se com tomada de ângulo e realizando busca",
+        "na posição sul, aproximando-se com tomada de ângulo e realizando busca pessoal",
+        "na posição terceiro olho, aproximando-se sem tomada de ângulo e sem busca pessoal",
+        "na posição terceiro olho, aproximando-se com tomada de ângulo e realizando busca pessoal"
+      ],
+      "correta": 3,
+      "explicacao": "Com certeza ou forte suspeita de infração, a arma fica em terceiro olho, com aproximação por tomada de ângulo e busca pessoal, precedida de algemamento quando necessário.",
+      "tags": [
+        "abordagem",
+        "infrator",
+        "tecnica"
+      ]
+    },
+    {
+      "id": "abordagem-elab-008",
+      "subtema": "Uso seletivo da força",
+      "artigo": "POP 1.01.00 — Revisão de 2022",
+      "enunciado": "Na revisão do Processo 1.01.00, a expressão escalonamento do uso da força, cujo conceito foi mantido, passou a ser denominada",
+      "alternativas": [
+        "uso racional da força",
+        "uso seletivo da força",
+        "uso proporcional da força",
+        "uso razoável da força"
+      ],
+      "correta": 1,
+      "explicacao": "A nova nomenclatura é uso seletivo da força, conceituado como o emprego da força de acordo com o nível de resistência oferecida, partindo, sempre que possível, da verbalização até a força potencialmente letal.",
+      "tags": [
+        "abordagem",
+        "uso-seletivo"
+      ]
+    },
+    {
+      "id": "abordagem-elab-009",
+      "subtema": "Uso seletivo da força",
+      "artigo": "POP 1.01.00 — Descumprimento da ordem",
+      "enunciado": "Se a pessoa abordada não cumprir a ordem legal e a arma do policial estiver no coldre, a conduta prevista é",
+      "alternativas": [
+        "adotar diretamente a posição terceiro olho, dada a quebra da ordem legal",
+        "adotar a posição sul e, persistindo o descumprimento, o terceiro olho",
+        "repetir a ordem por três vezes antes de retirar a arma do coldre",
+        "encerrar a abordagem e registrar a desobediência no relatório de serviço"
+      ],
+      "correta": 1,
+      "explicacao": "O uso seletivo da força impõe gradação: da arma no coldre para a posição sul e, persistindo o descumprimento, para a posição terceiro olho.",
+      "tags": [
+        "abordagem",
+        "uso-seletivo",
+        "gradacao"
+      ]
+    },
+    {
+      "id": "abordagem-elab-010",
+      "subtema": "Uso seletivo da força",
+      "artigo": "POP 1.01.00 — Perigo e alto risco",
+      "enunciado": "Independentemente do tipo de abordagem, o policial militar poderá adotar a posição terceiro olho quando",
+      "alternativas": [
+        "o abordado possuir antecedentes criminais confirmados pelo centro de operações",
+        "o abordado se recusar a informar seu endereço residencial ao policial militar",
+        "a abordagem ocorrer no período noturno, em via pública pouco iluminada",
+        "o abordado oferecer perigo, como mãos para trás, ou o local for de alto risco"
+      ],
+      "correta": 3,
+      "explicacao": "As ações corretivas autorizam o terceiro olho quando o abordado de alguma forma oferece perigo, como manter as mãos para trás, e quando o local for de alto risco, qualquer que seja o tipo de abordagem.",
+      "tags": [
+        "abordagem",
+        "terceiro-olho"
+      ]
+    },
+    {
+      "id": "abordagem-elab-011",
+      "subtema": "Superioridade numérica",
+      "artigo": "POP 1.01.00 — Apoio",
+      "enunciado": "Sendo o número de pessoas a abordar sob fundada suspeita igual ou superior ao de policiais, a regra é",
+      "alternativas": [
+        "iniciar a abordagem com a arma na posição sul, solicitando apoio durante a ação",
+        "solicitar apoio e aguardar sua chegada; sem condições de aguardar, adotar o terceiro olho",
+        "desistir da abordagem e acompanhar os suspeitos à distância até a chegada do apoio",
+        "iniciar a abordagem com a arma no coldre, para evitar a escalada do conflito"
+      ],
+      "correta": 1,
+      "explicacao": "A US deve solicitar apoio e esperar sua chegada para iniciar a ação; se, por razões de segurança, não houver condições de aguardar, adota-se a força máxima prevista, o terceiro olho.",
+      "tags": [
+        "abordagem",
+        "superioridade-numerica"
+      ]
+    },
+    {
+      "id": "abordagem-elab-012",
+      "subtema": "Busca pessoal",
+      "artigo": "POP 1.01.05 — Armamento do vistoriador",
+      "enunciado": "Antes de iniciar a busca pessoal, o policial militar encarregado da busca deverá",
+      "alternativas": [
+        "entregar seu armamento ao policial responsável pela segurança",
+        "manter seu armamento na posição sul, apontado para o solo",
+        "colocar seu armamento, travado, no coldre e abotoá-lo",
+        "manter seu armamento no coldre desabotoado, para pronta reação"
+      ],
+      "correta": 2,
+      "explicacao": "O vistoriador coloca a arma, travada, no coldre e o abotoa antes de se dirigir ao abordado, evitando que a arma seja tomada durante o contato físico da busca.",
+      "tags": [
+        "abordagem",
+        "busca-pessoal",
+        "armamento"
+      ]
+    },
+    {
+      "id": "abordagem-elab-013",
+      "subtema": "Etapas",
+      "artigo": "POP 1.01.00 — LAB",
+      "enunciado": "A etapa da abordagem em si, conforme o processo, compreende",
+      "alternativas": [
+        "localização, aproximação e busca pessoal",
+        "localização, abordagem e busca pessoal",
+        "levantamento, abordagem e busca pessoal",
+        "localização, abordagem e condução das partes"
+      ],
+      "correta": 1,
+      "explicacao": "O mnemônico LAB resume a etapa: localização da pessoa, abordagem propriamente dita e busca pessoal, que se seguem ao conhecimento do fato, ao deslocamento e à chegada ao local.",
+      "tags": [
+        "abordagem",
+        "etapas",
+        "lab"
+      ]
+    },
+    {
+      "id": "abordagem-elab-014",
+      "subtema": "Conhecimento do fato",
+      "artigo": "POP 1.01.01 — Resultado esperado",
+      "enunciado": "O resultado esperado da etapa de conhecimento do fato é que o policial militar",
+      "alternativas": [
+        "defina a tipificação penal da conduta antes do deslocamento para o local",
+        "identifique previamente os autores do fato por meio de consulta aos sistemas",
+        "obtenha os dados sobre a natureza do fato, suas circunstâncias e o grau de risco",
+        "estabeleça contato telefônico com o solicitante para confirmar a ocorrência"
+      ],
+      "correta": 2,
+      "explicacao": "Espera-se que o policial obtenha os dados necessários ao conhecimento da natureza do fato, das circunstâncias das ações a praticar e do grau de risco, para agir com segurança, eficiência e profissionalismo.",
+      "tags": [
+        "abordagem",
+        "conhecimento-fato"
+      ]
+    },
+    {
+      "id": "abordagem-elab-015",
+      "subtema": "Câmeras operacionais portáteis",
+      "artigo": "POP 1.01.00 — POP 5.16.00",
+      "enunciado": "Quanto às câmeras operacionais portáteis, o processo de abordagem de pessoa a pé estabelece que",
+      "alternativas": [
+        "a gravação somente é obrigatória nas abordagens de pessoa infratora da lei",
+        "a gravação é facultativa, a critério do encarregado da unidade de serviço",
+        "quando disponível, toda ação e interação deve ser gravada em áudio e vídeo",
+        "a gravação depende de autorização prévia do centro de operações da área"
+      ],
+      "correta": 2,
+      "explicacao": "Quando disponível, toda ação e interação deve ser gravada mediante COP, nos termos do POP 5.16.00; deixar de gravar é possibilidade de erro comum a todos os POP do processo.",
+      "tags": [
+        "abordagem",
+        "cop"
+      ]
+    },
+    {
+      "id": "abordagem-elab-016",
+      "subtema": "Câmeras operacionais portáteis",
+      "artigo": "POP 1.01.00 — Possibilidade de erro comum",
+      "enunciado": "Figura como possibilidade de erro comum a todos os POP do Processo de Abordagem de Pessoa a Pé",
+      "alternativas": [
+        "deixar de solicitar policial feminina para a busca pessoal em mulheres",
+        "deixar de apresentar o preso algemado ao delegado de polícia da circunscrição",
+        "deixar de gravar na COP as ações ou interações, quando o equipamento estiver em uso",
+        "deixar de anotar os dados do abordado no relatório de serviço operacional"
+      ],
+      "correta": 2,
+      "explicacao": "A omissão da gravação pela COP, quando o equipamento estiver em uso pela US, é possibilidade de erro que consta de todos os POP do processo; as demais são erros específicos de determinadas etapas.",
+      "tags": [
+        "abordagem",
+        "cop",
+        "erro"
+      ]
+    },
+    {
+      "id": "abordagem-elab-017",
+      "subtema": "Câmeras operacionais portáteis",
+      "artigo": "POP 1.01.09 — Registro do vídeo",
+      "enunciado": "Tendo sido a interação policial-militar gravada por meio de COP, o número identificador do vídeo deverá ser registrado",
+      "alternativas": [
+        "na notificação de ocorrência entregue à parte interessada",
+        "no relatório de serviço operacional, apenas",
+        "no livro de ocorrências da companhia, pelo comandante de força patrulha",
+        "no respectivo BOe, conforme o POP de classificação dos dados"
+      ],
+      "correta": 3,
+      "explicacao": "O número identificador do vídeo deve constar do BOe, nos termos do POP 5.16.02 — Classificação dos dados, o que vincula a gravação ao registro da ocorrência.",
+      "tags": [
+        "abordagem",
+        "cop",
+        "boe"
+      ]
+    },
+    {
+      "id": "abordagem-elab-018",
+      "subtema": "Deslocamento",
+      "artigo": "POP 1.01.02 — Melhor itinerário",
+      "enunciado": "Na etapa de deslocamento para o local, entende-se por melhor itinerário aquele que",
+      "alternativas": [
+        "concilia segurança e menor tempo, evitando congestionamentos e vias em más condições",
+        "corresponde ao menor percurso em quilômetros entre a viatura e o local dos fatos",
+        "é indicado pelo centro de operações no momento do despacho da ocorrência",
+        "permite a passagem pelas bases comunitárias existentes no trajeto até o local"
+      ],
+      "correta": 0,
+      "explicacao": "O melhor itinerário combina segurança e menor tempo possível, evitando congestionamentos e vias em más condições que possam danificar a viatura ou aumentar riscos no deslocamento.",
+      "tags": [
+        "abordagem",
+        "deslocamento",
+        "itinerario"
+      ]
+    },
+    {
+      "id": "abordagem-elab-019",
+      "subtema": "Deslocamento",
+      "artigo": "POP 1.01.02 — Velocidade compatível",
+      "enunciado": "A velocidade compatível no deslocamento para o local é a que leva em consideração, entre outros critérios,",
+      "alternativas": [
+        "a capacidade técnica do motorista, independentemente das condições da via",
+        "exclusivamente o grau de urgência atribuído pelo centro de operações à ocorrência",
+        "o limite máximo da via acrescido da tolerância concedida aos veículos de emergência",
+        "a fluidez do trânsito, as características da via, a urgência e as condições climáticas"
+      ],
+      "correta": 3,
+      "explicacao": "A velocidade compatível considera a fluidez do trânsito, as características da via, o grau de urgência, as condições climáticas e outros critérios do motorista e do encarregado.",
+      "tags": [
+        "abordagem",
+        "deslocamento",
+        "velocidade"
+      ]
+    },
+    {
+      "id": "abordagem-elab-020",
+      "subtema": "Conceitos",
+      "artigo": "POP 1.01.00 — Unidade de Serviço",
+      "enunciado": "A revisão de 2022 substituiu as expressões equipe PM e guarnição PM por unidade de serviço, definida como",
+      "alternativas": [
+        "o conjunto de policiais militares sob comando de um mesmo comandante de força patrulha",
+        "a fração composta por no máximo quatro policiais militares embarcados em viatura",
+        "a menor fração de recursos humanos, com um ou mais policiais, integrada a um centro de operações",
+        "a fração mínima composta por dois policiais militares, a pé ou embarcados"
+      ],
+      "correta": 2,
+      "explicacao": "A US é a menor fração de recursos humanos, composta por um ou mais policiais, a pé ou embarcados, atuando em determinado território integrados a um centro de operações; a limitação a quatro policiais é o elemento estranho ao conceito, cobrado como pegadinha.",
+      "tags": [
+        "abordagem",
+        "conceitos",
+        "us"
+      ]
+    },
+    {
+      "id": "abordagem-elab-021",
+      "subtema": "Conceitos",
+      "artigo": "POP 1.01.00 — Atender o chamado",
+      "enunciado": "Ao receber a mensagem do COPOM ou CAD via rádio, a sequência correta a ser adotada pelo patrulheiro é",
+      "alternativas": [
+        "responder viatura no QAP, anotar horário e número da ocorrência e informar QSL, a caminho",
+        "responder QSL, a caminho, e somente depois anotar o horário e o número da ocorrência",
+        "responder viatura no QRV, anotar o endereço e informar QTH ao centro de operações",
+        "anotar o número da ocorrência e iniciar o deslocamento, dispensada a confirmação"
+      ],
+      "correta": 0,
+      "explicacao": "O patrulheiro responde viatura (prefixo) no QAP, anota o horário da comunicação e o número da ocorrência e, com tudo anotado, informa QSL, a caminho, usando exclusivamente linguagem técnica.",
+      "tags": [
+        "abordagem",
+        "conceitos",
+        "radio"
+      ]
+    },
+    {
+      "id": "abordagem-elab-022",
+      "subtema": "Conceitos",
+      "artigo": "POP 1.01.00 — Superioridade de meios",
+      "enunciado": "Segundo o processo, a superioridade de meios consiste na adequação da quantidade de meios disponibilizados de modo que",
+      "alternativas": [
+        "a resposta supere amplamente os meios dos infratores, desestimulando qualquer reação",
+        "a resposta seja proporcional aos meios apresentados pelos infratores, evitando excessos",
+        "o número de policiais seja sempre o dobro do número de pessoas abordadas",
+        "sejam empregados todos os equipamentos de menor potencial ofensivo disponíveis"
+      ],
+      "correta": 1,
+      "explicacao": "A superioridade de meios visa à resposta proporcional à quantidade de meios apresentados pelos infratores da lei, evitando-se os excessos; já a superioridade numérica refere-se à adequação do número de policiais empregados.",
+      "tags": [
+        "abordagem",
+        "conceitos",
+        "superioridade"
+      ]
+    },
+    {
+      "id": "abordagem-elab-023",
+      "subtema": "Conceitos",
+      "artigo": "POP 1.01.00 — Linha de tiro",
+      "enunciado": "A linha de tiro, conceito relevante na busca pessoal, é definida como linha imaginária que parte da alça de mira até a massa de mira, sendo",
+      "alternativas": [
+        "o ponto que, sob nenhuma hipótese, o policial que realiza a revista deverá cruzar",
+        "o limite a partir do qual o policial de segurança está autorizado a efetuar disparos",
+        "a distância mínima que o abordado deve manter do policial encarregado da busca",
+        "a direção para a qual o abordado deve ficar voltado durante toda a busca pessoal"
+      ],
+      "correta": 0,
+      "explicacao": "A linha de tiro é o ponto que o policial que realiza a revista não deve cruzar sob hipótese alguma, para não ser atingido em caso de reação do abordado; por isso o policial de segurança posiciona-se a noventa graus.",
+      "tags": [
+        "abordagem",
+        "conceitos",
+        "linha-tiro"
+      ]
+    },
+    {
+      "id": "abordagem-elab-024",
+      "subtema": "Conceitos",
+      "artigo": "POP 1.01.00 — Comunicação",
+      "enunciado": "Quanto aos conceitos de comunicação previstos no processo, é correto afirmar que",
+      "alternativas": [
+        "a comunicação por sinais somente é admitida quando o abordado utilizar a Libras",
+        "a comunicação por sinais usa mãos e corpo, e a Libras é a língua de sinais do Brasil",
+        "a comunicação verbal é vedada na abordagem de pessoa com deficiência auditiva",
+        "a língua de sinais é empregada exclusivamente pelos policiais com formação em Libras"
+      ],
+      "correta": 1,
+      "explicacao": "A comunicação verbal é a estabelecida pela fala; a comunicação por sinais é a expressão pelas mãos e pelo corpo; e a língua de sinais consiste em códigos contextualizados, sendo a Libras a adotada no Brasil.",
+      "tags": [
+        "abordagem",
+        "conceitos",
+        "comunicacao"
+      ]
+    },
+    {
+      "id": "abordagem-elab-025",
+      "subtema": "Conceitos",
+      "artigo": "POP 1.01.00 — Superioridade numérica",
+      "enunciado": "A superioridade numérica, conforme o processo, visa garantir aos policiais as melhores condições de segurança, tendo como finalidade",
+      "alternativas": [
+        "a intimidação dos abordados, reduzindo a necessidade de verbalização",
+        "a preservação da integridade física de todos os envolvidos na ação policial",
+        "a dispensa do uso seletivo da força nas abordagens de maior risco",
+        "a garantia de que ao menos dois policiais realizem a busca pessoal"
+      ],
+      "correta": 1,
+      "explicacao": "A adequação do número de policiais busca as melhores condições de segurança, visando à preservação da integridade física de todos os envolvidos na ação, inclusive dos abordados.",
+      "tags": [
+        "abordagem",
+        "conceitos",
+        "superioridade-numerica"
+      ]
+    },
+    {
+      "id": "abordagem-elab-026",
+      "subtema": "Uso seletivo da força",
+      "artigo": "POP 1.01.00 — Conceito",
+      "enunciado": "O conceito de uso seletivo da força pressupõe, sempre que possível,",
+      "alternativas": [
+        "partir da verbalização até a força potencialmente letal, conforme a resistência oferecida",
+        "empregar desde logo o meio mais eficaz para cessar a resistência do abordado",
+        "utilizar a força potencialmente letal apenas após autorização do comandante imediato",
+        "limitar o emprego da força às técnicas de defesa pessoal sem uso de equipamentos"
+      ],
+      "correta": 0,
+      "explicacao": "O emprego da força deve corresponder ao nível de resistência oferecida, partindo, sempre que possível, do mínimo, a verbalização, até o máximo, a força potencialmente letal, com os meios disponíveis proporcionalmente à resistência.",
+      "tags": [
+        "abordagem",
+        "uso-seletivo",
+        "conceito"
+      ]
+    },
+    {
+      "id": "abordagem-elab-027",
+      "subtema": "Pessoa com deficiência",
+      "artigo": "POP 1.01.01 — Conceito de deficiência",
+      "enunciado": "Para o processo de abordagem, deficiência é entendida como",
+      "alternativas": [
+        "a condição que impede a pessoa de compreender a ordem legal emanada pelo policial",
+        "a limitação permanente atestada por laudo médico apresentado ao policial militar",
+        "todo comprometimento da integridade que prejudica locomoção, fala ou percepção",
+        "a restrição física que dispensa a pessoa da submissão à busca pessoal"
+      ],
+      "correta": 2,
+      "explicacao": "Deficiência é todo comprometimento que afeta a integridade da pessoa e traz prejuízos à locomoção, coordenação, fala, compreensão, orientação espacial, percepção e contato com outras pessoas; não exige laudo nem dispensa a busca pessoal.",
+      "tags": [
+        "abordagem",
+        "deficiencia",
+        "conceito"
+      ]
+    },
+    {
+      "id": "abordagem-elab-028",
+      "subtema": "Pessoa com deficiência",
+      "artigo": "POP 1.01.01 — Deficiência visual",
+      "enunciado": "A deficiência visual, conforme o processo, caracteriza-se pela perda ou redução da capacidade visual",
+      "alternativas": [
+        "em ambos os olhos, em caráter temporário ou definitivo, qualquer que seja o grau",
+        "em ao menos um dos olhos, ainda que corrigível com o uso de lentes",
+        "em ambos os olhos, em caráter definitivo, sem melhora por lentes ou tratamento",
+        "em um dos olhos, desde que em caráter definitivo e atestada por laudo"
+      ],
+      "correta": 2,
+      "explicacao": "A deficiência visual é a perda ou redução da capacidade visual em ambos os olhos, em caráter definitivo, que não possa ser melhorada ou corrigida com lentes ou tratamento clínico ou cirúrgico.",
+      "tags": [
+        "abordagem",
+        "deficiencia",
+        "visual"
+      ]
+    },
+    {
+      "id": "abordagem-elab-029",
+      "subtema": "Pessoa com deficiência",
+      "artigo": "POP 1.01.01 — Deficiência intelectual",
+      "enunciado": "A deficiência intelectual é caracterizada por funcionamento intelectual significativamente inferior à média, com",
+      "alternativas": [
+        "manifestação antes dos vinte e um anos e limitações em três áreas adaptativas",
+        "manifestação antes dos doze anos e limitação em ao menos uma área adaptativa",
+        "manifestação em qualquer idade e limitações restritas à comunicação verbal",
+        "manifestação antes dos dezoito anos e limitações em duas ou mais áreas adaptativas"
+      ],
+      "correta": 3,
+      "explicacao": "O conceito exige funcionamento intelectual significativamente inferior à média, manifestação antes dos dezoito anos e limitações associadas a duas ou mais áreas de habilidades adaptativas.",
+      "tags": [
+        "abordagem",
+        "deficiencia",
+        "intelectual"
+      ]
+    },
+    {
+      "id": "abordagem-elab-030",
+      "subtema": "Pessoa com deficiência",
+      "artigo": "POP 1.01.01 — Transtorno do espectro autista",
+      "enunciado": "Em relação à pessoa com transtorno do espectro autista, o processo alerta que",
+      "alternativas": [
+        "pode tentar tocar o policial e costuma estar com familiar, que confirma a condição",
+        "deve ser imediatamente contida, por apresentar invariavelmente comportamento agressivo",
+        "está dispensada de qualquer procedimento de abordagem, por sua condição peculiar",
+        "deve ser abordada somente com a presença de profissional de saúde no local"
+      ],
+      "correta": 0,
+      "explicacao": "A pessoa com TEA, por suas características, pode tentar tocar o policial; normalmente está acompanhada de familiar, cabendo confirmar com ele sua condição, sem afastar os procedimentos conforme o tipo de abordagem.",
+      "tags": [
+        "abordagem",
+        "deficiencia",
+        "tea"
+      ]
+    },
+    {
+      "id": "abordagem-elab-031",
+      "subtema": "Transtornos adicionais",
+      "artigo": "POP 1.01.01 — Características",
+      "enunciado": "Entre os transtornos adicionais descritos no processo, caracteriza-se por rebeldia, desobediência, hostilidade e explosões de fúria o transtorno",
+      "alternativas": [
+        "obsessivo compulsivo",
+        "bipolar",
+        "opositivo desafiador",
+        "de déficit de atenção e hiperatividade"
+      ],
+      "correta": 2,
+      "explicacao": "O transtorno opositivo desafiador associa-se a rebeldia, desobediência, hostilidade e explosões de fúria; o bipolar, à alternância de sentimentos; o TOC, a pensamentos e medos irracionais; o TDAH, a impulsividade, agitação ou desatenção.",
+      "tags": [
+        "abordagem",
+        "transtornos"
+      ]
+    },
+    {
+      "id": "abordagem-elab-032",
+      "subtema": "Transtornos adicionais",
+      "artigo": "POP 1.01.01 — Bipolaridade",
+      "enunciado": "A alternância de sentimentos, com agitação, euforia, raiva, irritabilidade e impulsividade, é descrita no processo como característica do transtorno",
+      "alternativas": [
+        "obsessivo compulsivo",
+        "opositivo desafiador",
+        "afetivo bipolar",
+        "do espectro autista"
+      ],
+      "correta": 2,
+      "explicacao": "A alternância de sentimentos e estados de agitação, euforia, raiva e agressividade caracteriza o transtorno bipolar, distinguindo-se das explosões de fúria do opositivo desafiador.",
+      "tags": [
+        "abordagem",
+        "transtornos",
+        "bipolar"
+      ]
+    },
+    {
+      "id": "abordagem-elab-033",
+      "subtema": "Deficiência auditiva",
+      "artigo": "POP 1.01.05 — Item 4.4.1",
+      "enunciado": "Na abordagem de pessoa com deficiência auditiva, a divisão de tarefas entre os policiais prevê que",
+      "alternativas": [
+        "o encarregado aguarde a chegada de policial com formação em Libras para iniciar",
+        "ambos se aproximem simultaneamente, para facilitar a leitura labial do abordado",
+        "um se aproxime pelas costas do abordado, tocando-o levemente para chamar sua atenção",
+        "um se aproxime e sinalize para comunicar-se, enquanto o outro permanece atento ao entorno"
+      ],
+      "correta": 3,
+      "explicacao": "Um dos policiais se aproxima e sinaliza para estabelecer comunicação, e o outro permanece atento às pessoas que transitam pelo local, resguardando a segurança pessoal e de terceiros.",
+      "tags": [
+        "abordagem",
+        "auditiva",
+        "divisao"
+      ]
+    },
+    {
+      "id": "abordagem-elab-034",
+      "subtema": "Deficiência auditiva",
+      "artigo": "POP 1.01.05 — Leitura labial e tom de voz",
+      "enunciado": "Considerando que a deficiência auditiva pode ser parcial, o policial militar deverá",
+      "alternativas": [
+        "falar direta e frontalmente, em tom normal de voz, facilitando a leitura labial",
+        "falar em tom elevado de voz, posicionando-se ao lado do abordado",
+        "evitar a fala e utilizar exclusivamente a comunicação escrita",
+        "falar pausadamente, mantendo-se de costas para eventuais ruídos do local"
+      ],
+      "correta": 0,
+      "explicacao": "O POP determina falar direta e frontalmente, para facilitar a leitura labial, em tom normal de voz, utilizando a comunicação por sinais se necessário.",
+      "tags": [
+        "abordagem",
+        "auditiva",
+        "leitura-labial"
+      ]
+    },
+    {
+      "id": "abordagem-elab-035",
+      "subtema": "Deficiência auditiva",
+      "artigo": "POP 1.01.05 — Contato visual",
+      "enunciado": "Na comunicação com pessoa com deficiência auditiva, o contato visual deve ser mantido até o final da conversa porque",
+      "alternativas": [
+        "a norma exige a confirmação visual de que a pessoa compreendeu cada ordem emitida",
+        "o contato visual substitui a necessidade de comunicação por sinais durante a abordagem",
+        "a pessoa com deficiência auditiva tende a reagir de forma agressiva ao desvio do olhar",
+        "o desvio do olhar pode ser interpretado pela pessoa como encerramento da conversa"
+      ],
+      "correta": 3,
+      "explicacao": "Ao desviar o olhar, a pessoa com deficiência auditiva entenderá que a conversa se encerrou, razão pela qual o contato visual deve ser mantido até o final.",
+      "tags": [
+        "abordagem",
+        "auditiva",
+        "contato-visual"
+      ]
+    },
+    {
+      "id": "abordagem-elab-036",
+      "subtema": "Deficiência auditiva",
+      "artigo": "POP 1.01.05 — Libras",
+      "enunciado": "Quanto ao uso da Língua Brasileira de Sinais na abordagem de pessoa com deficiência auditiva, o POP estabelece que o policial militar",
+      "alternativas": [
+        "deverá utilizá-la obrigatoriamente em todas as abordagens",
+        "poderá utilizá-la, desde que saiba fazer uso dela",
+        "deverá solicitar intérprete antes de iniciar a abordagem",
+        "está impedido de utilizá-la sem certificação oficial"
+      ],
+      "correta": 1,
+      "explicacao": "O uso da Libras é faculdade condicionada ao conhecimento do policial: sabendo utilizar, poderá fazer uso dela, sem prejuízo dos procedimentos conforme o tipo de abordagem.",
+      "tags": [
+        "abordagem",
+        "auditiva",
+        "libras"
+      ]
+    },
+    {
+      "id": "abordagem-elab-037",
+      "subtema": "Deficiência visual",
+      "artigo": "POP 1.01.05 — Item 4.4.2",
+      "enunciado": "Na abordagem de pessoa com deficiência visual, o policial militar deverá",
+      "alternativas": [
+        "dispensar a busca pessoal, dada a impossibilidade de a pessoa visualizar as ordens",
+        "tocar o braço da pessoa antes de se identificar, para evitar reação de susto",
+        "informar que é policial, conduzi-la à área de segurança e antecipar verbalmente as ações",
+        "aguardar a presença de acompanhante da pessoa antes de iniciar a abordagem"
+      ],
+      "correta": 2,
+      "explicacao": "O policial informa que é policial militar e que a pessoa será abordada, conduzindo-a à área de segurança, e informa verbal e antecipadamente as ações que adotará, seguindo os procedimentos do tipo de abordagem.",
+      "tags": [
+        "abordagem",
+        "visual",
+        "procedimento"
+      ]
+    },
+    {
+      "id": "abordagem-elab-038",
+      "subtema": "Deficiência intelectual",
+      "artigo": "POP 1.01.05 — Item 4.4.3",
+      "enunciado": "Na abordagem de pessoa com deficiência intelectual, o POP orienta o policial militar a",
+      "alternativas": [
+        "conduzir a pessoa imediatamente ao pronto-socorro para avaliação clínica",
+        "falar em tom enérgico, para garantir a pronta obediência às determinações",
+        "evitar qualquer comunicação por sinais, para não gerar confusão no abordado",
+        "falar pausadamente, para facilitar a comunicação e manter o controle da situação"
+      ],
+      "correta": 3,
+      "explicacao": "O POP recomenda falar pausadamente, facilitando a comunicação e mantendo o controle da situação, utilizando a comunicação por sinais caso entenda necessário.",
+      "tags": [
+        "abordagem",
+        "intelectual"
+      ]
+    },
+    {
+      "id": "abordagem-elab-039",
+      "subtema": "Transtorno do espectro autista",
+      "artigo": "POP 1.01.05 — Item 4.4.4",
+      "enunciado": "Estando agitada a pessoa com transtorno do espectro autista, o policial militar deverá",
+      "alternativas": [
+        "contê-la fisicamente de imediato, para evitar reações agressivas durante a abordagem",
+        "procurar acalmá-la antes de iniciar a abordagem, descrevendo passo a passo o que fará",
+        "elevar o tom de voz, para sobrepor-se à agitação e obter a atenção da pessoa",
+        "encerrar a abordagem e registrar o fato como mera averiguação no relatório"
+      ],
+      "correta": 1,
+      "explicacao": "Deve-se procurar acalmá-la antes de iniciar a abordagem, evitando alterar o tom de voz, segurar ou pressionar demais, e descrever passo a passo o que será feito, reduzindo a ansiedade e possíveis reações agressivas.",
+      "tags": [
+        "abordagem",
+        "tea",
+        "agitacao"
+      ]
+    },
+    {
+      "id": "abordagem-elab-040",
+      "subtema": "Transtorno do espectro autista",
+      "artigo": "POP 1.01.05 — Comunicação",
+      "enunciado": "Na comunicação com pessoa com transtorno do espectro autista, recomenda-se",
+      "alternativas": [
+        "evitar qualquer estímulo visual, que pode ampliar a agitação da pessoa",
+        "utilizar expressões coloquiais, para criar ambiente de maior descontração",
+        "falar de forma clara e objetiva, sem gírias, com estímulos visuais se necessário",
+        "comunicar-se exclusivamente com o familiar acompanhante, sem se dirigir à pessoa"
+      ],
+      "correta": 2,
+      "explicacao": "O policial deve aproximar-se com cautela, evitar movimentos bruscos e falar pausadamente, de forma clara e objetiva, sem gírias ou expressões dúbias, usando estímulos visuais quando necessário.",
+      "tags": [
+        "abordagem",
+        "tea",
+        "comunicacao"
+      ]
+    },
+    {
+      "id": "abordagem-elab-041",
+      "subtema": "Idioma diverso",
+      "artigo": "POP 1.01.05 — Item 4.5",
+      "enunciado": "Na abordagem de pessoa que se comunica em idioma diverso da língua portuguesa, o POP prevê",
+      "alternativas": [
+        "a condução da pessoa ao distrito policial para a identificação por intérprete",
+        "a obrigatória solicitação de intérprete ao centro de operações antes da abordagem",
+        "preferência pelo inglês, se houver habilidade; na falta dela, a comunicação por sinais",
+        "o uso exclusivo da comunicação por sinais, vedado o uso de língua estrangeira"
+      ],
+      "correta": 2,
+      "explicacao": "Havendo habilidade com a língua inglesa, dá-se preferência a ela; na inexistência dessa habilidade, utiliza-se a comunicação por sinais, adotando-se os procedimentos do tipo de abordagem.",
+      "tags": [
+        "abordagem",
+        "idioma"
+      ]
+    },
+    {
+      "id": "abordagem-elab-042",
+      "subtema": "Área de perigo",
+      "artigo": "ICC 230 — Conceito",
+      "enunciado": "A área de perigo é o local em que o suposto agressor está localizado ou confinado, devendo o policial militar",
+      "alternativas": [
+        "adentrá-la imediatamente, para impedir a destruição de provas pelo agressor",
+        "adentrá-la tão logo obtenha superioridade numérica em relação ao agressor",
+        "evitar ao máximo adentrá-la, optando pela verbalização para que o infrator a deixe",
+        "adentrá-la somente após autorização do comandante de grupo de patrulha"
+      ],
+      "correta": 2,
+      "explicacao": "Pelo elevado risco, o policial deve evitar ao máximo adentrar a área de perigo, preferindo a verbalização para convencer o infrator a deixá-la e abandonar a arma, se houver.",
+      "tags": [
+        "abordagem",
+        "area-perigo"
+      ]
+    },
+    {
+      "id": "abordagem-elab-043",
+      "subtema": "Área de perigo",
+      "artigo": "ICC 230 — Exemplos",
+      "enunciado": "É considerada área de perigo, nos termos da ICC 230,",
+      "alternativas": [
+        "a via pública em que o suspeito transite, desde que haja aglomeração de pessoas",
+        "apenas o interior de edificação em que o criminoso esteja armado com arma de fogo",
+        "a área de alcance de agressor com arma branca, mesmo com superioridade numérica",
+        "somente o local em que haja reféns sob o domínio do criminoso"
+      ],
+      "correta": 2,
+      "explicacao": "São áreas de perigo o interior de residência ou edificação em que o criminoso esteja confinado, a lateral ou traseira de veículo irradiado que pare na via, corredor estreito e a área de alcance de agressor com arma branca, mesmo com superioridade numérica e de meios.",
+      "tags": [
+        "abordagem",
+        "area-perigo",
+        "exemplos"
+      ]
+    },
+    {
+      "id": "abordagem-elab-044",
+      "subtema": "Área de segurança",
+      "artigo": "ICC 230 — Conceito",
+      "enunciado": "Área de segurança é o local mediato em que os policiais estão abrigados e posicionados a distância segura do agressor, tendo como características essenciais ser",
+      "alternativas": [
+        "elevada, abrigada, afastada e de difícil acesso ao agressor",
+        "próxima, abrigada, iluminada e com rota de fuga definida",
+        "fechada, protegida, silenciosa e sem trânsito de pessoas",
+        "isolada, afastada, segura e própria para a verbalização"
+      ],
+      "correta": 3,
+      "explicacao": "A área de segurança é isolada, afastada, segura e própria para a verbalização até que o criminoso se entregue, com ampla visibilidade para intervenções sem maiores exposições da US.",
+      "tags": [
+        "abordagem",
+        "area-seguranca"
+      ]
+    },
+    {
+      "id": "abordagem-elab-045",
+      "subtema": "Área de perigo",
+      "artigo": "ICC 230 — Insucesso da verbalização",
+      "enunciado": "Guarnição atende indivíduo provavelmente armado com arma branca, confinado em sua residência e ameaçando matar-se. Nos termos da ICC 230, deverá",
+      "alternativas": [
+        "informar CGP e CFP, evitar adentrar a área de perigo e, sem êxito, acionar tropa especializada",
+        "tentar a rendição e, sem êxito, acionar CGP e CFP para adentrar com segurança o local",
+        "confirmar o porte da arma branca e adentrar a área de perigo em superioridade numérica",
+        "informar CGP e CFP e adentrar a área de perigo apenas com o apoio da Força Tática"
+      ],
+      "correta": 0,
+      "explicacao": "A US informa CGP e CFP, evita ao máximo adentrar a área de perigo e tenta a rendição; sem sucesso, solicita via COPOM ou CAD o acionamento de tropas especializadas, como GATE e COE, conforme a questão do CFS 2020.",
+      "tags": [
+        "abordagem",
+        "area-perigo",
+        "caso"
+      ]
+    },
+    {
+      "id": "abordagem-elab-046",
+      "subtema": "Área de perigo",
+      "artigo": "ICC 230 — Vias públicas",
+      "enunciado": "Nas vias públicas, para dar início à verbalização com o criminoso, a ICC 230 orienta",
+      "alternativas": [
+        "aproximar-se rapidamente do criminoso, reduzindo seu tempo de reação",
+        "interpor obstáculos, como a própria viatura, entre o perigo e a equipe",
+        "posicionar os policiais à frente da viatura, ampliando o campo de visão",
+        "aguardar o esvaziamento da via antes de qualquer contato com o criminoso"
+      ],
+      "correta": 1,
+      "explicacao": "Devem ser interpostos obstáculos entre o criminoso e a equipe, por exemplo a própria viatura posicionada a distância segura, com os policiais à sua retaguarda, para iniciar a verbalização.",
+      "tags": [
+        "abordagem",
+        "area-perigo",
+        "via-publica"
+      ]
+    },
+    {
+      "id": "abordagem-elab-047",
+      "subtema": "Área de perigo",
+      "artigo": "ICC 230 — Verbalização em veículo",
+      "enunciado": "Sendo a abordagem dirigida a pessoa no interior de automóvel, a verbalização correta indicada pela ICC 230 é",
+      "alternativas": [
+        "Polícia! Mãos para cima! Saia do veículo devagar!",
+        "Cidadão! É a polícia! Desligue o veículo! Desça do veículo!",
+        "Cidadão! Mostre as mãos! Abra a porta pelo lado de fora!",
+        "É a polícia! Permaneça no veículo com as mãos no volante!"
+      ],
+      "correta": 1,
+      "explicacao": "A verbalização padronizada é Cidadão! É a polícia! Desligue o veículo! Desça do veículo!; para a rendição fora do veículo, a expressão clássica é Caminhe em minha direção com as mãos para cima!",
+      "tags": [
+        "abordagem",
+        "verbalizacao",
+        "veiculo"
+      ]
+    },
+    {
+      "id": "abordagem-elab-048",
+      "subtema": "Área de perigo",
+      "artigo": "ICC 230 — Tempo",
+      "enunciado": "A orientação da ICC 230 de não ter pressa em resolver a ocorrência fundamenta-se em que",
+      "alternativas": [
+        "a demora reduz a responsabilidade da unidade de serviço por eventual resultado",
+        "o tempo está a favor da unidade de serviço, que dispõe de alternativas táticas ao confronto",
+        "a norma exige a presença do comandante de companhia antes de qualquer intervenção",
+        "o criminoso confinado tende a abandonar o local espontaneamente com o passar do tempo"
+      ],
+      "correta": 1,
+      "explicacao": "O tempo sempre está a favor da US, que dispõe de alternativas táticas diversas do confronto, como espargidores, munição de impacto controlado, bastão tonfa, escudo balístico e armas de incapacitação neuromuscular.",
+      "tags": [
+        "abordagem",
+        "area-perigo",
+        "tempo"
+      ]
+    },
+    {
+      "id": "abordagem-elab-049",
+      "subtema": "Área de perigo",
+      "artigo": "ICC 230 — Varredura",
+      "enunciado": "Na identificação da área de perigo, os procedimentos de busca e varredura exigem que os policiais",
+      "alternativas": [
+        "entrem com a arma na posição sul, para evitar disparos acidentais",
+        "entrem em dupla nos recintos, cobrindo-se mutuamente durante a varredura",
+        "anunciem a presença policial antes de cada recinto e aguardem resposta",
+        "façam tomadas de ângulo sempre abrigados e só entrem se não houver ameaça"
+      ],
+      "correta": 3,
+      "explicacao": "A varredura exige tomadas de ângulo e olhadas rápidas, sempre abrigados, com uso de espelhos se disponíveis; só se adentra um recinto quando houver certeza de que nele não existe ameaça.",
+      "tags": [
+        "abordagem",
+        "varredura"
+      ]
+    },
+    {
+      "id": "abordagem-elab-050",
+      "subtema": "Chegada ao local",
+      "artigo": "POP 1.01.03 — Tipos de local",
+      "enunciado": "Na progressão em local íngreme, com subida ou descida acentuada, o patrulheiro deve",
+      "alternativas": [
+        "progredir em linha com o parceiro, para somar poder de reação",
+        "progredir pelo centro do terreno, ampliando o campo de visão",
+        "progredir pelas laterais do terreno, mais próximo dos abrigos",
+        "progredir rapidamente, reduzindo o tempo de exposição"
+      ],
+      "correta": 2,
+      "explicacao": "Em subida ou descida acentuada, uma surpresa dificulta a reação defensiva, por isso a progressão deve ocorrer pelas laterais, mais próximo dos abrigos.",
+      "tags": [
+        "abordagem",
+        "chegada",
+        "ingreme"
+      ]
+    },
+    {
+      "id": "abordagem-elab-051",
+      "subtema": "Chegada ao local",
+      "artigo": "POP 1.01.03 — Local fechado",
+      "enunciado": "Na progressão em local fechado, o POP orienta o policial militar a",
+      "alternativas": [
+        "aguardar a chegada de apoio antes de qualquer progressão no interior",
+        "posicionar-se atrás de portas e janelas, que oferecem cobertura adequada",
+        "progredir pelo centro dos ambientes, evitando surpresas pelas laterais",
+        "usar as coberturas existentes e evitar posicionar-se atrás de portas ou janelas"
+      ],
+      "correta": 3,
+      "explicacao": "Em local fechado, progride-se usando as coberturas existentes, como paredes e pilares, evitando posicionar-se atrás de portas ou janelas e observando os acessos.",
+      "tags": [
+        "abordagem",
+        "chegada",
+        "local-fechado"
+      ]
+    },
+    {
+      "id": "abordagem-elab-052",
+      "subtema": "Sequência da abordagem",
+      "artigo": "POP 1.01.05 — Item 4.2.2",
+      "enunciado": "Na abordagem de pessoa a pé, a aproximação deve ocorrer a uma distância de aproximadamente",
+      "alternativas": [
+        "dez metros, em local aberto e sem obstáculos entre policiais e abordados",
+        "dois metros, preferencialmente junto a anteparo que forme a área de segurança",
+        "cinco metros, preferencialmente junto a anteparo que forme a área de segurança",
+        "três metros, em local que permita a rápida retirada da unidade de serviço"
+      ],
+      "correta": 2,
+      "explicacao": "A aproximação ocorre a cerca de cinco metros, preferencialmente onde haja anteparo, como muro, poste ou veículos estacionados, que proteja os policiais e forme a área de segurança.",
+      "tags": [
+        "abordagem",
+        "sequencia",
+        "distancia"
+      ]
+    },
+    {
+      "id": "abordagem-elab-053",
+      "subtema": "Sequência da abordagem",
+      "artigo": "POP 1.01.05 — Item 4.2.5",
+      "enunciado": "Durante a abordagem, o policial militar responsável pela segurança posiciona-se",
+      "alternativas": [
+        "a cento e oitenta graus do encarregado da busca e a cerca de cinco metros",
+        "a noventa graus do encarregado da busca e a cerca de dois metros, fora da linha de tiro",
+        "ao lado do encarregado da busca, a cerca de um metro, para pronta intervenção",
+        "atrás do encarregado da busca, a cerca de três metros, protegido por ele"
+      ],
+      "correta": 1,
+      "explicacao": "O policial de segurança fica a noventa graus do encarregado da busca e a aproximadamente dois metros, evitando pôr o parceiro em sua linha de tiro e vigiando mãos, linha da cintura e imediações.",
+      "tags": [
+        "abordagem",
+        "sequencia",
+        "seguranca"
+      ]
+    },
+    {
+      "id": "abordagem-elab-054",
+      "subtema": "Sequência da abordagem",
+      "artigo": "POP 1.01.05 — Item 4.2.4",
+      "enunciado": "Na abordagem sob fundada suspeita, após determinar que o abordado coloque no chão os objetos que tenha nas mãos, a verbalização prevista determina que ele",
+      "alternativas": [
+        "coloque as mãos na parede, afaste os pés e permaneça de frente para o policial",
+        "coloque as mãos sobre a cabeça, cruze os dedos, ajoelhe-se e cruze as pernas",
+        "coloque as mãos sobre a cabeça, cruze os dedos, fique de costas e afaste os pés",
+        "deite-se de bruços, com os braços abertos e as palmas das mãos voltadas para cima"
+      ],
+      "correta": 2,
+      "explicacao": "Sem necessidade de algemar, determina-se mãos sobre a cabeça, dedos entrelaçados, de costas e pés afastados um pouco além da largura dos ombros; ajoelhar e cruzar as pernas é o comando quando houver necessidade de algemas.",
+      "tags": [
+        "abordagem",
+        "verbalizacao",
+        "fundada-suspeita"
+      ]
+    },
+    {
+      "id": "abordagem-elab-055",
+      "subtema": "Busca pessoal em mulher",
+      "artigo": "POP 1.01.05 — Item 4.2.7",
+      "enunciado": "Sendo do sexo feminino a pessoa a ser submetida à busca pessoal e não sendo possível a presença de policial feminina, o policial militar deverá",
+      "alternativas": [
+        "dispensar a busca pessoal e conduzir a abordada ao distrito policial",
+        "aguardar obrigatoriamente a chegada de policial feminina antes de prosseguir",
+        "pedir que pessoa do público, de preferência mulher, acompanhe visualmente a busca",
+        "realizar a busca apenas com detector de metais, sem contato físico"
+      ],
+      "correta": 2,
+      "explicacao": "Solicita-se a uma pessoa do público, preferencialmente do sexo feminino, se houver, que sirva de testemunha e acompanhe visualmente, de posição segura, a busca pessoal, prosseguindo-se com a ação.",
+      "tags": [
+        "abordagem",
+        "busca-feminina"
+      ]
+    },
+    {
+      "id": "abordagem-elab-056",
+      "subtema": "Consulta de documentos",
+      "artigo": "POP 1.01.05 — Item 4.2.8",
+      "enunciado": "A conferência da documentação do abordado junto ao COPOM ou CAD deve ser realizada",
+      "alternativas": [
+        "após a busca pessoal, sem que o abordado ouça a comunicação da rede rádio",
+        "antes da busca pessoal, na presença do abordado, para garantir transparência",
+        "após a liberação do abordado, para não prolongar o tempo da abordagem",
+        "apenas quando houver suspeita de que o documento apresentado seja falso"
+      ],
+      "correta": 0,
+      "explicacao": "Após a busca pessoal, a documentação é solicitada e conferida junto ao centro de operações sem que o abordado ouça a comunicação, preservando a segurança da ação e das informações.",
+      "tags": [
+        "abordagem",
+        "documentos"
+      ]
+    },
+    {
+      "id": "abordagem-elab-057",
+      "subtema": "Finalização",
+      "artigo": "POP 1.01.05 — Item 4.2.10",
+      "enunciado": "Nada havendo de irregular ao término da abordagem, o policial militar deverá",
+      "alternativas": [
+        "entregar ao abordado cópia do registro da abordagem lançado no relatório de serviço",
+        "liberar o abordado sem maiores explicações, por se tratar de ato amparado pelo poder de polícia",
+        "informar que a abordagem é preventiva, agradecer e identificar-se pelo posto ou graduação e nome",
+        "orientar o abordado a procurar a corregedoria caso discorde do procedimento adotado"
+      ],
+      "correta": 2,
+      "explicacao": "O policial informa que a abordagem é procedimento preventivo visando à segurança do cidadão e agradece a colaboração, dizendo: Sou (posto ou graduação e nome). Conte sempre com a Polícia Militar.",
+      "tags": [
+        "abordagem",
+        "finalizacao"
+      ]
+    },
+    {
+      "id": "abordagem-elab-058",
+      "subtema": "Infrator da lei",
+      "artigo": "POP 1.01.05 — Item 4.3.8",
+      "enunciado": "Havendo necessidade do uso de algemas na abordagem de infrator da lei, o policial determinará que o abordado",
+      "alternativas": [
+        "ponha as mãos na cabeça, cruze os dedos, fique de costas e afaste os pés",
+        "ponha as mãos na cabeça, cruze os dedos, fique de costas, ajoelhe-se e cruze as pernas",
+        "deite-se de bruços com as mãos para trás, aguardando a aproximação do policial",
+        "ponha as mãos para trás, fique de costas e permaneça em pé junto ao anteparo"
+      ],
+      "correta": 1,
+      "explicacao": "Com necessidade de algemas, acrescenta-se ajoelhar-se e cruzar as pernas, preferencialmente sentando-se sobre os calcanhares, posição que reduz a capacidade de reação durante o algemamento.",
+      "tags": [
+        "abordagem",
+        "infrator",
+        "algemas"
+      ]
+    },
+    {
+      "id": "abordagem-elab-059",
+      "subtema": "Infrator da lei",
+      "artigo": "POP 1.01.05 — Item 4.3.9",
+      "enunciado": "Na abordagem de infrator da lei, havendo necessidade, a ordem correta dos procedimentos é",
+      "alternativas": [
+        "efetuar a busca pessoal e, em seguida, realizar o algemamento",
+        "realizar o algemamento e, em seguida, efetuar a busca pessoal",
+        "efetuar a consulta ao centro de operações e, após, o algemamento",
+        "conduzir o infrator à viatura e, no interior dela, realizar a busca"
+      ],
+      "correta": 1,
+      "explicacao": "Se houver necessidade, realiza-se o algemamento (POP 5.01.02) e somente após efetua-se a busca pessoal (POP 1.01.06), neutralizando a capacidade de reação antes do contato da revista.",
+      "tags": [
+        "abordagem",
+        "infrator",
+        "ordem"
+      ]
+    },
+    {
+      "id": "abordagem-elab-060",
+      "subtema": "Direitos do preso",
+      "artigo": "POP 1.01.05 — Prisão em flagrante",
+      "enunciado": "Nas hipóteses de prisão em flagrante, o policial responsável pela voz de prisão deve informar ao infrator, principalmente, o direito",
+      "alternativas": [
+        "de não ser algemado, salvo determinação expressa do delegado de polícia",
+        "de ser conduzido em viatura separada das vítimas e testemunhas da ocorrência",
+        "de permanecer calado e somente falar em juízo, e o de ser assistido por advogado",
+        "de escolher o distrito policial ao qual será apresentada a ocorrência"
+      ],
+      "correta": 2,
+      "explicacao": "O POP destaca o direito de permanecer calado e somente falar em juízo e o de ser assistido por advogado, além de contato com familiares, comunicação da prisão ao juiz e recebimento da nota de culpa em até vinte e quatro horas.",
+      "tags": [
+        "abordagem",
+        "direitos"
+      ]
+    },
+    {
+      "id": "abordagem-elab-061",
+      "subtema": "Direitos do preso",
+      "artigo": "POP 1.01.05 — Nota de culpa",
+      "enunciado": "Entre os direitos que o policial militar deve informar à pessoa detida está o de receber a nota de culpa, na qual será identificado o responsável pela prisão, em até",
+      "alternativas": [
+        "setenta e duas horas após a audiência de custódia",
+        "quarenta e oito horas após a prisão",
+        "doze horas após a apresentação ao delegado",
+        "vinte e quatro horas após a prisão"
+      ],
+      "correta": 3,
+      "explicacao": "A pessoa detida deve receber a nota de culpa em até vinte e quatro horas após a prisão, documento em que se identifica o responsável por sua prisão.",
+      "tags": [
+        "abordagem",
+        "direitos",
+        "nota-culpa"
+      ]
+    },
+    {
+      "id": "abordagem-elab-062",
+      "subtema": "Abordagem de CAC",
+      "artigo": "POP 1.01.05 — CAC, revisão de 25OUT23",
+      "enunciado": "Ao tomar conhecimento de que o abordado é colecionador, atirador desportivo, caçador excepcional ou pessoa com porte de arma, na abordagem de infrator da lei o policial deverá",
+      "alternativas": [
+        "retirar imediatamente a arma de sua posse e iniciar a busca pessoal",
+        "requisitar o certificado de registro antes de qualquer contato com a arma",
+        "manter a arma com o abordado até a conferência dos documentos pelo centro",
+        "solicitar que o abordado descarregue a arma e a entregue ao policial de segurança"
+      ],
+      "correta": 0,
+      "explicacao": "Na abordagem de CAC infrator da lei, retira-se imediatamente a arma de sua posse e inicia-se a busca pessoal; nas demais modalidades, verifica-se o acondicionamento e requisita-se a documentação.",
+      "tags": [
+        "abordagem",
+        "cac",
+        "infrator"
+      ]
+    },
+    {
+      "id": "abordagem-elab-063",
+      "subtema": "Abordagem de CAC",
+      "artigo": "POP 1.01.05 — Transporte",
+      "enunciado": "Na abordagem de CAC em fiscalização de polícia ou fundada suspeita, o policial verificará se as armas transportadas",
+      "alternativas": [
+        "estão desmuniciadas, com a munição em recipiente próprio e separado do armamento",
+        "estão municiadas, desde que travadas e acondicionadas em estojo próprio",
+        "estão municiadas apenas quando se tratar de arma de porte para defesa do acervo",
+        "estão acondicionadas no porta-malas, admitida a munição no mesmo recipiente"
+      ],
+      "correta": 0,
+      "explicacao": "Verifica-se se as armas estão desmuniciadas, se as munições estão em recipiente próprio e se esse recipiente está separado do armamento; as hipóteses de transporte municiado foram as distratoras da questão do MFN.",
+      "tags": [
+        "abordagem",
+        "cac",
+        "transporte"
+      ]
+    },
+    {
+      "id": "abordagem-elab-064",
+      "subtema": "Abordagem de CAC",
+      "artigo": "POP 1.01.05 — Documentação",
+      "enunciado": "Na abordagem de CAC, a requisição do certificado de registro, do CRAF e da guia de tráfego expedida pelo Comando do Exército destina-se a verificar",
+      "alternativas": [
+        "a existência de autorização para conduzir arma municiada para defesa do acervo",
+        "a existência de autorização para transportar as armas municiadas para defesa pessoal",
+        "a regularidade do exame psicológico periódico exigido do colecionador ou atirador",
+        "a conformidade da identificação da arma, da finalidade declarada e do trajeto autorizado"
+      ],
+      "correta": 3,
+      "explicacao": "A documentação serve para verificar a conformidade na identificação da arma de fogo de porte, na finalidade declarada no CR e no trajeto entre o local de guarda e o de treinamento, competição, manutenção, exposição, caça ou abate.",
+      "tags": [
+        "abordagem",
+        "cac",
+        "documentos"
+      ]
+    },
+    {
+      "id": "abordagem-elab-065",
+      "subtema": "Abordagem de CAC",
+      "artigo": "POP 1.01.05 — Irregularidade",
+      "enunciado": "Constatada irregularidade na documentação ou no acondicionamento das armas ou munições do CAC abordado, o policial militar deverá",
+      "alternativas": [
+        "lavrar notificação de ocorrência e comunicar o fato à Polícia Federal",
+        "apreender as armas e liberar a pessoa, registrando o fato no RSO",
+        "orientar a pessoa a regularizar a situação junto ao Comando do Exército",
+        "conduzir a pessoa ao distrito policial para registro da ocorrência"
+      ],
+      "correta": 3,
+      "explicacao": "Havendo irregularidade na documentação ou no acondicionamento, a pessoa abordada deve ser conduzida ao distrito policial para o registro da ocorrência.",
+      "tags": [
+        "abordagem",
+        "cac",
+        "irregularidade"
+      ]
+    },
+    {
+      "id": "abordagem-elab-066",
+      "subtema": "Abordagem de policial",
+      "artigo": "POP 1.01.05 — Abordagem a outros policiais",
+      "enunciado": "Na abordagem de policial por outro policial, o abordado não será desarmado nem submetido à busca pessoal se",
+      "alternativas": [
+        "estiver acompanhado de outro policial que confirme sua identidade",
+        "declarar verbalmente sua condição de policial e informar sua unidade de lotação",
+        "estiver fardado, ainda que não apresente a identidade funcional",
+        "entregar a carteira de identidade funcional, comprovando a qualidade de policial"
+      ],
+      "correta": 3,
+      "explicacao": "A entrega da carteira de identidade funcional, comprovando a qualidade de policial, afasta o desarmamento e a busca pessoal, salvo nas hipóteses excepcionais previstas no POP.",
+      "tags": [
+        "abordagem",
+        "policial",
+        "funcional"
+      ]
+    },
+    {
+      "id": "abordagem-elab-067",
+      "subtema": "Abordagem de policial",
+      "artigo": "POP 1.01.05 — Exceções",
+      "enunciado": "Justifica-se excepcionalmente a busca pessoal e o desarmamento do policial abordado quando ele",
+      "alternativas": [
+        "apresentar descontrole, recusar a funcional ou não comprovar a condição policial",
+        "estiver de folga, portando arma particular devidamente registrada",
+        "pertencer a instituição policial diversa daquela da unidade abordante",
+        "estiver em serviço velado, ainda que tenha apresentado a identidade funcional"
+      ],
+      "correta": 0,
+      "explicacao": "São hipóteses excepcionais: sinais de descontrole físico ou emocional ou comportamento agressivo; recusa em obedecer às ordens, especialmente a de entregar a funcional; e ausência da carteira ou impossibilidade de constatar a condição de policial.",
+      "tags": [
+        "abordagem",
+        "policial",
+        "excecoes"
+      ]
+    },
+    {
+      "id": "abordagem-elab-068",
+      "subtema": "Abordagem de policial",
+      "artigo": "POP 1.01.05 — Comunicação ao escalão superior",
+      "enunciado": "Realizados a busca pessoal e o desarmamento de policial abordado, por serem medidas excepcionais,",
+      "alternativas": [
+        "o CGP comunicará o fato à corregedoria da instituição do policial abordado em cinco dias",
+        "o encarregado da US registrará o fato apenas no relatório de serviço operacional",
+        "o CFP comunicará de imediato o fato e seu motivo ao escalão superior de ambas as instituições",
+        "o policial abordado deverá ser conduzido ao distrito policial para registro"
+      ],
+      "correta": 2,
+      "explicacao": "Cabe ao CFP comunicar imediatamente a ocorrência ao escalão superior de ambas as instituições, informando o motivo da realização dessas medidas excepcionais.",
+      "tags": [
+        "abordagem",
+        "policial",
+        "comunicacao"
+      ]
+    },
+    {
+      "id": "abordagem-elab-069",
+      "subtema": "Abordagem de policial",
+      "artigo": "POP 1.01.05 — Acompanhantes civis",
+      "enunciado": "Estando o policial abordado acompanhado de pessoas civis, estas",
+      "alternativas": [
+        "deverão afastar-se do local, dispensada qualquer identificação pela unidade",
+        "ficam dispensadas da busca pessoal, por estarem sob a responsabilidade do policial",
+        "somente serão submetidas à busca se o policial abordado não apresentar a funcional",
+        "também serão submetidas à busca pessoal, observada a segurança da equipe"
+      ],
+      "correta": 3,
+      "explicacao": "A dispensa de busca é pessoal do policial que comprova sua condição; as pessoas civis que o acompanham também devem ser submetidas à busca pessoal, observados os cuidados com a segurança.",
+      "tags": [
+        "abordagem",
+        "policial",
+        "acompanhantes"
+      ]
+    },
+    {
+      "id": "abordagem-elab-070",
+      "subtema": "Abordagem de policial",
+      "artigo": "POP 1.01.05 — Dados para pesquisa",
+      "enunciado": "Entre os dados do policial abordado a serem fornecidos para pesquisa junto ao centro de operações, o registro estatístico, conhecido como RE, é exigido",
+      "alternativas": [
+        "somente de policial militar",
+        "de todos os policiais abordados",
+        "somente de policial civil",
+        "apenas de policiais de outros Estados"
+      ],
+      "correta": 0,
+      "explicacao": "Os dados para pesquisa são nome completo, cargo ou grau hierárquico, RG, local de trabalho, número da funcional e RE, este último somente para policial militar.",
+      "tags": [
+        "abordagem",
+        "policial",
+        "dados"
+      ]
+    },
+    {
+      "id": "abordagem-elab-071",
+      "subtema": "Abordagem de policial",
+      "artigo": "POP 1.01.05 — Encerramento",
+      "enunciado": "Confirmada a qualidade de policial do abordado, a unidade de serviço deverá",
+      "alternativas": [
+        "encaminhar relatório circunstanciado à corregedoria da instituição do abordado",
+        "devolver os documentos e liberar o abordado, dispensado qualquer registro",
+        "reter a identidade funcional até a confirmação por sua unidade de lotação",
+        "devolver os documentos, encerrar a ocorrência, comunicar o CGP ou CFP e registrar no RSO"
+      ],
+      "correta": 3,
+      "explicacao": "Após a confirmação, devolvem-se os documentos, encerra-se a ocorrência, comunica-se imediatamente o fato ao CGP ou CFP e registram-se os dados do abordado no RSO.",
+      "tags": [
+        "abordagem",
+        "policial",
+        "encerramento"
+      ]
+    },
+    {
+      "id": "abordagem-elab-072",
+      "subtema": "Policial CAC",
+      "artigo": "Res. SSP-75/20 — Aplicação",
+      "enunciado": "Sendo o policial militar ou civil abordado credenciado como colecionador, atirador ou caçador, a abordagem deverá ocorrer",
+      "alternativas": [
+        "exclusivamente sob as regras aplicáveis aos CAC civis, sem distinção",
+        "sob os parâmetros da Resolução SSP-75/2020, sobretudo quanto ao desarmamento",
+        "sob as regras do Comando do Exército, afastadas as normas da Secretaria",
+        "com desarmamento obrigatório, independentemente da apresentação da funcional"
+      ],
+      "correta": 1,
+      "explicacao": "A abordagem de policial credenciado como CAC observa os parâmetros e rotinas da Resolução SSP-75/2020, especialmente os critérios para desarmamento do policial abordado.",
+      "tags": [
+        "abordagem",
+        "policial",
+        "res-ssp-75"
+      ]
+    },
+    {
+      "id": "abordagem-elab-073",
+      "subtema": "Policial abordado",
+      "artigo": "Res. SSP-75/20 — Deveres",
+      "enunciado": "O policial militar que estiver sendo abordado deverá, caso esteja armado,",
+      "alternativas": [
+        "sacar a arma lentamente e entregá-la ao policial que realiza a abordagem",
+        "informar o porte, a quantidade e o local das armas, mantendo as mãos afastadas delas",
+        "exibir a arma no coldre, para demonstrar que não oferece risco à equipe",
+        "permanecer em silêncio até que a unidade abordante confirme sua identidade"
+      ],
+      "correta": 1,
+      "explicacao": "O policial abordado deve obedecer aos comandos, identificar-se, entregar a funcional e, se armado, informar o porte, a quantidade e o local das armas, mantendo as mãos afastadas e evitando gestos bruscos.",
+      "tags": [
+        "abordagem",
+        "policial-abordado"
+      ]
+    },
+    {
+      "id": "abordagem-elab-074",
+      "subtema": "Policial abordado",
+      "artigo": "Res. SSP-75/20 — Serviço velado",
+      "enunciado": "Estando o policial militar abordado em serviço velado, deverá",
+      "alternativas": [
+        "reportar imediatamente essa circunstância, de modo a evitar prejuízo ao trabalho",
+        "omitir a circunstância, preservando o sigilo da missão em curso",
+        "recusar-se a entregar a identidade funcional, para não comprometer a missão",
+        "solicitar que a abordagem seja realizada em local reservado, fora da via"
+      ],
+      "correta": 0,
+      "explicacao": "O policial em serviço velado deve reportar imediatamente essa circunstância à unidade abordante, evitando prejuízo ao trabalho, sem afastar o dever de identificar-se e entregar a funcional.",
+      "tags": [
+        "abordagem",
+        "policial-abordado",
+        "velado"
+      ]
+    },
+    {
+      "id": "abordagem-elab-075",
+      "subtema": "Agentes de outras instituições",
+      "artigo": "Res. SSP-75/20 — Agentes não subordinados à SSP",
+      "enunciado": "Na abordagem de agentes de segurança não subordinados à SSP, como agentes de escolta e vigilância penitenciária ou policiais de outros Estados, a unidade deve",
+      "alternativas": [
+        "adotar o procedimento de abordagem de civil portador de arma de fogo",
+        "adotar a mesma conduta, atentando para o eventual desconhecimento da Res. SSP-75/20",
+        "desarmar o abordado em qualquer caso, por não se submeter à resolução",
+        "dispensar a abordagem mediante simples apresentação de documento funcional"
+      ],
+      "correta": 1,
+      "explicacao": "A conduta é a mesma, devendo a US atentar para o eventual desconhecimento da Resolução SSP-75, de 31-8-2020, por parte de agentes não subordinados à Secretaria.",
+      "tags": [
+        "abordagem",
+        "outras-instituicoes"
+      ]
+    },
+    {
+      "id": "abordagem-elab-076",
+      "subtema": "Registro",
+      "artigo": "POP 1.01.05 — Item 4.2.9",
+      "enunciado": "Os dados das pessoas submetidas à abordagem, inclusive CAC, devem ser anotados",
+      "alternativas": [
+        "somente no sistema do centro de operações, dispensado registro próprio",
+        "apenas quando houver irregularidade constatada na abordagem",
+        "em boletim de ocorrência, em todas as abordagens realizadas",
+        "em relatório, notadamente o relatório de serviço operacional"
+      ],
+      "correta": 3,
+      "explicacao": "A anotação dos dados das pessoas abordadas em relatório, como o RSO, é passo da sequência de ações, independentemente de haver irregularidade.",
+      "tags": [
+        "abordagem",
+        "registro"
+      ]
+    },
+    {
+      "id": "abordagem-elab-077",
+      "subtema": "Condutas vedadas",
+      "artigo": "POP 1.01.05 — CAO 2018",
+      "enunciado": "Considerando as reclamações sobre falta de explicação e de finalização das abordagens, é correto afirmar, à luz do POP, que nas abordagens de fiscalização e de fundada suspeita sem irregularidade",
+      "alternativas": [
+        "a explicação é desnecessária, pois a abordagem é amparada no poder de polícia",
+        "o policial deve explicar o caráter preventivo da abordagem e agradecer a colaboração",
+        "o agradecimento é facultativo, a critério do encarregado da unidade de serviço",
+        "a explicação só é devida se o abordado manifestar inconformismo com o procedimento"
+      ],
+      "correta": 1,
+      "explicacao": "O POP exige informar que a abordagem é procedimento preventivo e agradecer pela colaboração; a assertiva que reputava desnecessária a finalização, por força do poder de polícia, era a incorreta na prova do CAO 2018.",
+      "tags": [
+        "abordagem",
+        "finalizacao",
+        "cao2018"
+      ]
+    },
+    {
+      "id": "abordagem-elab-078",
+      "subtema": "Ações corretivas",
+      "artigo": "POP 1.01.05 — Ação corretiva 1",
+      "enunciado": "Se a pessoa abordada demorar a responder ou acatar as determinações, sem esboçar resistência, o policial deve",
+      "alternativas": [
+        "elevar o tom de voz e repetir a ordem até o seu integral cumprimento",
+        "adotar de imediato a posição terceiro olho, dada a desobediência",
+        "alertar o abordado sobre o crime de desobediência e conduzi-lo ao distrito",
+        "considerar a possibilidade de deficiência ou de desconhecimento do idioma"
+      ],
+      "correta": 3,
+      "explicacao": "A demora sem resistência deve levar o policial a considerar que a pessoa possa ter deficiência física, auditiva, visual ou intelectual, ou não compreender o idioma português.",
+      "tags": [
+        "abordagem",
+        "acoes-corretivas"
+      ]
+    },
+    {
+      "id": "abordagem-elab-079",
+      "subtema": "Ações corretivas",
+      "artigo": "POP 1.01.05 — Ação corretiva 3",
+      "enunciado": "Apresentando o abordado nervosismo ou inconformismo com o procedimento, o policial deverá acalmá-lo mediante o seguinte escalonamento de atitudes",
+      "alternativas": [
+        "elevar o tom de voz, advertir sobre desobediência, algemar e conduzir ao distrito",
+        "reduzir o tom de voz, pedir calma, manter o equilíbrio e explicar os motivos da abordagem",
+        "pedir calma, adotar a posição sul, advertir sobre desacato e encerrar a abordagem",
+        "encerrar a abordagem, registrar o fato e orientar o abordado a procurar a corregedoria"
+      ],
+      "correta": 1,
+      "explicacao": "O escalonamento consiste em reduzir a tonalidade de voz, solicitar calma, manter o equilíbrio e informar as atitudes que motivaram a abordagem, esclarecendo que as dúvidas serão sanadas ao final.",
+      "tags": [
+        "abordagem",
+        "acoes-corretivas",
+        "nervosismo"
+      ]
+    },
+    {
+      "id": "abordagem-elab-080",
+      "subtema": "Ações corretivas",
+      "artigo": "POP 1.01.05 — Ação corretiva 4",
+      "enunciado": "Indagado quanto à legitimidade de sua ação, o policial militar deverá informar que a abordagem tem fundamentação legal com base",
+      "alternativas": [
+        "no poder de polícia",
+        "no poder hierárquico",
+        "no poder disciplinar",
+        "no poder regulamentar"
+      ],
+      "correta": 0,
+      "explicacao": "A ação corretiva manda informar que a abordagem policial tem fundamentação legal no poder de polícia, o mesmo fundamento invocado para a abordagem de fiscalização.",
+      "tags": [
+        "abordagem",
+        "acoes-corretivas",
+        "legitimidade"
+      ]
+    },
+    {
+      "id": "abordagem-elab-081",
+      "subtema": "Abordagem de grupo",
+      "artigo": "POP 1.01.05 — Ação corretiva 5",
+      "enunciado": "Abordados indivíduos em número superior ao de policiais, a busca pessoal deve ser feita",
+      "alternativas": [
+        "no indivíduo que aparentar maior periculosidade, independentemente da posição",
+        "no indivíduo situado mais próximo do policial que faz a segurança",
+        "no indivíduo situado no lado mais distante do policial que faz a segurança",
+        "simultaneamente por ambos os policiais, reduzindo o tempo de exposição"
+      ],
+      "correta": 2,
+      "explicacao": "O policial da busca atua sempre no indivíduo do lado mais distante do policial de segurança, deslocando-o para trás e reconduzindo-o à posição inicial, com rodízio das posições até que todos sejam revistados.",
+      "tags": [
+        "abordagem",
+        "grupo",
+        "busca"
+      ]
+    },
+    {
+      "id": "abordagem-elab-082",
+      "subtema": "Abordagem de grupo",
+      "artigo": "POP 1.01.05 — Ação corretiva 5.2",
+      "enunciado": "Não identificando o policial militar uma área de segurança na abordagem de grupo, deverá",
+      "alternativas": [
+        "realizar a abordagem no próprio local em que os indivíduos se encontram",
+        "criar uma área de segurança, com base no conceito previsto no POP",
+        "aguardar a chegada de apoio para deslocar o grupo a local adequado",
+        "determinar que os abordados se deitem no solo até a chegada de apoio"
+      ],
+      "correta": 1,
+      "explicacao": "A ausência de área de segurança não dispensa o conceito: o policial deve criar uma, com base nas características de área isolada, afastada, segura e própria para a verbalização.",
+      "tags": [
+        "abordagem",
+        "grupo",
+        "area-seguranca"
+      ]
+    },
+    {
+      "id": "abordagem-elab-083",
+      "subtema": "Abordagem de grupo",
+      "artigo": "POP 1.01.05 — Ação corretiva 6",
+      "enunciado": "Localizado objeto ilícito com um dos indivíduos durante a busca em grupo, o policial deverá",
+      "alternativas": [
+        "adotar o procedimento de infrator da lei e determinar que todos se ajoelhem",
+        "conduzir imediatamente o portador à viatura e liberar os demais abordados",
+        "interromper a busca nos demais e aguardar o apoio para prosseguir",
+        "algemar apenas o portador do objeto e prosseguir com os demais em pé"
+      ],
+      "correta": 0,
+      "explicacao": "Adotam-se os procedimentos de abordagem de infrator da lei e determina-se que todos se ajoelhem, prosseguindo a busca pessoal nos que ainda não foram revistados.",
+      "tags": [
+        "abordagem",
+        "grupo",
+        "ilicito"
+      ]
+    },
+    {
+      "id": "abordagem-elab-084",
+      "subtema": "Uso de algemas",
+      "artigo": "OS PM6-003/700/24 — Meios de fortuna",
+      "enunciado": "Quanto ao uso de barbante, cadarço de bota, corda e meios semelhantes para conter pessoa detida quando faltarem algemas, vigora atualmente",
+      "alternativas": [
+        "a autorização desses meios apenas quando houver mais presos que algemas",
+        "a autorização desses meios, desde que registrada a circunstância no boletim",
+        "a proibição desses meios, até o deslinde da controvérsia pelo Poder Judiciário",
+        "a autorização desses meios mediante prévia anuência do comandante de força patrulha"
+      ],
+      "correta": 2,
+      "explicacao": "A OS PM6-003/700/24 alterou o item 7 das ações corretivas do POP 5.03.02 e proibiu meios diversos das algemas para contenção de pessoas detidas até o deslinde judicial; a antiga ação corretiva que admitia outros objetos é a pegadinha.",
+      "tags": [
+        "abordagem",
+        "algemas",
+        "meios-fortuna"
+      ]
+    },
+    {
+      "id": "abordagem-elab-085",
+      "subtema": "Uso de algemas",
+      "artigo": "OS PM6-003/700/24 — Decisão judicial",
+      "enunciado": "A proibição dos meios de fortuna para algemamento decorreu de decisão liminar da 8ª Vara da Fazenda Pública da Capital, de 13SET23, que fixou multa ao Estado de",
+      "alternativas": [
+        "cem mil reais para cada nova prisão com uso de meios de contenção diversos das algemas",
+        "dez mil reais para cada nova prisão com uso de meios de contenção diversos das algemas",
+        "cem mil reais por dia de descumprimento, independentemente do número de prisões",
+        "cinquenta mil reais para cada policial que utilizar meio de contenção diverso"
+      ],
+      "correta": 0,
+      "explicacao": "A liminar estabeleceu multa de R$ 100.000,00 para cada nova prisão efetuada por policiais militares com utilização de outros meios de contenção que não as algemas.",
+      "tags": [
+        "abordagem",
+        "algemas",
+        "liminar"
+      ]
+    },
+    {
+      "id": "abordagem-elab-086",
+      "subtema": "Uso de algemas",
+      "artigo": "OS PM6-003/700/24 — PTAC",
+      "enunciado": "Para encontrar a provável causa de resultados indesejáveis decorrentes da contenção de pessoas detidas, a OS determina o uso do Procedimento Técnico de Análise de Conduta pelos",
+      "alternativas": [
+        "comandantes, chefes e diretores de OPM no nível de batalhão ou superior",
+        "comandantes de companhia, no âmbito de suas respectivas áreas",
+        "comandantes de força patrulha, logo após o encerramento da ocorrência",
+        "oficiais sindicantes designados para apurar o fato em procedimento próprio"
+      ],
+      "correta": 0,
+      "explicacao": "O PTAC deve ser utilizado pelos Cmt, Ch e Dir de OPM no nível de batalhão ou superior para identificar a provável causa de consequências negativas decorrentes da contenção de pessoas detidas.",
+      "tags": [
+        "abordagem",
+        "algemas",
+        "ptac"
+      ]
+    },
+    {
+      "id": "abordagem-elab-087",
+      "subtema": "Uso de algemas",
+      "artigo": "Súmula Vinculante 11 e Dec. Estadual 19.903/50",
+      "enunciado": "Não constitui hipótese de uso de algemas prevista no Decreto Estadual nº 19.903/50, referido pelo processo de abordagem,",
+      "alternativas": [
+        "a condução de ébrios e turbulentos cujo extremo estado de exaltação exija força",
+        "a condução de detidos em flagrante que ofereçam resistência ou tentem fuga",
+        "o transporte de presos de notória periculosidade por ocuparem altos postos em facções",
+        "a remoção de presos que, por conhecida periculosidade, possam tentar a fuga"
+      ],
+      "correta": 2,
+      "explicacao": "O decreto prevê a condução de detidos em flagrante que resistam ou tentem fuga, a de ébrios, viciosos e turbulentos em extremo estado de exaltação e a remoção de presos perigosos que possam tentar fuga; a posição em organização criminosa, por si, não figura entre as hipóteses.",
+      "tags": [
+        "abordagem",
+        "algemas",
+        "decreto-19903"
+      ]
+    },
+    {
+      "id": "abordagem-elab-088",
+      "subtema": "Fuga de abordado",
+      "artigo": "POP 1.01.05 — Ação corretiva 8",
+      "enunciado": "Havendo fuga de um dos abordados durante abordagem de grupo, a conduta prevista é",
+      "alternativas": [
+        "um policial perseguir o fugitivo enquanto o outro mantém os demais sob vigilância",
+        "fazer ajoelhar os que ficaram, revistá-los como infratores, sem separação dos policiais",
+        "liberar os demais abordados e iniciar imediatamente a perseguição ao fugitivo",
+        "algemar todos os abordados remanescentes e aguardar no local a chegada do apoio"
+      ],
+      "correta": 1,
+      "explicacao": "Os que permaneceram devem se ajoelhar e passar por busca como infratores da lei; em nenhuma hipótese os policiais podem se separar, informando-se depois o COPOM ou CAD com dados para a busca do fugitivo.",
+      "tags": [
+        "abordagem",
+        "fuga"
+      ]
+    },
+    {
+      "id": "abordagem-elab-089",
+      "subtema": "Ações corretivas",
+      "artigo": "POP 1.01.05 — Ação corretiva 9",
+      "enunciado": "Constatando o policial, por elementos objetivos, que se trata de pessoa idônea, e percebendo que o parceiro não notou essa circunstância, deverá",
+      "alternativas": [
+        "concluir a abordagem conforme iniciada, para não expor divergência entre os policiais",
+        "reorientar a ação e tomar a frente dela, alertando os demais policiais",
+        "aguardar o término da abordagem para orientar o parceiro reservadamente",
+        "comunicar o fato ao CGP antes de qualquer alteração no procedimento"
+      ],
+      "correta": 1,
+      "explicacao": "Constatada a idoneidade por elementos objetivos, o policial deve reavaliar e reorientar sua ação e, se os parceiros não perceberam, tomar a frente da ação e alertá-los.",
+      "tags": [
+        "abordagem",
+        "idoneidade"
+      ]
+    },
+    {
+      "id": "abordagem-elab-090",
+      "subtema": "Ações corretivas",
+      "artigo": "POP 1.01.05 — Ação corretiva 13",
+      "enunciado": "Estando o abordado sob influência de álcool ou drogas e não compreendendo a ordem emanada, o policial deverá",
+      "alternativas": [
+        "repetir as determinações, adotando o uso seletivo da força",
+        "contê-lo de imediato com equipamento de menor potencial ofensivo",
+        "encerrar a abordagem e acionar o serviço de atendimento médico",
+        "conduzi-lo ao distrito policial para a lavratura de termo circunstanciado"
+      ],
+      "correta": 0,
+      "explicacao": "O POP manda repetir as determinações, observando o uso seletivo da força, e não empregar força de imediato pela simples incompreensão da ordem.",
+      "tags": [
+        "abordagem",
+        "alcool-drogas"
+      ]
+    },
+    {
+      "id": "abordagem-elab-091",
+      "subtema": "Ações corretivas",
+      "artigo": "POP 1.01.05 — Ação corretiva 14",
+      "enunciado": "Reagindo o abordado de forma agressiva, sem arma de fogo ou branca, com necessidade de força física, o policial deverá",
+      "alternativas": [
+        "empregar baixa letalidade e defesa pessoal, proporcionalmente à agressão",
+        "adotar a posição terceiro olho e verbalizar até a cessação da agressão",
+        "afastar-se do abordado e aguardar a chegada de apoio para a contenção",
+        "empregar a força potencialmente letal, dada a agressão ao agente da lei"
+      ],
+      "correta": 0,
+      "explicacao": "Diante de agressão sem armas, adotam-se técnicas com equipamentos de baixa letalidade, como gás pimenta, bastão tonfa e arma de incapacitação neuromuscular, e de defesa pessoal, proporcionalmente à agressão.",
+      "tags": [
+        "abordagem",
+        "agressao"
+      ]
+    },
+    {
+      "id": "abordagem-elab-092",
+      "subtema": "Ações corretivas",
+      "artigo": "POP 1.01.05 — Ações corretivas 15 e 16",
+      "enunciado": "Alegando o abordado, desde o início, imunidade parlamentar ou diplomática, o policial deverá",
+      "alternativas": [
+        "prosseguir normalmente, desconsiderando a alegação até o término do procedimento",
+        "encerrar imediatamente a abordagem, por se tratar de pessoa imune a qualquer medida",
+        "proceder conforme o POP de identificação do nível funcional da autoridade envolvida",
+        "conduzir o abordado ao distrito policial para a verificação da imunidade alegada"
+      ],
+      "correta": 2,
+      "explicacao": "A alegação de imunidade remete ao POP 3.02.01 — Identificação do nível funcional da autoridade envolvida na ocorrência; alegações de condição social ou profissional não devem motivar reação, servindo apenas para orientar as atitudes.",
+      "tags": [
+        "abordagem",
+        "imunidade"
+      ]
+    },
+    {
+      "id": "abordagem-elab-093",
+      "subtema": "Áreas vulneráveis",
+      "artigo": "POP 1.01.05 — Acompanhamento",
+      "enunciado": "Se, durante acompanhamento, os infratores adentrarem áreas vulneráveis, como comunidades, matagais ou ambientes fechados, o policial deverá",
+      "alternativas": [
+        "prosseguir de imediato na incursão, para não perder o contato visual com os infratores",
+        "avaliar a incursão com o CGP ou CFP e o apoio de US com escudo balístico",
+        "interromper o acompanhamento e registrar a fuga no relatório de serviço",
+        "aguardar na entrada da área o acionamento obrigatório de tropa especializada"
+      ],
+      "correta": 1,
+      "explicacao": "Deve-se avaliar a necessidade de incursão com participação do CGP ou CFP e com o apoio de US que disponha de maior variedade de equipamentos, como escudo de proteção balística; deixar de acioná-los é possibilidade de erro.",
+      "tags": [
+        "abordagem",
+        "areas-vulneraveis"
+      ]
+    },
+    {
+      "id": "abordagem-elab-094",
+      "subtema": "Busca pessoal",
+      "artigo": "POP 1.01.06 — Posicionamento",
+      "enunciado": "Na busca pessoal realizada por policial destro, a base de apoio fixa é formada",
+      "alternativas": [
+        "com o pé esquerdo do policial à frente, junto ao pé esquerdo do revistado",
+        "com o pé direito do policial à frente, junto ao pé direito do revistado",
+        "com o pé esquerdo do policial à frente, junto ao pé direito do revistado",
+        "com os pés do policial paralelos, a um passo de distância do revistado"
+      ],
+      "correta": 0,
+      "explicacao": "O lado da arma deve ficar o mais distante possível do revistado; por isso o policial destro põe o pé esquerdo à frente, junto ao pé esquerdo do revistado, e vice-versa para o canhoto.",
+      "tags": [
+        "abordagem",
+        "busca-pessoal",
+        "base"
+      ]
+    },
+    {
+      "id": "abordagem-elab-095",
+      "subtema": "Busca pessoal",
+      "artigo": "POP 1.01.06 — Sequência",
+      "enunciado": "Na sequência da busca pessoal, escolhido o lado a revistar, o policial deve",
+      "alternativas": [
+        "iniciar pelos bolsos, retirando todos os objetos antes de apalpar o corpo",
+        "iniciar pelos membros inferiores e concluir pela cabeça, inspecionando o interior dos bolsos",
+        "revistar alternadamente os dois lados, trocando a base de apoio a cada região",
+        "priorizar tronco e membros superiores e depois os inferiores, sem pôr as mãos nos bolsos"
+      ],
+      "correta": 3,
+      "explicacao": "Em sequência ascendente ou descendente, prioriza-se tronco e membros superiores e depois virilha e pernas do mesmo lado, sem colocar as mãos nos bolsos, buscando volumes suspeitos, dado o risco de material perfurocortante.",
+      "tags": [
+        "abordagem",
+        "busca-pessoal",
+        "sequencia"
+      ]
+    },
+    {
+      "id": "abordagem-elab-096",
+      "subtema": "Busca pessoal",
+      "artigo": "POP 1.01.06 — Troca de lado",
+      "enunciado": "Para revistar o outro lado do abordado, considerando que a base é fixa, o policial deve",
+      "alternativas": [
+        "passar pela frente do abordado, mantendo contato com suas mãos entrelaçadas",
+        "reposicionar os pés, invertendo a base de apoio em relação ao revistado",
+        "determinar que o abordado gire o corpo, mantendo o policial a mesma posição",
+        "trocar somente as mãos que seguram os dedos entrelaçados ou as algemas"
+      ],
+      "correta": 3,
+      "explicacao": "Como a base é fixa, o policial troca apenas as mãos que seguram os dedos entrelaçados ou a região entre as algemas ao revistar o outro lado.",
+      "tags": [
+        "abordagem",
+        "busca-pessoal",
+        "troca"
+      ]
+    },
+    {
+      "id": "abordagem-elab-097",
+      "subtema": "Busca pessoal",
+      "artigo": "POP 1.01.06 — Ações corretivas",
+      "enunciado": "Esboçando o abordado reação durante a busca pessoal, o policial encarregado da busca deve",
+      "alternativas": [
+        "sacar a arma e adotar a posição terceiro olho",
+        "contê-lo imediatamente com técnica de imobilização",
+        "afastar-se e iniciar novamente a verbalização",
+        "prosseguir com a busca, segurando-o com maior firmeza"
+      ],
+      "correta": 2,
+      "explicacao": "A reação esboçada leva o vistoriador a se afastar e reiniciar a verbalização; se o abordado investir contra ele, o policial de cobertura deve agir rapidamente, observando o uso seletivo da força.",
+      "tags": [
+        "abordagem",
+        "busca-pessoal",
+        "reacao"
+      ]
+    },
+    {
+      "id": "abordagem-elab-098",
+      "subtema": "Busca pessoal",
+      "artigo": "POP 1.01.06 — Cobertura desatenta",
+      "enunciado": "Verificando o encarregado da busca que o policial de cobertura está desatento, deverá chamar sua atenção dizendo",
+      "alternativas": [
+        "Vigilância",
+        "Atenção",
+        "Segurança",
+        "Cobertura"
+      ],
+      "correta": 3,
+      "explicacao": "A ação corretiva prevê a palavra Cobertura para que o parceiro retome a atenção sobre o abordado durante a busca pessoal.",
+      "tags": [
+        "abordagem",
+        "busca-pessoal",
+        "cobertura"
+      ]
+    },
+    {
+      "id": "abordagem-elab-099",
+      "subtema": "Busca pessoal",
+      "artigo": "POP 1.01.06 — Documento falso",
+      "enunciado": "Havendo indícios de que o documento apresentado pelo abordado seja falso, o policial militar deverá",
+      "alternativas": [
+        "reter o documento e liberar o indivíduo, registrando o fato em relatório",
+        "conduzir o indivíduo ao distrito policial para as providências cabíveis",
+        "consultar o órgão emissor e aguardar a resposta antes de qualquer medida",
+        "alertar o indivíduo sobre os aspectos legais e devolver-lhe o documento"
+      ],
+      "correta": 1,
+      "explicacao": "Indícios de falsidade documental impõem a condução ao distrito policial; já a recusa em se identificar enseja alerta sobre os aspectos legais da desobediência.",
+      "tags": [
+        "abordagem",
+        "busca-pessoal",
+        "documento-falso"
+      ]
+    },
+    {
+      "id": "abordagem-elab-100",
+      "subtema": "Busca em cadeirante",
+      "artigo": "POP 1.01.06 — Item 9",
+      "enunciado": "Na busca pessoal em cadeirante, o policial deverá inicialmente",
+      "alternativas": [
+        "retirá-lo da cadeira de rodas e realizar a busca com o abordado deitado no solo",
+        "posicionar-se atrás dele e revistar membros superiores, costas e abdômen",
+        "revistar primeiro a cadeira de rodas e, após, os membros inferiores do abordado",
+        "dispensar a busca na região dos glúteos, em respeito à condição do abordado"
+      ],
+      "correta": 1,
+      "explicacao": "O policial posiciona-se atrás do cadeirante, desloca as mãos dele para trás da nuca e inicia pelos membros superiores, costas e abdômen, prosseguindo depois para glúteos, genitália, pernas e cadeira.",
+      "tags": [
+        "abordagem",
+        "cadeirante"
+      ]
+    },
+    {
+      "id": "abordagem-elab-101",
+      "subtema": "Condução das partes",
+      "artigo": "POP 1.01.07 — Possibilidades de erro",
+      "enunciado": "Constitui possibilidade de erro na etapa de condução das partes",
+      "alternativas": [
+        "conduzir na mesma viatura o preso e as vítimas ou testemunhas da ocorrência",
+        "acomodar muletas e cadeira de rodas do conduzido de forma segura na viatura",
+        "solicitar esclarecimentos ao COPOM sobre a repartição pública competente",
+        "arrolar testemunhas e providenciar socorro à pessoa lesionada"
+      ],
+      "correta": 0,
+      "explicacao": "Conduzir o preso na mesma viatura que vítimas e testemunhas é erro previsto; o infrator deve ser conduzido separado. As demais condutas integram as ações corretivas e a sequência de ações.",
+      "tags": [
+        "abordagem",
+        "conducao",
+        "erro"
+      ]
+    },
+    {
+      "id": "abordagem-elab-102",
+      "subtema": "Condução das partes",
+      "artigo": "POP 1.01.07 — Paraplégico",
+      "enunciado": "Sendo necessário conduzir cadeirante paraplégico e não possuindo a viatura cinto de segurança no banco traseiro, o policial deverá",
+      "alternativas": [
+        "providenciar viatura dotada desse acessório de segurança",
+        "transportá-lo no banco dianteiro, com o cinto de segurança afivelado",
+        "transportá-lo no banco traseiro, acompanhado por um dos policiais",
+        "solicitar ao solicitante que providencie veículo particular adaptado"
+      ],
+      "correta": 0,
+      "explicacao": "A ação corretiva manda providenciar viatura com cinto no banco traseiro; transportar paraplégico no banco traseiro sem cinto é possibilidade de erro expressa do POP.",
+      "tags": [
+        "abordagem",
+        "conducao",
+        "cadeirante"
+      ]
+    },
+    {
+      "id": "abordagem-elab-103",
+      "subtema": "Apresentação da ocorrência",
+      "artigo": "POP 1.01.08 — Algemas",
+      "enunciado": "Estando o infrator algemado na apresentação da ocorrência, as algemas devem ser retiradas",
+      "alternativas": [
+        "a critério do policial condutor, desde que haja policiais civis no recinto",
+        "assim que o infrator ingressar nas dependências da repartição pública competente",
+        "antes do início da oitiva do condutor pelo delegado de polícia de plantão",
+        "somente após a entrega definitiva do infrator ao responsável pela repartição competente"
+      ],
+      "correta": 3,
+      "explicacao": "Retiram-se as algemas somente após a entrega definitiva do infrator ao responsável pela repartição; retirá-las antes do término da apresentação formal ou em situação insegura é possibilidade de erro.",
+      "tags": [
+        "abordagem",
+        "apresentacao",
+        "algemas"
+      ]
+    },
+    {
+      "id": "abordagem-elab-104",
+      "subtema": "Apresentação da ocorrência",
+      "artigo": "POP 1.01.08 — Viatura",
+      "enunciado": "Havendo na repartição pública competente estacionamento próprio ou garagem com segurança, a viatura policial-militar",
+      "alternativas": [
+        "deverá ser estacionada nesse local",
+        "poderá permanecer na via, para rápida saída",
+        "deverá permanecer na via, com um policial guardando-a",
+        "poderá ser estacionada no local, a critério do condutor"
+      ],
+      "correta": 0,
+      "explicacao": "O POP impõe o estacionamento da viatura no estacionamento ou garagem da repartição, se houver; deixar de fazê-lo é possibilidade de erro.",
+      "tags": [
+        "abordagem",
+        "apresentacao",
+        "viatura"
+      ]
+    },
+    {
+      "id": "abordagem-elab-105",
+      "subtema": "Encerramento",
+      "artigo": "POP 1.01.09 — Volume de dados",
+      "enunciado": "Havendo grande quantidade de dados a transmitir ao COPOM ou CAD no encerramento da ocorrência, o policial deverá",
+      "alternativas": [
+        "transmiti-los pela rede-rádio em blocos, com intervalos",
+        "transmiti-los por telefone, deixando a rede-rádio livre",
+        "transmiti-los apenas ao final do turno, no relatório de serviço",
+        "transmiti-los ao CGP, que os repassará ao centro de operações"
+      ],
+      "correta": 1,
+      "explicacao": "Ocupar demasiadamente a rede-rádio é possibilidade de erro; a ação corretiva manda transmitir o grande volume de dados por telefone, mantendo a rede livre.",
+      "tags": [
+        "abordagem",
+        "encerramento",
+        "radio"
+      ]
+    },
+    {
+      "id": "abordagem-elab-106",
+      "subtema": "Encerramento",
+      "artigo": "POP 1.01.09 — Registros",
+      "enunciado": "Na indisponibilidade do BOe, o registro da ocorrência no encerramento será feito",
+      "alternativas": [
+        "no RSO — Relatório de Serviço",
+        "no Formulário PM O-31 do RAIA",
+        "na NOc — Notificação de Ocorrência",
+        "no PM O-58 — Registro de Ocorrência"
+      ],
+      "correta": 3,
+      "explicacao": "Preenche-se o BOe ou, na sua indisponibilidade, o PM O-58 — Registro de Ocorrência; o QPAE é preenchido quando for o caso, e o horário de término vai para o RSO.",
+      "tags": [
+        "abordagem",
+        "encerramento",
+        "registro"
+      ]
+    },
+    {
+      "id": "abordagem-elab-107",
+      "subtema": "Encerramento",
+      "artigo": "POP 1.01.09 — QPAE",
+      "enunciado": "No encerramento da ocorrência, quando for o caso, preenche-se o QPAE, sigla que corresponde a",
+      "alternativas": [
+        "Qualificação de Presos, Armas e Entorpecentes",
+        "Quadro de Presos, Apreensões e Entregas",
+        "Qualificação de Partes, Autores e Envolvidos",
+        "Quadro de Providências Adotadas no Encerramento"
+      ],
+      "correta": 0,
+      "explicacao": "O QPAE é a Qualificação de Presos, Armas e Entorpecentes, preenchida quando houver essas circunstâncias na ocorrência.",
+      "tags": [
+        "abordagem",
+        "encerramento",
+        "qpae"
+      ]
+    }
+  ]
+}

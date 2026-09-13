@@ -212,6 +212,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "abordagem-elab",
+      "nome": "Abordagem de pessoa a pé, CAC e algemas",
+      "nomeCompleto": "Processo 1.01.00 — Abordagem de pessoa(s) a pé, abordagem de CAC e de policiais, e uso de algemas (107 questões)",
+      "norma": "POP 1.01.00 (rev. 2023), Res. SSP-75/20 e OS PM6-003/700/24",
+      "arquivo": "data/abordagem-elab.json",
+      "cor": "#7a4b1f",
+      "ativo": true,
+      "ordem": 20,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
