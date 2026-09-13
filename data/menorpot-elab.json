@@ -1,0 +1,1987 @@
+{
+ "materia": "menorpot-elab",
+ "versao": "1.5.0",
+ "atualizadoEm": "2026-09-13",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Bean Bag — Acondicionamento",
+  "Bean Bag — Atividades críticas",
+  "Bean Bag — Ações corretivas",
+  "Bean Bag — Benelli",
+  "Bean Bag — COP e direitos",
+  "Bean Bag — Caso concreto",
+  "Bean Bag — Checagem",
+  "Bean Bag — Choke",
+  "Bean Bag — Conceito",
+  "Bean Bag — Deslocamento",
+  "Bean Bag — Distância",
+  "Bean Bag — Erros",
+  "Bean Bag — Escudo balístico",
+  "Bean Bag — Falhas",
+  "Bean Bag — Habilitação",
+  "Bean Bag — Identificação dos agressores",
+  "Bean Bag — Identificação visual",
+  "Bean Bag — Imprensa",
+  "Bean Bag — Munição",
+  "Bean Bag — Ordem",
+  "Bean Bag — Ordem do disparo",
+  "Bean Bag — Pane",
+  "Bean Bag — Pegadinha",
+  "Bean Bag — Posições",
+  "Bean Bag — Pós-disparo",
+  "Bean Bag — Registro",
+  "Bean Bag — Resultados",
+  "Bean Bag — Revisão",
+  "Bean Bag — Suspensão",
+  "Bean Bag — Visada",
+  "Comparativo",
+  "Taser — Ações corretivas",
+  "Taser — Bateria",
+  "Taser — Botão ARC",
+  "Taser — Cartucho",
+  "Taser — Checagem",
+  "Taser — Comando verbal",
+  "Taser — Conexão cruzada",
+  "Taser — Contenção",
+  "Taser — Descarte",
+  "Taser — Disparo",
+  "Taser — Distância",
+  "Taser — Emprego",
+  "Taser — Estrutura",
+  "Taser — Laser",
+  "Taser — Local seguro",
+  "Taser — Manutenção",
+  "Taser — Porte",
+  "Taser — Posicionamento",
+  "Taser — Pós-emprego",
+  "Taser — Recolha",
+  "Taser — Relatório",
+  "Taser — Restrições",
+  "Taser — Resultados",
+  "Taser — Retirada dos dardos",
+  "Taser — Trava de segurança",
+  "Taser — Visada",
+  "Taser — Visor",
+  "Taser — Área de perigo"
+ ],
+ "questoes": [
+  {
+   "id": "menorpot-elab-001",
+   "subtema": "Taser — Estrutura",
+   "artigo": "Processo 5.21.00 — POP",
+   "enunciado": "O Processo 5.21.00, relativo à arma de incapacitação neuromuscular Taser X-2, é composto pelos POP de",
+   "alternativas": [
+    "inspeção, utilização operacional e registro da ocorrência",
+    "checagem, emprego em controle de distúrbios e descarte",
+    "verificação e checagem, utilização operacional e manutenção",
+    "verificação, abordagem com Taser e condução do atingido"
+   ],
+   "correta": 2,
+   "explicacao": "O processo compreende o POP 5.21.01 (verificação e checagem), o POP 5.21.02 (utilização operacional) e o POP 5.21.03 (manutenção da arma).",
+   "tags": [
+    "taser",
+    "estrutura"
+   ]
+  },
+  {
+   "id": "menorpot-elab-002",
+   "subtema": "Taser — Checagem",
+   "artigo": "POP 5.21.01 — Momento",
+   "enunciado": "A verificação e checagem da Taser X-2 deverá ser realizada",
+   "alternativas": [
+    "apenas quando o indicador de carga da bateria apontar nível inferior a 20%",
+    "semanalmente, pelo responsável pela carga do armamento na unidade policial",
+    "sempre ao iniciar o serviço de patrulhamento e quando as baterias forem substituídas",
+    "ao final de cada turno, antes da devolução do armamento à reserva"
+   ],
+   "correta": 2,
+   "explicacao": "A checagem ocorre toda vez que se inicia o serviço de patrulhamento e sempre que as baterias forem substituídas.",
+   "tags": [
+    "taser",
+    "checagem",
+    "momento"
+   ]
+  },
+  {
+   "id": "menorpot-elab-003",
+   "subtema": "Taser — Checagem",
+   "artigo": "POP 5.21.01 — Atividades críticas",
+   "enunciado": "São atividades críticas do POP de verificação e checagem da Taser X-2",
+   "alternativas": [
+    "inserção do cartucho, visada com laser e acondicionamento no coldre",
+    "inserção da bateria, disparo de teste e limpeza dos centelhadores",
+    "verificação da carga, arco de advertência e registro em livro próprio",
+    "inserção da bateria, verificação da carga e inserção e retirada do cartucho"
+   ],
+   "correta": 3,
+   "explicacao": "As atividades críticas são a inserção correta da bateria, a verificação do nível de carga e a inserção e retirada correta do cartucho.",
+   "tags": [
+    "taser",
+    "checagem",
+    "atividades-criticas"
+   ]
+  },
+  {
+   "id": "menorpot-elab-004",
+   "subtema": "Taser — Trava de segurança",
+   "artigo": "POP 5.21.01 — Posição travada",
+   "enunciado": "Na Taser X-2, a posição travada ou segura corresponde à trava de segurança",
+   "alternativas": [
+    "para baixo, posição usada para manutenção e inserção de bateria e cartuchos",
+    "para cima, posição usada para manutenção e inserção de bateria e cartuchos",
+    "para baixo, posição usada apenas para o transporte da arma no coldre",
+    "para cima, posição usada apenas durante a limpeza dos centelhadores"
+   ],
+   "correta": 0,
+   "explicacao": "A trava ambidestra na posição para baixo corresponde a travado ou seguro e é usada na manutenção e na inserção de bateria e cartuchos, em local seguro.",
+   "tags": [
+    "taser",
+    "trava"
+   ]
+  },
+  {
+   "id": "menorpot-elab-005",
+   "subtema": "Taser — Bateria",
+   "artigo": "POP 5.21.01 — Inserção",
+   "enunciado": "A bateria deve ser encaixada na Taser X-2",
+   "alternativas": [
+    "com a arma ligada, para confirmar de imediato o nível de carga",
+    "com leve golpe na base, garantindo o contato dos terminais",
+    "de forma suave até ouvir o click de encaixe, sem golpes na base",
+    "com a trava para cima, apontando a arma para local seguro"
+   ],
+   "correta": 2,
+   "explicacao": "A bateria é encaixada suavemente até o click, sem golpes, com a arma travada e apontada para local seguro; sem o click, usa-se a palma das mãos para melhor apoio.",
+   "tags": [
+    "taser",
+    "bateria",
+    "insercao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-006",
+   "subtema": "Taser — Bateria",
+   "artigo": "POP 5.21.01 — Substituição",
+   "enunciado": "A bateria da Taser X-2 deverá ser substituída ao atingir",
+   "alternativas": [
+    "10% da carga total",
+    "20% da carga total",
+    "30% da carga total",
+    "50% da carga total"
+   ],
+   "correta": 1,
+   "explicacao": "O POP fixa a substituição quando a bateria atingir 20% da carga total; deixar de verificar o indicador de carga é possibilidade de erro.",
+   "tags": [
+    "taser",
+    "bateria",
+    "substituicao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-007",
+   "subtema": "Taser — Bateria",
+   "artigo": "POP 5.21.01 — Ação corretiva",
+   "enunciado": "Não ocorrendo o click de encaixe ao inserir a bateria na Taser X-2, o policial deverá",
+   "alternativas": [
+    "ligar a arma para verificar se a bateria foi reconhecida no visor",
+    "golpear levemente a base da bateria até completar o encaixe",
+    "substituir imediatamente a arma por outra da reserva da unidade",
+    "utilizar a palma das mãos para melhor apoio e inserção correta"
+   ],
+   "correta": 3,
+   "explicacao": "A ação corretiva manda usar a palma das mãos para melhor apoio e inserção correta; golpes na base da bateria são expressamente desaconselhados.",
+   "tags": [
+    "taser",
+    "bateria",
+    "click"
+   ]
+  },
+  {
+   "id": "menorpot-elab-008",
+   "subtema": "Taser — Cartucho",
+   "artigo": "POP 5.21.01 — Inserção",
+   "enunciado": "Para inserir o cartucho na Taser X-2, o policial deverá segurar a arma com a mão fraca, voltada para local seguro, e segurar o cartucho",
+   "alternativas": [
+    "com indicador e polegar, mantendo a placa eletrônica voltada para o operador",
+    "com toda a mão, mantendo a placa eletrônica voltada para o alvo",
+    "com indicador e polegar, mantendo a face frontal voltada para o operador",
+    "com a mão forte, mantendo a placa eletrônica voltada para baixo"
+   ],
+   "correta": 0,
+   "explicacao": "O cartucho é segurado com indicador e polegar, com a placa eletrônica voltada para o operador, após retirar o invólucro de proteção e assegurar que a frente não aponte para ninguém.",
+   "tags": [
+    "taser",
+    "cartucho",
+    "insercao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-009",
+   "subtema": "Taser — Cartucho",
+   "artigo": "POP 5.21.01 — Ordem de inserção",
+   "enunciado": "Quanto à ordem de colocação dos cartuchos nas baias da Taser X-2, o POP prevê",
+   "alternativas": [
+    "primeiro a baia 2 e depois a baia 1, para qualquer operador",
+    "da direita para a esquerda para destros e da esquerda para a direita para canhotos",
+    "sempre da esquerda para a direita, independentemente da mão dominante",
+    "da esquerda para a direita para destros e da direita para a esquerda para canhotos"
+   ],
+   "correta": 3,
+   "explicacao": "Destros colocam e retiram os cartuchos da esquerda para a direita; canhotos, da direita para a esquerda, evitando colocar a mão na frente dos cartuchos.",
+   "tags": [
+    "taser",
+    "cartucho",
+    "ordem"
+   ]
+  },
+  {
+   "id": "menorpot-elab-010",
+   "subtema": "Taser — Cartucho",
+   "artigo": "POP 5.21.01 — Trava na inserção",
+   "enunciado": "Durante a inserção do cartucho nas baias 1 e 2 da Taser X-2, a trava de segurança deverá",
+   "alternativas": [
+    "ser acionada alternadamente a cada cartucho",
+    "permanecer para cima, na posição destravada",
+    "permanecer para baixo, na posição travada",
+    "ser mantida em posição intermediária"
+   ],
+   "correta": 2,
+   "explicacao": "A inserção dos cartuchos exige a trava de segurança para baixo, na posição travada ou segura, evitando disparo acidental.",
+   "tags": [
+    "taser",
+    "cartucho",
+    "trava"
+   ]
+  },
+  {
+   "id": "menorpot-elab-011",
+   "subtema": "Taser — Visor",
+   "artigo": "POP 5.21.01 — Informações",
+   "enunciado": "Na checagem, o policial deve verificar no visor da Taser X-2 as informações de",
+   "alternativas": [
+    "função automática, bateria, distância do alvo e indicador de carga",
+    "número de disparos, temperatura, cartuchos inseridos e carga da bateria",
+    "data da última manutenção, bateria, laser e cartuchos disponíveis",
+    "função semiautomática, bateria, cartuchos inseridos e indicador de carga"
+   ],
+   "correta": 3,
+   "explicacao": "O visor exibe função semiautomática, bateria, cartuchos inseridos e indicador de carga da bateria, informações checadas antes do serviço.",
+   "tags": [
+    "taser",
+    "visor"
+   ]
+  },
+  {
+   "id": "menorpot-elab-012",
+   "subtema": "Taser — Botão ARC",
+   "artigo": "POP 5.21.01 — Navegação",
+   "enunciado": "Na verificação do sistema operacional da Taser X-2, com a arma desligada e apontada para local seguro, após acionar a tecla seletora, o botão ARC",
+   "alternativas": [
+    "do lado direito navega e seleciona, dispensado o lado esquerdo",
+    "do lado esquerdo navega nas opções e o do lado direito seleciona",
+    "do lado direito navega nas opções e o do lado esquerdo seleciona",
+    "de ambos os lados navega, e a seleção é feita pelo gatilho"
+   ],
+   "correta": 2,
+   "explicacao": "Aciona-se primeiro a chave seletora; o botão ARC do lado direito navega pelo sistema operacional, e o do lado esquerdo seleciona a opção desejada.",
+   "tags": [
+    "taser",
+    "arc",
+    "navegacao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-013",
+   "subtema": "Taser — Botão ARC",
+   "artigo": "POP 5.21.02 — Reenergização",
+   "enunciado": "Efetuado o disparo, para reenergizar o cartucho deflagrado, o policial deverá",
+   "alternativas": [
+    "pressionar a tecla ARC, em vez de efetuar um segundo disparo",
+    "acionar novamente o gatilho, que reenergiza o mesmo cartucho",
+    "retirar e reinserir o cartucho, reiniciando o ciclo voltaico",
+    "desligar e religar a arma pela tecla de segurança"
+   ],
+   "correta": 0,
+   "explicacao": "A reenergização se faz pela tecla ARC; acionar o gatilho nesse momento realiza segundo disparo desnecessário, possibilidade de erro prevista no POP.",
+   "tags": [
+    "taser",
+    "arc",
+    "reenergizacao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-014",
+   "subtema": "Taser — Botão ARC",
+   "artigo": "POP 5.21.02 — Arco de advertência",
+   "enunciado": "A pressão prolongada no seletor ARC ambidestro da Taser X-2",
+   "alternativas": [
+    "inicia arco de advertência, utilizável também como contato, sem retirar cartuchos",
+    "efetua disparo simultâneo dos dois cartuchos, ampliando a área de alcance",
+    "desliga a arma de imediato, interrompendo qualquer ciclo voltaico em curso",
+    "ativa o laser de visada, permitindo a mira antes do disparo efetivo"
+   ],
+   "correta": 0,
+   "explicacao": "A pressão prolongada inicia um arco de advertência, que também pode ser usado como opção de contato, sem necessidade de retirar os cartuchos e sem disparo.",
+   "tags": [
+    "taser",
+    "arc",
+    "advertencia"
+   ]
+  },
+  {
+   "id": "menorpot-elab-015",
+   "subtema": "Taser — Local seguro",
+   "artigo": "POP 5.21.01 — Conceito",
+   "enunciado": "Local seguro, para o manuseio da Taser X-2, é aquele",
+   "alternativas": [
+    "situado no interior da viatura, com portas fechadas e arma apontada para o piso",
+    "isolado, afastado e próprio para a verbalização até que o agressor se entregue",
+    "abrigado e coberto, a distância segura do suposto agressor, com ampla visibilidade",
+    "com anteparo frontal, sem obstáculos que causem ricochete e com circulação controlada"
+   ],
+   "correta": 3,
+   "explicacao": "Local seguro é onde o policial manuseia a arma sem risco a ninguém, normalmente com anteparo frontal, sem obstáculos que possibilitem ricochete e com controlada circulação de pessoas; os demais conceitos remetem à área de segurança.",
+   "tags": [
+    "taser",
+    "local-seguro"
+   ]
+  },
+  {
+   "id": "menorpot-elab-016",
+   "subtema": "Taser — Laser",
+   "artigo": "POP 5.21.01 — Possibilidade de erro",
+   "enunciado": "Olhar diretamente para o laser da Taser X-2 ou apontá-lo para os olhos de outrem constitui possibilidade de erro porque",
+   "alternativas": [
+    "provoca disparo acidental do cartucho",
+    "descalibra o sistema de mira",
+    "consome carga excessiva da bateria",
+    "pode causar cegueira na pessoa atingida"
+   ],
+   "correta": 3,
+   "explicacao": "O POP registra que olhar diretamente para o laser ou apontá-lo para os olhos de outrem pode causar cegueira.",
+   "tags": [
+    "taser",
+    "laser",
+    "erro"
+   ]
+  },
+  {
+   "id": "menorpot-elab-017",
+   "subtema": "Taser — Cartucho",
+   "artigo": "POP 5.21.01 — Falha",
+   "enunciado": "Constatado que o cartucho da Taser X-2 está com falha, a ação corretiva determina",
+   "alternativas": [
+    "invertê-lo de baia na arma",
+    "reenergizá-lo pela tecla ARC",
+    "providenciar sua substituição",
+    "manter o outro cartucho em uso"
+   ],
+   "correta": 2,
+   "explicacao": "Cartucho com falha deve ser substituído, assim como a bateria com baixa capacidade.",
+   "tags": [
+    "taser",
+    "cartucho",
+    "falha"
+   ]
+  },
+  {
+   "id": "menorpot-elab-018",
+   "subtema": "Taser — Manutenção",
+   "artigo": "POP 5.21.03 — Regras gerais",
+   "enunciado": "Quanto às regras gerais de segurança no manuseio de armas de fogo, em relação à Taser X-2, o POP de manutenção estabelece que",
+   "alternativas": [
+    "não se aplicam, por ser arma de menor potencial",
+    "também se aplicam integralmente à Taser X-2",
+    "aplicam-se apenas ao cartucho energizado",
+    "aplicam-se apenas durante o disparo operacional"
+   ],
+   "correta": 1,
+   "explicacao": "As regras gerais de segurança no manuseio de armas de fogo também se aplicam à Taser X-2, inclusive dedos fora do gatilho e arma apontada para local seguro.",
+   "tags": [
+    "taser",
+    "manutencao",
+    "regras"
+   ]
+  },
+  {
+   "id": "menorpot-elab-019",
+   "subtema": "Taser — Manutenção",
+   "artigo": "POP 5.21.03 — Eletricidade estática",
+   "enunciado": "Na manutenção, os cartuchos da Taser X-2 devem ser mantidos afastados de possíveis fontes de eletricidade estática, como",
+   "alternativas": [
+    "estofados da viatura, evitando desgaste",
+    "lâmpadas fluorescentes, evitando descarga",
+    "celulares e HT, evitando disparo acidental",
+    "fontes de calor, evitando deformação"
+   ],
+   "correta": 2,
+   "explicacao": "O POP menciona celulares e rádios HT como fontes de eletricidade estática das quais os cartuchos devem ser afastados, evitando disparo acidental.",
+   "tags": [
+    "taser",
+    "manutencao",
+    "estatica"
+   ]
+  },
+  {
+   "id": "menorpot-elab-020",
+   "subtema": "Taser — Manutenção",
+   "artigo": "POP 5.21.03 — Limpeza",
+   "enunciado": "Na limpeza da Taser X-2, deve-se utilizar",
+   "alternativas": [
+    "pano seco em todas as partes, inclusive nos centelhadores",
+    "papel macio na parte externa e pano seco nos centelhadores",
+    "pano úmido na parte externa e papel macio nos centelhadores",
+    "pano seco na parte externa e papel macio nos centelhadores"
+   ],
+   "correta": 3,
+   "explicacao": "A limpeza externa é feita somente com pano seco, exceto nos centelhadores, que exigem papel macio, pois o pano pode deixar fiapos e prejudicar o funcionamento.",
+   "tags": [
+    "taser",
+    "manutencao",
+    "limpeza"
+   ]
+  },
+  {
+   "id": "menorpot-elab-021",
+   "subtema": "Taser — Manutenção",
+   "artigo": "POP 5.21.03 — Zinabre",
+   "enunciado": "Constatada sujeira nos centelhadores da Taser X-2, passa-se papel macio a fim de evitar",
+   "alternativas": [
+    "a descarga da bateria",
+    "a formação de zinabre",
+    "o disparo acidental",
+    "a oxidação do cartucho"
+   ],
+   "correta": 1,
+   "explicacao": "O papel macio nos centelhadores evita a formação de zinabre; não se usa pano, que pode deixar fiapos e prejudicar o funcionamento.",
+   "tags": [
+    "taser",
+    "manutencao",
+    "zinabre"
+   ]
+  },
+  {
+   "id": "menorpot-elab-022",
+   "subtema": "Taser — Manutenção",
+   "artigo": "POP 5.21.03 — Armazenamento",
+   "enunciado": "Ao final da manutenção, o POP determina",
+   "alternativas": [
+    "retirar cartuchos e bateria e guardá-los com a arma na maleta, em local seco",
+    "manter a bateria acoplada, para preservar as configurações do sistema",
+    "manter os cartuchos inseridos, para pronta utilização no próximo serviço",
+    "guardar a arma no coldre, com cartuchos inseridos e bateria retirada"
+   ],
+   "correta": 0,
+   "explicacao": "Retiram-se cartuchos e bateria, acondicionando-os com o armamento na maleta específica, armazenada em local seco; guardar com baterias acopladas é possibilidade de erro.",
+   "tags": [
+    "taser",
+    "manutencao",
+    "armazenamento"
+   ]
+  },
+  {
+   "id": "menorpot-elab-023",
+   "subtema": "Taser — Manutenção",
+   "artigo": "POP 5.21.03 — Possibilidades de erro",
+   "enunciado": "Constitui possibilidade de erro no POP de manutenção da Taser X-2",
+   "alternativas": [
+    "manter a trava de segurança para baixo",
+    "utilizar papel macio nos centelhadores",
+    "realizar a manutenção com a arma ligada",
+    "armazenar a maleta em local seco"
+   ],
+   "correta": 2,
+   "explicacao": "São erros realizar a manutenção com a arma ligada, o que pode ocasionar disparo acidental, guardá-la com baterias acopladas e guardá-la molhada.",
+   "tags": [
+    "taser",
+    "manutencao",
+    "erros"
+   ]
+  },
+  {
+   "id": "menorpot-elab-024",
+   "subtema": "Taser — Manutenção",
+   "artigo": "POP 5.21.03 — Arma molhada",
+   "enunciado": "Quanto à Taser X-2 que tenha ficado molhada, o processo prevê que",
+   "alternativas": [
+    "deve ser descartada, por risco de curto-circuito",
+    "deve ser seca, sendo erro guardá-la molhada",
+    "pode ser guardada, pois é resistente à água",
+    "deve ser encaminhada ao fabricante para reparo"
+   ],
+   "correta": 1,
+   "explicacao": "A ação corretiva manda proceder à secagem da arma molhada, e guardar o armamento molhado é possibilidade de erro do POP de manutenção.",
+   "tags": [
+    "taser",
+    "manutencao",
+    "molhada"
+   ]
+  },
+  {
+   "id": "menorpot-elab-025",
+   "subtema": "Taser — Porte",
+   "artigo": "POP 5.21.02 — Coldre",
+   "enunciado": "Para pronta utilização, a Taser X-2 deve ser portada",
+   "alternativas": [
+    "com cartuchos acoplados, em coldre do lado da mão forte",
+    "com cartuchos acoplados, em coldre do lado da mão fraca",
+    "sem cartuchos, em coldre do lado da mão fraca",
+    "sem cartuchos, no colete, junto ao rádio portátil"
+   ],
+   "correta": 1,
+   "explicacao": "Os cartuchos devem estar acoplados na arma, acondicionada em coldre do lado da mão fraca, para pronta utilização, evitando confusão com a arma de fogo.",
+   "tags": [
+    "taser",
+    "porte",
+    "coldre"
+   ]
+  },
+  {
+   "id": "menorpot-elab-026",
+   "subtema": "Taser — Resultados",
+   "artigo": "POP 5.21.01 — Resultados esperados",
+   "enunciado": "É resultado esperado do POP de verificação e checagem da Taser X-2 que",
+   "alternativas": [
+    "o disparo de teste confirme o funcionamento dos dois cartuchos",
+    "a inserção e retirada dos cartuchos evitem disparo acidental ou lesão",
+    "a bateria seja substituída somente quando esgotada integralmente",
+    "a checagem seja registrada em livro próprio pelo comandante"
+   ],
+   "correta": 1,
+   "explicacao": "Espera-se checagem eficiente, verificação do sistema antes do serviço, inserção e retirada corretas dos cartuchos, evitando disparo acidental ou lesão, e troca da bateria abaixo de 20%.",
+   "tags": [
+    "taser",
+    "checagem",
+    "resultados"
+   ]
+  },
+  {
+   "id": "menorpot-elab-027",
+   "subtema": "Taser — Emprego",
+   "artigo": "POP 5.21.02 — Hipóteses",
+   "enunciado": "Respeitados os princípios do uso da força, a Taser X-2 deverá ser utilizada contra",
+   "alternativas": [
+    "pessoas com resistência passiva à abordagem e animais domésticos soltos em via pública",
+    "pessoas em fundada suspeita que se recusem a cumprir a ordem de abordagem policial",
+    "pessoas em fuga após a ordem de abordagem e animais agressivos de qualquer porte ou espécie",
+    "pessoa com risco iminente a terceiros, ao PM ou a si, e animal agressivo de médio e grande porte"
+   ],
+   "correta": 3,
+   "explicacao": "O emprego destina-se a pessoas que ofereçam risco iminente a terceiros, ao policial ou a si mesmas, atentando para as circunstâncias restritivas, e à contenção de animais agressivos de médio e grande porte.",
+   "tags": [
+    "taser",
+    "emprego"
+   ]
+  },
+  {
+   "id": "menorpot-elab-028",
+   "subtema": "Taser — Comando verbal",
+   "artigo": "POP 5.21.02 — Verbalização",
+   "enunciado": "O comando verbal do policial militar antes do uso da Taser X-2 deve ser emitido",
+   "alternativas": [
+    "em tom alto e claro: Mãos na cabeça!",
+    "em tom moderado: Cidadão, não se mova!",
+    "em tom alto e claro: Pare! É a Polícia!",
+    "em tom moderado: Polícia, vou disparar!"
+   ],
+   "correta": 2,
+   "explicacao": "A primeira atividade crítica é o comando verbal em tom alto e claro, com a expressão Pare(m)! É a Polícia!",
+   "tags": [
+    "taser",
+    "verbalizacao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-029",
+   "subtema": "Taser — Distância",
+   "artigo": "POP 5.21.02 — Distância ideal",
+   "enunciado": "Para melhor aproveitamento do disparo da Taser X-2, a distância ideal entre o agressor e o policial é de",
+   "alternativas": [
+    "no mínimo dois e no máximo cinco metros",
+    "no mínimo três e no máximo cinco metros",
+    "no mínimo sete e no máximo dez metros",
+    "no mínimo cinco e no máximo sete metros"
+   ],
+   "correta": 3,
+   "explicacao": "O POP fixa distância mínima de cinco e máxima de sete metros, respeitando o limite do cartucho; utilizar a arma a distância diversa é possibilidade de erro.",
+   "tags": [
+    "taser",
+    "distancia"
+   ]
+  },
+  {
+   "id": "menorpot-elab-030",
+   "subtema": "Taser — Distância",
+   "artigo": "POP 5.21.02 — Desobstrução",
+   "enunciado": "Antes de efetuar o disparo com a Taser X-2, o policial deverá verificar se o espaço até o agressor",
+   "alternativas": [
+    "está isolado por outros policiais, impedindo a fuga do agressor",
+    "está iluminado, permitindo a visualização do laser sobre o alvo",
+    "é superior a dez metros, evitando lesões por impacto dos dardos",
+    "está desobstruído, sem obstáculo que desvie os dardos ou enrosque os fios"
+   ],
+   "correta": 3,
+   "explicacao": "Verifica-se se o espaço está desobstruído, sem obstáculo que possa desviar os dardos ou enroscar os fios; usar a arma com obstáculo interposto é possibilidade de erro.",
+   "tags": [
+    "taser",
+    "desobstrucao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-031",
+   "subtema": "Taser — Disparo",
+   "artigo": "POP 5.21.02 — Segundo cartucho",
+   "enunciado": "Quando um cartucho da Taser X-2 é disparado e o gatilho é liberado, a arma",
+   "alternativas": [
+    "mantém o mesmo cartucho selecionado até a retirada manual",
+    "desliga-se automaticamente, exigindo reinício pela tecla seletora",
+    "seleciona de imediato o próximo cartucho, bastando pressionar o gatilho",
+    "exige acionar o botão ARC do lado esquerdo para o próximo disparo"
+   ],
+   "correta": 2,
+   "explicacao": "Disparado um cartucho e liberado o gatilho, a Taser X-2 seleciona imediatamente o próximo, ficando pronta para segundo disparo, se necessário, bastando pressionar o gatilho.",
+   "tags": [
+    "taser",
+    "disparo",
+    "segundo-cartucho"
+   ]
+  },
+  {
+   "id": "menorpot-elab-032",
+   "subtema": "Taser — Visada",
+   "artigo": "POP 5.21.02 — Laser",
+   "enunciado": "Na visada com o laser da Taser X-2, o policial deve manter o dedo fora do gatilho e direcionar o laser preferencialmente",
+   "alternativas": [
+    "para o abdômen do indivíduo",
+    "para o tórax do indivíduo",
+    "para as pernas do indivíduo",
+    "para as costas do indivíduo"
+   ],
+   "correta": 3,
+   "explicacao": "A visada é preferencialmente nas costas; não sendo possível, pela frente do corpo, no tórax (somente agressor masculino), abdômen, pernas e braços.",
+   "tags": [
+    "taser",
+    "visada",
+    "costas"
+   ]
+  },
+  {
+   "id": "menorpot-elab-033",
+   "subtema": "Taser — Visada",
+   "artigo": "POP 5.21.02 — Região frontal",
+   "enunciado": "Não sendo possível visar as costas, a visada frontal na região do tórax é admitida",
+   "alternativas": [
+    "somente para agressor adulto",
+    "para agressor de qualquer sexo",
+    "somente para agressor do sexo masculino",
+    "somente a distância superior a sete metros"
+   ],
+   "correta": 2,
+   "explicacao": "Pela frente, admite-se visar o tórax somente de agressor do sexo masculino, além de abdômen, pernas e braços, evitando-se as mamas femininas.",
+   "tags": [
+    "taser",
+    "visada",
+    "torax"
+   ]
+  },
+  {
+   "id": "menorpot-elab-034",
+   "subtema": "Taser — Visada",
+   "artigo": "POP 5.21.02 — Regiões a evitar",
+   "enunciado": "Deve-se evitar o disparo da Taser X-2 quando houver grande possibilidade de os dardos atingirem",
+   "alternativas": [
+    "cabeça, costas, abdômen e pernas",
+    "costas, braços, pernas e abdômen",
+    "tórax masculino, braços e pernas",
+    "cabeça, pescoço, pelve e mamas femininas"
+   ],
+   "correta": 3,
+   "explicacao": "Evita-se o disparo com grande possibilidade de atingir cabeça, pescoço, pelve (especialmente órgãos genitais) e mamas femininas.",
+   "tags": [
+    "taser",
+    "visada",
+    "regioes"
+   ]
+  },
+  {
+   "id": "menorpot-elab-035",
+   "subtema": "Taser — Contenção",
+   "artigo": "POP 5.21.02 — Algemamento",
+   "enunciado": "Efetuado disparo eficaz com a Taser X-2, o algemamento, caso necessário, deverá ocorrer",
+   "alternativas": [
+    "quando os dardos estiverem desenergizados, após interrompido o ciclo voltaico",
+    "durante a descarga elétrica, aproveitando a contração muscular do agressor",
+    "somente após a retirada dos dardos pela equipe de atendimento médico",
+    "imediatamente, segurando os fios metálicos para estabilizar o agressor"
+   ],
+   "correta": 0,
+   "explicacao": "O policial posiciona-se durante a energização e, após a interrupção do ciclo voltaico, realiza imobilização e algemamento com os dardos desenergizados, sem tocar neles ou na região entre eles.",
+   "tags": [
+    "taser",
+    "contencao",
+    "algemamento"
+   ]
+  },
+  {
+   "id": "menorpot-elab-036",
+   "subtema": "Taser — Contenção",
+   "artigo": "POP 5.21.02 — Dardos energizados",
+   "enunciado": "Durante a fração de tempo em que os dardos estiverem energizados, o policial militar",
+   "alternativas": [
+    "deverá segurar a sonda para evitar que o dardo se desprenda",
+    "poderá tocar nos fios metálicos, desde que utilize luvas de látex",
+    "não poderá tocar nos dardos nem posicionar as mãos na região entre eles",
+    "deverá iniciar o algemamento, aproveitando a incapacidade momentânea"
+   ],
+   "correta": 2,
+   "explicacao": "Enquanto energizados, é vedado encostar nos dardos ou posicionar as mãos entre eles, evitando receber descarga; a contração muscular também impossibilita ações simultâneas.",
+   "tags": [
+    "taser",
+    "contencao",
+    "energizados"
+   ]
+  },
+  {
+   "id": "menorpot-elab-037",
+   "subtema": "Taser — Conexão cruzada",
+   "artigo": "POP 5.21.02 — Segundo disparo",
+   "enunciado": "Sendo o primeiro disparo perdido, incompleto ou ineficaz, o operador poderá acionar novamente o gatilho, possibilitando",
+   "alternativas": [
+    "o arco de advertência, dispensando o uso do segundo cartucho",
+    "a conexão cruzada, com combinação de dardos para fechar o circuito",
+    "a reenergização do primeiro cartucho pela liberação do gatilho",
+    "o disparo simultâneo dos dois cartuchos em direção ao alvo"
+   ],
+   "correta": 1,
+   "explicacao": "O segundo disparo possibilita a tecnologia da conexão cruzada, pela qual a Taser X-2 combina dardos para fechar o circuito.",
+   "tags": [
+    "taser",
+    "conexao-cruzada"
+   ]
+  },
+  {
+   "id": "menorpot-elab-038",
+   "subtema": "Taser — Retirada dos dardos",
+   "artigo": "POP 5.21.02 — Condições",
+   "enunciado": "Após algemar ou imobilizar, o policial poderá providenciar a retirada das sondas com os dardos quando",
+   "alternativas": [
+    "o dardo tiver atingido a cabeça ou o pescoço do indivíduo",
+    "o indivíduo autorizar expressamente o procedimento no local",
+    "a equipe de socorro médico não puder comparecer ao local",
+    "a lesão for superficial e não tiver atingido regiões vitais do corpo"
+   ],
+   "correta": 3,
+   "explicacao": "A retirada no local é admitida se a lesão for superficial e não tiver atingido regiões vitais; em áreas sensíveis, cortam-se os fios e encaminha-se a pessoa ao atendimento médico.",
+   "tags": [
+    "taser",
+    "retirada",
+    "condicoes"
+   ]
+  },
+  {
+   "id": "menorpot-elab-039",
+   "subtema": "Taser — Retirada dos dardos",
+   "artigo": "POP 5.21.02 — Técnica",
+   "enunciado": "Na retirada dos dardos, o policial deverá usar luvas de látex, apoiar uma das mãos no corpo do atingido e, com a outra,",
+   "alternativas": [
+    "retirar o dardo pela sonda, em ação única, nunca pelo fio metálico",
+    "retirar o dardo pelo fio metálico, em movimentos lentos e graduais",
+    "retirar o dardo pela sonda, em movimentos alternados de rotação",
+    "cortar o fio metálico e retirar o dardo com auxílio de pinça"
+   ],
+   "correta": 0,
+   "explicacao": "Com luvas, apoiando preferencialmente a mão fraca no corpo, retira-se o dardo pela sonda, em ação única, sem puxar pelo fio metálico.",
+   "tags": [
+    "taser",
+    "retirada",
+    "tecnica"
+   ]
+  },
+  {
+   "id": "menorpot-elab-040",
+   "subtema": "Taser — Retirada dos dardos",
+   "artigo": "POP 5.21.02 — Perfuração profunda",
+   "enunciado": "Se a perfuração na pele ultrapassar o dardo, penetrando também a base, o policial deverá",
+   "alternativas": [
+    "retirar o conjunto sonda e dardo em ação única, com luvas de látex",
+    "cortar o fio condutor no local e remeter a retirada ao ambiente hospitalar",
+    "reenergizar o cartucho para facilitar o desprendimento da base",
+    "aguardar a chegada do perito para retirada e apreensão do dardo"
+   ],
+   "correta": 1,
+   "explicacao": "Nesse caso, o fio condutor é cortado no local da ocorrência, e a retirada da sonda e do dardo é realizada em ambiente hospitalar.",
+   "tags": [
+    "taser",
+    "retirada",
+    "hospital"
+   ]
+  },
+  {
+   "id": "menorpot-elab-041",
+   "subtema": "Taser — Recolha",
+   "artigo": "POP 5.21.02 — Acondicionamento",
+   "enunciado": "Na recolha dos materiais após o uso da Taser X-2, o policial deverá",
+   "alternativas": [
+    "enrolar os fios no cartucho, pôr a sonda no orifício de ejeção e envolver tudo na luva",
+    "separar sonda, fios e cartucho em invólucros distintos lacrados pelo policial",
+    "descartar a sonda em lixo comum e conservar apenas o cartucho para o registro",
+    "entregar sonda e fios ao atingido e conservar o cartucho na maleta da arma"
+   ],
+   "correta": 0,
+   "explicacao": "Enrolam-se os fios em volta do cartucho, coloca-se a sonda com a ponta no orifício de ejeção e envolve-se o conjunto na luva utilizada, amarrando-a para não se perder.",
+   "tags": [
+    "taser",
+    "recolha"
+   ]
+  },
+  {
+   "id": "menorpot-elab-042",
+   "subtema": "Taser — Pós-emprego",
+   "artigo": "POP 5.21.02 — Sequência",
+   "enunciado": "Após o uso da Taser X-2, a sequência de providências com o infrator atingido é",
+   "alternativas": [
+    "conduzi-lo diretamente ao DP, onde será requisitado o exame de corpo de delito",
+    "conduzi-lo ao hospital para exame, verificar a preservação do local e seguir ao DP",
+    "liberá-lo no local se não houver lesão aparente, registrando o fato no RSO",
+    "aguardar no local a perícia antes de qualquer deslocamento com o atingido"
+   ],
+   "correta": 1,
+   "explicacao": "O infrator é conduzido ao hospital para exame, obtendo-se o documento do atendimento; verifica-se a necessidade de preservar o local e, após, segue-se ao DP para registro no BOPM.",
+   "tags": [
+    "taser",
+    "pos-emprego"
+   ]
+  },
+  {
+   "id": "menorpot-elab-043",
+   "subtema": "Taser — Descarte",
+   "artigo": "POP 5.21.02 — Cartucho",
+   "enunciado": "Não realizando a autoridade competente a apreensão do armamento e do cartucho utilizados, o cartucho deverá ser",
+   "alternativas": [
+    "restituído à reserva de armamento",
+    "descartado em lixo hospitalar",
+    "encaminhado ao CMB para análise",
+    "descartado em lixo reciclável"
+   ],
+   "correta": 1,
+   "explicacao": "O cartucho é descartado em lixo hospitalar; descartá-lo antes da apresentação no DP ou em local não apropriado são possibilidades de erro.",
+   "tags": [
+    "taser",
+    "descarte"
+   ]
+  },
+  {
+   "id": "menorpot-elab-044",
+   "subtema": "Taser — Relatório",
+   "artigo": "POP 5.21.02 — EEF",
+   "enunciado": "Após o uso da Taser X-2, o Relatório de Utilização da Arma de Incapacitação Neuromuscular deve ser preenchido e encaminhado",
+   "alternativas": [
+    "à EEF",
+    "ao CMB",
+    "à 6ª EM",
+    "à DTic"
+   ],
+   "correta": 0,
+   "explicacao": "O POP determina preencher o Relatório de Utilização da Arma de Incapacitação Neuromuscular e encaminhá-lo à EEF.",
+   "tags": [
+    "taser",
+    "relatorio",
+    "eef"
+   ]
+  },
+  {
+   "id": "menorpot-elab-045",
+   "subtema": "Taser — Restrições",
+   "artigo": "POP 5.21.02 — Gás pimenta",
+   "enunciado": "Utilizar a Taser X-2 após o uso de espargidor de gás pimenta constitui possibilidade de erro porque",
+   "alternativas": [
+    "o gás reduz a condutividade elétrica da pele do agressor",
+    "o espargidor pode conter material inflamável que provoque chama",
+    "o gás interfere na visualização do laser de visada",
+    "o uso conjugado configura excesso no uso da força"
+   ],
+   "correta": 1,
+   "explicacao": "O espargidor de gás pimenta pode conter material inflamável que provoque chama com a descarga elétrica.",
+   "tags": [
+    "taser",
+    "restricoes",
+    "gas-pimenta"
+   ]
+  },
+  {
+   "id": "menorpot-elab-046",
+   "subtema": "Taser — Restrições",
+   "artigo": "POP 5.21.02 — Equipamentos energizados",
+   "enunciado": "É possibilidade de erro utilizar a Taser X-2 próximo a equipamentos energizados, como quadros de luz, porque",
+   "alternativas": [
+    "estes desviam a trajetória dos dardos",
+    "estes potencializam a descarga elétrica",
+    "estes descarregam a bateria da arma",
+    "estes bloqueiam o funcionamento do laser"
+   ],
+   "correta": 1,
+   "explicacao": "Equipamentos energizados potencializam a descarga elétrica, razão pela qual o uso nessas proximidades é vedado pelo POP.",
+   "tags": [
+    "taser",
+    "restricoes",
+    "energizados"
+   ]
+  },
+  {
+   "id": "menorpot-elab-047",
+   "subtema": "Taser — Restrições",
+   "artigo": "POP 5.21.02 — Pessoas em situação de risco",
+   "enunciado": "Constitui possibilidade de erro utilizar a Taser X-2 em pessoa que esteja",
+   "alternativas": [
+    "em local elevado, conduzindo veículo ou parcialmente imersa em água",
+    "em via pública plana, desarmada e em atitude de resistência ativa",
+    "em ambiente aberto, portando arma branca a seis metros do policial",
+    "em pé, de costas para o policial e sem obstáculos no espaço intermediário"
+   ],
+   "correta": 0,
+   "explicacao": "É erro usar a arma em pessoa em local elevado ou relevo acidentado, conduzindo veículos ou operando máquinas, ou parcial ou totalmente imersa, pelo risco de queda ou afogamento.",
+   "tags": [
+    "taser",
+    "restricoes",
+    "pessoas"
+   ]
+  },
+  {
+   "id": "menorpot-elab-048",
+   "subtema": "Taser — Restrições",
+   "artigo": "POP 5.21.02 — Gestantes",
+   "enunciado": "Sobre as circunstâncias em que não se deve utilizar a Taser X-2, é INCORRETO afirmar que a restrição alcança",
+   "alternativas": [
+    "pessoas idosas, crianças e pessoas visualmente incapacitadas",
+    "locais com produtos inflamáveis e com descargas elétricas",
+    "pessoas conduzindo veículos ou situadas em escadas e sacadas",
+    "mulheres grávidas apenas quando a gestação for de risco"
+   ],
+   "correta": 3,
+   "explicacao": "A restrição alcança mulheres grávidas sem qualquer condicionante; limitá-la às gestações de risco foi a assertiva incorreta da questão do MFN.",
+   "tags": [
+    "taser",
+    "restricoes",
+    "gestantes"
+   ]
+  },
+  {
+   "id": "menorpot-elab-049",
+   "subtema": "Taser — Ações corretivas",
+   "artigo": "POP 5.21.02 — Descarga em policial",
+   "enunciado": "Sofrendo o policial responsável pela contenção ou terceiros descarga elétrica da Taser X-2, o operador deverá",
+   "alternativas": [
+    "puxar os fios metálicos, desconectando os dardos do atingido",
+    "pressionar a tecla ARC, redirecionando a energia para o outro cartucho",
+    "desligar o armamento pela tecla de segurança, interrompendo o ciclo voltaico",
+    "acionar o gatilho novamente, encerrando o ciclo em andamento"
+   ],
+   "correta": 2,
+   "explicacao": "Para interromper o ciclo voltaico, o operador deve desligar o armamento pela tecla de segurança.",
+   "tags": [
+    "taser",
+    "acoes-corretivas",
+    "descarga"
+   ]
+  },
+  {
+   "id": "menorpot-elab-050",
+   "subtema": "Taser — Ações corretivas",
+   "artigo": "POP 5.21.02 — Modo contato",
+   "enunciado": "Se os dardos se soltarem ou atingirem pouca massa muscular sem incapacitar o agressor, o policial poderá",
+   "alternativas": [
+    "efetuar novo disparo ou usar a arma por contato, com o cartucho ainda na arma",
+    "usar a arma por contato somente após retirar os cartuchos deflagrados",
+    "reenergizar os dardos soltos pela tecla ARC até a incapacitação",
+    "empregar de imediato a arma de fogo, dada a ineficácia do meio"
+   ],
+   "correta": 0,
+   "explicacao": "O policial pode efetuar novo disparo ou utilizar a Taser X-2 como arma de contato, com o cartucho ainda na arma, encostando-a em regiões permitidas para imobilizar ou algemar.",
+   "tags": [
+    "taser",
+    "acoes-corretivas",
+    "contato"
+   ]
+  },
+  {
+   "id": "menorpot-elab-051",
+   "subtema": "Taser — Ações corretivas",
+   "artigo": "POP 5.21.02 — Uso conjugado",
+   "enunciado": "O uso conjugado de armas de incapacitação neuromuscular por mais de um policial",
+   "alternativas": [
+    "é possível, sem disparos simultâneos e com plena coordenação entre os policiais",
+    "é vedado em qualquer hipótese, pelo risco de sobrecarga elétrica no agressor",
+    "é possível, desde que os disparos sejam simultâneos, reduzindo o tempo de exposição",
+    "é possível apenas contra animais agressivos de grande porte"
+   ],
+   "correta": 0,
+   "explicacao": "O uso conjugado é possível desde que não ocorram disparos simultâneos contra o agressor, com plena coordenação para evitar sobrecarga elétrica.",
+   "tags": [
+    "taser",
+    "acoes-corretivas",
+    "conjugado"
+   ]
+  },
+  {
+   "id": "menorpot-elab-052",
+   "subtema": "Taser — Ações corretivas",
+   "artigo": "POP 5.21.02 — Áreas sensíveis",
+   "enunciado": "Atingindo os dardos áreas sensíveis como cabeça, olhos, pescoço, genitais ou mama feminina, o policial deverá",
+   "alternativas": [
+    "não retirar os dardos, cortar os fios junto à base da sonda e encaminhar ao médico",
+    "retirar imediatamente os dardos pela sonda, em ação única, e acionar o socorro",
+    "reenergizar os dardos para completar a imobilização antes de qualquer providência",
+    "retirar os dardos pelo fio metálico, evitando o contato direto com a lesão"
+   ],
+   "correta": 0,
+   "explicacao": "Em áreas sensíveis, não se retiram os dardos: cortam-se os fios metálicos com canivete, o mais próximo da base da sonda, e encaminha-se a pessoa imediatamente ao atendimento médico.",
+   "tags": [
+    "taser",
+    "acoes-corretivas",
+    "areas-sensiveis"
+   ]
+  },
+  {
+   "id": "menorpot-elab-053",
+   "subtema": "Taser — Ações corretivas",
+   "artigo": "POP 5.21.02 — Queda de frente",
+   "enunciado": "Caindo o indivíduo de frente após o disparo da Taser X-2, a imobilização ou o algemamento poderá ser feito",
+   "alternativas": [
+    "somente após reposicioná-lo em pé, de costas para o policial",
+    "somente com o indivíduo deitado de bruços, com as mãos para trás",
+    "de forma ajoelhada ou sentado sobre os calcanhares, conforme o POP 5.03.02",
+    "somente com o apoio de um terceiro policial segurando os fios"
+   ],
+   "correta": 2,
+   "explicacao": "A ação corretiva admite imobilização ou algemamento de forma ajoelhada ou sentado sobre os calcanhares, conforme o POP 5.03.02 — Ato de algemar.",
+   "tags": [
+    "taser",
+    "acoes-corretivas",
+    "queda"
+   ]
+  },
+  {
+   "id": "menorpot-elab-054",
+   "subtema": "Taser — Área de perigo",
+   "artigo": "POP 5.21.02 — Cone da morte",
+   "enunciado": "Na utilização da Taser X-2, a área de perigo compreende o local em que o agressor está e o chamado cone da morte, e, dada a iminência de confronto, o policial deve",
+   "alternativas": [
+    "permanecer na área de segurança, sem adentrar a área de perigo",
+    "adentrar a área de perigo para reduzir a distância de disparo",
+    "posicionar-se no cone da morte para garantir a visada frontal",
+    "adentrar a área de perigo somente com a arma de fogo empunhada"
+   ],
+   "correta": 0,
+   "explicacao": "O policial permanece na área de segurança e não adentra a área de perigo, que inclui o cone da morte; adentrá-la é possibilidade de erro do POP.",
+   "tags": [
+    "taser",
+    "area-perigo",
+    "cone-morte"
+   ]
+  },
+  {
+   "id": "menorpot-elab-055",
+   "subtema": "Taser — Posicionamento",
+   "artigo": "POP 5.21.02 — Abordagem",
+   "enunciado": "Durante a abordagem com possível uso da Taser X-2, os policiais adotam o posicionamento do POP de abordagem a pé, averiguando o indivíduo",
+   "alternativas": [
+    "ombro a ombro, para somar poder de reação em caso de avanço",
+    "em ângulo de quarenta e cinco graus, um de frente e o outro ao lado",
+    "em ângulo de noventa graus, um de frente e o outro ao lado do indivíduo",
+    "em linha, um à frente e o outro logo atrás, protegido pelo primeiro"
+   ],
+   "correta": 2,
+   "explicacao": "O posicionamento é em ângulo de noventa graus, com um policial de frente e o outro ao lado do indivíduo, evitando a linha de tiro.",
+   "tags": [
+    "taser",
+    "posicionamento"
+   ]
+  },
+  {
+   "id": "menorpot-elab-056",
+   "subtema": "Taser — Resultados",
+   "artigo": "POP 5.21.02 — Resultados esperados",
+   "enunciado": "É resultado esperado da utilização operacional da Taser X-2 que o policial",
+   "alternativas": [
+    "encerre a ocorrência no local, dispensada a apresentação no distrito",
+    "substitua o uso da arma de fogo em todas as ocorrências com agressor armado",
+    "dispense o algemamento, dada a incapacitação prolongada do agressor",
+    "quebre logo a resistência, evitando luta corporal desnecessária e lesões excessivas"
+   ],
+   "correta": 3,
+   "explicacao": "Espera-se ação rápida, sem luta corporal desnecessária, com preservação da integridade do policial, mínimo de lesões ao infrator e nenhum terceiro lesionado.",
+   "tags": [
+    "taser",
+    "resultados"
+   ]
+  },
+  {
+   "id": "menorpot-elab-057",
+   "subtema": "Bean Bag — Conceito",
+   "artigo": "POP 5.22.00 — Munição de impacto controlado",
+   "enunciado": "A munição de impacto controlado para espingarda calibre 12 Gauge é utilizada contra agressor ativo, certo e específico, durante",
+   "alternativas": [
+    "ocorrências com agressor isolado confinado em área de perigo",
+    "abordagens policiais a indivíduos em atitude sob fundada suspeita",
+    "acompanhamentos de indivíduos em fuga após a ordem de abordagem",
+    "controle de multidões ou ações de restabelecimento da ordem pública"
+   ],
+   "correta": 3,
+   "explicacao": "O emprego se dá contra agressor ativo, certo e específico, durante atuação em controle de multidões ou em ações de restabelecimento da ordem pública.",
+   "tags": [
+    "bean-bag",
+    "conceito"
+   ]
+  },
+  {
+   "id": "menorpot-elab-058",
+   "subtema": "Bean Bag — Ordem",
+   "artigo": "POP 5.22.00 — Esclarecimentos",
+   "enunciado": "A munição de impacto controlado é empregada mediante ordem que delimite o alvo e a quantidade de disparos, ou excepcionalmente por iniciativa do operador, para fazer cessar a agressão e desestimular condutas análogas",
+   "alternativas": [
+    "dos demais integrantes da tropa",
+    "dos demais infratores da lei",
+    "dos demais abordados",
+    "dos demais manifestantes"
+   ],
+   "correta": 3,
+   "explicacao": "O conceito refere-se ao desestímulo de condutas análogas dos demais manifestantes, coerente com o emprego em controle de multidões.",
+   "tags": [
+    "bean-bag",
+    "ordem"
+   ]
+  },
+  {
+   "id": "menorpot-elab-059",
+   "subtema": "Bean Bag — Munição",
+   "artigo": "POP 5.22.00 — Drag Stabilized Bean Bag",
+   "enunciado": "A munição Drag Stabilized Bean Bag é",
+   "alternativas": [
+    "projétil único de aramida, com esferas de chumbo e cauda estabilizadora",
+    "projétil múltiplo de aramida, com esferas de chumbo e cauda estabilizadora",
+    "projétil único de borracha, com núcleo de chumbo e cauda estabilizadora",
+    "projétil único de aramida, com esferas de borracha e sem estabilizador"
+   ],
+   "correta": 0,
+   "explicacao": "Trata-se de projétil único de aramida, contendo pequenas esferas de chumbo em seu interior e cauda estabilizadora; a troca por projétil múltiplo foi a distratora da questão do MFN.",
+   "tags": [
+    "bean-bag",
+    "municao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-060",
+   "subtema": "Bean Bag — Choke",
+   "artigo": "POP 5.22.00 — Conceito",
+   "enunciado": "O choke é o estrangulamento do cano na extremidade final da espingarda, cuja finalidade é",
+   "alternativas": [
+    "reduzir o recuo da arma, permitindo disparos sucessivos com precisão",
+    "alargar a boca do cano, dispersando o projétil e reduzindo o impacto",
+    "estreitar a boca do cano, produzindo maior velocidade e precisão do disparo",
+    "impedir o uso de munição letal na espingarda destinada ao Bean Bag"
+   ],
+   "correta": 2,
+   "explicacao": "O choke estreita a boca do cano para produzir maior velocidade do projétil e, consequentemente, aumentar a precisão do disparo.",
+   "tags": [
+    "bean-bag",
+    "choke"
+   ]
+  },
+  {
+   "id": "menorpot-elab-061",
+   "subtema": "Bean Bag — Choke",
+   "artigo": "POP 5.22.00 — Identificação",
+   "enunciado": "O choke cilíndrico pode ser identificado",
+   "alternativas": [
+    "por cinco cavas na coronha ou pela inscrição do calibre no cano",
+    "por três cavas na boca do choke ou três asteriscos no corpo da arma",
+    "pela cor laranja no corpo do choke ou pela inscrição CYL na coronha",
+    "por cinco cavas na boca do choke ou cinco asteriscos no choke ou na arma"
+   ],
+   "correta": 3,
+   "explicacao": "O choke cilíndrico é identificado por cinco cavas na boca do choke ou pela inscrição de cinco asteriscos no corpo do choke ou no armamento.",
+   "tags": [
+    "bean-bag",
+    "choke",
+    "identificacao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-062",
+   "subtema": "Bean Bag — Habilitação",
+   "artigo": "POP 5.22.00 — Policial habilitado",
+   "enunciado": "Considera-se policial militar habilitado ao emprego da munição de impacto controlado aquele que concluiu com aproveitamento",
+   "alternativas": [
+    "exclusivamente o estágio para multiplicadores da munição de impacto controlado",
+    "o estágio para usuários ou multiplicadores da munição ou o curso de CDC",
+    "exclusivamente o curso de controle de distúrbios civis da Corporação",
+    "o estágio de tiro defensivo e o curso de controle de distúrbios civis"
+   ],
+   "correta": 1,
+   "explicacao": "É habilitado quem concluiu com aproveitamento o estágio para usuários ou multiplicadores da munição de impacto controlado, ou o curso de CDC.",
+   "tags": [
+    "bean-bag",
+    "habilitacao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-063",
+   "subtema": "Bean Bag — Checagem",
+   "artigo": "POP 5.22.01 — Atividades críticas",
+   "enunciado": "Figura entre as atividades críticas da checagem da arma e da munição Bean Bag",
+   "alternativas": [
+    "efetuar disparo de teste a dez metros do alvo",
+    "marcar a coronha, identificando o tipo de munição",
+    "desativar o choke antes de municiar a arma",
+    "retirar a bandoleira para facilitar o manuseio"
+   ],
+   "correta": 1,
+   "explicacao": "São atividades críticas manusear o armamento, proceder em local seguro com a arma travada, certificar-se de que a munição é Bean Bag e marcar a coronha identificando o tipo de munição.",
+   "tags": [
+    "bean-bag",
+    "checagem",
+    "atividades-criticas"
+   ]
+  },
+  {
+   "id": "menorpot-elab-064",
+   "subtema": "Bean Bag — Identificação visual",
+   "artigo": "POP 5.22.01 — Coronha",
+   "enunciado": "A espingarda calibre 12 que usará munição Bean Bag deve receber identificação visual diferenciada, consistente em",
+   "alternativas": [
+    "fita removível laranja ou vermelha na coronha",
+    "pintura permanente amarela no cano da arma",
+    "etiqueta branca com inscrição MIC no guarda-mato",
+    "fita removível verde ou azul na bandoleira"
+   ],
+   "correta": 0,
+   "explicacao": "A identificação é feita com fita removível laranja ou vermelha na coronha, facilitando a identificação pelos atiradores; não identificá-la é possibilidade de erro.",
+   "tags": [
+    "bean-bag",
+    "identificacao",
+    "coronha"
+   ]
+  },
+  {
+   "id": "menorpot-elab-065",
+   "subtema": "Bean Bag — Benelli",
+   "artigo": "POP 5.22.01 — Verificações",
+   "enunciado": "Em caso de utilização de espingarda Benelli M3 ou M3 A1 com munição Bean Bag, deve-se verificar se a arma está",
+   "alternativas": [
+    "com choke full e no modo semiautomático",
+    "com choke cilíndrico e em modo de repetição pump action",
+    "com choke cilíndrico e no modo semiautomático",
+    "com choke modificado e no modo de repetição"
+   ],
+   "correta": 1,
+   "explicacao": "Verifica-se se a Benelli M3 ou M3 A1 está com choke cilíndrico e no modo de repetição (pump action); operar em sistema semiautomático é possibilidade de erro.",
+   "tags": [
+    "bean-bag",
+    "benelli"
+   ]
+  },
+  {
+   "id": "menorpot-elab-066",
+   "subtema": "Bean Bag — Checagem",
+   "artigo": "POP 5.22.01 — Dupla checagem",
+   "enunciado": "Sempre que possível, na checagem do armamento e da munição Bean Bag, deve ser realizada",
+   "alternativas": [
+    "a checagem pelo oficial comandante da fração de tropa",
+    "a dupla checagem, com conferência por outro policial",
+    "a checagem pelo armeiro da unidade antes do emprego",
+    "a checagem por meio de disparo em alvo de teste"
+   ],
+   "correta": 1,
+   "explicacao": "Sempre que possível, outro policial confere o armamento e a munição a ser utilizada, realizando a dupla checagem, além de verificar validade e condições do projétil.",
+   "tags": [
+    "bean-bag",
+    "dupla-checagem"
+   ]
+  },
+  {
+   "id": "menorpot-elab-067",
+   "subtema": "Bean Bag — Checagem",
+   "artigo": "POP 5.22.01 — Munição",
+   "enunciado": "Na checagem da munição Bean Bag, o policial deve verificar",
+   "alternativas": [
+    "o peso do projétil, comparando-o com o padrão do fabricante",
+    "apenas a data de fabricação indicada na embalagem do lote",
+    "a validade e as condições do projétil, como deformidades",
+    "a cor do estojo, que indica o alcance máximo da munição"
+   ],
+   "correta": 2,
+   "explicacao": "Verificam-se a validade da munição e as condições do projétil, como deformidades e amassamentos; munição sem identificação deve ser trocada conforme a disponibilidade.",
+   "tags": [
+    "bean-bag",
+    "checagem",
+    "validade"
+   ]
+  },
+  {
+   "id": "menorpot-elab-068",
+   "subtema": "Bean Bag — Acondicionamento",
+   "artigo": "POP 5.22.01 — Bornais",
+   "enunciado": "Quanto ao acondicionamento das munições Bean Bag, é terminantemente proibido",
+   "alternativas": [
+    "guardar as munições em compartimento identificado com a cor laranja",
+    "guardar as munições em bornais próprios e exclusivos para essa finalidade",
+    "guardar as munições separadas da espingarda durante o deslocamento",
+    "guardar no mesmo bornal ou acessório qualquer outro tipo de munição letal"
+   ],
+   "correta": 3,
+   "explicacao": "As munições ficam em bornais ou acessórios próprios e exclusivos, sendo terminantemente proibido acondicionar no mesmo compartimento qualquer munição letal, evitando confusão no municiamento.",
+   "tags": [
+    "bean-bag",
+    "acondicionamento"
+   ]
+  },
+  {
+   "id": "menorpot-elab-069",
+   "subtema": "Bean Bag — Checagem",
+   "artigo": "POP 5.22.01 — Munição letal",
+   "enunciado": "Antes de municiar a espingarda com munição Bean Bag, o policial deverá, se necessário,",
+   "alternativas": [
+    "passar a arma ao modo semiautomático",
+    "trocar o choke cilíndrico pelo full",
+    "desmuniciar a arma da munição letal",
+    "retirar a identificação da coronha"
+   ],
+   "correta": 2,
+   "explicacao": "A sequência inclui desmuniciar, se necessário, a espingarda da munição letal, identificar a coronha e conferir arma e munição antes do municiamento com Bean Bag.",
+   "tags": [
+    "bean-bag",
+    "checagem",
+    "desmuniciar"
+   ]
+  },
+  {
+   "id": "menorpot-elab-070",
+   "subtema": "Bean Bag — Ações corretivas",
+   "artigo": "POP 5.22.01 — Choke diverso",
+   "enunciado": "Estando a espingarda com modelo de choke diverso do cilíndrico, a ação corretiva determina",
+   "alternativas": [
+    "empregar a arma apenas em posição de alerta",
+    "reduzir a distância de disparo para cinco metros",
+    "providenciar a troca do choke ou da espingarda",
+    "efetuar disparos somente nos membros inferiores"
+   ],
+   "correta": 2,
+   "explicacao": "Com choke diverso do cilíndrico, providencia-se a troca do choke ou da espingarda; operar a Benelli com outro choke é possibilidade de erro.",
+   "tags": [
+    "bean-bag",
+    "acoes-corretivas",
+    "choke"
+   ]
+  },
+  {
+   "id": "menorpot-elab-071",
+   "subtema": "Bean Bag — Ações corretivas",
+   "artigo": "POP 5.22.01 — Munição diversa",
+   "enunciado": "Constatada munição diferente da Drag Stabilized Bean Bag estabelecida, o policial deverá",
+   "alternativas": [
+    "comunicar o CMB e manter o emprego",
+    "empregá-la somente sob ordem do comandante",
+    "empregá-la apenas a distância superior a dez metros",
+    "providenciar a troca da munição"
+   ],
+   "correta": 3,
+   "explicacao": "Munição diferente da estabelecida deve ser trocada; se não houver identificação ou modelo aparente, providencia-se a troca conforme a disponibilidade do material.",
+   "tags": [
+    "bean-bag",
+    "acoes-corretivas",
+    "municao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-072",
+   "subtema": "Bean Bag — Erros",
+   "artigo": "POP 5.22.01 — Possibilidades de erro",
+   "enunciado": "Constitui possibilidade de erro na checagem da arma e da munição Bean Bag",
+   "alternativas": [
+    "realizar a checagem com a arma destravada ou municiada",
+    "realizar a dupla checagem com outro policial habilitado",
+    "identificar a coronha com fita removível vermelha",
+    "acondicionar as munições em bornal exclusivo"
+   ],
+   "correta": 0,
+   "explicacao": "Checar com a arma destravada ou municiada pode ocasionar disparo acidental; as demais condutas integram a sequência correta de checagem.",
+   "tags": [
+    "bean-bag",
+    "erros",
+    "checagem"
+   ]
+  },
+  {
+   "id": "menorpot-elab-073",
+   "subtema": "Bean Bag — Resultados",
+   "artigo": "POP 5.22.01 — Identificação",
+   "enunciado": "Um dos resultados esperados da checagem é que a identificação da arma seja realizada de forma a",
+   "alternativas": [
+    "facilitar a manutenção periódica",
+    "evitar o uso de munição letal",
+    "permitir o controle patrimonial",
+    "indicar o alcance da munição"
+   ],
+   "correta": 1,
+   "explicacao": "A identificação visual da coronha visa evitar o uso de munição letal na arma destinada ao impacto controlado.",
+   "tags": [
+    "bean-bag",
+    "resultados"
+   ]
+  },
+  {
+   "id": "menorpot-elab-074",
+   "subtema": "Bean Bag — Pegadinha",
+   "artigo": "POP 5.22.01 — Modo de operação",
+   "enunciado": "Sobre o que se deve verificar nas espingardas Benelli M3 ou M3 A1 para uso da munição Bean Bag, é INCORRETO afirmar que se deve verificar",
+   "alternativas": [
+    "se a arma está no modo de repetição denominado pump up the jam",
+    "se a arma encontra-se com o choke cilíndrico instalado",
+    "se a arma está no modo de repetição denominado pump action",
+    "a validade da munição e a dupla checagem por outro policial"
+   ],
+   "correta": 0,
+   "explicacao": "O modo de repetição é o pump action; a expressão pump up the jam, inserida como pegadinha na questão do MFN, não corresponde a nenhum modo da arma.",
+   "tags": [
+    "bean-bag",
+    "benelli",
+    "pegadinha"
+   ]
+  },
+  {
+   "id": "menorpot-elab-075",
+   "subtema": "Bean Bag — Revisão",
+   "artigo": "POP 5.22.02 — Revisão de 08MAI25",
+   "enunciado": "Com a revisão de 08MAI25 do POP 5.22.02, a distância de segurança e direção do disparo da munição Bean Bag passou a ser de",
+   "alternativas": [
+    "entre cinco e sete metros",
+    "no mínimo cinco metros",
+    "no mínimo dez metros",
+    "no máximo dez metros"
+   ],
+   "correta": 2,
+   "explicacao": "A revisão de 08MAI25 fixou a distância mínima de dez metros, indicada pelo fabricante da Drag Stabilized Bean Bag; a faixa de cinco a sete metros é a da Taser X-2.",
+   "tags": [
+    "bean-bag",
+    "distancia",
+    "revisao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-076",
+   "subtema": "Bean Bag — Distância",
+   "artigo": "POP 5.22.02 — Distância inferior",
+   "enunciado": "Estando o agressor a distância inferior a dez metros, fora de situação de risco iminente à vida, a ação corretiva determina",
+   "alternativas": [
+    "não realizar disparo com munição Bean Bag",
+    "disparar mirando exclusivamente os membros inferiores",
+    "disparar somente com ordem do comandante da fração",
+    "disparar após alertar verbalmente o agressor"
+   ],
+   "correta": 0,
+   "explicacao": "Com agressor a menos de dez metros, não se realiza disparo com munição Bean Bag, ressalvada a situação de risco iminente à vida própria ou de terceiros.",
+   "tags": [
+    "bean-bag",
+    "distancia",
+    "inferior"
+   ]
+  },
+  {
+   "id": "menorpot-elab-077",
+   "subtema": "Bean Bag — Distância",
+   "artigo": "POP 5.22.02 — Risco iminente à vida",
+   "enunciado": "Vislumbrando o atirador habilitado agressor ativo em situação de risco iminente à vida própria ou de terceiros, como no arremesso de coquetel molotov, ele poderá",
+   "alternativas": [
+    "disparar apenas a mais de dez metros, dispensada a ordem superior",
+    "disparar a distância diversa de dez metros, sem necessidade de ordem superior",
+    "disparar a distância diversa de dez metros, somente com ordem superior",
+    "abster-se de disparar, acionando o emprego de agentes químicos"
+   ],
+   "correta": 1,
+   "explicacao": "Em risco iminente à vida, o atirador habilitado pode efetuar os disparos necessários para cessar a injusta agressão a distância diferente de dez metros e sem necessidade de ordem superior.",
+   "tags": [
+    "bean-bag",
+    "risco-iminente"
+   ]
+  },
+  {
+   "id": "menorpot-elab-078",
+   "subtema": "Bean Bag — Identificação dos agressores",
+   "artigo": "POP 5.22.02 — Ação corretiva",
+   "enunciado": "Não sendo possível identificar os agressores à tropa, a ação corretiva do POP determina",
+   "alternativas": [
+    "disparar na direção da massa para dispersá-la",
+    "não realizar disparo com munição Bean Bag",
+    "disparar contra quem estiver à frente da multidão",
+    "disparar após ordem do comandante da fração"
+   ],
+   "correta": 1,
+   "explicacao": "Sem identificação dos agressores, não se dispara Bean Bag; seu emprego exige agressor ativo, certo e específico, e dispersar a massa com essa munição é possibilidade de erro.",
+   "tags": [
+    "bean-bag",
+    "identificacao-agressor"
+   ]
+  },
+  {
+   "id": "menorpot-elab-079",
+   "subtema": "Bean Bag — Atividades críticas",
+   "artigo": "POP 5.22.02 — Doutrina",
+   "enunciado": "A identificação dos momentos corretos para emprego da munição Bean Bag deve observar a doutrina de",
+   "alternativas": [
+    "controle de multidões e ações táticas especiais",
+    "abordagem policial e busca pessoal minuciosa",
+    "tiro defensivo e preservação da vida",
+    "policiamento comunitário e mediação"
+   ],
+   "correta": 0,
+   "explicacao": "A atividade crítica é identificar os momentos corretos de emprego de acordo com a doutrina de controle de multidões e ações táticas especiais.",
+   "tags": [
+    "bean-bag",
+    "doutrina"
+   ]
+  },
+  {
+   "id": "menorpot-elab-080",
+   "subtema": "Bean Bag — Ordem do disparo",
+   "artigo": "POP 5.22.02 — Comandante da fração",
+   "enunciado": "Em regra, o disparo com munição Bean Bag deve ser executado exclusivamente contra agressor ativo e sob ordem direta, clara e específica",
+   "alternativas": [
+    "do centro de operações, após a avaliação das imagens transmitidas",
+    "do oficial de dia da unidade, informado pelo comandante da fração de tropa",
+    "do comandante da operação, somente em ações de controle de distúrbios civis",
+    "do comandante da fração de tropa, qualquer que seja o tipo de policiamento"
+   ],
+   "correta": 3,
+   "explicacao": "O disparo exige ordem direta, clara e específica do comandante da fração de tropa, independentemente do tipo ou programa de policiamento, mantendo o atirador contato direto com ele.",
+   "tags": [
+    "bean-bag",
+    "ordem",
+    "comandante"
+   ]
+  },
+  {
+   "id": "menorpot-elab-081",
+   "subtema": "Bean Bag — Visada",
+   "artigo": "POP 5.22.02 — Membros inferiores",
+   "enunciado": "O disparo com munição Bean Bag deverá ser preciso e direcionado",
+   "alternativas": [
+    "para o tronco do agressor ativo, de maior massa",
+    "para os membros inferiores do agressor ativo",
+    "para as costas do agressor ativo, preferencialmente",
+    "para os membros superiores do agressor ativo"
+   ],
+   "correta": 1,
+   "explicacao": "O disparo deve ser preciso e direcionado para os membros inferiores do agressor ativo, a chamada visada baixa, inclusive em terreno com aclive ou declive.",
+   "tags": [
+    "bean-bag",
+    "visada"
+   ]
+  },
+  {
+   "id": "menorpot-elab-082",
+   "subtema": "Bean Bag — Visada",
+   "artigo": "POP 5.22.02 — Aclive e declive",
+   "enunciado": "Sendo o local de aclive ou declive, o policial que empregar a munição Bean Bag deverá",
+   "alternativas": [
+    "aumentar a distância para quinze metros, reduzindo o risco de lesão grave",
+    "elevar a visada para o tronco, compensando a diferença do plano de tiro",
+    "suspender os disparos até que o agressor se desloque para terreno plano",
+    "considerar seu posicionamento em relação ao agressor, mantendo a visada baixa"
+   ],
+   "correta": 3,
+   "explicacao": "O policial deve considerar seu posicionamento em relação ao agressor, mantendo sempre os disparos nos membros inferiores; não considerar a diferença do plano de tiro é possibilidade de erro.",
+   "tags": [
+    "bean-bag",
+    "visada",
+    "terreno"
+   ]
+  },
+  {
+   "id": "menorpot-elab-083",
+   "subtema": "Bean Bag — Posições",
+   "artigo": "POP 5.22.02 — Posição sul",
+   "enunciado": "No transporte da espingarda em bandoleira com munição Bean Bag, a posição sul será adotada",
+   "alternativas": [
+    "em locais com reduzido grau de perigo",
+    "em deslocamentos em controle de multidões",
+    "quando o atirador visualizar agressor ativo",
+    "atrás do escudo balístico, antes do disparo"
+   ],
+   "correta": 0,
+   "explicacao": "A posição sul é adotada em locais com reduzido grau de perigo; a posição de alerta é usada nos deslocamentos em controle de multidões.",
+   "tags": [
+    "bean-bag",
+    "posicoes",
+    "sul"
+   ]
+  },
+  {
+   "id": "menorpot-elab-084",
+   "subtema": "Bean Bag — Posições",
+   "artigo": "POP 5.22.02 — Posição de alerta",
+   "enunciado": "A posição de alerta, utilizada pelo atirador durante os deslocamentos em atuações de controle de multidões, é adotada porque",
+   "alternativas": [
+    "reduz a exposição do atirador, mantendo-o sempre abrigado atrás do escudo",
+    "precede imediatamente o disparo, com visada nos membros inferiores do agressor",
+    "possibilita melhor visão periférica do ambiente em locais com perigo de agressão",
+    "é a única posição compatível com o modo de repetição da espingarda Benelli"
+   ],
+   "correta": 2,
+   "explicacao": "A posição de alerta é usada em locais com perigo de agressões à tropa ou a terceiros, durante os deslocamentos, pois possibilita melhor visão periférica do ambiente.",
+   "tags": [
+    "bean-bag",
+    "posicoes",
+    "alerta"
+   ]
+  },
+  {
+   "id": "menorpot-elab-085",
+   "subtema": "Bean Bag — Posições",
+   "artigo": "POP 5.22.02 — Posição de tiro",
+   "enunciado": "Quanto à posição de tiro no emprego da munição Bean Bag, é correto afirmar que",
+   "alternativas": [
+    "é a posição padrão de deslocamento em controle de multidões, por permitir pronta resposta",
+    "precede o disparo e deve ser evitada em longos deslocamentos, por reduzir a visão periférica",
+    "é adotada em locais com reduzido grau de perigo, com a arma apontada para o solo",
+    "dispensa a visada baixa quando o agressor estiver a mais de dez metros"
+   ],
+   "correta": 1,
+   "explicacao": "A posição de tiro é adotada quando o atirador visualiza agressores ativos e precede o disparo; deve-se evitar longos deslocamentos nela, pois diminui a visão periférica.",
+   "tags": [
+    "bean-bag",
+    "posicoes",
+    "tiro"
+   ]
+  },
+  {
+   "id": "menorpot-elab-086",
+   "subtema": "Bean Bag — Escudo balístico",
+   "artigo": "POP 5.22.02 — Linha de escudos",
+   "enunciado": "Na posição com escudo balístico, o atirador da munição Bean Bag deverá",
+   "alternativas": [
+    "manter o cano da arma recuado em relação à linha dos escudos",
+    "posicionar-se à frente da linha de escudos, ampliando o campo de visada",
+    "manter a viseira levantada, para não prejudicar a visada sobre o agressor",
+    "abrigar-se atrás do escudo, viseira abaixada, passando o cano da linha do escudo"
+   ],
+   "correta": 3,
+   "explicacao": "O atirador fica protegido atrás do escudo, com a viseira do capacete abaixada sem prejudicar a visada, sempre passando o cano do armamento da linha do escudo.",
+   "tags": [
+    "bean-bag",
+    "escudo"
+   ]
+  },
+  {
+   "id": "menorpot-elab-087",
+   "subtema": "Bean Bag — Pane",
+   "artigo": "POP 5.22.02 — Ação corretiva",
+   "enunciado": "Havendo pane no armamento durante o emprego da munição Bean Bag, a arma deverá ser",
+   "alternativas": [
+    "mantida em posição de alerta até o término da ação",
+    "reparada no local pelo próprio atirador habilitado",
+    "entregue ao comandante da fração até o fim da ação",
+    "retirada do local de conflito e, se possível, substituída"
+   ],
+   "correta": 3,
+   "explicacao": "Com pane, o armamento é retirado do local de conflito e, se possível, substituído; falhas de munição, arma ou equipamentos de proteção são cientificadas ao CMB.",
+   "tags": [
+    "bean-bag",
+    "pane"
+   ]
+  },
+  {
+   "id": "menorpot-elab-088",
+   "subtema": "Bean Bag — Falhas",
+   "artigo": "POP 5.22.02 — CMB",
+   "enunciado": "Ocorrendo falha ou anomalia com munição, armamento ou equipamentos de proteção utilizados no emprego da Bean Bag, deve-se cientificar",
+   "alternativas": [
+    "o CMB",
+    "a EEF",
+    "a DTic",
+    "o CSM MM"
+   ],
+   "correta": 0,
+   "explicacao": "A ação corretiva manda cientificar o Centro de Material Bélico sobre falhas ou anomalias com munição, armamento ou equipamentos de proteção.",
+   "tags": [
+    "bean-bag",
+    "falhas",
+    "cmb"
+   ]
+  },
+  {
+   "id": "menorpot-elab-089",
+   "subtema": "Bean Bag — Suspensão",
+   "artigo": "POP 5.22.02 — Sequência",
+   "enunciado": "Os disparos com munição Bean Bag devem ser suspensos quando",
+   "alternativas": [
+    "a multidão iniciar a dispersão em direção oposta",
+    "a munição disponível no bornal atingir a metade",
+    "o agressor ativo for contido ou cessar a injusta agressão",
+    "o comandante da fração determinar o avanço da tropa"
+   ],
+   "correta": 2,
+   "explicacao": "Os disparos são suspensos quando o agressor ativo for contido ou cessar a injusta agressão, seguindo-se o isolamento da área e o socorro aos feridos.",
+   "tags": [
+    "bean-bag",
+    "suspensao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-090",
+   "subtema": "Bean Bag — Pós-disparo",
+   "artigo": "POP 5.22.02 — Isolamento e socorro",
+   "enunciado": "Após o disparo ou a dispersão da massa, o POP determina",
+   "alternativas": [
+    "manter a tropa em linha de escudos até a chegada da Polícia Civil",
+    "recolher os projéteis disparados antes de qualquer outra providência",
+    "isolar a área, retirar o indivíduo da multidão e socorrer os feridos",
+    "conduzir todos os manifestantes presentes ao distrito policial"
+   ],
+   "correta": 2,
+   "explicacao": "Isola-se a área e retira-se o indivíduo do meio da multidão, se possível, socorrendo ou providenciando socorro aos feridos após o disparo ou a dispersão.",
+   "tags": [
+    "bean-bag",
+    "pos-disparo"
+   ]
+  },
+  {
+   "id": "menorpot-elab-091",
+   "subtema": "Bean Bag — Registro",
+   "artigo": "POP 5.22.02 — BOe e RSO",
+   "enunciado": "Após o emprego da munição Bean Bag, a quantidade e a situação de utilização devem ser registradas",
+   "alternativas": [
+    "apenas no relatório de utilização encaminhado à EEF",
+    "em BOe ou BO/PM e no Relatório de Serviço Operacional",
+    "apenas no RSO do comandante da fração de tropa",
+    "em ofício ao CMB, com cópia ao comando da unidade"
+   ],
+   "correta": 1,
+   "explicacao": "Conduzem-se detidos e materiais ao DP, registrando-se a quantidade e a situação de utilização da munição em BOe ou BO/PM e em RSO; não registrar é possibilidade de erro.",
+   "tags": [
+    "bean-bag",
+    "registro"
+   ]
+  },
+  {
+   "id": "menorpot-elab-092",
+   "subtema": "Bean Bag — Imprensa",
+   "artigo": "POP 5.22.02 — Sala de Imprensa",
+   "enunciado": "Todo profissional de mídia que solicitar informações sobre a intervenção com munição Bean Bag deverá ser orientado a buscá-las",
+   "alternativas": [
+    "na Sala de Imprensa da PMESP, que funciona vinte e quatro horas",
+    "com o comandante da fração de tropa, ao término da operação",
+    "no Centro de Comunicação Social, em horário de expediente",
+    "com o oficial de dia da unidade responsável pela área"
+   ],
+   "correta": 0,
+   "explicacao": "Causas, circunstâncias e consequências da intervenção só são divulgadas pela Sala de Imprensa da PMESP, que funciona vinte e quatro horas ininterruptas.",
+   "tags": [
+    "bean-bag",
+    "imprensa"
+   ]
+  },
+  {
+   "id": "menorpot-elab-093",
+   "subtema": "Bean Bag — Erros",
+   "artigo": "POP 5.22.02 — Dispersão",
+   "enunciado": "Constitui possibilidade de erro no emprego da munição Bean Bag",
+   "alternativas": [
+    "usá-la para dispersar a massa no lugar de granadas e agentes lacrimogêneos",
+    "suspender os disparos quando o agressor ativo for contido pela tropa",
+    "isolar a área e retirar o atingido do meio da multidão para socorro",
+    "disparar sem ordem superior diante de risco iminente à vida de terceiros"
+   ],
+   "correta": 0,
+   "explicacao": "Usar a Bean Bag para dispersar manifestação, no lugar de granadas e agentes químicos lacrimogêneos, é erro; o disparo sem ordem diante de risco iminente à vida é hipótese autorizada.",
+   "tags": [
+    "bean-bag",
+    "erros",
+    "dispersao"
+   ]
+  },
+  {
+   "id": "menorpot-elab-094",
+   "subtema": "Bean Bag — Erros",
+   "artigo": "POP 5.22.02 — Ordem do comandante",
+   "enunciado": "Quanto ao disparo de Bean Bag sem ordem do comandante, o POP considera possibilidade de erro fazê-lo",
+   "alternativas": [
+    "em qualquer hipótese, inclusive com risco à vida",
+    "nos casos em que não houver urgência e necessidade",
+    "somente quando o agressor estiver a mais de dez metros",
+    "somente em ações de restabelecimento da ordem pública"
+   ],
+   "correta": 1,
+   "explicacao": "O erro é disparar sem a devida ordem do comandante nos casos em que não houver urgência e necessidade; havendo risco iminente à vida, a ordem é dispensada.",
+   "tags": [
+    "bean-bag",
+    "erros",
+    "ordem"
+   ]
+  },
+  {
+   "id": "menorpot-elab-095",
+   "subtema": "Bean Bag — Erros",
+   "artigo": "POP 5.22.02 — Visada proibida",
+   "enunciado": "É possibilidade de erro no emprego da munição Bean Bag fazer visada",
+   "alternativas": [
+    "nos membros inferiores do agressor ativo, certo e específico",
+    "em cabeça, pescoço, genitais, mamas, gestantes, crianças ou idosos",
+    "em agressor ativo situado a mais de dez metros da tropa",
+    "em agressor ativo que empregue rojões contra a tropa"
+   ],
+   "correta": 1,
+   "explicacao": "É erro fazer visada na cabeça, pescoço, genitais, mamas femininas, mulheres grávidas, crianças, idosos ou pessoas visualmente incapacitadas.",
+   "tags": [
+    "bean-bag",
+    "erros",
+    "visada"
+   ]
+  },
+  {
+   "id": "menorpot-elab-096",
+   "subtema": "Bean Bag — Resultados",
+   "artigo": "POP 5.22.02 — Finalidade exclusiva",
+   "enunciado": "Entre os resultados esperados do POP 5.22.02 está que a utilização da munição Bean Bag seja exclusivamente para ocorrências de",
+   "alternativas": [
+    "resgate de reféns e intervenções de tropas especializadas",
+    "abordagem de infratores armados com arma branca em via pública",
+    "controle de distúrbios civis e de restabelecimento da ordem pública",
+    "contenção de animais agressivos de médio e grande porte"
+   ],
+   "correta": 2,
+   "explicacao": "Espera-se o uso exclusivo em ocorrências de controle de distúrbios civis e de restabelecimento da ordem pública, com identificação dos agressores e mínimo de lesões.",
+   "tags": [
+    "bean-bag",
+    "resultados"
+   ]
+  },
+  {
+   "id": "menorpot-elab-097",
+   "subtema": "Bean Bag — Deslocamento",
+   "artigo": "POP 5.22.02 — Atividades críticas",
+   "enunciado": "Durante o deslocamento, constitui atividade crítica do POP 5.22.02 verificar",
+   "alternativas": [
+    "o funcionamento do rádio do comandante da fração",
+    "a quantidade de manifestantes presentes na área de atuação",
+    "a distância entre a tropa e as viaturas de apoio",
+    "o posicionamento da arma junto ao policial militar habilitado"
+   ],
+   "correta": 3,
+   "explicacao": "É atividade crítica verificar o posicionamento da arma junto ao policial militar habilitado durante o deslocamento, ao lado do acondicionamento separado das munições.",
+   "tags": [
+    "bean-bag",
+    "deslocamento"
+   ]
+  },
+  {
+   "id": "menorpot-elab-098",
+   "subtema": "Bean Bag — Caso concreto",
+   "artigo": "POP 5.22.02 — Aplicação",
+   "enunciado": "Em manifestação, um indivíduo identificado lança pedras contra a tropa a quinze metros, sem risco iminente à vida. O atirador habilitado deve",
+   "alternativas": [
+    "disparar de imediato contra o tronco, para cessar rapidamente a agressão",
+    "aguardar a ordem do comandante para disparar nos membros inferiores",
+    "disparar contra a massa próxima ao agressor, desestimulando os demais",
+    "aproximar-se a cinco metros para aumentar a precisão do disparo"
+   ],
+   "correta": 1,
+   "explicacao": "Sem risco iminente à vida, o atirador mantém contato direto com o comandante da fração e aguarda ordem para disparo preciso nos membros inferiores, respeitada a distância mínima de dez metros.",
+   "tags": [
+    "bean-bag",
+    "caso"
+   ]
+  },
+  {
+   "id": "menorpot-elab-099",
+   "subtema": "Bean Bag — Caso concreto",
+   "artigo": "POP 5.22.02 — Risco iminente",
+   "enunciado": "Agressor ativo, a sete metros da tropa, prepara-se para lançar artefato incendiário contra policiais. À luz do POP, o atirador habilitado",
+   "alternativas": [
+    "está impedido de disparar, pela proibição absoluta abaixo de dez metros",
+    "deve aguardar a ordem do comandante, pois a distância é inferior a dez metros",
+    "pode disparar a essa distância, sem ordem superior, para cessar a agressão",
+    "deve recuar até dez metros antes de efetuar qualquer disparo"
+   ],
+   "correta": 2,
+   "explicacao": "Diante de risco iminente à vida, como uso de artefato incendiário, o atirador habilitado pode disparar a distância diversa de dez metros e sem necessidade de ordem superior.",
+   "tags": [
+    "bean-bag",
+    "caso",
+    "risco-iminente"
+   ]
+  },
+  {
+   "id": "menorpot-elab-100",
+   "subtema": "Bean Bag — COP e direitos",
+   "artigo": "POP 5.22.02 — Gravação e prisão",
+   "enunciado": "Quanto às providências comuns previstas no POP 5.22.02, é correto afirmar que",
+   "alternativas": [
+    "o número do vídeo gravado deve ser lançado apenas no relatório à EEF",
+    "a gravação por COP é vedada em controle de multidões, por expor os policiais",
+    "a informação dos direitos ao preso cabe exclusivamente ao delegado de polícia",
+    "havendo COP, o número do vídeo é lançado no BOe, e o preso é informado de seus direitos"
+   ],
+   "correta": 3,
+   "explicacao": "Quando disponível, toda ação é gravada por COP e o número do vídeo registrado no BOe; na prisão em flagrante, o policial informa os direitos constitucionais do preso.",
+   "tags": [
+    "bean-bag",
+    "cop",
+    "direitos"
+   ]
+  },
+  {
+   "id": "menorpot-elab-101",
+   "subtema": "Comparativo",
+   "artigo": "POP 5.21.02 e 5.22.02 — Distâncias",
+   "enunciado": "Comparando os POP de Taser X-2 e de munição Bean Bag, as distâncias previstas para o disparo são, respectivamente,",
+   "alternativas": [
+    "no mínimo dez metros e de cinco a sete metros",
+    "de cinco a sete metros e no mínimo dez metros",
+    "de dois a cinco metros e no mínimo sete metros",
+    "de cinco a sete metros e no máximo dez metros"
+   ],
+   "correta": 1,
+   "explicacao": "A Taser X-2 tem distância ideal de cinco a sete metros; a munição Bean Bag, após a revisão de 08MAI25, exige no mínimo dez metros.",
+   "tags": [
+    "comparativo",
+    "distancias"
+   ]
+  },
+  {
+   "id": "menorpot-elab-102",
+   "subtema": "Comparativo",
+   "artigo": "POP 5.21.02 e 5.22.02 — Visada",
+   "enunciado": "Comparando os POP, a região preferencial de visada é, respectivamente, na Taser X-2 e na munição Bean Bag,",
+   "alternativas": [
+    "o tórax do indivíduo e os membros inferiores do agressor",
+    "os membros inferiores e as costas do agressor",
+    "as costas do indivíduo e os membros inferiores do agressor",
+    "as costas do indivíduo e o tronco do agressor"
+   ],
+   "correta": 2,
+   "explicacao": "Na Taser X-2 a visada é preferencialmente nas costas; na Bean Bag, o disparo deve ser direcionado aos membros inferiores do agressor ativo.",
+   "tags": [
+    "comparativo",
+    "visada"
+   ]
+  },
+  {
+   "id": "menorpot-elab-103",
+   "subtema": "Bean Bag — Atividades críticas",
+   "artigo": "POP 5.22.02 — Acondicionamento",
+   "enunciado": "A primeira atividade crítica do POP de utilização da munição Bean Bag é",
+   "alternativas": [
+    "acondicionar em separado as munições, evitando a troca com munições letais",
+    "identificar o agressor ativo antes de retirar a arma da bandoleira",
+    "manter contato com o comandante da fração durante todo o deslocamento",
+    "posicionar a arma em relação à linha de escudos antes do deslocamento"
+   ],
+   "correta": 0,
+   "explicacao": "A primeira atividade crítica é acondicionar em separado as munições Bean Bag para evitar a troca com munições letais.",
+   "tags": [
+    "bean-bag",
+    "atividades-criticas"
+   ]
+  }
+ ]
+}

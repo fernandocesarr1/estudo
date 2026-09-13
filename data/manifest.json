@@ -234,6 +234,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "menorpot-elab",
+      "nome": "Taser X-2 e munição Bean Bag",
+      "nomeCompleto": "Processos 5.21.00 e 5.22.00 — arma de incapacitação neuromuscular Taser X-2 e munição de impacto controlado Bean Bag (103 questões)",
+      "norma": "POP 5.21.00 (2022) e POP 5.22.00 (rev. 08MAI25)",
+      "arquivo": "data/menorpot-elab.json",
+      "cor": "#2f5c8a",
+      "ativo": true,
+      "ordem": 22,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
