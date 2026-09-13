@@ -1,0 +1,1991 @@
+{
+ "materia": "inatividade-elab",
+ "versao": "1.6.0",
+ "atualizadoEm": "2026-09-13",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Agregação",
+  "Conceitos gerais",
+  "Designação para função TAE",
+  "Exoneração",
+  "Idade-limite",
+  "LC 1.150/11",
+  "Reforma",
+  "Reserva a pedido",
+  "Reserva ex officio",
+  "Reversão",
+  "Tempo de serviço"
+ ],
+ "questoes": [
+  {
+   "id": "inatividade-elab-001",
+   "subtema": "Conceitos gerais",
+   "artigo": "DL 260/70 — Conceito de inatividade",
+   "enunciado": "Em estudo sobre a situação funcional dos policiais militares, discute-se o alcance do conceito de inatividade adotado pelo Decreto-Lei nº 260/70. Segundo essa norma, inatividade é a situação do policial militar afastado",
+   "alternativas": [
+    "definitivamente do serviço ativo, com o encerramento do vínculo estatutário",
+    "do exercício das funções, mantida a ocupação de vaga na escala hierárquica",
+    "temporária ou definitivamente do serviço ativo da corporação policial-militar",
+    "do serviço ativo por decisão do comando, enquanto durar o motivo do afastamento"
+   ],
+   "correta": 2,
+   "explicacao": "O Decreto-Lei nº 260/70 define inatividade como a situação do policial militar afastado temporária ou definitivamente do serviço ativo da corporação. A menção ao encerramento do vínculo estatutário descreve a exoneração, e não o gênero inatividade, que abrange também a agregação, temporária por natureza.",
+   "tags": [
+    "inatividade",
+    "conceitos"
+   ]
+  },
+  {
+   "id": "inatividade-elab-002",
+   "subtema": "Conceitos gerais",
+   "artigo": "DL 260/70 — Formas de inatividade",
+   "enunciado": "Constituem formas de inatividade previstas no Decreto-Lei nº 260/70, com possibilidade de reversão ou de designação,",
+   "alternativas": [
+    "a exoneração e a agregação disciplinar do oficial justificante",
+    "a reforma e a exoneração do policial militar da corporação",
+    "a demissão e a expulsão, reguladas pelo Regulamento Disciplinar",
+    "a agregação e a transferência para a reserva do policial militar"
+   ],
+   "correta": 3,
+   "explicacao": "A agregação e a reserva comportam retorno à atividade, seja por reversão, seja por designação para funções técnicas, administrativas ou especializadas. A reforma é inatividade definitiva, e a exoneração, a demissão e a expulsão são desligamentos da corporação, estas duas últimas reguladas pelo RDPM.",
+   "tags": [
+    "inatividade",
+    "formas"
+   ]
+  },
+  {
+   "id": "inatividade-elab-003",
+   "subtema": "Conceitos gerais",
+   "artigo": "DL 260/70 — Desligamentos",
+   "enunciado": "Assinale a alternativa que não constitui causa de passagem à inatividade nem de desligamento da corporação previstas no Decreto-Lei nº 260/70.",
+   "alternativas": [
+    "A agregação do policial militar, a pedido ou de ofício",
+    "A transferência para a reserva e a reforma do policial militar",
+    "A suspensão do exercício da função pública por decisão judicial",
+    "A demissão e a expulsão aplicadas na forma do regulamento disciplinar"
+   ],
+   "correta": 2,
+   "explicacao": "A suspensão do exercício da função pública é causa de agregação, e não forma autônoma de inatividade ou de desligamento. O policial militar passa à inatividade pela agregação, pela reserva e pela reforma, e desliga-se da corporação pela exoneração, pela demissão e pela expulsão.",
+   "tags": [
+    "inatividade",
+    "formas"
+   ]
+  },
+  {
+   "id": "inatividade-elab-004",
+   "subtema": "Conceitos gerais",
+   "artigo": "DL 260/70 — Reserva",
+   "enunciado": "A reserva, como situação de inatividade prevista no Decreto-Lei nº 260/70, caracteriza-se por",
+   "alternativas": [
+    "afastar temporariamente o militar da ativa, que fica adido a uma unidade",
+    "desligar definitivamente o militar, mantido o vínculo estatutário com a PM",
+    "sujeitar o militar à reversão ao serviço ativo, dando-se a pedido ou de ofício",
+    "encerrar o vínculo estatutário do militar com a Polícia Militar do Estado"
+   ],
+   "correta": 2,
+   "explicacao": "A reserva é a situação de inatividade do militar sujeito à reversão ao serviço ativo, processando-se a pedido ou de ofício. O desligamento definitivo com manutenção do vínculo estatutário descreve a reforma, e o afastamento temporário com adição a uma unidade corresponde à agregação.",
+   "tags": [
+    "inatividade",
+    "reserva"
+   ]
+  },
+  {
+   "id": "inatividade-elab-005",
+   "subtema": "Conceitos gerais",
+   "artigo": "DL 260/70 — Reforma",
+   "enunciado": "Quanto à reforma, o Decreto-Lei nº 260/70 estabelece que",
+   "alternativas": [
+    "será processada a pedido ou de ofício, conforme o motivo que a determinar",
+    "sujeita o militar reformado à reversão ao serviço ativo em caso de guerra",
+    "encerra o vínculo estatutário do militar reformado com a Polícia Militar",
+    "será processada apenas de ofício, com desligamento definitivo do serviço ativo"
+   ],
+   "correta": 3,
+   "explicacao": "A reforma é a inatividade definitiva, processada apenas de ofício, com manutenção do vínculo estatutário com a PMESP. Somente a reserva admite passagem a pedido e reversão ao serviço ativo.",
+   "tags": [
+    "inatividade",
+    "reforma"
+   ]
+  },
+  {
+   "id": "inatividade-elab-006",
+   "subtema": "Conceitos gerais",
+   "artigo": "DL 260/70 — Exoneração e reserva",
+   "enunciado": "Oficial é exonerado do serviço ativo da Polícia Militar. Conjugando os artigos 37 e 39 do Decreto-Lei nº 260/70, conclui-se que ele",
+   "alternativas": [
+    "não integrará a reserva, pois o exonerado encerra o vínculo com a Instituição",
+    "ingressará na reserva remunerada, no posto que ocupava no serviço ativo",
+    "ingressará na reserva não remunerada, no posto que ocupava no serviço ativo",
+    "somente integrará a reserva se contar mais de cinco anos de oficialato"
+   ],
+   "correta": 2,
+   "explicacao": "A regra do art. 37, parágrafo único, é a de que o militar exonerado não integra a reserva da PMESP; o art. 39, § 2º, porém, excepciona o Oficial exonerado, que ingressa na reserva não remunerada no posto que ocupava na ativa. A praça exonerada, portanto, não integra a reserva.",
+   "tags": [
+    "inatividade",
+    "exoneracao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-007",
+   "subtema": "Conceitos gerais",
+   "artigo": "DL 260/70 — Expressões legais",
+   "enunciado": "Considera-se extraviado, para os efeitos do Decreto-Lei nº 260/70, o policial militar que, no desempenho de qualquer serviço, em missões especiais ou em casos de calamidade pública, comoção intestina ou guerra,",
+   "alternativas": [
+    "desaparecer por mais de trinta dias, ainda que localizado posteriormente",
+    "desaparecer por mais de sessenta dias, sem notícia de seu paradeiro",
+    "ausentar-se por mais de oito dias do local onde deveria permanecer",
+    "deixar de comparecer ao serviço por mais de trinta dias consecutivos"
+   ],
+   "correta": 0,
+   "explicacao": "A expressão extraviado aplica-se ao policial militar que, nas circunstâncias legais, desaparecer por mais de trinta dias. O prazo de oito dias e a ausência injustificada remetem à deserção, instituto diverso.",
+   "tags": [
+    "inatividade",
+    "extraviado"
+   ]
+  },
+  {
+   "id": "inatividade-elab-008",
+   "subtema": "Conceitos gerais",
+   "artigo": "DL 260/70 — Aplicação da norma",
+   "enunciado": "Sustenta-se, em debate acadêmico, que o Decreto-Lei nº 260/70 teria perdido eficácia porque a Constituição de 1988 extinguiu a espécie legislativa decreto-lei. Essa afirmação é",
+   "alternativas": [
+    "correta, pois a norma foi revogada com a promulgação da Constituição",
+    "incorreta, pois o decreto-lei foi recepcionado e continua a ser aplicado",
+    "correta apenas quanto aos dispositivos relativos à reforma do militar",
+    "incorreta, pois a norma foi convertida em lei complementar em 2011"
+   ],
+   "correta": 1,
+   "explicacao": "A extinção da espécie legislativa para o futuro não revoga as normas anteriores, que permanecem recepcionadas e em vigor enquanto compatíveis com a Constituição. O Decreto-Lei nº 260/70 continua a reger a inatividade na PMESP, com as alterações posteriores.",
+   "tags": [
+    "inatividade",
+    "vigencia"
+   ]
+  },
+  {
+   "id": "inatividade-elab-009",
+   "subtema": "Reserva a pedido",
+   "artigo": "DL 260/70 — Requisitos da reserva a pedido",
+   "enunciado": "A transferência para a reserva a pedido, com vencimentos integrais, exige do policial militar o cumprimento do tempo mínimo de",
+   "alternativas": [
+    "trinta anos de serviço, dos quais vinte e cinco de natureza militar",
+    "trinta e cinco anos de serviço, dos quais trinta de natureza militar",
+    "trinta e cinco anos de serviço, sem exigência quanto à natureza deles",
+    "trinta anos de serviço, computado o tempo de contribuição ao regime geral"
+   ],
+   "correta": 1,
+   "explicacao": "A reserva a pedido com vencimentos integrais pressupõe trinta e cinco anos de serviço, dos quais no mínimo trinta de exercício de atividade de natureza militar. A exigência de tempo em atividade militar é o detalhe frequentemente suprimido nas alternativas.",
+   "tags": [
+    "inatividade",
+    "reserva",
+    "requisitos"
+   ]
+  },
+  {
+   "id": "inatividade-elab-010",
+   "subtema": "Reserva a pedido",
+   "artigo": "DL 260/70 — Indenização de cursos",
+   "enunciado": "Policial militar frequentou, às expensas do Estado, curso com duração superior a quatro meses e requer a transferência para a reserva a pedido dezoito meses após o término do curso. Nesse caso,",
+   "alternativas": [
+    "deverá pagar indenização equivalente às despesas correspondentes ao curso",
+    "não haverá indenização, exigível apenas do oficial e não das praças",
+    "não haverá indenização, pois já decorrido mais de um ano do término",
+    "a indenização será proporcional ao tempo que faltava para completar o biênio"
+   ],
+   "correta": 0,
+   "explicacao": "O militar transferido para a reserva a pedido antes de decorridos dois anos do término de curso de duração superior a quatro meses custeado pelo Estado deve pagar indenização equivalente às despesas correspondentes. A expressão militar alcança tanto oficiais quanto praças, e a lei não prevê proporcionalidade.",
+   "tags": [
+    "inatividade",
+    "reserva",
+    "indenizacao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-011",
+   "subtema": "Exoneração",
+   "artigo": "DL 260/70 — Indenização na exoneração",
+   "enunciado": "A exoneração do oficial será concedida sem indenização aos cofres públicos se ele contar mais de",
+   "alternativas": [
+    "cinco anos de oficialato, incluído o tempo de serviço como Aspirante a Oficial",
+    "dois anos de oficialato, computado o tempo de curso de formação de oficiais",
+    "três anos de oficialato, excluído o tempo de serviço como Aspirante a Oficial",
+    "cinco anos de oficialato, excluído o tempo de serviço como Aspirante a Oficial"
+   ],
+   "correta": 3,
+   "explicacao": "A exoneração é concedida sem indenização se o oficial contar mais de cinco anos de oficialato, excluído o tempo de serviço como Aspirante a Oficial. A inclusão do aspirantado no cômputo é a armadilha clássica do dispositivo.",
+   "tags": [
+    "inatividade",
+    "exoneracao",
+    "indenizacao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-012",
+   "subtema": "Exoneração",
+   "artigo": "DL 260/70 — Cursos e estágios",
+   "enunciado": "Oficial que frequentou, às expensas do Estado, estágio de duração igual ou superior a três meses somente obterá exoneração mediante indenização de todas as despesas correspondentes se ainda não houverem decorrido",
+   "alternativas": [
+    "dois anos do término do respectivo estágio realizado pelo oficial",
+    "quatro anos do término do respectivo estágio realizado pelo oficial",
+    "três anos do término do respectivo estágio realizado pelo oficial",
+    "cinco anos do término do respectivo estágio realizado pelo oficial"
+   ],
+   "correta": 2,
+   "explicacao": "A exigência alcança cursos ou estágios de duração igual ou superior a três meses cujo término não tenha ultrapassado três anos. Note-se o contraste com a reserva a pedido, cujos parâmetros são curso superior a quatro meses e prazo de dois anos.",
+   "tags": [
+    "inatividade",
+    "exoneracao",
+    "indenizacao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-013",
+   "subtema": "Exoneração",
+   "artigo": "DL 260/70 — Cálculo da indenização",
+   "enunciado": "Nos casos em que a exoneração dependa de indenização das despesas correspondentes aos cursos policiais-militares, calculadas pelas respectivas escolas, o cálculo será feito",
+   "alternativas": [
+    "incluindo os vencimentos e as vantagens percebidos durante o curso",
+    "excetuando os vencimentos e as vantagens percebidos pelo militar",
+    "excetuando apenas os vencimentos percebidos durante o período",
+    "excetuando apenas as vantagens percebidas durante o período"
+   ],
+   "correta": 1,
+   "explicacao": "A indenização abrange as despesas dos cursos calculadas pelas escolas, excetuados os vencimentos e as vantagens percebidos. As alternativas que excluem apenas uma das parcelas exploram a leitura apressada do dispositivo.",
+   "tags": [
+    "inatividade",
+    "exoneracao",
+    "indenizacao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-014",
+   "subtema": "Reserva a pedido",
+   "artigo": "DL 260/70 — Desertor",
+   "enunciado": "Cabo PM com mais de trinta e cinco anos de serviço é considerado desertor e, nessa condição, requer a transferência para a reserva a pedido. Considerado o texto do Decreto-Lei nº 260/70 e o artigo 138, § 6º, da Constituição Estadual,",
+   "alternativas": [
+    "o requerimento é indeferido, pois o desertor não pode inativar-se a pedido",
+    "o direito à inatividade é assegurado, ainda que responda a inquérito ou processo",
+    "o requerimento fica sobrestado até o julgamento do crime de deserção",
+    "a transferência depende de autorização expressa do Comandante Geral"
+   ],
+   "correta": 1,
+   "explicacao": "Embora o Decreto-Lei nº 260/70 vede a transferência para a reserva do militar agregado por ser considerado desertor, a Constituição Estadual assegura o direito de ser transferido para a reserva ou reformado ainda que o militar responda a inquérito ou processo em qualquer jurisdição, nos casos previstos em lei específica.",
+   "tags": [
+    "inatividade",
+    "reserva",
+    "desercao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-015",
+   "subtema": "Conceitos gerais",
+   "artigo": "DL 260/70 — Pena de reforma",
+   "enunciado": "O Decreto-Lei nº 260/70 arrola, entre as causas de reforma, a condenação irrecorrível à pena de reforma. Após a reformulação do Código Penal Militar pela Lei nº 14.688/23, essa previsão",
+   "alternativas": [
+    "permanece aplicável, por decorrer de norma estadual específica e autônoma",
+    "foi substituída pela reforma administrativa decorrente de processo regular",
+    "passou a aplicar-se apenas aos crimes militares praticados por oficiais",
+    "foi tacitamente revogada, pois a sanção penal de reforma deixou de existir"
+   ],
+   "correta": 3,
+   "explicacao": "A sanção penal militar de reforma foi revogada com a reformulação do CPM, o que acarretou a revogação tácita do inciso correspondente do art. 29 do Decreto-Lei nº 260/70, embora o texto ainda conste da norma estadual. A reforma disciplinar decorrente de decisão administrativa continua existindo em hipótese distinta.",
+   "tags": [
+    "inatividade",
+    "reforma",
+    "cpm"
+   ]
+  },
+  {
+   "id": "inatividade-elab-016",
+   "subtema": "Reserva ex officio",
+   "artigo": "DL 260/70 — Idade-limite no serviço ativo",
+   "enunciado": "O policial militar que atinge a idade-limite de permanência no serviço ativo será transferido para a reserva de ofício",
+   "alternativas": [
+    "com vencimentos integrais, independentemente do tempo de serviço contado",
+    "com vencimentos proporcionais ao tempo de serviço, até o limite de meio",
+    "com vencimentos proporcionais a trinta e cinco anos de serviço",
+    "sem vencimentos, ressalvado o direito de requerer a reforma administrativa"
+   ],
+   "correta": 2,
+   "explicacao": "A transferência para a reserva por atingimento da idade-limite no serviço ativo dá-se com vencimentos proporcionais a trinta e cinco anos de serviço. A integralidade é reservada a outras hipóteses, como a do Coronel com cinco anos no posto e trinta e cinco anos de serviço.",
+   "tags": [
+    "inatividade",
+    "reserva-ex-officio",
+    "idade-limite"
+   ]
+  },
+  {
+   "id": "inatividade-elab-017",
+   "subtema": "Reserva ex officio",
+   "artigo": "DL 260/70 — Cargo público permanente",
+   "enunciado": "Policial militar da ativa é empossado em cargo público civil permanente, fora das hipóteses de acumulação admitidas. Nos termos do Decreto-Lei nº 260/70, ele será",
+   "alternativas": [
+    "agregado pelo prazo máximo de dois anos, com vencimentos integrais",
+    "reformado de ofício, com vencimentos proporcionais a trinta e cinco anos",
+    "transferido para a reserva de ofício, com vencimentos proporcionais",
+    "transferido para a reserva de ofício, sem perceber vencimentos e vantagens"
+   ],
+   "correta": 3,
+   "explicacao": "A posse em cargo ou emprego público permanente acarreta transferência direta para a reserva de ofício, sem vencimentos, ressalvados os casos de acumulação na área de saúde ou de professor. Não há agregação nessa hipótese, ao contrário do que ocorre com o cargo civil temporário e não eletivo.",
+   "tags": [
+    "inatividade",
+    "reserva-ex-officio",
+    "cargo-publico"
+   ]
+  },
+  {
+   "id": "inatividade-elab-018",
+   "subtema": "Reserva ex officio",
+   "artigo": "DL 260/70 — Licenças particulares",
+   "enunciado": "O policial militar que permanecer agregado em decorrência das licenças sem vencimentos para tratar de interesse particular, estudos ou atividade técnica em organização civil será transferido para a reserva de ofício quando a agregação",
+   "alternativas": [
+    "superar dois anos, consecutivos ou não, com vencimentos proporcionais",
+    "completar dois anos, apenas consecutivos, com vencimentos proporcionais",
+    "superar dois anos consecutivos, sem direito a vencimentos e vantagens",
+    "completar dois anos, consecutivos ou não, com vencimentos integrais"
+   ],
+   "correta": 0,
+   "explicacao": "Nas três licenças sem vencimentos, a reserva de ofício exige agregação por prazo superior a dois anos, consecutivos ou não, com vencimentos proporcionais a trinta e cinco anos de serviço. A distinção entre completar e superar o biênio é a chave do tema.",
+   "tags": [
+    "inatividade",
+    "reserva-ex-officio",
+    "lsv"
+   ]
+  },
+  {
+   "id": "inatividade-elab-019",
+   "subtema": "Reserva ex officio",
+   "artigo": "DL 260/70 — Licença para tratar de familiar",
+   "enunciado": "A agregação decorrente de licença para tratamento de saúde de pessoa da família conduz à transferência para a reserva de ofício quando o policial militar",
+   "alternativas": [
+    "superar dois anos de agregação, seguidos ou não, com vencimentos integrais",
+    "completar dois anos seguidos de agregação, com vencimentos proporcionais",
+    "completar dois anos de agregação, seguidos ou não, sem vencimentos",
+    "superar dois anos seguidos de agregação, com vencimentos proporcionais"
+   ],
+   "correta": 1,
+   "explicacao": "Basta completar dois anos seguidos de agregação em razão de licença para tratamento de saúde de pessoa da família para que se dê a reserva de ofício, com vencimentos proporcionais a trinta e cinco anos de serviço. Nessa hipótese a lei exige continuidade, ao contrário das licenças particulares.",
+   "tags": [
+    "inatividade",
+    "reserva-ex-officio",
+    "ltsf"
+   ]
+  },
+  {
+   "id": "inatividade-elab-020",
+   "subtema": "Reserva ex officio",
+   "artigo": "DL 260/70 — Cargo civil temporário",
+   "enunciado": "Policial militar agregado para exercer cargo, emprego ou função pública civil temporária e não eletiva, estranha ao serviço policial-militar, será transferido para a reserva de ofício se permanecer agregado por prazo",
+   "alternativas": [
+    "superior a dois anos, contínuos ou não, sem perceber vencimentos",
+    "superior a dois anos, apenas contínuos, com vencimentos proporcionais",
+    "igual a dois anos, contínuos ou não, com vencimentos proporcionais",
+    "inferior a dois anos, contínuos ou não, sem perceber vencimentos"
+   ],
+   "correta": 0,
+   "explicacao": "A reserva de ofício exige prazo superior a dois anos, contínuos ou não, e o militar não percebe vencimentos e vantagens. Ressalvam-se as hipóteses de acumulação na área de saúde e de professor, que seguem regime próprio.",
+   "tags": [
+    "inatividade",
+    "reserva-ex-officio",
+    "cargo-civil"
+   ]
+  },
+  {
+   "id": "inatividade-elab-021",
+   "subtema": "Reserva ex officio",
+   "artigo": "DL 260/70 — Candidatura a cargo eletivo",
+   "enunciado": "Policial militar com oito anos de serviço candidata-se a cargo eletivo. Segundo o Decreto-Lei nº 260/70, ele será",
+   "alternativas": [
+    "agregado até a diplomação, percebendo vencimentos e vantagens integrais",
+    "transferido para a reserva de ofício, sem vencimentos e vantagens",
+    "transferido para a reserva de ofício, com vencimentos proporcionais",
+    "reformado de ofício, com vencimentos proporcionais ao tempo de serviço"
+   ],
+   "correta": 1,
+   "explicacao": "Contando menos de dez anos de serviço, o militar que se candidata a cargo eletivo é transferido para a reserva de ofício e não percebe vencimentos e vantagens. Com mais de dez anos de serviço, ao contrário, ele é agregado e, se eleito, reformado quando da posse.",
+   "tags": [
+    "inatividade",
+    "reserva-ex-officio",
+    "eleicao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-022",
+   "subtema": "Reserva ex officio",
+   "artigo": "DL 260/70 — Art. 18, IX",
+   "enunciado": "Será transferido de ofício para a reserva o Coronel PM que completar cinco anos no posto, desde que possua, no mínimo, trinta e cinco anos de serviço, excetuando-se os ocupantes dos cargos de Chefe da Casa Militar, Comandante-Geral e Subcomandante PM, que poderão permanecer no serviço ativo",
+   "alternativas": [
+    "até o final do mandato em curso do Governador, independentemente da idade",
+    "por até dois anos além do prazo, respeitada a idade-limite na reserva",
+    "até o final do mandato em curso do Governador, respeitada a idade-limite",
+    "enquanto permanecerem no exercício da função, sem limite de tempo"
+   ],
+   "correta": 2,
+   "explicacao": "Os três cargos excepcionados podem permanecer no serviço ativo até o final do mandato em curso do Governador do Estado, sempre respeitada a idade-limite para permanência no serviço ativo. A supressão da ressalva etária e a inclusão do Corregedor entre as exceções são as pegadinhas recorrentes.",
+   "tags": [
+    "inatividade",
+    "reserva-ex-officio",
+    "coronel"
+   ]
+  },
+  {
+   "id": "inatividade-elab-023",
+   "subtema": "Reserva ex officio",
+   "artigo": "DL 260/70 — Contagem do prazo do Coronel",
+   "enunciado": "Quanto ao requisito temporal da transferência de ofício do Coronel PM para a reserva, a norma exige que o oficial",
+   "alternativas": [
+    "permaneça por mais de cinco anos no posto de Coronel da Polícia Militar",
+    "complete cinco anos de oficialato superior, somados os postos ocupados",
+    "complete cinco anos no posto de Coronel da Polícia Militar do Estado",
+    "permaneça cinco anos no posto e conte trinta anos de serviço militar"
+   ],
+   "correta": 2,
+   "explicacao": "O texto exige completar cinco anos no posto de Coronel, e não superá-los, exigindo ainda o mínimo de trinta e cinco anos de serviço. A troca entre completar e permanecer por mais de, bem como a redução do tempo de serviço para trinta anos, são erros comuns nas provas.",
+   "tags": [
+    "inatividade",
+    "reserva-ex-officio",
+    "coronel"
+   ]
+  },
+  {
+   "id": "inatividade-elab-024",
+   "subtema": "Reserva ex officio",
+   "artigo": "DL 260/70 — Desertor agregado",
+   "enunciado": "Segundo o texto do Decreto-Lei nº 260/70, não será concedida transferência para a reserva ao militar agregado",
+   "alternativas": [
+    "por ter sido considerado desertor pela Administração policial-militar",
+    "por estar submetido a processo no foro militar por mais de cento e oitenta dias",
+    "por ter sido condenado a pena restritiva de liberdade transitada em julgado",
+    "por estar respondendo a processo administrativo disciplinar na Corregedoria"
+   ],
+   "correta": 0,
+   "explicacao": "A vedação textual alcança o agregado por ser considerado desertor, embora a Constituição Estadual assegure o direito à inatividade ainda que o militar responda a inquérito ou processo. As demais hipóteses de agregação não impedem, por si, a passagem à reserva.",
+   "tags": [
+    "inatividade",
+    "reserva",
+    "desercao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-025",
+   "subtema": "Conceitos gerais",
+   "artigo": "DL 260/70 — Equiparações",
+   "enunciado": "Para os efeitos do Decreto-Lei nº 260/70, é correto afirmar que",
+   "alternativas": [
+    "policial militar é expressão restrita aos oficiais e às praças de carreira",
+    "o Aspirante a Oficial equipara-se ao Segundo Tenente da Polícia Militar",
+    "as praças especiais equiparam-se às praças para todos os fins de inatividade",
+    "o Subtenente equipara-se ao oficial subalterno para efeito de idade-limite"
+   ],
+   "correta": 1,
+   "explicacao": "O Aspirante a Oficial equipara-se ao Segundo Tenente, e a expressão policial militar é geral, abrangendo oficiais, praças especiais e praças. As equiparações inventadas nas demais alternativas não constam da norma.",
+   "tags": [
+    "inatividade",
+    "conceitos"
+   ]
+  },
+  {
+   "id": "inatividade-elab-026",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Conceito de agregação",
+   "enunciado": "A agregação, no Decreto-Lei nº 260/70, é definida como o ato pelo qual o policial militar da ativa",
+   "alternativas": [
+    "deixa de ocupar vaga na escala hierárquica, permanecendo no serviço ativo",
+    "é afastado definitivamente do serviço ativo, mantido o vínculo estatutário",
+    "passa temporariamente à condição de inativo, a pedido ou de ofício",
+    "é excluído do estado efetivo da corporação, com perda do posto ou graduação"
+   ],
+   "correta": 2,
+   "explicacao": "O Decreto-Lei nº 260/70 define agregação como o ato pelo qual o policial militar da ativa passa temporariamente à condição de inativo, a pedido ou de ofício. As definições que falam em deixar de ocupar vaga na escala hierárquica e em exclusão do estado efetivo pertencem, respectivamente, ao R-200 e à I-2-PM.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "conceito"
+   ]
+  },
+  {
+   "id": "inatividade-elab-027",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Situação do agregado",
+   "enunciado": "Durante a agregação, o policial militar",
+   "alternativas": [
+    "é excluído do Quadro a que pertencia, perdendo a respectiva antiguidade",
+    "fica adido à unidade designada e incluído no Quadro, sem número, com a abreviatura ag",
+    "permanece lotado na unidade de origem, ocupando vaga na escala numérica",
+    "é transferido para o Quadro de inativos, com anotação em sua ficha funcional"
+   ],
+   "correta": 1,
+   "explicacao": "O agregado fica adido à unidade que lhe for designada e incluído no respectivo Quadro, sem número, no lugar que ocupava quando da agregação, com a abreviatura ag. Ele não perde a antiguidade nem migra para outro Quadro.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "situacao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-028",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Reversão do agregado",
+   "enunciado": "Cessados os motivos determinantes da agregação, o policial militar será revertido ao serviço ativo e, ao figurar novamente em seu Quadro,",
+   "alternativas": [
+    "aguardará a próxima data de promoção para reingressar na escala numérica",
+    "retomará imediatamente a posição numérica que ocupava antes da agregação",
+    "ocupará a última posição de antiguidade do respectivo posto ou graduação",
+    "entrará na escala numérica na primeira vaga que surgir no posto ou graduação"
+   ],
+   "correta": 3,
+   "explicacao": "Os policiais militares serão revertidos ao serviço ativo tão logo cessem os motivos determinantes da agregação, entrando na escala numérica na primeira vaga que se verificar em seu Quadro, posto ou graduação. Não há reposição automática na antiga posição nem rebaixamento na antiguidade.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "reversao"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "inatividade-elab-029",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Obrigações disciplinares",
+   "enunciado": "Quanto às obrigações disciplinares dos agregados, o Decreto-Lei nº 260/70 estabelece que todos ficam sujeitos às obrigações inerentes ao pessoal do serviço ativo, salvo",
+   "alternativas": [
+    "o agregado por invalidez temporária, enquanto durar o tratamento de saúde",
+    "o agregado no exercício de cargo eletivo na condição de suplente diplomado",
+    "o agregado por prisão cautelar decretada pela autoridade judiciária competente",
+    "o agregado por licença para tratar de interesses particulares sem vencimentos"
+   ],
+   "correta": 1,
+   "explicacao": "A única ressalva prevista é a do policial militar que exerce cargo eletivo na condição de suplente, em vacância temporária. Todos os demais agregados permanecem sujeitos às obrigações disciplinares do pessoal do serviço ativo.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "disciplina"
+   ]
+  },
+  {
+   "id": "inatividade-elab-030",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Invalidez temporária",
+   "enunciado": "Policial militar é julgado temporariamente inválido para o serviço policial-militar. A agregação ocorrerá quando o prazo for",
+   "alternativas": [
+    "superior a seis meses e até o máximo de trinta e seis meses, sem vencimentos",
+    "superior a três meses e até o máximo de doze meses, com dois terços dos vencimentos",
+    "superior a seis meses e até o máximo de vinte e quatro meses, com vencimentos integrais",
+    "igual ou superior a seis meses, sem limite máximo, com vencimentos proporcionais"
+   ],
+   "correta": 2,
+   "explicacao": "A agregação por invalidez ou incapacidade física temporária pressupõe prazo superior a seis meses e até o máximo de vinte e quatro meses, período em que o militar percebe vencimentos e vantagens integrais. Completados os vinte e quatro meses, sobrevém a reforma.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "invalidez"
+   ]
+  },
+  {
+   "id": "inatividade-elab-031",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Invalidez e reforma",
+   "enunciado": "Policial militar agregado por invalidez física temporária completa vinte e quatro meses nessa condição. Nesse caso, ele será",
+   "alternativas": [
+    "transferido para a reserva de ofício, com vencimentos proporcionais",
+    "exonerado do serviço ativo, por perda de requisito para o exercício do cargo",
+    "submetido a nova inspeção, prorrogando-se a agregação por doze meses",
+    "reformado, por completar o prazo máximo de agregação por invalidez"
+   ],
+   "correta": 3,
+   "explicacao": "Completados vinte e quatro meses de agregação por invalidez ou incapacidade física, o militar será reformado. Basta completar o prazo, não sendo necessário superá-lo, e a consequência é a reforma, não a reserva.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "reforma"
+   ]
+  },
+  {
+   "id": "inatividade-elab-032",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Invalidez e tempo mínimo",
+   "enunciado": "Durante a agregação por invalidez ou incapacidade física temporária, o policial militar completa o tempo mínimo de serviço exigido para a inatividade a pedido. Nessa hipótese, ele será",
+   "alternativas": [
+    "transferido para a reserva a pedido, desde que formule requerimento próprio",
+    "transferido para a reserva de ofício, com vencimentos integrais na forma da lei",
+    "mantido agregado até o término do prazo máximo de vinte e quatro meses",
+    "reformado, independentemente de completar os vinte e quatro meses de agregação"
+   ],
+   "correta": 3,
+   "explicacao": "Se, durante a agregação por invalidez ou incapacidade temporária, o militar completar o tempo mínimo exigido para a inatividade a pedido, será reformado, sem necessidade de aguardar os vinte e quatro meses. A hipótese antecipa a reforma, e não gera reserva.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "reforma"
+   ]
+  },
+  {
+   "id": "inatividade-elab-033",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Licença para tratar de familiar",
+   "enunciado": "A licença para tratamento de saúde de pessoa da família gera agregação do policial militar quando concedida por prazo",
+   "alternativas": [
+    "superior a três meses, percebendo o militar um terço dos vencimentos",
+    "superior a seis meses, percebendo o militar vencimentos integrais",
+    "superior a seis meses, percebendo o militar dois terços dos vencimentos",
+    "superior a doze meses, sem que o militar perceba vencimentos e vantagens"
+   ],
+   "correta": 2,
+   "explicacao": "A agregação ocorre quando a licença para tratamento de saúde de pessoa da família supera seis meses, percebendo o agregado dois terços dos vencimentos e vantagens. Completados dois anos seguidos de agregação, sobrevém a reserva de ofício com proventos proporcionais.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "ltsf"
+   ]
+  },
+  {
+   "id": "inatividade-elab-034",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Licença descontínua",
+   "enunciado": "Policial militar usufrui licenças para tratamento de saúde de pessoa da família de forma descontínua, afastando-se e retornando ao serviço. Nesse caso,",
+   "alternativas": [
+    "haverá agregação a partir do sétimo mês, somados os períodos descontínuos",
+    "haverá agregação apenas após completar vinte meses de licenças somadas",
+    "não haverá agregação, deixando de perceber remuneração a partir do sétimo mês",
+    "não haverá redução da remuneração, pois os períodos são considerados isoladamente"
+   ],
+   "correta": 2,
+   "explicacao": "Na licença descontínua o militar não agrega, mas, somados os períodos, deixa de perceber remuneração a partir do sétimo mês. A agregação pressupõe licença contínua superior a seis meses.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "ltsf"
+   ]
+  },
+  {
+   "id": "inatividade-elab-035",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Soma das licenças",
+   "enunciado": "Para efeito de redução dos vencimentos nas licenças para tratamento de saúde de pessoa da família, serão somadas todas as licenças concedidas",
+   "alternativas": [
+    "no período de vinte meses contados da primeira concessão, ainda que por fatos distintos",
+    "no período de doze meses contados da primeira concessão, se pelo mesmo fato gerador",
+    "no período de vinte e quatro meses contados da agregação do policial militar",
+    "durante todo o tempo de serviço, independentemente do fato gerador da licença"
+   ],
+   "correta": 0,
+   "explicacao": "Sejam contínuos ou descontínuos, somam-se todos os períodos concedidos no prazo de vinte meses contados da primeira concessão, ainda que fundados em fatos geradores distintos. Tendo por base o mesmo fato gerador e enquanto não houver agregação, a soma também não pode ultrapassar vinte meses.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "ltsf"
+   ]
+  },
+  {
+   "id": "inatividade-elab-036",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Efeitos do parecer médico",
+   "enunciado": "Policial militar já em fruição de licença para tratamento de saúde de pessoa da família tem novo parecer da Junta Médica aprovado. Nesse caso, a aprovação pelo Diretor de Saúde produz efeitos a partir da data da inspeção médica e a concessão da licença pelo Diretor de Pessoal produz efeitos",
+   "alternativas": [
+    "a contar do dia imediatamente seguinte ao do término da licença em fruição",
+    "a contar da data da inspeção médica realizada pela Junta Médica competente",
+    "a contar da publicação do ato de concessão em Boletim Geral da Instituição",
+    "retroativamente à data do requerimento formulado pelo policial militar"
+   ],
+   "correta": 0,
+   "explicacao": "A norma separa os dois momentos: o parecer aprovado pelo Diretor de Saúde retroage à inspeção médica, ao passo que a concessão pelo Diretor de Pessoal vale a partir do dia imediatamente seguinte ao término da licença em curso, evitando sobreposição de períodos.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "ltsf"
+   ]
+  },
+  {
+   "id": "inatividade-elab-037",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Licenças sem vencimentos",
+   "enunciado": "Nas licenças para estudos em caráter particular, para exercer atividade técnica em organização civil e para tratar de interesses particulares, o policial militar agregado",
+   "alternativas": [
+    "perceberá dois terços dos vencimentos enquanto durar a agregação",
+    "perceberá vencimentos integrais, desde que autorizado pelo Comandante Geral",
+    "não perceberá vencimentos e vantagens durante o período de agregação",
+    "perceberá um terço dos vencimentos, a título de auxílio à manutenção do vínculo"
+   ],
+   "correta": 2,
+   "explicacao": "As três licenças sem vencimentos acarretam agregação sem percepção de vencimentos e vantagens e, se a agregação superar dois anos, consecutivos ou não, o militar é transferido para a reserva de ofício com proventos proporcionais.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "lsv"
+   ]
+  },
+  {
+   "id": "inatividade-elab-038",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Condenação criminal",
+   "enunciado": "Policial militar é condenado a pena restritiva de liberdade por sentença transitada em julgado. Quanto à sua situação funcional,",
+   "alternativas": [
+    "será agregado sem vencimentos e, se a agregação superar dois anos, passará à reserva",
+    "será agregado com dois terços dos vencimentos, até o cumprimento integral da pena",
+    "será reformado de ofício, com vencimentos proporcionais a trinta e cinco anos",
+    "será exonerado do serviço ativo, independentemente do tempo de serviço contado"
+   ],
+   "correta": 0,
+   "explicacao": "A condenação a pena restritiva de liberdade com trânsito em julgado gera agregação sem vencimentos e vantagens e, permanecendo a agregação por prazo superior a dois anos, consecutivos ou não, a transferência para a reserva de ofício. A perda do posto ou da graduação segue disciplina constitucional própria.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "condenacao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-039",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Prisão cautelar",
+   "enunciado": "Policial militar agregado em razão de prisão preventiva é posteriormente absolvido por negativa de autoria. Nos termos do Decreto-Lei nº 260/70, ele",
+   "alternativas": [
+    "terá direito apenas à contagem do tempo, sem qualquer reposição pecuniária",
+    "não terá direito a ressarcimento, por não ter prestado serviço no período",
+    "será ressarcido pela metade, a título de indenização pelo afastamento indevido",
+    "será ressarcido integralmente, ressalvado o auxílio-reclusão pago aos dependentes"
+   ],
+   "correta": 3,
+   "explicacao": "Arquivado o inquérito ou absolvido o militar por inexistência do fato ou negativa de autoria, haverá ressarcimento integral, a não ser que os dependentes tenham recebido auxílio-reclusão, e o tempo de afastamento será contado para todos os fins. A absolvição por outros fundamentos não gera o mesmo efeito.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "prisao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-040",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Suspensão da função pública",
+   "enunciado": "A agregação do policial militar suspenso do exercício da função pública acarreta",
+   "alternativas": [
+    "a percepção de dois terços dos vencimentos enquanto durar a suspensão",
+    "a não percepção de vencimentos e vantagens durante o período de afastamento",
+    "a percepção integral dos vencimentos até a decisão final do processo",
+    "a transferência imediata para a reserva de ofício, sem direito a vencimentos"
+   ],
+   "correta": 1,
+   "explicacao": "O agregado por suspensão do exercício da função pública não percebe vencimentos e vantagens, com direito a ressarcimento integral e contagem do tempo se o inquérito for arquivado ou sobrevier absolvição por inexistência do fato ou negativa de autoria.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "suspensao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-041",
+   "subtema": "Agregação",
+   "artigo": "Portaria DP-25/222/20 — Reenquadramento",
+   "enunciado": "Policial militar agregado sem remuneração por prisão cautelar é absolvido por inexistência do fato e requer o reenquadramento do período. Segundo o procedimento fixado pela Diretoria de Pessoal,",
+   "alternativas": [
+    "o ressarcimento alcança apenas os vencimentos, vedada a reposição das férias",
+    "o Comando da OPM defere o pedido e determina o pagamento retroativo dos valores",
+    "o reenquadramento independe de requerimento, sendo processado de ofício",
+    "a Diretoria de Pessoal publica o reenquadramento e o CIAF verifica o auxílio-reclusão"
+   ],
+   "correta": 3,
+   "explicacao": "O militar requer o reenquadramento por ofício, a Diretoria de Pessoal o publica em Boletim Geral, a OPM detentora do assentamento corrige a contagem no sistema, a DP restabelece as férias reduzidas ou interrompidas e o CIAF verifica o pagamento de auxílio-reclusão, ressarcindo o período sem vencimentos quando não houver.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "reenquadramento"
+   ]
+  },
+  {
+   "id": "inatividade-elab-042",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Processo no foro militar",
+   "enunciado": "O policial militar que permanecer submetido a processo no foro militar competente por mais de cento e oitenta dias será agregado e perceberá",
+   "alternativas": [
+    "vencimentos e vantagens integrais, até a decisão final do processo",
+    "um terço dos vencimentos e vantagens durante a agregação",
+    "dois terços dos vencimentos e vantagens durante a agregação",
+    "nenhuma remuneração, ressalvado o direito a posterior ressarcimento"
+   ],
+   "correta": 2,
+   "explicacao": "A agregação por permanência superior a cento e oitenta dias em processo no foro militar assegura dois terços dos vencimentos e vantagens, mesmo percentual da interdição civil e da licença para tratamento de saúde de familiar. A perda total da remuneração ocorre em hipóteses como a prisão cautelar e a suspensão da função.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "processo"
+   ]
+  },
+  {
+   "id": "inatividade-elab-043",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Agregação para reforma",
+   "enunciado": "O policial militar que deva ser reformado por força de dispositivo legal ou de ordem judicial será agregado até a publicação do ato de inatividade, percebendo",
+   "alternativas": [
+    "dois terços dos vencimentos, por se tratar de situação transitória",
+    "vencimentos proporcionais a trinta e cinco anos de serviço prestado",
+    "vencimentos e vantagens integrais durante o período de agregação",
+    "os proventos da reforma, antecipados desde a decisão que a determinou"
+   ],
+   "correta": 2,
+   "explicacao": "A agregação que antecede a publicação do ato de reforma assegura vencimentos e vantagens integrais. Vale lembrar que a parte relativa à reforma por sanção penal militar não mais se aplica, dada a revogação dessa pena no Código Penal Militar.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "reforma"
+   ]
+  },
+  {
+   "id": "inatividade-elab-044",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Extraviado",
+   "enunciado": "Policial militar declarado extraviado é agregado com vencimentos e vantagens integrais pelo prazo máximo de seis meses. Decorrido esse prazo,",
+   "alternativas": [
+    "o militar será excluído do serviço ativo, cessando qualquer direito dos dependentes",
+    "o militar será reformado de ofício, com vencimentos proporcionais ao tempo",
+    "a agregação será prorrogada por igual período, mantida a remuneração integral",
+    "a família fará jus à pensão, como se houvesse falecido, na forma do regulamento"
+   ],
+   "correta": 3,
+   "explicacao": "Após seis meses de agregação, ficam assegurados à família do policial militar extraviado os direitos à percepção da respectiva pensão, como se houvesse falecido, na forma do Regulamento da Caixa Beneficente. Não há reforma nem exclusão nessa hipótese.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "extraviado"
+   ]
+  },
+  {
+   "id": "inatividade-elab-045",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Candidatura com mais de dez anos",
+   "enunciado": "Policial militar com dezoito anos de serviço tem a candidatura a cargo eletivo aprovada pela Justiça Eleitoral e vence a eleição. Nos termos do Decreto-Lei nº 260/70, ele",
+   "alternativas": [
+    "permanecerá agregado com vencimentos integrais até a posse, quando será reformado",
+    "será transferido para a reserva de ofício desde a aprovação da candidatura",
+    "permanecerá agregado durante todo o mandato, com vencimentos proporcionais",
+    "será reformado desde a diplomação, com vencimentos e vantagens integrais"
+   ],
+   "correta": 0,
+   "explicacao": "Contando mais de dez anos de serviço, o militar é agregado com vencimentos e vantagens integrais e, se eleito, permanece agregado até a posse no cargo, quando é reformado com proventos proporcionais. Com menos de dez anos de serviço, a consequência seria a reserva de ofício sem vencimentos.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "eleicao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-046",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Suplente de cargo eletivo",
+   "enunciado": "Policial militar exerce, na condição de suplente, cargo eletivo para o qual foi diplomado, em caso de vacância temporária. Considerado o texto do Decreto-Lei nº 260/70 e a disciplina da LOPMCBM,",
+   "alternativas": [
+    "agrega com vencimentos integrais, acumulando-os com o subsídio do cargo",
+    "agrega sem vencimentos pelo decreto-lei, mas a lei orgânica permite a opção",
+    "não agrega, permanecendo no serviço ativo enquanto durar a suplência",
+    "agrega com dois terços dos vencimentos, vedada qualquer forma de opção"
+   ],
+   "correta": 1,
+   "explicacao": "Pelo texto do Decreto-Lei nº 260/70 o suplente agrega sem vencimentos, percebendo apenas o subsídio do Legislativo; a LOPMCBM, porém, passou a admitir que ele opte por uma das remunerações. É também a única hipótese de agregação sem sujeição às obrigações disciplinares do serviço ativo.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "suplente"
+   ]
+  },
+  {
+   "id": "inatividade-elab-047",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Cargo civil temporário",
+   "enunciado": "Policial militar toma posse em função pública civil temporária, não eletiva, da administração indireta, por tempo inferior a dois anos, com autorização expressa do Governador. Durante a agregação, ele",
+   "alternativas": [
+    "perceberá vencimentos e vantagens integrais da Polícia Militar do Estado",
+    "não perceberá vencimentos e vantagens do respectivo posto ou graduação",
+    "perceberá dois terços dos vencimentos, a título de manutenção do vínculo",
+    "poderá optar entre a remuneração militar e a do cargo civil ocupado"
+   ],
+   "correta": 1,
+   "explicacao": "Nessa agregação o militar não percebe vencimentos e vantagens, e, se permanecer agregado por prazo superior a dois anos, contínuos ou não, será transferido para a reserva de ofício. A opção de remuneração existe nas hipóteses de encargo ou comissão e, pela lei orgânica, na suplência de cargo eletivo.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "cargo-civil"
+   ]
+  },
+  {
+   "id": "inatividade-elab-048",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Encargo ou comissão",
+   "enunciado": "A agregação para aceitar encargo ou comissão estabelecidos por lei ou decreto, mas não previstos nos Quadros de Organização da Polícia Militar, mediante autorização expressa do Governador,",
+   "alternativas": [
+    "não assegura vencimentos, por se tratar de atividade estranha ao serviço policial",
+    "assegura vencimentos integrais somente durante os dois primeiros anos de exercício",
+    "assegura vencimentos integrais se o militar optar pela remuneração policial-militar",
+    "assegura dois terços dos vencimentos, vedada a opção pela remuneração do encargo"
+   ],
+   "correta": 2,
+   "explicacao": "Nessa hipótese o militar percebe vencimentos e vantagens integrais caso opte pela remuneração policial-militar, e não há limite de dois anos, diferentemente do que ocorre com o cargo, emprego ou função pública civil temporária e não eletiva.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "encargo"
+   ]
+  },
+  {
+   "id": "inatividade-elab-049",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Interdição civil",
+   "enunciado": "Policial militar declarado interditado civilmente, ainda que parcialmente, será agregado e perceberá dois terços dos vencimentos, sendo reformado se",
+   "alternativas": [
+    "completar vinte e quatro meses de agregação, contínuos ou não",
+    "superar vinte e quatro meses de agregação, apenas contínuos",
+    "completar doze meses de agregação, contínuos ou não",
+    "superar dois anos de agregação, consecutivos ou não"
+   ],
+   "correta": 0,
+   "explicacao": "A reforma decorre de completar vinte e quatro meses de agregação por interdição civil, contínuos ou não. A interdição parcial produz os mesmos efeitos da total, e o percentual de dois terços é o mesmo do processo no foro militar.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "interdicao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-050",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Aguardo da inatividade a pedido",
+   "enunciado": "Requerimento de passagem à inatividade a pedido, devidamente instruído, não é despachado no prazo legal. Nessa hipótese, o policial militar",
+   "alternativas": [
+    "será agregado até a inatividade, com vencimentos integrais, após noventa dias",
+    "será agregado até a inatividade, sem vencimentos, após cento e oitenta dias",
+    "terá o pedido deferido tacitamente, com efeitos a contar do protocolo",
+    "permanecerá na ativa, sem qualquer efeito decorrente da demora administrativa"
+   ],
+   "correta": 0,
+   "explicacao": "O pedido instruído deve ser despachado em até noventa dias contados do recebimento pelo órgão de pessoal e, não observado esse prazo, o militar é agregado até a inatividade, com vencimentos e vantagens integrais, contando-se o período como de efetivo exercício para todos os efeitos legais.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "prazo"
+   ]
+  },
+  {
+   "id": "inatividade-elab-051",
+   "subtema": "Agregação",
+   "artigo": "RDPM — Art. 74",
+   "enunciado": "Oficial submetido a Conselho de Justificação e considerado culpado por decisão unânime poderá ser agregado disciplinarmente, mediante ato do Comandante Geral, ficando",
+   "alternativas": [
+    "afastado das funções, proibido de usar uniforme e percebendo um terço da remuneração",
+    "afastado das funções, autorizado a usar uniforme e percebendo dois terços da remuneração",
+    "afastado das funções, proibido de usar uniforme e sem qualquer remuneração",
+    "mantido nas funções administrativas, percebendo metade da remuneração do posto"
+   ],
+   "correta": 0,
+   "explicacao": "A agregação disciplinar prevista no art. 74 do RDPM mantém o oficial afastado das funções e adido à unidade designada, proibido de usar uniforme, percebendo um terço da remuneração e mantido no respectivo Quadro, sem número, sem concorrer à promoção, até a decisão final do tribunal competente.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "rdpm"
+   ]
+  },
+  {
+   "id": "inatividade-elab-052",
+   "subtema": "Reforma",
+   "artigo": "DL 260/70 — Idade-limite na reserva",
+   "enunciado": "Militar da reserva da Polícia Militar atinge a idade-limite de permanência nessa situação. Nos termos do Decreto-Lei nº 260/70, ele será",
+   "alternativas": [
+    "reformado ao atingir setenta anos de idade, limite de permanência na reserva",
+    "reformado ao atingir sessenta e oito anos, na simetria com as Forças Armadas",
+    "excluído dos quadros da Instituição, cessando a percepção dos proventos",
+    "mantido na reserva, vedada apenas a designação para funções especializadas"
+   ],
+   "correta": 0,
+   "explicacao": "A idade-limite de permanência na reserva na PMESP é de setenta anos, e o seu atingimento acarreta a reforma. O Decreto-Lei federal nº 667/69 não regulou essa idade-limite, de modo que permanece o parâmetro estadual, diverso dos limites do Estatuto dos Militares das Forças Armadas.",
+   "tags": [
+    "inatividade",
+    "reforma",
+    "idade-limite"
+   ]
+  },
+  {
+   "id": "inatividade-elab-053",
+   "subtema": "Reforma",
+   "artigo": "DL 260/70 — Reforma administrativa disciplinar",
+   "enunciado": "O policial militar submetido a reforma administrativa disciplinar será reformado com proventos",
+   "alternativas": [
+    "integrais, calculados sobre o posto ou graduação que possuir na data do ato",
+    "proporcionais a trinta e cinco anos de serviço, até o limite de um inteiro",
+    "proporcionais ao tempo de serviço, reduzidos à metade a título de sanção",
+    "suspensos até a decisão definitiva do processo disciplinar instaurado"
+   ],
+   "correta": 1,
+   "explicacao": "A reforma decorrente de reforma administrativa disciplinar dá-se com vencimentos proporcionais a trinta e cinco anos de serviço, até o limite de um inteiro. O mesmo critério se aplica à posse em cargo eletivo com mais de dez anos de serviço e à interdição civil prolongada.",
+   "tags": [
+    "inatividade",
+    "reforma",
+    "rad"
+   ]
+  },
+  {
+   "id": "inatividade-elab-054",
+   "subtema": "Reforma",
+   "artigo": "DL 260/70 — Posse em cargo eletivo",
+   "enunciado": "Policial militar com mais de dez anos de serviço é eleito e toma posse no cargo eletivo. Sua situação funcional será de",
+   "alternativas": [
+    "reserva de ofício, com vencimentos proporcionais a trinta e cinco anos de serviço",
+    "reforma, com vencimentos proporcionais a trinta e cinco anos, até o limite de um inteiro",
+    "agregação durante todo o mandato, com percepção integral dos vencimentos",
+    "exoneração do serviço ativo, com direito de retorno ao término do mandato"
+   ],
+   "correta": 1,
+   "explicacao": "A posse em cargo eletivo, contando o militar mais de dez anos de serviço, acarreta reforma com proventos proporcionais a trinta e cinco anos de serviço, até o limite de um inteiro. A agregação antecede a posse e cessa com ela.",
+   "tags": [
+    "inatividade",
+    "reforma",
+    "eleicao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-055",
+   "subtema": "Reforma",
+   "artigo": "DL 260/70 — Inaptidão para reversão",
+   "enunciado": "Militar da reserva é convocado para reversão ao serviço ativo e, na inspeção de saúde, é julgado inapto. Nesse caso, ele será",
+   "alternativas": [
+    "designado para funções técnicas, administrativas ou especializadas",
+    "mantido na reserva, aguardando nova inspeção no prazo de um ano",
+    "reformado, por inaptidão apurada quando da tentativa de reversão",
+    "excluído da relação de convocáveis, sem alteração de sua situação"
+   ],
+   "correta": 2,
+   "explicacao": "O militar da reserva julgado inapto em inspeção de saúde para reversão ao serviço ativo será reformado. A convocação é sempre precedida de avaliação médica e de aptidão física, justamente para aferir essa condição.",
+   "tags": [
+    "inatividade",
+    "reforma",
+    "reversao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-056",
+   "subtema": "Reforma",
+   "artigo": "DL 667/69 — Art. 24-A, II",
+   "enunciado": "A remuneração do militar estadual reformado por invalidez decorrente do exercício da função ou em razão dela é",
+   "alternativas": [
+    "proporcional ao tempo de serviço prestado até a data da inspeção de saúde",
+    "proporcional a trinta e cinco anos de serviço, até o limite de um inteiro",
+    "integral, calculada com base no posto imediatamente superior ao que ocupava",
+    "integral, calculada com base no posto ou graduação que possuir na inatividade"
+   ],
+   "correta": 3,
+   "explicacao": "A norma federal assegura remuneração integral ao reformado por invalidez decorrente do exercício da função ou em razão dela, calculada com base no posto ou graduação que possuir por ocasião da transferência para a inatividade remunerada. A promoção ao posto imediato depende de regra própria, como a da Lei Complementar nº 1.150/11.",
+   "tags": [
+    "inatividade",
+    "reforma",
+    "invalidez"
+   ]
+  },
+  {
+   "id": "inatividade-elab-057",
+   "subtema": "Reforma",
+   "artigo": "DL 260/70 — Art. 32",
+   "enunciado": "Segundo o Decreto-Lei nº 260/70, a invalidez ou incapacidade, física ou mental, poderá ser consequente de doença, enfermidade ou acidente que impossibilite o exercício da função policial-militar, sendo tal condição aferida",
+   "alternativas": [
+    "mediante laudo particular apresentado pelo próprio policial militar",
+    "por perícia médica do instituto de previdência estadual competente",
+    "por junta médica designada pelo Comandante da unidade do militar",
+    "conforme parecer do órgão de saúde da Polícia Militar do Estado"
+   ],
+   "correta": 3,
+   "explicacao": "A aferição cabe ao órgão de saúde da Polícia Militar, e todas as declarações de aptidão e inaptidão física são sempre atribuição do órgão médico competente da Instituição. O nexo causal com o exercício da função, por sua vez, deve ser comprovado por competente apuração.",
+   "tags": [
+    "inatividade",
+    "reforma",
+    "invalidez"
+   ]
+  },
+  {
+   "id": "inatividade-elab-058",
+   "subtema": "Reforma",
+   "artigo": "DL 260/70 — Nexo causal",
+   "enunciado": "Para que a invalidez ou a incapacidade física seja reconhecida como decorrente do exercício da função policial-militar, exige-se que o nexo causal entre a doença, enfermidade ou acidente e a função",
+   "alternativas": [
+    "seja presumido sempre que o fato ocorrer durante a jornada de serviço",
+    "resulte de sentença judicial transitada em julgado sobre a matéria",
+    "seja declarado exclusivamente pelo Comandante da unidade do militar",
+    "seja comprovado por competente apuração, na forma da legislação aplicável"
+   ],
+   "correta": 3,
+   "explicacao": "O nexo causal deve ser comprovado por competente apuração, não havendo presunção decorrente do simples fato de o evento ocorrer em serviço. Esse reconhecimento é decisivo, pois define a integralidade da remuneração na reforma.",
+   "tags": [
+    "inatividade",
+    "reforma",
+    "nexo-causal"
+   ]
+  },
+  {
+   "id": "inatividade-elab-059",
+   "subtema": "Reforma",
+   "artigo": "DL 260/70 — Art. 34",
+   "enunciado": "Decaem do direito de requerer agregação ou reforma os policiais militares que se tornarem inválidos em virtude de",
+   "alternativas": [
+    "recusarem tratamento de alto risco indicado pelos facultativos da Instituição",
+    "não comparecerem à inspeção de saúde na data designada pela junta médica",
+    "não desejarem sujeitar-se às prescrições médicas e cirúrgicas até grau médio",
+    "deixarem de requerer o benefício no prazo de dois anos da ciência da doença"
+   ],
+   "correta": 2,
+   "explicacao": "A decadência alcança quem não deseja sujeitar-se às prescrições médicas e cirúrgicas até grau médio, indicadas como meio único de cura pelos facultativos do órgão médico da Polícia Militar, assegurado em qualquer hipótese o recurso a Juntas Médicas Superiores. Tratamentos de risco elevado não são exigíveis.",
+   "tags": [
+    "inatividade",
+    "reforma",
+    "decadencia"
+   ]
+  },
+  {
+   "id": "inatividade-elab-060",
+   "subtema": "Reforma",
+   "artigo": "DL 260/70 — Art. 55",
+   "enunciado": "O tempo correspondente a licenças concedidas por invalidez temporária será contado",
+   "alternativas": [
+    "como de efetivo serviço, para todos os fins legais, com agregação ou sem ela",
+    "como de efetivo serviço apenas quando não tiver havido agregação do militar",
+    "pela metade, para efeito exclusivo de contagem do tempo para a inatividade",
+    "somente para fins de promoção, excluída a contagem para a inatividade"
+   ],
+   "correta": 0,
+   "explicacao": "A lei é expressa ao contar esse período como de efetivo serviço para todos os fins, tenha ou não havido agregação. O contraste é com o art. 56, que lista os períodos não computáveis para efeito algum, entre eles o que exceder um ano em licença para tratar de familiar.",
+   "tags": [
+    "inatividade",
+    "tempo-de-servico",
+    "invalidez"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "inatividade-elab-061",
+   "subtema": "Idade-limite",
+   "artigo": "DL 667/69 — Art. 24-A, IV",
+   "enunciado": "A transferência para a reserva remunerada, de ofício, por atingimento da idade-limite do posto ou graduação deve ser disciplinada por lei específica do ente federativo, observada como parâmetro",
+   "alternativas": [
+    "máximo a idade-limite fixada para os militares das Forças Armadas",
+    "mínimo a idade-limite fixada para os militares das Forças Armadas",
+    "único a idade-limite anteriormente prevista na legislação estadual",
+    "mínimo a idade de aposentadoria compulsória do servidor civil do Estado"
+   ],
+   "correta": 1,
+   "explicacao": "A norma federal fixa como parâmetro mínimo a idade-limite estabelecida para os militares das Forças Armadas no correspondente posto ou graduação, cabendo à lei estadual disciplinar a matéria. Trata-se de piso, e não de teto.",
+   "tags": [
+    "inatividade",
+    "idade-limite",
+    "parametro"
+   ]
+  },
+  {
+   "id": "inatividade-elab-062",
+   "subtema": "Idade-limite",
+   "artigo": "DL 260/70 — Regime anterior",
+   "enunciado": "Antes da adequação determinada pela legislação federal, o Decreto-Lei nº 260/70 previa idade-limite de permanência no serviço ativo",
+   "alternativas": [
+    "variável conforme o posto, entre cinquenta e cinco e sessenta e sete anos",
+    "de sessenta e cinco anos para oficiais e sessenta anos para praças",
+    "de sessenta anos, de modo uniforme, do Soldado ao Coronel PM",
+    "de setenta anos, coincidente com a idade-limite de permanência na reserva"
+   ],
+   "correta": 2,
+   "explicacao": "O regime anterior previa, de modo uniforme, sessenta anos de idade-limite para permanência na ativa, do Soldado ao Coronel. A escalonagem por posto decorre da necessidade de observar, como piso, os limites das Forças Armadas.",
+   "tags": [
+    "inatividade",
+    "idade-limite",
+    "regime-anterior"
+   ]
+  },
+  {
+   "id": "inatividade-elab-063",
+   "subtema": "Idade-limite",
+   "artigo": "Lei 6.880/80 — Parâmetros aplicáveis",
+   "enunciado": "Considerado o parâmetro mínimo extraído do Estatuto dos Militares para o posto correspondente, a lei estadual deve estabelecer, para o Coronel PM, idade-limite de permanência no serviço ativo não inferior a",
+   "alternativas": [
+    "sessenta e cinco anos de idade, correspondente ao oficial superior",
+    "sessenta e sete anos de idade, correspondente ao Capitão de Mar e Guerra",
+    "setenta anos de idade, correspondente ao oficial-general de quatro estrelas",
+    "sessenta e quatro anos de idade, correspondente ao Capitão de Fragata"
+   ],
+   "correta": 1,
+   "explicacao": "O posto correspondente ao Coronel nas Forças Armadas é o de Capitão de Mar e Guerra, cuja idade-limite é de sessenta e sete anos, piso a ser observado pela lei estadual. Para o Tenente-Coronel o piso é de sessenta e quatro anos, e de sessenta e cinco anos nos Quadros de Saúde e Auxiliar.",
+   "tags": [
+    "inatividade",
+    "idade-limite",
+    "coronel"
+   ]
+  },
+  {
+   "id": "inatividade-elab-064",
+   "subtema": "Idade-limite",
+   "artigo": "Lei 6.880/80 — Parâmetros aplicáveis",
+   "enunciado": "Quanto aos parâmetros mínimos de idade-limite aplicáveis ao Major PM e ao Subtenente PM, tem-se, respectivamente,",
+   "alternativas": [
+    "sessenta e um anos e sessenta e três anos, com ajustes nos Quadros de Saúde e Auxiliar",
+    "sessenta e quatro anos e sessenta anos, sem qualquer distinção entre os Quadros",
+    "cinquenta e cinco anos e cinquenta e sete anos, conforme o Estatuto dos Militares",
+    "sessenta anos e sessenta e oito anos, por simetria com os limites da reserva"
+   ],
+   "correta": 0,
+   "explicacao": "O parâmetro do Major corresponde ao do Capitão de Corveta, sessenta e um anos, elevando-se a sessenta e quatro nos Quadros de Saúde e Auxiliar; o do Subtenente é de sessenta e três anos. Capitães e oficiais subalternos mantêm sessenta anos na PMESP, com o piso de sessenta e três para QOS e QAO.",
+   "tags": [
+    "inatividade",
+    "idade-limite",
+    "postos"
+   ]
+  },
+  {
+   "id": "inatividade-elab-065",
+   "subtema": "Idade-limite",
+   "artigo": "DL 667/69 — Art. 23-A",
+   "enunciado": "Sobre a transferência para a reserva remunerada de ofício por inclusão em quota compulsória, é correto afirmar que",
+   "alternativas": [
+    "é obrigatória em todas as instituições militares estaduais do País",
+    "deve ser disciplinada por lei do ente federativo, se prevista, e foi abolida na PMESP",
+    "foi mantida na PMESP como critério de renovação dos quadros de oficiais",
+    "aplica-se somente aos oficiais superiores, por simetria com as Forças Armadas"
+   ],
+   "correta": 1,
+   "explicacao": "A norma federal condiciona a quota compulsória à disciplina por lei do ente federativo, quando prevista, e na PMESP o instituto foi abolido em 2017. Não se trata, portanto, de mecanismo obrigatório nem vigente no Estado.",
+   "tags": [
+    "inatividade",
+    "quota-compulsoria"
+   ]
+  },
+  {
+   "id": "inatividade-elab-066",
+   "subtema": "Reversão",
+   "artigo": "DL 260/70 — Hipóteses de reversão",
+   "enunciado": "O militar da reserva poderá ser revertido ao serviço ativo, por ato do Governador, entre outras hipóteses,",
+   "alternativas": [
+    "para o exercício de funções técnicas, administrativas ou especializadas nas OPM",
+    "para ocupar cargo de direção vago em razão de transferência para a reserva",
+    "em caso de guerra, grave perturbação da ordem pública ou calamidade pública",
+    "sempre que houver déficit de efetivo na unidade de sua antiga classificação"
+   ],
+   "correta": 2,
+   "explicacao": "As hipóteses legais de reversão são a guerra, a grave perturbação da ordem pública ou a calamidade pública, a convocação da Justiça Militar Estadual, a presidência de inquérito policial militar e a composição de Conselho de Justificação. O exercício de funções técnicas, administrativas ou especializadas corresponde à designação, instituto diverso.",
+   "tags": [
+    "inatividade",
+    "reversao",
+    "hipoteses"
+   ]
+  },
+  {
+   "id": "inatividade-elab-067",
+   "subtema": "Reversão",
+   "artigo": "DL 260/70 — Efeitos da reversão",
+   "enunciado": "O militar da reserva revertido ao serviço ativo por convocação",
+   "alternativas": [
+    "não terá o período contado como tempo de serviço para qualquer finalidade",
+    "manterá a condição de inativo, apenas com direito a diária pelos dias trabalhados",
+    "ficará sujeito exclusivamente às obrigações disciplinares, sem direito a vantagens",
+    "terá os direitos e deveres do militar da ativa em igual situação hierárquica"
+   ],
+   "correta": 3,
+   "explicacao": "O convocado terá os direitos e os deveres do militar do serviço ativo em igual situação hierárquica e contará esse tempo de serviço como acréscimo para todos os efeitos legais. A convocação é precedida de avaliação médica e de aptidão física.",
+   "tags": [
+    "inatividade",
+    "reversao",
+    "efeitos"
+   ]
+  },
+  {
+   "id": "inatividade-elab-068",
+   "subtema": "Reversão",
+   "artigo": "DL 260/70 — Reversão e Justiça Militar",
+   "enunciado": "Entre as hipóteses de reversão do militar da reserva ao serviço ativo inclui-se a convocação",
+   "alternativas": [
+    "do Comandante Geral, para comandar unidade operacional em situação crítica",
+    "do Ministério Público Militar, para atuar como assistente da acusação",
+    "da Corregedoria da Polícia Militar, para instruir processos disciplinares",
+    "da Justiça Militar Estadual, além da presidência de inquérito policial militar"
+   ],
+   "correta": 3,
+   "explicacao": "São hipóteses de reversão a convocação pela Justiça Militar Estadual, a presidência de IPM e a composição de Conselho de Justificação, além das situações de guerra, grave perturbação da ordem ou calamidade pública. A reversão se dá sempre por ato do Governador.",
+   "tags": [
+    "inatividade",
+    "reversao",
+    "jme"
+   ]
+  },
+  {
+   "id": "inatividade-elab-069",
+   "subtema": "Designação para função TAE",
+   "artigo": "LC 1.305/17 — Designação do militar da reserva",
+   "enunciado": "A designação de militar transferido para a reserva para exercer especificamente funções técnicas, administrativas ou especializadas nas OPM é possível",
+   "alternativas": [
+    "enquanto o militar não atingir a idade-limite de permanência na reserva",
+    "pelo prazo máximo de dois anos, prorrogável uma única vez por igual período",
+    "somente para militares transferidos para a reserva a pedido, até os sessenta e cinco anos",
+    "apenas enquanto perdurar situação de calamidade pública ou grave perturbação"
+   ],
+   "correta": 0,
+   "explicacao": "A designação é possível enquanto o militar da reserva não atingir a idade-limite de permanência nessa situação, que é de setenta anos. As situações de calamidade e grave perturbação são hipóteses de reversão, e não de designação.",
+   "tags": [
+    "inatividade",
+    "designacao",
+    "tae"
+   ]
+  },
+  {
+   "id": "inatividade-elab-070",
+   "subtema": "Designação para função TAE",
+   "artigo": "LC 1.305/17 — Competências",
+   "enunciado": "Quanto à designação de militares da reserva para funções técnicas, administrativas ou especializadas, compete",
+   "alternativas": [
+    "ao Secretário da Segurança Pública fixar a quantidade anual de designações",
+    "ao Governador, por decreto, estabelecer a quantidade anual de militares designados",
+    "ao Comandante Geral designar e exonerar cada militar da reserva interessado",
+    "ao Comandante da OPM designar o militar e fixar as funções a serem exercidas"
+   ],
+   "correta": 1,
+   "explicacao": "O Governador, por decreto, estabelece a quantidade de militares que podem ser designados anualmente, e o Diretor de Pessoal designa e exonera o militar da reserva, cabendo ao Comandante Geral definir critérios disciplinares e técnicos para a designação.",
+   "tags": [
+    "inatividade",
+    "designacao",
+    "competencia"
+   ]
+  },
+  {
+   "id": "inatividade-elab-071",
+   "subtema": "Designação para função TAE",
+   "artigo": "LC 1.305/17 — Encerramento da designação",
+   "enunciado": "Sobre o término da designação do militar da reserva para funções técnicas, administrativas ou especializadas, é correto afirmar que",
+   "alternativas": [
+    "a Administração ou o militar poderá encerrá-la a qualquer tempo, por ato unilateral",
+    "somente a Administração pode encerrá-la, mediante processo administrativo prévio",
+    "somente o militar designado pode requerer o encerramento, com aviso prévio",
+    "o encerramento depende de decisão conjunta da Administração e do designado"
+   ],
+   "correta": 0,
+   "explicacao": "A Administração Pública ou o militar da reserva, a qualquer tempo e por ato unilateral, poderá encerrar a designação. Não há exigência de processo prévio nem de concordância recíproca.",
+   "tags": [
+    "inatividade",
+    "designacao",
+    "encerramento"
+   ]
+  },
+  {
+   "id": "inatividade-elab-072",
+   "subtema": "Designação para função TAE",
+   "artigo": "LC 1.305/17 — Direitos do designado",
+   "enunciado": "O militar da reserva designado para funções técnicas, administrativas ou especializadas terá as mesmas prerrogativas e deveres do militar do serviço ativo em igual situação hierárquica, fazendo jus, enquanto perdurar a designação,",
+   "alternativas": [
+    "a férias e a diária, com valor a ser fixado por meio de decreto",
+    "a todos os direitos dos militares do serviço ativo, sem qualquer restrição",
+    "apenas à diária correspondente aos dias efetivamente trabalhados",
+    "a férias, licença-prêmio e promoção por tempo de serviço na reserva"
+   ],
+   "correta": 0,
+   "explicacao": "O designado faz jus a férias e a diária, cujo valor é fixado por decreto, e não a todos os direitos dos militares da ativa indistintamente. A afirmação genérica de equiparação total é justamente a alternativa errada cobrada em prova.",
+   "tags": [
+    "inatividade",
+    "designacao",
+    "direitos"
+   ]
+  },
+  {
+   "id": "inatividade-elab-073",
+   "subtema": "Designação para função TAE",
+   "artigo": "Lei 1.420/25 — Revogação da vedação",
+   "enunciado": "Major do QAOPM é promovido a Tenente-Coronel quando de sua passagem para a reserva, posto inexistente em seu Quadro de origem. Quanto à possibilidade de designação para funções técnicas, administrativas ou especializadas,",
+   "alternativas": [
+    "permanece vedada, por inexistir o posto no respectivo Quadro de origem",
+    "a vedação anteriormente existente foi revogada, sendo possível a designação",
+    "a designação depende de autorização específica do Comandante Geral",
+    "a designação somente é possível no posto que ocupava antes da promoção"
+   ],
+   "correta": 1,
+   "explicacao": "Antes era vedada a designação do militar promovido ao posto superior na passagem para a reserva quando inexistente o respectivo posto em seu Quadro de origem, mas essa proibição foi revogada pela Lei nº 1.420, de 10 de abril de 2025. A mesma solução alcança o Subtenente promovido a 2º Tenente.",
+   "tags": [
+    "inatividade",
+    "designacao",
+    "atualizacao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-074",
+   "subtema": "Designação para função TAE",
+   "artigo": "LC 1.305/17 — Requisitos",
+   "enunciado": "A designação de militar da reserva para funções técnicas, administrativas ou especializadas exige",
+   "alternativas": [
+    "conclusão de curso de atualização profissional promovido pela Diretoria de Ensino",
+    "aprovação em processo seletivo interno realizado pela Diretoria de Pessoal",
+    "que o militar tenha sido transferido para a reserva exclusivamente a pedido",
+    "avaliação médica e de aptidão física, além de critérios definidos pelo Comandante Geral"
+   ],
+   "correta": 3,
+   "explicacao": "A designação exige avaliação médica e de aptidão física, competindo ao Comandante Geral definir critérios disciplinares e técnicos. Não há processo seletivo nem exigência de curso de atualização, e a designação não se restringe a quem inativou a pedido.",
+   "tags": [
+    "inatividade",
+    "designacao",
+    "requisitos"
+   ]
+  },
+  {
+   "id": "inatividade-elab-075",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Completar e superar prazos",
+   "enunciado": "Sistematizando os prazos de agregação previstos no Decreto-Lei nº 260/70, é correto afirmar que basta completar o prazo, e não superá-lo, na hipótese de agregação",
+   "alternativas": [
+    "por licença para tratar de interesses particulares, após dois anos consecutivos ou não",
+    "para exercício de cargo público civil temporário, após dois anos contínuos ou não",
+    "por licença para tratamento de saúde de pessoa da família, após dois anos seguidos",
+    "por condenação a pena restritiva de liberdade, após dois anos consecutivos ou não"
+   ],
+   "correta": 2,
+   "explicacao": "Basta completar dois anos seguidos na licença para tratamento de saúde de familiar e vinte e quatro meses na invalidez temporária e na interdição civil. Já as licenças particulares, o cargo civil temporário e a condenação criminal exigem que a agregação supere dois anos, consecutivos ou não.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "prazos"
+   ]
+  },
+  {
+   "id": "inatividade-elab-076",
+   "subtema": "Agregação",
+   "artigo": "DL 260/70 — Vencimentos na agregação",
+   "enunciado": "Assinale a hipótese em que o policial militar agregado percebe vencimentos e vantagens integrais do respectivo posto ou graduação.",
+   "alternativas": [
+    "Exercer, na condição de suplente, cargo eletivo para o qual foi diplomado",
+    "Ser declarado interditado civilmente, ainda que de forma parcial",
+    "Ser julgado temporariamente inválido para o serviço por mais de seis meses",
+    "Obter licença para, em caráter particular, realizar estudos no estrangeiro"
+   ],
+   "correta": 2,
+   "explicacao": "A agregação por invalidez ou incapacidade física temporária assegura vencimentos e vantagens integrais. A interdição civil rende dois terços, e tanto a suplência de cargo eletivo, pelo texto do decreto-lei, quanto as licenças particulares são hipóteses sem percepção de vencimentos.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "vencimentos"
+   ]
+  },
+  {
+   "id": "inatividade-elab-077",
+   "subtema": "Agregação",
+   "artigo": "I-2-PM e R-200 — Conceitos de agregação",
+   "enunciado": "Comparados os conceitos de agregação adotados nas normas de referência, verifica-se que a definição segundo a qual o policial militar da ativa deixa de ocupar vaga na escala hierárquica do seu quadro, nela permanecendo, é a adotada",
+   "alternativas": [
+    "pelo Regulamento para as Polícias Militares e Corpos de Bombeiros Militares",
+    "pelo Decreto-Lei nº 260/70, ao tratar da inatividade temporária do militar",
+    "pela I-2-PM, que trata da exclusão do estado efetivo da corporação",
+    "pelo Regulamento Disciplinar, ao disciplinar a agregação disciplinar do oficial"
+   ],
+   "correta": 0,
+   "explicacao": "A definição por não ocupação de vaga na escala hierárquica, com permanência nela, é a do R-200. O Decreto-Lei nº 260/70 fala em passagem temporária à condição de inativo e a I-2-PM, em exclusão do estado efetivo da OPM e da corporação.",
+   "tags": [
+    "inatividade",
+    "agregacao",
+    "conceitos"
+   ]
+  },
+  {
+   "id": "inatividade-elab-078",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Art. 1º, caput",
+   "enunciado": "A transferência de ofício para a reserva remunerada prevista na Lei Complementar nº 1.150/11, com vencimento e vantagens integrais, alcança o Oficial Superior que conte",
+   "alternativas": [
+    "trinta anos ou mais de serviço e três anos no mesmo posto ocupado",
+    "trinta e cinco anos ou mais de serviço e cinco anos no mesmo posto",
+    "trinta e cinco anos ou mais de serviço e dois anos no mesmo posto",
+    "trinta anos ou mais de serviço e cinco anos de oficialato superior"
+   ],
+   "correta": 1,
+   "explicacao": "A regra exige Oficial Superior com trinta e cinco anos ou mais de serviço e cinco anos no mesmo posto, presente uma das três situações legais. O texto original falava em trinta anos, parâmetro alterado posteriormente, razão pela qual a alternativa com trinta anos costuma ser mantida como distrator.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "reserva-ex-officio"
+   ]
+  },
+  {
+   "id": "inatividade-elab-079",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Art. 1º, I",
+   "enunciado": "Coronel PM com trinta e sete anos de serviço e cinco anos no posto encontra-se no último posto de seu Quadro. Segundo a Lei Complementar nº 1.150/11, ele",
+   "alternativas": [
+    "será transferido de ofício para a reserva, salvo se for Cmt G, SCmt PM ou Ch CMil",
+    "somente será transferido se tiver sido preterido nas três últimas promoções",
+    "permanecerá na ativa até atingir a idade-limite de permanência no serviço",
+    "poderá optar entre a permanência na ativa e a passagem à reserva remunerada"
+   ],
+   "correta": 0,
+   "explicacao": "Estar no último posto do Quadro é a primeira das três situações do art. 1º, bastando somar trinta e cinco anos de serviço e cinco anos no posto. A ressalva alcança o Comandante Geral, o Subcomandante PM e o Chefe da Casa Militar, que podem permanecer até o final do mandato em curso do Governador.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "coronel"
+   ]
+  },
+  {
+   "id": "inatividade-elab-080",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Art. 1º, II",
+   "enunciado": "Tenente-Coronel PM com trinta e cinco anos de serviço e cinco anos no posto não possui o curso legalmente exigido para a promoção ao posto imediatamente superior. Nos termos da Lei Complementar nº 1.150/11, ele",
+   "alternativas": [
+    "será transferido de ofício para a reserva, ainda que esteja frequentando o curso",
+    "será transferido de ofício para a reserva, salvo se estiver frequentando o curso",
+    "permanecerá na ativa até ser preterido nas três últimas datas de promoção",
+    "somente será transferido se houver requerimento formulado pelo próprio oficial"
+   ],
+   "correta": 1,
+   "explicacao": "O não atendimento dos requisitos legais para promoção ao posto imediatamente superior é a segunda situação do art. 1º, mas a regra não se aplica ao oficial que estiver frequentando o curso legalmente exigido, isto é, o CSP. A preterição em três datas é hipótese distinta, do inciso III.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "requisitos"
+   ]
+  },
+  {
+   "id": "inatividade-elab-081",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Art. 1º, III",
+   "enunciado": "Tenente-Coronel PM com trinta e cinco anos de serviço, cinco anos no posto e possuidor do curso exigido será transferido de ofício para a reserva se tiver sido preterido",
+   "alternativas": [
+    "nas cinco últimas datas de promoção, por oficial de menor antiguidade",
+    "em qualquer data de promoção, independentemente da antiguidade do preterente",
+    "nos três últimos anos, por oficial de outra turma do curso de formação",
+    "nas três últimas datas de promoção, por oficial de menor antiguidade"
+   ],
+   "correta": 3,
+   "explicacao": "A terceira situação exige preterição nas três últimas datas de promoção, com ultrapassagem por Oficial de menor antiguidade. As variações quanto ao número de datas, à substituição por anos e à turma do CFO são os distratores clássicos da matéria.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "preterição"
+   ]
+  },
+  {
+   "id": "inatividade-elab-082",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Efetivação da inatividade",
+   "enunciado": "Verificada uma das situações do art. 1º da Lei Complementar nº 1.150/11, a inatividade do Oficial Superior será efetivada no prazo de",
+   "alternativas": [
+    "até trinta dias, contados da verificação da situação legal correspondente",
+    "até noventa dias, prazo comum aos requerimentos de inatividade a pedido",
+    "até cento e oitenta dias, admitida prorrogação por igual período",
+    "até o encerramento do exercício financeiro em que ocorrer o fato"
+   ],
+   "correta": 0,
+   "explicacao": "A lei determina que a inatividade do Oficial Superior seja efetivada em até trinta dias. O prazo de noventa dias é o de despacho do pedido de inatividade a pedido, previsto no Decreto-Lei nº 260/70.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "prazo"
+   ]
+  },
+  {
+   "id": "inatividade-elab-083",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Art. 2º",
+   "enunciado": "O integrante do serviço ativo da Polícia Militar fará jus à promoção ao posto ou graduação imediatamente superior desde que conte, pelo menos,",
+   "alternativas": [
+    "trinta anos de serviço, dos quais vinte e cinco de natureza militar",
+    "trinta e cinco anos de serviço, independentemente do posto ou graduação",
+    "trinta e cinco anos de serviço, desde que ocupe posto de Oficial Superior",
+    "trinta anos de serviço, desde que possua o curso exigido para a promoção"
+   ],
+   "correta": 1,
+   "explicacao": "O direito à promoção ao posto ou graduação imediato pressupõe pelo menos trinta e cinco anos de serviço e alcança do Soldado ao Tenente-Coronel, ao contrário do art. 1º, restrito ao Oficial Superior. A habilitação em curso, aliás, é expressamente dispensada.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "promocao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-084",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Art. 2º, § 1º",
+   "enunciado": "A promoção ao posto ou graduação imediato prevista na Lei Complementar nº 1.150/11 far-se-á",
+   "alternativas": [
+    "condicionada à conclusão do curso exigido para a promoção pretendida",
+    "condicionada à existência de vaga no respectivo Quadro ou Qualificação",
+    "condicionada ao cumprimento do interstício mínimo no posto ou graduação",
+    "independentemente de vaga, interstício ou habilitação em cursos exigidos"
+   ],
+   "correta": 3,
+   "explicacao": "A promoção independe de vaga, interstício ou habilitação em cursos, ainda que inexista, no Quadro ou Qualificação a que pertença o policial militar, o posto ou graduação imediatamente superior. É justamente essa dispensa que caracteriza o benefício.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "promocao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-085",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Art. 2º, § 2º",
+   "enunciado": "Para efeito da promoção prevista na Lei Complementar nº 1.150/11, entende-se por posto imediatamente superior ao de Subtenente PM o de",
+   "alternativas": [
+    "Aspirante a Oficial PM, por equiparação legal ao Segundo Tenente",
+    "Subtenente especial, criado para fins exclusivos de inatividade",
+    "Primeiro Tenente PM, posto inicial do Quadro Auxiliar de Oficiais",
+    "Segundo Tenente PM, ainda que inexistente no Quadro de origem"
+   ],
+   "correta": 3,
+   "explicacao": "A lei define expressamente que o posto imediatamente superior ao de Subtenente PM é o de Segundo Tenente PM, promoção que se dá ainda que o posto não exista no Quadro de origem, dada a dispensa prevista no § 1º.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "subtenente"
+   ]
+  },
+  {
+   "id": "inatividade-elab-086",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Art. 2º, § 3º",
+   "enunciado": "A promoção ao posto imediato prevista na Lei Complementar nº 1.150/11 só poderá ser requerida por Oficial que ocupe o posto",
+   "alternativas": [
+    "há, no mínimo, um ano, requisito não exigido das praças da Instituição",
+    "há, no mínimo, dois anos, requisito comum a oficiais e a praças da PM",
+    "há, no mínimo, cinco anos, tal como na transferência do Oficial Superior",
+    "há qualquer tempo, bastando o implemento dos trinta e cinco anos de serviço"
+   ],
+   "correta": 0,
+   "explicacao": "O § 3º exige que o Oficial ocupe o posto por no mínimo um ano, exigência que a lei dirige apenas aos oficiais. Os cinco anos no mesmo posto são requisito da transferência de ofício do art. 1º, situação diversa.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "promocao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-087",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Art. 3º",
+   "enunciado": "O Coronel PM fará jus ao acréscimo de valor correspondente a vinte por cento do padrão de vencimento desde que conte, pelo menos,",
+   "alternativas": [
+    "trinta e cinco anos de serviço, independentemente do tempo no posto",
+    "trinta e cinco anos de serviço e cinco anos no posto de Coronel PM",
+    "trinta anos de serviço e dois anos no posto de Coronel da Instituição",
+    "trinta e cinco anos de serviço e dois anos no posto de Coronel PM"
+   ],
+   "correta": 3,
+   "explicacao": "O acréscimo de vinte por cento do padrão de vencimento exige trinta e cinco anos de serviço e dois anos no posto de Coronel. Os cinco anos no posto correspondem ao requisito da transferência de ofício para a reserva, não ao do acréscimo.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "coronel"
+   ]
+  },
+  {
+   "id": "inatividade-elab-088",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Art. 4º",
+   "enunciado": "Para obter a promoção ao posto ou graduação imediato ou o acréscimo de vinte por cento do padrão de vencimento, o policial militar deverá",
+   "alternativas": [
+    "comprovar a existência de vaga no posto ou graduação pretendido",
+    "aguardar a transferência de ofício para a reserva remunerada",
+    "requerer, concomitantemente, sua passagem para a inatividade",
+    "obter autorização prévia do Comandante Geral da Polícia Militar"
+   ],
+   "correta": 2,
+   "explicacao": "A lei condiciona ambos os benefícios ao requerimento concomitante da passagem para a inatividade, o que evidencia sua natureza de vantagem na transição para a reserva. Sem esse pedido simultâneo, não há direito ao benefício.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "requerimento"
+   ]
+  },
+  {
+   "id": "inatividade-elab-089",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Vantagens sobre o acréscimo",
+   "enunciado": "Sobre o acréscimo de vinte por cento do padrão de vencimento concedido ao Coronel PM incidirão",
+   "alternativas": [
+    "as vantagens pecuniárias previstas na legislação aplicável aos integrantes da PM",
+    "apenas os descontos previdenciários, vedada a incidência de outras vantagens",
+    "somente as vantagens de caráter permanente já incorporadas ao padrão",
+    "nenhuma vantagem, por se tratar de parcela autônoma e não incorporável"
+   ],
+   "correta": 0,
+   "explicacao": "A lei determina que incidam sobre o acréscimo as vantagens pecuniárias previstas na legislação aplicável aos integrantes da PMESP. A ideia de parcela isolada e não repercutível é a armadilha do dispositivo.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "vantagens"
+   ]
+  },
+  {
+   "id": "inatividade-elab-090",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Concessão de ofício",
+   "enunciado": "Coronel PM é transferido de ofício para a reserva por completar cinco anos no posto, tendo preenchido os requisitos da inatividade a pedido, mas sem formular requerimento. Quanto ao acréscimo de vinte por cento do padrão de vencimento,",
+   "alternativas": [
+    "não será concedido, pois depende de requerimento concomitante do interessado",
+    "dependerá de decisão discricionária do Comandante Geral da Instituição",
+    "será concedido pela metade, proporcionalmente ao tempo no posto de Coronel",
+    "será concedido de ofício, independentemente de requerimento do oficial"
+   ],
+   "correta": 3,
+   "explicacao": "O acréscimo de vinte por cento também se aplica ao Coronel transferido para a reserva de ofício que tenha os requisitos da inatividade a pedido e cinco anos no posto, hipótese em que o benefício é concedido de ofício, mesmo sem requerimento.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "coronel"
+   ]
+  },
+  {
+   "id": "inatividade-elab-091",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Promoções especiais",
+   "enunciado": "O posto ou a graduação imediatos também se aplicam ao Coronel PM e ao Subtenente PM nos casos de sindicância que conclua pela promoção",
+   "alternativas": [
+    "por bravura, post mortem ou por incapacidade decorrente da função policial",
+    "por antiguidade, quando preenchido o interstício exigido em cada posto",
+    "por merecimento, mediante deliberação da comissão de promoções da PM",
+    "por conclusão de curso de altos estudos realizado às expensas do Estado"
+   ],
+   "correta": 0,
+   "explicacao": "A extensão alcança as promoções por bravura, post mortem ou por incapacidade, lesão ou enfermidade adquirida em consequência do exercício de função policial, reconhecidas em sindicância. As promoções ordinárias seguem a lei de promoções.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "promocao-especial"
+   ]
+  },
+  {
+   "id": "inatividade-elab-092",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Exclusão de beneficiários",
+   "enunciado": "Não fazem jus ao posto ou graduação imediatos quando do requerimento da passagem para a inatividade os policiais militares",
+   "alternativas": [
+    "que já tenham sido promovidos por bravura ao longo da carreira policial",
+    "promovidos nos termos do artigo 29 do ADCT da Constituição Estadual de 1989",
+    "que contem menos de cinco anos no posto ou graduação que ocupam",
+    "pertencentes ao Quadro Auxiliar de Oficiais da Polícia Militar do Estado"
+   ],
+   "correta": 1,
+   "explicacao": "A exclusão alcança os promovidos nos termos do art. 29 do Ato das Disposições Constitucionais Transitórias da Constituição Estadual de 1989, que já tiveram assegurada a promoção aos postos e graduações imediatos. As demais alternativas criam restrições inexistentes.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "adct"
+   ]
+  },
+  {
+   "id": "inatividade-elab-093",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Âmbito de aplicação",
+   "enunciado": "Comparados os artigos 1º e 2º da Lei Complementar nº 1.150/11, é correto afirmar que",
+   "alternativas": [
+    "ambos se aplicam exclusivamente aos Oficiais Superiores da Polícia Militar",
+    "ambos se aplicam a todo o efetivo, inclusive ao Coronel, quanto à promoção",
+    "o art. 1º alcança todos os oficiais e o art. 2º, apenas as praças da Instituição",
+    "o art. 1º alcança o Oficial Superior e o art. 2º, do Soldado ao Tenente-Coronel"
+   ],
+   "correta": 3,
+   "explicacao": "A transferência de ofício do art. 1º é restrita ao Oficial Superior, enquanto o direito à promoção ao posto ou graduação imediato do art. 2º abrange do Soldado ao Tenente-Coronel. Ao Coronel a lei destina o acréscimo de vinte por cento, e não a promoção.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "abrangencia"
+   ]
+  },
+  {
+   "id": "inatividade-elab-094",
+   "subtema": "Tempo de serviço",
+   "artigo": "DL 260/70 — Apuração do tempo",
+   "enunciado": "A apuração do tempo de serviço para fins de inatividade será feita",
+   "alternativas": [
+    "em dias, convertendo-se em anos de trezentos e sessenta dias, como no cálculo civil",
+    "em meses completos, desprezadas as frações inferiores a trinta dias de serviço",
+    "em anos civis completos, contados de primeiro de janeiro a trinta e um de dezembro",
+    "em dias, convertidos depois em anos considerados de trezentos e sessenta e cinco dias"
+   ],
+   "correta": 3,
+   "explicacao": "A apuração é feita em dias, com conversão em anos considerados como de trezentos e sessenta e cinco dias. Só após essa conversão é que se examina o destino dos dias restantes.",
+   "tags": [
+    "inatividade",
+    "tempo-de-servico",
+    "apuracao"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "inatividade-elab-095",
+   "subtema": "Tempo de serviço",
+   "artigo": "DL 260/70 — Dias restantes",
+   "enunciado": "Feita a conversão do tempo de serviço em anos, os dias restantes serão tratados da seguinte forma:",
+   "alternativas": [
+    "todos os dias restantes são arredondados para um ano completo, sempre em favor do policial militar interessado na contagem",
+    "até cento e oitenta e dois dias são computados como meio ano e, acima desse número, como um ano completo, qualquer que seja a inatividade",
+    "todos os dias restantes são desprezados, seja qual for a espécie de inatividade em questão, por não alcançarem o ano completo",
+    "até cento e oitenta e dois dias não são computados e, acima disso, arredondam-se para um ano na inatividade compulsória ou por invalidez"
+   ],
+   "correta": 3,
+   "explicacao": "Os dias restantes até cento e oitenta e dois não são computados; ultrapassado esse número, arredondam-se para um ano, mas somente nos casos de inatividade compulsória ou por invalidez. O arredondamento não é regra geral.",
+   "tags": [
+    "inatividade",
+    "tempo-de-servico",
+    "arredondamento"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "inatividade-elab-096",
+   "subtema": "Tempo de serviço",
+   "artigo": "DL 260/70 — Anistiados",
+   "enunciado": "O tempo de serviço dos policiais militares beneficiados por anistia será contado",
+   "alternativas": [
+    "apenas para fins de promoção, excluída a contagem para a inatividade",
+    "em dobro, para todos os efeitos legais previstos na legislação militar",
+    "como estabelecer o ato legal que conceder a respectiva anistia",
+    "pela metade, considerado o período de afastamento do serviço ativo"
+   ],
+   "correta": 2,
+   "explicacao": "A contagem do tempo dos anistiados segue o que estabelecer o ato legal concessivo da anistia. Não há regra própria de contagem em dobro ou pela metade no decreto-lei.",
+   "tags": [
+    "inatividade",
+    "tempo-de-servico",
+    "anistia"
+   ]
+  },
+  {
+   "id": "inatividade-elab-097",
+   "subtema": "Tempo de serviço",
+   "artigo": "DL 260/70 — Cômputo do tempo",
+   "enunciado": "No cômputo do tempo de serviço para fins de inatividade, o tempo de contribuição ao Regime Geral de Previdência Social ou a regime próprio será considerado",
+   "alternativas": [
+    "integralmente, sem qualquer limitação temporal, como tempo de serviço",
+    "como tempo de serviço, até o máximo de cinco anos de contribuição",
+    "como tempo de exercício em cargo de natureza militar, sem limitação",
+    "apenas para efeito de promoção, vedada a contagem para a inatividade"
+   ],
+   "correta": 1,
+   "explicacao": "O tempo de contribuição ao RGPS ou a regime próprio é computado como tempo de serviço, limitado a cinco anos. Já o tempo prestado às Forças Armadas e a Polícias e Corpos de Bombeiros Militares de outras unidades federativas é contado dia a dia como exercício em cargo de natureza militar.",
+   "tags": [
+    "inatividade",
+    "tempo-de-servico",
+    "contribuicao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-098",
+   "subtema": "Tempo de serviço",
+   "artigo": "DL 260/70 — Natureza militar",
+   "enunciado": "Conta-se como tempo de exercício em cargo de natureza militar, dia a dia, o período prestado",
+   "alternativas": [
+    "às Forças Armadas e às Polícias Militares de outras unidades federativas",
+    "a órgãos civis de segurança pública, como a Polícia Civil do Estado",
+    "a guardas municipais, quando houver convênio com a Polícia Militar",
+    "a empresas de segurança privada, se comprovado o vínculo formal"
+   ],
+   "correta": 0,
+   "explicacao": "O tempo prestado dia a dia à PMESP, a Polícias Militares e Corpos de Bombeiros Militares de outras unidades da Federação e às Forças Armadas conta como exercício em cargo de natureza militar, exigência relevante porque a reserva a pedido com proventos integrais requer trinta anos nessa condição.",
+   "tags": [
+    "inatividade",
+    "tempo-de-servico",
+    "natureza-militar"
+   ]
+  },
+  {
+   "id": "inatividade-elab-099",
+   "subtema": "Tempo de serviço",
+   "artigo": "DL 260/70 — Art. 56",
+   "enunciado": "Assinale o período que não é computável para efeito algum, nos termos do art. 56 do Decreto-Lei nº 260/70.",
+   "alternativas": [
+    "O tempo de licença concedida por invalidez temporária do policial militar",
+    "O tempo decorrido em cumprimento de sentença judicial passada em julgado",
+    "O tempo de agregação por processo no foro militar sem condenação final",
+    "O tempo de agregação para exercer encargo autorizado pelo Governador"
+   ],
+   "correta": 1,
+   "explicacao": "O art. 56 exclui, entre outros, o tempo decorrido em cumprimento de sentença judicial transitada em julgado. A licença por invalidez temporária, ao contrário, é contada como efetivo serviço para todos os fins, nos termos do art. 55.",
+   "tags": [
+    "inatividade",
+    "tempo-de-servico",
+    "art-56"
+   ]
+  },
+  {
+   "id": "inatividade-elab-100",
+   "subtema": "Tempo de serviço",
+   "artigo": "DL 260/70 — Art. 56, II",
+   "enunciado": "Quanto à licença para tratamento de saúde de pessoa da família, o art. 56 do Decreto-Lei nº 260/70 considera não computável, para efeito algum, o tempo",
+   "alternativas": [
+    "que exceder um ano, consecutivo ou não, de licença dessa espécie",
+    "que exceder seis meses contínuos de licença dessa mesma espécie",
+    "integral da licença, desde a primeira concessão ao policial militar",
+    "que exceder dois anos seguidos, quando houver agregação do militar"
+   ],
+   "correta": 0,
+   "explicacao": "É incomputável o tempo que exceder um ano, consecutivo ou não, em licença para tratamento de saúde de pessoa da família. Não se confunda esse limite com os seis meses que geram agregação nem com os dois anos seguidos que conduzem à reserva de ofício.",
+   "tags": [
+    "inatividade",
+    "tempo-de-servico",
+    "ltsf"
+   ]
+  },
+  {
+   "id": "inatividade-elab-101",
+   "subtema": "Tempo de serviço",
+   "artigo": "DL 260/70 — Art. 56, III",
+   "enunciado": "O tempo passado como desertor não é computável para efeito algum",
+   "alternativas": [
+    "somente se o afastamento tiver superado o prazo de trinta dias corridos",
+    "independentemente do resultado do processo criminal correspondente",
+    "desde que o policial militar seja condenado pelo crime que lhe é imputado",
+    "apenas quando houver a instauração de processo administrativo disciplinar"
+   ],
+   "correta": 2,
+   "explicacao": "A exclusão do tempo passado como desertor pressupõe a condenação pelo crime imputado. Absolvido o militar, não incide a regra de incomputabilidade.",
+   "tags": [
+    "inatividade",
+    "tempo-de-servico",
+    "desercao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-102",
+   "subtema": "Tempo de serviço",
+   "artigo": "DL 260/70 — Art. 56",
+   "enunciado": "Também não são computáveis para efeito algum, segundo o art. 56 do Decreto-Lei nº 260/70, os períodos",
+   "alternativas": [
+    "de agregação por candidatura a cargo eletivo e de licença-prêmio em pecúnia",
+    "de agregação por interdição civil e de licença para tratamento de saúde própria",
+    "de férias não usufruídas e de afastamento para competição desportiva oficial",
+    "das três licenças sem vencimentos, da detenção e da falta não justificada"
+   ],
+   "correta": 3,
+   "explicacao": "O art. 56 exclui o tempo das três licenças sem vencimentos, o decorrido em cumprimento de detenção, o de suspensão do exercício da função pública por sentença e o de falta ou ausência não justificada, além das hipóteses de sentença transitada, licença de familiar excedente a um ano e deserção com condenação.",
+   "tags": [
+    "inatividade",
+    "tempo-de-servico",
+    "art-56"
+   ]
+  },
+  {
+   "id": "inatividade-elab-103",
+   "subtema": "Tempo de serviço",
+   "artigo": "DL 260/70 — Suspensão por sentença",
+   "enunciado": "O tempo de suspensão do exercício da função pública imposta por sentença, para fins de contagem do tempo de serviço,",
+   "alternativas": [
+    "é computado pela metade, a título de compensação pelo afastamento",
+    "é computado integralmente, por não decorrer de falta disciplinar",
+    "não é computável para efeito algum, por expressa previsão legal",
+    "é computado apenas se sobrevier absolvição em grau de recurso"
+   ],
+   "correta": 2,
+   "explicacao": "O tempo de suspensão do exercício da função pública por sentença não é computável para efeito algum. Situação diversa é a do agregado por suspensão que vem a ser absolvido por inexistência do fato ou negativa de autoria, caso em que o tempo é contado para todos os fins e há ressarcimento integral.",
+   "tags": [
+    "inatividade",
+    "tempo-de-servico",
+    "suspensao"
+   ]
+  },
+  {
+   "id": "inatividade-elab-104",
+   "subtema": "LC 1.150/11",
+   "artigo": "LC 1.150/11 — Caso concreto",
+   "enunciado": "Capitão do QAOPM com mais de trinta e cinco anos de serviço e mais de um ano no posto não obteve o curso exigido para promoção e nunca foi preterido. Considerada a Lei Complementar nº 1.150/11, esse oficial",
+   "alternativas": [
+    "será transferido de ofício para a reserva, por não atender aos requisitos de promoção",
+    "poderá requerer a promoção ao posto imediato, desde que peça também a inatividade",
+    "somente poderá ser promovido se houver vaga no Quadro Auxiliar de Oficiais",
+    "deverá aguardar a preterição em três datas de promoção para requerer o benefício"
+   ],
+   "correta": 1,
+   "explicacao": "A transferência de ofício do art. 1º alcança apenas o Oficial Superior, o que exclui o Capitão; já o art. 2º lhe assegura a promoção ao posto imediato com trinta e cinco anos de serviço, dispensados vaga, interstício e habilitação, exigido o requerimento concomitante da passagem para a inatividade e o mínimo de um ano no posto.",
+   "tags": [
+    "inatividade",
+    "lc-1150",
+    "caso-concreto"
+   ]
+  }
+ ]
+}

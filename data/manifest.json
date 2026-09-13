@@ -1,6 +1,6 @@
 {
   "version": "3.1.0",
-  "lastUpdated": "2026-09-12",
+  "lastUpdated": "2026-09-13",
   "materias": [
     {
       "id": "rdpm",
@@ -99,6 +99,17 @@
       "cor": "#8a5a1f",
       "ativo": true,
       "ordem": 9,
+      "origem": "elaborada"
+    },
+    {
+      "id": "inatividade-elab",
+      "nome": "Inatividade",
+      "nomeCompleto": "Inatividade do policial militar: agregação, reserva, reforma, exoneração e promoção na inatividade (104 questões)",
+      "norma": "DL 260/70 e LC 1.150/11",
+      "arquivo": "data/inatividade-elab.json",
+      "cor": "#6e2f4a",
+      "ativo": true,
+      "ordem": 10,
       "origem": "elaborada"
     },
     {
