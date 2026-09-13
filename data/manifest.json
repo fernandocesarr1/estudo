@@ -179,6 +179,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "boe-elab",
+      "nome": "BOe, assuncao de comando e despachos",
+      "nomeCompleto": "Boletim de Ocorrencia Eletronico, assuncao de comando de Cia PM e despachos sobre caca-niquel e dados de celular (108 questões)",
+      "norma": "NI PM3-007/03/17, NI PM3-001/02/17, Desp. PM3-01/02/19 e PM3-05/02/19",
+      "arquivo": "data/boe-elab.json",
+      "cor": "#3f5f2f",
+      "ativo": true,
+      "ordem": 17,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",

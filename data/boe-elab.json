@@ -1,0 +1,2068 @@
+{
+ "materia": "boe-elab",
+ "versao": "1.5.0",
+ "atualizadoEm": "2026-09-13",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Assunção de comando — ações administrativas",
+  "Assunção de comando — ações diretas",
+  "Assunção de comando — ações individuais",
+  "Assunção de comando — ações operacionais",
+  "Assunção de comando — comunidade",
+  "Assunção de comando — estrutura",
+  "BOe — anexos",
+  "BOe — circunstâncias de registro",
+  "BOe — complemento",
+  "BOe — comunicação à PC",
+  "BOe — comunicações",
+  "BOe — conceito",
+  "BOe — condições de registro",
+  "BOe — dispensa",
+  "BOe — disposições gerais",
+  "BOe — elaboração",
+  "BOe — encerramento",
+  "BOe — finalidade",
+  "BOe — indisponibilidade",
+  "BOe — providências",
+  "BOe — trânsito",
+  "BOe — usuários",
+  "BOe — validação",
+  "Caça-níquel",
+  "Dados de celular",
+  "Síntese"
+ ],
+ "questoes": [
+  {
+   "id": "boe-elab-001",
+   "subtema": "BOe — conceito",
+   "artigo": "NI PM3-007/03/17 — Definição",
+   "enunciado": "O Boletim de Ocorrência Eletrônico é definido na norma como formulário eletrônico",
+   "alternativas": [
+    "disponibilizado às delegacias de polícia para registro das ocorrências comunicadas",
+    "interligado ao banco de dados do SIOPM, hábil ao registro de ocorrências em ambiente virtual",
+    "de uso exclusivo das unidades de policiamento de trânsito urbano e rodoviário",
+    "destinado à substituição do relatório de serviço operacional das unidades de serviço"
+   ],
+   "correta": 1,
+   "explicacao": "O BOe é formulário eletrônico interligado ao banco de dados do SIOPM, hábil ao registro de ocorrências policiais em ambiente virtual, incluídas as típicas de policiamento ambiental e de trânsito urbano e rodoviário, além da página inicial de registro da ocorrência.",
+   "tags": [
+    "boe",
+    "conceito"
+   ]
+  },
+  {
+   "id": "boe-elab-002",
+   "subtema": "BOe — finalidade",
+   "artigo": "NI PM3-007/03/17 — Benefícios",
+   "enunciado": "Entre os resultados esperados com a implantação do BOe, a norma destaca",
+   "alternativas": [
+    "a transferência do registro das ocorrências às delegacias eletrônicas da Polícia Civil",
+    "a substituição integral do relatório de serviço operacional pelas unidades",
+    "a redução da subnotificação de registros e o aumento da presença policial nas ruas",
+    "a dispensa da comunicação formal das ocorrências criminais à autoridade policial"
+   ],
+   "correta": 2,
+   "explicacao": "A norma aponta a geração de informações em tempo real, a melhoria do monitoramento, a resolução célere das demandas, a redução do tempo de envolvimento das unidades de serviço, o aumento da presença policial nas ruas e a redução da subnotificação pela celeridade e desburocratização.",
+   "tags": [
+    "boe",
+    "finalidade"
+   ]
+  },
+  {
+   "id": "boe-elab-003",
+   "subtema": "BOe — finalidade",
+   "artigo": "NI PM3-007/03/17 — Ferramentas",
+   "enunciado": "O BOe, por estar interligado ao SIOPM, possibilita, entre outras funcionalidades,",
+   "alternativas": [
+    "a substituição da perícia técnica nos locais de crime com vestígios materiais",
+    "a lavratura do auto de prisão em flagrante pelo policial militar no local dos fatos",
+    "a extração de relatórios de serviço, a geração de estatísticas e o acesso a bancos de dados",
+    "a homologação eletrônica do registro pela autoridade policial civil competente"
+   ],
+   "correta": 2,
+   "explicacao": "O sistema permite a extração de RSO e ICT, a geração de estatísticas e o acesso direto aos bancos de dados para consulta, sempre por meio dos terminais móveis ou portáteis de dados.",
+   "tags": [
+    "boe",
+    "funcionalidades"
+   ]
+  },
+  {
+   "id": "boe-elab-004",
+   "subtema": "BOe — providências",
+   "artigo": "NI PM3-007/03/17 — Providências no local",
+   "enunciado": "Ao deparar com flagrante delito, além de elaborar o BOe, cabe ao policial militar",
+   "alternativas": [
+    "liberar o local após a identificação das partes, dispensada a preservação de vestígios",
+    "aguardar a chegada da autoridade policial antes de qualquer providência no local",
+    "identificar e manter o autor sob custódia, arrolar testemunhas e preservar o local",
+    "conduzir todos os envolvidos ao distrito policial antes do registro da ocorrência"
+   ],
+   "correta": 2,
+   "explicacao": "As providências incluem identificar e manter o autor sob custódia, identificar vítimas e o produto da infração, arrolar testemunhas, identificar outras provas, apreender objetos e preservar o local, sem permitir violação nem por familiares, imprensa ou policiais alheios à ocorrência.",
+   "tags": [
+    "boe",
+    "providencias",
+    "flagrante"
+   ]
+  },
+  {
+   "id": "boe-elab-005",
+   "subtema": "BOe — providências",
+   "artigo": "NI PM3-007/03/17 — Preservação do local",
+   "enunciado": "Quanto à preservação do local dos fatos, a norma determina que não seja permitida sua violação",
+   "alternativas": [
+    "salvo mediante autorização verbal do comandante da força de patrulha",
+    "apenas por terceiros estranhos ao fato, liberado o acesso de familiares",
+    "nem por familiares, pela imprensa ou por policiais alheios à ocorrência",
+    "exceto para a imprensa previamente credenciada pela comunicação social"
+   ],
+   "correta": 2,
+   "explicacao": "A norma é expressa ao vedar a violação do local mesmo por familiares, pela imprensa ou por outros policiais que não façam parte da ocorrência, providência essencial à preservação dos vestígios.",
+   "tags": [
+    "boe",
+    "providencias",
+    "local"
+   ]
+  },
+  {
+   "id": "boe-elab-006",
+   "subtema": "BOe — elaboração",
+   "artigo": "NI PM3-007/03/17 — Quesitos do relatório",
+   "enunciado": "No Relatório da Autoridade Policial do BOe, o policial militar deve responder aos quesitos",
+   "alternativas": [
+    "quem, quando, onde, por quê, quanto e com quem",
+    "o quê, quando, onde, quem, quanto e para quê",
+    "o quê, por quê, quando, onde, quem e como",
+    "o quê, quando, onde, quem, como e com que meios"
+   ],
+   "correta": 2,
+   "explicacao": "Os seis quesitos são: o quê, descrição do fato; por quê, o motivo; quando, dia e hora; onde, local exato; quem, as partes envolvidas; e como, o modo pelo qual o fato se desenrolou.",
+   "tags": [
+    "boe",
+    "elaboracao",
+    "quesitos"
+   ]
+  },
+  {
+   "id": "boe-elab-007",
+   "subtema": "BOe — elaboração",
+   "artigo": "NI PM3-007/03/17 — Local de elaboração",
+   "enunciado": "Em regra, o BOe deverá ser elaborado",
+   "alternativas": [
+    "no próprio local dos fatos, pela unidade de serviço que atendeu a ocorrência",
+    "na sede da Companhia PM, após o encerramento do turno de serviço",
+    "no distrito policial, por ocasião da apresentação da ocorrência ao delegado",
+    "na sede do Batalhão, pelo encarregado administrativo da unidade"
+   ],
+   "correta": 0,
+   "explicacao": "A regra é a elaboração no próprio local dos fatos; a norma determina que se evitem ao máximo os procedimentos de registro em OPM, admitindo deslocamento apenas em situações excepcionais.",
+   "tags": [
+    "boe",
+    "elaboracao",
+    "local"
+   ]
+  },
+  {
+   "id": "boe-elab-008",
+   "subtema": "BOe — elaboração",
+   "artigo": "NI PM3-007/03/17 — Impossibilidade no local",
+   "enunciado": "Sendo inviável o registro no local por razões de segurança ou condições climáticas desfavoráveis, o deslocamento para local mais seguro ou abrigado depende",
+   "alternativas": [
+    "de prévia autorização do Comandante de Força de Patrulha ou, na impossibilidade, do CGP",
+    "de autorização do Comandante de Companhia, a ser obtida por meio do Serviço de Dia",
+    "de deliberação do usuário despachador do Centro de Operações responsável pela área",
+    "apenas da decisão do encarregado da unidade de serviço, dispensada comunicação"
+   ],
+   "correta": 0,
+   "explicacao": "A norma exige prévia autorização do Comandante de Força de Patrulha ou, em sua impossibilidade, do Comandante de Grupo de Patrulha, evitando-se ao máximo os procedimentos de registro em OPM.",
+   "tags": [
+    "boe",
+    "elaboracao",
+    "autorizacao"
+   ]
+  },
+  {
+   "id": "boe-elab-009",
+   "subtema": "BOe — circunstâncias de registro",
+   "artigo": "NI PM3-007/03/17 — Hipóteses de registro",
+   "enunciado": "Deve ser objeto de registro em BOe todo e qualquer atendimento de unidade de serviço que envolva",
+   "alternativas": [
+    "preservação de direitos, intervenção desnecessária ou endereço inexistente",
+    "infração penal, infração de trânsito ou solicitação de orientação",
+    "dano patrimonial, encaminhamento a pronto-socorro ou duplicidade de chamadas",
+    "infração penal, dano patrimonial ou preservação de direitos"
+   ],
+   "correta": 3,
+   "explicacao": "São três as hipóteses que impõem o registro: infração penal, dano patrimonial e preservação de direitos. As demais situações mencionadas dispensam o BOe, consignando-se o atendimento no relatório de serviço operacional.",
+   "tags": [
+    "boe",
+    "registro",
+    "hipoteses"
+   ]
+  },
+  {
+   "id": "boe-elab-010",
+   "subtema": "BOe — circunstâncias de registro",
+   "artigo": "NI PM3-007/03/17 — Preservação de direitos",
+   "enunciado": "No BOe lavrado para preservação de direitos, o Relatório da Autoridade Policial deve",
+   "alternativas": [
+    "indicar o dispositivo legal supostamente violado segundo o relato das partes",
+    "descrever a infração penal eventualmente noticiada pelas partes envolvidas no fato",
+    "conter a qualificação completa de todas as testemunhas presentes no local",
+    "restringir-se ao fato verificável, com a expressão para preservação de direitos"
+   ],
+   "correta": 3,
+   "explicacao": "O registro deve restringir-se ao relato do fato verificável pelos policiais, constando no Relatório da Autoridade Policial a expressão inicial para fins de preservação de direitos, o que delimita o alcance do documento.",
+   "tags": [
+    "boe",
+    "registro",
+    "preservacao"
+   ]
+  },
+  {
+   "id": "boe-elab-011",
+   "subtema": "BOe — circunstâncias de registro",
+   "artigo": "NI PM3-007/03/17 — Concurso de infrações",
+   "enunciado": "Havendo mais de uma infração penal vinculada a uma mesma ocorrência, o sistema, por ora, permite a descrição de somente uma delas, devendo ser registrada",
+   "alternativas": [
+    "a de menor gravidade, por facilitar o processamento do registro",
+    "a primeira constatada pela guarnição no local dos fatos",
+    "a mais grave, segundo o critério da pena máxima cominada",
+    "a escolhida pela vítima entre as infrações constatadas no atendimento"
+   ],
+   "correta": 2,
+   "explicacao": "Registra-se a infração mais grave pelo critério da pena máxima, devendo a complementação dos dados relativos às infrações acessórias ser discriminada no Relatório da Autoridade Policial.",
+   "tags": [
+    "boe",
+    "registro",
+    "concurso"
+   ]
+  },
+  {
+   "id": "boe-elab-012",
+   "subtema": "BOe — circunstâncias de registro",
+   "artigo": "NI PM3-007/03/17 — Infração ambiental",
+   "enunciado": "Nas ocorrências de infração ambiental atendidas mediante apoio do policiamento ambiental, deverão ser preenchidos, no que couber,",
+   "alternativas": [
+    "o boletim de ocorrência físico, por indisponibilidade do módulo ambiental",
+    "o registro de ocorrência de trânsito e o auto de infração ambiental correspondente",
+    "apenas o auto de infração ambiental, dispensados os demais formulários",
+    "o registro de ocorrência ambiental, o auto de infração e o registro fotográfico ambiental"
+   ],
+   "correta": 3,
+   "explicacao": "A norma determina o preenchimento, no que couber, do Registro de Ocorrência Ambiental, do Auto de Infração Ambiental e do Registro Fotográfico Ambiental, mediante apoio do CPAmb ou de suas unidades subordinadas.",
+   "tags": [
+    "boe",
+    "registro",
+    "ambiental"
+   ]
+  },
+  {
+   "id": "boe-elab-013",
+   "subtema": "BOe — dispensa",
+   "artigo": "NI PM3-007/03/17 — Casos de dispensa",
+   "enunciado": "Assinale a situação em que é dispensável a elaboração do BOe, bastando a consignação no relatório de serviço operacional.",
+   "alternativas": [
+    "Dano patrimonial constatado em via pública pela guarnição",
+    "Duplicidade de chamadas, com cancelamento de um dos despachos",
+    "Infração penal de menor potencial ofensivo com autor identificado",
+    "Ocorrência registrada para fins de preservação de direitos das partes"
+   ],
+   "correta": 1,
+   "explicacao": "São dispensáveis nos casos sem infração penal: endereço inexistente, intervenção desnecessária, duplicidade de chamadas, encaminhamento de pessoas ou dados, trote com despacho, encaminhamento a outros órgãos públicos e a pronto-socorro ou hospital, sempre com consignação no RSO.",
+   "tags": [
+    "boe",
+    "dispensa"
+   ]
+  },
+  {
+   "id": "boe-elab-014",
+   "subtema": "BOe — dispensa",
+   "artigo": "NI PM3-007/03/17 — Trote",
+   "enunciado": "Constatado que o fato noticiado não existe, caracterizando trote com despacho,",
+   "alternativas": [
+    "elabora-se BOe por preservação de direitos em favor dos policiais empenhados",
+    "dispensa-se o BOe, devendo o COPOM empenhar-se em confirmar com o solicitante",
+    "elabora-se BOe de dano patrimonial pelo custo do deslocamento da viatura",
+    "encaminha-se o caso ao distrito policial para apuração do crime de falsa comunicação"
+   ],
+   "correta": 1,
+   "explicacao": "O trote com despacho integra o rol de dispensas, consignando-se o atendimento no RSO; a norma acrescenta que o COPOM deve empenhar-se em confirmar a informação com o solicitante.",
+   "tags": [
+    "boe",
+    "dispensa",
+    "trote"
+   ]
+  },
+  {
+   "id": "boe-elab-015",
+   "subtema": "BOe — dispensa",
+   "artigo": "NI PM3-007/03/17 — Encaminhamentos",
+   "enunciado": "Quando a unidade de serviço apenas encaminha pessoas ou dados ao distrito policial, sem indícios de infração penal,",
+   "alternativas": [
+    "é dispensada a elaboração do BOe, com consignação no relatório de serviço",
+    "é obrigatória a elaboração do BOe de preservação de direitos das partes",
+    "é obrigatória a elaboração do BOe com o registro da natureza indefinida",
+    "cabe à autoridade policial decidir sobre a necessidade de registro pela PM"
+   ],
+   "correta": 0,
+   "explicacao": "O encaminhamento de pessoas ou dados sem indícios de infração penal dispensa o BOe, tal como o encaminhamento a outros órgãos públicos e ao pronto-socorro quando não houver crime, bastando o registro no RSO.",
+   "tags": [
+    "boe",
+    "dispensa",
+    "encaminhamento"
+   ]
+  },
+  {
+   "id": "boe-elab-016",
+   "subtema": "BOe — condições de registro",
+   "artigo": "NI PM3-007/03/17 — Meios de registro",
+   "enunciado": "Em regra, o registro do BOe será feito por meio",
+   "alternativas": [
+    "de aplicativo instalado no telefone celular funcional do comandante da guarnição",
+    "do sistema web acessado nos computadores da sede da Companhia",
+    "do terminal móvel de dados ou do terminal portátil de dados",
+    "do sistema da Polícia Civil, mediante acesso concedido ao policial militar"
+   ],
+   "correta": 2,
+   "explicacao": "A regra é o registro pelo TMD ou TPD; nas instalações físicas o registro se dá por meio do SIOPM Web, exigindo-se que viaturas tenham prefixos cadastrados no SIPL e que os terminais estejam patrimoniados.",
+   "tags": [
+    "boe",
+    "condicoes",
+    "terminais"
+   ]
+  },
+  {
+   "id": "boe-elab-017",
+   "subtema": "BOe — condições de registro",
+   "artigo": "NI PM3-007/03/17 — Composição da US",
+   "enunciado": "Para que a unidade de serviço possa registrar o BOe, é imprescindível que",
+   "alternativas": [
+    "a viatura esteja equipada com impressora térmica em funcionamento",
+    "o comandante de companhia autorize individualmente cada registro realizado",
+    "o despachador do COPOM libere previamente o acesso ao sistema de registro",
+    "esteja virtualmente criada no SIOPM, com titular indicado, compondo o mapa-força"
+   ],
+   "correta": 3,
+   "explicacao": "A unidade de serviço precisa estar virtualmente criada no SIOPM, com registro feito pelo usuário do Serviço de Dia ou pelo próprio componente da US, indicando-se um titular para cada US, em conformidade com a escala, viatura, efetivo e território do turno.",
+   "tags": [
+    "boe",
+    "condicoes",
+    "us"
+   ]
+  },
+  {
+   "id": "boe-elab-018",
+   "subtema": "BOe — condições de registro",
+   "artigo": "NI PM3-007/03/17 — Sistemas auxiliares",
+   "enunciado": "Entre as condições para o registro das ocorrências em BOe, a norma exige que",
+   "alternativas": [
+    "o SIRH e o SIPL sejam atualizados pela própria OPM e as viaturas tenham prefixos cadastrados",
+    "o SIOPM seja atualizado exclusivamente pelo Centro de Operações responsável pela área",
+    "os terminais sejam cadastrados no sistema de recursos humanos de cada unidade",
+    "as viaturas sejam vistoriadas mensalmente pela Diretoria de Tecnologia da Informação"
+   ],
+   "correta": 0,
+   "explicacao": "A norma exige que o SIRH e o SIPL sejam atualizados pela própria OPM, que todas as viaturas tenham prefixos cadastrados no SIPL e que os terminais estejam patrimoniados, condições prévias ao acesso ao sistema BOe.",
+   "tags": [
+    "boe",
+    "condicoes",
+    "sistemas"
+   ]
+  },
+  {
+   "id": "boe-elab-019",
+   "subtema": "BOe — usuários",
+   "artigo": "NI PM3-007/03/17 — Usuário do Serviço de Dia",
+   "enunciado": "É responsável pela inclusão diária dos componentes da unidade de serviço no SIOPM, condição para o acesso e a elaboração do BOe,",
+   "alternativas": [
+    "o usuário validador, na figura do Comandante de Companhia",
+    "o usuário componente da unidade de serviço",
+    "o usuário despachador do Centro de Operações",
+    "o usuário do Serviço de Dia da unidade"
+   ],
+   "correta": 3,
+   "explicacao": "Ao usuário do Serviço de Dia cabe a composição da US no sistema, incluindo diariamente seus componentes, condição imprescindível para que a equipe acesse o sistema e elabore o BOe.",
+   "tags": [
+    "boe",
+    "usuarios",
+    "servico-de-dia"
+   ]
+  },
+  {
+   "id": "boe-elab-020",
+   "subtema": "BOe — usuários",
+   "artigo": "NI PM3-007/03/17 — Usuário componente da US",
+   "enunciado": "O usuário componente da unidade de serviço caracteriza-se por",
+   "alternativas": [
+    "realizar o empenho das unidades nos casos de inoperância dos terminais",
+    "ser o responsável pela validação do registro após o encerramento da ocorrência",
+    "controlar em tempo real a localização das unidades de serviço empenhadas",
+    "ser o policial que elabora o BOe, com acesso aos aplicativos do TMD ou TPD"
+   ],
+   "correta": 3,
+   "explicacao": "O componente da US é o policial que elabora o BOe e possui acesso aos aplicativos do TMD ou TPD; a validação cabe ao Comandante de Companhia e o controle em tempo real da localização, ao usuário despachador.",
+   "tags": [
+    "boe",
+    "usuarios",
+    "componente"
+   ]
+  },
+  {
+   "id": "boe-elab-021",
+   "subtema": "BOe — usuários",
+   "artigo": "NI PM3-007/03/17 — Usuário despachador",
+   "enunciado": "Ao usuário despachador do Centro de Operações compete, entre outras atribuições,",
+   "alternativas": [
+    "controlar em tempo real a localização das US e empenhá-las quando necessário",
+    "validar o BOe elaborado pela unidade de serviço ao término da ocorrência",
+    "complementar o BOe disponibilizando-o às partes interessadas na ocorrência",
+    "incluir diariamente os componentes das unidades de serviço no sistema"
+   ],
+   "correta": 0,
+   "explicacao": "O despachador tem acesso aos sistemas inteligentes e atribuição de controlar em tempo real a localização das US, verificar o recebimento dos dados iniciais e realizar o empenho nos casos de inoperância do TMD ou TPD, colaborando com o suporte de dados para a elaboração final do BOe.",
+   "tags": [
+    "boe",
+    "usuarios",
+    "despachador"
+   ]
+  },
+  {
+   "id": "boe-elab-022",
+   "subtema": "BOe — usuários",
+   "artigo": "NI PM3-007/03/17 — Usuário validador",
+   "enunciado": "O usuário validador do BOe é",
+   "alternativas": [
+    "o encarregado da unidade de serviço, que finaliza o boletim no sistema",
+    "o Comandante de Companhia PM, que valida o registro após o encerramento",
+    "o Comandante do Batalhão, que homologa os registros de sua área",
+    "o Chefe de Operações do COPOM, que confere os dados lançados pela equipe"
+   ],
+   "correta": 1,
+   "explicacao": "A validação é ato do Comandante de Companhia, que também pode complementar o BOe e disponibilizá-lo às partes interessadas, tendo acesso ao SIOPM Web, ao COPOM On-line e aos aplicativos de replay, rastro e relatórios.",
+   "tags": [
+    "boe",
+    "usuarios",
+    "validador"
+   ]
+  },
+  {
+   "id": "boe-elab-023",
+   "subtema": "BOe — validação",
+   "artigo": "NI PM3-007/03/17 — Conceito de validação",
+   "enunciado": "A validação do BOe consiste no ato de anuência do Comandante de Companhia sobre as informações e dados registrados e deve ocorrer",
+   "alternativas": [
+    "até quarenta e oito horas subsequentes ao registro da ocorrência",
+    "até o primeiro dia útil subsequente ao registro da ocorrência",
+    "no prazo de cinco dias úteis contados do encerramento da ocorrência",
+    "imediatamente após o encerramento da ocorrência pela unidade de serviço"
+   ],
+   "correta": 1,
+   "explicacao": "A validação deve ocorrer até o primeiro dia útil subsequente ao registro; com ela, as partes passam a acessar o BOe por meio do número de token disponibilizado.",
+   "tags": [
+    "boe",
+    "validacao",
+    "prazo"
+   ]
+  },
+  {
+   "id": "boe-elab-024",
+   "subtema": "BOe — validação",
+   "artigo": "NI PM3-007/03/17 — Efeitos da validação",
+   "enunciado": "Encerrada a ocorrência e validado o BOe pelo Comandante de Companhia, a consequência imediata para as partes envolvidas é que",
+   "alternativas": [
+    "o policial elaborador fica autorizado a alterar os dados originalmente lançados",
+    "o registro é automaticamente encaminhado ao juízo criminal competente",
+    "a ocorrência é considerada encerrada no sistema de despacho do COPOM",
+    "as partes passam a acessar o documento por meio do número de token"
+   ],
+   "correta": 3,
+   "explicacao": "Validado o BOe, as partes interessadas acessam o documento por meio do número de token; o registro original do componente da US, contudo, em hipótese alguma será modificado pelo usuário validador.",
+   "tags": [
+    "boe",
+    "validacao",
+    "token"
+   ]
+  },
+  {
+   "id": "boe-elab-025",
+   "subtema": "BOe — validação",
+   "artigo": "NI PM3-007/03/17 — Registro original",
+   "enunciado": "Constatada não conformidade no registro elaborado pela unidade de serviço, o usuário validador",
+   "alternativas": [
+    "não modifica o registro original, devendo utilizar o BOe complementar",
+    "altera diretamente o registro original, consignando o motivo no sistema",
+    "devolve o registro ao policial elaborador para correção no prazo de 24 horas",
+    "anula o registro e determina a elaboração de novo boletim pela mesma equipe"
+   ],
+   "correta": 0,
+   "explicacao": "O registro original do usuário componente da US em hipótese alguma será modificado pelo usuário validador, que deve valer-se do BOe complementar, destinado exclusivamente à inclusão e correção de dados ou informações registrados originalmente.",
+   "tags": [
+    "boe",
+    "validacao",
+    "complementar"
+   ]
+  },
+  {
+   "id": "boe-elab-026",
+   "subtema": "BOe — validação",
+   "artigo": "NI PM3-007/03/17 — Transferência da validação",
+   "enunciado": "A validação do BOe somente pode ser transferida a outro escalão de supervisão ou comandamento",
+   "alternativas": [
+    "por iniciativa do próprio Comandante de Companhia, mediante delegação formal",
+    "por deliberação expressa do Grande Comando, aplicando-se a todas as OPM subordinadas",
+    "por decisão do Comandante de Batalhão, restrita à respectiva unidade territorial",
+    "por autorização do Coordenador de Operações da Polícia Militar em cada caso"
+   ],
+   "correta": 1,
+   "explicacao": "A transferência exige deliberação expressa do Grande Comando correspondente, regulada em documento de Estado-Maior, com ciência ao Coord Op PM, e deve alcançar todas as OPM subordinadas, em observância ao princípio da uniformidade.",
+   "tags": [
+    "boe",
+    "validacao",
+    "transferencia"
+   ]
+  },
+  {
+   "id": "boe-elab-027",
+   "subtema": "BOe — complemento",
+   "artigo": "NI PM3-007/03/17 — Complemento e retificação",
+   "enunciado": "Distinguem-se o complemento e a retificação de informações no BOe porque",
+   "alternativas": [
+    "aquele depende de pedido das partes e esta, de determinação judicial",
+    "aquele corrige erro material e esta acrescenta dados não registrados na origem",
+    "aquele é feito pelo policial elaborador e esta, pelo despachador do COPOM",
+    "aquele preenche lacuna não registrada e esta corrige não conformidade do registro"
+   ],
+   "correta": 3,
+   "explicacao": "No complemento, o usuário validador verifica lacuna não registrada originalmente pelo usuário da US; na retificação, corrige não conformidade constatada no registro, sempre por meio do BOe complementar.",
+   "tags": [
+    "boe",
+    "complemento",
+    "retificacao"
+   ]
+  },
+  {
+   "id": "boe-elab-028",
+   "subtema": "BOe — complemento",
+   "artigo": "NI PM3-007/03/17 — Iniciativa do pedido",
+   "enunciado": "O pedido de complemento do BOe pode partir das partes interessadas ou do próprio policial elaborador, cabendo a decisão final",
+   "alternativas": [
+    "ao Comandante de Batalhão, mediante despacho no expediente correspondente",
+    "ao Comandante de Companhia, na condição de usuário validador do registro",
+    "ao usuário despachador do Centro de Operações que acompanhou a ocorrência",
+    "ao Coordenador de Operações do Batalhão responsável pela área territorial"
+   ],
+   "correta": 1,
+   "explicacao": "A decisão final cabe ao Comandante de Companhia, preferencialmente instruindo-se o pedido com cópia de documentos comprobatórios, seja o pedido das partes interessadas, seja do próprio patrulheiro.",
+   "tags": [
+    "boe",
+    "complemento",
+    "decisao"
+   ]
+  },
+  {
+   "id": "boe-elab-029",
+   "subtema": "BOe — complemento",
+   "artigo": "NI PM3-007/03/17 — Limites do complemento",
+   "enunciado": "Quanto aos complementos ao BOe, é correto afirmar que",
+   "alternativas": [
+    "poderão ser efetuados sobre qualquer BOe, inclusive sobre outro BOe complementar",
+    "só poderão ser efetuados em relação à ocorrência original, e não a outro complementar",
+    "deverão ser registrados no BOe original, vedada a elaboração de novo boletim",
+    "somente poderão ser realizados no ato da validação do registro original"
+   ],
+   "correta": 1,
+   "explicacao": "Os complementos só podem ser efetuados em relação à ocorrência original, não permitindo o sistema complemento a outro BOe complementar; o registro original nunca é modificado, pois o complementar presta-se exclusivamente à inclusão e correção de dados.",
+   "tags": [
+    "boe",
+    "complemento",
+    "limites"
+   ]
+  },
+  {
+   "id": "boe-elab-030",
+   "subtema": "BOe — complemento",
+   "artigo": "NI PM3-007/03/17 — Erros de português",
+   "enunciado": "Constatado erro de português no BOe original, o Comandante de Companhia deverá",
+   "alternativas": [
+    "corrigi-lo no campo despacho, disponível na versão eletrônica do BOe original",
+    "elaborar BOe complementar exclusivamente para a correção gramatical",
+    "determinar que o policial elaborador refaça integralmente o registro",
+    "anular o registro e orientar as partes a comparecerem à unidade policial"
+   ],
+   "correta": 0,
+   "explicacao": "Erros de português são corrigidos pelo Comandante de Companhia no campo despacho da versão eletrônica do BOe original, pois o BOe complementar destina-se exclusivamente à inclusão e correção de dados ou informações essenciais registrados originalmente.",
+   "tags": [
+    "boe",
+    "complemento",
+    "despacho"
+   ]
+  },
+  {
+   "id": "boe-elab-031",
+   "subtema": "BOe — complemento",
+   "artigo": "NI PM3-007/03/17 — Justificativa das alterações",
+   "enunciado": "As razões que motivaram a complementação ou a retificação pelo usuário validador",
+   "alternativas": [
+    "dispensam justificativa, por se tratar de ato de anuência do comandante",
+    "deverão ser registradas em expediente reservado arquivado na Companhia",
+    "serão lançadas no relatório de serviço operacional da unidade elaboradora",
+    "deverão ser descritas no Relatório da Autoridade Policial, após o histórico"
+   ],
+   "correta": 3,
+   "explicacao": "As razões motivadoras devem constar do Relatório da Autoridade Policial, logo após o histórico da ocorrência, especificando-se o que foi alterado e em qual formulário a modificação foi processada.",
+   "tags": [
+    "boe",
+    "complemento",
+    "justificativa"
+   ]
+  },
+  {
+   "id": "boe-elab-032",
+   "subtema": "BOe — complemento",
+   "artigo": "NI PM3-007/03/17 — Identificação dos complementos",
+   "enunciado": "Os BOe complementares elaborados a partir de uma ocorrência original",
+   "alternativas": [
+    "são encaminhados à Corregedoria para controle das alterações realizadas",
+    "devem ser anotados manualmente pelo validador no corpo do registro original",
+    "permanecem desvinculados do registro original, para preservar sua integridade",
+    "são elencados automaticamente em campo específico, com número, data e token"
+   ],
+   "correta": 3,
+   "explicacao": "O sistema elenca automaticamente todos os BOe complementares em campo específico do Relatório da Autoridade Policial, para fácil identificação, constando número, data de elaboração e número de token disponibilizado ao solicitante.",
+   "tags": [
+    "boe",
+    "complemento",
+    "identificacao"
+   ]
+  },
+  {
+   "id": "boe-elab-033",
+   "subtema": "BOe — complemento",
+   "artigo": "NI PM3-007/03/17 — Indisponibilidade e aditamento",
+   "enunciado": "Na indisponibilidade do sistema, os registros físicos de aditamento realizados",
+   "alternativas": [
+    "deverão ser digitalizados e, quando possível, incorporados ao SIOPM como anexos",
+    "substituirão definitivamente o registro eletrônico da ocorrência complementada",
+    "serão arquivados apenas fisicamente na sede da Companhia responsável",
+    "serão encaminhados ao distrito policial para inclusão no inquérito instaurado"
+   ],
+   "correta": 0,
+   "explicacao": "Os registros físicos de aditamento devem ser digitalizados e, havendo possibilidade, incorporados ao SIOPM no formato de anexos, ressaltando-se que os BOe complementares só podem ser elaborados eletronicamente, pela necessidade de localizar os dados originais.",
+   "tags": [
+    "boe",
+    "complemento",
+    "indisponibilidade"
+   ]
+  },
+  {
+   "id": "boe-elab-034",
+   "subtema": "BOe — trânsito",
+   "artigo": "NI PM3-007/03/17 — Registro por partes distintas",
+   "enunciado": "Em ocorrências de trânsito, as partes podem registrar individualmente e a qualquer tempo, inclusive em OPM distintas, razão pela qual o policial elaborador deve",
+   "alternativas": [
+    "elaborar sempre novo BOe, ainda que exista registro anterior do mesmo evento",
+    "aguardar o comparecimento de todas as partes antes de iniciar o registro",
+    "encaminhar a parte à unidade que primeiro registrou a ocorrência do fato",
+    "pesquisar previamente no SIOPM para verificar se já houve registro do mesmo fato"
+   ],
+   "correta": 3,
+   "explicacao": "A pesquisa prévia no SIOPM, por placas, local, data, horário e dados das partes, destina-se a evitar duplicidade de registro de uma mesma ocorrência; não obtida informação sobre registro anterior, o policial procede à íntegra do registro como se fosse a primeira notícia.",
+   "tags": [
+    "boe",
+    "transito",
+    "pesquisa"
+   ]
+  },
+  {
+   "id": "boe-elab-035",
+   "subtema": "BOe — trânsito",
+   "artigo": "NI PM3-007/03/17 — Registro já existente",
+   "enunciado": "Verificando o policial militar que já existe BOe registrado sobre a mesma ocorrência de trânsito, deverá",
+   "alternativas": [
+    "elaborar boletim manuscrito, por impossibilidade de novo registro eletrônico",
+    "elaborar novo BOe, para preservar a versão da parte que o procurou",
+    "orientar a parte a procurar a unidade que elaborou o registro original",
+    "complementar o registro existente com formulários físicos das folhas a complementar"
+   ],
+   "correta": 3,
+   "explicacao": "Havendo registro anterior, o policial não elabora novo BOe, mas complementa o existente com formulários físicos referentes às folhas a serem complementadas, encaminhando os impressos ao seu Comandante de Companhia.",
+   "tags": [
+    "boe",
+    "transito",
+    "complemento"
+   ]
+  },
+  {
+   "id": "boe-elab-036",
+   "subtema": "BOe — trânsito",
+   "artigo": "NI PM3-007/03/17 — Fluxo do complemento",
+   "enunciado": "Os formulários físicos de complemento elaborados por unidade diversa da que registrou a ocorrência original serão",
+   "alternativas": [
+    "remetidos ao distrito policial da área, para juntada ao procedimento instaurado",
+    "encaminhados diretamente pelo policial elaborador ao Centro de Operações da área",
+    "arquivados na unidade que os elaborou, com comunicação ao Batalhão de origem",
+    "enviados pelo Cmt Cia do complementador ao Cmt Cia onde a ocorrência foi elaborada"
+   ],
+   "correta": 3,
+   "explicacao": "O policial encaminha os impressos ao seu Comandante de Companhia, que os envia, preferencialmente por meio digital, ao Comandante de Companhia onde a ocorrência original foi elaborada, a quem cabe deliberar sobre o complemento a ser processado.",
+   "tags": [
+    "boe",
+    "transito",
+    "fluxo"
+   ]
+  },
+  {
+   "id": "boe-elab-037",
+   "subtema": "BOe — trânsito",
+   "artigo": "NI PM3-007/03/17 — Remoção de veículos",
+   "enunciado": "As informações complementares relativas à remoção ou ao recolhimento de veículos, inclusive o número do respectivo comprovante,",
+   "alternativas": [
+    "constarão apenas do relatório de serviço operacional da guarnição",
+    "serão lançadas exclusivamente no sistema de pátios da unidade de trânsito",
+    "deverão ser discriminadas no Relatório da Autoridade Policial do registro",
+    "serão informadas verbalmente ao proprietário, dispensado registro formal"
+   ],
+   "correta": 2,
+   "explicacao": "A norma determina que as informações sobre remoção ou recolhimento de veículos, incluindo o número do comprovante de remoção e recolhimento, sejam discriminadas no Relatório da Autoridade Policial.",
+   "tags": [
+    "boe",
+    "transito",
+    "remocao"
+   ]
+  },
+  {
+   "id": "boe-elab-038",
+   "subtema": "BOe — indisponibilidade",
+   "artigo": "NI PM3-007/03/17 — Formulários essenciais",
+   "enunciado": "Na indisponibilidade do SIOPM, a unidade de serviço preencherá formulários impressos, sendo considerados essenciais",
+   "alternativas": [
+    "a qualificação dos envolvidos, o croqui do local e o relatório de serviço operacional",
+    "a folha de rosto, o anexo de apreensão e o registro fotográfico da ocorrência",
+    "a folha de rosto, a qualificação dos envolvidos e o relatório da autoridade policial",
+    "o relatório da autoridade policial, o auto de exibição e apreensão e a nota de culpa"
+   ],
+   "correta": 2,
+   "explicacao": "São essenciais a folha de rosto, a qualificação dos envolvidos e o relatório da autoridade policial, utilizando-se apenas os anexos cabíveis, como o de apreensão quando houver objetos apreendidos.",
+   "tags": [
+    "boe",
+    "indisponibilidade",
+    "formularios"
+   ]
+  },
+  {
+   "id": "boe-elab-039",
+   "subtema": "BOe — indisponibilidade",
+   "artigo": "NI PM3-007/03/17 — Danos em veículos",
+   "enunciado": "Estando o sistema tecnológico indisponível, o registro da classificação de danos ou avarias em veículos",
+   "alternativas": [
+    "será realizado posteriormente pelo Comandante de Companhia na validação",
+    "será dispensado, bastando a descrição genérica no relatório da autoridade policial",
+    "será feito em formulários físicos vinculados ao boletim, arquivados na sede da Cia PM",
+    "dependerá de perícia técnica a ser solicitada à Polícia Técnico-Científica"
+   ],
+   "correta": 2,
+   "explicacao": "Os registros de classificação de danos ou avarias em veículos são feitos em formulários físicos vinculados à geração do boletim, arquivados em formato físico e digital na sede da Companhia PM.",
+   "tags": [
+    "boe",
+    "indisponibilidade",
+    "avarias"
+   ]
+  },
+  {
+   "id": "boe-elab-040",
+   "subtema": "BOe — indisponibilidade",
+   "artigo": "NI PM3-007/03/17 — Falha na inserção de dados",
+   "enunciado": "Não sendo possível inserir dados no TMD ou TPD, a unidade de serviço deve reiniciar a aplicação e,",
+   "alternativas": [
+    "solicitar ao despachador do COPOM que lance os dados faltantes no sistema",
+    "se o registro foi feito off-line, aguardar a sincronização automática do sistema",
+    "em qualquer hipótese, elaborar boletim manuscrito para posterior digitalização",
+    "se o registro foi feito off-line, inserir novamente todos os dados e informações"
+   ],
+   "correta": 3,
+   "explicacao": "Se houve conexão com o servidor no momento da elaboração, inserem-se apenas os dados faltantes; se o registro foi feito sem conexão, todos os dados e informações devem ser inseridos novamente.",
+   "tags": [
+    "boe",
+    "indisponibilidade",
+    "reinicio"
+   ]
+  },
+  {
+   "id": "boe-elab-041",
+   "subtema": "BOe — indisponibilidade",
+   "artigo": "NI PM3-007/03/17 — Inconsistências",
+   "enunciado": "Havendo indisponibilidade ou inconsistência no lançamento de informações, como nacionalidade das partes ou categoria do veículo, a norma determina",
+   "alternativas": [
+    "lançar informação aproximada, dispensada qualquer observação complementar",
+    "suspender o registro até o restabelecimento integral do sistema informatizado",
+    "discriminar o correto preenchimento no Relatório da Autoridade Policial",
+    "encaminhar as partes à sede da Companhia para novo registro presencial"
+   ],
+   "correta": 2,
+   "explicacao": "A norma determina discriminar o correto preenchimento no Relatório da Autoridade Policial, contatando os serviços de atendimento 0800 para suporte técnico.",
+   "tags": [
+    "boe",
+    "indisponibilidade",
+    "inconsistencia"
+   ]
+  },
+  {
+   "id": "boe-elab-042",
+   "subtema": "BOe — encerramento",
+   "artigo": "NI PM3-007/03/17 — Inserção de dados",
+   "enunciado": "Nas ocorrências despachadas via TMD ou TPD, a inserção de dados e informações no BOe é atribuição",
+   "alternativas": [
+    "compartilhada entre a unidade de serviço e o despachador do COPOM",
+    "direta e exclusiva dos integrantes da unidade de serviço atendente",
+    "do despachador do COPOM, cabendo à unidade apenas confirmar os dados",
+    "do usuário validador, que consolida as informações transmitidas por rádio"
+   ],
+   "correta": 1,
+   "explicacao": "Enquanto a tecnologia não for plenamente implantada, toda e qualquer inserção de dados é atribuição direta e exclusiva dos integrantes da US atendente; informações do despachador são transmitidas via rádio e inseridas pela própria equipe.",
+   "tags": [
+    "boe",
+    "encerramento",
+    "insercao"
+   ]
+  },
+  {
+   "id": "boe-elab-043",
+   "subtema": "BOe — encerramento",
+   "artigo": "NI PM3-007/03/17 — Encerramento pela US",
+   "enunciado": "Quanto ao encerramento da ocorrência cujo BOe foi gerado via TMD ou TPD,",
+   "alternativas": [
+    "o encerramento é sempre realizado pelo Centro de Operações responsável pela área",
+    "os próprios integrantes da unidade de serviço o realizam, com apoio do 0800",
+    "o encerramento depende de prévia validação pelo Comandante de Companhia",
+    "o encerramento é feito pelo Serviço de Dia da unidade ao final do turno"
+   ],
+   "correta": 1,
+   "explicacao": "Os próprios integrantes da US encerram a ocorrência, recorrendo ao serviço 0800 em caso de dificuldade; complementações pelo usuário despachador somente são possíveis após o encerramento, pelo módulo de auditoria do SIOPM Web.",
+   "tags": [
+    "boe",
+    "encerramento",
+    "us"
+   ]
+  },
+  {
+   "id": "boe-elab-044",
+   "subtema": "BOe — encerramento",
+   "artigo": "NI PM3-007/03/17 — Questionamento do despachador",
+   "enunciado": "Ao ser solicitado o encerramento da ocorrência pela unidade de serviço, o usuário despachador deverá questionar sobre a elaboração do BOe e, em caso negativo,",
+   "alternativas": [
+    "encaminhar a ocorrência ao Comandante de Companhia para deliberação",
+    "determinar que a US elabore o registro eletrônico antes do encerramento",
+    "encerrar a ocorrência pelo Centro de Operações, cabendo à US lançar no RSO",
+    "manter a ocorrência em aberto até a confirmação do registro pela unidade"
+   ],
+   "correta": 2,
+   "explicacao": "Em caso negativo, a ocorrência é encerrada pelo próprio Centro de Operações e a US lança as informações e dados no relatório de serviço operacional; em caso positivo, o despachador orienta que o encerramento se dê pela própria equipe, via terminal.",
+   "tags": [
+    "boe",
+    "encerramento",
+    "despachador"
+   ]
+  },
+  {
+   "id": "boe-elab-045",
+   "subtema": "BOe — comunicações",
+   "artigo": "NI PM3-007/03/17 — Confirmação de recebimento",
+   "enunciado": "As ocorrências transmitidas via TMD ou TPD às unidades de serviço terão seu recebimento confirmado",
+   "alternativas": [
+    "via rede-rádio, pelo usuário despachador do Centro de Operações",
+    "por meio do próprio terminal, com registro eletrônico automático",
+    "por mensagem de texto enviada ao telefone funcional do encarregado",
+    "no relatório de serviço operacional, ao término do turno de serviço"
+   ],
+   "correta": 0,
+   "explicacao": "A confirmação do recebimento é feita via rede-rádio pelo usuário despachador do COPOM; ocorrências que ofereçam risco potencial à integridade física dos policiais são transmitidas via rede-rádio a todos os policiais vinculados.",
+   "tags": [
+    "boe",
+    "comunicacoes",
+    "confirmacao"
+   ]
+  },
+  {
+   "id": "boe-elab-046",
+   "subtema": "BOe — comunicações",
+   "artigo": "NI PM3-007/03/17 — Ocorrências de risco",
+   "enunciado": "As ocorrências que ofereçam risco potencial à integridade física dos policiais militares serão transmitidas",
+   "alternativas": [
+    "exclusivamente pelos terminais de dados, para preservar o sigilo tático",
+    "via rede-rádio a todos os policiais militares vinculados à ocorrência",
+    "por mensagem reservada ao comandante da força de patrulha da área",
+    "por meio do sistema de mensagens instantâneas da unidade operacional"
+   ],
+   "correta": 1,
+   "explicacao": "A norma determina a transmissão via rede-rádio a todos os policiais vinculados nessas ocorrências, providência que assegura conhecimento simultâneo do risco por toda a equipe empenhada.",
+   "tags": [
+    "boe",
+    "comunicacoes",
+    "risco"
+   ]
+  },
+  {
+   "id": "boe-elab-047",
+   "subtema": "BOe — comunicação à PC",
+   "artigo": "Res. SSP-57/15 — Formas de comunicação",
+   "enunciado": "Entre as formas de comunicação de crimes à Polícia Civil, a comunicação prévia caracteriza-se por",
+   "alternativas": [
+    "consistir no relato direto ao delegado que comparece ao local dos fatos",
+    "ser feita de imediato, por mensagem, à autoridade policial competente",
+    "consistir no envio do boletim ao distrito policial da área dos fatos",
+    "exigir a apresentação pessoal da ocorrência no distrito policial"
+   ],
+   "correta": 1,
+   "explicacao": "A comunicação prévia é a imediata, feita por mensagem; a verbal é o relato direto ao delegado ou policial civil que comparece ao local; a formal é o envio do boletim ao distrito policial; e a pessoal, a apresentação da ocorrência no distrito.",
+   "tags": [
+    "boe",
+    "comunicacao-pc",
+    "modalidades"
+   ]
+  },
+  {
+   "id": "boe-elab-048",
+   "subtema": "BOe — comunicação à PC",
+   "artigo": "Res. SSP-57/15 — Comunicação formal",
+   "enunciado": "A comunicação formal das ocorrências de mera transmissão de dados dar-se-á pelo envio do BOe, via SIOPM, em conexão com os sistemas da Polícia Civil,",
+   "alternativas": [
+    "no prazo de vinte e quatro horas, com apresentação pessoal no distrito policial",
+    "até o primeiro dia útil posterior aos fatos, sem apresentação pessoal da ocorrência",
+    "até o quinto dia útil posterior aos fatos, mediante ofício do Comandante da Companhia",
+    "imediatamente após o registro, com confirmação do recebimento pelo delegado"
+   ],
+   "correta": 1,
+   "explicacao": "O envio é feito preferencialmente pelo sistema de registro digital de ocorrências, até o primeiro dia útil posterior aos fatos, sem necessidade de apresentação pessoal; não havendo conexão, o BOe é impresso e encaminhado ao distrito policial por ofício, no mesmo prazo.",
+   "tags": [
+    "boe",
+    "comunicacao-pc",
+    "formal"
+   ]
+  },
+  {
+   "id": "boe-elab-049",
+   "subtema": "BOe — comunicação à PC",
+   "artigo": "Res. SSP-57/15 — Mera transmissão de dados",
+   "enunciado": "Consideram-se ocorrências criminais de mera transmissão de dados aquelas que",
+   "alternativas": [
+    "envolvem crimes de mera conduta, sem resultado naturalístico",
+    "não demandam apresentação pessoal ao delegado de polícia",
+    "são registradas exclusivamente pela delegacia eletrônica pela vítima",
+    "exigem a apresentação imediata das partes à autoridade policial"
+   ],
+   "correta": 1,
+   "explicacao": "São as que não demandam apresentação pessoal ao delegado, como as registráveis em delegacia eletrônica, roubo e furto de veículos sem ligação com outros crimes graves, ameaça, crimes contra a honra e desaparecimento.",
+   "tags": [
+    "boe",
+    "comunicacao-pc",
+    "transmissao"
+   ]
+  },
+  {
+   "id": "boe-elab-050",
+   "subtema": "BOe — comunicação à PC",
+   "artigo": "Res. SSP-57/15 — Notificação de comparecimento",
+   "enunciado": "A notificação de comparecimento elaborada no local dos fatos e entregue às partes informa",
+   "alternativas": [
+    "a obrigatoriedade de comparecer ao DP na ação pública incondicionada e a opção na condicionada",
+    "a obrigatoriedade de comparecimento ao distrito policial em qualquer espécie de crime",
+    "a dispensa de comparecimento ao distrito policial em todas as hipóteses",
+    "a necessidade de agendamento prévio junto à delegacia da área dos fatos"
+   ],
+   "correta": 0,
+   "explicacao": "A NOC notifica a obrigatoriedade de comparecimento ao distrito policial nos crimes de ação pública incondicionada e a opção de comparecer nos crimes de ação pública condicionada à representação.",
+   "tags": [
+    "boe",
+    "comunicacao-pc",
+    "noc"
+   ]
+  },
+  {
+   "id": "boe-elab-051",
+   "subtema": "BOe — comunicação à PC",
+   "artigo": "Res. SSP-57/15 — Emissão da NOC",
+   "enunciado": "Não dispondo a viatura de impressora térmica para emissão da notificação de comparecimento, a unidade de serviço deverá",
+   "alternativas": [
+    "solicitar ao Centro de Operações o envio da notificação por meio eletrônico",
+    "encaminhar as partes ao distrito policial para receber a notificação impressa",
+    "dispensar a notificação, consignando a impossibilidade no relatório da autoridade",
+    "preencher o formulário físico, entregá-lo às partes e arquivar o recibo na Cia PM"
+   ],
+   "correta": 3,
+   "explicacao": "Sem impressora térmica, preenche-se o formulário físico da NOC, entregando-o às partes e arquivando o recibo, em formato físico e digital, na sede da Companhia PM.",
+   "tags": [
+    "boe",
+    "comunicacao-pc",
+    "noc"
+   ]
+  },
+  {
+   "id": "boe-elab-052",
+   "subtema": "BOe — anexos",
+   "artigo": "NI PM3-007/03/17 — Fotografias",
+   "enunciado": "Quanto à anexação de fotografias ao BOe, a norma admite imagens de veículos, objetos e locais, especialmente em ocorrências de trânsito e ambientais, vedando",
+   "alternativas": [
+    "a anexação de imagens captadas por terceiros presentes no local dos fatos",
+    "a anexação de qualquer imagem sem autorização do Comandante de Companhia",
+    "a anexação de fotos de pessoas e o comprometimento do local de crime",
+    "a anexação de imagens em ocorrências de natureza ambiental, por exigirem perícia"
+   ],
+   "correta": 2,
+   "explicacao": "As fotos não podem comprometer o local de crime e, em razão da preservação de direitos da pessoa humana, como integridade moral, vida privada, intimidade, imagem e direitos de crianças e adolescentes, não podem ser anexadas fotos de pessoas.",
+   "tags": [
+    "boe",
+    "anexos",
+    "fotos"
+   ]
+  },
+  {
+   "id": "boe-elab-053",
+   "subtema": "BOe — anexos",
+   "artigo": "NI PM3-007/03/17 — Croqui",
+   "enunciado": "Quando as fotografias não representarem graficamente a totalidade do local, especialmente em acidentes de trânsito, admite-se",
+   "alternativas": [
+    "solicitar perícia técnica para elaboração de levantamento topográfico do local",
+    "anexar croqui confeccionado pela equipe, registrado fotograficamente e juntado ao BOe",
+    "descrever o local apenas textualmente, sendo vedada a juntada de croqui",
+    "encaminhar o caso ao setor de trânsito da unidade para elaboração do desenho"
+   ],
+   "correta": 1,
+   "explicacao": "A norma admite anexar croqui do local, confeccionado pelo próprio usuário componente da US, seguido do registro fotográfico desse croqui, igualmente anexado ao BOe.",
+   "tags": [
+    "boe",
+    "anexos",
+    "croqui"
+   ]
+  },
+  {
+   "id": "boe-elab-054",
+   "subtema": "BOe — disposições gerais",
+   "artigo": "NI PM3-007/03/17 — Outros formulários",
+   "enunciado": "Encerrada a ocorrência e registrado o BOe pela unidade de serviço, quanto aos demais documentos da atividade operacional, é correto afirmar que a elaboração do BOe",
+   "alternativas": [
+    "substitui integralmente todos os formulários da atividade operacional da unidade",
+    "não isenta a unidade do preenchimento de outros formulários da atividade operacional",
+    "dispensa o relatório de serviço operacional nas ocorrências efetivamente registradas",
+    "afasta a necessidade de preenchimento dos anexos específicos de cada ocorrência"
+   ],
+   "correta": 1,
+   "explicacao": "A norma é expressa ao afirmar que a elaboração do BOe não isenta a US do preenchimento de outros formulários decorrentes da atividade operacional, como o relatório de serviço operacional e demais registros aplicáveis.",
+   "tags": [
+    "boe",
+    "disposicoes",
+    "formularios"
+   ]
+  },
+  {
+   "id": "boe-elab-055",
+   "subtema": "Assunção de comando — estrutura",
+   "artigo": "NI PM3-001/02/17 — Classificação das medidas",
+   "enunciado": "As medidas indicadas na assunção de comando de OPM territorial são classificadas, quanto à natureza, em ações",
+   "alternativas": [
+    "de curto prazo, de médio prazo e de longo prazo, conforme a urgência",
+    "administrativas, disciplinares, logísticas e de comunicação social",
+    "preventivas, repressivas, educativas e de responsabilidade social",
+    "administrativas, operacionais, de iniciativa individual e junto à comunidade"
+   ],
+   "correta": 3,
+   "explicacao": "A norma organiza as medidas em ações de natureza administrativa, operacional, de iniciativa individual e junto à comunidade, subdividindo as três primeiras em curto e médio prazo.",
+   "tags": [
+    "assuncao",
+    "estrutura",
+    "classificacao"
+   ]
+  },
+  {
+   "id": "boe-elab-056",
+   "subtema": "Assunção de comando — estrutura",
+   "artigo": "NI PM3-001/02/17 — Prazos",
+   "enunciado": "Na sistemática da Nota de Instrução, consideram-se ações de curto prazo aquelas a serem adotadas",
+   "alternativas": [
+    "em até trinta dias da assunção do comando da subunidade",
+    "em até quinze dias da assunção do comando da subunidade",
+    "em até sessenta dias da assunção do comando da subunidade",
+    "durante todo o primeiro semestre de exercício do comando"
+   ],
+   "correta": 0,
+   "explicacao": "As ações de curto prazo são as de até trinta dias e as de médio prazo, as posteriores a trinta dias, classificação que se aplica às ações administrativas, operacionais e de iniciativa individual.",
+   "tags": [
+    "assuncao",
+    "estrutura",
+    "prazos"
+   ]
+  },
+  {
+   "id": "boe-elab-057",
+   "subtema": "Assunção de comando — estrutura",
+   "artigo": "NI PM3-001/02/17 — Intermediários",
+   "enunciado": "As ações previstas na Nota de Instrução são executadas diretamente pelo Comandante de Companhia ou por intermédio",
+   "alternativas": [
+    "do comandante de força de patrulha, do comandante de grupo de patrulha e do serviço de dia",
+    "do encarregado administrativo, do auxiliar de material e do auxiliar de justiça e disciplina",
+    "do coordenador de operações do Batalhão e do chefe do gabinete técnico do Comando",
+    "do oficial de comunicação social e do oficial de inteligência da unidade territorial"
+   ],
+   "correta": 1,
+   "explicacao": "As ações são diretas ou realizadas por intermédio do encarregado administrativo e auxiliares de estatística, operações e boletim de ocorrência, do auxiliar de material e do auxiliar de justiça e disciplina, conforme a natureza da medida.",
+   "tags": [
+    "assuncao",
+    "estrutura",
+    "intermediarios"
+   ]
+  },
+  {
+   "id": "boe-elab-058",
+   "subtema": "Assunção de comando — ações diretas",
+   "artigo": "NI PM3-001/02/17 — Passagem do serviço",
+   "enunciado": "Entre as ações administrativas diretas de curto prazo, a norma determina que a efetiva passagem do serviço com o comandante anterior ocorra no prazo máximo de",
+   "alternativas": [
+    "cinco dias",
+    "três dias",
+    "dez dias",
+    "trinta dias"
+   ],
+   "correta": 1,
+   "explicacao": "A norma fixa prazo máximo de três dias para a efetiva passagem do serviço com o Comandante de Companhia anterior, medida que inaugura o rol de ações administrativas de curto prazo.",
+   "tags": [
+    "assuncao",
+    "acoes-diretas",
+    "passagem"
+   ]
+  },
+  {
+   "id": "boe-elab-059",
+   "subtema": "Assunção de comando — ações diretas",
+   "artigo": "NI PM3-001/02/17 — Reunião com o efetivo",
+   "enunciado": "Constitui ação administrativa direta de curto prazo do novo comandante",
+   "alternativas": [
+    "reunir-se com o efetivo administrativo para propor ajustes e apresentar sua linha de comando",
+    "reunir-se mensalmente com todo o efetivo para expor os índices criminais da subárea",
+    "realizar visitas de apresentação às autoridades civis e militares da área de atuação",
+    "convocar os policiais do PROERD para avaliação do desenvolvimento do programa"
+   ],
+   "correta": 0,
+   "explicacao": "A reunião inicial com o efetivo administrativo, para propor ajustes nos âmbitos administrativo e operacional e apresentar a linha de comando, é ação direta de curto prazo; reuniões gerais periódicas e visitas de apresentação integram outros grupos de medidas.",
+   "tags": [
+    "assuncao",
+    "acoes-diretas",
+    "reuniao"
+   ]
+  },
+  {
+   "id": "boe-elab-060",
+   "subtema": "Assunção de comando — ações diretas",
+   "artigo": "NI PM3-001/02/17 — Agenda telefônica",
+   "enunciado": "A manutenção dos contatos existentes na agenda do telefone funcional é medida destinada a",
+   "alternativas": [
+    "assegurar o controle do uso do aparelho funcional pelo novo comandante",
+    "preservar os contatos institucionais e comunitários registrados no aparelho",
+    "viabilizar o acionamento do plano de chamada da subunidade em emergências",
+    "permitir o cadastramento dos tutores do Programa Vizinhança Solidária"
+   ],
+   "correta": 1,
+   "explicacao": "A norma orienta manter os contatos da agenda telefônica funcional justamente para que não se percam os contatos institucionais e comunitários já registrados no aparelho, preservando a continuidade administrativa.",
+   "tags": [
+    "assuncao",
+    "acoes-diretas",
+    "contatos"
+   ]
+  },
+  {
+   "id": "boe-elab-061",
+   "subtema": "Assunção de comando — ações operacionais",
+   "artigo": "NI PM3-001/02/17 — Inteligência policial",
+   "enunciado": "Entre as ações operacionais previstas para o novo Comandante de Companhia figura",
+   "alternativas": [
+    "realizar a conferência física do material constante da lista de carga do material",
+    "elaborar o plano de chamada da subunidade conforme modelo padronizado pelo P/2",
+    "conhecer as ferramentas de inteligência e aplicá-las nas análises críticas de indicadores",
+    "estabelecer controle de gastos com água, luz e telefone na sede da subunidade"
+   ],
+   "correta": 2,
+   "explicacao": "Conhecer as ferramentas de inteligência policial e aplicá-las na realização das análises críticas para mapeamento de indicadores criminais e planejamento do policiamento preventivo é ação de natureza operacional; as demais são administrativas.",
+   "tags": [
+    "assuncao",
+    "operacionais",
+    "inteligencia"
+   ]
+  },
+  {
+   "id": "boe-elab-062",
+   "subtema": "Assunção de comando — ações operacionais",
+   "artigo": "NI PM3-001/02/17 — Pontos vulneráveis",
+   "enunciado": "A identificação dos pontos vulneráveis da subárea, prevista na norma, deve ser feita",
+   "alternativas": [
+    "mediante consulta às lideranças comunitárias em reunião do conselho de segurança",
+    "exclusivamente a partir dos dados estatísticos fornecidos pelo sistema criminal",
+    "por meio de inspeção no local, quando do reconhecimento da área de atuação",
+    "por levantamento realizado pela agência de inteligência do Batalhão"
+   ],
+   "correta": 2,
+   "explicacao": "A norma determina identificar pontos vulneráveis da subárea por meio de inspeção no local, quando do reconhecimento da área de atuação, medida que se soma ao levantamento de dados geopolíticos e à análise dos indicadores criminais.",
+   "tags": [
+    "assuncao",
+    "operacionais",
+    "vulnerabilidade"
+   ]
+  },
+  {
+   "id": "boe-elab-063",
+   "subtema": "Assunção de comando — ações operacionais",
+   "artigo": "NI PM3-001/02/17 — Planos de ação",
+   "enunciado": "A verificação dos planos de ação em andamento ou com prazo vencido e o estabelecimento de planos para cada indicador apontado pela Secretaria da Segurança Pública",
+   "alternativas": [
+    "é ação de iniciativa individual a ser adotada no curto prazo",
+    "é ação de natureza administrativa a ser adotada no médio prazo",
+    "é ação de natureza operacional a ser adotada no curto prazo",
+    "é ação junto à comunidade, sem prazo definido na norma"
+   ],
+   "correta": 2,
+   "explicacao": "A medida relativa aos planos de ação inseridos no sistema de análise criminal é de natureza operacional e deve ser adotada no curto prazo, isto é, em até trinta dias da assunção do comando.",
+   "tags": [
+    "assuncao",
+    "operacionais",
+    "planos"
+   ]
+  },
+  {
+   "id": "boe-elab-064",
+   "subtema": "Assunção de comando — ações operacionais",
+   "artigo": "NI PM3-001/02/17 — RAIA",
+   "enunciado": "Incentivar os policiais militares a observarem fatores de caráter não policial que impactem a segurança pública e a registrá-los no relatório próprio constitui ação",
+   "alternativas": [
+    "de natureza administrativa, de curto prazo",
+    "de natureza operacional, de médio prazo",
+    "de iniciativa individual, de curto prazo",
+    "junto à comunidade, de médio prazo"
+   ],
+   "correta": 1,
+   "explicacao": "O incentivo ao registro, no RAIA, de fatores não policiais que impactem a segurança pública é classificado como ação de natureza operacional de médio prazo, isto é, posterior aos trinta dias iniciais de comando.",
+   "tags": [
+    "assuncao",
+    "operacionais",
+    "raia"
+   ]
+  },
+  {
+   "id": "boe-elab-065",
+   "subtema": "Assunção de comando — ações operacionais",
+   "artigo": "NI PM3-001/02/17 — Programas de policiamento",
+   "enunciado": "Quanto aos programas de policiamento já implementados na área, cabe ao novo comandante",
+   "alternativas": [
+    "submetê-los à avaliação do conselho comunitário de segurança local",
+    "suspendê-los até a conclusão do diagnóstico inicial da subárea de atuação",
+    "substituí-los por programas próprios alinhados à sua linha de comando",
+    "zelar pela continuidade e pelo aperfeiçoamento, propondo melhorias ao Coord Op Btl"
+   ],
+   "correta": 3,
+   "explicacao": "A norma determina zelar pela continuidade e pelo aperfeiçoamento dos programas de policiamento implementados na área, propondo melhorias ao Coordenador de Operações do Batalhão, o que preserva a continuidade administrativa.",
+   "tags": [
+    "assuncao",
+    "operacionais",
+    "programas"
+   ]
+  },
+  {
+   "id": "boe-elab-066",
+   "subtema": "Assunção de comando — ações operacionais",
+   "artigo": "NI PM3-001/02/17 — Reunião geral",
+   "enunciado": "A reunião periódica com todo o efetivo da Companhia, prevista na norma, destina-se a",
+   "alternativas": [
+    "divulgar as punições disciplinares aplicadas no período anterior",
+    "colher sugestões sobre a escala de serviço e a distribuição do efetivo",
+    "avaliar individualmente o desempenho dos policiais militares subordinados",
+    "expor os índices criminais da subárea e apresentar o plano de ação e as metas"
+   ],
+   "correta": 3,
+   "explicacao": "A reunião geral periódica destina-se a expor os índices criminais da subárea e apresentar o plano de ação a ser adotado pela tropa, bem como as metas a serem atingidas.",
+   "tags": [
+    "assuncao",
+    "operacionais",
+    "reuniao-geral"
+   ]
+  },
+  {
+   "id": "boe-elab-067",
+   "subtema": "Assunção de comando — ações administrativas",
+   "artigo": "NI PM3-001/02/17 — Plano de chamada",
+   "enunciado": "A elaboração ou atualização do plano de chamada da subunidade deve seguir",
+   "alternativas": [
+    "modelo padronizado pela seção de inteligência do Batalhão",
+    "modelo livre, definido pelo Comandante de Companhia empossado",
+    "o formato adotado pela unidade na gestão anterior, sem alterações",
+    "padrão fixado pelo Comando de Policiamento de Área correspondente"
+   ],
+   "correta": 0,
+   "explicacao": "A norma determina providenciar a elaboração ou atualização do plano de chamada conforme o efetivo existente, seguindo modelo padronizado pela P/2, seção responsável pela inteligência no Batalhão.",
+   "tags": [
+    "assuncao",
+    "administrativas",
+    "plano-chamada"
+   ]
+  },
+  {
+   "id": "boe-elab-068",
+   "subtema": "Assunção de comando — ações administrativas",
+   "artigo": "NI PM3-001/02/17 — SIRH",
+   "enunciado": "Entre as medidas administrativas relativas a recursos humanos, a norma prevê",
+   "alternativas": [
+    "elaborar a folha de pagamento mensal do efetivo da subunidade territorial",
+    "manter atualizados os dados dos policiais militares no sistema de recursos humanos",
+    "homologar as escalas de serviço lançadas pelo comandante de pelotão",
+    "conceder as licenças e afastamentos requeridos pelo efetivo subordinado"
+   ],
+   "correta": 1,
+   "explicacao": "A norma determina providenciar a atualização dos dados dos policiais no SIRH e, no médio prazo, adotar medidas para inclusão de dados referentes ao pagamento, além de estudo sobre afastamentos e projeções de recursos humanos.",
+   "tags": [
+    "assuncao",
+    "administrativas",
+    "sirh"
+   ]
+  },
+  {
+   "id": "boe-elab-069",
+   "subtema": "Assunção de comando — ações administrativas",
+   "artigo": "NI PM3-001/02/17 — Material bélico e carga",
+   "enunciado": "Entre as ações administrativas realizadas por intermédio do auxiliar de material inclui-se",
+   "alternativas": [
+    "o controle dos procedimentos disciplinares em andamento na subunidade",
+    "a conferência física do material de carga e o rigoroso controle dos materiais bélicos",
+    "a elaboração do cronograma de audiências públicas e reuniões comunitárias",
+    "o levantamento de dados geopolíticos e seu impacto nos indicadores criminais"
+   ],
+   "correta": 1,
+   "explicacao": "Por intermédio do auxiliar de material o comandante realiza a conferência física do material de carga, o controle dos materiais bélicos, o inventário de transceptores e terminais, além da passagem de carga nos termos das instruções aplicáveis.",
+   "tags": [
+    "assuncao",
+    "administrativas",
+    "material"
+   ]
+  },
+  {
+   "id": "boe-elab-070",
+   "subtema": "Assunção de comando — ações administrativas",
+   "artigo": "NI PM3-001/02/17 — Justiça e disciplina",
+   "enunciado": "A ação administrativa de curto prazo a ser realizada por intermédio do auxiliar de justiça e disciplina consiste em",
+   "alternativas": [
+    "julgar as transgressões disciplinares cometidas por policiais da subunidade",
+    "instaurar os procedimentos disciplinares pendentes desde a gestão anterior",
+    "providenciar rigoroso controle dos procedimentos disciplinares em andamento",
+    "encaminhar à Corregedoria os procedimentos em curso para reanálise"
+   ],
+   "correta": 2,
+   "explicacao": "A norma prevê uma única ação por intermédio do auxiliar de justiça e disciplina: providenciar rigoroso controle dos procedimentos disciplinares e administrativos em andamento na Companhia, no curto prazo.",
+   "tags": [
+    "assuncao",
+    "administrativas",
+    "justica-disciplina"
+   ]
+  },
+  {
+   "id": "boe-elab-071",
+   "subtema": "Assunção de comando — ações administrativas",
+   "artigo": "NI PM3-001/02/17 — Quadros de organização",
+   "enunciado": "Entre as medidas administrativas relativas à estrutura da subunidade, a norma prevê conhecer as particularidades do quadro de organização e propor ajustes, além de",
+   "alternativas": [
+    "elaborar novo quadro de organização a ser aprovado pelo Comando Geral",
+    "propor a criação de novos cargos no quadro de organização da subunidade",
+    "redistribuir o efetivo entre as companhias do Batalhão conforme a demanda",
+    "conhecer e conferir o quadro de frota e atualizar o de tecnologia e informática"
+   ],
+   "correta": 3,
+   "explicacao": "A norma prevê conhecer as particularidades do QPO e propor ajustes, conhecer e conferir o Quadro de Fixação de Frota e atualizar o Quadro de Fixação de Tecnologia e Informática da Companhia.",
+   "tags": [
+    "assuncao",
+    "administrativas",
+    "quadros"
+   ]
+  },
+  {
+   "id": "boe-elab-072",
+   "subtema": "Assunção de comando — ações administrativas",
+   "artigo": "NI PM3-001/02/17 — Segurança das instalações",
+   "enunciado": "A elaboração de plano de segurança para salvaguardar as instalações físicas da subunidade pressupõe ainda",
+   "alternativas": [
+    "transferir a responsabilidade pela segurança ao comandante de pelotão",
+    "contratar serviço de vigilância privada para o período noturno",
+    "solicitar apoio permanente do policiamento de choque para a sede",
+    "manter o efetivo do serviço de dia apto a executá-lo, caso necessário"
+   ],
+   "correta": 3,
+   "explicacao": "A norma determina elaborar plano de segurança visando salvaguardar as instalações físicas e manter o efetivo do Serviço de Dia apto a executá-lo, caso necessário, medida que se soma ao controle de entrada e saída de pessoas e veículos.",
+   "tags": [
+    "assuncao",
+    "administrativas",
+    "seguranca"
+   ]
+  },
+  {
+   "id": "boe-elab-073",
+   "subtema": "Assunção de comando — ações administrativas",
+   "artigo": "NI PM3-001/02/17 — Instrução do efetivo",
+   "enunciado": "Entre as medidas administrativas relativas à instrução do efetivo, a norma determina providenciar controle",
+   "alternativas": [
+    "de preleções, instruções continuadas, videotreinamentos e treinamento em serviço",
+    "das escalas de serviço diárias e das substituições ocorridas no turno",
+    "das faltas e atrasos do efetivo, com comunicação mensal ao Batalhão",
+    "dos cursos de especialização frequentados pelos policiais subordinados"
+   ],
+   "correta": 0,
+   "explicacao": "A norma prevê providenciar controle de preleções e instruções continuadas de comando, além de outros documentos de interesse para a instrução, como videotreinamentos e treinamento em pleno serviço.",
+   "tags": [
+    "assuncao",
+    "administrativas",
+    "instrucao"
+   ]
+  },
+  {
+   "id": "boe-elab-074",
+   "subtema": "Assunção de comando — ações individuais",
+   "artigo": "NI PM3-001/02/17 — Visitas de apresentação",
+   "enunciado": "Entre as ações de iniciativa individual do novo Comandante de Companhia inclui-se",
+   "alternativas": [
+    "realizar visitas de apresentação às autoridades militares, policiais e dos três Poderes",
+    "determinar a elaboração de arquivo fotográfico do efetivo da subunidade",
+    "conferir os inventários de transceptores fixos, móveis e portáteis da unidade",
+    "estabelecer o controle de entrada e saída de pessoas e veículos na sede"
+   ],
+   "correta": 0,
+   "explicacao": "As visitas de apresentação às autoridades militares, policiais e aos membros dos Poderes Executivo, Legislativo e Judiciário e ao Ministério Público integram as ações de iniciativa individual do comandante empossado.",
+   "tags": [
+    "assuncao",
+    "individuais",
+    "visitas"
+   ]
+  },
+  {
+   "id": "boe-elab-075",
+   "subtema": "Assunção de comando — ações individuais",
+   "artigo": "NI PM3-001/02/17 — Comunicação com o efetivo",
+   "enunciado": "A norma orienta o comandante a instalar aplicativo de mensagem instantânea no telefone funcional com a finalidade de",
+   "alternativas": [
+    "acompanhar em tempo real a localização das viaturas empenhadas no serviço",
+    "substituir os canais formais de comunicação previstos nas normas institucionais",
+    "divulgar à comunidade os resultados operacionais obtidos na subárea",
+    "facilitar a comunicação com o efetivo da subunidade e com os demais oficiais do Batalhão"
+   ],
+   "correta": 3,
+   "explicacao": "A finalidade declarada é facilitar a comunicação com o efetivo da subunidade e com os demais oficiais da área do Batalhão, sem substituir os canais formais nem se confundir com os sistemas de monitoramento operacional.",
+   "tags": [
+    "assuncao",
+    "individuais",
+    "comunicacao"
+   ]
+  },
+  {
+   "id": "boe-elab-076",
+   "subtema": "Assunção de comando — ações individuais",
+   "artigo": "NI PM3-001/02/17 — PROERD",
+   "enunciado": "A convocação dos policiais militares que atuam diretamente no PROERD, prevista na norma, tem por finalidade",
+   "alternativas": [
+    "avaliar individualmente o desempenho desses policiais no programa educacional",
+    "obter informações sobre o programa e subsidiar ações estratégicas de melhoria contínua",
+    "redistribuir esse efetivo para o policiamento ostensivo preventivo da subárea",
+    "encerrar o programa na subárea quando não houver demanda das escolas"
+   ],
+   "correta": 1,
+   "explicacao": "A convocação visa obter informações sobre o desenvolvimento do programa e, assim, subsídios para a implementação de ações estratégicas e coordenadas voltadas ao incremento e à melhoria contínua dessa sistemática.",
+   "tags": [
+    "assuncao",
+    "individuais",
+    "proerd"
+   ]
+  },
+  {
+   "id": "boe-elab-077",
+   "subtema": "Assunção de comando — ações individuais",
+   "artigo": "NI PM3-001/02/17 — Vizinhança Solidária",
+   "enunciado": "Quanto ao Programa Vizinhança Solidária, a norma orienta o comandante a empenhar-se em sua implantação e desenvolvimento com o propósito de",
+   "alternativas": [
+    "substituir as reuniões dos conselhos comunitários de segurança da região",
+    "reduzir o efetivo empregado no policiamento ostensivo da respectiva subárea",
+    "transferir à comunidade a responsabilidade pela vigilância dos logradouros",
+    "aproximar a Polícia Militar da comunidade e estimular o espírito de pertencimento"
+   ],
+   "correta": 3,
+   "explicacao": "O propósito é promover a aproximação da Polícia Militar com a comunidade, trazendo-a para participar do processo de segurança pública, estimulando o espírito de pertencimento e trabalhando pelo fortalecimento da imagem da Instituição.",
+   "tags": [
+    "assuncao",
+    "individuais",
+    "pvs"
+   ]
+  },
+  {
+   "id": "boe-elab-078",
+   "subtema": "Assunção de comando — ações individuais",
+   "artigo": "NI PM3-001/02/17 — Visita solidária",
+   "enunciado": "A implantação da visita solidária às vítimas de crimes violentos, prevista na norma, tem por objetivo",
+   "alternativas": [
+    "orientar sobre medidas suplementares de prevenção e identificar causas-raízes do problema",
+    "colher depoimentos complementares para instruir o inquérito policial instaurado",
+    "avaliar a satisfação das vítimas com o atendimento prestado pela guarnição",
+    "cadastrar as vítimas no Programa Vizinhança Solidária da respectiva localidade"
+   ],
+   "correta": 0,
+   "explicacao": "A visita solidária às vítimas de crimes violentos busca orientá-las sobre a adoção de medidas suplementares de prevenção, identificando possíveis causas-raízes do efeito indesejável.",
+   "tags": [
+    "assuncao",
+    "individuais",
+    "visita-solidaria"
+   ]
+  },
+  {
+   "id": "boe-elab-079",
+   "subtema": "Assunção de comando — comunidade",
+   "artigo": "NI PM3-001/02/17 — CONSEG",
+   "enunciado": "Entre as ações junto à comunidade, a norma determina que o Comandante de Companhia",
+   "alternativas": [
+    "delegue a participação nas reuniões comunitárias ao comandante de pelotão da área",
+    "conheça e participe pessoalmente das reuniões do conselho comunitário de segurança",
+    "restrinja sua participação às reuniões convocadas pelo Comandante do Batalhão",
+    "participe das reuniões apenas quando houver pauta relativa a indicadores criminais"
+   ],
+   "correta": 1,
+   "explicacao": "A norma determina conhecer e participar pessoalmente das reuniões do CONSEG, buscando interagir com os responsáveis pelos serviços públicos da subárea e estreitar laços para ações sinérgicas voltadas à preservação da ordem pública.",
+   "tags": [
+    "assuncao",
+    "comunidade",
+    "conseg"
+   ]
+  },
+  {
+   "id": "boe-elab-080",
+   "subtema": "Assunção de comando — comunidade",
+   "artigo": "NI PM3-001/02/17 — Audiências públicas",
+   "enunciado": "A realização periódica de audiências públicas junto à comunidade local, recomendada por município, destina-se à",
+   "alternativas": [
+    "exposição de resultados, de projetos sociais e de temas de interesse comunitário",
+    "prestação de contas orçamentárias da subunidade perante a câmara municipal",
+    "coleta de assinaturas para criação de novos conselhos comunitários de segurança",
+    "divulgação das metas individuais de produtividade fixadas para o efetivo"
+   ],
+   "correta": 0,
+   "explicacao": "As audiências públicas visam expor os resultados e as atividades de policiamento executadas, apresentar projetos sociais institucionais e não institucionais e tratar de assuntos de interesse social e comunitário, recomendando-se atuar por intermédio das câmaras municipais.",
+   "tags": [
+    "assuncao",
+    "comunidade",
+    "audiencias"
+   ]
+  },
+  {
+   "id": "boe-elab-081",
+   "subtema": "Assunção de comando — comunidade",
+   "artigo": "NI PM3-001/02/17 — Projetos sociais",
+   "enunciado": "Quanto aos projetos de responsabilidade social, a norma orienta o comandante a implantá-los na sede da Companhia ou nas bases comunitárias, voltados a",
+   "alternativas": [
+    "grupos vulneráveis, estimulando as pessoas atendidas a não se envolverem com delitos",
+    "policiais militares da subunidade e seus familiares, como ação de valorização",
+    "empresários locais, buscando patrocínio para as ações operacionais da unidade",
+    "autoridades municipais, para fortalecer a articulação institucional na subárea"
+   ],
+   "correta": 0,
+   "explicacao": "Os projetos de responsabilidade social, implantados dentro das possibilidades e sobretudo por parcerias, voltam-se a grupos vulneráveis da sociedade, buscando estimular as pessoas atendidas a não se envolverem com práticas delituosas.",
+   "tags": [
+    "assuncao",
+    "comunidade",
+    "projetos"
+   ]
+  },
+  {
+   "id": "boe-elab-082",
+   "subtema": "Assunção de comando — comunidade",
+   "artigo": "NI PM3-001/02/17 — Demandas reprimidas",
+   "enunciado": "A identificação de demandas reprimidas junto às comunidades em maior vulnerabilidade social destina-se a",
+   "alternativas": [
+    "propor e acompanhar projetos sociais, sobretudo voltados a crianças e adolescentes",
+    "priorizar o emprego do policiamento ostensivo nessas áreas da subárea",
+    "instruir pedidos de recursos orçamentários junto à administração municipal",
+    "fundamentar a criação de novas bases comunitárias de segurança na região"
+   ],
+   "correta": 0,
+   "explicacao": "A norma orienta identificar demandas reprimidas para propor, implementar e acompanhar projetos sociais, especialmente os que alcancem crianças e adolescentes, trabalhando a prevenção primária com reflexos de médio e longo prazo na redução da criminalidade.",
+   "tags": [
+    "assuncao",
+    "comunidade",
+    "demandas"
+   ]
+  },
+  {
+   "id": "boe-elab-083",
+   "subtema": "Caça-níquel",
+   "artigo": "Despacho PM3-01/02/19 — Natureza jurídica",
+   "enunciado": "Segundo o despacho que trata das ocorrências envolvendo máquinas caça-níquel, a exploração desses equipamentos",
+   "alternativas": [
+    "pode configurar, além da contravenção de jogo de azar, crime contra a economia",
+    "configura apenas e tão somente a contravenção penal de jogo de azar",
+    "constitui mera infração administrativa sujeita a autuação municipal",
+    "somente é punível quando comprovado prejuízo individual ao apostador"
+   ],
+   "correta": 0,
+   "explicacao": "O despacho registra que a exploração configura contravenção de jogo de azar, mas pode configurar crime contra a economia popular e o delito de associação criminosa, além de gerar fonte ilícita de recursos ao crime organizado e desordem social.",
+   "tags": [
+    "caca-niquel",
+    "natureza"
+   ]
+  },
+  {
+   "id": "boe-elab-084",
+   "subtema": "Caça-níquel",
+   "artigo": "Despacho PM3-01/02/19 — Fundamentos",
+   "enunciado": "Entre os fundamentos que motivaram o tratamento específico das ocorrências com máquinas caça-níquel, o despacho destaca",
+   "alternativas": [
+    "a sonegação de tributos municipais incidentes sobre o entretenimento",
+    "a concorrência desleal com as casas lotéricas oficiais do Estado",
+    "a geração de fonte ilícita de recursos ao crime organizado e de desordem social",
+    "o risco de acidentes elétricos nos estabelecimentos que abrigam as máquinas"
+   ],
+   "correta": 2,
+   "explicacao": "O despacho aponta que a exploração gera fonte ilícita de recursos ao crime organizado, desordem social e distúrbios psíquicos aos usuários, além de poder configurar contravenção, crime contra a economia popular e associação criminosa.",
+   "tags": [
+    "caca-niquel",
+    "fundamentos"
+   ]
+  },
+  {
+   "id": "boe-elab-085",
+   "subtema": "Caça-níquel",
+   "artigo": "Res. SSP-191/14 — Procedimento pericial",
+   "enunciado": "Deparando-se policial militar ou civil com ocorrência envolvendo máquina caça-níquel, a primeira providência é",
+   "alternativas": [
+    "lacrar o estabelecimento e conduzir o responsável à delegacia da área",
+    "apreender a máquina integralmente e conduzi-la ao distrito policial",
+    "desmontar o equipamento para retirada imediata da memória e do noteiro",
+    "preservar o local, aguardando a autoridade policial e o perito criminal"
+   ],
+   "correta": 3,
+   "explicacao": "A norma determina a preservação do local; a autoridade policial ou seu agente e o perito criminal comparecerão ao local e, com a presença de ambos, será realizado o exame pericial, do qual se extraem e apreendem a memória e o noteiro da máquina.",
+   "tags": [
+    "caca-niquel",
+    "pericia"
+   ]
+  },
+  {
+   "id": "boe-elab-086",
+   "subtema": "Caça-níquel",
+   "artigo": "Res. SSP-191/14 — Apreensão",
+   "enunciado": "Realizado o exame pericial na máquina caça-níquel, são extraídos e apreendidos",
+   "alternativas": [
+    "a memória e o noteiro, sendo este inutilizado ao final, com registro no laudo",
+    "todos os componentes eletrônicos, encaminhados ao instituto de criminalística",
+    "apenas os valores em espécie encontrados no interior do equipamento",
+    "o gabinete e a fonte de alimentação, remetidos ao depósito judicial"
+   ],
+   "correta": 0,
+   "explicacao": "Extraem-se e apreendem-se a memória e o noteiro e, concluída a perícia, o noteiro é inutilizado, constando essa providência do laudo pericial.",
+   "tags": [
+    "caca-niquel",
+    "apreensao"
+   ]
+  },
+  {
+   "id": "boe-elab-087",
+   "subtema": "Caça-níquel",
+   "artigo": "Res. SSP-191/14 — Demais componentes",
+   "enunciado": "Quanto aos componentes que não interessam à prova da contravenção, a autoridade policial",
+   "alternativas": [
+    "faz depósito fiel ao proprietário, com registro do lacre, salvo se não houver",
+    "determina a destruição imediata no próprio local dos fatos",
+    "os remete obrigatoriamente ao depósito público do município",
+    "os entrega a organização não governamental conveniada para reaproveitamento"
+   ],
+   "correta": 0,
+   "explicacao": "O delegado faz o depósito fiel ao proprietário, que se responsabiliza pela custódia, consignando-se o número do lacre; não havendo responsável no local, os objetos apreendidos são removidos.",
+   "tags": [
+    "caca-niquel",
+    "deposito"
+   ]
+  },
+  {
+   "id": "boe-elab-088",
+   "subtema": "Caça-níquel",
+   "artigo": "Res. SSP-191/14 — Destinação final",
+   "enunciado": "Concluído o procedimento de polícia judiciária, o delegado de polícia representará à autoridade judiciária competente pela",
+   "alternativas": [
+    "transferência dos bens à administração penitenciária estadual",
+    "devolução imediata dos equipamentos ao proprietário",
+    "alienação em leilão dos componentes eletrônicos apreendidos",
+    "destruição dos objetos apreendidos ou depositados"
+   ],
+   "correta": 3,
+   "explicacao": "Ao final do procedimento, o delegado representa pela destruição dos objetos apreendidos ou depositados; alternativamente, mediante autorização judicial, a Secretaria da Segurança Pública pode celebrar convênios com organizações não governamentais para reaproveitamento dos componentes que não interessem à investigação.",
+   "tags": [
+    "caca-niquel",
+    "destinacao"
+   ]
+  },
+  {
+   "id": "boe-elab-089",
+   "subtema": "Caça-níquel",
+   "artigo": "Res. SSP-191/14 — Reaproveitamento",
+   "enunciado": "O reaproveitamento dos componentes que não interessam à investigação criminal, mediante convênios com organizações não governamentais,",
+   "alternativas": [
+    "é vedado, devendo todos os componentes ser destruídos após a perícia",
+    "independe de autorização judicial, por se tratar de bens sem valor probatório",
+    "depende de autorização judicial e ocorre após a realização da perícia",
+    "cabe exclusivamente às prefeituras municipais, mediante termo de doação"
+   ],
+   "correta": 2,
+   "explicacao": "A norma admite que, precedida de autorização judicial, a Secretaria da Segurança Pública celebre convênios com organizações não governamentais visando ao reaproveitamento dos componentes que não interessam à investigação, sempre após a perícia.",
+   "tags": [
+    "caca-niquel",
+    "convenios"
+   ]
+  },
+  {
+   "id": "boe-elab-090",
+   "subtema": "Caça-níquel",
+   "artigo": "Despacho PM3-01/02/19 — Fluxo do COPOM",
+   "enunciado": "Recebendo o COPOM denúncia sobre máquina caça-níquel em local de acesso inviabilizado, fortemente isolado ou monitorado por câmeras, antes da comunicação via rádio ou do despacho,",
+   "alternativas": [
+    "a unidade de serviço mais próxima é despachada imediatamente ao local",
+    "o Chefe de Operações cientifica reservadamente o CFP ou o Supervisor Regional",
+    "o caso é encaminhado diretamente à Polícia Civil, sem empenho de viatura",
+    "o COPOM solicita mandado judicial de busca à autoridade competente"
+   ],
+   "correta": 1,
+   "explicacao": "O despacho determina que o Chefe de Operações cientifique diretamente e de forma reservada o Comandante de Força de Patrulha ou o Supervisor Regional, que decidirá quais medidas de averiguação adotar, obtendo-se segurança jurídica na ação.",
+   "tags": [
+    "caca-niquel",
+    "copom",
+    "fluxo"
+   ]
+  },
+  {
+   "id": "boe-elab-091",
+   "subtema": "Caça-níquel",
+   "artigo": "Despacho PM3-01/02/19 — Ingresso em domicílio",
+   "enunciado": "O despacho recorda que o ingresso em residência sem ordem judicial, nas ocorrências de máquina caça-níquel,",
+   "alternativas": [
+    "depende apenas da autorização do Chefe de Operações do centro de operações",
+    "é livre, por se tratar de local com destinação comercial ou de entretenimento",
+    "exige fundadas razões baseadas em justa causa de flagrante, sob pena de nulidade",
+    "é vedado em qualquer hipótese, ainda que constatado flagrante delito"
+   ],
+   "correta": 2,
+   "explicacao": "O despacho lembra que o ingresso exige fundadas razões baseadas em justa causa de que ocorre situação de flagrante delito, sob pena de as provas serem anuladas, em consonância com a jurisprudência sobre inviolabilidade domiciliar.",
+   "tags": [
+    "caca-niquel",
+    "domicilio"
+   ]
+  },
+  {
+   "id": "boe-elab-092",
+   "subtema": "Caça-níquel",
+   "artigo": "Despacho PM3-01/02/19 — Liberação da guarnição",
+   "enunciado": "Chegando ao local a Polícia Civil e o perito criminal, a guarnição policial-militar",
+   "alternativas": [
+    "assume a condução do exame pericial, na ausência de peritos suficientes",
+    "permanece obrigatoriamente no local até a remoção dos equipamentos",
+    "fica liberada, salvo se as circunstâncias exigirem a manutenção do policiamento",
+    "encerra a ocorrência sem qualquer registro, por ausência de crime militar"
+   ],
+   "correta": 2,
+   "explicacao": "A chegada da Polícia Civil e do perito libera a guarnição, salvo se as circunstâncias exigirem a manutenção do policiamento ostensivo, o que será analisado pelos níveis de supervisão e de comando.",
+   "tags": [
+    "caca-niquel",
+    "liberacao"
+   ]
+  },
+  {
+   "id": "boe-elab-093",
+   "subtema": "Caça-níquel",
+   "artigo": "Despacho PM3-01/02/19 — Registros",
+   "enunciado": "Além do registro da ocorrência, o despacho orienta a unidade de serviço a elaborar, quando cabível,",
+   "alternativas": [
+    "o relatório de inteligência reservado dirigido à agência de área",
+    "o auto de infração ambiental relativo ao estabelecimento fiscalizado",
+    "o termo circunstanciado da contravenção penal constatada no local",
+    "o relatório de análise de irregularidades que impactem a segurança pública"
+   ],
+   "correta": 3,
+   "explicacao": "O despacho determina que a unidade faça os registros adequados, entre os quais o RAIA, instrumento pelo qual se reportam fatores não policiais e irregularidades que impactam a segurança pública.",
+   "tags": [
+    "caca-niquel",
+    "registros",
+    "raia"
+   ]
+  },
+  {
+   "id": "boe-elab-094",
+   "subtema": "Caça-níquel",
+   "artigo": "Despacho PM3-01/02/19 — Tipificação",
+   "enunciado": "O despacho orienta a unidade de serviço a atentar às circunstâncias específicas e aos depoimentos para definir a natureza da ocorrência, pois além da contravenção pode haver",
+   "alternativas": [
+    "crime de desobediência e resistência por parte dos frequentadores",
+    "associação criminosa, estelionato ou crime contra a economia popular",
+    "crime ambiental pela destinação irregular dos componentes eletrônicos",
+    "crime de lavagem de capitais atribuível ao proprietário do imóvel"
+   ],
+   "correta": 1,
+   "explicacao": "A norma alerta para a possibilidade de associação criminosa, estelionato ou crime contra a economia popular, em razão de fraude ou manipulação dos equipamentos, o que exige atenção da guarnição na qualificação dos fatos.",
+   "tags": [
+    "caca-niquel",
+    "tipificacao"
+   ]
+  },
+  {
+   "id": "boe-elab-095",
+   "subtema": "Caça-níquel",
+   "artigo": "Despacho PM3-01/02/19 — Papel do comando",
+   "enunciado": "Quanto aos Comandantes de OPM, o despacho ressalta a importância estratégica",
+   "alternativas": [
+    "da divulgação imediata dos resultados das operações à imprensa local",
+    "do emprego exclusivo de efetivo especializado nas fiscalizações realizadas",
+    "das ações coordenadas com poderes públicos, Judiciário, MP e entidades privadas",
+    "da centralização das ocorrências no comando de policiamento regional"
+   ],
+   "correta": 2,
+   "explicacao": "O despacho destaca a importância das ações coordenadas, por cooperação ou colaboração, envolvendo poderes públicos municipais, Judiciário, Ministério Público e outras entidades públicas ou privadas, para complementar os esforços operacionais e consolidar parcerias no combate à exploração.",
+   "tags": [
+    "caca-niquel",
+    "comando",
+    "parcerias"
+   ]
+  },
+  {
+   "id": "boe-elab-096",
+   "subtema": "Dados de celular",
+   "artigo": "CF/88 — Art. 5º, X e XII",
+   "enunciado": "O despacho sobre manipulação de dados de aparelhos celulares apoia-se, entre outros fundamentos constitucionais, na inviolabilidade",
+   "alternativas": [
+    "do direito de propriedade sobre o aparelho apreendido pela autoridade",
+    "do domicílio e da correspondência epistolar, apenas durante o período noturno",
+    "da intimidade, da vida privada, da honra e da imagem e do sigilo de dados",
+    "do direito de reunião e de associação para fins lícitos, previsto no art. 5º"
+   ],
+   "correta": 2,
+   "explicacao": "O despacho invoca o art. 5º, X, que assegura a inviolabilidade da intimidade, vida privada, honra e imagem, e o art. 5º, XII, que protege o sigilo da correspondência e das comunicações telegráficas, de dados e telefônicas, ressalvada ordem judicial nas hipóteses legais.",
+   "tags": [
+    "celular",
+    "constituicao"
+   ]
+  },
+  {
+   "id": "boe-elab-097",
+   "subtema": "Dados de celular",
+   "artigo": "Despacho PM3-05/02/19 — Regra geral",
+   "enunciado": "Segundo o despacho, dados pessoais, registros de ligações e conversas de texto armazenadas em aparelho celular de abordado",
+   "alternativas": [
+    "são invioláveis, não podendo ser acessados pelo policial sem autorização",
+    "podem ser acessados pelo policial durante a abordagem, para verificação de autoria",
+    "podem ser acessados mediante simples anuência verbal do abordado no local",
+    "são acessíveis quando o aparelho estiver desbloqueado no momento da abordagem"
+   ],
+   "correta": 0,
+   "explicacao": "O despacho firma que dados pessoais, ligações e conversas de texto são invioláveis; havendo suspeita de que o aparelho contenha elementos de autoria e materialidade, o policial deve apreendê-lo e encaminhá-lo ao distrito policial para perícia mediante autorização judicial.",
+   "tags": [
+    "celular",
+    "regra-geral"
+   ]
+  },
+  {
+   "id": "boe-elab-098",
+   "subtema": "Dados de celular",
+   "artigo": "Despacho PM3-05/02/19 — Procedimento correto",
+   "enunciado": "Havendo suspeita de que o celular do abordado contenha elementos de autoria e materialidade de crime, o policial militar deve",
+   "alternativas": [
+    "apreender o aparelho e encaminhá-lo ao DP para perícia com autorização judicial",
+    "acessar imediatamente o conteúdo, registrando o que encontrar no boletim",
+    "solicitar ao abordado que forneça a senha e franqueie o acesso aos dados",
+    "fotografar a tela do aparelho para preservar a prova antes da apreensão"
+   ],
+   "correta": 0,
+   "explicacao": "O procedimento correto é apreender o aparelho junto ao distrito policial para perícia, que será realizada mediante autorização judicial, preservando-se a licitude da prova obtida.",
+   "tags": [
+    "celular",
+    "procedimento"
+   ]
+  },
+  {
+   "id": "boe-elab-099",
+   "subtema": "Dados de celular",
+   "artigo": "Despacho PM3-05/02/19 — Senha de acesso",
+   "enunciado": "Quanto à senha de acesso do aparelho celular, o despacho estabelece que o abordado",
+   "alternativas": [
+    "não é obrigado a fornecê-la para que o policial obtenha os dados armazenados",
+    "deve fornecê-la sempre que houver fundada suspeita de prática criminosa",
+    "deve fornecê-la mediante ordem do comandante da guarnição no local",
+    "somente pode recusar-se a fornecê-la na presença de advogado constituído"
+   ],
+   "correta": 0,
+   "explicacao": "O despacho é expresso: o abordado não é obrigado a fornecer a senha de acesso para que o policial obtenha o dado, o que se harmoniza com a garantia da não autoincriminação e com a exigência de autorização judicial para o acesso.",
+   "tags": [
+    "celular",
+    "senha"
+   ]
+  },
+  {
+   "id": "boe-elab-100",
+   "subtema": "Dados de celular",
+   "artigo": "Despacho PM3-05/02/19 — IMEI",
+   "enunciado": "Quanto ao número de identificação do aparelho, o despacho esclarece que",
+   "alternativas": [
+    "o IMEI somente pode ser verificado após a perícia técnica do aparelho",
+    "o IMEI é dado pessoal protegido, exigindo autorização judicial para sua obtenção",
+    "o IMEI é dado do aparelho, e não pessoal, podendo ser obtido sem autorização judicial",
+    "o IMEI é irrelevante para a identificação do aparelho em investigações criminais"
+   ],
+   "correta": 2,
+   "explicacao": "O número IMEI é dado do aparelho, e não dado pessoal, podendo ser obtido sem autorização judicial, entendimento coerente com a jurisprudência que distingue a identificação do equipamento do acesso ao conteúdo das comunicações.",
+   "tags": [
+    "celular",
+    "imei"
+   ]
+  },
+  {
+   "id": "boe-elab-101",
+   "subtema": "Dados de celular",
+   "artigo": "Despacho PM3-05/02/19 — Viva-voz",
+   "enunciado": "Será considerada ilícita a prova produzida por policial militar que",
+   "alternativas": [
+    "registra em boletim a existência de ligações recebidas durante a abordagem",
+    "ouve, por viva-voz e sem consentimento ou ordem judicial, conversa do abordado",
+    "verifica o número IMEI do aparelho apreendido no local dos fatos",
+    "apreende o aparelho e o encaminha ao distrito policial para perícia"
+   ],
+   "correta": 1,
+   "explicacao": "O despacho assenta que é ilícita a prova produzida por policial que ouve conversa do abordado com terceiro pelo recurso viva-voz, sem consentimento do titular ou ordem judicial.",
+   "tags": [
+    "celular",
+    "viva-voz"
+   ]
+  },
+  {
+   "id": "boe-elab-102",
+   "subtema": "Dados de celular",
+   "artigo": "STJ — RHC 51.531",
+   "enunciado": "Segundo a jurisprudência invocada no despacho, a devassa de dados e de conversas de aplicativo obtidas de celular apreendido, sem ordem judicial,",
+   "alternativas": [
+    "é lícita quando o crime investigado for punido com reclusão",
+    "é lícita, por se tratar de bem já apreendido em razão de flagrante delito",
+    "é ilícita, dada a multiplicidade de funções e comunicações do aparelho",
+    "somente é ilícita quando o aparelho pertencer a terceiro não investigado"
+   ],
+   "correta": 2,
+   "explicacao": "O STJ assentou que o celular deixou de ser mero instrumento de conversação por voz, permitindo acesso a correspondência eletrônica, mensagens e aplicativos de troca de dados, sendo ilícita tanto a devassa de dados quanto das conversas obtidas sem ordem judicial.",
+   "tags": [
+    "celular",
+    "jurisprudencia",
+    "stj"
+   ]
+  },
+  {
+   "id": "boe-elab-103",
+   "subtema": "Dados de celular",
+   "artigo": "STJ — HC 315.220",
+   "enunciado": "A jurisprudência citada no despacho fundamenta a proteção dos dados do aparelho na circunstância de que",
+   "alternativas": [
+    "os dados armazenados permitem verdadeira devassa na vida pessoal do titular",
+    "o aparelho constitui bem de valor econômico relevante para o proprietário",
+    "as operadoras mantêm cópia integral dos dados em servidores próprios",
+    "o acesso ao conteúdo prejudica a cadeia de custódia dos vestígios materiais"
+   ],
+   "correta": 0,
+   "explicacao": "O precedente registra que os aparelhos contêm fotos, vídeos, conversas, dados bancários, contas de correio eletrônico, agendas, histórico de navegação e outras informações que, uma vez acessadas, possibilitam verdadeira devassa na vida pessoal, atraindo a cláusula geral de resguardo da intimidade.",
+   "tags": [
+    "celular",
+    "jurisprudencia",
+    "intimidade"
+   ]
+  },
+  {
+   "id": "boe-elab-104",
+   "subtema": "Dados de celular",
+   "artigo": "STJ — HC 511.484",
+   "enunciado": "No precedente citado pelo despacho, considerou-se ilícita a prova obtida quando o policial,",
+   "alternativas": [
+    "verificou o número de identificação do aparelho apreendido no local",
+    "apreendeu o aparelho e aguardou a autorização judicial para a perícia técnica",
+    "sem permissão do titular ou da Justiça, leu mensagens e atendeu ao telefone",
+    "solicitou ao titular que desbloqueasse o aparelho na presença de testemunhas"
+   ],
+   "correta": 2,
+   "explicacao": "O precedente reputou arbitrária e ilícita a prova obtida quando a autoridade policial, sem permissão do titular da linha ou da Justiça, leu mensagens e atendeu ao telefone móvel do investigado, travando conversa com interlocutor e passando-se por seu dono.",
+   "tags": [
+    "celular",
+    "jurisprudencia",
+    "flagrante"
+   ]
+  },
+  {
+   "id": "boe-elab-105",
+   "subtema": "Síntese",
+   "artigo": "Despachos PM3-01/02/19 e PM3-05/02/19",
+   "enunciado": "Comparados os dois despachos estudados, verifica-se que ambos",
+   "alternativas": [
+    "disciplinam a apreensão de bens e sua destinação final pela Polícia Militar",
+    "tratam exclusivamente de crimes praticados por organizações criminosas",
+    "orientam a atuação da tropa para preservar a licitude da prova produzida",
+    "atribuem ao Comandante de Companhia a decisão sobre o ingresso em domicílio"
+   ],
+   "correta": 2,
+   "explicacao": "O despacho sobre caça-níquel cuida da preservação do local e da perícia, alertando para os requisitos do ingresso domiciliar, e o despacho sobre dados de celular veda o acesso ao conteúdo sem autorização judicial; ambos visam preservar a licitude da prova.",
+   "tags": [
+    "despachos",
+    "sintese",
+    "prova"
+   ]
+  },
+  {
+   "id": "boe-elab-106",
+   "subtema": "Síntese",
+   "artigo": "NI PM3-007/03/17 e NI PM3-001/02/17",
+   "enunciado": "Assumindo o comando de Companhia, o oficial verifica que há BOe pendentes de validação há mais de uma semana. A providência correta é",
+   "alternativas": [
+    "regularizar as validações, observado o prazo até o primeiro dia útil subsequente ao registro",
+    "determinar que os policiais elaboradores refaçam os registros pendentes de validação",
+    "delegar a validação ao comandante de pelotão, por acúmulo de atribuições iniciais",
+    "encaminhar os registros ao Batalhão para validação pelo Coordenador de Operações"
+   ],
+   "correta": 0,
+   "explicacao": "A validação é atribuição do Comandante de Companhia e deve ocorrer até o primeiro dia útil subsequente ao registro, só podendo ser transferida a outro escalão por deliberação expressa do Grande Comando, aplicável a todas as OPM subordinadas.",
+   "tags": [
+    "boe",
+    "assuncao",
+    "aplicacao"
+   ]
+  },
+  {
+   "id": "boe-elab-107",
+   "subtema": "Síntese",
+   "artigo": "NI PM3-007/03/17 — Aplicação prática",
+   "enunciado": "Guarnição atende ocorrência de furto de celular em via pública, sem autor conhecido, e a vítima deseja o registro. Nessa hipótese,",
+   "alternativas": [
+    "elabora-se apenas o relatório de serviço operacional, por ausência de autoria",
+    "dispensa-se o BOe, orientando-se a vítima a registrar pela delegacia eletrônica",
+    "conduz-se a vítima ao distrito policial para apresentação pessoal da ocorrência",
+    "elabora-se o BOe no local e a comunicação à PC é formal, sem apresentação"
+   ],
+   "correta": 3,
+   "explicacao": "Havendo infração penal, o registro em BOe é obrigatório e feito no local; tratando-se de ocorrência que não demanda apresentação pessoal ao delegado, a comunicação formal se dá pelo envio do registro até o primeiro dia útil posterior aos fatos.",
+   "tags": [
+    "boe",
+    "aplicacao",
+    "furto"
+   ]
+  },
+  {
+   "id": "boe-elab-108",
+   "subtema": "Síntese",
+   "artigo": "NI PM3-007/03/17 — Aplicação prática",
+   "enunciado": "Durante o atendimento, o sistema fica indisponível e a guarnição precisa registrar ocorrência com apreensão de objetos. A conduta correta é",
+   "alternativas": [
+    "registrar apenas no relatório de serviço operacional, por indisponibilidade técnica",
+    "aguardar o restabelecimento do sistema para registrar a ocorrência eletronicamente",
+    "encaminhar as partes ao distrito policial, dispensando o registro pela guarnição",
+    "preencher os formulários essenciais em meio físico e também o anexo de apreensão"
+   ],
+   "correta": 3,
+   "explicacao": "Na indisponibilidade, preenchem-se os formulários impressos, com os essenciais, folha de rosto, qualificação dos envolvidos e relatório da autoridade policial, além dos anexos cabíveis, como o de apreensão quando houver objetos apreendidos.",
+   "tags": [
+    "boe",
+    "aplicacao",
+    "indisponibilidade"
+   ]
+  }
+ ]
+}
