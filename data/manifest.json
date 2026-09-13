@@ -168,6 +168,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "sistemas-elab",
+      "nome": "SPMulher e SP RECRIM",
+      "nomeCompleto": "Sistemas de informacao e prevencao: SPMulher e SP RECRIM (106 questões)",
+      "norma": "Res. Conjunta SSP/SPM 01/2023 e Res. SSP 21/2023",
+      "arquivo": "data/sistemas-elab.json",
+      "cor": "#8a3f5a",
+      "ativo": true,
+      "ordem": 16,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",

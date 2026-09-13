@@ -1,0 +1,2045 @@
+{
+ "materia": "sistemas-elab",
+ "versao": "1.5.0",
+ "atualizadoEm": "2026-09-13",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Aplicação prática",
+  "Comitês",
+  "Comparação entre os sistemas",
+  "Proteção de dados",
+  "SP RECRIM — CICC",
+  "SP RECRIM — aplicação prática",
+  "SP RECRIM — comitês",
+  "SP RECRIM — compartilhamento",
+  "SP RECRIM — competências",
+  "SP RECRIM — dados agregados",
+  "SP RECRIM — disposições finais",
+  "SP RECRIM — estatística",
+  "SP RECRIM — instituição",
+  "SP RECRIM — núcleo estratégico",
+  "SP RECRIM — objetivos",
+  "SP RECRIM — transparência",
+  "SPMulher — CICC",
+  "SPMulher — acesso aos dados",
+  "SPMulher — aplicação prática",
+  "SPMulher — articulação",
+  "SPMulher — compartilhamento",
+  "SPMulher — competências",
+  "SPMulher — dados agregados",
+  "SPMulher — disposições finais",
+  "SPMulher — estatística",
+  "SPMulher — estrutura",
+  "SPMulher — instituição",
+  "SPMulher — núcleo estratégico",
+  "SPMulher — objetivos",
+  "SPMulher — transparência",
+  "Síntese"
+ ],
+ "questoes": [
+  {
+   "id": "sistemas-elab-001",
+   "subtema": "SPMulher — instituição",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Instituição",
+   "enunciado": "O Sistema de Informações e Prevenção dos Crimes Contra a Mulher foi instituído",
+   "alternativas": [
+    "por decreto do Governador do Estado, a partir de proposta do Comando Geral da PM",
+    "por resolução exclusiva do Secretário da Segurança Pública do Estado de São Paulo",
+    "por resolução conjunta do Secretário da Segurança e da pasta da Mulher",
+    "por portaria do Coordenador Geral do Centro Integrado de Comando e Controle"
+   ],
+   "correta": 2,
+   "explicacao": "O SPMulher decorre de resolução conjunta do Secretário da Segurança Pública e da Secretaria de Políticas para a Mulher, distinguindo-se do SP RECRIM, instituído por resolução exclusiva do Secretário da Segurança Pública.",
+   "tags": [
+    "spmulher",
+    "instituicao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-002",
+   "subtema": "SPMulher — objetivos",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Objetivo",
+   "enunciado": "O SPMulher tem por objetivo integrar, consolidar, monitorar, divulgar, avaliar e aperfeiçoar dados e informações relativas aos registros de crimes praticados contra pessoas do gênero feminino,",
+   "alternativas": [
+    "exclusivamente aqueles processados perante a Justiça Criminal estadual",
+    "apenas aqueles cometidos em razão dessa condição",
+    "desde que cometidos em contexto de violência doméstica e familiar",
+    "em especial aqueles cometidos em razão dessa condição"
+   ],
+   "correta": 3,
+   "explicacao": "A expressão legal é em especial aqueles cometidos em razão dessa condição, o que amplia o alcance para além dos crimes de gênero em sentido estrito, sem restringi-lo à violência doméstica e familiar.",
+   "tags": [
+    "spmulher",
+    "objetivos"
+   ]
+  },
+  {
+   "id": "sistemas-elab-003",
+   "subtema": "SPMulher — objetivos",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Alcance",
+   "enunciado": "Além dos registros criminais, o SPMulher alcança dados e informações relativas",
+   "alternativas": [
+    "à prevenção multidisciplinar conduzida pelas secretarias municipais de assistência",
+    "às políticas de proteção às vítimas e à responsabilização penal e civil dos infratores",
+    "ao tratamento psicológico obrigatório dos autores de violência doméstica no Estado",
+    "às políticas, serviços, programas e ações de proteção às vítimas e responsabilização penal"
+   ],
+   "correta": 3,
+   "explicacao": "O sistema alcança as políticas, serviços, programas e ações destinadas à proteção das vítimas, à prevenção criminal e à responsabilização penal dos infratores, sem menção a responsabilização civil autônoma ou a tratamento psicológico dos autores.",
+   "tags": [
+    "spmulher",
+    "objetivos",
+    "alcance"
+   ]
+  },
+  {
+   "id": "sistemas-elab-004",
+   "subtema": "SPMulher — objetivos",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Mecanismos destacados",
+   "enunciado": "A resolução destaca, entre os mecanismos para prevenir, coibir e punir a violência doméstica e familiar contra a mulher,",
+   "alternativas": [
+    "apenas a unidade portátil de rastreamento, no âmbito da Justiça Criminal do Estado",
+    "a unidade portátil de rastreamento e a monitoração eletrônica na Justiça Criminal paulista",
+    "apenas a monitoração eletrônica implantada no âmbito da Justiça Criminal do Estado",
+    "a unidade portátil de rastreamento e a monitoração eletrônica em todo o território nacional"
+   ],
+   "correta": 1,
+   "explicacao": "A resolução menciona conjuntamente a utilização da unidade portátil de rastreamento e a implantação da monitoração eletrônica no âmbito da Justiça Criminal do Estado de São Paulo, e não em âmbito nacional.",
+   "tags": [
+    "spmulher",
+    "objetivos",
+    "monitoracao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-005",
+   "subtema": "SPMulher — articulação",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Considerandos",
+   "enunciado": "Entre os considerandos da resolução, destaca-se a relevância da articulação entre",
+   "alternativas": [
+    "os órgãos policiais do Estado e as entidades privadas de proteção à mulher",
+    "órgãos municipais, estaduais e federais dos Poderes Executivo e Judiciário",
+    "órgãos municipais e estaduais dos três Poderes, excluída a esfera federal",
+    "órgãos municipais, estaduais e federais dos três Poderes e a sociedade civil"
+   ],
+   "correta": 3,
+   "explicacao": "O texto destaca a articulação entre órgãos municipais, estaduais e federais dos Poderes Executivo, Legislativo e Judiciário e da sociedade civil, para o enfrentamento à violência doméstica e familiar contra a mulher.",
+   "tags": [
+    "spmulher",
+    "articulacao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-006",
+   "subtema": "SPMulher — acesso aos dados",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Acesso operacional",
+   "enunciado": "O SPMulher integrará dados e bancos compartilhados com a SSP de modo a permitir que policiais militares, civis e técnico-científicos tenham acesso ágil e sistematizado, entre outros,",
+   "alternativas": [
+    "aos prontuários médicos das vítimas atendidas na rede pública estadual de saúde",
+    "aos autos de inquérito policial em tramitação nas delegacias especializadas do Estado",
+    "a registros anteriores, reiterações de agressões, medidas protetivas e processos criminais",
+    "aos dados cadastrais de todos os moradores dos endereços de atendimento policial"
+   ],
+   "correta": 2,
+   "explicacao": "O acesso alcança registros correlatos e anteriores de ocorrências, reiterações de agressões, medidas protetivas, sobretudo as de monitoramento eletrônico, e processos criminais relativos a vítimas, agressores ou endereços vinculados aos atendimentos.",
+   "tags": [
+    "spmulher",
+    "acesso",
+    "dados"
+   ]
+  },
+  {
+   "id": "sistemas-elab-007",
+   "subtema": "SPMulher — acesso aos dados",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Finalidade do acesso",
+   "enunciado": "O acesso ágil e sistematizado previsto no SPMulher alcança também informações sobre",
+   "alternativas": [
+    "políticas, programas, serviços e ações disponíveis para a proteção da vítima no caso concreto",
+    "o histórico funcional dos policiais que atenderam ocorrências anteriores no endereço",
+    "as estatísticas criminais consolidadas do município onde ocorreu o atendimento",
+    "os antecedentes criminais de todos os residentes do endereço objeto do atendimento"
+   ],
+   "correta": 0,
+   "explicacao": "O sistema fornece, na situação específica de cada atendimento, as políticas, programas, serviços e ações disponíveis para a proteção da vítima e para a responsabilização cível, administrativa e criminal do infrator.",
+   "tags": [
+    "spmulher",
+    "acesso",
+    "politicas"
+   ]
+  },
+  {
+   "id": "sistemas-elab-008",
+   "subtema": "SPMulher — estatística",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Fonte estatística",
+   "enunciado": "Os dados sobre crimes de violência de gênero que integram o Sistema Estadual de Informações e Estatística Criminal passaram a ter como fonte o SPMulher",
+   "alternativas": [
+    "desde a publicação da resolução, com reinício da série histórica estadual",
+    "a partir de 1º de maio de 2023, preservada a série histórica dos dados",
+    "a partir de 1º de junho de 2023, preservada a série histórica dos dados",
+    "a partir do exercício seguinte ao da publicação, sem manutenção da série"
+   ],
+   "correta": 2,
+   "explicacao": "A resolução fixa 1º de junho de 2023 como marco para o SPMulher, respeitando integralmente os critérios necessários à manutenção da série histórica; no SP RECRIM o marco correspondente é 1º de maio de 2023.",
+   "tags": [
+    "spmulher",
+    "estatistica",
+    "prazo"
+   ]
+  },
+  {
+   "id": "sistemas-elab-009",
+   "subtema": "SPMulher — estatística",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Dever de subsidiar",
+   "enunciado": "Quanto aos integrantes do Sistema Estadual de Coleta de Estatísticas Criminais, a resolução estabelece que",
+   "alternativas": [
+    "deverão subsidiar a SSP com dados e informações necessários ao funcionamento do sistema",
+    "poderão subsidiar a SSP, mediante convênio específico firmado com a pasta",
+    "poderão subsidiar a SSP, mediante termo de cooperação técnica previamente aprovado",
+    "estão dispensados de fornecer dados protegidos por sigilo funcional ou judicial"
+   ],
+   "correta": 0,
+   "explicacao": "O dever é expresso: todos os integrantes do Sistema Estadual de Coleta de Estatísticas Criminais deverão subsidiar a Secretaria da Segurança Pública com os dados e informações necessários ao pleno funcionamento do sistema.",
+   "tags": [
+    "spmulher",
+    "estatistica",
+    "dever"
+   ]
+  },
+  {
+   "id": "sistemas-elab-010",
+   "subtema": "SPMulher — dados agregados",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Agregação gradual",
+   "enunciado": "O SPMulher buscará agregar gradualmente aos registros de crimes contra a mulher dados básicos relativos, entre outros,",
+   "alternativas": [
+    "às condições de moradia das famílias atendidas pelos programas sociais estaduais",
+    "à situação patrimonial das vítimas atendidas pelas unidades policiais do Estado",
+    "ao histórico de empregos e à renda mensal declarada pelos autores dos delitos",
+    "aos atendimentos policiais realizados e à garantia dos direitos da Lei Maria da Penha"
+   ],
+   "correta": 3,
+   "explicacao": "O rol inclui os atendimentos policiais realizados, especialmente quanto à garantia de direitos e às medidas da Lei Maria da Penha, os registros policiais iniciais, os encaminhamentos a serviços de proteção, as categorizações dos delitos, o fluxo de exames periciais, as políticas de prevenção e os números e resultados de inquéritos e processos.",
+   "tags": [
+    "spmulher",
+    "dados",
+    "agregacao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-011",
+   "subtema": "SPMulher — dados agregados",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Exames periciais",
+   "enunciado": "Quanto aos exames periciais, o SPMulher agrega dados sobre",
+   "alternativas": [
+    "o custo unitário dos exames realizados pela Superintendência da Polícia Técnico-Científica",
+    "o tempo médio de atendimento das equipes técnico-científicas em cada município",
+    "o fluxo de acionamentos e realizações, observados os procedimentos técnicos e legais",
+    "a quantidade de peritos disponíveis em cada núcleo regional do Estado de São Paulo"
+   ],
+   "correta": 2,
+   "explicacao": "A resolução refere-se ao fluxo de acionamentos e realizações de exames periciais, especialmente quanto à observância dos procedimentos técnicos e legais específicos para preservação e proteção das pessoas em situação de violência.",
+   "tags": [
+    "spmulher",
+    "dados",
+    "pericia"
+   ]
+  },
+  {
+   "id": "sistemas-elab-012",
+   "subtema": "SPMulher — transparência",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Divulgação",
+   "enunciado": "A divulgação dos relatórios e informações do SPMulher, em formatos simples e acessíveis à população, será promovida",
+   "alternativas": [
+    "anualmente pelo Núcleo Estratégico Interdisciplinar sobre crimes contra a mulher",
+    "trimestralmente pela Secretaria de Políticas para a Mulher, com apoio da SSP",
+    "semestralmente pelo Centro Integrado de Comando e Controle da Secretaria",
+    "mensalmente pela Secretaria da Segurança Pública, respeitadas as restrições legais"
+   ],
+   "correta": 3,
+   "explicacao": "A SSP é responsável pela divulgação mensal e atualização dos relatórios e informações, em formatos simples e acessíveis, respeitadas as proteções e restrições legais aplicáveis.",
+   "tags": [
+    "spmulher",
+    "transparencia",
+    "divulgacao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-013",
+   "subtema": "SPMulher — transparência",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Finalidades da divulgação",
+   "enunciado": "A divulgação mensal do SPMulher destina-se a permitir",
+   "alternativas": [
+    "exclusivamente o acompanhamento público da evolução dos problemas criminais",
+    "o acompanhamento público da evolução dos problemas criminais e a ampla auditoria dos dados",
+    "exclusivamente a auditoria sobre a coleta e a consolidação dos dados estatísticos",
+    "o acesso irrestrito de qualquer cidadão aos registros individuais de ocorrências"
+   ],
+   "correta": 1,
+   "explicacao": "São duas finalidades cumulativas: o acompanhamento público da evolução dos problemas criminais e das políticas implantadas, com respectivos resultados, e a ampla auditoria sobre o processo de coleta, consolidação e divulgação dos dados.",
+   "tags": [
+    "spmulher",
+    "transparencia",
+    "finalidades"
+   ]
+  },
+  {
+   "id": "sistemas-elab-014",
+   "subtema": "SPMulher — compartilhamento",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Dados não criminais",
+   "enunciado": "Os dados e informações não criminais do SPMulher, respeitada a legislação aplicável,",
+   "alternativas": [
+    "somente poderão ser compartilhados mediante autorização judicial específica",
+    "serão divulgados integralmente junto com os relatórios mensais do sistema",
+    "permanecerão restritos às coordenadorias da Secretaria da Segurança Pública",
+    "seguirão regras de compartilhamento com órgãos de interesse público"
+   ],
+   "correta": 3,
+   "explicacao": "Os dados não criminais seguem regras de compartilhamento com órgãos públicos e privados de interesse público, para subsidiar políticas, programas e ações de áreas diversas ou complementares à segurança pública.",
+   "tags": [
+    "spmulher",
+    "compartilhamento"
+   ]
+  },
+  {
+   "id": "sistemas-elab-015",
+   "subtema": "SPMulher — núcleo estratégico",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Natureza do Núcleo",
+   "enunciado": "O Núcleo Estratégico Interdisciplinar sobre Crimes Contra a Mulher foi instituído como",
+   "alternativas": [
+    "comitê temporário de formulação de política pública integrada sobre o tema",
+    "estrutura integrante do Centro Integrado de Comando e Controle da Secretaria",
+    "estrutura integrante do Sistema SPMulher, na forma de fórum permanente de cooperação",
+    "órgão consultivo vinculado diretamente à Secretaria de Políticas para a Mulher"
+   ],
+   "correta": 2,
+   "explicacao": "O Núcleo é estrutura integrante do próprio Sistema SPMulher e funciona como fórum permanente de cooperação entre operadores de segurança pública, redes de proteção à mulher, instituições públicas e privadas e representantes da sociedade civil ou vítimas.",
+   "tags": [
+    "spmulher",
+    "nucleo",
+    "natureza"
+   ]
+  },
+  {
+   "id": "sistemas-elab-016",
+   "subtema": "SPMulher — núcleo estratégico",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Composição",
+   "enunciado": "O Núcleo Estratégico Interdisciplinar do SPMulher será composto por representantes e suplentes",
+   "alternativas": [
+    "da SSP, da PM, da PC, da Polícia Técnico-Científica e das guardas municipais",
+    "da SSP, da Secretaria de Políticas para a Mulher, da PM, da PC e da Polícia Técnico-Científica",
+    "da SSP, da Secretaria de Políticas para a Mulher, do Judiciário e do Ministério Público",
+    "da Secretaria de Políticas para a Mulher, da Defensoria Pública e da sociedade civil"
+   ],
+   "correta": 1,
+   "explicacao": "A composição prevê um representante de cada uma das cinco instituições: SSP, Secretaria de Políticas para a Mulher, Polícia Militar, Polícia Civil e Superintendência da Polícia Técnico-Científica, com respectivos suplentes.",
+   "tags": [
+    "spmulher",
+    "nucleo",
+    "composicao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-017",
+   "subtema": "SPMulher — núcleo estratégico",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Convidados",
+   "enunciado": "A critério do Secretário da Segurança Pública, poderão ser convidados a integrar o Núcleo Estratégico do SPMulher",
+   "alternativas": [
+    "apenas representantes de órgãos públicos estaduais com atribuição na área de segurança",
+    "representantes de organizações da sociedade civil, de vítimas e de outros órgãos ou entidades",
+    "exclusivamente representantes do Poder Judiciário e do Ministério Público estadual",
+    "somente entidades privadas conveniadas com a Secretaria de Políticas para a Mulher"
+   ],
+   "correta": 1,
+   "explicacao": "Podem ser convidados representantes de organizações da sociedade civil ou de vítimas, assim como de outros órgãos ou entidades públicas ou privadas que possam contribuir com o sistema.",
+   "tags": [
+    "spmulher",
+    "nucleo",
+    "convidados"
+   ]
+  },
+  {
+   "id": "sistemas-elab-018",
+   "subtema": "SPMulher — núcleo estratégico",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Coordenação",
+   "enunciado": "A coordenação do Núcleo Estratégico Interdisciplinar do SPMulher será definida",
+   "alternativas": [
+    "pelo Governador do Estado, mediante decreto publicado no Diário Oficial",
+    "pelo Coordenador Geral do Centro Integrado de Comando e Controle da Secretaria",
+    "por eleição entre os representantes que compõem o próprio Núcleo Estratégico",
+    "pelo Secretário da Segurança Pública e pela Secretária de Políticas para a Mulher"
+   ],
+   "correta": 3,
+   "explicacao": "A coordenação é definida conjuntamente pelo Secretário da Segurança Pública e pela Secretária de Políticas para a Mulher, entre os representantes indicados para compor o Núcleo, diferentemente do SP RECRIM, em que cabe apenas ao Secretário da Segurança Pública.",
+   "tags": [
+    "spmulher",
+    "nucleo",
+    "coordenacao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-019",
+   "subtema": "SPMulher — núcleo estratégico",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Objetivos do Núcleo",
+   "enunciado": "Entre os objetivos do Núcleo Estratégico Interdisciplinar do SPMulher inclui-se",
+   "alternativas": [
+    "aprovar os resultados dos trabalhos desenvolvidos pelos comitês temáticos",
+    "instalar por portaria os comitês de formulação de política pública integrada",
+    "designar os membros dos comitês convocados pelo Secretário da Segurança",
+    "produzir relatório mensal a partir dos dados integrados no sistema"
+   ],
+   "correta": 3,
+   "explicacao": "Ao Núcleo cabe subsidiar a SSP na análise dos crimes e causas de vitimização, auxiliar na identificação de temas para políticas integradas, auxiliar na produção de estratégias de comunicação e produzir relatório mensal; a instalação e a designação de comitês competem ao Coordenador Geral do CICC.",
+   "tags": [
+    "spmulher",
+    "nucleo",
+    "objetivos"
+   ]
+  },
+  {
+   "id": "sistemas-elab-020",
+   "subtema": "SPMulher — núcleo estratégico",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Compartilhamento de relatórios",
+   "enunciado": "Os relatórios e conhecimentos produzidos pelo Núcleo Estratégico do SPMulher",
+   "alternativas": [
+    "serão publicados integralmente nos meios oficiais de comunicação do Estado",
+    "permanecerão restritos às coordenadorias da Secretaria da Segurança Pública",
+    "serão compartilhados com as instituições relacionadas ao Núcleo",
+    "somente poderão ser divulgados após aprovação do Poder Judiciário estadual"
+   ],
+   "correta": 2,
+   "explicacao": "Os relatórios são compartilhados com as instituições relacionadas ao Núcleo para subsidiar políticas, programas e ações de segurança pública e outras políticas destinadas à prevenção e repressão dos crimes contra a mulher no Estado.",
+   "tags": [
+    "spmulher",
+    "nucleo",
+    "relatorios"
+   ]
+  },
+  {
+   "id": "sistemas-elab-021",
+   "subtema": "SPMulher — núcleo estratégico",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Apoio institucional",
+   "enunciado": "Para o exercício de suas atribuições, o Núcleo Estratégico do SPMulher poderá contar com o apoio",
+   "alternativas": [
+    "apenas das unidades operacionais das polícias civil e militar do Estado",
+    "apenas de instituições públicas estaduais com atribuição na área de segurança pública",
+    "de outras instituições, públicas ou privadas, inclusive grupos de trabalho e conselhos",
+    "de instituições privadas, desde que previamente conveniadas com a Secretaria"
+   ],
+   "correta": 2,
+   "explicacao": "O apoio pode vir de outras instituições, públicas ou privadas, em especial grupos de trabalho, comitês, conselhos e demais atores e entes relacionados às políticas de prevenção e repressão dos crimes contra a mulher.",
+   "tags": [
+    "spmulher",
+    "nucleo",
+    "apoio"
+   ]
+  },
+  {
+   "id": "sistemas-elab-022",
+   "subtema": "SPMulher — competências",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Coordenador do Núcleo",
+   "enunciado": "Compete ao Coordenador do Núcleo Estratégico Interdisciplinar do SPMulher",
+   "alternativas": [
+    "restituir ao Secretário os resultados dos trabalhos desenvolvidos pelos comitês",
+    "instalar por portaria os comitês de formulação de políticas públicas integradas",
+    "definir o coordenador temático de cada comitê instalado no âmbito do CICC",
+    "solicitar à SSP a instalação de comitês de formulação de políticas públicas integradas"
+   ],
+   "correta": 3,
+   "explicacao": "Ao Coordenador do Núcleo cabe coordenar os trabalhos, propiciar análises de dados, convocar reuniões, definir cronogramas, incluir novos membros, convidar representantes e solicitar à SSP a instalação de comitês; instalar, designar, definir coordenador temático e restituir resultados são competências do Coordenador Geral do CICC.",
+   "tags": [
+    "spmulher",
+    "competencias",
+    "coordenador"
+   ]
+  },
+  {
+   "id": "sistemas-elab-023",
+   "subtema": "SPMulher — competências",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Membros do Núcleo",
+   "enunciado": "Compete aos membros representantes do Núcleo Estratégico do SPMulher",
+   "alternativas": [
+    "sugerir a criação de comitês e indicar representantes para compô-los",
+    "solicitar à SSP a instalação dos comitês de formulação de políticas integradas",
+    "coordenar metodologicamente os trabalhos dos comitês instalados no CICC",
+    "definir, por portaria, o coordenador temático dos comitês constituídos"
+   ],
+   "correta": 0,
+   "explicacao": "Aos membros cabe comparecer às reuniões e colaborar com conhecimentos e experiências, sugerir a criação de comitês e indicar representantes conforme especialidade e necessidade, contribuir com as estratégias de comunicação e desenvolver as demandas do Núcleo.",
+   "tags": [
+    "spmulher",
+    "competencias",
+    "membros"
+   ]
+  },
+  {
+   "id": "sistemas-elab-024",
+   "subtema": "SPMulher — CICC",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Coordenador Geral do CICC",
+   "enunciado": "Compete ao Coordenador Geral do Centro Integrado de Comando e Controle, na sistemática do SPMulher,",
+   "alternativas": [
+    "instalar por portaria os comitês, com data de início e término dos trabalhos",
+    "sugerir a criação dos comitês e indicar seus representantes por especialidade",
+    "produzir mensalmente o relatório com os dados integrados no sistema",
+    "aprovar os resultados dos trabalhos dos comitês de formulação de políticas"
+   ],
+   "correta": 0,
+   "explicacao": "Ao Coordenador Geral do CICC cabe instalar os comitês por portaria, com prazos definidos, designar seus membros, definir o coordenador temático, coordenar metodologicamente os trabalhos e restituir os resultados ao Secretário e à Secretária, para aprovação.",
+   "tags": [
+    "spmulher",
+    "cicc",
+    "competencias"
+   ]
+  },
+  {
+   "id": "sistemas-elab-025",
+   "subtema": "SPMulher — CICC",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Coordenador temático",
+   "enunciado": "A definição do coordenador temático de cada comitê, entre seus membros, será feita pelo Coordenador Geral do CICC",
+   "alternativas": [
+    "após aprovação do Secretário da Segurança Pública em cada caso concreto",
+    "mediante indicação exclusiva da Secretaria de Políticas para a Mulher",
+    "por sorteio entre os representantes das instituições públicas integrantes",
+    "consultados a Coordenadoria de Políticas e o Núcleo Estratégico"
+   ],
+   "correta": 3,
+   "explicacao": "A definição ocorre por portaria, entre os membros do comitê, consultadas a Coordenadoria de Políticas de Segurança Pública e Defesa Social e o Núcleo Estratégico Interdisciplinar do Sistema.",
+   "tags": [
+    "spmulher",
+    "cicc",
+    "coordenador-tematico"
+   ]
+  },
+  {
+   "id": "sistemas-elab-026",
+   "subtema": "SPMulher — disposições finais",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Natureza da participação",
+   "enunciado": "A participação no Núcleo Estratégico Interdisciplinar e nos comitês de formulação de política pública integrada",
+   "alternativas": [
+    "implica afastamento das funções ordinárias enquanto durarem os trabalhos",
+    "é remunerada por jeton, conforme tabela fixada pela Secretaria da Segurança Pública",
+    "é serviço público relevante, não remunerado e sem prejuízo das atribuições dos membros",
+    "depende de autorização judicial quando envolver servidores do Poder Judiciário"
+   ],
+   "correta": 2,
+   "explicacao": "A resolução considera a participação serviço público relevante, sem ensejar qualquer remuneração, e determina que seja efetivada sem prejuízo das atribuições ordinárias de seus membros.",
+   "tags": [
+    "spmulher",
+    "participacao",
+    "servico-relevante"
+   ]
+  },
+  {
+   "id": "sistemas-elab-027",
+   "subtema": "SPMulher — disposições finais",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Proteção de dados",
+   "enunciado": "O disposto na resolução obedecerá às regras de proteção e restrição de acesso previstas",
+   "alternativas": [
+    "no Código de Processo Penal, quanto ao sigilo das investigações",
+    "exclusivamente na Lei Geral de Proteção de Dados Pessoais",
+    "na Lei de Acesso à Informação e na Lei Geral de Proteção de Dados",
+    "na Lei Maria da Penha, quanto ao sigilo dos dados das vítimas"
+   ],
+   "correta": 2,
+   "explicacao": "As regras de proteção e restrição de acesso são as da Lei de Acesso à Informação e da Lei Geral de Proteção de Dados, observadas as especificidades de cada dado ou informação constante do sistema.",
+   "tags": [
+    "spmulher",
+    "protecao-de-dados"
+   ]
+  },
+  {
+   "id": "sistemas-elab-028",
+   "subtema": "SP RECRIM — instituição",
+   "artigo": "Res. SSP 21/2023 — Instituição",
+   "enunciado": "O Sistema de Informações e Prevenção a Reiteração Criminal foi instituído",
+   "alternativas": [
+    "conjuntamente pelo Secretário da Segurança Pública e pela Secretaria da Justiça",
+    "pelo Secretário da Segurança Pública, por resolução de abril de 2023",
+    "pelo Coordenador Geral do Centro Integrado de Comando e Controle da Secretaria",
+    "pelo Governador do Estado, mediante decreto de organização administrativa"
+   ],
+   "correta": 1,
+   "explicacao": "O SP RECRIM foi instituído por resolução do Secretário da Segurança Pública, de 10 de abril de 2023, diferentemente do SPMulher, criado por resolução conjunta com a Secretaria de Políticas para a Mulher.",
+   "tags": [
+    "sprecrim",
+    "instituicao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-029",
+   "subtema": "SP RECRIM — objetivos",
+   "artigo": "Res. SSP 21/2023 — Objetivo",
+   "enunciado": "O SP RECRIM tem por objetivo integrar, consolidar, monitorar, divulgar, avaliar e aperfeiçoar dados e informações relativas",
+   "alternativas": [
+    "à letalidade decorrente de intervenções policiais no Estado de São Paulo",
+    "aos crimes praticados contra pessoas em situação de vulnerabilidade social",
+    "ao problema da reiteração criminal no Estado de São Paulo",
+    "ao cumprimento de medidas cautelares diversas da prisão no Estado"
+   ],
+   "correta": 2,
+   "explicacao": "O sistema volta-se ao problema da reiteração criminal no Estado, bem como às políticas, serviços, programas e ações destinadas à mitigação do problema, com consequente aumento da prevenção criminal e melhoria da segurança pública.",
+   "tags": [
+    "sprecrim",
+    "objetivos"
+   ]
+  },
+  {
+   "id": "sistemas-elab-030",
+   "subtema": "SP RECRIM — dados agregados",
+   "artigo": "Res. SSP 21/2023 — Base de agregação",
+   "enunciado": "O SP RECRIM buscará agregar dados e informações básicas",
+   "alternativas": [
+    "aos registros de ocorrências atendidas pelas unidades operacionais da Polícia Militar",
+    "aos registros de prisões, indiciamentos e demais formas de esclarecimento de infrações",
+    "aos processos de execução penal em curso nas varas criminais do Estado",
+    "aos cadastros de monitoração eletrônica administrados pela pasta penitenciária"
+   ],
+   "correta": 1,
+   "explicacao": "A agregação incide sobre os registros de prisões, indiciamentos e demais formas de esclarecimento de infrações penais no Estado, aos quais se somam gradualmente dados sobre antecedentes, situação na justiça criminal, processos, comunicações ao Judiciário e políticas de prevenção.",
+   "tags": [
+    "sprecrim",
+    "dados",
+    "base"
+   ]
+  },
+  {
+   "id": "sistemas-elab-031",
+   "subtema": "SP RECRIM — dados agregados",
+   "artigo": "Res. SSP 21/2023 — Rol de dados",
+   "enunciado": "Assinale o dado que não integra o rol de informações básicas a serem agregadas pelo SP RECRIM.",
+   "alternativas": [
+    "Resultado do procedimento de comunicação da infração ao Poder Judiciário",
+    "Antecedentes criminais da pessoa indicada como autora da infração registrada",
+    "Situação da pessoa indicada como autora perante o sistema de justiça criminal",
+    "Dados sobre a letalidade policial verificada nas abordagens a pessoas reincidentes"
+   ],
+   "correta": 3,
+   "explicacao": "O rol abrange antecedentes criminais, situação perante a justiça criminal, número de processos ou procedimentos pré-processuais, número e resultado do procedimento de comunicação ao Judiciário e políticas, programas e ações de prevenção da reiteração; a letalidade policial não integra esse rol.",
+   "tags": [
+    "sprecrim",
+    "dados",
+    "rol"
+   ]
+  },
+  {
+   "id": "sistemas-elab-032",
+   "subtema": "SP RECRIM — dados agregados",
+   "artigo": "Res. SSP 21/2023 — Comunicação ao Judiciário",
+   "enunciado": "Entre os dados agregados pelo SP RECRIM figuram informações sobre o procedimento de comunicação da situação do autor da infração",
+   "alternativas": [
+    "aos órgãos do Poder Judiciário competentes para apreciação dos fatos",
+    "ao Ministério Público, para eventual oferecimento de denúncia criminal",
+    "à Defensoria Pública, para assistência jurídica ao autor do fato apurado",
+    "à administração penitenciária, para controle do cumprimento de pena"
+   ],
+   "correta": 0,
+   "explicacao": "A resolução prevê o número e o resultado do procedimento de comunicação da situação da pessoa indicada como autora aos órgãos do Poder Judiciário competentes para apreciação dos fatos objeto da infração registrada.",
+   "tags": [
+    "sprecrim",
+    "dados",
+    "judiciario"
+   ]
+  },
+  {
+   "id": "sistemas-elab-033",
+   "subtema": "SP RECRIM — estatística",
+   "artigo": "Res. SSP 21/2023 — Fonte estatística",
+   "enunciado": "Os dados de reiteração criminal que integram o Sistema Estadual de Coleta de Estatísticas Criminais passaram a ter como fonte o SP RECRIM",
+   "alternativas": [
+    "a contar de 1º de maio de 2023, preservada a série histórica dos dados",
+    "a contar de 1º de junho de 2023, preservada a série histórica dos dados",
+    "desde a data de publicação da resolução, com nova série histórica",
+    "a partir do primeiro dia do exercício seguinte ao da publicação"
+   ],
+   "correta": 0,
+   "explicacao": "O marco do SP RECRIM é 1º de maio de 2023, respeitados integralmente os critérios e requisitos necessários à manutenção da série histórica; no SPMulher, o marco é 1º de junho de 2023.",
+   "tags": [
+    "sprecrim",
+    "estatistica",
+    "prazo"
+   ]
+  },
+  {
+   "id": "sistemas-elab-034",
+   "subtema": "SP RECRIM — estatística",
+   "artigo": "Res. SSP 21/2023 — Dever de subsidiar",
+   "enunciado": "Quanto ao fornecimento de dados para o funcionamento do SP RECRIM, os integrantes do Sistema Estadual de Coleta de Estatísticas Criminais",
+   "alternativas": [
+    "deverão subsidiar a SSP com os dados e informações necessários",
+    "poderão subsidiar a SSP, conforme sua conveniência administrativa",
+    "poderão subsidiar a SSP mediante prévia celebração de convênio",
+    "somente fornecerão dados mediante termo de cooperação técnica"
+   ],
+   "correta": 0,
+   "explicacao": "O dever de subsidiar é imposto a todos os integrantes do Sistema Estadual de Coleta de Estatísticas Criminais, sem condicionamento a convênio ou termo de cooperação, solução idêntica à do SPMulher.",
+   "tags": [
+    "sprecrim",
+    "estatistica",
+    "dever"
+   ]
+  },
+  {
+   "id": "sistemas-elab-035",
+   "subtema": "SP RECRIM — transparência",
+   "artigo": "Res. SSP 21/2023 — Divulgação mensal",
+   "enunciado": "A divulgação mensal das informações do SP RECRIM, em formatos simples e acessíveis, destina-se a permitir",
+   "alternativas": [
+    "o acompanhamento público da evolução do problema e a ampla auditoria dos dados",
+    "exclusivamente o acompanhamento público da evolução do problema criminal",
+    "exclusivamente a auditoria interna da Secretaria da Segurança Pública",
+    "o acesso da população aos registros individuais de antecedentes criminais"
+   ],
+   "correta": 0,
+   "explicacao": "São finalidades cumulativas o acompanhamento público da evolução dos problemas relacionados à reiteração criminal e das políticas implantadas, e a ampla auditoria sobre a coleta, consolidação e divulgação dos dados que integram o sistema estadual de estatísticas.",
+   "tags": [
+    "sprecrim",
+    "transparencia"
+   ]
+  },
+  {
+   "id": "sistemas-elab-036",
+   "subtema": "SP RECRIM — compartilhamento",
+   "artigo": "Res. SSP 21/2023 — Dados não publicados",
+   "enunciado": "Os dados e informações integrantes do SP RECRIM não publicados, respeitada a legislação aplicável,",
+   "alternativas": [
+    "poderão ser compartilhados com órgãos e instituições de interesse público",
+    "não poderão ser compartilhados, por integrarem base de dados sigilosa",
+    "somente poderão ser compartilhados com órgãos do sistema de justiça criminal",
+    "serão publicados integralmente nos relatórios mensais da Secretaria"
+   ],
+   "correta": 0,
+   "explicacao": "Os dados não publicados podem ser compartilhados com outros órgãos e instituições públicas e privadas de interesse público, a fim de subsidiar políticas, programas e ações em áreas diversas ou complementares à segurança pública.",
+   "tags": [
+    "sprecrim",
+    "compartilhamento"
+   ]
+  },
+  {
+   "id": "sistemas-elab-037",
+   "subtema": "SP RECRIM — núcleo estratégico",
+   "artigo": "Res. SSP 21/2023 — Natureza do Núcleo",
+   "enunciado": "O Núcleo Estratégico Interdisciplinar sobre informações e prevenção à reiteração criminal foi instituído como",
+   "alternativas": [
+    "comitê temporário de formulação de política pública integrada sobre reiteração",
+    "integrante do Centro Integrado de Comando e Controle da Secretaria da Segurança",
+    "integrante do Sistema SP RECRIM, na forma de fórum permanente de cooperação",
+    "órgão de assessoramento direto do Governador do Estado em segurança pública"
+   ],
+   "correta": 2,
+   "explicacao": "O Núcleo integra o próprio Sistema SP RECRIM e constitui fórum permanente de cooperação entre operadores de segurança pública, instituições públicas e privadas e representantes da sociedade civil ou vítimas desses problemas criminais.",
+   "tags": [
+    "sprecrim",
+    "nucleo",
+    "natureza"
+   ]
+  },
+  {
+   "id": "sistemas-elab-038",
+   "subtema": "SP RECRIM — núcleo estratégico",
+   "artigo": "Res. SSP 21/2023 — Composição",
+   "enunciado": "Compõem o Núcleo Estratégico Interdisciplinar do SP RECRIM representantes",
+   "alternativas": [
+    "da Administração Gerencial da SSP, da Polícia Civil, da Polícia Militar e das guardas municipais",
+    "da Administração Superior da SSP, da Polícia Civil, da Polícia Militar e da Polícia Técnico-Científica",
+    "da SSP, da Secretaria de Políticas para a Mulher, da Polícia Civil e da Polícia Militar",
+    "da SSP, da Secretaria da Administração Penitenciária e do Ministério Público estadual"
+   ],
+   "correta": 1,
+   "explicacao": "A composição reúne representantes da Administração Superior da SSP, da Polícia Civil, da Polícia Militar e da Superintendência da Polícia Técnico-Científica, sendo possível convidar, a critério do Secretário, representantes de outras pastas e instituições.",
+   "tags": [
+    "sprecrim",
+    "nucleo",
+    "composicao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-039",
+   "subtema": "SP RECRIM — núcleo estratégico",
+   "artigo": "Res. SSP 21/2023 — Convidados",
+   "enunciado": "A critério do Secretário da Segurança Pública, poderão ser convidados a integrar o Núcleo do SP RECRIM representantes",
+   "alternativas": [
+    "somente de instituições privadas conveniadas com a Secretaria da Segurança",
+    "apenas de órgãos policiais estaduais e federais com atuação no Estado",
+    "exclusivamente de organizações da sociedade civil e de vítimas de crimes",
+    "da Secretaria da Justiça, da SAP, do Judiciário, do MP e da Defensoria Pública"
+   ],
+   "correta": 3,
+   "explicacao": "Podem ser convidados representantes da Secretaria da Justiça, da Secretaria da Administração Penitenciária, do Poder Judiciário, do Ministério Público, da Defensoria Pública e de outros órgãos ou entidades públicas ou privadas que possam contribuir com o sistema.",
+   "tags": [
+    "sprecrim",
+    "nucleo",
+    "convidados"
+   ]
+  },
+  {
+   "id": "sistemas-elab-040",
+   "subtema": "SP RECRIM — núcleo estratégico",
+   "artigo": "Res. SSP 21/2023 — Coordenação",
+   "enunciado": "A coordenação do Núcleo Estratégico Interdisciplinar do SP RECRIM será definida",
+   "alternativas": [
+    "pelo Secretário da Segurança Pública, entre os representantes indicados",
+    "pelo Secretário da Segurança Pública em conjunto com o Delegado Geral de Polícia",
+    "pelo Coordenador Geral do Centro Integrado de Comando e Controle da pasta",
+    "pelos próprios membros do Núcleo, mediante escolha na primeira reunião"
+   ],
+   "correta": 0,
+   "explicacao": "No SP RECRIM a coordenação é definida apenas pelo Secretário da Segurança Pública entre os representantes indicados, ao passo que no SPMulher a definição é conjunta com a Secretária de Políticas para a Mulher.",
+   "tags": [
+    "sprecrim",
+    "nucleo",
+    "coordenacao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-041",
+   "subtema": "SP RECRIM — núcleo estratégico",
+   "artigo": "Res. SSP 21/2023 — Objetivos",
+   "enunciado": "Entre os objetivos do Núcleo Estratégico Interdisciplinar do SP RECRIM inclui-se",
+   "alternativas": [
+    "designar por portaria os coordenadores temáticos dos comitês constituídos",
+    "instalar os comitês técnicos no âmbito do Centro Integrado de Comando e Controle",
+    "subsidiar a SSP na análise geral dos crimes e das causas da reiteração criminal",
+    "aprovar os resultados dos trabalhos dos comitês de formulação de políticas"
+   ],
+   "correta": 2,
+   "explicacao": "O Núcleo subsidia a SSP na análise dos crimes e causas da reiteração, auxilia na definição de temas de políticas integradas, propõe o encaminhamento para formulação em comitês técnicos do CICC, auxilia nas estratégias de comunicação e produz relatório mensal.",
+   "tags": [
+    "sprecrim",
+    "nucleo",
+    "objetivos"
+   ]
+  },
+  {
+   "id": "sistemas-elab-042",
+   "subtema": "SP RECRIM — núcleo estratégico",
+   "artigo": "Res. SSP 21/2023 — Relatório mensal",
+   "enunciado": "O relatório produzido mensalmente pelo Núcleo Estratégico do SP RECRIM destina-se a",
+   "alternativas": [
+    "orientar as unidades operacionais quanto ao emprego do policiamento ostensivo",
+    "informar o Poder Judiciário sobre a situação processual dos reincidentes no Estado",
+    "subsidiar medidas das coordenadorias responsáveis pelas políticas de segurança pública",
+    "divulgar à imprensa os resultados das políticas de prevenção implantadas"
+   ],
+   "correta": 2,
+   "explicacao": "O relatório mensal, produzido a partir dos dados integrados no sistema, subsidia medidas sob atribuição das coordenadorias da SSP responsáveis pela definição, integração, monitoramento e avaliação das políticas de segurança pública e defesa social.",
+   "tags": [
+    "sprecrim",
+    "nucleo",
+    "relatorio"
+   ]
+  },
+  {
+   "id": "sistemas-elab-043",
+   "subtema": "SP RECRIM — competências",
+   "artigo": "Res. SSP 21/2023 — Coordenador do Núcleo",
+   "enunciado": "Compete ao Coordenador do Núcleo Estratégico Interdisciplinar do SP RECRIM",
+   "alternativas": [
+    "instalar por portaria os comitês relacionados aos problemas do sistema",
+    "sugerir a criação dos comitês de formulação de políticas públicas integradas",
+    "providenciar a inclusão de novos membros indicados pelo Secretário da Segurança",
+    "restituir ao Secretário os resultados dos trabalhos desenvolvidos pelos comitês"
+   ],
+   "correta": 2,
+   "explicacao": "Ao Coordenador do Núcleo cabe coordenar os trabalhos, propiciar a análise de dados, convocar reuniões, definir cronograma, providenciar a inclusão de novos membros indicados pelo Secretário, convidar representantes e solicitar à SSP a instalação de comitês.",
+   "tags": [
+    "sprecrim",
+    "competencias",
+    "coordenador"
+   ]
+  },
+  {
+   "id": "sistemas-elab-044",
+   "subtema": "SP RECRIM — competências",
+   "artigo": "Res. SSP 21/2023 — Membros do Núcleo",
+   "enunciado": "Compete aos membros do Núcleo Estratégico Interdisciplinar do SP RECRIM",
+   "alternativas": [
+    "definir o cronograma de atividades das reuniões do próprio Núcleo Estratégico",
+    "solicitar à SSP a instalação dos comitês para resolução de problema específico",
+    "sugerir a criação de comitês e indicar representantes conforme a especialidade",
+    "coordenar metodologicamente os trabalhos dos comitês instalados no CICC"
+   ],
+   "correta": 2,
+   "explicacao": "Aos membros cabe comparecer às reuniões e colaborar na análise dos problemas e na construção de soluções, sugerir a criação de comitês e indicar representantes, contribuir com as estratégias de comunicação e desenvolver as demandas do Núcleo.",
+   "tags": [
+    "sprecrim",
+    "competencias",
+    "membros"
+   ]
+  },
+  {
+   "id": "sistemas-elab-045",
+   "subtema": "SP RECRIM — CICC",
+   "artigo": "Res. SSP 21/2023 — Coordenador Geral do CICC",
+   "enunciado": "Compete ao Coordenador Geral do Centro Integrado de Comando e Controle, na sistemática do SP RECRIM,",
+   "alternativas": [
+    "produzir o relatório mensal a partir dos dados integrados ao sistema",
+    "sugerir a criação dos comitês e indicar representantes segundo a especialidade",
+    "instalar por portaria os comitês e designar seus membros convocados ou indicados",
+    "aprovar em definitivo os resultados dos trabalhos dos comitês instalados"
+   ],
+   "correta": 2,
+   "explicacao": "Ao Coordenador Geral do CICC cabe instalar os comitês por portaria com data de início e término, designar seus membros, definir o coordenador temático, coordenar metodologicamente os trabalhos e restituir os resultados ao Secretário, para aprovação.",
+   "tags": [
+    "sprecrim",
+    "cicc",
+    "competencias"
+   ]
+  },
+  {
+   "id": "sistemas-elab-046",
+   "subtema": "SP RECRIM — comitês",
+   "artigo": "Res. SSP 21/2023 — Número de membros",
+   "enunciado": "Os membros do comitê de formulação de política pública integrada indicados pelas instituições públicas ou privadas serão em número",
+   "alternativas": [
+    "mínimo de um e máximo de três integrantes",
+    "mínimo de dois e máximo de seis integrantes",
+    "mínimo de três e máximo de cinco integrantes",
+    "mínimo de cinco e máximo de sete integrantes"
+   ],
+   "correta": 0,
+   "explicacao": "A resolução fixa o número mínimo de um e máximo de três integrantes indicados por cada instituição, exigindo que possuam necessariamente os perfis profissionais previstos.",
+   "tags": [
+    "sprecrim",
+    "comites",
+    "membros"
+   ]
+  },
+  {
+   "id": "sistemas-elab-047",
+   "subtema": "SP RECRIM — comitês",
+   "artigo": "Res. SSP 21/2023 — Perfil em nível de rua",
+   "enunciado": "O perfil profissional em nível de rua, exigido dos membros dos comitês, caracteriza-se por",
+   "alternativas": [
+    "proatividade e experiência gerencial para descrever o modelo vigente de atendimento",
+    "proatividade e experiência operacional para descrever o modelo vigente e suas deficiências",
+    "conhecimento técnico para avaliar a viabilidade orçamentária da solução proposta",
+    "capacidade de garantir a resolução integral do problema-tema em análise"
+   ],
+   "correta": 1,
+   "explicacao": "O perfil em nível de rua exige proatividade e experiência operacional suficientes para descrever com precisão o modelo vigente de atendimento e solução do problema-tema, apontar deficiências e indicar correções e melhorias para uma nova solução integrada.",
+   "tags": [
+    "sprecrim",
+    "comites",
+    "perfil-rua"
+   ]
+  },
+  {
+   "id": "sistemas-elab-048",
+   "subtema": "SP RECRIM — comitês",
+   "artigo": "Res. SSP 21/2023 — Perfil estratégico ou tático",
+   "enunciado": "O perfil profissional em nível estratégico ou tático caracteriza-se por",
+   "alternativas": [
+    "capacidade para executar as políticas formuladas nas unidades operacionais",
+    "experiência operacional para descrever as deficiências do atendimento ao público",
+    "conhecimento para dar suporte técnico à formulação e à viabilidade",
+    "autoridade para aprovar a solução integrada proposta pelo comitê técnico"
+   ],
+   "correta": 2,
+   "explicacao": "Esse perfil exige proatividade, conhecimento e capacidade de contribuir com informações técnicas de suporte ao processo de formulação da política quanto à viabilidade estrutural, orçamentária e legal da solução integrada.",
+   "tags": [
+    "sprecrim",
+    "comites",
+    "perfil-estrategico"
+   ]
+  },
+  {
+   "id": "sistemas-elab-049",
+   "subtema": "SP RECRIM — comitês",
+   "artigo": "Res. SSP 21/2023 — Acúmulo de perfis",
+   "enunciado": "Quanto aos dois perfis profissionais exigidos dos membros indicados para os comitês,",
+   "alternativas": [
+    "um mesmo profissional pode reunir ambos os perfis exigidos pela resolução",
+    "cada instituição deve indicar necessariamente dois profissionais distintos",
+    "os perfis são alternativos, bastando que o indicado possua um deles",
+    "o perfil estratégico é exigido apenas dos representantes das polícias"
+   ],
+   "correta": 0,
+   "explicacao": "A resolução admite expressamente que um mesmo profissional reúna os dois perfis necessários, o que flexibiliza a composição dos comitês sem afastar a exigência de que ambos estejam representados.",
+   "tags": [
+    "sprecrim",
+    "comites",
+    "perfis"
+   ]
+  },
+  {
+   "id": "sistemas-elab-050",
+   "subtema": "SP RECRIM — disposições finais",
+   "artigo": "Res. SSP 21/2023 — Natureza da participação",
+   "enunciado": "A participação no Núcleo Estratégico e nos comitês do SP RECRIM",
+   "alternativas": [
+    "depende de autorização prévia do dirigente máximo de cada instituição",
+    "enseja o pagamento de gratificação por participação em colegiado técnico",
+    "implica dispensa do serviço ordinário enquanto durarem os trabalhos",
+    "é serviço público relevante, não remunerado e sem prejuízo das funções"
+   ],
+   "correta": 3,
+   "explicacao": "Tal como no SPMulher, a participação é considerada serviço público relevante, não enseja remuneração e é efetivada sem prejuízo das atribuições ordinárias dos membros.",
+   "tags": [
+    "sprecrim",
+    "participacao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-051",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023",
+   "enunciado": "Comparados o SPMulher e o SP RECRIM quanto ao ato instituidor, verifica-se que",
+   "alternativas": [
+    "ambos decorrem de resolução conjunta de duas pastas do Governo estadual",
+    "aquele decorre de resolução conjunta e este, de resolução do Secretário da Segurança",
+    "ambos decorrem de resolução exclusiva do Secretário da Segurança Pública",
+    "aquele decorre de decreto do Governador e este, de resolução da Secretaria"
+   ],
+   "correta": 1,
+   "explicacao": "O SPMulher foi criado por resolução conjunta do Secretário da Segurança Pública e da Secretaria de Políticas para a Mulher; o SP RECRIM, por resolução do Secretário da Segurança Pública.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "instituicao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-052",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023",
+   "enunciado": "Quanto à composição dos respectivos núcleos estratégicos, a diferença essencial é que",
+   "alternativas": [
+    "somente o do SPMulher conta com representante da Polícia Militar do Estado",
+    "somente o do SP RECRIM conta com representante da Polícia Técnico-Científica",
+    "somente o do SPMulher conta com representante da Secretaria de Políticas para a Mulher",
+    "somente o do SP RECRIM admite o convite de representantes da sociedade civil"
+   ],
+   "correta": 2,
+   "explicacao": "Ambos contam com representantes da SSP, da Polícia Civil, da Polícia Militar e da Polícia Técnico-Científica; apenas o Núcleo do SPMulher inclui representante da Secretaria de Políticas para a Mulher, coerentemente com a origem conjunta da resolução.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "composicao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-053",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023",
+   "enunciado": "Quanto ao fluxo de criação dos comitês de formulação de políticas públicas integradas, em ambos os sistemas",
+   "alternativas": [
+    "os membros sugerem, o coordenador solicita à SSP e o CICC instala por portaria",
+    "o coordenador sugere, os membros solicitam e o Secretário instala por portaria",
+    "o CICC sugere, o coordenador instala e os membros designam os representantes",
+    "o Secretário sugere, o CICC solicita e o coordenador temático instala o comitê"
+   ],
+   "correta": 0,
+   "explicacao": "O fluxo é idêntico nos dois sistemas: os membros do Núcleo sugerem a criação e indicam representantes, o Coordenador do Núcleo solicita à SSP a instalação e o Coordenador Geral do CICC instala por portaria, designa membros, define coordenador temático e restitui os resultados.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "fluxo"
+   ]
+  },
+  {
+   "id": "sistemas-elab-054",
+   "subtema": "SPMulher — aplicação prática",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Uso operacional",
+   "enunciado": "Guarnição é acionada para atendimento de ocorrência de violência doméstica em endereço já conhecido. O SPMulher permite que a equipe verifique, de forma ágil e sistematizada,",
+   "alternativas": [
+    "o prontuário médico da vítima na rede pública estadual de saúde do município",
+    "registros anteriores, reiterações de agressões e medidas protetivas",
+    "a movimentação financeira do agressor nos últimos doze meses de atividade",
+    "o histórico escolar dos filhos do casal matriculados na rede estadual de ensino"
+   ],
+   "correta": 1,
+   "explicacao": "O sistema dá acesso a registros correlatos e anteriores de ocorrências, reiterações de agressões, medidas protetivas, especialmente as de monitoramento eletrônico, e processos criminais relativos às vítimas, aos agressores ou aos endereços dos atendimentos.",
+   "tags": [
+    "spmulher",
+    "aplicacao",
+    "consulta"
+   ]
+  },
+  {
+   "id": "sistemas-elab-055",
+   "subtema": "SPMulher — aplicação prática",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Medidas protetivas",
+   "enunciado": "Entre as medidas protetivas cujo acompanhamento é destacado pelo SPMulher figuram, em especial, aquelas relacionadas",
+   "alternativas": [
+    "à prestação de alimentos provisionais fixados em favor da vítima",
+    "ao afastamento do agressor do local de trabalho da vítima em período integral",
+    "à suspensão do direito de visita aos filhos menores do casal em conflito",
+    "ao monitoramento eletrônico do agressor submetido à medida cautelar"
+   ],
+   "correta": 3,
+   "explicacao": "A resolução destaca o acesso às medidas protetivas, em especial as relacionadas a monitoramento eletrônico, instrumento também mencionado entre os mecanismos para prevenir, coibir e punir a violência doméstica e familiar contra a mulher.",
+   "tags": [
+    "spmulher",
+    "aplicacao",
+    "protetivas"
+   ]
+  },
+  {
+   "id": "sistemas-elab-056",
+   "subtema": "SPMulher — aplicação prática",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Encaminhamentos",
+   "enunciado": "Além dos dados criminais, o SPMulher agrega informações sobre os encaminhamentos realizados",
+   "alternativas": [
+    "aos órgãos de assistência jurídica gratuita responsáveis pela defesa do autor",
+    "às varas criminais competentes para processar e julgar o agressor identificado",
+    "aos serviços e ações disponíveis para proteção das pessoas em situação de violência",
+    "às unidades prisionais de destino dos autores presos em flagrante delito"
+   ],
+   "correta": 2,
+   "explicacao": "O sistema agrega dados sobre os encaminhamentos realizados aos serviços e ações disponíveis para a proteção das pessoas em situação de violência, ao lado dos registros policiais iniciais, das categorizações dos delitos e dos números e resultados de inquéritos e processos.",
+   "tags": [
+    "spmulher",
+    "aplicacao",
+    "encaminhamentos"
+   ]
+  },
+  {
+   "id": "sistemas-elab-057",
+   "subtema": "SPMulher — aplicação prática",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Categorização",
+   "enunciado": "As eventuais categorizações dos delitos que o SPMulher agrega aos registros são estabelecidas",
+   "alternativas": [
+    "a partir das análises criminais preliminares realizadas sobre os fatos registrados",
+    "pela autoridade judiciária competente, ao receber a comunicação da ocorrência",
+    "pelo policial militar responsável pelo atendimento inicial da ocorrência",
+    "pelo Núcleo Estratégico Interdisciplinar, em seu relatório mensal consolidado"
+   ],
+   "correta": 0,
+   "explicacao": "A resolução refere-se às categorizações estabelecidas a partir das análises criminais preliminares realizadas, dado que se soma aos atendimentos, registros, encaminhamentos, exames periciais, políticas de prevenção e resultados de inquéritos e processos.",
+   "tags": [
+    "spmulher",
+    "aplicacao",
+    "categorizacao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-058",
+   "subtema": "SPMulher — aplicação prática",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Lei Maria da Penha",
+   "enunciado": "Quanto aos atendimentos policiais, o SPMulher agrega dados sobre a efetiva garantia de direitos e a adoção de medidas, providências e procedimentos especializados previstos",
+   "alternativas": [
+    "na Lei Maria da Penha e nas demais legislações aplicáveis a cada caso concreto",
+    "exclusivamente no Código de Processo Penal, quanto às medidas cautelares",
+    "exclusivamente na Lei Maria da Penha, afastadas as demais legislações",
+    "nas normas internas da Polícia Militar sobre atendimento a vítimas de violência"
+   ],
+   "correta": 0,
+   "explicacao": "A resolução menciona a garantia de direitos e a adoção das medidas, providências e procedimentos especializados previstos na Lei Maria da Penha e nas demais legislações aplicáveis a cada caso concreto.",
+   "tags": [
+    "spmulher",
+    "aplicacao",
+    "maria-da-penha"
+   ]
+  },
+  {
+   "id": "sistemas-elab-059",
+   "subtema": "SPMulher — aplicação prática",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Inquéritos e processos",
+   "enunciado": "O SPMulher agrega ainda dados relativos aos números e resultados",
+   "alternativas": [
+    "das ações cíveis de indenização propostas pelas vítimas contra os agressores",
+    "dos procedimentos disciplinares instaurados contra policiais que atenderam a ocorrência",
+    "dos atendimentos prestados pela rede municipal de assistência social às vítimas",
+    "dos inquéritos policiais instaurados e dos processos criminais correspondentes"
+   ],
+   "correta": 3,
+   "explicacao": "O rol inclui números e resultados dos inquéritos policiais instaurados para investigação dos fatos e dos eventuais processos criminais instaurados no âmbito do Poder Judiciário para apuração dos mesmos fatos.",
+   "tags": [
+    "spmulher",
+    "aplicacao",
+    "inqueritos"
+   ]
+  },
+  {
+   "id": "sistemas-elab-060",
+   "subtema": "SPMulher — estrutura",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Coordenadorias",
+   "enunciado": "O Sistema SPMulher é desenvolvido no âmbito",
+   "alternativas": [
+    "da Secretaria de Políticas para a Mulher, com apoio técnico da Secretaria da Segurança",
+    "das coordenadorias da Secretaria da Segurança Pública responsáveis pelas políticas de segurança",
+    "do Centro Integrado de Comando e Controle da Secretaria da Segurança Pública",
+    "do Núcleo Estratégico Interdisciplinar sobre crimes contra a mulher do Estado"
+   ],
+   "correta": 1,
+   "explicacao": "O desenvolvimento cabe às coordenadorias da SSP responsáveis pela definição, integração, monitoramento e avaliação das políticas de segurança pública e defesa social, ainda que a instituição do sistema tenha sido conjunta com a Secretaria de Políticas para a Mulher.",
+   "tags": [
+    "spmulher",
+    "estrutura",
+    "coordenadorias"
+   ]
+  },
+  {
+   "id": "sistemas-elab-061",
+   "subtema": "SPMulher — estrutura",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Comitês no CICC",
+   "enunciado": "A resolução que institui o SPMulher autoriza a instalação, no âmbito do Centro Integrado de Comando e Controle,",
+   "alternativas": [
+    "de núcleos regionais de atendimento às mulheres em situação de violência doméstica",
+    "de comitês de formulação de políticas públicas integradas para problemas criminais específicos",
+    "de centrais de monitoramento eletrônico dos agressores submetidos a medidas cautelares",
+    "de delegacias especializadas de defesa da mulher em regime de plantão permanente"
+   ],
+   "correta": 1,
+   "explicacao": "A resolução autoriza a instalação, no âmbito do CICC, de comitês de formulação de políticas públicas integradas para a resolução de problemas criminais específicos identificados pelo sistema, solução idêntica à adotada no SP RECRIM.",
+   "tags": [
+    "spmulher",
+    "estrutura",
+    "comites"
+   ]
+  },
+  {
+   "id": "sistemas-elab-062",
+   "subtema": "SPMulher — aplicação prática",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Fluxo de trabalho",
+   "enunciado": "Identificado, pelo Núcleo Estratégico do SPMulher, problema criminal que exija política pública integrada, o encaminhamento correto é",
+   "alternativas": [
+    "o próprio Núcleo instalar o comitê e designar seus membros por portaria",
+    "o coordenador solicitar à SSP a instalação de comitê no âmbito do CICC",
+    "a Secretaria de Políticas para a Mulher instituir grupo de trabalho específico",
+    "o Coordenador Geral do CICC sugerir a criação do comitê ao Secretário"
+   ],
+   "correta": 1,
+   "explicacao": "Cabe ao Coordenador do Núcleo solicitar à Secretaria da Segurança Pública a instalação dos comitês no âmbito do CICC; a instalação por portaria, a designação de membros e a definição do coordenador temático competem ao Coordenador Geral do CICC.",
+   "tags": [
+    "spmulher",
+    "aplicacao",
+    "fluxo"
+   ]
+  },
+  {
+   "id": "sistemas-elab-063",
+   "subtema": "SPMulher — aplicação prática",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Restituição dos resultados",
+   "enunciado": "Concluídos os trabalhos do comitê de formulação de política pública integrada no SPMulher, os resultados serão restituídos",
+   "alternativas": [
+    "diretamente às unidades operacionais das polícias, para execução imediata",
+    "apenas ao Núcleo Estratégico Interdisciplinar, que decidirá sobre sua implantação",
+    "ao Secretário e à Secretária, para aprovação, e ao Núcleo, para ciência",
+    "ao Governador do Estado, a quem compete aprovar as políticas formuladas"
+   ],
+   "correta": 2,
+   "explicacao": "O Coordenador Geral do CICC restitui os resultados ao Secretário da Segurança Pública e à Secretária de Políticas para a Mulher, para aprovação, e à Coordenadoria de Políticas de Segurança Pública e Defesa Social e ao Núcleo Estratégico, para conhecimento.",
+   "tags": [
+    "spmulher",
+    "aplicacao",
+    "restituicao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-064",
+   "subtema": "SP RECRIM — aplicação prática",
+   "artigo": "Res. SSP 21/2023 — Uso operacional",
+   "enunciado": "Efetuada prisão em flagrante, o SP RECRIM permite agregar ao registro dados sobre",
+   "alternativas": [
+    "a situação socioeconômica da família do autor da infração penal registrada",
+    "os antecedentes criminais e a situação do autor perante o sistema de justiça criminal",
+    "o histórico de atendimentos de saúde do autor na rede pública estadual",
+    "as relações de parentesco do autor com outros investigados no mesmo distrito"
+   ],
+   "correta": 1,
+   "explicacao": "O sistema agrega aos registros de prisões e indiciamentos os antecedentes criminais do autor, sua situação perante o sistema de justiça criminal, os números de processos ou procedimentos correlatos, as comunicações ao Judiciário e seus resultados.",
+   "tags": [
+    "sprecrim",
+    "aplicacao",
+    "flagrante"
+   ]
+  },
+  {
+   "id": "sistemas-elab-065",
+   "subtema": "SP RECRIM — aplicação prática",
+   "artigo": "Res. SSP 21/2023 — Finalidade prática",
+   "enunciado": "A agregação de dados promovida pelo SP RECRIM destina-se, em última análise,",
+   "alternativas": [
+    "a permitir o compartilhamento de dados com instituições financeiras privadas",
+    "a subsidiar o agravamento das penas aplicadas aos autores reincidentes",
+    "a mitigar a reiteração criminal e aumentar a prevenção e a segurança pública",
+    "a substituir os sistemas de registro de ocorrências das polícias do Estado"
+   ],
+   "correta": 2,
+   "explicacao": "O objetivo declarado é integrar e aperfeiçoar dados sobre a reiteração criminal e as políticas destinadas à mitigação do problema, com consequente aumento da prevenção criminal e melhoria da segurança pública da população paulista.",
+   "tags": [
+    "sprecrim",
+    "aplicacao",
+    "finalidade"
+   ]
+  },
+  {
+   "id": "sistemas-elab-066",
+   "subtema": "SP RECRIM — aplicação prática",
+   "artigo": "Res. SSP 21/2023 — Políticas de prevenção",
+   "enunciado": "Entre os dados agregados pelo SP RECRIM incluem-se informações sobre",
+   "alternativas": [
+    "o efetivo policial empregado em cada município para repressão à criminalidade",
+    "políticas, programas e ações realizadas para prevenção da reiteração criminal no Estado",
+    "o orçamento anual destinado às unidades prisionais do Estado de São Paulo",
+    "os índices de produtividade das delegacias de polícia da capital e do interior"
+   ],
+   "correta": 1,
+   "explicacao": "O rol compreende dados sobre as políticas, programas e ações realizadas para prevenção da reiteração criminal no Estado e o consequente aumento da prevenção criminal e melhoria da segurança pública.",
+   "tags": [
+    "sprecrim",
+    "aplicacao",
+    "politicas"
+   ]
+  },
+  {
+   "id": "sistemas-elab-067",
+   "subtema": "SP RECRIM — aplicação prática",
+   "artigo": "Res. SSP 21/2023 — Fluxo de trabalho",
+   "enunciado": "Membro do Núcleo Estratégico do SP RECRIM identifica a necessidade de política pública integrada sobre determinado problema. A providência que lhe compete é",
+   "alternativas": [
+    "designar o coordenador temático do comitê entre os representantes indicados",
+    "solicitar diretamente à SSP a instalação do comitê no âmbito do CICC",
+    "instalar o comitê por portaria e definir a data de início e término dos trabalhos",
+    "sugerir a criação do comitê e indicar representantes conforme a especialidade"
+   ],
+   "correta": 3,
+   "explicacao": "Aos membros cabe sugerir a criação de comitês e indicar representantes; a solicitação de instalação é do Coordenador do Núcleo e a instalação por portaria, com designação de membros e coordenador temático, é do Coordenador Geral do CICC.",
+   "tags": [
+    "sprecrim",
+    "aplicacao",
+    "fluxo"
+   ]
+  },
+  {
+   "id": "sistemas-elab-068",
+   "subtema": "SP RECRIM — aplicação prática",
+   "artigo": "Res. SSP 21/2023 — Convite a instituições",
+   "enunciado": "Constatada a necessidade de participação de instituição não prevista originalmente nos trabalhos do Núcleo do SP RECRIM, cabe ao seu Coordenador",
+   "alternativas": [
+    "designar por portaria os novos integrantes do Núcleo Estratégico do sistema",
+    "convidar representantes de áreas ou instituições consideradas indispensáveis",
+    "submeter o pedido ao Coordenador Geral do CICC para deliberação final",
+    "encaminhar proposta de alteração da resolução ao Governador do Estado"
+   ],
+   "correta": 1,
+   "explicacao": "Entre as competências do Coordenador do Núcleo está convidar representantes de áreas ou instituições cujas participações sejam consideradas indispensáveis ao cumprimento do disposto na resolução, além de providenciar a inclusão de novos membros indicados pelo Secretário.",
+   "tags": [
+    "sprecrim",
+    "aplicacao",
+    "convite"
+   ]
+  },
+  {
+   "id": "sistemas-elab-069",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Objeto",
+   "enunciado": "Comparados os objetos dos dois sistemas, é correto afirmar que",
+   "alternativas": [
+    "um trata da letalidade policial e o outro, dos crimes patrimoniais reiterados",
+    "ambos tratam exclusivamente de crimes praticados em contexto de violência doméstica",
+    "ambos tratam do monitoramento eletrônico de autores de infrações penais no Estado",
+    "um trata de crimes contra a mulher e o outro, do problema da reiteração criminal"
+   ],
+   "correta": 3,
+   "explicacao": "O SPMulher volta-se aos registros de crimes contra pessoas do gênero feminino, em especial os cometidos em razão dessa condição, e o SP RECRIM, ao problema da reiteração criminal no Estado, ambos com estrutura normativa paralela.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "objeto"
+   ]
+  },
+  {
+   "id": "sistemas-elab-070",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Núcleos",
+   "enunciado": "Quanto à natureza dos núcleos estratégicos previstos nos dois sistemas, ambos",
+   "alternativas": [
+    "são comitês temporários instalados por portaria do Coordenador Geral do CICC",
+    "são fóruns permanentes de cooperação instituídos como integrantes dos respectivos sistemas",
+    "integram formalmente a estrutura do Centro Integrado de Comando e Controle",
+    "possuem competência deliberativa sobre as políticas públicas a serem implantadas"
+   ],
+   "correta": 1,
+   "explicacao": "Nos dois sistemas o núcleo é estrutura integrante do próprio sistema e funciona como fórum permanente de cooperação, com competências de subsídio, auxílio e produção de relatórios, e não de deliberação sobre as políticas.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "nucleos"
+   ]
+  },
+  {
+   "id": "sistemas-elab-071",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Divulgação",
+   "enunciado": "Quanto à periodicidade da divulgação das informações à população, ambos os sistemas preveem divulgação",
+   "alternativas": [
+    "trimestral, pelas coordenadorias responsáveis pelas políticas de segurança pública",
+    "mensal, pela Secretaria da Segurança Pública, respeitadas as restrições legais",
+    "semestral, pelo Centro Integrado de Comando e Controle da Secretaria",
+    "anual, pelos núcleos estratégicos interdisciplinares de cada sistema"
+   ],
+   "correta": 1,
+   "explicacao": "Nos dois sistemas a SSP é responsável pela divulgação mensal e atualização dos relatórios e informações, em formatos simples e acessíveis à população, respeitadas as proteções e restrições legais.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "divulgacao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-072",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Relatórios do Núcleo",
+   "enunciado": "Quanto à periodicidade dos relatórios produzidos pelos núcleos estratégicos, ambos preveem relatório",
+   "alternativas": [
+    "mensal, para subsidiar medidas das coordenadorias da Secretaria da Segurança Pública",
+    "semanal, para orientar o emprego operacional das unidades policiais do Estado",
+    "trimestral, para avaliação dos comitês de formulação de políticas integradas",
+    "anual, para prestação de contas ao Governador e à Assembleia Legislativa"
+   ],
+   "correta": 0,
+   "explicacao": "Os dois núcleos produzem relatório mensal a partir dos dados integrados nos respectivos sistemas, a fim de subsidiar medidas sob atribuição das coordenadorias da SSP responsáveis pelas políticas de segurança pública e defesa social.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "relatorios"
+   ]
+  },
+  {
+   "id": "sistemas-elab-073",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Marcos temporais",
+   "enunciado": "Quanto às datas em que os sistemas passaram a ser fonte das estatísticas criminais estaduais, tem-se",
+   "alternativas": [
+    "1º de maio de 2023 para o SP RECRIM e 1º de junho de 2023 para o SPMulher",
+    "1º de junho de 2023 para o SP RECRIM e 1º de maio de 2023 para o SPMulher",
+    "1º de abril de 2023 para ambos os sistemas, data da publicação das resoluções",
+    "1º de janeiro de 2024 para ambos, após o período de adequação tecnológica"
+   ],
+   "correta": 0,
+   "explicacao": "O SP RECRIM passou a ser fonte a contar de 1º de maio de 2023 e o SPMulher a partir de 1º de junho de 2023, sempre respeitados os critérios necessários à manutenção da série histórica dos dados.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "datas"
+   ]
+  },
+  {
+   "id": "sistemas-elab-074",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Perfis dos comitês",
+   "enunciado": "A exigência expressa de perfis profissionais em nível de rua e em nível estratégico ou tático para os membros indicados aos comitês consta",
+   "alternativas": [
+    "da resolução do SPMulher, que detalha o número e os perfis dos indicados",
+    "da resolução do SP RECRIM, que detalha o número e os perfis dos indicados",
+    "de ambas as resoluções, com idêntica redação quanto aos perfis exigidos",
+    "de portaria do Coordenador Geral do CICC editada para cada comitê instalado"
+   ],
+   "correta": 1,
+   "explicacao": "A previsão dos dois perfis profissionais e do número mínimo de um e máximo de três integrantes indicados por instituição consta expressamente da resolução do SP RECRIM, admitindo-se que um mesmo profissional reúna ambos os perfis.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "perfis"
+   ]
+  },
+  {
+   "id": "sistemas-elab-075",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Participação",
+   "enunciado": "Quanto à natureza da participação nos núcleos e comitês, ambos os sistemas estabelecem que",
+   "alternativas": [
+    "é função gratificada, com pagamento proporcional às reuniões realizadas",
+    "é serviço público relevante, não remunerado e sem prejuízo das funções",
+    "implica afastamento temporário das funções ordinárias dos integrantes",
+    "é facultativa, podendo o membro indicado recusar a designação recebida"
+   ],
+   "correta": 1,
+   "explicacao": "As duas resoluções qualificam a participação como serviço público relevante, sem remuneração, efetivada sem prejuízo das atribuições ordinárias dos membros, tanto no núcleo estratégico quanto nos comitês de formulação de políticas públicas integradas.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "participacao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-076",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Coordenação do Núcleo",
+   "enunciado": "Quanto à definição da coordenação dos núcleos estratégicos, a diferença entre os sistemas é que",
+   "alternativas": [
+    "no SP RECRIM a definição é conjunta e no SPMulher cabe apenas ao Secretário",
+    "no SPMulher a definição é conjunta e no SP RECRIM cabe apenas ao Secretário",
+    "em ambos a definição cabe ao Coordenador Geral do CICC da Secretaria",
+    "em ambos a coordenação é eleita entre os representantes que compõem o núcleo"
+   ],
+   "correta": 1,
+   "explicacao": "No SPMulher a coordenação é definida pelo Secretário da Segurança Pública e pela Secretária de Políticas para a Mulher; no SP RECRIM, apenas pelo Secretário da Segurança Pública, sempre entre os representantes indicados.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "coordenacao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-077",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Compartilhamento",
+   "enunciado": "Quanto ao compartilhamento de dados não publicados com outros órgãos e instituições, ambos os sistemas",
+   "alternativas": [
+    "o restringem aos órgãos integrantes do sistema de justiça criminal estadual",
+    "o vedam, por se tratar de informações protegidas por sigilo absoluto",
+    "o condicionam à autorização judicial prévia em cada caso concreto",
+    "o admitem, respeitada a legislação, para subsidiar políticas em áreas complementares"
+   ],
+   "correta": 3,
+   "explicacao": "As duas resoluções admitem o compartilhamento de dados não publicados com órgãos e instituições públicas e privadas de interesse público, respeitada a legislação aplicável, para subsidiar políticas, programas e ações em áreas diversas ou complementares à segurança pública.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "compartilhamento"
+   ]
+  },
+  {
+   "id": "sistemas-elab-078",
+   "subtema": "Comparação entre os sistemas",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Papel da PM",
+   "enunciado": "Quanto à participação da Polícia Militar nos dois sistemas, verifica-se que",
+   "alternativas": [
+    "não integra os núcleos, limitando-se a fornecer dados estatísticos às coordenadorias",
+    "integra apenas o núcleo do SPMulher, dada a natureza dos crimes abrangidos",
+    "integra apenas o núcleo do SP RECRIM, por atuar na prevenção da reiteração",
+    "integra os núcleos estratégicos de ambos e utiliza os dados no atendimento operacional"
+   ],
+   "correta": 3,
+   "explicacao": "A Polícia Militar tem representante nos núcleos estratégicos dos dois sistemas e, no plano operacional, seus integrantes acessam os dados de forma ágil e sistematizada durante o exercício de suas atribuições.",
+   "tags": [
+    "sistemas",
+    "comparacao",
+    "policia-militar"
+   ]
+  },
+  {
+   "id": "sistemas-elab-079",
+   "subtema": "SPMulher — aplicação prática",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Auditoria",
+   "enunciado": "A ampla auditoria assegurada pela divulgação mensal do SPMulher recai sobre",
+   "alternativas": [
+    "a aplicação das verbas orçamentárias destinadas às políticas de proteção à mulher",
+    "a atuação individual dos policiais que atenderam as ocorrências registradas",
+    "a regularidade dos procedimentos judiciais instaurados a partir dos registros",
+    "o processo de coleta, consolidação e divulgação dos dados estatísticos"
+   ],
+   "correta": 3,
+   "explicacao": "A auditoria alcança o processo de coleta, consolidação e divulgação dos dados e informações dos crimes contra as mulheres que integram o Sistema Estadual de Coleta de Estatísticas Criminais do Estado de São Paulo.",
+   "tags": [
+    "spmulher",
+    "aplicacao",
+    "auditoria"
+   ]
+  },
+  {
+   "id": "sistemas-elab-080",
+   "subtema": "SP RECRIM — aplicação prática",
+   "artigo": "Res. SSP 21/2023 — Auditoria",
+   "enunciado": "No SP RECRIM, a auditoria assegurada pela divulgação mensal alcança os dados e informações",
+   "alternativas": [
+    "referentes aos processos criminais em tramitação nas comarcas do interior",
+    "relativas ao desempenho individual das unidades policiais do Estado de São Paulo",
+    "relacionadas à reiteração criminal que integram a estatística criminal estadual",
+    "sobre a execução orçamentária das políticas de prevenção implantadas no Estado"
+   ],
+   "correta": 2,
+   "explicacao": "A auditoria recai sobre o processo de coleta, consolidação e divulgação dos dados e informações relacionadas à reiteração criminal que integram o Sistema Estadual de Coleta de Estatísticas Criminais do Estado de São Paulo.",
+   "tags": [
+    "sprecrim",
+    "aplicacao",
+    "auditoria"
+   ]
+  },
+  {
+   "id": "sistemas-elab-081",
+   "subtema": "Proteção de dados",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — LAI e LGPD",
+   "enunciado": "Solicitado por cidadão o acesso a dados individualizados de vítima constante do SPMulher, a resposta deve observar",
+   "alternativas": [
+    "a exigência de manifestação prévia do Núcleo Estratégico Interdisciplinar",
+    "a regra da publicidade irrestrita dos dados de segurança pública estadual",
+    "a necessidade de autorização judicial para qualquer negativa de acesso",
+    "as regras de proteção e restrição da Lei de Acesso à Informação e da LGPD"
+   ],
+   "correta": 3,
+   "explicacao": "A resolução submete o sistema às regras de proteção e restrição de acesso previstas na Lei de Acesso à Informação e na Lei Geral de Proteção de Dados, de acordo com as especificidades de cada dado ou informação constante do sistema.",
+   "tags": [
+    "sistemas",
+    "protecao-de-dados",
+    "lai"
+   ]
+  },
+  {
+   "id": "sistemas-elab-082",
+   "subtema": "Proteção de dados",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Divulgação x sigilo",
+   "enunciado": "A obrigação de divulgação mensal dos relatórios do SPMulher em formatos acessíveis à população",
+   "alternativas": [
+    "convive com as proteções e restrições legais aplicáveis aos dados individuais",
+    "afasta as restrições legais, por prevalecer o princípio da transparência ativa",
+    "depende de autorização do Núcleo Estratégico Interdisciplinar a cada mês",
+    "alcança apenas os dados relativos a processos criminais já transitados em julgado"
+   ],
+   "correta": 0,
+   "explicacao": "A divulgação é expressamente condicionada ao respeito às proteções e restrições legais aplicáveis, de modo que a transparência ativa dos relatórios não autoriza a exposição de dados protegidos pela LAI e pela LGPD.",
+   "tags": [
+    "sistemas",
+    "protecao-de-dados",
+    "transparencia"
+   ]
+  },
+  {
+   "id": "sistemas-elab-083",
+   "subtema": "Comitês",
+   "artigo": "Res. SSP 21/2023 — Prazo dos comitês",
+   "enunciado": "Ao instalar por portaria os comitês de formulação de política pública integrada, o Coordenador Geral do CICC deve fixar",
+   "alternativas": [
+    "a data de início e de término dos trabalhos do comitê instalado",
+    "o número de reuniões mensais obrigatórias do colegiado constituído",
+    "a remuneração devida aos membros indicados pelas instituições",
+    "o rol de políticas públicas que o comitê deverá necessariamente propor"
+   ],
+   "correta": 0,
+   "explicacao": "A instalação por portaria deve indicar a data de início e término dos trabalhos, consoante as políticas e diretrizes estabelecidas pela Secretaria da Segurança Pública, o que reforça o caráter temporário dos comitês.",
+   "tags": [
+    "sistemas",
+    "comites",
+    "prazo"
+   ]
+  },
+  {
+   "id": "sistemas-elab-084",
+   "subtema": "Comitês",
+   "artigo": "Res. SSP 21/2023 — Designação de membros",
+   "enunciado": "Os membros dos comitês de formulação de política pública integrada são designados por portaria do Coordenador Geral do CICC e podem ser",
+   "alternativas": [
+    "eleitos pelos integrantes do Núcleo Estratégico Interdisciplinar do sistema",
+    "escolhidos livremente pelo próprio Coordenador Geral entre servidores da pasta",
+    "convocados pelo Secretário da Segurança Pública ou indicados pelas instituições",
+    "indicados exclusivamente pelas instituições privadas de interesse público"
+   ],
+   "correta": 2,
+   "explicacao": "A designação por portaria alcança os membros convocados pelo Secretário da Segurança Pública ou indicados pelas instituições públicas e privadas, observados os perfis profissionais exigidos e o limite de um a três integrantes por instituição.",
+   "tags": [
+    "sistemas",
+    "comites",
+    "designacao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-085",
+   "subtema": "Comitês",
+   "artigo": "Res. SSP 21/2023 — Coordenação metodológica",
+   "enunciado": "A coordenação metodológica dos trabalhos dos comitês, com convocação de reuniões e definição do cronograma, cabe",
+   "alternativas": [
+    "ao Coordenador do Núcleo Estratégico Interdisciplinar do sistema",
+    "ao coordenador temático definido entre os membros do comitê",
+    "ao Coordenador Geral do Centro Integrado de Comando e Controle",
+    "ao Secretário da Segurança Pública, que preside os trabalhos"
+   ],
+   "correta": 2,
+   "explicacao": "Compete ao Coordenador Geral do CICC coordenar metodologicamente os trabalhos, convocar e realizar reuniões e definir o cronograma de atividades dos comitês, ainda que exista coordenador temático definido entre os membros.",
+   "tags": [
+    "sistemas",
+    "comites",
+    "metodologia"
+   ]
+  },
+  {
+   "id": "sistemas-elab-086",
+   "subtema": "Comitês",
+   "artigo": "Res. SSP 21/2023 — Consulta prévia",
+   "enunciado": "A definição do coordenador temático de cada comitê é precedida de consulta",
+   "alternativas": [
+    "à Coordenadoria de Políticas de Segurança Pública e ao Núcleo Estratégico",
+    "ao Secretário da Segurança Pública e ao Delegado Geral de Polícia",
+    "às instituições privadas que indicaram membros para compor o comitê",
+    "ao Governador do Estado, por meio da Casa Civil do Palácio dos Bandeirantes"
+   ],
+   "correta": 0,
+   "explicacao": "A portaria que define o coordenador temático é precedida de consulta à Coordenadoria de Políticas de Segurança Pública e Defesa Social e ao Núcleo Estratégico Interdisciplinar do respectivo sistema.",
+   "tags": [
+    "sistemas",
+    "comites",
+    "consulta"
+   ]
+  },
+  {
+   "id": "sistemas-elab-087",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Identificação de competências",
+   "enunciado": "A atribuição de instalar por portaria os comitês, designar membros e definir o coordenador temático pertence",
+   "alternativas": [
+    "aos membros do Núcleo Estratégico, em ambos os sistemas",
+    "ao Coordenador do Núcleo Estratégico, em ambos os sistemas",
+    "ao Secretário da Segurança Pública, em ambos os sistemas",
+    "ao Coordenador Geral do CICC, em ambos os sistemas"
+   ],
+   "correta": 3,
+   "explicacao": "Nos dois sistemas as três atribuições são do Coordenador Geral do Centro Integrado de Comando e Controle, que também coordena metodologicamente os trabalhos e restitui os resultados para aprovação.",
+   "tags": [
+    "sistemas",
+    "competencias",
+    "cicc"
+   ]
+  },
+  {
+   "id": "sistemas-elab-088",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Identificação de competências",
+   "enunciado": "Analise as atribuições: I) sugerir a criação de comitês e indicar representantes; II) solicitar à SSP a instalação dos comitês; III) instalar os comitês por portaria. Elas pertencem, respectivamente,",
+   "alternativas": [
+    "ao Coordenador do Núcleo, aos membros do Núcleo e ao Secretário da Segurança",
+    "aos membros do Núcleo, ao Coordenador do Núcleo e ao Coordenador Geral do CICC",
+    "ao Coordenador Geral do CICC, ao Coordenador do Núcleo e aos membros do Núcleo",
+    "aos membros do Núcleo, ao Coordenador Geral do CICC e ao Secretário da Segurança"
+   ],
+   "correta": 1,
+   "explicacao": "A cadeia é sempre a mesma: os membros sugerem e indicam representantes, o Coordenador do Núcleo solicita à Secretaria a instalação e o Coordenador Geral do CICC instala por portaria, designa membros e define o coordenador temático.",
+   "tags": [
+    "sistemas",
+    "competencias",
+    "sequencia"
+   ]
+  },
+  {
+   "id": "sistemas-elab-089",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. Conjunta SSP/SPM 01/2023 — Caso concreto",
+   "enunciado": "Policial militar constata, em atendimento, que a vítima possui medida protetiva com monitoração eletrônica do agressor. O SPMulher contribui nessa situação por",
+   "alternativas": [
+    "disponibilizar de forma ágil os dados da medida e os serviços de proteção disponíveis",
+    "substituir o registro da ocorrência pelo lançamento direto no sistema estadual",
+    "autorizar a prisão imediata do agressor independentemente de flagrante",
+    "transferir à Secretaria de Políticas para a Mulher o atendimento da ocorrência"
+   ],
+   "correta": 0,
+   "explicacao": "O sistema foi concebido para dar acesso ágil e sistematizado às medidas protetivas, em especial as de monitoramento eletrônico, e às políticas, programas e serviços disponíveis para proteção da vítima na situação específica do atendimento.",
+   "tags": [
+    "spmulher",
+    "aplicacao",
+    "monitoracao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-090",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP 21/2023 — Caso concreto",
+   "enunciado": "Delegacia registra indiciamento de autor com diversas passagens anteriores. A contribuição do SP RECRIM nesse caso consiste em",
+   "alternativas": [
+    "substituir a comunicação da prisão ao Poder Judiciário competente pelo sistema",
+    "determinar a decretação da prisão preventiva do autor com base na reiteração",
+    "encaminhar automaticamente o caso ao comitê de formulação de política pública",
+    "agregar ao registro dados sobre antecedentes e situação processual"
+   ],
+   "correta": 3,
+   "explicacao": "O sistema agrega aos registros de prisões e indiciamentos os dados sobre antecedentes criminais, situação perante a justiça criminal, processos e procedimentos correlatos, número e resultado da comunicação ao Judiciário e políticas de prevenção da reiteração.",
+   "tags": [
+    "sprecrim",
+    "aplicacao",
+    "indiciamento"
+   ]
+  },
+  {
+   "id": "sistemas-elab-091",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP/SPM 01/2023 — Caso concreto",
+   "enunciado": "Organização da sociedade civil especializada no atendimento a mulheres vítimas de violência pretende contribuir com o SPMulher. Sua participação",
+   "alternativas": [
+    "é vedada, pois o Núcleo é composto exclusivamente por órgãos policiais",
+    "pode ocorrer mediante convite do Secretário para integrar o Núcleo Estratégico",
+    "depende de convênio prévio firmado com a Secretaria de Políticas para a Mulher",
+    "somente é admitida na fase de execução das políticas públicas formuladas"
+   ],
+   "correta": 1,
+   "explicacao": "A resolução autoriza que, a critério do Secretário da Segurança Pública, sejam convidados representantes de organizações da sociedade civil ou de vítimas, bem como de outros órgãos ou entidades públicas ou privadas que possam contribuir com o sistema.",
+   "tags": [
+    "spmulher",
+    "aplicacao",
+    "sociedade-civil"
+   ]
+  },
+  {
+   "id": "sistemas-elab-092",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP 21/2023 — Caso concreto",
+   "enunciado": "Instituição pública indica quatro profissionais para compor comitê de formulação de política pública integrada no SP RECRIM. Essa indicação",
+   "alternativas": [
+    "é regular, desde que todos possuam o perfil profissional em nível de rua",
+    "é regular, pois a resolução não fixa limite de integrantes por instituição",
+    "excede o limite normativo, que admite de um a três integrantes por instituição",
+    "depende de autorização do Coordenador do Núcleo Estratégico do sistema"
+   ],
+   "correta": 2,
+   "explicacao": "A resolução fixa número mínimo de um e máximo de três integrantes indicados por instituição pública ou privada, exigindo que possuam os perfis profissionais previstos, admitido que um mesmo profissional reúna ambos.",
+   "tags": [
+    "sprecrim",
+    "aplicacao",
+    "limite"
+   ]
+  },
+  {
+   "id": "sistemas-elab-093",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP 21/2023 — Caso concreto",
+   "enunciado": "Comitê do SP RECRIM é composto apenas por profissionais de nível estratégico, sem representantes com experiência operacional. Essa composição",
+   "alternativas": [
+    "depende de autorização da Coordenadoria de Políticas de Segurança Pública",
+    "é regular, pois a formulação de políticas é atividade estritamente estratégica",
+    "é regular, desde que o coordenador temático tenha experiência operacional",
+    "contraria a resolução, que exige também o perfil profissional em nível de rua"
+   ],
+   "correta": 3,
+   "explicacao": "A norma exige que os membros indicados possuam necessariamente os dois perfis, o de nível de rua, com experiência operacional para descrever o modelo vigente e suas deficiências, e o de nível estratégico ou tático, voltado à viabilidade estrutural, orçamentária e legal.",
+   "tags": [
+    "sprecrim",
+    "aplicacao",
+    "perfis"
+   ]
+  },
+  {
+   "id": "sistemas-elab-094",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP/SPM 01/2023 — Caso concreto",
+   "enunciado": "Órgão integrante do Sistema Estadual de Coleta de Estatísticas Criminais recusa-se a fornecer dados solicitados para o funcionamento do SPMulher, alegando conveniência administrativa. Essa recusa",
+   "alternativas": [
+    "é indevida, pois a resolução impõe o dever de subsidiar a Secretaria com os dados",
+    "é legítima, pois o fornecimento depende de convênio específico entre os órgãos",
+    "é legítima, por prevalecer a autonomia administrativa de cada instituição",
+    "somente pode ser afastada mediante determinação do Poder Judiciário"
+   ],
+   "correta": 0,
+   "explicacao": "A resolução estabelece que todos os integrantes do Sistema Estadual de Coleta de Estatísticas Criminais deverão subsidiar a Secretaria da Segurança Pública com os dados e informações necessários ao pleno funcionamento do sistema.",
+   "tags": [
+    "spmulher",
+    "aplicacao",
+    "dever"
+   ]
+  },
+  {
+   "id": "sistemas-elab-095",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP/SPM 01/2023 — Série histórica",
+   "enunciado": "A substituição da fonte das estatísticas criminais pelos novos sistemas foi condicionada",
+   "alternativas": [
+    "ao respeito integral aos critérios necessários à manutenção da série histórica",
+    "à prévia aprovação do Poder Legislativo estadual quanto à metodologia adotada",
+    "à publicação de decreto regulamentador pelo Governador do Estado",
+    "ao encerramento das séries anteriores, com reinício dos registros estatísticos"
+   ],
+   "correta": 0,
+   "explicacao": "Tanto no SPMulher quanto no SP RECRIM, a mudança de fonte respeita integralmente os critérios e requisitos necessários à manutenção da série histórica dos dados, o que preserva a comparabilidade das estatísticas ao longo do tempo.",
+   "tags": [
+    "sistemas",
+    "estatistica",
+    "serie-historica"
+   ]
+  },
+  {
+   "id": "sistemas-elab-096",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP/SPM 01/2023 — Papel das coordenadorias",
+   "enunciado": "As coordenadorias da Secretaria da Segurança Pública em cujo âmbito se desenvolvem os sistemas são responsáveis",
+   "alternativas": [
+    "pela divulgação semanal das informações produzidas pelos dois sistemas",
+    "pela execução operacional das políticas formuladas pelos comitês técnicos",
+    "pela instalação dos comitês de formulação de políticas públicas integradas",
+    "pela definição, integração, monitoramento e avaliação dessas políticas"
+   ],
+   "correta": 3,
+   "explicacao": "Os dois sistemas são desenvolvidos no âmbito das coordenadorias da SSP responsáveis pela definição, integração, monitoramento e avaliação das políticas de segurança pública e defesa social, que também são destinatárias dos relatórios mensais dos núcleos.",
+   "tags": [
+    "sistemas",
+    "estrutura",
+    "coordenadorias"
+   ]
+  },
+  {
+   "id": "sistemas-elab-097",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP/SPM 01/2023 — Estratégias de comunicação",
+   "enunciado": "Entre as atribuições dos núcleos estratégicos figura auxiliar na produção de estratégias conjuntas de comunicação",
+   "alternativas": [
+    "destinadas exclusivamente à divulgação dos relatórios mensais à imprensa",
+    "e de apoio às políticas públicas integradas formuladas no âmbito dos sistemas",
+    "voltadas à orientação das unidades operacionais sobre o uso dos sistemas",
+    "dirigidas à captação de recursos privados para as políticas de prevenção"
+   ],
+   "correta": 1,
+   "explicacao": "Os núcleos auxiliam na produção de estratégias conjuntas de comunicação e de apoio às políticas públicas integradas formuladas no âmbito dos respectivos sistemas, cabendo aos membros contribuir com o conteúdo e a execução dessas estratégias.",
+   "tags": [
+    "sistemas",
+    "nucleo",
+    "comunicacao"
+   ]
+  },
+  {
+   "id": "sistemas-elab-098",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP/SPM 01/2023 — Dever dos membros",
+   "enunciado": "Entre os deveres dos membros dos núcleos estratégicos inclui-se",
+   "alternativas": [
+    "comparecer às reuniões e colaborar com conhecimentos e experiências na análise dos problemas",
+    "representar a instituição de origem nas tratativas com o Poder Judiciário estadual",
+    "fiscalizar a execução das políticas públicas implantadas em suas unidades",
+    "prestar contas mensais ao Secretário sobre os trabalhos desenvolvidos"
+   ],
+   "correta": 0,
+   "explicacao": "Compete aos membros comparecer às reuniões e colaborar com seus conhecimentos e experiências para a análise dos problemas pautados e a construção de propostas de solução, além de sugerir comitês, indicar representantes e contribuir com as estratégias de comunicação.",
+   "tags": [
+    "sistemas",
+    "nucleo",
+    "deveres"
+   ]
+  },
+  {
+   "id": "sistemas-elab-099",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP/SPM 01/2023 — Convocação de reuniões",
+   "enunciado": "A convocação e a realização das reuniões do núcleo estratégico, bem como a definição do cronograma de atividades, competem",
+   "alternativas": [
+    "ao Coordenador do Núcleo Estratégico Interdisciplinar do respectivo sistema",
+    "ao Coordenador Geral do Centro Integrado de Comando e Controle",
+    "ao representante da Polícia Militar que integra o núcleo estratégico",
+    "à Coordenadoria de Políticas de Segurança Pública e Defesa Social"
+   ],
+   "correta": 0,
+   "explicacao": "Compete ao Coordenador do Núcleo coordenar os trabalhos, propiciar a análise de dados dos sistemas de informação da SSP, convocar e realizar reuniões e definir o cronograma de atividades; a coordenação metodológica dos comitês é do Coordenador Geral do CICC.",
+   "tags": [
+    "sistemas",
+    "nucleo",
+    "reunioes"
+   ]
+  },
+  {
+   "id": "sistemas-elab-100",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP/SPM 01/2023 — Apoio de grupos de trabalho",
+   "enunciado": "Para o exercício de suas atribuições, os núcleos estratégicos poderão contar com o apoio de grupos de trabalho, comitês e conselhos",
+   "alternativas": [
+    "vinculados ao Poder Judiciário estadual e ao Ministério Público",
+    "constituídos exclusivamente no âmbito da Secretaria da Segurança Pública",
+    "relacionados às políticas públicas voltadas à prevenção e repressão dos problemas",
+    "instituídos por lei estadual específica para cada tema de política pública"
+   ],
+   "correta": 2,
+   "explicacao": "O apoio pode vir de instituições públicas ou privadas, em especial grupos de trabalho, comitês, conselhos e demais atores e entes relacionados às políticas públicas voltadas à prevenção e repressão dos problemas criminais objeto de cada sistema.",
+   "tags": [
+    "sistemas",
+    "nucleo",
+    "apoio"
+   ]
+  },
+  {
+   "id": "sistemas-elab-101",
+   "subtema": "Aplicação prática",
+   "artigo": "Res. SSP/SPM 01/2023 — Resultados compartilhados",
+   "enunciado": "Os relatórios e conhecimentos produzidos pelos núcleos estratégicos destinam-se a subsidiar",
+   "alternativas": [
+    "políticas, programas e ações de segurança pública e outras políticas públicas correlatas",
+    "exclusivamente as decisões operacionais das unidades policiais do Estado",
+    "a instrução dos inquéritos policiais relativos aos casos analisados pelos núcleos",
+    "a fixação de metas individuais de produtividade para os órgãos policiais"
+   ],
+   "correta": 0,
+   "explicacao": "Os relatórios são compartilhados com as instituições relacionadas ao núcleo para subsidiar as políticas, programas e ações de segurança pública e outras políticas públicas destinadas à prevenção e repressão dos problemas criminais objeto do sistema.",
+   "tags": [
+    "sistemas",
+    "nucleo",
+    "resultados"
+   ]
+  },
+  {
+   "id": "sistemas-elab-102",
+   "subtema": "Síntese",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Arquitetura comum",
+   "enunciado": "A arquitetura normativa comum aos dois sistemas compreende",
+   "alternativas": [
+    "sistema de informações, corregedoria setorial e comitês de auditoria externa",
+    "sistema de informações, comissão disciplinar e grupos de trabalho permanentes",
+    "banco de dados centralizado, ouvidoria própria e conselho deliberativo estadual",
+    "sistema de informações, núcleo estratégico permanente e comitês temporários no CICC"
+   ],
+   "correta": 3,
+   "explicacao": "Ambas as resoluções instituem um sistema de informações no âmbito das coordenadorias da SSP, um núcleo estratégico interdisciplinar permanente como estrutura integrante e autorizam a instalação de comitês temporários de formulação de políticas públicas integradas no âmbito do CICC.",
+   "tags": [
+    "sistemas",
+    "sintese",
+    "arquitetura"
+   ]
+  },
+  {
+   "id": "sistemas-elab-103",
+   "subtema": "Síntese",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Interesse policial-militar",
+   "enunciado": "Para o policial militar em atividade operacional, o principal efeito prático dos dois sistemas é",
+   "alternativas": [
+    "a criação de nova atribuição de registro estatístico durante as ocorrências",
+    "o acesso ágil e sistematizado a dados que qualificam a decisão no atendimento",
+    "a substituição dos sistemas de comunicação operacional das unidades",
+    "a transferência à Polícia Militar da gestão das estatísticas criminais estaduais"
+   ],
+   "correta": 1,
+   "explicacao": "As resoluções preveem expressamente que policiais militares, civis e técnico-científicos, no exercício de suas atribuições, tenham acesso ágil e sistematizado aos dados integrados, o que qualifica o atendimento e a tomada de decisão.",
+   "tags": [
+    "sistemas",
+    "sintese",
+    "operacional"
+   ]
+  },
+  {
+   "id": "sistemas-elab-104",
+   "subtema": "Síntese",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Papel do CICC",
+   "enunciado": "Nos dois sistemas, o Centro Integrado de Comando e Controle atua como",
+   "alternativas": [
+    "estrutura de coordenação permanente dos núcleos estratégicos interdisciplinares",
+    "âmbito de instalação e coordenação metodológica dos comitês de políticas integradas",
+    "órgão responsável pela divulgação mensal dos relatórios à população paulista",
+    "instância de aprovação final das políticas públicas formuladas pelos comitês"
+   ],
+   "correta": 1,
+   "explicacao": "O CICC é o âmbito em que se instalam os comitês, cabendo a seu Coordenador Geral instalá-los por portaria, designar membros, definir o coordenador temático, coordenar metodologicamente os trabalhos e restituir os resultados para aprovação do Secretário.",
+   "tags": [
+    "sistemas",
+    "sintese",
+    "cicc"
+   ]
+  },
+  {
+   "id": "sistemas-elab-105",
+   "subtema": "Síntese",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Natureza dos núcleos",
+   "enunciado": "Os núcleos estratégicos interdisciplinares dos dois sistemas caracterizam-se por serem",
+   "alternativas": [
+    "temporários, instalados por portaria com data de início e término de trabalhos",
+    "permanentes, ao passo que os comitês de formulação de políticas são temporários",
+    "deliberativos, com poder de aprovar as políticas públicas formuladas",
+    "consultivos e externos à estrutura dos respectivos sistemas de informação"
+   ],
+   "correta": 1,
+   "explicacao": "Os núcleos são fóruns permanentes de cooperação integrantes dos sistemas, enquanto os comitês de formulação de políticas públicas integradas são instalados por portaria com data de início e término, para resolução de problemas criminais específicos.",
+   "tags": [
+    "sistemas",
+    "sintese",
+    "permanencia"
+   ]
+  },
+  {
+   "id": "sistemas-elab-106",
+   "subtema": "Síntese",
+   "artigo": "Res. SSP/SPM 01/2023 e Res. SSP 21/2023 — Finalidade comum",
+   "enunciado": "A finalidade comum aos dois sistemas, em relação à população, é",
+   "alternativas": [
+    "assegurar a participação popular nas decisões operacionais das polícias",
+    "possibilitar o acesso individual aos registros de ocorrências de cada cidadão",
+    "garantir transparência, permitindo acompanhamento público e auditoria dos dados",
+    "permitir a fiscalização direta dos comitês pelos representantes da sociedade"
+   ],
+   "correta": 2,
+   "explicacao": "Ambos preveem divulgação mensal em formatos simples e acessíveis, de modo a garantir transparência e permitir o acompanhamento público da evolução dos problemas criminais e a ampla auditoria sobre a coleta, consolidação e divulgação dos dados.",
+   "tags": [
+    "sistemas",
+    "sintese",
+    "transparencia"
+   ]
+  }
+ ]
+}
