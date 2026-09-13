@@ -1,0 +1,2145 @@
+{
+ "materia": "presos-elab",
+ "versao": "1.5.0",
+ "atualizadoEm": "2026-09-13",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Adolescentes — NAI",
+  "Adolescentes — apoios",
+  "Adolescentes — apresentação",
+  "Adolescentes — atribuições",
+  "Adolescentes — competência",
+  "Adolescentes — conceitos",
+  "Adolescentes — execução",
+  "Adolescentes — flagrante",
+  "Adolescentes — impossibilidade",
+  "Adolescentes — níveis de risco",
+  "Adolescentes — planejamento",
+  "Adolescentes — solicitação",
+  "Audiência de custódia",
+  "Movimentação de presos — atribuições",
+  "Movimentação de presos — competência",
+  "Movimentação de presos — conceitos",
+  "Movimentação de presos — custódia",
+  "Movimentação de presos — execução",
+  "Movimentação de presos — interestadual",
+  "Movimentação de presos — ocorrências graves",
+  "Movimentação de presos — planejamento",
+  "NUMEC — competência",
+  "NUMEC — conceitos",
+  "NUMEC — convite",
+  "NUMEC — coordenação",
+  "NUMEC — credenciamento",
+  "NUMEC — escrituração",
+  "NUMEC — estrutura",
+  "NUMEC — requisitos",
+  "NUMEC — rotinas",
+  "Ocorrências com reféns",
+  "Ocorrências críticas"
+ ],
+ "questoes": [
+  {
+   "id": "presos-elab-001",
+   "subtema": "Movimentação de presos — conceitos",
+   "artigo": "Dtz PM3-006/02/14 — Escolta e custódia",
+   "enunciado": "Na sistemática de movimentação de presos, a expressão escolta e custódia designa as ações de vigilância do preso durante",
+   "alternativas": [
+    "sua movimentação externa ou sua permanência em local diverso da unidade prisional",
+    "o período de cumprimento de pena no interior do estabelecimento prisional",
+    "o interrogatório realizado pela autoridade policial na delegacia de polícia",
+    "o período de internação provisória determinado pela autoridade judiciária"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz define escolta e custódia como as ações de vigilância do preso durante o tempo em que se fizer necessária sua movimentação externa ou sua permanência em local diverso da unidade prisional, o que abrange transporte, acompanhamento e vigilância em estabelecimentos de saúde e fóruns.",
+   "tags": [
+    "presos",
+    "conceitos"
+   ]
+  },
+  {
+   "id": "presos-elab-002",
+   "subtema": "Movimentação de presos — conceitos",
+   "artigo": "Dtz PM3-006/02/14 — Movimentação",
+   "enunciado": "Considera-se movimentação, para os fins da Diretriz,",
+   "alternativas": [
+    "todo deslocamento do preso para além dos limites do estabelecimento prisional",
+    "o ato de embarcar, deslocar e desembarcar o preso utilizando-se de veículo",
+    "a atividade que garante a segurança durante o transporte do preso escoltado",
+    "a vigilância do preso exercida em estabelecimentos de saúde ou em fóruns"
+   ],
+   "correta": 0,
+   "explicacao": "Movimentação é todo deslocamento do preso para além dos limites do estabelecimento prisional onde está recolhido. O ato de embarcar, deslocar e desembarcar corresponde ao transporte; a garantia de segurança durante o transporte, à escolta; e a vigilância em local de saúde ou fórum, à custódia.",
+   "tags": [
+    "presos",
+    "conceitos",
+    "movimentacao"
+   ]
+  },
+  {
+   "id": "presos-elab-003",
+   "subtema": "Movimentação de presos — conceitos",
+   "artigo": "Dtz PM3-006/02/14 — Movimentação programada",
+   "enunciado": "A movimentação classificada como programada é aquela que",
+   "alternativas": [
+    "decorre de prévio agendamento, como requisição para depoimento ou consulta médica",
+    "ocorre de inopino, como nas emergências médicas e remoções por rebelião",
+    "depende de autorização do Coordenador de Operações da Polícia Militar",
+    "ocorre exclusivamente para comparecimento do preso perante o juízo competente"
+   ],
+   "correta": 0,
+   "explicacao": "A movimentação programada decorre de prévio agendamento, como requisição para depoimento ou consulta médica e odontológica; a emergencial ocorre de inopino, sem agendamento prévio, como nas emergências médicas e nas remoções excepcionais por rebelião.",
+   "tags": [
+    "presos",
+    "conceitos",
+    "programada"
+   ]
+  },
+  {
+   "id": "presos-elab-004",
+   "subtema": "Movimentação de presos — conceitos",
+   "artigo": "Dtz PM3-006/02/14 — Movimentação emergencial",
+   "enunciado": "A condução de preso, de forma inopinada, para hospital classifica-se como movimentação",
+   "alternativas": [
+    "emergencial, por não possibilitar o prévio agendamento da atividade",
+    "programada, por decorrer de necessidade de tratamento médico do preso",
+    "crítica, em razão do risco inerente ao deslocamento não planejado",
+    "incidental, por não constar da rotina do estabelecimento prisional"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz classifica as movimentações apenas em programadas e emergenciais, sendo emergencial a que ocorre de inopino, sem prévio agendamento, como a condução por emergência médica. As categorias crítica e incidental não existem na norma.",
+   "tags": [
+    "presos",
+    "conceitos",
+    "emergencial"
+   ]
+  },
+  {
+   "id": "presos-elab-005",
+   "subtema": "Movimentação de presos — conceitos",
+   "artigo": "Dtz PM3-006/02/14 — Transporte",
+   "enunciado": "O transporte do preso, conforme a Diretriz, pode ser realizado",
+   "alternativas": [
+    "em viatura da PM ou da PC, em veículo da SAP ou em meio alternativo",
+    "exclusivamente em viatura da Polícia Militar, ainda que o preso pertença à SAP",
+    "exclusivamente em veículo próprio da administração penitenciária estadual",
+    "em qualquer veículo particular requisitado pela autoridade responsável pela escolta"
+   ],
+   "correta": 0,
+   "explicacao": "O transporte é o ato de embarcar, deslocar e desembarcar o preso com uso de veículo, podendo ser feito em viatura da PM ou da PC, em veículo próprio da SAP ou, se a circunstância exigir, em meio alternativo, como transporte aéreo, marítimo ou ambulância.",
+   "tags": [
+    "presos",
+    "conceitos",
+    "transporte"
+   ]
+  },
+  {
+   "id": "presos-elab-006",
+   "subtema": "Movimentação de presos — conceitos",
+   "artigo": "Dtz PM3-006/02/14 — Conceito de preso",
+   "enunciado": "Para os fins da Diretriz, considera-se preso toda pessoa recolhida, de forma provisória ou definitiva, sob qualquer regime de cumprimento de pena,",
+   "alternativas": [
+    "exclusivamente em estabelecimentos prisionais subordinados à administração penitenciária",
+    "em estabelecimentos prisionais subordinados à SSP ou à SAP do Estado de São Paulo",
+    "exclusivamente em cadeias públicas e distritos policiais da Polícia Civil do Estado",
+    "em qualquer estabelecimento prisional do território nacional, inclusive federal"
+   ],
+   "correta": 1,
+   "explicacao": "O conceito alcança as pessoas recolhidas, provisória ou definitivamente, sob qualquer regime, em estabelecimentos prisionais subordinados à SSP ou à SAP do Estado de São Paulo, o que delimita o campo de aplicação da Diretriz.",
+   "tags": [
+    "presos",
+    "conceitos",
+    "preso"
+   ]
+  },
+  {
+   "id": "presos-elab-007",
+   "subtema": "Movimentação de presos — atribuições",
+   "artigo": "Res. SSP-14/14 — Órgãos responsáveis",
+   "enunciado": "A movimentação de presos no Estado de São Paulo é realizada por diferentes órgãos, cabendo aos Agentes de Escolta e Vigilância Penitenciária",
+   "alternativas": [
+    "o transporte de presos exclusivamente no interior da capital e região metropolitana",
+    "a vigilância, a disciplina e a movimentação dos presos recolhidos nos presídios da SAP",
+    "a escolta e custódia de presos em movimentações externas e a guarda das unidades prisionais",
+    "a custódia de presos internados em estabelecimentos de saúde em todo o Estado"
+   ],
+   "correta": 2,
+   "explicacao": "Os AEVP respondem pela escolta e custódia de presos em movimentações externas e pela guarda das unidades prisionais, para evitar fugas e arrebatamentos, enquanto os ASP cuidam da vigilância, segurança, disciplina e movimentação dos presos recolhidos nos presídios da SAP.",
+   "tags": [
+    "presos",
+    "atribuicoes",
+    "aevp"
+   ]
+  },
+  {
+   "id": "presos-elab-008",
+   "subtema": "Movimentação de presos — atribuições",
+   "artigo": "Dtz PM3-006/02/14 — Atribuições da PMESP",
+   "enunciado": "Entre as atribuições da Polícia Militar na sistemática de movimentação de presos inclui-se",
+   "alternativas": [
+    "a escolta de presos recolhidos em estabelecimentos prisionais sob administração da SSP",
+    "a administração dos estabelecimentos prisionais subordinados à Secretaria de Segurança",
+    "a lavratura do auto de prisão em flagrante dos presos movimentados pela Instituição",
+    "a guarda permanente das unidades prisionais da administração penitenciária estadual"
+   ],
+   "correta": 0,
+   "explicacao": "A PM escolta presos, provisórios ou definitivos, recolhidos em estabelecimentos da SSP, realiza a custódia de presos da SAP em estabelecimentos de saúde, custodia presos vinculados a estabelecimentos da SSP e escolta presos da SAP no interior do Estado nas movimentações previstas.",
+   "tags": [
+    "presos",
+    "atribuicoes",
+    "pmesp"
+   ]
+  },
+  {
+   "id": "presos-elab-009",
+   "subtema": "Movimentação de presos — atribuições",
+   "artigo": "Dtz PM3-006/02/14 — Escolta de presos da SAP",
+   "enunciado": "A escolta de presos da SAP pela Polícia Militar, no interior do Estado, alcança as movimentações para",
+   "alternativas": [
+    "comparecimento em juízo, exclusivamente, nas comarcas do interior do Estado",
+    "comparecimento em juízo, tratamento de saúde e remoções entre presídios",
+    "tratamento de saúde, exclusivamente, em hospitais da rede pública estadual",
+    "remoções entre estabelecimentos prisionais, exclusivamente, em caso de rebelião"
+   ],
+   "correta": 1,
+   "explicacao": "No interior, fora da capital e da região metropolitana, a PM escolta os presos da SAP nas movimentações para comparecimento em juízo em quaisquer comarcas, nos deslocamentos para tratamento médico, psicológico, odontológico ou hospitalar e nas remoções entre estabelecimentos prisionais.",
+   "tags": [
+    "presos",
+    "atribuicoes",
+    "sap"
+   ]
+  },
+  {
+   "id": "presos-elab-010",
+   "subtema": "Movimentação de presos — competência",
+   "artigo": "Dtz PM3-006/02/14 — Presos da SSP na capital",
+   "enunciado": "Para presos recolhidos em órgãos prisionais subordinados à SSP localizados na capital ou na região metropolitana, as movimentações para comparecimento em juízo serão realizadas",
+   "alternativas": [
+    "pela Polícia Civil, responsável pelos presos vinculados aos seus estabelecimentos",
+    "pelas OPM territoriais do CPC ou do CPM em cuja área estiver sediado o órgão prisional",
+    "pela própria administração penitenciária, com veículo e escolta próprios",
+    "pelo CPChq, por intermédio do 3º BPChq, para quaisquer comarcas do Estado ou de outros Estados"
+   ],
+   "correta": 3,
+   "explicacao": "Na capital e região metropolitana, as movimentações de presos da SSP para comparecimento em juízo cabem ao CPChq, por meio do 3º BPChq, para quaisquer comarcas do Estado e de outras unidades federativas; não sendo para juízo, competem às OPM territoriais do CPC ou do CPM.",
+   "tags": [
+    "presos",
+    "competencia",
+    "cpchq"
+   ]
+  },
+  {
+   "id": "presos-elab-011",
+   "subtema": "Movimentação de presos — competência",
+   "artigo": "Dtz PM3-006/02/14 — Presos da SSP no interior",
+   "enunciado": "Nos demais municípios do Estado, as movimentações de presos recolhidos em órgãos prisionais da SSP ficarão a cargo",
+   "alternativas": [
+    "da Polícia Civil local, por se tratar de preso vinculado a estabelecimento da SSP",
+    "do 3º BPChq, para quaisquer comarcas do Estado e de outras unidades federativas",
+    "da administração penitenciária, que disponibilizará veículo e agentes próprios",
+    "da OPM territorial do CPI em cuja área estiver sediado o respectivo órgão prisional"
+   ],
+   "correta": 3,
+   "explicacao": "Fora da capital e da região metropolitana, todas as movimentações de presos da SSP, qualquer que seja a finalidade, ficam a cargo da OPM territorial do CPI em cuja área de atuação estiver sediado o órgão prisional, incluindo transporte, escolta e providências administrativas.",
+   "tags": [
+    "presos",
+    "competencia",
+    "cpi"
+   ]
+  },
+  {
+   "id": "presos-elab-012",
+   "subtema": "Movimentação de presos — competência",
+   "artigo": "Dtz PM3-006/02/14 — Presos da SAP na capital",
+   "enunciado": "Quanto aos presos recolhidos em órgãos prisionais da SAP localizados na capital e região metropolitana,",
+   "alternativas": [
+    "cabem à SAP tanto o transporte quanto a escolta, qualquer que seja o destino",
+    "cabem à Polícia Militar o transporte e a escolta, qualquer que seja o destino",
+    "cabe à SAP o transporte e à Polícia Militar a escolta, em todas as hipóteses",
+    "cabe ao 3º BPChq a escolta, quando a movimentação for para comparecimento em juízo"
+   ],
+   "correta": 0,
+   "explicacao": "Na capital e região metropolitana cabem à SAP o transporte e a escolta dos presos a ela vinculados. A PM pode, excepcionalmente, realizar a escolta em situações extraordinárias e pontuais, mediante solicitação analisada e deliberada pelo Coord Op PM, em consenso com a área técnica da SAP.",
+   "tags": [
+    "presos",
+    "competencia",
+    "sap"
+   ]
+  },
+  {
+   "id": "presos-elab-013",
+   "subtema": "Movimentação de presos — competência",
+   "artigo": "Dtz PM3-006/02/14 — Presos da SAP no interior",
+   "enunciado": "Nos municípios do interior, quanto aos presos recolhidos em estabelecimentos da SAP, cabe à Polícia Militar",
+   "alternativas": [
+    "a escolta e as atividades administrativas, dispensada a participação de agentes",
+    "o transporte em viatura policial-militar e a escolta, em todas as movimentações",
+    "o transporte e as atividades administrativas, ficando a escolta a cargo dos AEVP",
+    "apenas a escolta, devendo os presos ser transportados em veículo próprio da SAP"
+   ],
+   "correta": 3,
+   "explicacao": "Nos demais municípios, cabe à PM apenas a escolta, sendo os presos transportados em veículo próprio da SAP, e os ASP ou AEVP que participarem da movimentação realizam as atividades administrativas, como busca pessoal, conferência de documentação e recibos.",
+   "tags": [
+    "presos",
+    "competencia",
+    "interior"
+   ]
+  },
+  {
+   "id": "presos-elab-014",
+   "subtema": "Movimentação de presos — custódia",
+   "artigo": "Dtz PM3-006/02/14 — Custódia em saúde",
+   "enunciado": "A custódia de preso internado em estabelecimento de saúde, quando proveniente de órgão prisional subordinado à SSP, é de responsabilidade",
+   "alternativas": [
+    "da equipe de escolta que conduziu o preso, até a alta hospitalar definitiva",
+    "da OPM territorial em cuja área estiver localizado o órgão prisional de origem",
+    "da administração penitenciária, por meio de seus agentes de vigilância",
+    "da OPM territorial em cuja área estiver localizado o estabelecimento de saúde"
+   ],
+   "correta": 3,
+   "explicacao": "A responsabilidade é da OPM territorial em cuja área de atuação estiver localizado o estabelecimento de saúde, e não a do órgão prisional de origem, distinção frequentemente explorada em prova.",
+   "tags": [
+    "presos",
+    "custodia",
+    "saude"
+   ]
+  },
+  {
+   "id": "presos-elab-015",
+   "subtema": "Movimentação de presos — custódia",
+   "artigo": "Dtz PM3-006/02/14 — Custódia de presos da SAP",
+   "enunciado": "Quanto à custódia de presos provenientes de estabelecimentos da SAP internados em unidades de saúde,",
+   "alternativas": [
+    "compete à OPM territorial em qualquer parte do Estado, inclusive na capital",
+    "compete à SAP na capital e à OPM territorial nos demais municípios",
+    "compete à SAP em todo o Estado, qualquer que seja a localização do hospital",
+    "compete à Polícia Civil, por se tratar de vigilância em ambiente civil de saúde"
+   ],
+   "correta": 1,
+   "explicacao": "Na capital e região metropolitana a custódia compete à própria SAP, por seus recursos; nos demais municípios, à OPM territorial em cuja área se localiza o estabelecimento de saúde, normalmente o Batalhão do interior correspondente.",
+   "tags": [
+    "presos",
+    "custodia",
+    "sap"
+   ]
+  },
+  {
+   "id": "presos-elab-016",
+   "subtema": "Movimentação de presos — custódia",
+   "artigo": "Dtz PM3-006/02/14 — Custódia em audiência",
+   "enunciado": "Solicitada pela autoridade judiciária a vigilância de preso durante audiência ou sessão, a responsabilidade recai",
+   "alternativas": [
+    "sobre o comandante da escolta que conduziu o preso até o fórum, em qualquer caso",
+    "sobre a OPM territorial em cuja área estiver localizado o respectivo órgão judicial",
+    "sobre a administração penitenciária, que destaca agentes para o fórum",
+    "sobre a Polícia Civil, responsável pela apresentação do preso em juízo"
+   ],
+   "correta": 1,
+   "explicacao": "A custódia para vigilância durante audiência ou sessão cabe à OPM territorial da área do órgão judicial; se a solicitação for feita diretamente ao comandante da escolta, este deverá adotar providências para o cumprimento.",
+   "tags": [
+    "presos",
+    "custodia",
+    "audiencia"
+   ]
+  },
+  {
+   "id": "presos-elab-017",
+   "subtema": "Movimentação de presos — planejamento",
+   "artigo": "Dtz PM3-006/02/14 — Planejamento da escolta",
+   "enunciado": "O planejamento da movimentação de presos ficará a cargo da respectiva OPM territorial ou do 3º BPChq, cabendo a definição do programa de policiamento e da quantidade de policiais e viaturas",
+   "alternativas": [
+    "ao oficial responsável pelo planejamento da missão a ser cumprida",
+    "ao Coordenador de Operações da Polícia Militar, em qualquer hipótese",
+    "à direção do estabelecimento prisional onde o preso estiver recolhido",
+    "à autoridade judiciária que requisitou a apresentação do preso em juízo"
+   ],
+   "correta": 0,
+   "explicacao": "A definição do programa de policiamento, inclusive a Força Tática, e a quantidade de policiais e viaturas cabem ao oficial responsável pelo planejamento, que pode obter detalhes junto à direção do órgão prisional e à autoridade judiciária.",
+   "tags": [
+    "presos",
+    "planejamento",
+    "oficial"
+   ]
+  },
+  {
+   "id": "presos-elab-018",
+   "subtema": "Movimentação de presos — planejamento",
+   "artigo": "Dtz PM3-006/02/14 — Fatores do planejamento",
+   "enunciado": "Entre os fatores a serem considerados no planejamento da movimentação de presos, a Diretriz menciona expressamente",
+   "alternativas": [
+    "o grau de periculosidade, sobretudo o vínculo com o crime organizado, e o número de presos",
+    "o regime de cumprimento de pena e a data prevista para a progressão de regime",
+    "a lotação do estabelecimento prisional de origem e o histórico de visitas do preso",
+    "o custo estimado da diligência e a disponibilidade orçamentária da unidade"
+   ],
+   "correta": 0,
+   "explicacao": "A norma destaca o grau de periculosidade, especialmente o vínculo com o crime organizado, e o número de presos a serem escoltados, entre outros fatores que se fizerem necessários ao planejamento seguro da missão.",
+   "tags": [
+    "presos",
+    "planejamento",
+    "fatores"
+   ]
+  },
+  {
+   "id": "presos-elab-019",
+   "subtema": "Movimentação de presos — execução",
+   "artigo": "Dtz PM3-006/02/14 — Comandante da escolta",
+   "enunciado": "Durante a execução da movimentação, cabem ao comandante da escolta as decisões relativas",
+   "alternativas": [
+    "à autorização para o cumprimento de requisição judicial de outra comarca",
+    "à definição do programa de policiamento e do efetivo empregado na missão",
+    "à mudança do itinerário programado e aos locais apropriados para paradas",
+    "à substituição da equipe de escolta por guarnição de outra subunidade"
+   ],
+   "correta": 2,
+   "explicacao": "O comandante da escolta tem o comando e a responsabilidade das decisões durante a execução, como a eventual mudança de itinerário e a escolha de locais apropriados para paradas de descanso, alimentação e abastecimento.",
+   "tags": [
+    "presos",
+    "execucao",
+    "comandante"
+   ]
+  },
+  {
+   "id": "presos-elab-020",
+   "subtema": "Movimentação de presos — execução",
+   "artigo": "Dtz PM3-006/02/14 — Requisição de outra OPM",
+   "enunciado": "Recebendo requisição judicial para movimentar preso que não seja de sua competência, o Comandante da OPM deverá",
+   "alternativas": [
+    "encaminhá-la ao Cmt da OPM responsável e oficiar a autoridade requisitante dando ciência",
+    "cumprir a requisição e comunicar posteriormente a OPM originalmente competente",
+    "devolver a requisição à autoridade judiciária, sem outras providências administrativas",
+    "submeter o caso ao Coordenador de Operações da Polícia Militar para deliberação"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz determina o encaminhamento por documento e pelo meio de comunicação mais célere ao Cmt da OPM responsável pela missão, oficiando-se a autoridade requisitante ou requerente para dar ciência da medida adotada.",
+   "tags": [
+    "presos",
+    "execucao",
+    "requisicao"
+   ]
+  },
+  {
+   "id": "presos-elab-021",
+   "subtema": "Movimentação de presos — atribuições",
+   "artigo": "Dtz PM3-006/02/14 — Coordenadores de Operações",
+   "enunciado": "Compete aos Coordenadores de Operações dos Batalhões metropolitanos e do interior, na sistemática de movimentação de presos,",
+   "alternativas": [
+    "controlar o desenvolvimento da sistemática em todo o território estadual",
+    "definir os itinerários e as paradas das escoltas realizadas pela unidade",
+    "autorizar as movimentações interestaduais requisitadas por juízes de outros Estados",
+    "contatar autoridades do Judiciário e da PC para viabilizar atos no local"
+   ],
+   "correta": 3,
+   "explicacao": "Cabe-lhes manter contato com autoridades do Judiciário e da Polícia Civil para que, sempre que possível, se desloquem ao local onde o preso está recolhido para os atos de instrução criminal ou investigação, reduzindo a necessidade de escoltas.",
+   "tags": [
+    "presos",
+    "atribuicoes",
+    "coord-op"
+   ]
+  },
+  {
+   "id": "presos-elab-022",
+   "subtema": "Movimentação de presos — atribuições",
+   "artigo": "Dtz PM3-006/02/14 — Comandante de Companhia",
+   "enunciado": "Permanecendo preso internado em estabelecimento de saúde localizado em sua subárea, compete ao Comandante de Companhia territorial",
+   "alternativas": [
+    "manter a equipe de escolta original até a alta médica definitiva do preso internado",
+    "providenciar a imediata substituição da equipe de escolta que não pertença à sua subunidade",
+    "solicitar à administração penitenciária a assunção imediata da custódia hospitalar",
+    "comunicar o fato ao juízo competente para eventual transferência do preso"
+   ],
+   "correta": 1,
+   "explicacao": "O Cmt Cia territorial deve providenciar a imediata substituição da equipe de escolta, quando esta não pertencer à sua subunidade, para que se realize a atividade de custódia pela unidade responsável pela área do estabelecimento de saúde.",
+   "tags": [
+    "presos",
+    "atribuicoes",
+    "cmt-cia"
+   ]
+  },
+  {
+   "id": "presos-elab-023",
+   "subtema": "Movimentação de presos — atribuições",
+   "artigo": "Dtz PM3-006/02/14 — Requisições judiciais",
+   "enunciado": "A Diretriz orienta que os Comandantes de Companhia solicitem aos juízes que as requisições judiciais sejam encaminhadas",
+   "alternativas": [
+    "aos diretores dos estabelecimentos prisionais onde o preso estiver recolhido",
+    "diretamente às OPM territoriais responsáveis pela área do fórum requisitante",
+    "ao Coordenador de Operações da Polícia Militar, para distribuição das missões",
+    "à Secretaria de Administração Penitenciária, que repassará à Polícia Militar"
+   ],
+   "correta": 0,
+   "explicacao": "A orientação é que as requisições sejam dirigidas aos diretores dos estabelecimentos prisionais, e não diretamente às OPM, pois a eficácia da movimentação depende de planejamento conjunto entre todas as autoridades da SSP e da SAP envolvidas.",
+   "tags": [
+    "presos",
+    "atribuicoes",
+    "requisicao"
+   ]
+  },
+  {
+   "id": "presos-elab-024",
+   "subtema": "Movimentação de presos — atribuições",
+   "artigo": "Dtz PM3-006/02/14 — Coord Op PM",
+   "enunciado": "Cabe ao Coordenador de Operações da Polícia Militar, na sistemática de movimentação de presos,",
+   "alternativas": [
+    "monitorar a sistemática por meio dos serviços de inteligência subordinados",
+    "controlar o desenvolvimento da sistemática no Estado e deliberar sobre apoios à SAP",
+    "definir o efetivo e as viaturas empregados em cada escolta realizada no Estado",
+    "presidir a apuração das ocorrências graves registradas durante as escoltas"
+   ],
+   "correta": 1,
+   "explicacao": "Ao Coord Op PM cabe controlar o desenvolvimento em todo o Estado, com relatórios sobre estabelecimentos, escoltas, presos escoltados, quilometragem e custos, além de deliberar sobre apoios à SAP e sobre pedidos de escolta de presos de outros Estados, mantendo o Subcomandante informado. O monitoramento por inteligência é atribuição do CIPM.",
+   "tags": [
+    "presos",
+    "atribuicoes",
+    "coordoppm"
+   ]
+  },
+  {
+   "id": "presos-elab-025",
+   "subtema": "Movimentação de presos — atribuições",
+   "artigo": "Dtz PM3-006/02/14 — CIPM",
+   "enunciado": "Ao Centro de Inteligência da Polícia Militar compete, na sistemática de movimentação de presos,",
+   "alternativas": [
+    "elaborar os relatórios estatísticos de escoltas realizadas e custos estimados",
+    "monitorar a sistemática pela inteligência e cientificar as OPM envolvidas",
+    "deliberar sobre pedidos de escolta provenientes de outras unidades federativas",
+    "definir o nível de risco dos presos a serem escoltados em cada movimentação"
+   ],
+   "correta": 1,
+   "explicacao": "O CIPM monitora o desenvolvimento da sistemática em todo o Estado por seus serviços de inteligência, remete ao Subcomandante eventuais problemas e cientifica as OPM participantes para que antecipem ações destinadas a evitar fugas, arrebatamentos e atentados à integridade física dos envolvidos.",
+   "tags": [
+    "presos",
+    "atribuicoes",
+    "cipm"
+   ]
+  },
+  {
+   "id": "presos-elab-026",
+   "subtema": "Movimentação de presos — ocorrências graves",
+   "artigo": "Dtz PM3-006/02/14 — Comunicação de ocorrências",
+   "enunciado": "Ocorrências graves envolvendo a movimentação de presos deverão ser imediatamente transmitidas",
+   "alternativas": [
+    "ao Comandante Geral, por intermédio do Gabinete do Comando",
+    "à Corregedoria da Polícia Militar e ao juízo da execução penal",
+    "à Secretaria de Administração Penitenciária e à Polícia Civil",
+    "ao CIPM e ao Coordenador de Operações da Polícia Militar"
+   ],
+   "correta": 3,
+   "explicacao": "A norma exige comunicação imediata ao CIPM e ao Coord Op PM, sendo ainda privilegiado o canal técnico entre as OPM envolvidas e remetidos ao Coord Op PM os casos omissos, que os verificará junto ao Subcomandante PM.",
+   "tags": [
+    "presos",
+    "ocorrencias-graves"
+   ]
+  },
+  {
+   "id": "presos-elab-027",
+   "subtema": "Movimentação de presos — interestadual",
+   "artigo": "Dtz PM3-006/02/14 — Movimentação interestadual",
+   "enunciado": "A Polícia Militar realiza movimentação interestadual de presos quando",
+   "alternativas": [
+    "houver requisição de qualquer juízo de outra unidade federativa do País",
+    "o preso for proveniente ou tiver como destino o interior do Estado de São Paulo",
+    "o pedido for formulado diretamente pela administração penitenciária de origem",
+    "o preso estiver vinculado a organização criminosa de atuação nacional"
+   ],
+   "correta": 1,
+   "explicacao": "A PM realiza a movimentação interestadual quando o preso for proveniente ou tiver como destino o interior do Estado, tomando-se por referência a comarca do juiz processante. Nos demais casos, o pedido é analisado pelo Coord Op PM, que instruirá a resposta à autoridade requerente.",
+   "tags": [
+    "presos",
+    "interestadual"
+   ]
+  },
+  {
+   "id": "presos-elab-028",
+   "subtema": "Adolescentes — conceitos",
+   "artigo": "Dtz PM3-003/02/09 — Deslocamento externo",
+   "enunciado": "Na sistemática de movimentação de adolescentes, o deslocamento externo, que ocorre para além dos limites da Unidade de origem, classifica-se em",
+   "alternativas": [
+    "programado e não programado",
+    "previsto e imprevisto",
+    "programado e emergencial",
+    "ordinário e extraordinário"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz classifica o deslocamento externo em programado, que possibilita prévio agendamento, e emergencial, que ocorre de forma inopinada, sem possibilidade de agendamento prévio.",
+   "tags": [
+    "adolescentes",
+    "conceitos",
+    "deslocamento"
+   ]
+  },
+  {
+   "id": "presos-elab-029",
+   "subtema": "Adolescentes — conceitos",
+   "artigo": "Dtz PM3-003/02/09 — Deslocamento programado",
+   "enunciado": "O deslocamento externo programado de adolescente decorre, entre outras hipóteses,",
+   "alternativas": [
+    "de situação de anormalidade na Unidade, como tumulto ou rebelião",
+    "de urgência médica que exija atendimento hospitalar imediato do adolescente",
+    "de requisição judicial, do Ministério Público ou de atividades externas autorizadas",
+    "de apreensão em flagrante delito de ato infracional praticado pelo adolescente"
+   ],
+   "correta": 2,
+   "explicacao": "O deslocamento programado decorre de requisição judicial, do Ministério Público, da assistência conveniada e de atividades externas autorizadas pelo Judiciário. As demais alternativas descrevem hipóteses de deslocamento emergencial.",
+   "tags": [
+    "adolescentes",
+    "conceitos",
+    "programado"
+   ]
+  },
+  {
+   "id": "presos-elab-030",
+   "subtema": "Adolescentes — conceitos",
+   "artigo": "Dtz PM3-003/02/09 — Deslocamento emergencial",
+   "enunciado": "Constitui hipótese de deslocamento externo emergencial de adolescente",
+   "alternativas": [
+    "o velório ou sepultamento de cônjuge, ascendente, descendente ou irmão",
+    "o comparecimento a audiência previamente designada pelo juízo da infância",
+    "a participação em atividade externa autorizada pela autoridade judiciária",
+    "o atendimento em consulta odontológica agendada pela unidade de internação"
+   ],
+   "correta": 0,
+   "explicacao": "São emergenciais os deslocamentos por urgência médica, remoções excepcionais por anormalidade na Unidade, acautelamento, velório ou sepultamento de familiares próximos e o originado de apreensão em flagrante quando impossível a apresentação imediata ao Ministério Público.",
+   "tags": [
+    "adolescentes",
+    "conceitos",
+    "emergencial"
+   ]
+  },
+  {
+   "id": "presos-elab-031",
+   "subtema": "Adolescentes — conceitos",
+   "artigo": "Dtz PM3-003/02/09 — Escolta armada",
+   "enunciado": "Define-se escolta armada, na sistemática de movimentação de adolescentes, como",
+   "alternativas": [
+    "a vigilância do adolescente internado em nosocômio durante o período de tratamento",
+    "o ato de conduzir o adolescente em veículo próprio da Fundação Casa ou da Polícia Militar",
+    "a segurança e o acompanhamento do veículo que transporta o adolescente, com viatura e guarnição",
+    "o acompanhamento do adolescente por funcionários da Unidade de origem"
+   ],
+   "correta": 2,
+   "explicacao": "A escolta armada é a segurança e o acompanhamento do veículo que transporta o adolescente, realizados pela PM com viatura e respectiva guarnição, visando coibir fuga ou arrebatamento e preservar a integridade física dos envolvidos, aplicando-se aos níveis de risco 4 e 5.",
+   "tags": [
+    "adolescentes",
+    "conceitos",
+    "escolta"
+   ]
+  },
+  {
+   "id": "presos-elab-032",
+   "subtema": "Adolescentes — competência",
+   "artigo": "Res. Conjunta SJDC/SSP-1/09 — Atribuições",
+   "enunciado": "Segundo a Resolução Conjunta que rege a matéria, cabe à Polícia Militar, no interior do Estado, mediante requisição judicial,",
+   "alternativas": [
+    "a escolta armada no deslocamento externo de adolescentes submetidos a internação",
+    "o transporte em veículo policial de todos os adolescentes internados na Fundação Casa",
+    "a custódia de adolescentes internados em nosocômios, durante todo o tratamento",
+    "a apresentação de adolescentes ao Judiciário nas unidades de internação provisória"
+   ],
+   "correta": 0,
+   "explicacao": "Cabe à PM, no interior do Estado, a escolta armada para o deslocamento externo de adolescentes submetidos a medidas socioeducativas de internação, mediante requisição judicial, além do transporte e da escolta armada de adolescentes ainda não custodiados pela Fundação Casa.",
+   "tags": [
+    "adolescentes",
+    "competencia",
+    "escolta"
+   ]
+  },
+  {
+   "id": "presos-elab-033",
+   "subtema": "Adolescentes — competência",
+   "artigo": "Dtz PM3-003/02/09 — Transporte do internado",
+   "enunciado": "O transporte e a condução de adolescente submetido a medida socioeducativa de internação, em deslocamento externo, qualquer que seja o destino, serão realizados",
+   "alternativas": [
+    "em viatura policial-militar ou veículo da Fundação Casa, conforme a conveniência",
+    "sempre em viatura policial-militar, com escolta realizada pela Fundação Casa",
+    "sempre em veículo próprio da Fundação Casa, cabendo à PM a escolta armada",
+    "em veículo da Fundação Casa apenas quando o destino for o Poder Judiciário"
+   ],
+   "correta": 2,
+   "explicacao": "O transporte do adolescente internado é sempre feito em veículo próprio da Fundação Casa, cabendo à PM a escolta armada conforme a gradação individualizada de risco, e aos funcionários da Fundação as atividades administrativas que envolvem o adolescente.",
+   "tags": [
+    "adolescentes",
+    "competencia",
+    "transporte"
+   ]
+  },
+  {
+   "id": "presos-elab-034",
+   "subtema": "Adolescentes — competência",
+   "artigo": "Dtz PM3-003/02/09 — Adolescente não custodiado",
+   "enunciado": "No interior do Estado, mediante requisição judicial, quando o adolescente, submetido ou não a medida socioeducativa, ainda não estiver custodiado pela Fundação Casa,",
+   "alternativas": [
+    "caberá à PM apenas a escolta, sendo o transporte feito pelo Poder Judiciário",
+    "caberá à Fundação Casa o transporte, com escolta armada realizada pela PM",
+    "caberá à Polícia Civil o transporte, com escolta armada realizada pela PM",
+    "caberá à PM realizar o transporte em viatura policial-militar e a escolta armada"
+   ],
+   "correta": 3,
+   "explicacao": "Nessa hipótese cabe à PM o transporte em viatura policial-militar e a escolta armada, e as atividades administrativas ficam a cargo da própria equipe policial-militar que participa da movimentação, ressalvadas as apreensões em flagrante ou por ordem judicial.",
+   "tags": [
+    "adolescentes",
+    "competencia",
+    "nao-custodiado"
+   ]
+  },
+  {
+   "id": "presos-elab-035",
+   "subtema": "Adolescentes — competência",
+   "artigo": "Dtz PM3-003/02/09 — Custódia em nosocômio",
+   "enunciado": "A custódia e a vigilância de adolescente internado em nosocômio são de responsabilidade",
+   "alternativas": [
+    "da Polícia Civil, por se tratar de vigilância em ambiente hospitalar civil",
+    "da OPM territorial em cuja área estiver localizado o estabelecimento de saúde",
+    "da equipe policial-militar que realizou a escolta armada até o nosocômio",
+    "dos servidores da própria Unidade da Fundação Casa, mesmo com escolta"
+   ],
+   "correta": 3,
+   "explicacao": "A responsabilidade é dos servidores da própria Unidade da Fundação Casa, ainda que se tenha utilizado escolta armada para o deslocamento, solução distinta da adotada para presos adultos, cuja custódia hospitalar recai sobre a OPM territorial.",
+   "tags": [
+    "adolescentes",
+    "custodia",
+    "nosocomio"
+   ]
+  },
+  {
+   "id": "presos-elab-036",
+   "subtema": "Adolescentes — flagrante",
+   "artigo": "ECA — Apreensão em flagrante",
+   "enunciado": "Apreendido adolescente em flagrante de ato infracional, comparecendo qualquer dos pais ou responsável, ele será prontamente liberado pela autoridade policial, sob termo de compromisso de apresentação ao Ministério Público,",
+   "alternativas": [
+    "salvo quando, pela gravidade do ato e sua repercussão social, deva permanecer internado",
+    "em qualquer hipótese, ainda que se trate de ato infracional grave com repercussão",
+    "somente se o ato infracional for praticado sem violência ou grave ameaça à pessoa",
+    "desde que autorizada a liberação pelo representante do Ministério Público de plantão"
+   ],
+   "correta": 0,
+   "explicacao": "A liberação é a regra, ressalvada a hipótese em que, pela gravidade do ato infracional e sua repercussão social, o adolescente deva permanecer internado para garantia de sua segurança pessoal ou manutenção da ordem pública.",
+   "tags": [
+    "adolescentes",
+    "flagrante",
+    "liberacao"
+   ]
+  },
+  {
+   "id": "presos-elab-037",
+   "subtema": "Adolescentes — flagrante",
+   "artigo": "ECA — Apresentação ao Ministério Público",
+   "enunciado": "Não sendo possível a apresentação imediata do adolescente ao representante do Ministério Público, a autoridade policial o encaminhará à entidade de atendimento, que fará a apresentação",
+   "alternativas": [
+    "no primeiro dia útil subsequente",
+    "no prazo de quarenta e oito horas",
+    "no prazo de vinte e quatro horas",
+    "no prazo de setenta e duas horas"
+   ],
+   "correta": 2,
+   "explicacao": "A entidade de atendimento fará a apresentação ao Ministério Público em vinte e quatro horas. Nas localidades sem entidade de atendimento, a apresentação é feita pela autoridade policial, e à falta de repartição especializada o adolescente aguarda em dependência separada da destinada a maiores, sem exceder vinte e quatro horas.",
+   "tags": [
+    "adolescentes",
+    "flagrante",
+    "prazo"
+   ]
+  },
+  {
+   "id": "presos-elab-038",
+   "subtema": "Adolescentes — flagrante",
+   "artigo": "Dtz PM3-003/02/09 — Atuação da PM no flagrante",
+   "enunciado": "Havendo solicitação nos casos de apreensão em flagrante de ato infracional, incumbe à Polícia Militar o transporte e a escolta armada do adolescente",
+   "alternativas": [
+    "somente quando houver determinação expressa da autoridade judiciária competente",
+    "apenas da delegacia de polícia até a unidade de internação provisória mais próxima",
+    "apenas do local da apreensão até a repartição policial especializada da área",
+    "da unidade de atendimento até a apresentação ao MP e o retorno à origem ou a outra entidade"
+   ],
+   "correta": 3,
+   "explicacao": "A PM realiza o transporte e a escolta desde a unidade de atendimento ou a dependência designada pela autoridade policial até a apresentação ao Ministério Público, e o retorno à origem ou o encaminhamento a outra entidade determinada pela autoridade judicial ou ministerial.",
+   "tags": [
+    "adolescentes",
+    "flagrante",
+    "escolta"
+   ]
+  },
+  {
+   "id": "presos-elab-039",
+   "subtema": "Adolescentes — impossibilidade",
+   "artigo": "Dtz PM3-003/02/09 — Falta de meios",
+   "enunciado": "Não sendo possível realizar a escolta de adolescente por real falta de meios materiais e humanos, esgotadas as alternativas, a Diretriz exige que",
+   "alternativas": [
+    "a missão seja transferida automaticamente à unidade de policiamento de choque da região",
+    "seja enviada imediatamente justificativa escrita e fundamentada à autoridade solicitante",
+    "o comandante comunique apenas o escalão superior, dispensada resposta ao solicitante",
+    "a escolta seja adiada para a primeira data disponível, sem necessidade de comunicação"
+   ],
+   "correta": 1,
+   "explicacao": "Exige-se justificativa escrita e fundamentada enviada imediatamente à autoridade solicitante, sob risco de incorrer no crime do art. 235 do ECA, que pune descumprir injustificadamente prazo fixado em benefício de adolescente privado de liberdade.",
+   "tags": [
+    "adolescentes",
+    "impossibilidade",
+    "eca"
+   ]
+  },
+  {
+   "id": "presos-elab-040",
+   "subtema": "Adolescentes — NAI",
+   "artigo": "Dtz PM3-003/02/09 — Núcleos de Atendimento Integrado",
+   "enunciado": "Quanto aos adolescentes que estiverem nos Núcleos de Atendimento Integrado, incumbe à Polícia Militar",
+   "alternativas": [
+    "a apresentação ao Judiciário e ao Ministério Público, com equipamentos próprios",
+    "a custódia permanente do adolescente enquanto durar o atendimento inicial no núcleo",
+    "a escolta armada, em deslocamento programado ou emergencial, e a condução",
+    "a definição do nível de risco do adolescente para fins de escolta armada"
+   ],
+   "correta": 2,
+   "explicacao": "A PM realiza a escolta armada dos adolescentes que estiverem nos NAI, em atendimento inicial, internação provisória ou com medida socioeducativa decretada, tanto em deslocamentos programados quanto emergenciais e na condução às demais unidades da Fundação Casa.",
+   "tags": [
+    "adolescentes",
+    "nai",
+    "escolta"
+   ]
+  },
+  {
+   "id": "presos-elab-041",
+   "subtema": "Adolescentes — apresentação",
+   "artigo": "Dtz PM3-003/02/09 — Apresentação ao Judiciário",
+   "enunciado": "A apresentação ao Judiciário e ao Ministério Público de adolescentes que estiverem em Unidades de Atendimento Inicial ou de Internação Provisória será realizada",
+   "alternativas": [
+    "exclusivamente pela Polícia Militar, em viatura policial e com escolta armada",
+    "por equipe da Fundação Casa, com equipamentos próprios e apoio da Polícia Militar",
+    "pela Polícia Civil, mediante requisição da autoridade judiciária competente",
+    "por servidores do Poder Judiciário, com apoio da segurança patrimonial do fórum"
+   ],
+   "correta": 1,
+   "explicacao": "A apresentação cabe a equipe da Fundação Casa, dotada de equipamentos próprios, com apoio da Polícia Militar, mediante planejamento entre a Fundação e a OPM responsável pela escolta armada.",
+   "tags": [
+    "adolescentes",
+    "apresentacao",
+    "fundacao-casa"
+   ]
+  },
+  {
+   "id": "presos-elab-042",
+   "subtema": "Adolescentes — níveis de risco",
+   "artigo": "Res. Conjunta — Gradação de risco",
+   "enunciado": "A necessidade de escolta armada de adolescente será definida",
+   "alternativas": [
+    "pelo Comandante da OPM territorial responsável pela área da Unidade de origem",
+    "pela Diretoria da Unidade da Fundação Casa, conforme a tabela de gradação de risco",
+    "pela autoridade judiciária que determinou a medida socioeducativa de internação",
+    "pelo Coordenador de Operações da Polícia Militar, ouvido o serviço de inteligência"
+   ],
+   "correta": 1,
+   "explicacao": "A definição cabe à Diretoria da Unidade da Fundação Casa, conforme a Tabela de Gradação de Risco integrante da Resolução Conjunta, resultando de avaliação individualizada de cada adolescente.",
+   "tags": [
+    "adolescentes",
+    "risco",
+    "definicao"
+   ]
+  },
+  {
+   "id": "presos-elab-043",
+   "subtema": "Adolescentes — níveis de risco",
+   "artigo": "Res. Conjunta — Níveis 4 e 5",
+   "enunciado": "A escolta armada pela Polícia Militar é prevista para os adolescentes classificados nos níveis de risco",
+   "alternativas": [
+    "1 e 2, que abrangem atos infracionais leves e médios sem ameaça à vida",
+    "4 e 5, que abrangem histórico de fuga, crime organizado e notoriedade do delito",
+    "3 e 4, que abrangem progressão de medida e reincidência em atos graves",
+    "2, 3 e 4, conforme deliberação do psicólogo e do assistente social da Unidade"
+   ],
+   "correta": 1,
+   "explicacao": "Os níveis 4 e 5 exigem escolta armada, eventualmente somada a agentes de segurança e de apoio técnico. Os níveis 1, 2 e 3 comportam escolta por funcionários da própria Unidade, agentes de segurança e agentes de apoio técnico.",
+   "tags": [
+    "adolescentes",
+    "risco",
+    "niveis"
+   ]
+  },
+  {
+   "id": "presos-elab-044",
+   "subtema": "Adolescentes — níveis de risco",
+   "artigo": "Res. Conjunta — Nível 5",
+   "enunciado": "Classifica-se no nível 5 de risco o adolescente",
+   "alternativas": [
+    "primário, autor de ato infracional médio, sem antecedentes nem convívio criminal",
+    "com histórico de fuga, resgate ou envolvimento com tráfico, reincidente grave",
+    "em progressão de medida, considerado exceção pela equipe técnica da Unidade",
+    "com notoriedade, membro de quadrilha ou do crime organizado"
+   ],
+   "correta": 3,
+   "explicacao": "O nível 5 alcança o adolescente com notoriedade ou membro de quadrilha ou do crime organizado, independentemente de histórico criminal, inclusive por delito de comoção social. O nível 4 abrange histórico de fuga, resgate, crime organizado, homicídio ou tráfico e reincidência grave.",
+   "tags": [
+    "adolescentes",
+    "risco",
+    "nivel-5"
+   ]
+  },
+  {
+   "id": "presos-elab-045",
+   "subtema": "Adolescentes — competência",
+   "artigo": "Dtz PM3-003/02/09 — OPM responsável",
+   "enunciado": "Na escolta armada de adolescentes internados em Unidade da Fundação Casa localizada na capital, com destino à Grande São Paulo ou ao interior, a responsabilidade é",
+   "alternativas": [
+    "da OPM territorial do destino da movimentação",
+    "do Batalhão metropolitano da Unidade de origem",
+    "do CPChq, por meio de suas OPM subordinadas",
+    "do Comando de Policiamento Rodoviário, em qualquer trajeto"
+   ],
+   "correta": 2,
+   "explicacao": "Para Unidade de origem na capital com destino à Grande São Paulo ou ao interior, a escolta cabe ao CPChq por meio de suas OPM subordinadas; permanecendo o destino na capital, cabe ao Batalhão metropolitano da Unidade de origem, e nas demais hipóteses, ao Batalhão metropolitano ou do interior de origem.",
+   "tags": [
+    "adolescentes",
+    "competencia",
+    "cpchq"
+   ]
+  },
+  {
+   "id": "presos-elab-046",
+   "subtema": "Adolescentes — solicitação",
+   "artigo": "Dtz PM3-003/02/09 — Solicitação programada",
+   "enunciado": "A solicitação de escolta armada programada será encaminhada pela Unidade da Fundação Casa à respectiva OPM",
+   "alternativas": [
+    "com antecedência mínima de dez dias corridos, por ofício protocolado",
+    "com antecedência mínima de quarenta e oito horas, por meio eletrônico",
+    "no mesmo dia da movimentação, com confirmação verbal do comandante",
+    "com antecedência mínima de cinco dias úteis, pelo meio mais célere e seguro"
+   ],
+   "correta": 3,
+   "explicacao": "A solicitação programada exige antecedência mínima de cinco dias úteis, pelo meio de comunicação mais célere e seguro, devendo ser confirmada por escrito pela OPM junto ao solicitante.",
+   "tags": [
+    "adolescentes",
+    "solicitacao",
+    "programada"
+   ]
+  },
+  {
+   "id": "presos-elab-047",
+   "subtema": "Adolescentes — solicitação",
+   "artigo": "Dtz PM3-003/02/09 — Solicitação emergencial",
+   "enunciado": "A solicitação de escolta armada emergencial é feita pela Unidade da Fundação Casa de origem",
+   "alternativas": [
+    "à autoridade judiciária, que requisitará o apoio à Polícia Militar competente",
+    "diretamente ao Comandante de Policiamento de Área responsável pela região",
+    "ao COPOM ou CAD, que transmitirá ao Cmt da OPM territorial ou ao Supervisor Regional",
+    "ao Coordenador de Operações da Polícia Militar, que designará a unidade responsável"
+   ],
+   "correta": 2,
+   "explicacao": "A solicitação emergencial é dirigida ao COPOM ou ao CAD, que, no horário de expediente, transmite ao Cmt da OPM territorial e, fora dele, ao Supervisor Regional responsável pela OPM territorial da Unidade de origem.",
+   "tags": [
+    "adolescentes",
+    "solicitacao",
+    "emergencial"
+   ]
+  },
+  {
+   "id": "presos-elab-048",
+   "subtema": "Adolescentes — apoios",
+   "artigo": "Dtz PM3-003/02/09 — Apoio de outras unidades",
+   "enunciado": "Quando necessário, prestará apoio às OPM territoriais e às de Policiamento de Choque para a realização das escoltas de adolescentes",
+   "alternativas": [
+    "o CAvPM, exclusivamente, mediante autorização prévia do Comandante Geral",
+    "o CPAmb, por meio de suas unidades territoriais especializadas no interior do Estado",
+    "o CPRv, por meio de suas OPM subordinadas, liberado o canal técnico entre as unidades",
+    "a Polícia Civil local, mediante requisição da autoridade judiciária competente"
+   ],
+   "correta": 2,
+   "explicacao": "O Comando de Policiamento Rodoviário, por meio de suas unidades, presta apoio às OPM territoriais e de Policiamento de Choque quando necessário, ficando liberado o canal técnico entre as OPM envolvidas.",
+   "tags": [
+    "adolescentes",
+    "apoio",
+    "cprv"
+   ]
+  },
+  {
+   "id": "presos-elab-049",
+   "subtema": "Adolescentes — planejamento",
+   "artigo": "Dtz PM3-003/02/09 — Fatores do planejamento",
+   "enunciado": "Entre os fatores a considerar no planejamento das escoltas de adolescentes, a Diretriz menciona",
+   "alternativas": [
+    "a existência de familiares residentes no município de destino da movimentação",
+    "o tempo restante de cumprimento da medida socioeducativa de internação",
+    "a lotação da Unidade de origem e a disponibilidade de vagas no destino",
+    "o nível de risco, os atos infracionais cometidos e o vínculo com organização criminosa"
+   ],
+   "correta": 3,
+   "explicacao": "São fatores o nível de risco em que o adolescente está classificado, os atos infracionais cometidos, o número de adolescentes a escoltar, o vínculo com organização criminosa, tentativas anteriores de fuga ou arrebatamento, o estudo antecipado do trajeto com itinerários alternativos e as orientações para revista pessoal.",
+   "tags": [
+    "adolescentes",
+    "planejamento",
+    "fatores"
+   ]
+  },
+  {
+   "id": "presos-elab-050",
+   "subtema": "Adolescentes — execução",
+   "artigo": "Dtz PM3-003/02/09 — Comandante da escolta",
+   "enunciado": "Durante a movimentação de adolescentes, as decisões sobre eventual mudança de itinerário e locais de parada competem",
+   "alternativas": [
+    "ao diretor da Unidade da Fundação Casa de origem do adolescente",
+    "ao comandante da equipe policial-militar responsável pela escolta",
+    "ao Coordenador de Operações do Batalhão responsável pela área",
+    "à autoridade judiciária que requisitou a movimentação do adolescente"
+   ],
+   "correta": 1,
+   "explicacao": "O comando e as decisões durante a movimentação são de responsabilidade do comandante da equipe de policiais militares, a quem compete deliberar sobre mudança de itinerário e locais apropriados para paradas de descanso, alimentação e abastecimento.",
+   "tags": [
+    "adolescentes",
+    "execucao",
+    "comandante"
+   ]
+  },
+  {
+   "id": "presos-elab-051",
+   "subtema": "Adolescentes — atribuições",
+   "artigo": "Dtz PM3-003/02/09 — Contato com juízes",
+   "enunciado": "Aos Coordenadores de Operações dos Batalhões compete manter contato com os juízes de suas áreas de atuação para que, sempre que possível,",
+   "alternativas": [
+    "designem datas de audiência compatíveis com a escala de serviço da unidade policial",
+    "encaminhem as requisições diretamente às unidades da Fundação Casa envolvidas",
+    "autorizem a realização das audiências por videoconferência nas unidades da Fundação",
+    "se desloquem ao local de internação do adolescente para a prática dos atos necessários"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz determina o contato para que as autoridades se desloquem, sempre que possível, ao local onde o adolescente se encontra internado, disponibilizando-se, em apoio, os recursos necessários de efetivo e viatura para esses deslocamentos.",
+   "tags": [
+    "adolescentes",
+    "atribuicoes",
+    "coord-op"
+   ]
+  },
+  {
+   "id": "presos-elab-052",
+   "subtema": "Adolescentes — atribuições",
+   "artigo": "Dtz PM3-003/02/09 — Comandante de Policiamento do Interior",
+   "enunciado": "Considerando as peculiaridades regionais e as distâncias entre a sede do Batalhão do interior e os municípios abrangidos, o Comandante de Policiamento do Interior poderá",
+   "alternativas": [
+    "transferir a responsabilidade pela escolta ao Comando de Policiamento de Choque",
+    "delegar a escolta armada às guardas municipais dos municípios mais distantes",
+    "dispensar a escolta armada nos deslocamentos internos à própria comarca",
+    "determinar que o contato com as autoridades seja feito pelos Cmt Cia PM territoriais"
+   ],
+   "correta": 3,
+   "explicacao": "A norma autoriza o Cmt Pol Int a determinar, quando julgar conveniente e oportuno, que o contato com as autoridades judiciárias seja feito pelos respectivos Comandantes de Companhia PM territoriais, aproximando a articulação das peculiaridades locais.",
+   "tags": [
+    "adolescentes",
+    "atribuicoes",
+    "cmt-pol-int"
+   ]
+  },
+  {
+   "id": "presos-elab-053",
+   "subtema": "Adolescentes — atribuições",
+   "artigo": "Dtz PM3-003/02/09 — Requisição de outra OPM",
+   "enunciado": "Recebendo solicitação de escolta armada de adolescente que não seja de sua competência, o Comandante da OPM deve",
+   "alternativas": [
+    "encaminhá-la ao Cmt da OPM responsável e oficiar a autoridade solicitante dando ciência",
+    "cumprir a missão e comunicar o fato posteriormente ao escalão superior competente",
+    "arquivar a solicitação, cabendo ao solicitante identificar a unidade competente",
+    "encaminhá-la ao Coordenador de Operações da Polícia Militar para deliberação"
+   ],
+   "correta": 0,
+   "explicacao": "A solução é idêntica à da movimentação de presos: encaminhamento pelo meio mais célere ao Cmt da OPM responsável pelo cumprimento da missão, com ofício à autoridade requisitante ou solicitante dando ciência da medida.",
+   "tags": [
+    "adolescentes",
+    "atribuicoes",
+    "requisicao"
+   ]
+  },
+  {
+   "id": "presos-elab-054",
+   "subtema": "Adolescentes — planejamento",
+   "artigo": "Dtz PM3-003/02/09 — Planejamento conjunto",
+   "enunciado": "O planejamento das escoltas de adolescentes ficará a cargo da OPM territorial ou da OPM de Policiamento de Choque, podendo os detalhes ser definidos em conjunto",
+   "alternativas": [
+    "com a Polícia Civil da comarca de destino, responsável pela apresentação do adolescente",
+    "exclusivamente com o Coordenador de Operações do respectivo Comando de Policiamento",
+    "com a direção da Unidade da Fundação Casa, o órgão solicitante ou a autoridade judiciária",
+    "com a Diretoria de Polícia Comunitária e Direitos Humanos, gestora da sistemática"
+   ],
+   "correta": 2,
+   "explicacao": "Os detalhes podem ser obtidos ou definidos em conjunto com a direção da Unidade da Fundação Casa onde o adolescente estiver recolhido, com o órgão solicitante ou com a autoridade judiciária respectiva, inclusive quanto aos apoios na apresentação ao Judiciário e ao Ministério Público.",
+   "tags": [
+    "adolescentes",
+    "planejamento",
+    "conjunto"
+   ]
+  },
+  {
+   "id": "presos-elab-055",
+   "subtema": "Audiência de custódia",
+   "artigo": "Res. TJSP-740/16 e Res. SSP-102/16 — Conceito",
+   "enunciado": "A audiência de custódia consiste na apresentação da pessoa detida em flagrante delito, pela autoridade policial, à autoridade judiciária competente,",
+   "alternativas": [
+    "no prazo de cinco dias contados da comunicação da prisão ao juízo",
+    "em até quarenta e oito horas após a prisão em flagrante",
+    "no primeiro dia útil subsequente à lavratura do auto de prisão",
+    "em até vinte e quatro horas após a prisão em flagrante"
+   ],
+   "correta": 3,
+   "explicacao": "A audiência de custódia visa à apresentação do preso em flagrante à autoridade judiciária em até vinte e quatro horas após a prisão, sistemática implementada no Estado pela Resolução TJSP-740/16, com a participação de PM e PC disciplinada pela Resolução SSP-102/16.",
+   "tags": [
+    "custodia",
+    "conceito",
+    "prazo"
+   ]
+  },
+  {
+   "id": "presos-elab-056",
+   "subtema": "Audiência de custódia",
+   "artigo": "Portaria Cmt G PM3-02/02/17 — Movimentação no fórum",
+   "enunciado": "Nos fóruns das áreas do CPM e dos CPI onde houver audiência de custódia, a Polícia Militar será responsável",
+   "alternativas": [
+    "pelo transporte do preso da delegacia até o fórum e seu retorno",
+    "por todas as movimentações do preso nas dependências do fórum",
+    "pela permanência de policial na sala de audiência durante todo o ato",
+    "pela lavratura do auto de prisão em flagrante no interior do fórum"
+   ],
+   "correta": 1,
+   "explicacao": "Os Comandantes de OPM das regiões do CPM e dos CPI com fóruns que realizem audiência de custódia devem destacar efetivo, sendo a PM responsável por todas as movimentações do preso nas dependências do fórum, em planejamento conjunto com as autoridades envolvidas.",
+   "tags": [
+    "custodia",
+    "forum",
+    "movimentacao"
+   ]
+  },
+  {
+   "id": "presos-elab-057",
+   "subtema": "Audiência de custódia",
+   "artigo": "Portaria Cmt G PM3-02/02/17 — Sala de audiência",
+   "enunciado": "Quanto à permanência do policial militar na sala de audiência de custódia, após a entrada do preso provisório, a norma estabelece que",
+   "alternativas": [
+    "a permanência dependerá de solicitação do defensor público presente",
+    "o policial permanecerá obrigatoriamente durante todo o ato processual",
+    "o policial não permanecerá, salvo determinação judicial em contrário",
+    "a permanência será decidida pelo comandante da guarnição destacada"
+   ],
+   "correta": 2,
+   "explicacao": "A regra é a não permanência do policial militar na sala de audiência após a entrada do preso, salvo determinação judicial em contrário ou risco à segurança dos envolvidos, hipótese que justifica a presença policial.",
+   "tags": [
+    "custodia",
+    "forum",
+    "sala"
+   ]
+  },
+  {
+   "id": "presos-elab-058",
+   "subtema": "Audiência de custódia",
+   "artigo": "Portaria Cmt G PM3-02/02/17 — Revista pessoal",
+   "enunciado": "Antes de realizar a movimentação do preso no interior do fórum, o policial militar deverá",
+   "alternativas": [
+    "efetuar revista pessoal no preso, como medida de segurança da movimentação",
+    "aguardar que a revista seja feita por agente da administração penitenciária",
+    "solicitar autorização ao juiz responsável pela audiência de custódia",
+    "conferir a documentação do preso junto ao cartório judicial competente"
+   ],
+   "correta": 0,
+   "explicacao": "A norma determina expressamente que o policial militar efetue revista pessoal no preso antes de realizar sua movimentação no interior do fórum, providência de segurança dos envolvidos no ato.",
+   "tags": [
+    "custodia",
+    "forum",
+    "revista"
+   ]
+  },
+  {
+   "id": "presos-elab-059",
+   "subtema": "Audiência de custódia",
+   "artigo": "Portaria Cmt G PM3-02/02/17 — Manutenção da prisão",
+   "enunciado": "Decidindo o juiz pela manutenção da prisão do custodiado, nas áreas do CPC e do CPM,",
+   "alternativas": [
+    "o preso permanecerá custodiado no fórum até a remoção pelo Poder Judiciário",
+    "a escolta armada até a unidade prisional será feita pela OPM territorial do fórum",
+    "a escolta armada caberá à Polícia Civil, que apresentou o preso à audiência",
+    "a escolta armada até a unidade prisional continua sendo feita por agentes da SAP"
+   ],
+   "correta": 3,
+   "explicacao": "Nas áreas do CPC e do CPM a escolta armada permanece a cargo de agentes da SAP; nos CPI, nas localidades sem escolta armada da SAP, a PM realiza a escolta pelo Batalhão do interior da área do fórum até a unidade prisional de acolhimento.",
+   "tags": [
+    "custodia",
+    "escolta",
+    "sap"
+   ]
+  },
+  {
+   "id": "presos-elab-060",
+   "subtema": "Audiência de custódia",
+   "artigo": "Res. SSP-102/16 — Interior e Grande São Paulo",
+   "enunciado": "No interior do Estado e na região da Grande São Paulo, a apresentação do preso provisório ao juiz, para a audiência de custódia, será realizada",
+   "alternativas": [
+    "pelo Poder Judiciário, por meio de sua estrutura de segurança institucional",
+    "pela Polícia Militar, que também responde pela escolta até a unidade prisional",
+    "pela administração penitenciária, com agentes destacados para o fórum",
+    "pela Polícia Civil, permanecendo ao menos um policial civil no fórum até o término"
+   ],
+   "correta": 3,
+   "explicacao": "A apresentação cabe à Polícia Civil, devendo ao menos um policial civil permanecer no fórum até o término das audiências para as providências de polícia judiciária, sem prejuízo do efetivo policial-militar destacado para todas as movimentações internas do preso.",
+   "tags": [
+    "custodia",
+    "policia-civil",
+    "forum"
+   ]
+  },
+  {
+   "id": "presos-elab-061",
+   "subtema": "Audiência de custódia",
+   "artigo": "Res. SSP-102/16 — Escolta após a audiência",
+   "enunciado": "Convertido o flagrante em prisão preventiva, em comarca do interior não guarnecida por escolta armada da SAP,",
+   "alternativas": [
+    "o preso aguardará no fórum a chegada de agentes penitenciários da capital",
+    "a escolta até a unidade prisional será realizada pela Polícia Civil local",
+    "a escolta até a unidade prisional será realizada pela Polícia Militar",
+    "a escolta dependerá de autorização do Coordenador de Operações da PM"
+   ],
+   "correta": 2,
+   "explicacao": "Nas localidades do CPM ou do interior sem escolta da SAP, a escolta até a unidade prisional é realizada pela Polícia Militar; havendo escolta da SAP, esta realiza a movimentação do fórum à unidade prisional.",
+   "tags": [
+    "custodia",
+    "escolta",
+    "interior"
+   ]
+  },
+  {
+   "id": "presos-elab-062",
+   "subtema": "Audiência de custódia",
+   "artigo": "Res. SSP-10/15 — Projeto piloto",
+   "enunciado": "No projeto piloto de audiência de custódia na capital, a responsabilidade pela guarda, pelo transporte e pela entrega do preso em flagrante no complexo jurídico Ministro Mário Guimarães era",
+   "alternativas": [
+    "da Polícia Civil, que entregava o preso diretamente à Polícia Militar no local",
+    "da Polícia Militar, que recolhia o preso na delegacia de origem da prisão",
+    "da administração penitenciária, que transportava o preso ao complexo jurídico",
+    "do Poder Judiciário, que requisitava o preso à autoridade policial competente"
+   ],
+   "correta": 0,
+   "explicacao": "A guarda, o transporte e a entrega do preso no complexo jurídico eram da Polícia Civil, que o entregava diretamente à Polícia Militar com o auto de prisão em flagrante, a nota de culpa e o relatório preliminar da autoridade policial.",
+   "tags": [
+    "custodia",
+    "projeto-piloto",
+    "policia-civil"
+   ]
+  },
+  {
+   "id": "presos-elab-063",
+   "subtema": "Audiência de custódia",
+   "artigo": "Res. SSP-10/15 — Guarda pela PM",
+   "enunciado": "No projeto piloto, a responsabilidade da Polícia Militar pela guarda do preso, a partir de sua entrega,",
+   "alternativas": [
+    "estendia-se até o retorno do preso à delegacia de origem, após a audiência realizada",
+    "compreendia apenas a condução do preso até a sala de audiência, cessando nesse momento",
+    "compreendia a carceragem e a condução ao juiz, cessando na entrega à SAP",
+    "iniciava-se somente após a decisão judicial de manutenção da prisão provisória"
+   ],
+   "correta": 2,
+   "explicacao": "A PM mantinha o preso na carceragem e o apresentava ao juiz na audiência de custódia, cessando sua responsabilidade com a entrega aos agentes da SAP quando o juiz mantivesse a prisão provisória.",
+   "tags": [
+    "custodia",
+    "projeto-piloto",
+    "guarda"
+   ]
+  },
+  {
+   "id": "presos-elab-064",
+   "subtema": "Audiência de custódia",
+   "artigo": "Res. SSP-10/15 — Exame de corpo de delito",
+   "enunciado": "Mantida a prisão provisória pelo juiz, no projeto piloto de audiência de custódia,",
+   "alternativas": [
+    "o exame dependia de requerimento da defesa técnica constituída pelo preso",
+    "o exame de corpo de delito era dispensado, salvo se houvesse lesão aparente",
+    "o exame era realizado apenas na unidade prisional de destino do preso",
+    "o preso era encaminhado pela PM à realização obrigatória de exame de corpo de delito"
+   ],
+   "correta": 3,
+   "explicacao": "Havendo manutenção da prisão provisória, a PM encaminhava o preso à realização obrigatória do exame de corpo de delito; em caso de relaxamento do flagrante ou liberdade provisória, o exame não era realizado, salvo expressa requisição do juiz.",
+   "tags": [
+    "custodia",
+    "projeto-piloto",
+    "corpo-de-delito"
+   ]
+  },
+  {
+   "id": "presos-elab-065",
+   "subtema": "Audiência de custódia",
+   "artigo": "Res. SSP-10/15 — Local dos exames",
+   "enunciado": "No projeto piloto, os exames de corpo de delito seriam sempre realizados",
+   "alternativas": [
+    "na unidade prisional de destino, por médico designado pela administração penitenciária",
+    "no Instituto Médico Legal central, mediante condução do preso pela Polícia Militar",
+    "no próprio complexo jurídico, em sala fornecida pelo Judiciário à Polícia Técnico-Científica",
+    "na delegacia de origem, antes da apresentação do preso ao juízo competente"
+   ],
+   "correta": 2,
+   "explicacao": "Os exames eram realizados no próprio complexo jurídico Ministro Mário Guimarães, em sala própria e adequada fornecida pelo Poder Judiciário à Superintendência da Polícia Técnico-Científica, o que evitava novos deslocamentos do preso.",
+   "tags": [
+    "custodia",
+    "projeto-piloto",
+    "local"
+   ]
+  },
+  {
+   "id": "presos-elab-066",
+   "subtema": "Audiência de custódia",
+   "artigo": "Res. SSP-10/15 — Exceção à apresentação",
+   "enunciado": "Excepcionalmente, a autoridade policial poderá deixar de apresentar o preso diretamente à autoridade judicial quando",
+   "alternativas": [
+    "não houver disponibilidade de viatura para o transporte do preso ao fórum",
+    "as circunstâncias da prisão puderem colocar em risco a segurança pública",
+    "o preso se recusar expressamente a comparecer à audiência de custódia",
+    "a prisão tiver ocorrido durante o período noturno ou em finais de semana"
+   ],
+   "correta": 1,
+   "explicacao": "A ressalva alcança as circunstâncias específicas da prisão em flagrante que possam colocar em risco a segurança pública, hipótese em que a apresentação direta deixa de ser realizada, sem prejuízo das comunicações legais.",
+   "tags": [
+    "custodia",
+    "projeto-piloto",
+    "excecao"
+   ]
+  },
+  {
+   "id": "presos-elab-067",
+   "subtema": "Audiência de custódia",
+   "artigo": "Res. SSP-10/15 — Pertences do preso",
+   "enunciado": "Os pertences do preso que não tiverem sido devolvidos a familiares ou ao advogado na unidade policial",
+   "alternativas": [
+    "serão encaminhados ao complexo jurídico e entregues pela PC à PM",
+    "permanecerão na delegacia de origem até a decisão judicial sobre a prisão",
+    "serão encaminhados diretamente à unidade prisional de destino do preso",
+    "serão entregues ao próprio preso antes do início da audiência de custódia"
+   ],
+   "correta": 0,
+   "explicacao": "Os pertences são encaminhados ao complexo jurídico e entregues pela Polícia Civil mediante protocolo à Polícia Militar, que passa a responder por eles junto com a guarda do preso.",
+   "tags": [
+    "custodia",
+    "projeto-piloto",
+    "pertences"
+   ]
+  },
+  {
+   "id": "presos-elab-068",
+   "subtema": "Audiência de custódia",
+   "artigo": "Portaria Cmt G PM3-02/02/17 — Planejamento",
+   "enunciado": "A disponibilização do efetivo policial-militar para as audiências de custódia deverá ser feita",
+   "alternativas": [
+    "com efetivo do policiamento de choque, em razão da natureza da missão desempenhada",
+    "mediante escala fixa diária, independentemente da quantidade de audiências designadas",
+    "por determinação do Coordenador de Operações da Polícia Militar para cada comarca",
+    "em planejamento conjunto com as autoridades envolvidas, conforme a demanda de cada fórum"
+   ],
+   "correta": 3,
+   "explicacao": "A norma exige planejamento conjunto com as autoridades envolvidas, conforme a rotina e a demanda de audiências de cada fórum, visando ao menor prejuízo ao policiamento ostensivo-preventivo.",
+   "tags": [
+    "custodia",
+    "planejamento",
+    "efetivo"
+   ]
+  },
+  {
+   "id": "presos-elab-069",
+   "subtema": "Ocorrências com reféns",
+   "artigo": "Res. SSP-13/10 — Competência do GATE",
+   "enunciado": "Caberá ao GATE atender ocorrências com reféns, no exercício das atribuições da Polícia Militar, ainda que acionado por outro órgão, mediante prévia autorização",
+   "alternativas": [
+    "do Comandante do CPChq, do Comandante Geral ou do Secretário de Segurança Pública",
+    "exclusivamente do Comandante Geral da Polícia Militar do Estado de São Paulo",
+    "do Delegado Geral de Polícia, quando a ocorrência decorrer de atividade judiciária",
+    "do juiz competente da comarca onde se desenvolve a ocorrência com reféns"
+   ],
+   "correta": 0,
+   "explicacao": "A autorização para intervenção do GATE em ocorrências com reféns pode ser dada pelo Comandante do CPChq, pelo Comandante Geral ou pelo Secretário de Segurança Pública; nas demais ocorrências que exijam o GATE, como artefato explosivo, suicida e terrorismo, a autorização é do Comandante Geral.",
+   "tags": [
+    "refens",
+    "gate",
+    "autorizacao"
+   ]
+  },
+  {
+   "id": "presos-elab-070",
+   "subtema": "Ocorrências com reféns",
+   "artigo": "Res. SSP-13/10 — Competência do GER",
+   "enunciado": "As ocorrências com reféns decorrentes da atividade de polícia judiciária afeta às atribuições do DEIC ou de outro órgão de execução da Polícia Civil serão atendidas",
+   "alternativas": [
+    "pela unidade territorial da Polícia Militar, com apoio do Grupo Especial de Resgate",
+    "pelo GATE, em razão da especialização policial-militar em ações táticas especiais",
+    "conjuntamente pelo GATE e pelo GER, sob comando do órgão que primeiro chegar",
+    "pelo Grupo Especial de Resgate da Polícia Civil, mediante autorização competente"
+   ],
+   "correta": 3,
+   "explicacao": "Nessas ocorrências a competência é do GER, mediante autorização do Diretor do DEIC, do Secretário de Segurança Pública ou do Delegado Geral de Polícia, enquanto o GATE atua nas ocorrências afetas à preservação da ordem pública.",
+   "tags": [
+    "refens",
+    "ger",
+    "competencia"
+   ]
+  },
+  {
+   "id": "presos-elab-071",
+   "subtema": "Ocorrências com reféns",
+   "artigo": "Res. SSP-13/10 — Vínculo de negociação",
+   "enunciado": "Em ocorrência com reféns atendida inicialmente por unidade territorial da Polícia Militar, já estabelecido vínculo de negociação,",
+   "alternativas": [
+    "o vínculo será transferido obrigatoriamente ao negociador da Polícia Civil presente",
+    "o vínculo será imediatamente rompido com a chegada do GATE ao local da crise",
+    "o vínculo somente poderá ser mantido mediante autorização do Secretário de Segurança",
+    "o vínculo será mantido, com apoio do GATE, que avaliará a oportunidade de assumir a operação"
+   ],
+   "correta": 3,
+   "explicacao": "A norma preserva o vínculo de negociação já estabelecido, com apoio do GATE, que avaliará a necessidade e a oportunidade de assumir integralmente a operação ou de manter a comunicação indireta por intermédio do policial que firmou o vínculo inicial.",
+   "tags": [
+    "refens",
+    "negociacao",
+    "vinculo"
+   ]
+  },
+  {
+   "id": "presos-elab-072",
+   "subtema": "Ocorrências com reféns",
+   "artigo": "Res. SSP-13/10 — Isolamento",
+   "enunciado": "As equipes empenhadas em ocorrência com reféns providenciarão o imediato isolamento da área, com restrição de acesso ao perímetro de segurança,",
+   "alternativas": [
+    "inclusive de policiais civis e militares estranhos à operação, de terceiros e da imprensa",
+    "apenas de terceiros e da imprensa, franqueado o acesso a qualquer policial no local",
+    "somente após a chegada do gerente da crise efetivo designado para a ocorrência",
+    "excluídos os familiares das vítimas, que poderão permanecer no perímetro interno"
+   ],
+   "correta": 0,
+   "explicacao": "A restrição alcança policiais civis e militares estranhos à operação, terceiros e a imprensa, podendo-se retirá-los do local, para salvaguardar a integridade física das pessoas não envolvidas diretamente na operação.",
+   "tags": [
+    "refens",
+    "isolamento",
+    "perimetro"
+   ]
+  },
+  {
+   "id": "presos-elab-073",
+   "subtema": "Ocorrências com reféns",
+   "artigo": "Res. SSP-13/10 — Autoridades não estranhas",
+   "enunciado": "Não são considerados estranhos à ocorrência com reféns, para fins de restrição de acesso ao perímetro de segurança,",
+   "alternativas": [
+    "os representantes dos órgãos de imprensa credenciados pela Secretaria",
+    "os familiares das vítimas e dos tomadores de reféns presentes no local",
+    "o Delegado titular e o plantonista da área e o Oficial Cmt da área territorial",
+    "os representantes de órgãos de defesa dos direitos humanos presentes"
+   ],
+   "correta": 2,
+   "explicacao": "O Delegado titular, o plantonista do distrito policial da área e o Oficial Comandante da área territorial não são estranhos à ocorrência, podendo manter contato direto com o gerente da crise para obter informações, sem, contudo, intervir nas decisões dos responsáveis pela operação tática especial.",
+   "tags": [
+    "refens",
+    "perimetro",
+    "autoridades"
+   ]
+  },
+  {
+   "id": "presos-elab-074",
+   "subtema": "Ocorrências com reféns",
+   "artigo": "Res. SSP-13/10 — Limites de atuação",
+   "enunciado": "As autoridades autorizadas a permanecer no perímetro e a contatar o gerente da crise",
+   "alternativas": [
+    "podem determinar a substituição do gerente da crise designado para a ocorrência",
+    "não podem intervir nas decisões dos responsáveis pela operação tática especial",
+    "podem autorizar o emprego do tiro de comprometimento quando entenderem necessário",
+    "assumem o comando da ocorrência quando forem mais antigas que o gerente da crise"
+   ],
+   "correta": 1,
+   "explicacao": "Tais autoridades estão autorizadas a manter contato direto com o gerente da crise para obter informações, mas não podem intervir nas decisões dos responsáveis pela operação tática especial, preservando-se a unicidade de comando.",
+   "tags": [
+    "refens",
+    "comando",
+    "limites"
+   ]
+  },
+  {
+   "id": "presos-elab-075",
+   "subtema": "Ocorrências com reféns",
+   "artigo": "Res. SSP-13/10 — Imprensa",
+   "enunciado": "Quanto aos órgãos de imprensa em ocorrências com reféns, a Resolução prevê que",
+   "alternativas": [
+    "poderão entrevistar os tomadores de reféns mediante autorização do gerente da crise",
+    "terão acesso livre ao perímetro de segurança, desde que devidamente identificados",
+    "serão instados a se abster de transmitir imagens ou contatar envolvidos, havendo risco",
+    "deverão ser informados em tempo real sobre as decisões táticas adotadas no local"
+   ],
+   "correta": 2,
+   "explicacao": "Os órgãos de imprensa serão instados a se abster de transmitir imagens e de manter contato com os envolvidos sempre que os responsáveis pela operação tática especial vislumbrarem riscos à intervenção, atuando o oficial porta-voz como interlocutor institucional.",
+   "tags": [
+    "refens",
+    "imprensa"
+   ]
+  },
+  {
+   "id": "presos-elab-076",
+   "subtema": "Ocorrências com reféns",
+   "artigo": "Res. SSP-13/10 — Descumprimento",
+   "enunciado": "O descumprimento das regras estabelecidas na Resolução que disciplina as ocorrências com reféns implicará",
+   "alternativas": [
+    "nulidade dos atos praticados durante a operação tática especial",
+    "responsabilidade disciplinar do agente que lhe der causa",
+    "afastamento imediato do gerente da crise designado para a ocorrência",
+    "comunicação obrigatória ao Ministério Público para apuração criminal"
+   ],
+   "correta": 1,
+   "explicacao": "A própria Resolução prevê que o descumprimento de suas regras implicará responsabilidade disciplinar, sem prejuízo das demais consequências legais aplicáveis ao caso concreto.",
+   "tags": [
+    "refens",
+    "responsabilidade"
+   ]
+  },
+  {
+   "id": "presos-elab-077",
+   "subtema": "Ocorrências críticas",
+   "artigo": "Dtz PM3-001/02/13 — Gerente da crise",
+   "enunciado": "Na Diretriz que regula a atuação em ocorrências que exijam a intervenção do GATE, o gerente da crise efetivo é",
+   "alternativas": [
+    "o oficial mais antigo da OPM territorial presente no local crítico",
+    "o oficial designado pelo Comandante do CPChq para o local crítico",
+    "o Comandante da OPM territorial em cuja área ocorre a crise",
+    "o Comandante do Policiamento de Choque, pessoalmente"
+   ],
+   "correta": 1,
+   "explicacao": "O gerente emergencial é o policial de maior grau hierárquico da OPM territorial presente no local até a chegada do gerente efetivo, que é o oficial designado pelo Comandante do CPChq, responsável por organizar a linha de ação mais adequada.",
+   "tags": [
+    "refens",
+    "gerente-crise",
+    "gate"
+   ]
+  },
+  {
+   "id": "presos-elab-078",
+   "subtema": "Ocorrências críticas",
+   "artigo": "Dtz PM3-001/02/13 — Porta-voz",
+   "enunciado": "Quanto ao oficial porta-voz em ocorrências críticas, é correto afirmar que",
+   "alternativas": [
+    "é o responsável pela autorização do tiro de comprometimento na ocorrência",
+    "acumula obrigatoriamente as funções de gerente da crise e de negociador",
+    "não se confunde com o gerente da crise e transmite informações à mídia com cautela",
+    "é designado pelo Secretário de Segurança Pública em cada ocorrência crítica"
+   ],
+   "correta": 2,
+   "explicacao": "O porta-voz não se confunde com o gerente da crise; sua função é transmitir informações à mídia, acautelando-se para não repassar dados que comprometam a segurança da operação.",
+   "tags": [
+    "refens",
+    "porta-voz"
+   ]
+  },
+  {
+   "id": "presos-elab-079",
+   "subtema": "Ocorrências críticas",
+   "artigo": "Dtz PM3-001/02/13 — Classificação das crises",
+   "enunciado": "Entre as ocorrências críticas disciplinadas pela Diretriz, a atuação em relação a pessoa com propósitos suicidas de posse de arma segue, em regra,",
+   "alternativas": [
+    "os procedimentos de intervenção imediata, dispensada a fase de negociação",
+    "os procedimentos previstos para as ocorrências com artefatos explosivos",
+    "os procedimentos de controle de distúrbios civis previstos em norma própria",
+    "os procedimentos de negociação aplicáveis às ocorrências com reféns"
+   ],
+   "correta": 3,
+   "explicacao": "Nas ocorrências com suicidas, aplicam-se em regra, na negociação, os procedimentos das ocorrências com refém. Nas ações terroristas, havendo reféns ou explosivos, aplicam-se os respectivos procedimentos dessas espécies de crise.",
+   "tags": [
+    "refens",
+    "suicida",
+    "crises"
+   ]
+  },
+  {
+   "id": "presos-elab-080",
+   "subtema": "Ocorrências críticas",
+   "artigo": "Dtz PM3-001/02/13 — Ocorrências com explosivos",
+   "enunciado": "Em ocorrência com suspeita de artefato explosivo, a orientação preliminar é",
+   "alternativas": [
+    "isolar o local e aguardar a chegada do GATE, sem qualquer coleta de informações",
+    "promover a desocupação imediata e integral do local, sem contato com terceiros",
+    "não provocar tumulto ou desocupação precipitada e entrevistar quem recebeu a ameaça",
+    "acionar diretamente o Corpo de Bombeiros, dispensada a intervenção do GATE"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz orienta, preliminarmente, não provocar tumulto, pânico ou desocupação precipitada, contatando a pessoa que recebeu a ameaça ou o responsável pelo local presumido do artefato e procedendo a entrevista, sem prejuízo dos procedimentos operacionais padrão aplicáveis.",
+   "tags": [
+    "refens",
+    "explosivos",
+    "procedimentos"
+   ]
+  },
+  {
+   "id": "presos-elab-081",
+   "subtema": "Ocorrências críticas",
+   "artigo": "Dtz PM3-001/02/13 — Outras ocorrências",
+   "enunciado": "Ocorrências cuja complexidade exija a intervenção de grupo policial-militar com características táticas especiais, não previstas expressamente na Diretriz,",
+   "alternativas": [
+    "serão atendidas pelas unidades territoriais, vedado o acionamento do GATE",
+    "serão automaticamente atendidas pelo GATE, independentemente de deliberação",
+    "serão avaliadas e deliberadas pelo Comando Geral quanto ao acionamento do GATE",
+    "dependerão de requisição formal da autoridade policial civil da circunscrição"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz remete tais casos à avaliação e deliberação do Comando Geral quanto ao acionamento e à intervenção do GATE, mantendo-se liberado o canal técnico entre as OPM envolvidas para instruções, planejamentos e detalhamentos necessários.",
+   "tags": [
+    "refens",
+    "crises",
+    "comando-geral"
+   ]
+  },
+  {
+   "id": "presos-elab-082",
+   "subtema": "NUMEC — conceitos",
+   "artigo": "NI PM3-005/03/17 — Mediação de conflitos",
+   "enunciado": "A mediação de conflitos, conceito adotado pela norma dos Núcleos de Mediação Comunitária, é definida como",
+   "alternativas": [
+    "método em que terceiro imparcial opina sobre a solução mais adequada da divergência",
+    "método em que terceiro imparcial, sem poder de decisão, auxilia as partes",
+    "procedimento judicial em que o magistrado propõe às partes acordo homologável",
+    "processo em que árbitro escolhido pelas partes profere decisão vinculante"
+   ],
+   "correta": 1,
+   "explicacao": "A mediação é método estruturado e alternativo de resolução de disputas em que um terceiro imparcial e sem poder de decisão intervém no conflito e auxilia as partes ao diálogo e à busca de solução mutuamente satisfatória, o que a distingue da conciliação e da arbitragem.",
+   "tags": [
+    "numec",
+    "conceitos",
+    "mediacao"
+   ]
+  },
+  {
+   "id": "presos-elab-083",
+   "subtema": "NUMEC — conceitos",
+   "artigo": "NI PM3-005/03/17 — Mediação comunitária",
+   "enunciado": "A mediação comunitária, na norma que rege os NUMEC, é apresentada como área de aplicação da mediação que",
+   "alternativas": [
+    "atribui ao policial militar poder de decisão sobre a controvérsia apresentada",
+    "substitui a prestação jurisdicional nas controvérsias sobre direitos indisponíveis",
+    "democratiza o acesso à justiça, tornando o cidadão protagonista do conflito",
+    "restringe-se aos conflitos que já tenham gerado registro de boletim de ocorrência"
+   ],
+   "correta": 2,
+   "explicacao": "A mediação comunitária democratiza o acesso à justiça, tornando cidadão e comunidade protagonistas na gestão de seus conflitos e colaboradores da pacificação social, sem prejuízo da busca da tutela judicial pelas partes.",
+   "tags": [
+    "numec",
+    "conceitos",
+    "comunitaria"
+   ]
+  },
+  {
+   "id": "presos-elab-084",
+   "subtema": "NUMEC — conceitos",
+   "artigo": "NI PM3-005/03/17 — NUMEC/PM e NUMEC/CEJUSC",
+   "enunciado": "Distinguem-se o NUMEC/PM e o NUMEC/CEJUSC porque",
+   "alternativas": [
+    "aquele funciona em OPM e este, obrigatoriamente, nas dependências do fórum local",
+    "aquele se destina à mediação extrajudicial e este, mediante parceria, à mediação judicial",
+    "aquele é conduzido por policiais militares e este, por servidores do Poder Judiciário",
+    "aquele atende conflitos de vizinhança e este, exclusivamente, conflitos familiares"
+   ],
+   "correta": 1,
+   "explicacao": "Ambos são estruturados em OPM e contam com o policial militar mediador capacitado; o NUMEC/PM destina-se às atividades de mediação extrajudicial e o NUMEC/CEJUSC, mediante parceria com o Poder Judiciário, às de mediação judicial, nos termos da Resolução CNJ nº 125/10.",
+   "tags": [
+    "numec",
+    "conceitos",
+    "cejusc"
+   ]
+  },
+  {
+   "id": "presos-elab-085",
+   "subtema": "NUMEC — conceitos",
+   "artigo": "NI PM3-005/03/17 — Fundamento institucional",
+   "enunciado": "Entre os fundamentos dos NUMEC, além da resolução da controvérsia em si, a norma destaca",
+   "alternativas": [
+    "a substituição do atendimento de ocorrências por atendimento agendado na unidade",
+    "a redução dos processos judiciais em tramitação nas comarcas do Estado",
+    "a formação de banco de dados sobre conflitos de vizinhança para fins estatísticos",
+    "o impacto positivo na produtividade, liberando tempo e recursos para a polícia ostensiva"
+   ],
+   "correta": 3,
+   "explicacao": "A norma destaca o impacto positivo na produtividade policial-militar, destinando às atividades de polícia ostensiva e preservação da ordem pública o tempo e os recursos antes empregados no atendimento de ocorrências derivadas desses conflitos.",
+   "tags": [
+    "numec",
+    "fundamentos",
+    "produtividade"
+   ]
+  },
+  {
+   "id": "presos-elab-086",
+   "subtema": "NUMEC — requisitos",
+   "artigo": "NI PM3-005/03/17 — Mediador extrajudicial",
+   "enunciado": "Segundo a Lei nº 13.140/15, poderá funcionar como mediador extrajudicial",
+   "alternativas": [
+    "somente o bacharel em Direito inscrito na Ordem dos Advogados do Brasil",
+    "pessoa capaz, com a confiança das partes e capacitada para fazer mediação",
+    "apenas o servidor público integrante de conselho ou entidade de classe",
+    "exclusivamente quem tenha graduação concluída há pelo menos dois anos"
+   ],
+   "correta": 1,
+   "explicacao": "A lei admite como mediador extrajudicial a pessoa capaz, que tenha a confiança das partes e seja capacitada para fazer mediação, independentemente de integrar conselho, entidade de classe ou associação. A exigência de graduação há dois anos e capacitação reconhecida alcança o mediador judicial.",
+   "tags": [
+    "numec",
+    "requisitos",
+    "extrajudicial"
+   ]
+  },
+  {
+   "id": "presos-elab-087",
+   "subtema": "NUMEC — requisitos",
+   "artigo": "Lei 13.140/15 — Mediador judicial",
+   "enunciado": "Para atuar como mediador judicial exige-se, além da capacidade civil,",
+   "alternativas": [
+    "graduação há pelo menos dois anos e capacitação reconhecida pela ENFAM ou pelos tribunais",
+    "graduação em Direito há pelo menos cinco anos e inscrição nos quadros da advocacia",
+    "aprovação em concurso público realizado pelo tribunal com jurisdição na área",
+    "indicação do Coordenador-Geral dos NUMEC, dispensada capacitação específica"
+   ],
+   "correta": 0,
+   "explicacao": "O mediador judicial deve ser pessoa capaz, graduada há pelo menos dois anos em curso superior reconhecido pelo MEC e capacitada em escola ou instituição de formação de mediadores reconhecida pela ENFAM ou pelos tribunais, observados os requisitos do CNJ com o Ministério da Justiça, requerendo inscrição no cadastro do tribunal.",
+   "tags": [
+    "numec",
+    "requisitos",
+    "judicial"
+   ]
+  },
+  {
+   "id": "presos-elab-088",
+   "subtema": "NUMEC — requisitos",
+   "artigo": "NI PM3-005/03/17 — Requisitos do policial mediador",
+   "enunciado": "Entre os requisitos mínimos exigidos do policial militar para atuar como mediador comunitário inclui-se",
+   "alternativas": [
+    "possuir curso superior em Direito concluído há pelo menos dois anos",
+    "ser voluntário, com comportamento bom e dois anos em atividade operacional",
+    "estar classificado em unidade especializada de policiamento comunitário",
+    "contar com, no mínimo, dez anos de efetivo serviço na Instituição"
+   ],
+   "correta": 1,
+   "explicacao": "Exige-se ser voluntário, capacitado e credenciado, comportamento no mínimo bom, pelo menos dois anos em atividade estritamente operacional após o estágio administrativo-operacional, habilidades de comunicação, resolução de problemas e digitação, conceito mínimo no SADE nos quatro últimos semestres e ausência de processos e sanções impeditivos.",
+   "tags": [
+    "numec",
+    "requisitos",
+    "policial"
+   ]
+  },
+  {
+   "id": "presos-elab-089",
+   "subtema": "NUMEC — requisitos",
+   "artigo": "NI PM3-005/03/17 — Impedimentos",
+   "enunciado": "Impede o exercício da função de mediador comunitário pelo policial militar",
+   "alternativas": [
+    "não possuir curso de especialização profissional em polícia comunitária",
+    "ter sido punido com advertência nos últimos doze meses de efetivo serviço",
+    "estar classificado em unidade do interior distante da sede da comarca",
+    "responder a processo regular ou cumprir pena, mesmo em liberdade provisória"
+   ],
+   "correta": 3,
+   "explicacao": "São impeditivos estar cumprindo pena por crime de qualquer natureza, mesmo em menagem ou liberdade provisória, responder a processo regular como PAD, Conselho de Disciplina ou de Justificação, e ter cometido transgressão disciplinar grave.",
+   "tags": [
+    "numec",
+    "requisitos",
+    "impedimentos"
+   ]
+  },
+  {
+   "id": "presos-elab-090",
+   "subtema": "NUMEC — competência",
+   "artigo": "NI PM3-005/03/17 — Conflitos mediáveis",
+   "enunciado": "São circunstâncias passíveis de mediação por meio dos NUMEC, entre outras,",
+   "alternativas": [
+    "infrações penais de competência do juizado especial criminal, com representação",
+    "crimes praticados com violência ou grave ameaça contra a pessoa na vizinhança",
+    "conflitos de vizinhança, perturbação de sossego e direitos patrimoniais disponíveis",
+    "conflitos envolvendo direitos indisponíveis que não admitam qualquer transação"
+   ],
+   "correta": 2,
+   "explicacao": "A mediação alcança conflitos de vizinhança, os resultantes de perturbação de sossego público, os que envolvam direitos patrimoniais disponíveis regulados pelo Direito Civil e os familiares, observadas as legislações específicas. Constatada violência ou grave ameaça, adotam-se as providências da Resolução SSP-57/2015.",
+   "tags": [
+    "numec",
+    "competencia",
+    "conflitos"
+   ]
+  },
+  {
+   "id": "presos-elab-091",
+   "subtema": "NUMEC — competência",
+   "artigo": "NI PM3-005/03/17 — Incapazes",
+   "enunciado": "Pessoas incapazes que figurem como parte na mediação comunitária",
+   "alternativas": [
+    "não podem participar de sessões de mediação em nenhuma hipótese",
+    "deverão ser assistidas ou representadas por seus pais, tutores ou curadores",
+    "participarão pessoalmente, dispensada a presença de representante legal",
+    "somente participarão mediante autorização prévia do Ministério Público"
+   ],
+   "correta": 1,
+   "explicacao": "A norma determina que os incapazes, absoluta ou relativamente, sejam assistidos ou representados por pais, tutores ou curadores, na forma da lei, o que preserva a validade do acordo eventualmente firmado.",
+   "tags": [
+    "numec",
+    "competencia",
+    "incapazes"
+   ]
+  },
+  {
+   "id": "presos-elab-092",
+   "subtema": "NUMEC — convite",
+   "artigo": "NI PM3-005/03/17 — Formas de convite",
+   "enunciado": "O convite para a mediação comunitária pode ocorrer por abordagem direta da comunidade, por intermédio do Coordenador de Subárea, por recomendação de outro órgão, durante o atendimento de ocorrência e ainda",
+   "alternativas": [
+    "por informações processadas pelo COPOM no sistema de ocorrências",
+    "por determinação do juízo competente da comarca de atuação do núcleo",
+    "por requisição do Ministério Público dirigida ao Comandante do Batalhão",
+    "por iniciativa exclusiva do policial militar mediador credenciado na unidade"
+   ],
+   "correta": 0,
+   "explicacao": "São cinco as formas previstas: abordagem direta da comunidade, intermédio do Coordenador de Subárea, informações processadas pelo COPOM no SIOPM Web, recomendação de outro órgão e durante o atendimento de ocorrência.",
+   "tags": [
+    "numec",
+    "convite",
+    "formas"
+   ]
+  },
+  {
+   "id": "presos-elab-093",
+   "subtema": "NUMEC — convite",
+   "artigo": "NI PM3-005/03/17 — Convite na ocorrência",
+   "enunciado": "Constatando a unidade de serviço, durante o atendimento de ocorrência, tratar-se de caso passível de mediação, elaborará o convite",
+   "alternativas": [
+    "havendo anuência de pelo menos uma das partes envolvidas no conflito",
+    "somente se ambas as partes concordarem expressamente no local dos fatos",
+    "independentemente da anuência das partes, por se tratar de medida preventiva",
+    "mediante autorização prévia do Comandante de Companhia responsável pela área"
+   ],
+   "correta": 0,
+   "explicacao": "Basta a anuência de pelo menos uma das partes para que a unidade elabore o convite e o entregue aos interessados, convidando-os a comparecer à OPM designada para o agendamento da sessão, devendo constar a opção pela mediação no relatório do BOPM ou no RSO.",
+   "tags": [
+    "numec",
+    "convite",
+    "ocorrencia"
+   ]
+  },
+  {
+   "id": "presos-elab-094",
+   "subtema": "NUMEC — convite",
+   "artigo": "NI PM3-005/03/17 — Registro da opção",
+   "enunciado": "A opção, ou não, pela mediação comunitária deverá constar",
+   "alternativas": [
+    "exclusivamente do formulário de convite entregue às partes interessadas",
+    "do relatório da autoridade policial no BOPM ou, não havendo BOPM, do RSO",
+    "do registro de serviço de orientação ao público emitido pelo COPOM",
+    "do termo de mediação a ser lavrado na primeira sessão realizada"
+   ],
+   "correta": 1,
+   "explicacao": "A unidade registra a opção no relatório da autoridade policial constante do BOPM, quando a ocorrência exigir sua lavratura, ou no RSO, quando não for caso de registro em boletim, conforme regulação da NORSOP.",
+   "tags": [
+    "numec",
+    "convite",
+    "registro"
+   ]
+  },
+  {
+   "id": "presos-elab-095",
+   "subtema": "NUMEC — convite",
+   "artigo": "NI PM3-005/03/17 — Convite pelo COPOM",
+   "enunciado": "Verificando o atendente do COPOM que a solicitação não é passível de despacho para atendimento local, mas se enquadra em circunstância mediável, deverá",
+   "alternativas": [
+    "arquivar a solicitação, orientando o interessado a procurar o Poder Judiciário",
+    "encaminhar a solicitação diretamente ao Coordenador-Geral dos núcleos",
+    "despachar viatura para orientar pessoalmente o solicitante sobre a mediação",
+    "cadastrar a solicitação e emitir registro de orientação ao público com a sigla NUMEC"
+   ],
+   "correta": 3,
+   "explicacao": "O atendente cadastra a solicitação, orienta a parte sobre a possibilidade de utilizar o NUMEC e emite registro de Serviço de Orientação ao Público sem alerta, vinculando-o ao sistema e incluindo a sigla NUMEC no histórico, para facilitar consultas posteriores pelo policial mediador.",
+   "tags": [
+    "numec",
+    "convite",
+    "copom"
+   ]
+  },
+  {
+   "id": "presos-elab-096",
+   "subtema": "NUMEC — coordenação",
+   "artigo": "NI PM3-005/03/17 — Coordenador-Geral",
+   "enunciado": "A coordenação-geral da sistemática dos NUMEC compete",
+   "alternativas": [
+    "ao Comandante de Batalhão da área de implantação do núcleo",
+    "ao Comandante de Policiamento de Área ou do Interior",
+    "ao Diretor de Polícia Comunitária e de Direitos Humanos",
+    "ao Coordenador de Operações da Polícia Militar do Estado"
+   ],
+   "correta": 2,
+   "explicacao": "O Coordenador-Geral é o Diretor de Polícia Comunitária e de Direitos Humanos, cabendo a coordenação regional aos Comandantes de CPA e CPI, a coordenação de área aos Comandantes de Batalhão e a coordenação de subárea aos Comandantes de Companhia.",
+   "tags": [
+    "numec",
+    "coordenacao",
+    "geral"
+   ]
+  },
+  {
+   "id": "presos-elab-097",
+   "subtema": "NUMEC — coordenação",
+   "artigo": "NI PM3-005/03/17 — Coordenador de Área",
+   "enunciado": "A função de Coordenador de Área, na sistemática dos NUMEC, é exercida",
+   "alternativas": [
+    "pelo Comandante de Policiamento de Área, que estrutura os núcleos na região",
+    "pelo Comandante de Companhia, que fiscaliza diretamente o funcionamento",
+    "pelo Comandante de Batalhão, que define locais e indica policiais mediadores",
+    "pelo Diretor de Polícia Comunitária, que credencia os policiais mediadores"
+   ],
+   "correta": 2,
+   "explicacao": "O Coordenador de Área é o Comandante de Batalhão, responsável pela execução em sua área, pela definição de locais para abrigar os núcleos e pela indicação de policiais para atuar como mediadores, ouvidos os Coordenadores de Subárea.",
+   "tags": [
+    "numec",
+    "coordenacao",
+    "area"
+   ]
+  },
+  {
+   "id": "presos-elab-098",
+   "subtema": "NUMEC — coordenação",
+   "artigo": "NI PM3-005/03/17 — Coordenador de Subárea",
+   "enunciado": "Ao Comandante de Companhia, como Coordenador de Subárea, compete",
+   "alternativas": [
+    "aprovar a criação de novos núcleos nos municípios de sua área de atuação",
+    "credenciar e descredenciar os policiais militares mediadores de sua subárea",
+    "fiscalizar diretamente o funcionamento dos núcleos e triar ocorrências mediáveis",
+    "homologar judicialmente os acordos firmados nas sessões de mediação"
+   ],
+   "correta": 2,
+   "explicacao": "Ao Coordenador de Subárea cabe assessorar o Coordenador de Área na definição de locais e na indicação de mediadores, fiscalizar diretamente o funcionamento dos núcleos, ligar-se ao Judiciário local e triar ocorrências passíveis de mediação, encaminhando-as aos mediadores.",
+   "tags": [
+    "numec",
+    "coordenacao",
+    "subarea"
+   ]
+  },
+  {
+   "id": "presos-elab-099",
+   "subtema": "NUMEC — coordenação",
+   "artigo": "NI PM3-005/03/17 — Fiscalização",
+   "enunciado": "A fiscalização das atividades desempenhadas pelos NUMEC será realizada primordialmente",
+   "alternativas": [
+    "pelos Coordenadores Regionais, que respondem pela estruturação dos núcleos",
+    "pelo Coordenador-Geral, com exclusividade, mediante auditorias anuais nos núcleos",
+    "pelos Coordenadores de Subárea e Oficiais de Ligação, sem excluir auditorias",
+    "pelo Poder Judiciário local, parceiro na homologação das mediações realizadas"
+   ],
+   "correta": 2,
+   "explicacao": "A fiscalização é primordialmente dos Coordenadores de Subárea e dos Oficiais de Ligação, incumbindo-se todos os demais escalões de coordenação de realizar auditorias nos núcleos.",
+   "tags": [
+    "numec",
+    "coordenacao",
+    "fiscalizacao"
+   ]
+  },
+  {
+   "id": "presos-elab-100",
+   "subtema": "NUMEC — estrutura",
+   "artigo": "NI PM3-005/03/17 — Estrutura física",
+   "enunciado": "Os NUMEC serão estruturados em OPM territoriais a partir do escalão",
+   "alternativas": [
+    "Pelotão PM, recomendando-se local com mesa preferencialmente redonda",
+    "Companhia PM, recomendando-se sala com divisórias e balcão de atendimento",
+    "Batalhão PM, em razão da necessidade de estrutura administrativa própria",
+    "Grupo PM, desde que haja policial mediador credenciado na localidade"
+   ],
+   "correta": 0,
+   "explicacao": "Os núcleos são estruturados em OPM territoriais a partir do escalão Pelotão PM, recomendando-se local com mesa preferencialmente redonda, cadeiras, computador, impressora e materiais de escritório, bem iluminado e ventilado.",
+   "tags": [
+    "numec",
+    "estrutura",
+    "escalao"
+   ]
+  },
+  {
+   "id": "presos-elab-101",
+   "subtema": "NUMEC — estrutura",
+   "artigo": "NI PM3-005/03/17 — Uso do local",
+   "enunciado": "Quando da realização das sessões, os locais designados para abrigar os NUMEC deverão funcionar",
+   "alternativas": [
+    "em conjunto com as atividades administrativas rotineiras da unidade",
+    "exclusivamente para tal fim, com identificação visual afixada à porta",
+    "em horário noturno, para facilitar o comparecimento dos interessados",
+    "nas dependências do fórum, quando se tratar de mediação judicial"
+   ],
+   "correta": 1,
+   "explicacao": "Durante as sessões, o local deve funcionar exclusivamente para essa finalidade, com identificação visual à porta, de modo a proporcionar ambiente de tranquilidade e privacidade para a tratativa dos assuntos.",
+   "tags": [
+    "numec",
+    "estrutura",
+    "sessoes"
+   ]
+  },
+  {
+   "id": "presos-elab-102",
+   "subtema": "NUMEC — credenciamento",
+   "artigo": "NI PM3-005/03/17 — Trâmite do credenciamento",
+   "enunciado": "No credenciamento de policiais militares mediadores, o Coordenador Regional",
+   "alternativas": [
+    "confronta a relação de aptos com a inteligência e a justiça e disciplina",
+    "credencia diretamente os policiais indicados pelos Comandantes de Batalhão",
+    "ministra a capacitação exigida aos policiais selecionados em sua região",
+    "homologa os termos de mediação firmados pelos núcleos de sua área"
+   ],
+   "correta": 0,
+   "explicacao": "O Coordenador de Área encaminha a relação de aptos ao Coordenador Regional, que a confronta com os serviços de inteligência e de justiça e disciplina para verificar não conformidades, remetendo os nomes convalidados ao Coordenador-Geral, a quem cabe credenciar.",
+   "tags": [
+    "numec",
+    "credenciamento",
+    "tramite"
+   ]
+  },
+  {
+   "id": "presos-elab-103",
+   "subtema": "NUMEC — credenciamento",
+   "artigo": "NI PM3-005/03/17 — Vigência",
+   "enunciado": "O credenciamento do policial militar mediador terá vigência de",
+   "alternativas": [
+    "dois anos, devendo o recredenciamento ser requerido com três meses de antecedência",
+    "um ano, renovável automaticamente enquanto o policial permanecer na unidade",
+    "quatro anos, condicionado à realização de treinamento anual obrigatório",
+    "prazo indeterminado, cessando apenas com o descredenciamento do interessado"
+   ],
+   "correta": 0,
+   "explicacao": "O credenciamento vigora por dois anos e o recredenciamento é requerido ao Coordenador de Área com antecedência mínima de três meses, seguindo-se o mesmo trâmite do credenciamento, observadas a oportunidade e a conveniência do pedido.",
+   "tags": [
+    "numec",
+    "credenciamento",
+    "vigencia"
+   ]
+  },
+  {
+   "id": "presos-elab-104",
+   "subtema": "NUMEC — credenciamento",
+   "artigo": "NI PM3-005/03/17 — Descredenciamento",
+   "enunciado": "Constitui hipótese de descredenciamento do policial militar mediador",
+   "alternativas": [
+    "não obter homologação judicial dos acordos firmados em seu núcleo",
+    "ser transferido para outra Companhia dentro da mesma área de Batalhão",
+    "deixar de realizar o treinamento anual promovido pela unidade de origem",
+    "permanecer mais de dois anos sem exercer a função ou passar para a inatividade"
+   ],
+   "correta": 3,
+   "explicacao": "São hipóteses o ingresso no comportamento regular ou mau, a prática de ato incompatível apurada previamente, a perda dos requisitos do SADE ou disciplinares, o pedido do interessado, a permanência por mais de dois anos sem exercer a função e a passagem para a inatividade.",
+   "tags": [
+    "numec",
+    "credenciamento",
+    "descredenciamento"
+   ]
+  },
+  {
+   "id": "presos-elab-105",
+   "subtema": "NUMEC — credenciamento",
+   "artigo": "NI PM3-005/03/17 — Termo de compromisso",
+   "enunciado": "Por ocasião do credenciamento e do recredenciamento, o policial militar mediador assinará termo de compromisso pelo qual",
+   "alternativas": [
+    "obriga-se a permanecer no mínimo dois anos na função de mediador comunitário",
+    "assume a responsabilidade de não receber vantagem pecuniária pelo trabalho",
+    "renuncia ao direito de recusar sessões de mediação designadas pelo comando",
+    "responsabiliza-se pela guarda dos bens patrimoniais do núcleo de mediação"
+   ],
+   "correta": 1,
+   "explicacao": "O termo de compromisso formaliza a assunção da responsabilidade de não receber qualquer tipo de vantagem pecuniária pelas atividades desenvolvidas nos NUMEC, sendo arquivado na OPM onde funciona o núcleo, coerentemente com a gratuidade dos procedimentos.",
+   "tags": [
+    "numec",
+    "credenciamento",
+    "compromisso"
+   ]
+  },
+  {
+   "id": "presos-elab-106",
+   "subtema": "NUMEC — rotinas",
+   "artigo": "NI PM3-005/03/17 — Sessões",
+   "enunciado": "As sessões de mediação comunitária ocorrerão",
+   "alternativas": [
+    "somente quando houver ao menos três casos agendados para o mesmo dia",
+    "em qualquer dia da semana, inclusive aos sábados, conforme a agenda das partes",
+    "preferencialmente no período noturno, para facilitar a presença dos interessados",
+    "de segunda a sexta-feira, em horário de expediente administrativo, constando de escala"
+   ],
+   "correta": 3,
+   "explicacao": "As sessões ocorrem de segunda a sexta-feira, em horário de expediente administrativo, e devem constar de escala, comunicando o mediador diariamente sua agenda ao Comandante de Companhia para composição das escalas.",
+   "tags": [
+    "numec",
+    "rotinas",
+    "sessoes"
+   ]
+  },
+  {
+   "id": "presos-elab-107",
+   "subtema": "NUMEC — rotinas",
+   "artigo": "NI PM3-005/03/17 — Condução da sessão",
+   "enunciado": "Quanto à condução da sessão de mediação comunitária, a norma estabelece que",
+   "alternativas": [
+    "seja gravada em áudio e vídeo, para eventual uso em processo judicial",
+    "seja aberta ao público, para conferir transparência ao procedimento adotado",
+    "o mediador se posicione ao lado da parte que solicitou a mediação",
+    "ocorra a portas fechadas, com o mediador em posição equidistante das partes"
+   ],
+   "correta": 3,
+   "explicacao": "As sessões ocorrem a portas fechadas, permanecendo no local apenas o mediador e as partes, acompanhadas ou não de advogados, defensores, representantes, tutores ou curadores; a disposição deve permitir que todos se vejam e ouçam, com o mediador equidistante e imparcial.",
+   "tags": [
+    "numec",
+    "rotinas",
+    "conducao"
+   ]
+  },
+  {
+   "id": "presos-elab-108",
+   "subtema": "NUMEC — rotinas",
+   "artigo": "Lei 13.140/15 — Confidencialidade",
+   "enunciado": "Quanto à confidencialidade na mediação, é correto afirmar que",
+   "alternativas": [
+    "não se aplica às informações relativas à ocorrência de crime de ação pública",
+    "alcança todas as informações, inclusive as relativas a crimes de ação pública",
+    "pode ser afastada por decisão unilateral do mediador durante a sessão",
+    "somente vincula as partes, não alcançando o policial militar mediador"
+   ],
+   "correta": 0,
+   "explicacao": "Toda informação sobre o procedimento é confidencial em relação a terceiros, salvo decisão diversa das partes, exigência legal ou necessidade para cumprimento do acordo, não se aplicando a confidencialidade às informações relativas à ocorrência de crime de ação pública.",
+   "tags": [
+    "numec",
+    "rotinas",
+    "confidencialidade"
+   ]
+  },
+  {
+   "id": "presos-elab-109",
+   "subtema": "NUMEC — escrituração",
+   "artigo": "NI PM3-005/03/17 — Termo de mediação",
+   "enunciado": "O termo final de mediação, quando celebrado acordo entre as partes, constitui",
+   "alternativas": [
+    "título executivo judicial em qualquer hipótese, dispensada homologação",
+    "título executivo extrajudicial e, se homologado, título executivo judicial",
+    "mero documento declaratório, sem eficácia executiva perante o Judiciário",
+    "instrumento sujeito à ratificação do Ministério Público para ter eficácia"
+   ],
+   "correta": 1,
+   "explicacao": "Celebrado o acordo, o termo final constitui título executivo extrajudicial e, quando homologado judicialmente, título executivo judicial, o que ocorre nas mediações realizadas nos NUMEC/CEJUSC.",
+   "tags": [
+    "numec",
+    "escrituracao",
+    "titulo"
+   ]
+  },
+  {
+   "id": "presos-elab-110",
+   "subtema": "NUMEC — escrituração",
+   "artigo": "NI PM3-005/03/17 — Acompanhamento do acordo",
+   "enunciado": "Firmado o acordo, o policial militar mediador deverá acompanhar o cumprimento da solução ajustada",
+   "alternativas": [
+    "apenas se alguma das partes procurar o núcleo para reclamar descumprimento",
+    "mensalmente, durante o prazo de um ano contado da assinatura do termo",
+    "trimestralmente, relatando a evolução até que não haja mais providências pendentes",
+    "semestralmente, mediante relatório encaminhado ao Coordenador-Geral"
+   ],
+   "correta": 2,
+   "explicacao": "O acompanhamento é trimestral, com relato da evolução do acordo em cada ocasião, até que não haja mais providências relativas à mediação. Constatado descumprimento, o mediador orienta a parte prejudicada a recorrer ao contencioso judicial.",
+   "tags": [
+    "numec",
+    "escrituracao",
+    "acompanhamento"
+   ]
+  },
+  {
+   "id": "presos-elab-111",
+   "subtema": "NUMEC — escrituração",
+   "artigo": "NI PM3-005/03/17 — Arquivamento",
+   "enunciado": "Os termos de mediação e as planilhas de acompanhamento do acordo",
+   "alternativas": [
+    "são públicos e devem ser afixados no quadro de avisos da unidade policial",
+    "são confidenciais e devem ser arquivados no núcleo, em local com acesso restrito",
+    "devem ser remetidos mensalmente ao Poder Judiciário da comarca de atuação",
+    "podem ser descartados após o acompanhamento trimestral do acordo firmado"
+   ],
+   "correta": 1,
+   "explicacao": "Os documentos são confidenciais em relação a terceiros e arquivados nos respectivos núcleos em local adequado, como armário-cofre, que assegure restrição de acesso, podendo ser requisitados pelas partes para extração de cópia, ressalvada a confidencialidade.",
+   "tags": [
+    "numec",
+    "escrituracao",
+    "arquivo"
+   ]
+  }
+ ]
+}

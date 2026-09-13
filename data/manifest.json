@@ -146,6 +146,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "presos-elab",
+      "nome": "Presos, adolescentes e NUMEC",
+      "nomeCompleto": "Movimentacao de presos e de adolescentes, audiencia de custodia, ocorrencias com refens e NUMEC (111 questões)",
+      "norma": "Dtz PM3-006/02/14, Dtz PM3-003/02/09, Res SSP-102/16 e NI PM3-005/03/17",
+      "arquivo": "data/presos-elab.json",
+      "cor": "#7a4a6f",
+      "ativo": true,
+      "ordem": 14,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
