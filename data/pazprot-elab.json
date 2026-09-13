@@ -1,0 +1,2040 @@
+{
+ "materia": "pazprot-elab",
+ "versao": "1.8.0",
+ "atualizadoEm": "2026-09-13",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Atribuições",
+  "Comando da operação",
+  "Comunicação social",
+  "Conceitos",
+  "Disposições gerais",
+  "Evento imprevisto",
+  "Evento programado",
+  "Eventos populares",
+  "FATO",
+  "Fases",
+  "Governança local",
+  "Matriz de risco",
+  "Operação Paz e Proteção",
+  "PVS — atribuições",
+  "PVS — conceitos",
+  "PVS — critérios",
+  "PVS — disposições gerais",
+  "PVS — execução",
+  "PVS — implantação",
+  "PVS — medidas de sucesso",
+  "PVS — objetivos",
+  "PVS — palestras",
+  "PVS — placas",
+  "PVS — programas semelhantes",
+  "PVS — responsabilidades",
+  "PVS — tutor",
+  "PVS — visitas",
+  "Planejamento",
+  "Planejamento prévio",
+  "Reuniões de análise",
+  "Síntese",
+  "Uso da força"
+ ],
+ "questoes": [
+  {
+   "id": "pazprot-elab-001",
+   "subtema": "Disposições gerais",
+   "artigo": "NI PM3-001/02/20 — Revogação",
+   "enunciado": "A Nota de Instrução nº PM3-001/02/20, que trata da atuação policial-militar em eventos de perturbação de sossego, revogou norma anterior relativa a",
+   "alternativas": [
+    "fiscalização administrativa de estabelecimentos comerciais com música ao vivo",
+    "policiamento em grandes eventos esportivos e manifestações públicas urbanas",
+    "emprego da tropa de choque em operações de controle de distúrbios civis",
+    "restabelecimento da ordem pública, desinterdição de vias e salubridade social"
+   ],
+   "correta": 3,
+   "explicacao": "A Nota de Instrução revogou a Ordem de Operações nº PM3-001/02/13, que tratava do restabelecimento da ordem pública, desinterdição de vias e salubridade social, conhecida pelas operações Baile Funk, Fluxo e Pancadão. A nova norma dá ênfase à gestão antecipada do evento.",
+   "tags": [
+    "pazprot",
+    "disposicoes-gerais"
+   ]
+  },
+  {
+   "id": "pazprot-elab-002",
+   "subtema": "Disposições gerais",
+   "artigo": "NI PM3-001/02/20 — Ênfase da norma",
+   "enunciado": "A Nota de Instrução nº PM3-001/02/20 caracteriza-se por dar ênfase",
+   "alternativas": [
+    "à gestão antecipada sobre os eventos com perturbação do sossego",
+    "ao emprego imediato da força para restabelecer a ordem pública",
+    "à responsabilização criminal dos organizadores dos eventos populares",
+    "à interdição preventiva das vias onde se realizam eventos populares"
+   ],
+   "correta": 0,
+   "explicacao": "A norma privilegia a gestão antecipada sobre os eventos com perturbação do sossego, com atuação conjunta de órgãos públicos e privados e lideranças comunitárias, sendo o uso da força exceção e a prevenção criminal e administrativa a regra.",
+   "tags": [
+    "pazprot",
+    "gestao-antecipada"
+   ]
+  },
+  {
+   "id": "pazprot-elab-003",
+   "subtema": "Disposições gerais",
+   "artigo": "NI PM3-001/02/20 — Uso da força",
+   "enunciado": "Segundo os fundamentos da Nota de Instrução, na atuação policial-militar em eventos de perturbação de sossego,",
+   "alternativas": [
+    "o uso da força é exceção, primando a atuação pela prevenção criminal e administrativa",
+    "o uso da força é a regra, dada a natureza de restabelecimento da ordem pública",
+    "o uso da força é vedado, cabendo apenas atos de polícia administrativa",
+    "o uso da força independe de escalonamento quando houver desobediência coletiva"
+   ],
+   "correta": 0,
+   "explicacao": "A norma afirma que a Polícia Militar deve restaurar a ordem primando pela prevenção criminal e administrativa, sendo o uso da força exceção, exercido de forma escalonada quando as demais medidas se mostrarem insuficientes.",
+   "tags": [
+    "pazprot",
+    "uso-da-forca"
+   ]
+  },
+  {
+   "id": "pazprot-elab-004",
+   "subtema": "Conceitos",
+   "artigo": "NI PM3-001/02/20 — Gestão de riscos",
+   "enunciado": "Define-se gestão de riscos, para os fins da Nota de Instrução, como o conjunto de medidas para",
+   "alternativas": [
+    "fiscalização administrativa dos organizadores e patrocinadores do evento popular",
+    "administração e controle de multidões desde o planejamento até a execução operacional",
+    "restauração da ordem pública quebrada pela ação da turba em evento popular",
+    "identificação, análise, avaliação e tratamento do risco, subsidiando a tomada de decisão"
+   ],
+   "correta": 3,
+   "explicacao": "A gestão de riscos abrange identificação, análise, avaliação e tratamento do risco, visando subsidiar a tomada de decisão sobre a atuação da PM. A administração e o controle de multidões correspondem, respectivamente, à gestão e ao controle de multidões.",
+   "tags": [
+    "pazprot",
+    "conceitos",
+    "riscos"
+   ]
+  },
+  {
+   "id": "pazprot-elab-005",
+   "subtema": "Conceitos",
+   "artigo": "NI PM3-001/02/20 — Gestão e controle de multidões",
+   "enunciado": "Comparados os conceitos de gestão de multidões e de controle de multidões, é correto afirmar que",
+   "alternativas": [
+    "ambos se equivalem, distinguindo-se apenas pelo escalão responsável pela atuação",
+    "o controle é conceito mais amplo, abrangendo o planejamento e a atuação preventiva",
+    "a gestão é conceito mais amplo, abrangendo desde as ações antecipadas até a execução",
+    "a gestão restringe-se à atuação repressiva sobre a multidão já em desordem"
+   ],
+   "correta": 2,
+   "explicacao": "A gestão de multidões é o conceito mais amplo, abrangendo desde as ações antecipadas de administração e planejamento até a execução operacional com técnicas de controle. O controle de multidões é o conjunto de procedimentos destinados à restauração da ordem pública quebrada pela ação da turba.",
+   "tags": [
+    "pazprot",
+    "conceitos",
+    "multidoes"
+   ]
+  },
+  {
+   "id": "pazprot-elab-006",
+   "subtema": "Conceitos",
+   "artigo": "NI PM3-001/02/20 — Intervenção indireta",
+   "enunciado": "No controle de multidões, a intervenção indireta é realizada por meio",
+   "alternativas": [
+    "da interdição de vias e da retirada compulsória dos participantes",
+    "das táticas de repelir ou de dispersar a multidão em desordem",
+    "do emprego de munição química e de armas de incapacitação",
+    "da ação de presença, contenção, acompanhamento ou negociação"
+   ],
+   "correta": 3,
+   "explicacao": "A intervenção indireta se realiza pela ação de presença, contenção, acompanhamento ou negociação, ao passo que a intervenção direta se dá por meio das táticas de repelir ou de dispersar.",
+   "tags": [
+    "pazprot",
+    "conceitos",
+    "intervencao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-007",
+   "subtema": "Conceitos",
+   "artigo": "NI PM3-001/02/20 — Intervenção direta",
+   "enunciado": "Caracteriza intervenção direta no controle de multidões a atuação por meio",
+   "alternativas": [
+    "do acompanhamento do deslocamento dos grupos pela via pública",
+    "da negociação com os organizadores e lideranças do evento",
+    "da ação de presença ostensiva nas vias adjacentes ao evento",
+    "das táticas de repelir ou de dispersar a multidão em desordem"
+   ],
+   "correta": 3,
+   "explicacao": "A intervenção direta se materializa nas táticas de repelir ou dispersar. Presença, contenção, acompanhamento e negociação integram a intervenção indireta, sempre preferencial diante do caráter excepcional do uso da força.",
+   "tags": [
+    "pazprot",
+    "conceitos",
+    "intervencao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-008",
+   "subtema": "Eventos populares",
+   "artigo": "NI PM3-001/02/20 — Classificação dos eventos",
+   "enunciado": "Os eventos populares, para os fins da Nota de Instrução, classificam-se conceitualmente em",
+   "alternativas": [
+    "evento programado e evento imprevisto",
+    "evento planejado e evento previsto",
+    "evento programado e evento previsto",
+    "evento planejado e evento imprevisto"
+   ],
+   "correta": 0,
+   "explicacao": "A norma adota a dicotomia entre evento programado, previamente identificado e a ser realizado em data futura, e evento imprevisto, não comunicado previamente e que exige atuação imediata com base em esboço emergencial.",
+   "tags": [
+    "pazprot",
+    "eventos",
+    "classificacao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-009",
+   "subtema": "Eventos populares",
+   "artigo": "NI PM3-001/02/20 — Evento programado",
+   "enunciado": "O evento programado, previamente identificado e a ser realizado em data futura,",
+   "alternativas": [
+    "dispensa o planejamento formal quando for classificado como de pequeno porte",
+    "possibilita acionar a governança local para desenvolver a Operação Paz e Proteção",
+    "exige a elaboração de esboço emergencial pelo oficial QOPM de serviço",
+    "impõe a interdição preventiva das vias adjacentes ao local do evento"
+   ],
+   "correta": 1,
+   "explicacao": "A antecedência do evento programado permite acionar a governança local para o adequado desenvolvimento da Operação Paz e Proteção. O esboço emergencial é instrumento próprio do evento imprevisto, e o planejamento é obrigatório e formal mesmo nos eventos de pequeno porte.",
+   "tags": [
+    "pazprot",
+    "eventos",
+    "programado"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-010",
+   "subtema": "Eventos populares",
+   "artigo": "NI PM3-001/02/20 — Evento imprevisto",
+   "enunciado": "O evento imprevisto, não comunicado previamente, exige atuação imediata da OPM mediante operação policial-militar elaborada com base",
+   "alternativas": [
+    "no plano de ação aprovado previamente pelo Comandante do Batalhão",
+    "na matriz de risco elaborada na fase de gestão antecipada",
+    "em esboço emergencial, de responsabilidade de oficial QOPM",
+    "na tabela de eventos programados mantida pelo Coordenador de Operações"
+   ],
+   "correta": 2,
+   "explicacao": "O esboço emergencial é o planejamento precário e imediato feito por oficial QOPM, que diagnostica a magnitude e a complexidade do problema, identifica os recursos a mobilizar e garante a atuação técnica e coordenada do efetivo, tendo como objetivo principal preservar vidas e a integridade física.",
+   "tags": [
+    "pazprot",
+    "eventos",
+    "imprevisto"
+   ]
+  },
+  {
+   "id": "pazprot-elab-011",
+   "subtema": "Eventos populares",
+   "artigo": "NI PM3-001/02/20 — Esboço emergencial",
+   "enunciado": "O objetivo principal do esboço emergencial, elaborado em evento imprevisto, é",
+   "alternativas": [
+    "assegurar a desinterdição imediata das vias públicas ocupadas pelo público",
+    "identificar os organizadores do evento para posterior responsabilização",
+    "preservar vidas e a integridade física das pessoas envolvidas no evento",
+    "documentar a atuação policial para fins de avaliação nas reuniões de análise crítica"
+   ],
+   "correta": 2,
+   "explicacao": "O esboço emergencial visa diagnosticar a magnitude e a complexidade do problema, identificar recursos e garantir atuação técnica e coordenada do efetivo, tendo por objetivo principal a preservação de vidas e da integridade física.",
+   "tags": [
+    "pazprot",
+    "eventos",
+    "esboco"
+   ]
+  },
+  {
+   "id": "pazprot-elab-012",
+   "subtema": "Operação Paz e Proteção",
+   "artigo": "NI PM3-001/02/20 — Conceito da operação",
+   "enunciado": "A Operação Paz e Proteção é definida como operação de polícia ostensiva e de preservação da ordem pública que abrange",
+   "alternativas": [
+    "exclusivamente as ações de controle de multidões executadas por tropa especializada",
+    "desde as ações preventivas e atos de polícia administrativa até o uso escalonado da força",
+    "apenas as medidas administrativas de fiscalização do comércio irregular no local",
+    "somente as ações desenvolvidas após a caracterização da perturbação da ordem pública"
+   ],
+   "correta": 1,
+   "explicacao": "A operação abrange desde as ações preventivas voltadas à normalidade do evento e das vias adjacentes, com atos de polícia administrativa, até o uso escalonado de força para restabelecer a ordem pública, podendo evoluir para ações de controle de multidões se necessário.",
+   "tags": [
+    "pazprot",
+    "operacao",
+    "conceito"
+   ]
+  },
+  {
+   "id": "pazprot-elab-013",
+   "subtema": "Governança local",
+   "artigo": "NI PM3-001/02/20 — Comitê de Governança Local",
+   "enunciado": "O Comitê de Governança Local, previsto na Nota de Instrução, reúne representantes de órgãos e entidades públicas e privadas, lideranças comunitárias e organizadores de eventos com o propósito de",
+   "alternativas": [
+    "deliberar sobre a autorização ou proibição da realização dos eventos populares",
+    "organizar, coordenar e fiscalizar as atividades antes, durante e após os eventos",
+    "substituir a atuação da Polícia Militar nas medidas de polícia administrativa",
+    "fixar as sanções administrativas aplicáveis aos organizadores dos eventos"
+   ],
+   "correta": 1,
+   "explicacao": "O Comitê integra esforços para organizar, coordenar e fiscalizar as atividades de antes, durante e após os eventos de perturbação de sossego, construindo cultura de paz e harmonia, sem substituir as atribuições legais de cada órgão.",
+   "tags": [
+    "pazprot",
+    "governanca",
+    "comite"
+   ]
+  },
+  {
+   "id": "pazprot-elab-014",
+   "subtema": "Governança local",
+   "artigo": "NI PM3-001/02/20 — Composição da governança",
+   "enunciado": "Assinale quem não integra a governança local prevista na Nota de Instrução.",
+   "alternativas": [
+    "CONSEG ou entidades similares, organizadores do evento e demais interessados",
+    "Ministério Público, Poder Judiciário e representantes do Poder Legislativo",
+    "Conselhos Tutelares, Vigilância Sanitária, CETESB e serviços médicos de urgência",
+    "Patrocinadores do evento pertencentes a facções criminosas"
+   ],
+   "correta": 3,
+   "explicacao": "A governança local reúne órgãos públicos, entidades privadas, lideranças comunitárias, organizadores e interessados legítimos no evento. Patrocinadores vinculados a facções criminosas evidentemente não integram esse rol, constituindo justamente objeto de atuação repressiva.",
+   "tags": [
+    "pazprot",
+    "governanca",
+    "composicao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-015",
+   "subtema": "Governança local",
+   "artigo": "NI PM3-001/02/20 — Órgãos integrantes",
+   "enunciado": "Integram a governança local, entre outros, os agentes de fiscalização de estruturas, hipótese que abrange",
+   "alternativas": [
+    "Defensoria Pública e OAB, quanto à fiscalização dos direitos dos participantes",
+    "Polícia Civil e Técnico-Científica, quanto à perícia das estruturas do evento",
+    "Corpo de Bombeiros, com exclusividade, quanto a todas as estruturas do evento",
+    "prefeituras, CREA e CONTRU, quanto à segurança das estruturas montadas"
+   ],
+   "correta": 3,
+   "explicacao": "A norma arrola os agentes de fiscalização de estruturas ligados às prefeituras, ao CREA e ao CONTRU. Polícia Civil, Corpo de Bombeiros, OAB e Defensoria Pública também integram a governança, mas com atribuições diversas.",
+   "tags": [
+    "pazprot",
+    "governanca",
+    "orgaos"
+   ]
+  },
+  {
+   "id": "pazprot-elab-016",
+   "subtema": "Governança local",
+   "artigo": "NI PM3-001/02/20 — Órgãos específicos",
+   "enunciado": "Nos eventos realizados em postos de combustível, a governança local contará com a participação específica",
+   "alternativas": [
+    "da Receita Federal, encarregada da fiscalização do imposto sobre serviços",
+    "da CETESB, com exclusividade, dada a natureza ambiental da fiscalização",
+    "do DETRAN, responsável pela fiscalização do fluxo de veículos no local",
+    "da Agência Nacional do Petróleo, além dos demais integrantes da governança"
+   ],
+   "correta": 3,
+   "explicacao": "A Nota de Instrução menciona expressamente a Agência Nacional do Petróleo para eventos em postos de combustível. A Receita Federal aparece no rol em razão da fiscalização tributária, e o DETRAN e a CETESB, por atribuições próprias.",
+   "tags": [
+    "pazprot",
+    "governanca",
+    "anp"
+   ]
+  },
+  {
+   "id": "pazprot-elab-017",
+   "subtema": "Planejamento",
+   "artigo": "NORSOP — Planejamento em caráter precário",
+   "enunciado": "Segundo a NORSOP, diante de informações sobre possibilidade de graves perturbações da ordem pública ou de circunstâncias inesperadas, exige-se planejamento em caráter precário, com alocação emergencial dos meios disponíveis, o que pressupõe",
+   "alternativas": [
+    "um plano de ação mínimo, com registro oportuno das ações e resultados em documento",
+    "a suspensão das atividades ordinárias de policiamento na área da OPM envolvida",
+    "a prévia autorização do Comando de Policiamento para mobilizar recursos internos",
+    "a elaboração de matriz de risco completa antes de qualquer mobilização de meios"
+   ],
+   "correta": 0,
+   "explicacao": "O contingenciamento exige um plano de ação mínimo, cujas ações e resultados devem ser registrados oportunamente em documento, podendo-se acionar recursos complementares como as Matrizes Operacionais II e III e planos de chamada.",
+   "tags": [
+    "pazprot",
+    "norsop",
+    "planejamento"
+   ]
+  },
+  {
+   "id": "pazprot-elab-018",
+   "subtema": "Fases",
+   "artigo": "NI PM3-001/02/20 — Fases da atuação",
+   "enunciado": "A atuação policial-militar disciplinada na Nota de Instrução desenvolve-se em três fases, na seguinte ordem:",
+   "alternativas": [
+    "gestão de multidões, controle de multidões e restabelecimento da ordem pública",
+    "planejamento prévio da atuação, gestão antecipada do evento e Operação Paz e Proteção",
+    "Operação Paz e Proteção, gestão de riscos e reunião de análise crítica específica",
+    "gestão antecipada do evento, planejamento prévio da atuação e Operação Paz e Proteção"
+   ],
+   "correta": 3,
+   "explicacao": "As fases são a gestão antecipada do evento, o planejamento prévio da atuação e a Operação Paz e Proteção propriamente dita, cada qual com documentos próprios, das planilhas de governança e eventos ao plano de ação.",
+   "tags": [
+    "pazprot",
+    "fases"
+   ]
+  },
+  {
+   "id": "pazprot-elab-019",
+   "subtema": "Fases",
+   "artigo": "NI PM3-001/02/20 — Responsável pela gestão antecipada",
+   "enunciado": "A identificação da governança local e a realização das reuniões do Comitê, na fase de gestão antecipada, competem",
+   "alternativas": [
+    "ao Comandante do Batalhão, pessoalmente, em periodicidade mensal obrigatória",
+    "ao Coordenador de Operações do Batalhão, trimestral, semestral ou anualmente",
+    "ao Comandante da Companhia, semanalmente, na respectiva subárea de atuação",
+    "ao Supervisor Regional, sempre que houver evento previsto fora do expediente"
+   ],
+   "correta": 1,
+   "explicacao": "O Coord Op Btl é o responsável por identificar, trimestral, semestral ou anualmente, as pessoas e entidades de governança local, convidando-as formalmente a compor o Comitê e registrando as reuniões em ata e na planilha de integrantes.",
+   "tags": [
+    "pazprot",
+    "fases",
+    "coord-op"
+   ]
+  },
+  {
+   "id": "pazprot-elab-020",
+   "subtema": "Fases",
+   "artigo": "NI PM3-001/02/20 — Documentos da gestão antecipada",
+   "enunciado": "São documentos produzidos na fase de gestão antecipada do evento",
+   "alternativas": [
+    "o plano de ação e o esboço emergencial da Operação Paz e Proteção",
+    "as planilhas de integrantes, de eventos programados e de matriz de risco",
+    "o relatório final da operação e o registro dos resultados no SiCoordOp",
+    "a nota de imprensa e o expediente encaminhado ao Ministério Público"
+   ],
+   "correta": 1,
+   "explicacao": "A fase de gestão antecipada produz as planilhas Integrantes do Comitê de Governança Local, Tabela de Eventos Programados e Matriz de Risco. O plano de ação pertence à fase de planejamento prévio e o esboço emergencial, à operação em evento imprevisto.",
+   "tags": [
+    "pazprot",
+    "fases",
+    "documentos"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-021",
+   "subtema": "Fases",
+   "artigo": "NI PM3-001/02/20 — Ata e Termo de Ajustamento",
+   "enunciado": "Quanto às reuniões do Comitê de Governança Local, a Nota de Instrução determina que",
+   "alternativas": [
+    "as reuniões sejam registradas apenas quando houver deliberação sobre evento programado",
+    "toda reunião seja registrada em ata, podendo o Cmt OPM propor ao MP termo de ajustamento",
+    "o registro em ata seja substituído pela planilha de integrantes do comitê de governança",
+    "o termo de ajustamento de condutas seja firmado diretamente pelo Comandante da OPM"
+   ],
+   "correta": 1,
+   "explicacao": "Toda reunião será registrada em ata e, quando necessários vínculos formais entre os partícipes, o Cmt OPM poderá propor ao Ministério Público que seja firmado termo de ajustamento de condutas. A celebração do termo é atribuição do órgão ministerial.",
+   "tags": [
+    "pazprot",
+    "fases",
+    "ata"
+   ]
+  },
+  {
+   "id": "pazprot-elab-022",
+   "subtema": "Matriz de risco",
+   "artigo": "NI PM3-001/02/20 — Classificação do evento",
+   "enunciado": "A Matriz de Risco, desenvolvida na fase de gestão antecipada, classifica o evento quanto",
+   "alternativas": [
+    "ao histórico criminal dos organizadores e à reincidência das ocorrências",
+    "ao porte, à duração e ao número estimado de participantes do evento",
+    "à prioridade, à complexidade e à especificidade do evento analisado",
+    "à localização geográfica e à disponibilidade de efetivo da OPM territorial"
+   ],
+   "correta": 2,
+   "explicacao": "A Matriz de Risco classifica o evento quanto à prioridade, à complexidade e à especificidade, otimizando a mobilização de recursos internos e externos nas Operações Paz e Proteção, e é desenvolvida independentemente da data em que o evento ocorrerá.",
+   "tags": [
+    "pazprot",
+    "matriz-de-risco"
+   ]
+  },
+  {
+   "id": "pazprot-elab-023",
+   "subtema": "Matriz de risco",
+   "artigo": "NI PM3-001/02/20 — Função da matriz",
+   "enunciado": "A Matriz de Risco é desenvolvida para eventos com potencial de perturbação do sossego",
+   "alternativas": [
+    "somente após a confirmação da data de realização do evento pelos organizadores",
+    "independentemente de quando o evento ocorrerá, otimizando a mobilização de recursos",
+    "exclusivamente para eventos classificados como de grande porte pela OPM territorial",
+    "apenas quando houver registro anterior de ocorrências no mesmo logradouro"
+   ],
+   "correta": 1,
+   "explicacao": "A matriz é elaborada independentemente de quando o evento ocorrerá, servindo para otimizar a mobilização de recursos internos e externos e para orientar a delegação do planejamento pelo Comandante da OPM.",
+   "tags": [
+    "pazprot",
+    "matriz-de-risco"
+   ]
+  },
+  {
+   "id": "pazprot-elab-024",
+   "subtema": "FATO",
+   "artigo": "NI PM3-001/02/20 — Conceito de FATO",
+   "enunciado": "Na Nota de Instrução sobre perturbação de sossego, a Força de Apoio Tático Operacional é definida como contingente capacitado e treinado para atuar",
+   "alternativas": [
+    "no restabelecimento da ordem pública, em ações delimitadas no tempo e no espaço",
+    "na ocupação antecipada de locais onde haja informação de eventos, com atuação preventiva",
+    "no controle de multidões, em substituição ao efetivo especializado de choque",
+    "na fiscalização administrativa de estabelecimentos comerciais em conjunto com a prefeitura"
+   ],
+   "correta": 1,
+   "explicacao": "Na NI, a FATO é definida pela ocupação antecipada de locais onde haja informações sobre eventos de perturbação de sossego, preferencialmente com agentes de fiscalização, sendo sua atuação fundamentalmente preventiva. O conceito da NORSOP, mais amplo, liga a FATO ao restabelecimento da ordem pública.",
+   "tags": [
+    "pazprot",
+    "fato",
+    "conceito"
+   ]
+  },
+  {
+   "id": "pazprot-elab-025",
+   "subtema": "FATO",
+   "artigo": "NI PM3-001/02/20 — Atuação emergencial da FATO",
+   "enunciado": "Embora sua atuação seja fundamentalmente preventiva, os integrantes da Força de Apoio Tático Operacional podem",
+   "alternativas": [
+    "ser acionados para o restabelecimento da ordem, precedendo o efetivo especializado",
+    "substituir definitivamente o efetivo especializado nas ações de controle de multidões",
+    "atuar apenas após a chegada do efetivo especializado ao local do evento",
+    "recusar o emprego emergencial, por não integrarem programa de policiamento específico"
+   ],
+   "correta": 0,
+   "explicacao": "Os integrantes da FATO podem ser acionados para o restabelecimento da ordem pública em situações emergenciais, precedendo a atuação do efetivo especializado e observados os fundamentos doutrinários sobre o uso escalonado da força.",
+   "tags": [
+    "pazprot",
+    "fato",
+    "emprego"
+   ]
+  },
+  {
+   "id": "pazprot-elab-026",
+   "subtema": "FATO",
+   "artigo": "NI PM3-001/02/20 — Constituição da FATO",
+   "enunciado": "Quanto à constituição da Força de Apoio Tático Operacional, a Nota de Instrução prevê que ela",
+   "alternativas": [
+    "pode ser constituída de forma regular, por escala ordinária, ou mobilizada pontualmente",
+    "somente pode ser constituída de forma permanente, mediante escala ordinária própria",
+    "somente pode ser mobilizada pontualmente, vedada a constituição por escala regular",
+    "depende de autorização prévia do Comando de Policiamento para cada mobilização"
+   ],
+   "correta": 0,
+   "explicacao": "A FATO pode ser constituída de forma regular, mediante escala ordinária, ou mobilizada pontualmente, desde que efetivo e meios estejam previamente identificados e preparados para acionamentos, vinculando-se ao Coord Op Btl ou diretamente ao Cmt Cia.",
+   "tags": [
+    "pazprot",
+    "fato",
+    "constituicao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-027",
+   "subtema": "Planejamento prévio",
+   "artigo": "NI PM3-001/02/20 — Delegação do planejamento",
+   "enunciado": "Ao tomar conhecimento da realização de evento de perturbação de sossego em sua área, o Comandante do Batalhão desenvolverá o planejamento antecipado da Operação Paz e Proteção",
+   "alternativas": [
+    "com a maior antecedência possível, delegando as providências ao Cmt Cia FT da unidade",
+    "com antecedência mínima de cinco dias, delegando as providências ao Cmt Cia PM da área",
+    "com a maior antecedência possível, delegando ao Coord Op Btl, ao Cmt Cia PM ou a ambos",
+    "com antecedência mínima de dez dias, delegando as providências ao Supervisor Regional"
+   ],
+   "correta": 2,
+   "explicacao": "A delegação recai sobre o Coord Op Btl, o Cmt Cia PM ou ambos, conforme a classificação indicada na Matriz de Risco, e deve ocorrer com a maior antecedência possível, sem prazo fixo em dias.",
+   "tags": [
+    "pazprot",
+    "planejamento",
+    "delegacao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-028",
+   "subtema": "Planejamento prévio",
+   "artigo": "NI PM3-001/02/20 — Plano de Ação",
+   "enunciado": "A planilha Plano de Ação, elaborada na fase de planejamento prévio, tem por base",
+   "alternativas": [
+    "o esboço emergencial produzido pelo oficial QOPM de serviço na data",
+    "exclusivamente o histórico de ocorrências registradas no mesmo logradouro",
+    "a Matriz de Risco e outras fontes de informação disponíveis à unidade",
+    "o relatório final da última Operação Paz e Proteção realizada na área"
+   ],
+   "correta": 2,
+   "explicacao": "O Plano de Ação é fundamentado nos dados produzidos pela Matriz de Risco e por outras fontes, como levantamentos das agências de inteligência, notícias da mídia e redes sociais, uso de drones ou imagens de satélite e dados estatísticos do ambiente.",
+   "tags": [
+    "pazprot",
+    "planejamento",
+    "plano-de-acao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-029",
+   "subtema": "Planejamento prévio",
+   "artigo": "NI PM3-001/02/20 — Conteúdo do Plano de Ação",
+   "enunciado": "O Plano de Ação da Operação Paz e Proteção deve, entre outros elementos,",
+   "alternativas": [
+    "estabelecer o roteiro de dispersão da multidão e as técnicas de emprego da força",
+    "fixar as sanções administrativas a serem aplicadas aos organizadores do evento",
+    "detalhar o efetivo e suas atribuições, os meios alocados e indicar o Cmt da Operação",
+    "substituir a Matriz de Risco quando o evento for classificado como de baixo risco"
+   ],
+   "correta": 2,
+   "explicacao": "O plano detalha o efetivo e as respectivas atribuições, os meios a serem alocados e indica o Comandante da Operação Paz e Proteção, preferencialmente oficial QOPM, podendo prever a mobilização da FATO nas OPM que a possuam.",
+   "tags": [
+    "pazprot",
+    "planejamento",
+    "plano-de-acao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-030",
+   "subtema": "Comando da operação",
+   "artigo": "NI PM3-001/02/20 — Comandante da operação",
+   "enunciado": "O Comandante da Operação Paz e Proteção será, segundo a Nota de Instrução,",
+   "alternativas": [
+    "obrigatoriamente oficial QOPM, sem qualquer exceção prevista na norma",
+    "preferencialmente oficial QOPM, admitida exceção em evento de pequeno porte",
+    "preferencialmente o Comandante da Companhia da área territorial do evento",
+    "obrigatoriamente o Coordenador de Operações do Batalhão responsável pela área"
+   ],
+   "correta": 1,
+   "explicacao": "A norma indica preferencialmente oficial QOPM, admitindo que evento de pequeno porte, a critério do Cmt Btl, seja comandado por Subtenente ou Sargento PM, ainda que precedido de planejamento obrigatório e formal.",
+   "tags": [
+    "pazprot",
+    "comando",
+    "oficial"
+   ]
+  },
+  {
+   "id": "pazprot-elab-031",
+   "subtema": "Comando da operação",
+   "artigo": "NI PM3-001/02/20 — Evento de pequeno porte",
+   "enunciado": "Evento de pequeno porte, a critério do Comandante do Batalhão, pode ser comandado por Subtenente ou Sargento PM,",
+   "alternativas": [
+    "mantida a exigência de planejamento obrigatório e formal da operação",
+    "dispensado o planejamento, dada a menor complexidade do evento",
+    "desde que haja oficial QOPM de sobreaviso na sede do Batalhão",
+    "somente quando não houver oficial QOPM disponível na unidade"
+   ],
+   "correta": 0,
+   "explicacao": "A exceção alcança apenas o comando da operação: o planejamento permanece obrigatório e formal. A norma não condiciona a exceção à indisponibilidade de oficiais nem à existência de sobreaviso.",
+   "tags": [
+    "pazprot",
+    "comando",
+    "pequeno-porte"
+   ]
+  },
+  {
+   "id": "pazprot-elab-032",
+   "subtema": "Comando da operação",
+   "artigo": "NI PM3-001/02/20 — Fato isolado",
+   "enunciado": "Acionada a Polícia Militar para atuar pontualmente sobre fato isolado, como uma briga não generalizada no interior do evento ou em suas imediações,",
+   "alternativas": [
+    "a intervenção caracteriza a Operação Paz e Proteção sempre que empenhar mais de uma US",
+    "a intervenção não caracteriza a Operação Paz e Proteção, ainda que empenhe mais de uma US",
+    "é obrigatória a presença de oficial QOPM, dada a localização do fato no evento",
+    "deve ser elaborado esboço emergencial, com comunicação imediata ao Coord Op Btl"
+   ],
+   "correta": 1,
+   "explicacao": "A presença de oficial QOPM só é obrigatória quando a atuação for necessária para o controle preventivo ou repressivo imediato sobre o evento como um todo. A atuação sobre fato isolado, mesmo com mais de uma unidade de serviço, não caracteriza a Operação.",
+   "tags": [
+    "pazprot",
+    "comando",
+    "fato-isolado"
+   ]
+  },
+  {
+   "id": "pazprot-elab-033",
+   "subtema": "Planejamento prévio",
+   "artigo": "NI PM3-001/02/20 — Recursos externos",
+   "enunciado": "Apontando a Matriz de Risco elevado risco para o evento, poderá ser previsto o emprego de qualquer recurso operacional, interno ou externo à OPM, mediante",
+   "alternativas": [
+    "mobilização das Matrizes Operacionais II e III, consignada no Plano de Ação",
+    "requisição direta do Comandante da Operação ao Comando de Policiamento",
+    "convênio firmado entre a OPM e os órgãos municipais de fiscalização",
+    "autorização do Ministério Público, por se tratar de interesse difuso e coletivo"
+   ],
+   "correta": 0,
+   "explicacao": "O emprego de recursos internos ou externos se dá pela mobilização das Matrizes Operacionais II e III, consignada no Plano de Ação, acionando-se os canais de comando com justificação e em tempo hábil.",
+   "tags": [
+    "pazprot",
+    "planejamento",
+    "matrizes"
+   ]
+  },
+  {
+   "id": "pazprot-elab-034",
+   "subtema": "Planejamento prévio",
+   "artigo": "NI PM3-001/02/20 — Integrante omisso do Comitê",
+   "enunciado": "Se, mesmo após acionamento prévio, integrante do Comitê de Governança Local alegar impossibilidade de cumprir suas responsabilidades, caberá ao Comandante da OPM",
+   "alternativas": [
+    "elaborar ofício ao Ministério Público evidenciando o risco potencial da ausência",
+    "excluir o integrante do Comitê, comunicando o fato ao Comando de Policiamento",
+    "assumir as atribuições do integrante omisso, com o efetivo próprio da unidade",
+    "cancelar a Operação Paz e Proteção, por inviabilidade do plano de ação traçado"
+   ],
+   "correta": 0,
+   "explicacao": "A norma determina a elaboração de ofício ao Ministério Público evidenciando o risco potencial a ser causado pela ausência do integrante, preservando a responsabilização de cada partícipe pelas atribuições assumidas na fase de gestão antecipada.",
+   "tags": [
+    "pazprot",
+    "planejamento",
+    "ministerio-publico"
+   ]
+  },
+  {
+   "id": "pazprot-elab-035",
+   "subtema": "Evento programado",
+   "artigo": "NI PM3-001/02/20 — Preleção",
+   "enunciado": "Em evento programado, antes do início da operação, o Comandante da Operação reúne os integrantes do Comitê, a FATO e os recursos externos à OPM para prelecionar sobre suas atuações e sobre",
+   "alternativas": [
+    "o respeito aos direitos humanos, tendo como objetivo a ocupação do terreno antes do evento",
+    "as sanções disciplinares aplicáveis em caso de excesso no uso da força pelo efetivo",
+    "a distribuição das áreas de responsabilidade entre as polícias civil e militar",
+    "os critérios de encerramento antecipado do evento por decisão do comando"
+   ],
+   "correta": 0,
+   "explicacao": "A preleção alcança as atuações de cada partícipe e o respeito aos direitos humanos, tendo por objetivo a ocupação do terreno antes do evento, além da orientação sobre os procedimentos operacionais padrão e da conferência de equipamentos de proteção individual.",
+   "tags": [
+    "pazprot",
+    "evento-programado",
+    "prelecao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-036",
+   "subtema": "Evento programado",
+   "artigo": "NI PM3-001/02/20 — Chegada ao local",
+   "enunciado": "Na chegada ao local do evento programado, compete ao Comandante da Operação",
+   "alternativas": [
+    "solicitar ao Supervisor Regional autorização para ocupar o terreno do evento",
+    "aguardar a chegada dos integrantes do Comitê antes de posicionar o efetivo",
+    "iniciar imediatamente as ações de dispersão do público presente no local",
+    "distribuir o efetivo no terreno e mobilizar os recursos previstos antecipadamente"
+   ],
+   "correta": 3,
+   "explicacao": "Cabe ao Comandante da Operação distribuir o efetivo no terreno e mobilizar todos os recursos previstos antecipadamente, analisando eventuais necessidades de ajustes ao planejamento diante da situação encontrada.",
+   "tags": [
+    "pazprot",
+    "evento-programado",
+    "execucao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-037",
+   "subtema": "Evento programado",
+   "artigo": "NI PM3-001/02/20 — Após a ocupação do terreno",
+   "enunciado": "Após a ocupação do terreno em evento programado, a atuação policial-militar ocorrerá de forma a",
+   "alternativas": [
+    "encerrar o evento sempre que constatada emissão sonora acima do limite legal",
+    "restringir o acesso de novos participantes ao local onde se realiza o evento",
+    "inibir com presença ostensiva o uso irregular dos espaços e dissuadir ilicitudes",
+    "recolher os equipamentos de som utilizados, independentemente de fiscalização"
+   ],
+   "correta": 2,
+   "explicacao": "A atuação busca inibir, com presença ostensiva, o uso irregular dos espaços públicos, além de dissuadir ilicitudes por meio de buscas pessoais e veiculares diante de atitudes suspeitas e da fiscalização sobre o comércio irregular.",
+   "tags": [
+    "pazprot",
+    "evento-programado",
+    "atuacao"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-038",
+   "subtema": "Evento programado",
+   "artigo": "NI PM3-001/02/20 — Situação mais complexa",
+   "enunciado": "Mostrando-se a situação no local mais complexa do que o previsto, fora do horário de expediente, a mobilização dos recursos disponíveis no âmbito do respectivo Comando de Policiamento compete",
+   "alternativas": [
+    "ao Coordenador de Operações do Batalhão, mediante contato com o Comando Geral",
+    "ao Supervisor Regional, conforme sistemática prevista em normatização própria da OPM",
+    "ao Comandante da Operação, independentemente de qualquer canal técnico",
+    "ao Chefe de Operações do COPOM, que assume o comando da ocorrência"
+   ],
+   "correta": 1,
+   "explicacao": "Fora do expediente, o Supervisor Regional possui autonomia para mobilizar os recursos disponíveis no âmbito do respectivo Cmdo Pol, cuja sistemática deve estar prevista em normatização própria da OPM, cabendo aos Comandos de Policiamento atualizar essa regulamentação.",
+   "tags": [
+    "pazprot",
+    "evento-programado",
+    "supervisor"
+   ]
+  },
+  {
+   "id": "pazprot-elab-039",
+   "subtema": "Evento programado",
+   "artigo": "NI PM3-001/02/20 — Recursos não previstos",
+   "enunciado": "Necessitando de recursos humanos ou materiais não previstos no plano de ação, inclusive de outra OPM, o Comandante da Operação deverá",
+   "alternativas": [
+    "encerrar a operação e retirar o efetivo, por insuficiência dos meios planejados",
+    "requisitar diretamente à OPM detentora dos meios, comunicando depois o Batalhão",
+    "mobilizar o Coord Op Btl, ou o Supervisor Regional fora do expediente, por canal técnico",
+    "acionar o Comando Geral, único competente para autorizar apoios interunidades"
+   ],
+   "correta": 2,
+   "explicacao": "A solicitação é feita ao Coord Op Btl ou, fora do expediente, ao Supervisor Regional, mediante canal técnico, podendo o Chefe de Operações do COPOM ser acionado para intermediar o contato com as demais OPM, inclusive os apoios especializados.",
+   "tags": [
+    "pazprot",
+    "evento-programado",
+    "apoio"
+   ]
+  },
+  {
+   "id": "pazprot-elab-040",
+   "subtema": "Evento programado",
+   "artigo": "NI PM3-001/02/20 — Encerramento",
+   "enunciado": "Encerradas as providências da Operação Paz e Proteção, o Comandante da Operação deve",
+   "alternativas": [
+    "publicar os resultados em boletim interno, dispensado o registro em sistema",
+    "encaminhar relatório diretamente ao Comando de Policiamento da área de atuação",
+    "arquivar a documentação na Companhia, por não haver exigência de remessa",
+    "registrar os resultados no SiCoordOp e remeter relatório final ao Coord Op Btl"
+   ],
+   "correta": 3,
+   "explicacao": "O Comandante registra os resultados operacionais no SiCoordOp, com as observações do efetivo e dos integrantes do Comitê, especialmente irregularidades detectadas e oportunidades de melhoria, as quais devem constar do relatório final remetido ao Coord Op Btl.",
+   "tags": [
+    "pazprot",
+    "evento-programado",
+    "relatorio"
+   ]
+  },
+  {
+   "id": "pazprot-elab-041",
+   "subtema": "Evento imprevisto",
+   "artigo": "NI PM3-001/02/20 — Desencadeamento",
+   "enunciado": "Em evento imprevisto, a Operação Paz e Proteção será desencadeada quando,",
+   "alternativas": [
+    "por acionamento pelo 190 ou por US, caracterizar-se perturbação do evento",
+    "houver qualquer ocorrência policial registrada nas imediações do local do evento",
+    "o Comandante do Batalhão determinar formalmente a abertura da operação",
+    "a Matriz de Risco indicar elevado risco para o local onde ocorre o evento"
+   ],
+   "correta": 0,
+   "explicacao": "A operação é desencadeada por acionamento via 190 ou por constatação de alguma unidade de serviço, desde que caracterizada a perturbação da ordem pública como consequência direta do evento em si, excetuada a perturbação proveniente de fato isolado.",
+   "tags": [
+    "pazprot",
+    "evento-imprevisto",
+    "desencadeamento"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-042",
+   "subtema": "Evento imprevisto",
+   "artigo": "NI PM3-001/02/20 — Comunicação imediata",
+   "enunciado": "Desencadeada a Operação Paz e Proteção em evento imprevisto, deverá ser comunicado de imediato",
+   "alternativas": [
+    "o Comandante da Companhia da área, único responsável pela coordenação",
+    "o Comandante Geral, por meio do Centro de Operações da Polícia Militar",
+    "o Ministério Público, para acompanhamento em tempo real da operação",
+    "o Coord Op Btl ou, fora do expediente, o Supervisor Regional da área"
+   ],
+   "correta": 3,
+   "explicacao": "O Coord Op Btl, ou o Supervisor Regional fora do expediente, deve ser comunicado de imediato e coordenar-se com o Comandante da Operação, mesmo à distância, para o acionamento dos meios necessários, com apoio do Chefe de Operações do COPOM e do Serviço de Dia do Batalhão.",
+   "tags": [
+    "pazprot",
+    "evento-imprevisto",
+    "comunicacao"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-043",
+   "subtema": "Evento imprevisto",
+   "artigo": "NI PM3-001/02/20 — Serviço de Dia",
+   "enunciado": "No apoio à Operação Paz e Proteção em evento imprevisto, o Serviço de Dia do Batalhão terá à disposição",
+   "alternativas": [
+    "a relação de integrantes do Comitê de Governança Local, para acionamentos",
+    "a matriz de risco elaborada para os eventos programados da área territorial",
+    "o plano de ação aprovado para a operação, com a distribuição do efetivo",
+    "o relatório final da última operação realizada no mesmo logradouro"
+   ],
+   "correta": 0,
+   "explicacao": "O Serviço de Dia atua paralelamente ao Chefe de Operações do COPOM e dispõe da Relação de Integrantes do Comitê, viabilizando o acionamento dos parceiros mesmo em evento não planejado.",
+   "tags": [
+    "pazprot",
+    "evento-imprevisto",
+    "servico-de-dia"
+   ]
+  },
+  {
+   "id": "pazprot-elab-044",
+   "subtema": "Evento imprevisto",
+   "artigo": "NI PM3-001/02/20 — Prioridades da atuação",
+   "enunciado": "Em evento imprevisto, a atuação policial-militar deve priorizar",
+   "alternativas": [
+    "o cerco imediato do local e a contenção física dos participantes do evento",
+    "a visibilidade, a distância segura e a previsão de vias de fuga",
+    "a identificação nominal de todos os presentes antes de qualquer providência",
+    "a retirada dos equipamentos de som e a imediata desinterdição das vias"
+   ],
+   "correta": 1,
+   "explicacao": "A norma prioriza visibilidade, distância segura sobre aglomerações hostis e previsão de vias de fuga, com ênfase nas medidas administrativas e na solução pacífica e negociada das irregularidades, evitando provocações ou confrontos.",
+   "tags": [
+    "pazprot",
+    "evento-imprevisto",
+    "prioridades"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-045",
+   "subtema": "Evento imprevisto",
+   "artigo": "NI PM3-001/02/20 — Insuficiência das medidas",
+   "enunciado": "Mostrando-se insuficientes as medidas iniciais para o restabelecimento da ordem pública, o efetivo capacitado será organizado segundo técnicas de controle de multidões, tendo como principal objetivo",
+   "alternativas": [
+    "a contenção do público em área delimitada até a chegada do efetivo especializado",
+    "a detenção imediata dos organizadores e a apreensão dos equipamentos de som",
+    "a dispersão gradual do público e a desinterdição de vias públicas ocupadas",
+    "o encerramento do evento mediante notificação formal aos participantes"
+   ],
+   "correta": 2,
+   "explicacao": "A atuação se pauta no emprego legítimo e escalonado de persuasão e de força, tendo como principal objetivo a dispersão gradual do público e a desinterdição de vias, cabendo ao efetivo não empregado diretamente atuar nas vias adjacentes para desestimular novas aglomerações.",
+   "tags": [
+    "pazprot",
+    "evento-imprevisto",
+    "controle-multidoes"
+   ]
+  },
+  {
+   "id": "pazprot-elab-046",
+   "subtema": "Evento imprevisto",
+   "artigo": "NI PM3-001/02/20 — Coleta de dados",
+   "enunciado": "Durante a Operação Paz e Proteção em evento imprevisto, o Comandante da Operação orientará e coordenará a coleta de dados de identificação de pessoas e veículos abordados, evidências e relatos testemunhais, a fim de",
+   "alternativas": [
+    "instruir o inquérito policial a ser presidido pela autoridade policial civil",
+    "subsidiar a elaboração do relatório final a ser remetido ao Coord Op Btl",
+    "compor o cadastro de participantes mantido pelo Comitê de Governança Local",
+    "fundamentar a aplicação de multas administrativas pelos agentes municipais"
+   ],
+   "correta": 1,
+   "explicacao": "A coleta orientada de dados, evidências e relatos destina-se a subsidiar o relatório final remetido ao Coord Op Btl, sem prejuízo do uso de drones e filmagens para identificar infratores e organizadores, possibilitando a responsabilização.",
+   "tags": [
+    "pazprot",
+    "evento-imprevisto",
+    "dados"
+   ]
+  },
+  {
+   "id": "pazprot-elab-047",
+   "subtema": "Evento imprevisto",
+   "artigo": "NI PM3-001/02/20 — Expediente ao Ministério Público",
+   "enunciado": "Sempre que desencadeada a Operação Paz e Proteção sobre evento imprevisto, independentemente do eventual uso legítimo da força, o Comandante da OPM",
+   "alternativas": [
+    "comunicará o fato à Corregedoria, para avaliação da atuação do efetivo empenhado",
+    "encaminhará expediente ao Ministério Público apenas se houver emprego de munição química",
+    "encaminhará expediente ao Ministério Público, para garantia dos interesses difusos e coletivos",
+    "instaurará sindicância para apurar a responsabilidade dos organizadores do evento"
+   ],
+   "correta": 2,
+   "explicacao": "A remessa de expediente ao Ministério Público é providência obrigatória em evento imprevisto, independentemente do uso da força, para que sejam adotadas providências legais de garantia dos interesses difusos e coletivos, evitando a repetição de eventos dessa natureza.",
+   "tags": [
+    "pazprot",
+    "evento-imprevisto",
+    "ministerio-publico"
+   ]
+  },
+  {
+   "id": "pazprot-elab-048",
+   "subtema": "Uso da força",
+   "artigo": "NI PM3-001/02/20 — Investigação preliminar",
+   "enunciado": "Havendo uso legítimo da força ou emprego de munição química, arma de incapacitação neuromuscular, munição de impacto controlado ou gás pimenta, caberá",
+   "alternativas": [
+    "ao Comandante da Operação registrar o emprego no SiCoordOp, dispensada apuração",
+    "ao Coord Op Btl, ou ao Supervisor Regional, instaurar investigação preliminar",
+    "ao Comandante do Batalhão instaurar sindicância no prazo de cinco dias úteis",
+    "à Corregedoria da Polícia Militar instaurar procedimento disciplinar específico"
+   ],
+   "correta": 1,
+   "explicacao": "A norma determina, em qualquer circunstância e cientificadas as autoridades competentes, a imediata instauração de investigação preliminar pelo Coord Op Btl ou pelo Supervisor Regional fora do expediente, a fim de coletar dados, evidências e relatos obtidos durante a operação.",
+   "tags": [
+    "pazprot",
+    "uso-da-forca",
+    "investigacao-preliminar"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-049",
+   "subtema": "Atribuições",
+   "artigo": "NI PM3-001/02/20 — Comandos de Policiamento",
+   "enunciado": "Compete aos Comandos de Policiamento, quanto à Força de Apoio Tático Operacional,",
+   "alternativas": [
+    "comandar as FATO durante o desencadeamento das Operações Paz e Proteção",
+    "constituir diretamente as FATO em todas as OPM territoriais subordinadas",
+    "analisar com os Cmt OPM a necessidade de composição e sua estrutura",
+    "custear os equipamentos de proteção individual utilizados pelos integrantes"
+   ],
+   "correta": 2,
+   "explicacao": "Aos Comandos de Policiamento cabe desenvolver análise conjunta com os Comandantes das OPM subordinadas quanto à necessidade de composição das FATO e, sendo o caso, deliberar sobre sua estrutura, fixa ou matricial, treinamento, regime de trabalho e meios necessários.",
+   "tags": [
+    "pazprot",
+    "atribuicoes",
+    "comandos"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-050",
+   "subtema": "Atribuições",
+   "artigo": "NI PM3-001/02/20 — Normatização interna",
+   "enunciado": "Os Comandos de Policiamento devem atualizar a normatização interna acerca das atribuições do Oficial Superior de Sobreaviso e do Supervisor Regional, com especial atenção",
+   "alternativas": [
+    "à fixação de escala de sobreaviso para os integrantes do Comitê de Governança",
+    "à substituição do Comandante da Operação em eventos de grande porte",
+    "à autonomia do Supervisor Regional para mobilizar recursos fora do expediente",
+    "à delegação do comando da operação a Subtenentes e Sargentos da unidade"
+   ],
+   "correta": 2,
+   "explicacao": "A atualização normativa visa disciplinar, sobretudo, a autonomia do Supervisor Regional para mobilizar os recursos disponíveis no âmbito do respectivo Comando de Policiamento fora do expediente, sistemática que deve constar de norma própria da OPM.",
+   "tags": [
+    "pazprot",
+    "atribuicoes",
+    "normatizacao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-051",
+   "subtema": "Atribuições",
+   "artigo": "NI PM3-001/02/20 — Taxa de fiscalização",
+   "enunciado": "Durante a gestão antecipada de eventos com promoção de som, alguns deles poderão exigir a adoção de medidas para aplicação da Lei nº 15.266/13, especificamente quanto",
+   "alternativas": [
+    "à aplicação de multa administrativa por emissão sonora acima do limite legal",
+    "à cobrança da Taxa de Fiscalização e Serviços Diversos, observada a regulamentação",
+    "à exigência de seguro de responsabilidade civil dos organizadores do evento",
+    "ao recolhimento antecipado do imposto sobre serviços devido ao município"
+   ],
+   "correta": 1,
+   "explicacao": "A norma remete à cobrança da Taxa de Fiscalização e Serviços Diversos prevista na Lei nº 15.266/13, observada a regulamentação em vigor, medida a ser avaliada ainda na fase de gestão antecipada.",
+   "tags": [
+    "pazprot",
+    "atribuicoes",
+    "tfsd"
+   ]
+  },
+  {
+   "id": "pazprot-elab-052",
+   "subtema": "Reuniões de análise",
+   "artigo": "NI PM3-001/02/20 — RAC específica",
+   "enunciado": "Quanto à reunião de análise crítica específica sobre eventos com promoção de som, a Nota de Instrução determina que cada Batalhão a realize",
+   "alternativas": [
+    "semestralmente, sob a presidência do Comandante de Policiamento de Área",
+    "trimestralmente, na mesma data da RAC relacionada aos indicadores criminais",
+    "mensalmente, em data diversa da RAC relacionada aos indicadores criminais",
+    "anualmente, com a participação obrigatória do Ministério Público local"
+   ],
+   "correta": 2,
+   "explicacao": "A RAC específica é mensal e deve ocorrer em data diversa da RAC relacionada aos indicadores criminais, com o propósito principal de reunir os representantes do Comitê para análise das providências envolvendo os eventos com promoção de som.",
+   "tags": [
+    "pazprot",
+    "rac",
+    "especifica"
+   ]
+  },
+  {
+   "id": "pazprot-elab-053",
+   "subtema": "Comunicação social",
+   "artigo": "NI PM3-001/02/20 — Notas de imprensa",
+   "enunciado": "Quanto à divulgação das Operações Paz e Proteção, a Nota de Instrução determina que os órgãos de comunicação social da Polícia Militar",
+   "alternativas": [
+    "divulguem obrigatoriamente os resultados de cada operação nas redes sociais",
+    "submetam previamente ao CComSoc toda divulgação relativa às operações realizadas",
+    "possuam modelos de notas de imprensa, podendo solicitar orientações ao CComSoc",
+    "abstenham-se de divulgar as operações, dada a sensibilidade dos eventos envolvidos"
+   ],
+   "correta": 2,
+   "explicacao": "Todos os órgãos de comunicação social da Instituição devem possuir modelos de notas de imprensa para comunicar a realização das Operações Paz e Proteção à mídia em geral, podendo solicitar orientações junto ao CComSoc.",
+   "tags": [
+    "pazprot",
+    "comunicacao-social"
+   ]
+  },
+  {
+   "id": "pazprot-elab-054",
+   "subtema": "PVS — disposições gerais",
+   "artigo": "Dtz PM3-002/02/13 — Finalidade",
+   "enunciado": "A Diretriz nº PM3-002/02/13 tem por finalidade regular o desenvolvimento do Programa Vizinhança Solidária",
+   "alternativas": [
+    "pelas OPM territoriais em todo o Estado de São Paulo",
+    "por todas as OPM da Instituição, inclusive as especializadas",
+    "pelos Comandos de Policiamento de Área da capital e do interior",
+    "pelas unidades do Programa de Policiamento Comunitário, com exclusividade"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz regula o desenvolvimento do PVS pelas OPM territoriais em todo o Estado, que poderão implementá-lo sem prejuízo das atividades específicas dos Programas de Policiamento. A implantação e as visitas podem valer-se de qualquer Programa de Policiamento.",
+   "tags": [
+    "pvs",
+    "finalidade"
+   ]
+  },
+  {
+   "id": "pazprot-elab-055",
+   "subtema": "PVS — disposições gerais",
+   "artigo": "Dtz PM3-002/02/13 — Natureza do programa",
+   "enunciado": "Quanto à sua natureza, o Programa Vizinhança Solidária caracteriza-se como",
+   "alternativas": [
+    "programa de policiamento autônomo, com efetivo exclusivo e escala própria",
+    "ferramenta facilitadora da polícia comunitária, de adesão voluntária pela comunidade",
+    "modalidade de policiamento ostensivo obrigatória em todas as áreas de risco",
+    "convênio formal entre a Polícia Militar e as associações de bairro do município"
+   ],
+   "correta": 1,
+   "explicacao": "O PVS é ferramenta facilitadora da polícia comunitária, filosofia e estratégia institucional que transcende o Programa de Policiamento Comunitário, e pressupõe adesão voluntária e predisposição da comunidade em participar, alcançando comunidades comerciais ou residenciais.",
+   "tags": [
+    "pvs",
+    "natureza"
+   ]
+  },
+  {
+   "id": "pazprot-elab-056",
+   "subtema": "PVS — conceitos",
+   "artigo": "Dtz PM3-002/02/13 — Vizinhança Solidária",
+   "enunciado": "Denomina-se vizinhança solidária, na Diretriz,",
+   "alternativas": [
+    "o contato periódico do policial militar com integrantes da comunidade atendida",
+    "o conjunto de medidas para estimular a mudança de comportamento da comunidade",
+    "o cidadão local tido como líder comunitário, instruído pela Polícia Militar",
+    "o grupo de pessoas que internalizou a necessidade de aproximar os vizinhos"
+   ],
+   "correta": 3,
+   "explicacao": "A vizinhança solidária é o grupo de pessoas que internalizaram a necessidade de reduzir a intolerância social, aproximar os vizinhos e resgatar a percepção de segurança, por meio de posturas preventivas materializadas na expansão da vigilância para o contexto do grupo.",
+   "tags": [
+    "pvs",
+    "conceitos"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-057",
+   "subtema": "PVS — conceitos",
+   "artigo": "Dtz PM3-002/02/13 — Programa Vizinhança Solidária",
+   "enunciado": "O Programa Vizinhança Solidária, como conjunto de medidas, destina-se a",
+   "alternativas": [
+    "substituir o policiamento ostensivo nas áreas onde há adesão espontânea dos moradores",
+    "estimular a mudança de comportamento da comunidade diante de fatos que afetem a ordem pública",
+    "cadastrar moradores para atendimento prioritário nas ocorrências policiais da região",
+    "fiscalizar o cumprimento das posturas municipais pelos comerciantes da localidade"
+   ],
+   "correta": 1,
+   "explicacao": "O PVS reúne medidas para estimular os integrantes da comunidade à mudança de comportamento diante de fatos ou condutas que possam afetar a ordem pública, conscientizando-os de sua responsabilidade e mobilizando-os para ações de prevenção primária.",
+   "tags": [
+    "pvs",
+    "conceitos"
+   ]
+  },
+  {
+   "id": "pazprot-elab-058",
+   "subtema": "PVS — conceitos",
+   "artigo": "Dtz PM3-002/02/13 — Tutor",
+   "enunciado": "Considera-se tutor do Programa Vizinhança Solidária",
+   "alternativas": [
+    "o cidadão local, líder comunitário instruído pela Polícia Militar",
+    "o policial militar do bairro que orienta os moradores sobre prevenção primária",
+    "o grupo de pessoas que adota posturas preventivas individuais e coletivas",
+    "o cidadão local instruído pelos núcleos de mediação do Poder Judiciário"
+   ],
+   "correta": 0,
+   "explicacao": "O tutor é o cidadão local, tido como líder comunitário na vizinhança solidária, instruído pela Polícia Militar acerca da prevenção primária e das ações correspondentes, para atuar preventivamente e incentivar os demais vizinhos a assim agirem.",
+   "tags": [
+    "pvs",
+    "conceitos",
+    "tutor"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-059",
+   "subtema": "PVS — conceitos",
+   "artigo": "Dtz PM3-002/02/13 — Visita comunitária",
+   "enunciado": "A visita comunitária é definida como o contato periódico de policial militar com integrantes da comunidade, com a finalidade de estreitar relações e criar vínculos de confiança mútua, podendo ser realizada",
+   "alternativas": [
+    "pelos Programas de Policiamento Comunitário e Escolar, em conjunto",
+    "exclusivamente pelo Programa de Policiamento Comunitário da área territorial",
+    "por meio de qualquer Programa de Policiamento instituído pela Polícia Militar",
+    "pelos Programas de Policiamento Comunitário e de Radiopatrulha, alternadamente"
+   ],
+   "correta": 2,
+   "explicacao": "Embora o conceito mencione o policial do Programa de Policiamento Comunitário, a Diretriz esclarece que, para favorecer o sucesso do PVS, a visita comunitária poderá ser realizada por meio de qualquer Programa de Policiamento instituído pela Instituição.",
+   "tags": [
+    "pvs",
+    "conceitos",
+    "visita-comunitaria"
+   ]
+  },
+  {
+   "id": "pazprot-elab-060",
+   "subtema": "PVS — conceitos",
+   "artigo": "Dtz PM3-002/02/13 — Visita solidária",
+   "enunciado": "O contato de policial militar com vítima de ocorrência policial, previamente analisada e triada pelo Comandante da OPM, visando demonstrar conhecimento do fato e solidariedade, denomina-se",
+   "alternativas": [
+    "prevenção secundária, voltada às vítimas de crimes já consumados",
+    "visita comunitária, destinada a estreitar relações com a comunidade atendida",
+    "pronta resposta, providência imediata ao registro da ocorrência policial",
+    "visita solidária, modalidade prevista na Diretriz do Programa Vizinhança Solidária"
+   ],
+   "correta": 3,
+   "explicacao": "A visita solidária dirige-se à vítima de ocorrência previamente triada pelo Cmt OPM, esclarecendo os esforços da Instituição e orientando sobre medidas de prevenção primária. A visita comunitária, por sua vez, dirige-se ao tutor e à comunidade.",
+   "tags": [
+    "pvs",
+    "conceitos",
+    "visita-solidaria"
+   ]
+  },
+  {
+   "id": "pazprot-elab-061",
+   "subtema": "PVS — conceitos",
+   "artigo": "Dtz PM3-002/02/13 — Prevenção primária",
+   "enunciado": "A prevenção primária, na Diretriz do PVS, consiste no conjunto de ações destinadas a evitar ou reduzir a ocorrência e a intensidade de infrações penais e perturbações da ordem por meio",
+   "alternativas": [
+    "do aumento do efetivo policial empregado nos logradouros com maiores índices criminais",
+    "da repressão imediata às infrações praticadas na comunidade atendida pelo programa",
+    "da identificação, avaliação, remoção ou redução das condições propícias ou fatores precursores",
+    "da mediação de conflitos entre vizinhos conduzida pelo tutor da vizinhança solidária"
+   ],
+   "correta": 2,
+   "explicacao": "A prevenção primária opera sobre condições propícias e fatores precursores, mediante identificação, avaliação, remoção ou redução, visando minimizar o dano à vida, à integridade física, à propriedade e ao ambiente.",
+   "tags": [
+    "pvs",
+    "conceitos",
+    "prevencao-primaria"
+   ]
+  },
+  {
+   "id": "pazprot-elab-062",
+   "subtema": "PVS — visitas",
+   "artigo": "Dtz PM3-002/02/13 — Prazo da visita solidária",
+   "enunciado": "Para que a visita solidária produza o efeito desejado, a Diretriz recomenda que seja realizada em período não superior a",
+   "alternativas": [
+    "dois dias contados da liberação do token do boletim eletrônico",
+    "um dia contado da data do ocorrido",
+    "dois dias contados da data do ocorrido",
+    "cinco dias contados do registro da ocorrência policial"
+   ],
+   "correta": 2,
+   "explicacao": "O prazo recomendado é de até dois dias da data do ocorrido, sugerindo-se ainda que a guarnição designada seja a mesma rotineiramente escalada no subsetor onde se deu a ocorrência.",
+   "tags": [
+    "pvs",
+    "visitas",
+    "prazo"
+   ]
+  },
+  {
+   "id": "pazprot-elab-063",
+   "subtema": "PVS — visitas",
+   "artigo": "Dtz PM3-002/02/13 — Execução da visita solidária",
+   "enunciado": "Sobre a execução da visita solidária, a Diretriz estabelece que",
+   "alternativas": [
+    "somente pode ser realizada após autorização expressa da vítima da ocorrência",
+    "deve ser realizada obrigatoriamente por oficial da Companhia responsável pela área",
+    "cabe exclusivamente ao efetivo do Programa de Policiamento Comunitário executá-la",
+    "sugere-se que seja feita pela guarnição rotineiramente escalada no subsetor da ocorrência"
+   ],
+   "correta": 3,
+   "explicacao": "A visita solidária pode ser executada por qualquer dos Programas de Policiamento, sugerindo-se que a guarnição designada seja a mesma rotineiramente escalada no subsetor onde ocorreu o fato, o que reforça o vínculo com a comunidade.",
+   "tags": [
+    "pvs",
+    "visitas",
+    "execucao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-064",
+   "subtema": "PVS — visitas",
+   "artigo": "Dtz PM3-002/02/13 — Material institucional",
+   "enunciado": "Ao término da visita solidária, entre outras medidas determinadas pelo Comandante da OPM, os policiais deverão entregar à vítima",
+   "alternativas": [
+    "placa de identificação do PVS, para fixação na entrada de sua residência",
+    "cópia do boletim de ocorrência registrado, com orientação sobre os prazos processuais",
+    "cartão com o telefone funcional do comandante da companhia responsável pela área",
+    "material impresso com conteúdo institucional específico do PVS, criado pelo CComSoc"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz prevê a entrega de material impresso com conteúdo institucional específico do PVS, criado pelo CComSoc. A placa, por sua vez, é custeada pela iniciativa privada e fixada segundo critérios próprios.",
+   "tags": [
+    "pvs",
+    "visitas",
+    "material"
+   ]
+  },
+  {
+   "id": "pazprot-elab-065",
+   "subtema": "PVS — visitas",
+   "artigo": "Dtz PM3-002/02/13 — Parâmetros da visita solidária",
+   "enunciado": "O Comandante da OPM poderá determinar a realização de visita solidária considerando, entre outros parâmetros,",
+   "alternativas": [
+    "a participação prévia da vítima nas reuniões do CONSEG da respectiva região",
+    "a condição econômica da vítima e a existência de seguro sobre o bem subtraído",
+    "o tipo ou a gravidade da ocorrência e a incidência criminal na área onde ocorreu",
+    "o número de ocorrências registradas pela mesma vítima nos últimos doze meses"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz menciona expressamente o tipo ou a gravidade da ocorrência e a incidência criminal na área onde o fato ocorreu, entre outros parâmetros julgados pertinentes pelo Comandante da OPM.",
+   "tags": [
+    "pvs",
+    "visitas",
+    "parametros"
+   ]
+  },
+  {
+   "id": "pazprot-elab-066",
+   "subtema": "PVS — visitas",
+   "artigo": "Dtz PM3-002/02/13 — Finalidade da visita comunitária",
+   "enunciado": "A visita comunitária realizada ao tutor do PVS tem por finalidade precípua",
+   "alternativas": [
+    "coletar dados estatísticos sobre as ocorrências registradas na área do programa",
+    "fiscalizar o cumprimento das obrigações assumidas pelo tutor perante a comunidade",
+    "demonstrar o compromisso institucional e realçar a importância do tutor no programa",
+    "substituir as reuniões periódicas previstas com os representantes das entidades"
+   ],
+   "correta": 2,
+   "explicacao": "A visita ao tutor demonstra à comunidade atendida o compromisso da Instituição com os propósitos do programa e realça a importância do tutor, fornecendo-lhe motivação para continuar a desempenhar suas atribuições, podendo haver entrega de material institucional.",
+   "tags": [
+    "pvs",
+    "visitas",
+    "tutor"
+   ]
+  },
+  {
+   "id": "pazprot-elab-067",
+   "subtema": "PVS — responsabilidades",
+   "artigo": "Dtz PM3-002/02/13 — Responsabilidades da PMESP",
+   "enunciado": "Entre as responsabilidades da Polícia Militar no Programa Vizinhança Solidária inclui-se",
+   "alternativas": [
+    "realizar palestras de conscientização e de orientação sobre segurança",
+    "custear a confecção e a fixação das placas identificadoras do programa",
+    "definir o tutor entre os integrantes da comunidade atendida pelo programa",
+    "adquirir equipamentos de segurança e de comunicação para uso dos moradores"
+   ],
+   "correta": 0,
+   "explicacao": "Cabe à Polícia Militar contatar e propor o programa, realizar palestras de conscientização e de instrução sobre medidas básicas de segurança, realizar visitas comunitárias e solidárias e contatar periodicamente a comunidade para coleta de dados. A definição do tutor e o custeio das placas cabem à comunidade.",
+   "tags": [
+    "pvs",
+    "responsabilidades",
+    "pmesp"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-068",
+   "subtema": "PVS — responsabilidades",
+   "artigo": "Dtz PM3-002/02/13 — Responsabilidades da comunidade",
+   "enunciado": "Compete à comunidade, no Programa Vizinhança Solidária,",
+   "alternativas": [
+    "organizar-se para mobilizar seus integrantes e definir o tutor entre eles",
+    "elaborar o manual de autoproteção distribuído nas palestras do programa",
+    "estabelecer os critérios técnicos de escolha dos logradouros atendidos",
+    "monitorar as estatísticas criminais dos logradouros onde o programa funciona"
+   ],
+   "correta": 0,
+   "explicacao": "À comunidade cabe organizar-se para mobilizar seus integrantes e definir o tutor, a quem incumbe participar das reuniões do CONSEG, mobilizar a vizinhança, acionar o 190 diante de atitudes suspeitas, zelar pelas placas e custear equipamentos e a própria sinalização do programa.",
+   "tags": [
+    "pvs",
+    "responsabilidades",
+    "comunidade"
+   ]
+  },
+  {
+   "id": "pazprot-elab-069",
+   "subtema": "PVS — tutor",
+   "artigo": "Dtz PM3-002/02/13 — Atribuições do tutor",
+   "enunciado": "Entre as atribuições do tutor previstas na Diretriz não se inclui",
+   "alternativas": [
+    "zelar pela manutenção das placas de identificação do programa",
+    "acionar a Polícia Militar pelo 190 diante de pessoas em atitude suspeita",
+    "participar das reuniões do CONSEG local, onde houver esse colegiado",
+    "realizar rondas preventivas na vizinhança em apoio ao policiamento ostensivo"
+   ],
+   "correta": 3,
+   "explicacao": "O tutor mobiliza a vizinhança, participa do CONSEG, aciona o 190, zela pelas placas e custeia equipamentos para uso próprio, mas não exerce atividade de patrulhamento, privativa da Polícia Militar.",
+   "tags": [
+    "pvs",
+    "tutor",
+    "atribuicoes"
+   ]
+  },
+  {
+   "id": "pazprot-elab-070",
+   "subtema": "PVS — placas",
+   "artigo": "Dtz PM3-002/02/13 — Custeio das placas",
+   "enunciado": "A placa identificadora do Programa Vizinhança Solidária, confeccionada em acrílico ou material similar, é",
+   "alternativas": [
+    "custeada integralmente pela iniciativa privada e constitui apenas um símbolo do programa",
+    "custeada pela Polícia Militar, por integrar o material institucional do programa",
+    "custeada pela prefeitura municipal, mediante convênio obrigatório com a OPM",
+    "dispensável, por não haver previsão de sinalização nos locais atendidos"
+   ],
+   "correta": 0,
+   "explicacao": "A placa é custeada integralmente pela iniciativa privada e constitui apenas um símbolo do programa, cuja essência está nas visitas, nas palestras e na mudança de comportamento da comunidade.",
+   "tags": [
+    "pvs",
+    "placas",
+    "custeio"
+   ]
+  },
+  {
+   "id": "pazprot-elab-071",
+   "subtema": "PVS — placas",
+   "artigo": "Dtz PM3-002/02/13 — Fixação das placas",
+   "enunciado": "Quanto à fixação das placas do Programa Vizinhança Solidária, a Diretriz prevê que sejam afixadas",
+   "alternativas": [
+    "em locais de fácil visualização, observada a legislação municipal e estadual",
+    "exclusivamente em postes de iluminação pública, independentemente de autorização",
+    "somente no interior das propriedades particulares, vedada a via pública",
+    "em qualquer local escolhido pelo tutor, por se tratar de bem privado"
+   ],
+   "correta": 0,
+   "explicacao": "As placas são afixadas em locais de fácil visualização, preferencialmente em postes de iluminação nos municípios que o permitem ou na entrada de propriedades particulares, observadas as legislações municipal e estadual, sendo o proprietário participante das reuniões comunitárias.",
+   "tags": [
+    "pvs",
+    "placas",
+    "fixacao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-072",
+   "subtema": "PVS — placas",
+   "artigo": "Dtz PM3-002/02/13 — Legislação municipal restritiva",
+   "enunciado": "Nos municípios cuja legislação restrinja o uso da placa ou não recepcione o modelo instituído pela Diretriz,",
+   "alternativas": [
+    "fica vedada a implantação do PVS naquele município enquanto durar a restrição",
+    "promovem-se tratativas com o poder público municipal visando convênio regularizador",
+    "a placa poderá ser fixada mesmo assim, por prevalecer a norma estadual sobre a local",
+    "a OPM deverá custear placas em modelo diverso, adequado à legislação local"
+   ],
+   "correta": 1,
+   "explicacao": "A solução prevista é promover tratativas junto ao poder público municipal visando à realização de convênio para regularizar a utilização da placa, preservando-se o desenvolvimento do programa.",
+   "tags": [
+    "pvs",
+    "placas",
+    "municipio"
+   ]
+  },
+  {
+   "id": "pazprot-elab-073",
+   "subtema": "PVS — implantação",
+   "artigo": "Dtz PM3-002/02/13 — Fatores para implantação",
+   "enunciado": "A implantação do PVS pelas OPM territoriais pressupõe a presença concomitante de fatores, entre os quais",
+   "alternativas": [
+    "autorização do Comando de Policiamento para cada logradouro contemplado",
+    "existência de convênio prévio entre a OPM e a prefeitura do município",
+    "disponibilidade de efetivo exclusivo para o desenvolvimento do programa",
+    "locais que se destacam na área da OPM pelos índices criminais apresentados"
+   ],
+   "correta": 3,
+   "explicacao": "Os fatores concomitantes são entidades comunitárias dispostas a mobilizar pessoas, pessoas interessadas em participar, locais que se destacam pelos índices criminais e o atendimento de ocorrências nos logradouros onde se desenvolve o programa.",
+   "tags": [
+    "pvs",
+    "implantacao",
+    "fatores"
+   ]
+  },
+  {
+   "id": "pazprot-elab-074",
+   "subtema": "PVS — implantação",
+   "artigo": "Dtz PM3-002/02/13 — Primeira fase",
+   "enunciado": "A primeira fase de implantação do PVS compreende reuniões de mobilização e palestras, destinadas, entre outros objetivos, a",
+   "alternativas": [
+    "monitorar as estatísticas criminais e a migração de delitos para outras áreas",
+    "definir os pontos de fixação das placas indicativas do programa nos logradouros",
+    "identificar lideranças, aproximar vizinhos e fazer emergir o tutor da localidade",
+    "firmar termo de compromisso entre a OPM e as entidades comunitárias locais"
+   ],
+   "correta": 2,
+   "explicacao": "Na primeira fase mobiliza-se a comunidade para identificar lideranças, aproximar os vizinhos, realizar palestras sobre prevenção primária, resgatar a percepção de segurança e fazer emergir o tutor que zelará pelas placas, sugerindo-se que a primeira reunião ocorra em local de reunião do CONSEG.",
+   "tags": [
+    "pvs",
+    "implantacao",
+    "fases"
+   ]
+  },
+  {
+   "id": "pazprot-elab-075",
+   "subtema": "PVS — implantação",
+   "artigo": "Dtz PM3-002/02/13 — Segunda e terceira fases",
+   "enunciado": "Quanto às fases de implantação do PVS, é correto afirmar que",
+   "alternativas": [
+    "as três fases são estanques, vedada a sobreposição entre elas no tempo",
+    "a segunda fase encerra o programa com a fixação das placas nos logradouros",
+    "a terceira fase antecede a implantação das placas nos locais selecionados",
+    "a terceira fase, de manutenção e mensuração, sobrepõe-se às demais"
+   ],
+   "correta": 3,
+   "explicacao": "A terceira fase, de manutenção e mensuração, sobrepõe-se às demais e compreende as visitas comunitárias ao tutor, as visitas solidárias, o ciclo de palestras e o monitoramento dos reflexos do programa no comportamento das pessoas e nas estatísticas criminais.",
+   "tags": [
+    "pvs",
+    "implantacao",
+    "fases"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-076",
+   "subtema": "PVS — implantação",
+   "artigo": "Dtz PM3-002/02/13 — Monitoramento",
+   "enunciado": "O monitoramento dos reflexos do PVS abrange, especialmente,",
+   "alternativas": [
+    "o número de placas fixadas e o valor investido pela iniciativa privada no programa",
+    "as estatísticas criminais dos logradouros e a migração dos delitos para outros locais",
+    "a quantidade de tutores cadastrados e o tempo médio de resposta às ocorrências",
+    "a frequência dos moradores às reuniões do CONSEG da respectiva região"
+   ],
+   "correta": 1,
+   "explicacao": "O monitoramento examina o comportamento das pessoas participantes quanto ao envolvimento nas questões de segurança e as estatísticas criminais dos logradouros onde o programa foi implantado, inclusive a migração dos delitos para outros locais, o que pode identificar novas AISP.",
+   "tags": [
+    "pvs",
+    "implantacao",
+    "monitoramento"
+   ]
+  },
+  {
+   "id": "pazprot-elab-077",
+   "subtema": "PVS — execução",
+   "artigo": "Dtz PM3-002/02/13 — Efetivo empregado",
+   "enunciado": "Quanto ao efetivo empregado no PVS, a Diretriz estabelece que",
+   "alternativas": [
+    "o programa pode ser implantado por meio de qualquer Programa de Policiamento",
+    "somente o efetivo do Programa de Policiamento Comunitário pode desenvolvê-lo",
+    "deve ser constituída equipe exclusiva, com escala e horário próprios de serviço",
+    "as palestras devem ser ministradas exclusivamente por oficiais da unidade"
+   ],
+   "correta": 0,
+   "explicacao": "O PVS pode ser implantado por qualquer Programa de Policiamento, podendo-se designar o efetivo do Policiamento Comunitário para as visitas. Para as palestras sugerem-se policiais, oficiais ou praças, com conhecimento do assunto e desenvoltura para falar em público.",
+   "tags": [
+    "pvs",
+    "execucao",
+    "efetivo"
+   ]
+  },
+  {
+   "id": "pazprot-elab-078",
+   "subtema": "PVS — execução",
+   "artigo": "Dtz PM3-002/02/13 — Atendimento de ocorrências",
+   "enunciado": "A implantação do PVS em determinada comunidade",
+   "alternativas": [
+    "dispensa o acionamento pelo 190 nas solicitações feitas pelo tutor do programa",
+    "assegura prioridade no atendimento das ocorrências registradas na localidade",
+    "permite acionamento direto da guarnição do subsetor por telefone funcional",
+    "não pressupõe atendimento emergencial diferenciado nem preferência nos serviços"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz é expressa ao afirmar que a implantação não pressupõe atendimento emergencial diferenciado nem preferência nos serviços prestados, devendo toda e qualquer solicitação de atendimento ser feita pelo telefone de emergência 190.",
+   "tags": [
+    "pvs",
+    "execucao",
+    "atendimento"
+   ]
+  },
+  {
+   "id": "pazprot-elab-079",
+   "subtema": "PVS — execução",
+   "artigo": "Dtz PM3-002/02/13 — Cartão de prioridade",
+   "enunciado": "Entre as providências da OPM territorial no desenvolvimento do PVS inclui-se",
+   "alternativas": [
+    "fixar rota exclusiva de patrulhamento nos logradouros atendidos pelo programa",
+    "incluir nos cartões de prioridade de patrulhamento das viaturas os locais do programa",
+    "manter viatura estacionada de forma permanente na comunidade atendida",
+    "destacar policial residente na comunidade para acompanhamento diário do tutor"
+   ],
+   "correta": 1,
+   "explicacao": "A OPM territorial inclui nos cartões de prioridade de patrulhamento das viaturas os locais onde se desenvolve o PVS, demonstrando à comunidade o compromisso institucional, sem que isso implique atendimento diferenciado nas emergências.",
+   "tags": [
+    "pvs",
+    "execucao",
+    "cpp"
+   ]
+  },
+  {
+   "id": "pazprot-elab-080",
+   "subtema": "PVS — execução",
+   "artigo": "Dtz PM3-002/02/13 — Reuniões periódicas",
+   "enunciado": "A OPM territorial deve reunir-se com tutores e representantes das entidades apoiadoras do PVS, para avaliação e aperfeiçoamento das ações,",
+   "alternativas": [
+    "a cada seis meses, na segunda quinzena de junho e de dezembro",
+    "a cada seis meses, na primeira quinzena de junho e de dezembro",
+    "a cada três meses, na segunda quinzena de abril, junho, setembro e dezembro",
+    "mensalmente, em data diversa da reunião de análise crítica de indicadores"
+   ],
+   "correta": 0,
+   "explicacao": "A periodicidade é semestral, na segunda quinzena de junho e de dezembro, devendo a OPM encaminhar, via canal de comando, relatório circunstanciado ao respectivo Grande Comando para posterior envio à DPCDH.",
+   "tags": [
+    "pvs",
+    "execucao",
+    "reunioes"
+   ]
+  },
+  {
+   "id": "pazprot-elab-081",
+   "subtema": "PVS — atribuições",
+   "artigo": "Dtz PM3-002/02/13 — Comandante de Companhia",
+   "enunciado": "A responsabilidade gerencial sobre o Programa Vizinhança Solidária, com reporte dos resultados pelo canal de comando à DPCDH, cabe",
+   "alternativas": [
+    "ao Comandante do Batalhão, que centraliza todas as informações do programa na unidade",
+    "ao Comandante de Companhia, quanto aos contatos, reuniões, palestras e implantação na subárea",
+    "ao Coordenador de Operações do Batalhão, responsável pelo monitoramento estatístico",
+    "ao Comandante de Policiamento de Área, que consolida os dados das unidades subordinadas"
+   ],
+   "correta": 1,
+   "explicacao": "O Cmt de Cia detém a responsabilidade gerencial sobre o PVS, reportando pelo canal de comando os contatos com as comunidades selecionadas, as reuniões de mobilização, as palestras realizadas em sua subárea, as ações de implantação e as medidas de manutenção e mensuração do programa.",
+   "tags": [
+    "pvs",
+    "atribuicoes",
+    "cmt-cia"
+   ]
+  },
+  {
+   "id": "pazprot-elab-082",
+   "subtema": "PVS — atribuições",
+   "artigo": "Dtz PM3-002/02/13 — Comandos de Policiamento",
+   "enunciado": "Aos Comandos de Policiamento de Área, Metropolitano e do Interior compete, no PVS,",
+   "alternativas": [
+    "monitorar o programa na região de comando e informar à DPCDH quando solicitado",
+    "criar o material impresso institucional distribuído nas visitas comunitárias e solidárias",
+    "manter a relação detalhada e atualizada das OPM que desenvolvem o programa",
+    "elaborar o plano de comunicação específico para divulgação do programa na mídia"
+   ],
+   "correta": 0,
+   "explicacao": "Os Comandos de Policiamento recebem as informações das OPM subordinadas, encaminham-nas à DPCDH e monitoram o programa em sua região, acompanhando os reflexos nas estatísticas criminais e no emprego operacional dos efetivos, informando à DPCDH quando solicitado.",
+   "tags": [
+    "pvs",
+    "atribuicoes",
+    "comandos"
+   ]
+  },
+  {
+   "id": "pazprot-elab-083",
+   "subtema": "PVS — atribuições",
+   "artigo": "Dtz PM3-002/02/13 — DPCDH",
+   "enunciado": "Manter a relação detalhada e atualizada das OPM que desenvolvem o PVS, remetendo-a ao Coord Op PM quando solicitado, e manter atualizados os dados sobre locais atendidos, tutores e estatística criminal, é incumbência",
+   "alternativas": [
+    "da Coordenadoria de Operações da Polícia Militar",
+    "do Centro de Comunicação Social da Polícia Militar",
+    "do Centro de Inteligência da Polícia Militar do Estado",
+    "da Diretoria de Polícia Comunitária e Direitos Humanos"
+   ],
+   "correta": 3,
+   "explicacao": "A DPCDH recebe as informações das OPM, monitora os reflexos do programa na execução do policiamento comunitário, mantém o Coord Op PM informado e conserva atualizada a relação das unidades, dos locais atendidos, dos tutores e das estatísticas criminais.",
+   "tags": [
+    "pvs",
+    "atribuicoes",
+    "dpcdh"
+   ]
+  },
+  {
+   "id": "pazprot-elab-084",
+   "subtema": "PVS — atribuições",
+   "artigo": "Dtz PM3-002/02/13 — CComSoc",
+   "enunciado": "Compete ao Centro de Comunicação Social, no Programa Vizinhança Solidária,",
+   "alternativas": [
+    "manter atualizada a identificação dos tutores das comunidades atendidas",
+    "monitorar os reflexos do programa nas estatísticas criminais dos locais atendidos",
+    "elaborar estratégias de divulgação e criar o material impresso específico do programa",
+    "avaliar os pedidos de implantação formulados pelas entidades comunitárias"
+   ],
+   "correta": 2,
+   "explicacao": "Ao CComSoc cabe elaborar as estratégias de divulgação por meio de plano de comunicação específico e criar o material impresso do PVS a ser distribuído pelas OPM nas visitas solidária e comunitária, além de fornecer subsídios quando solicitado.",
+   "tags": [
+    "pvs",
+    "atribuicoes",
+    "ccomsoc"
+   ]
+  },
+  {
+   "id": "pazprot-elab-085",
+   "subtema": "PVS — atribuições",
+   "artigo": "Dtz PM3-002/02/13 — 3ª EM/PM",
+   "enunciado": "O exame de eventuais sugestões de alteração da Diretriz do PVS, com assessoramento ao Comando Geral quanto à necessidade de ajustes, compete",
+   "alternativas": [
+    "aos Comandos de Policiamento que desenvolvem o programa",
+    "à Diretoria de Polícia Comunitária e Direitos Humanos",
+    "ao Centro de Inteligência da Polícia Militar do Estado",
+    "à Terceira Seção do Estado-Maior da Polícia Militar"
+   ],
+   "correta": 3,
+   "explicacao": "À 3ª EM/PM cabe examinar sugestões de alterações na Diretriz e assessorar o Comando Geral na deliberação sobre a necessidade de ajustes, enquanto a DPCDH concentra o acompanhamento gerencial e a Coord Op PM é mantida informada.",
+   "tags": [
+    "pvs",
+    "atribuicoes",
+    "3em"
+   ]
+  },
+  {
+   "id": "pazprot-elab-086",
+   "subtema": "PVS — atribuições",
+   "artigo": "Dtz PM3-002/02/13 — Coord Op PM",
+   "enunciado": "No Programa Vizinhança Solidária, cabe à Coordenadoria de Operações da Polícia Militar",
+   "alternativas": [
+    "aprovar previamente a implantação do programa em cada logradouro selecionado",
+    "criar o material institucional distribuído aos tutores nas visitas comunitárias",
+    "designar o efetivo das OPM territoriais que desenvolverá as visitas solidárias",
+    "acompanhar o programa e manter o Subcomandante PM informado dos reflexos"
+   ],
+   "correta": 3,
+   "explicacao": "A Coord Op PM acompanha o programa e mantém o Subcmt PM informado, avaliando seus reflexos no emprego operacional. A designação de efetivo é da OPM territorial e a criação do material, do CComSoc.",
+   "tags": [
+    "pvs",
+    "atribuicoes",
+    "coordoppm"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-087",
+   "subtema": "PVS — critérios",
+   "artigo": "Dtz PM3-002/02/13 — Decisão sobre a implantação",
+   "enunciado": "A decisão favorável ou não à implantação do Programa Vizinhança Solidária, mesmo diante da espontaneidade de integrantes da comunidade, deve obedecer",
+   "alternativas": [
+    "a critérios eminentemente técnicos e isentos de influências político-partidárias",
+    "à ordem cronológica dos pedidos formulados pelas entidades comunitárias",
+    "à deliberação do CONSEG local, ouvido o Comandante da OPM territorial",
+    "à disponibilidade orçamentária da unidade para custeio das placas do programa"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz exige critérios eminentemente técnicos e isentos de influências político-partidárias, o que preserva a impessoalidade na seleção das comunidades atendidas, ainda que haja interesse espontâneo de moradores.",
+   "tags": [
+    "pvs",
+    "criterios",
+    "impessoalidade"
+   ]
+  },
+  {
+   "id": "pazprot-elab-088",
+   "subtema": "PVS — critérios",
+   "artigo": "Dtz PM3-002/02/13 — Identificação das áreas",
+   "enunciado": "Detectados os fatores que indicam a conveniência do PVS, o Comandante da OPM deverá",
+   "alternativas": [
+    "consultar a prefeitura sobre os logradouros com maior demanda de iluminação pública",
+    "utilizar ferramentas de inteligência policial para identificar as AISP mais propícias",
+    "submeter a escolha ao CONSEG, que deliberará sobre os bairros contemplados",
+    "distribuir o programa uniformemente entre todas as subáreas da unidade"
+   ],
+   "correta": 1,
+   "explicacao": "O Comandante utiliza as ferramentas de inteligência policial para identificar as AISP cujos bairros, logradouros e ruas sejam os mais propícios à implantação, seguindo-se as fases de mobilização, implantação e manutenção do programa.",
+   "tags": [
+    "pvs",
+    "criterios",
+    "aisp"
+   ]
+  },
+  {
+   "id": "pazprot-elab-089",
+   "subtema": "PVS — medidas de sucesso",
+   "artigo": "Dtz PM3-002/02/13 — Medidas importantes",
+   "enunciado": "Entre as medidas apontadas como importantes para o sucesso do PVS inclui-se",
+   "alternativas": [
+    "a distribuição de equipamentos de segurança eletrônica aos moradores cadastrados",
+    "a fixação de metas de redução criminal para as comunidades atendidas pelo programa",
+    "a designação de policial militar residente na comunidade onde o programa funciona",
+    "o cadastro de tutores e voluntários que possam multiplicar as ações de prevenção primária"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz arrola o pronto atendimento às solicitações da comunidade, o cadastro de tutores e voluntários, as visitas periódicas e sistematizadas, a divulgação na mídia local e o envolvimento de outros órgãos públicos e de OPM ambientais, rodoviárias e de bombeiros.",
+   "tags": [
+    "pvs",
+    "sucesso",
+    "medidas"
+   ]
+  },
+  {
+   "id": "pazprot-elab-090",
+   "subtema": "PVS — medidas de sucesso",
+   "artigo": "Dtz PM3-002/02/13 — Envolvimento de outros órgãos",
+   "enunciado": "O envolvimento de outros órgãos públicos no PVS, especialmente quanto a obras de saneamento cujas deficiências afetem a segurança,",
+   "alternativas": [
+    "é vedado, por extrapolar as atribuições institucionais da Polícia Militar",
+    "depende de convênio formal firmado entre a OPM e a concessionária responsável",
+    "compete exclusivamente ao CONSEG, na condição de colegiado comunitário",
+    "pode ensejar a elaboração do Relatório de Análise de Irregularidades Ambientais"
+   ],
+   "correta": 3,
+   "explicacao": "A Diretriz menciona que as deficiências em obras de saneamento podem ensejar a elaboração do RAIA, instrumento pelo qual a Polícia Militar reporta irregularidades aos órgãos competentes, além do envolvimento de OPM ambientais, rodoviárias e de bombeiros onde couber.",
+   "tags": [
+    "pvs",
+    "sucesso",
+    "raia"
+   ]
+  },
+  {
+   "id": "pazprot-elab-091",
+   "subtema": "PVS — palestras",
+   "artigo": "Dtz PM3-002/02/13 — Temas das palestras",
+   "enunciado": "Entre os temas previstos para as palestras do PVS, constantes de anexo da Diretriz, inclui-se",
+   "alternativas": [
+    "as técnicas de abordagem policial aplicáveis a pessoas em atitude suspeita",
+    "o que é o tutor, quais as funções da placa e o que é prevenção primária",
+    "os procedimentos para registro de boletim de ocorrência eletrônico pela vítima",
+    "as penas cominadas aos crimes patrimoniais mais frequentes na região"
+   ],
+   "correta": 1,
+   "explicacao": "Os temas abrangem o que é o PVS, por que a comunidade foi selecionada, o que são as visitas e como são realizadas, as responsabilidades da PM e da comunidade, quem é o tutor, as funções da placa e o conceito de prevenção primária.",
+   "tags": [
+    "pvs",
+    "palestras",
+    "temas"
+   ]
+  },
+  {
+   "id": "pazprot-elab-092",
+   "subtema": "PVS — palestras",
+   "artigo": "Dtz PM3-002/02/13 — Local das palestras",
+   "enunciado": "Quanto ao local das reuniões e palestras da primeira fase do PVS, a Diretriz",
+   "alternativas": [
+    "impõe a realização no interior da comunidade atendida, sem exceção",
+    "exige que todas ocorram na sede da OPM territorial responsável pela área",
+    "veda a realização em imóveis particulares, ainda que cedidos pela comunidade",
+    "admite qualquer local com estrutura condizente, sugerindo-se o CONSEG"
+   ],
+   "correta": 3,
+   "explicacao": "As reuniões podem ocorrer em qualquer local com estrutura condizente, sugerindo-se que ao menos a primeira seja nos locais de reunião do CONSEG, enaltecendo sua importância no programa.",
+   "tags": [
+    "pvs",
+    "palestras",
+    "local"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-093",
+   "subtema": "PVS — programas semelhantes",
+   "artigo": "Dtz PM3-002/02/13 — Alinhamento",
+   "enunciado": "As unidades que já desenvolvem programas semelhantes ao PVS devem",
+   "alternativas": [
+    "alinhá-los ao modelo instituído, sem prejudicar vínculos de confiança e resultados alcançados",
+    "encerrá-los imediatamente e reiniciar as atividades conforme o novo modelo",
+    "mantê-los inalterados, por força do princípio da continuidade das ações comunitárias",
+    "submetê-los à aprovação da DPCDH antes de qualquer adequação ao modelo"
+   ],
+   "correta": 0,
+   "explicacao": "As unidades devem adotar as medidas necessárias ao perfeito alinhamento e adequação ao modelo instituído, desde que isso não prejudique os vínculos de confiança desenvolvidos e os resultados alcançados, comunicando a situação ao escalão superior.",
+   "tags": [
+    "pvs",
+    "alinhamento"
+   ]
+  },
+  {
+   "id": "pazprot-elab-094",
+   "subtema": "PVS — objetivos",
+   "artigo": "Dtz PM3-002/02/13 — Objetivos do programa",
+   "enunciado": "Entre os objetivos do Programa Vizinhança Solidária previstos na Diretriz inclui-se",
+   "alternativas": [
+    "a substituição do policiamento ostensivo por ações de autoproteção comunitária",
+    "a criação de núcleos de vigilância privada custeados pelos moradores da comunidade",
+    "a aproximação entre vizinhos para o desenvolvimento do sentimento de pertencimento social",
+    "a formação de banco de dados sobre moradores para uso das agências de inteligência"
+   ],
+   "correta": 2,
+   "explicacao": "Os objetivos abrangem fornecer subsídios aos comandantes de OPM territoriais para aproximação com a comunidade, prevenção primária, medidas básicas de segurança pessoal e comunitária, aproximação entre vizinhos com sentimento de pertencimento social e integração do policiamento ostensivo com a comunidade.",
+   "tags": [
+    "pvs",
+    "objetivos"
+   ]
+  },
+  {
+   "id": "pazprot-elab-095",
+   "subtema": "PVS — objetivos",
+   "artigo": "Dtz PM3-002/02/13 — Situação",
+   "enunciado": "A situação descrita na Diretriz para justificar o PVS destaca que a interação entre a Polícia Militar e a sociedade melhora",
+   "alternativas": [
+    "a arrecadação de recursos privados para custeio das ações de policiamento local",
+    "o tempo de resposta às ocorrências e a produtividade dos autos de infração lavrados",
+    "a prevenção primária, o monitoramento de estranhos e o rápido acionamento do policiamento",
+    "a fiscalização das posturas municipais nos estabelecimentos comerciais da região"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz menciona a melhoria da prevenção primária, da segurança individual e coletiva, do monitoramento de pessoas estranhas ao ambiente e do rápido acionamento do policiamento local, com reflexos na percepção de segurança e na qualidade de vida.",
+   "tags": [
+    "pvs",
+    "situacao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-096",
+   "subtema": "PVS — execução",
+   "artigo": "Dtz PM3-002/02/13 — Manual de autoproteção",
+   "enunciado": "As palestras de instrução e orientação sobre medidas básicas de segurança pessoal e comunitária, previstas entre as responsabilidades da Polícia Militar, têm por referência",
+   "alternativas": [
+    "o plano de comunicação social elaborado pelo CComSoc para divulgação do programa",
+    "o manual de autoproteção, voltado a dissuadir ações delituosas e reduzir índices criminais",
+    "o cartão de prioridade de patrulhamento adotado pelas viaturas da área territorial",
+    "o relatório circunstanciado semestral remetido ao Grande Comando da unidade"
+   ],
+   "correta": 1,
+   "explicacao": "A Diretriz remete ao manual de autoproteção como referência das orientações sobre medidas básicas de segurança pessoal e comunitária, cujo propósito é dissuadir a prática de ações delituosas e reduzir os índices criminais.",
+   "tags": [
+    "pvs",
+    "execucao",
+    "autoprotecao"
+   ]
+  },
+  {
+   "id": "pazprot-elab-097",
+   "subtema": "PVS — execução",
+   "artigo": "Dtz PM3-002/02/13 — Coleta de dados",
+   "enunciado": "O contato periódico com a comunidade, previsto entre as responsabilidades da Polícia Militar, visa à coleta de dados sobre locais e horários de maior criminalidade,",
+   "alternativas": [
+    "restringindo-se aos fatos formalmente registrados em boletim de ocorrência",
+    "especialmente quanto aos casos não registrados nos órgãos policiais",
+    "exclusivamente para instruir os relatórios semestrais remetidos à DPCDH",
+    "apenas quando houver solicitação expressa do Comando de Policiamento"
+   ],
+   "correta": 1,
+   "explicacao": "A coleta alcança especialmente os casos não registrados nos órgãos policiais, o que permite o devido monitoramento e a busca de redução dos indicadores criminais, revelando a chamada cifra oculta da criminalidade local.",
+   "tags": [
+    "pvs",
+    "execucao",
+    "dados"
+   ]
+  },
+  {
+   "id": "pazprot-elab-098",
+   "subtema": "Síntese",
+   "artigo": "NI PM3-001/02/20 e Dtz PM3-002/02/13",
+   "enunciado": "Comparados os dois instrumentos normativos, é correto afirmar que",
+   "alternativas": [
+    "ambos disciplinam o controle de multidões em eventos populares de grande porte",
+    "a Nota trata de perturbação de sossego e a Diretriz, de prevenção primária",
+    "ambos são de aplicação exclusiva das OPM territoriais da região metropolitana",
+    "a Diretriz revogou a Nota de Instrução no que se refere à atuação comunitária"
+   ],
+   "correta": 1,
+   "explicacao": "A NI PM3-001/02/20 disciplina a atuação em eventos de perturbação de sossego, com ênfase na gestão antecipada e na Operação Paz e Proteção; a Dtz PM3-002/02/13 regula o PVS, voltado à prevenção primária e à mobilização comunitária. São normas complementares, não revogadoras entre si.",
+   "tags": [
+    "pazprot",
+    "pvs",
+    "sintese"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-099",
+   "subtema": "Síntese",
+   "artigo": "NI PM3-001/02/20 — Papel comunitário",
+   "enunciado": "O envolvimento de lideranças comunitárias e do CONSEG aparece nas duas normas estudadas, respectivamente, como",
+   "alternativas": [
+    "integrantes do Comitê de Governança Local e parceiros na mobilização do PVS",
+    "responsáveis pelo comando das operações e pela fiscalização administrativa",
+    "titulares do poder de polícia delegado pela Polícia Militar às comunidades",
+    "órgãos de execução subordinados ao Comandante da OPM territorial"
+   ],
+   "correta": 0,
+   "explicacao": "Na NI, CONSEG e lideranças comunitárias integram o Comitê de Governança Local; na Diretriz do PVS, são parceiros na mobilização da comunidade, sugerindo-se que a primeira reunião do programa ocorra em local de reunião do CONSEG.",
+   "tags": [
+    "pazprot",
+    "pvs",
+    "conseg"
+   ]
+  },
+  {
+   "id": "pazprot-elab-100",
+   "subtema": "Síntese",
+   "artigo": "NI PM3-001/02/20 — Documentos por fase",
+   "enunciado": "Relacionando cada documento à respectiva fase, tem-se que o esboço emergencial é produzido",
+   "alternativas": [
+    "na Operação Paz e Proteção, especificamente na modalidade evento imprevisto",
+    "na fase de gestão antecipada, a partir da tabela de eventos programados",
+    "na fase de planejamento prévio, em substituição ao plano de ação",
+    "após o encerramento da operação, como anexo do relatório final"
+   ],
+   "correta": 0,
+   "explicacao": "O esboço emergencial é documento da própria Operação Paz e Proteção, especificamente na modalidade evento imprevisto, ao passo que as planilhas de governança, eventos programados e matriz de risco pertencem à gestão antecipada e o plano de ação, ao planejamento prévio.",
+   "tags": [
+    "pazprot",
+    "documentos",
+    "fases"
+   ]
+  },
+  {
+   "id": "pazprot-elab-101",
+   "subtema": "Síntese",
+   "artigo": "NI PM3-001/02/20 — Aplicação prática",
+   "enunciado": "Companhia recebe informação de que ocorrerá, no fim de semana seguinte, evento com promoção de som em logradouro já conhecido pela emissão excessiva de ruídos. A providência inicial correta é",
+   "alternativas": [
+    "verificar a matriz de risco e providenciar o plano de ação em tempo hábil",
+    "aguardar o acionamento pelo 190 para desencadear a Operação Paz e Proteção no local",
+    "elaborar esboço emergencial e mobilizar a FATO para ocupação imediata do terreno",
+    "encaminhar expediente ao Ministério Público solicitando a proibição do evento"
+   ],
+   "correta": 0,
+   "explicacao": "Tratando-se de evento programado, aplica-se a sequência das fases: a matriz de risco orienta a delegação do planejamento e fundamenta o plano de ação, com acionamento tempestivo dos integrantes do Comitê. O esboço emergencial e o expediente obrigatório ao MP são próprios do evento imprevisto.",
+   "tags": [
+    "pazprot",
+    "aplicacao",
+    "programado"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-102",
+   "subtema": "Síntese",
+   "artigo": "NI PM3-001/02/20 — Aplicação prática",
+   "enunciado": "Durante evento imprevisto, após tentativas de solução negociada, a guarnição emprega gás pimenta para dispersar grupo hostil. Além das medidas operacionais, impõe-se",
+   "alternativas": [
+    "apenas o registro do emprego no boletim de ocorrência da unidade responsável",
+    "a imediata investigação preliminar e o expediente ao Ministério Público",
+    "a instauração de sindicância pelo Comandante da Companhia em cinco dias",
+    "a comunicação exclusiva à Corregedoria, dispensado o expediente ministerial"
+   ],
+   "correta": 1,
+   "explicacao": "O emprego de gás pimenta, entre outros meios, impõe a imediata instauração de investigação preliminar pelo Coord Op Btl ou pelo Supervisor Regional; e, tratando-se de evento imprevisto, o Cmt OPM encaminha expediente ao Ministério Público independentemente do uso da força.",
+   "tags": [
+    "pazprot",
+    "aplicacao",
+    "imprevisto"
+   ],
+   "revisada": "2026-09-13"
+  },
+  {
+   "id": "pazprot-elab-103",
+   "subtema": "Síntese",
+   "artigo": "Dtz PM3-002/02/13 — Aplicação prática",
+   "enunciado": "Morador de comunidade atendida pelo PVS solicita que a guarnição do subsetor lhe forneça número de telefone funcional para acionamento direto, dispensando o 190. A resposta correta, à luz da Diretriz, é",
+   "alternativas": [
+    "que o acionamento direto é permitido nos horários em que houver viatura na área",
+    "que o acionamento direto é possível apenas para o tutor da vizinhança solidária",
+    "que toda solicitação de atendimento deve ser feita pelo telefone de emergência 190",
+    "que o morador deve encaminhar o pedido ao CONSEG para deliberação do colegiado"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz é expressa: a implantação do programa não gera atendimento diferenciado nem preferência, e toda e qualquer solicitação de atendimento de ocorrência deve ser feita pelo telefone de emergência 190, inclusive pelo tutor.",
+   "tags": [
+    "pvs",
+    "aplicacao",
+    "190"
+   ]
+  },
+  {
+   "id": "pazprot-elab-104",
+   "subtema": "Síntese",
+   "artigo": "Dtz PM3-002/02/13 — Aplicação prática",
+   "enunciado": "Comunidade interessada no PVS informa que não dispõe de recursos para custear as placas do programa. Nessa hipótese,",
+   "alternativas": [
+    "a Polícia Militar deverá custear as placas com recursos do fundo de despesa da unidade",
+    "o programa não poderá ser implantado enquanto não houver custeio das placas",
+    "a ausência das placas não impede o desenvolvimento do programa, que é simbólico nesse ponto",
+    "a prefeitura fica obrigada a fornecer as placas, mediante convênio com a OPM territorial"
+   ],
+   "correta": 2,
+   "explicacao": "A placa é apenas um símbolo do programa, custeada pela iniciativa privada, de modo que sua ausência não desnatura o PVS, cujo núcleo está nas palestras, nas visitas comunitárias e solidárias e na mudança de comportamento da comunidade.",
+   "tags": [
+    "pvs",
+    "aplicacao",
+    "placas"
+   ]
+  },
+  {
+   "id": "pazprot-elab-105",
+   "subtema": "Síntese",
+   "artigo": "NI PM3-001/02/20 — Aplicação prática",
+   "enunciado": "Em evento programado de grande porte, o Comandante da Operação verifica que a quantidade de público supera em muito o previsto e que há risco de confronto. A medida prevista na norma é",
+   "alternativas": [
+    "transferir o comando da operação ao Supervisor Regional presente no local",
+    "iniciar de imediato a dispersão do público, com emprego de munição química",
+    "encerrar a operação e recolher o efetivo até a chegada de tropa especializada",
+    "reagrupar o efetivo para reavaliar os riscos e os procedimentos a serem adotados"
+   ],
+   "correta": 3,
+   "explicacao": "A norma prevê que, se necessário, o Comandante da Operação reagrupe o efetivo a fim de reavaliar os riscos encontrados e os procedimentos a serem adotados, podendo ainda mobilizar recursos adicionais pelo canal técnico competente.",
+   "tags": [
+    "pazprot",
+    "aplicacao",
+    "reagrupamento"
+   ]
+  }
+ ]
+}

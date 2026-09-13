@@ -124,6 +124,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "pazprot-elab",
+      "nome": "Paz e Protecao e PVS",
+      "nomeCompleto": "Operacao Paz e Protecao em eventos de perturbacao de sossego e Programa Vizinhanca Solidaria (105 questões)",
+      "norma": "NI PM3-001/02/20 e Dtz PM3-002/02/13",
+      "arquivo": "data/pazprot-elab.json",
+      "cor": "#7a2f5c",
+      "ativo": true,
+      "ordem": 12,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
