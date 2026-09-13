@@ -1,0 +1,1961 @@
+{
+ "materia": "vdmandado-elab",
+ "versao": "1.5.0",
+ "atualizadoEm": "2026-09-13",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Afastamento do lar",
+  "Aplicativo SOS Mulher",
+  "Atendimento pela autoridade policial",
+  "Atividades críticas",
+  "CPPM",
+  "Campanha Sinal Vermelho",
+  "Conceito de violência doméstica",
+  "Crime sexual — Conceitos",
+  "Crime sexual — Criança e adolescente",
+  "Crime sexual — Erros",
+  "Crime sexual — Resultados",
+  "Crime sexual — Revitimização",
+  "Crime sexual — Sequência",
+  "Cumprimento",
+  "Câmeras operacionais portáteis",
+  "Descumprimento de medida protetiva",
+  "Direitos do preso",
+  "Disciplina de ruído",
+  "Mandado judicial — Conceitos",
+  "Medida protetiva",
+  "Medidas protetivas",
+  "Medidas protetivas — Agressor",
+  "Medidas protetivas — Ofendida",
+  "Medidas protetivas — Patrimoniais",
+  "Orientações à vítima",
+  "Patrulha Maria da Penha",
+  "Planejamento",
+  "Possibilidades de erro",
+  "Programa Lar Mais Seguro",
+  "Registro",
+  "Resultados esperados",
+  "Sequência de ações",
+  "Serviços de referência",
+  "Sistemática de defesa",
+  "Tabela de risco",
+  "Violência institucional",
+  "Visita Solidária"
+ ],
+ "questoes": [
+  {
+   "id": "vdmandado-elab-001",
+   "subtema": "Sistemática de defesa",
+   "artigo": "POP 2.09.00 — Conceito",
+   "enunciado": "O conjunto de estratégias, ações, programas e recursos, com atuação sistêmica da Polícia Militar e de outros órgãos públicos, voltado à prevenção, repressão e adequado atendimento à mulher em contexto de violência doméstica, denomina-se",
+   "alternativas": [
+    "Rede de Serviços de Referência às vítimas",
+    "Programa Lar Mais Seguro de prevenção primária",
+    "Patrulha Maria da Penha da companhia territorial",
+    "Sistemática de Defesa Contra a Violência Doméstica"
+   ],
+   "correta": 3,
+   "explicacao": "A definição corresponde à Sistemática de Defesa Contra a Violência Doméstica; o Programa Lar Mais Seguro é projeto da PM sob responsabilidade da DPCDH, voltado à prevenção primária e à capacitação do efetivo.",
+   "tags": [
+    "violencia-domestica",
+    "sistematica"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-002",
+   "subtema": "Programa Lar Mais Seguro",
+   "artigo": "POP 2.09.00 — Responsabilidade",
+   "enunciado": "O Programa Lar Mais Seguro, projeto da Polícia Militar para orientar ações de prevenção primária contra a violência doméstica e capacitar o efetivo, está sob responsabilidade",
+   "alternativas": [
+    "do CCOMSOC",
+    "da DEC",
+    "da DPCDH",
+    "da CoordOp"
+   ],
+   "correta": 2,
+   "explicacao": "O programa é conduzido pela DPCDH, que também desenvolve palestras de sensibilização ao público externo, sendo implantado pelas OPM territoriais.",
+   "tags": [
+    "violencia-domestica",
+    "lar-mais-seguro"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-003",
+   "subtema": "Programa Lar Mais Seguro",
+   "artigo": "POP 2.09.00 — Atendimento especializado",
+   "enunciado": "O Programa Lar Mais Seguro capacita o policial militar para o atendimento especializado em ocorrências de violência doméstica e familiar, caracterizado como tratamento",
+   "alternativas": [
+    "legalista, preventivo, repressivo e pessoal",
+    "humanizado, sigiloso, célere e informal",
+    "técnico, protetivo, conciliatório e informal",
+    "humanizado, legalista, técnico e impessoal"
+   ],
+   "correta": 3,
+   "explicacao": "O atendimento especializado é humanizado, legalista, técnico e impessoal; o caráter conciliatório não integra o conceito, pois o atendimento policial não tem finalidade de mediação entre agressor e vítima.",
+   "tags": [
+    "violencia-domestica",
+    "lar-mais-seguro",
+    "atendimento"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-004",
+   "subtema": "Programa Lar Mais Seguro",
+   "artigo": "POP 2.09.00 — Prevenção primária",
+   "enunciado": "As palestras de sensibilização do Programa Lar Mais Seguro, voltadas ao público externo, orientam as ações de prevenção primária com o objetivo de",
+   "alternativas": [
+    "divulgar os números de ocorrências registradas na área da companhia",
+    "promover a reconciliação dos casais em situação de conflito doméstico",
+    "identificar agressores e encaminhá-los a programas de reeducação",
+    "inibir o agressor a delinquir e encorajar a mulher a buscar ajuda"
+   ],
+   "correta": 3,
+   "explicacao": "A prevenção primária visa inibir o agressor a delinquir e encorajar a mulher a buscar ajuda, conscientizando a comunidade sobre a violência doméstica e familiar.",
+   "tags": [
+    "violencia-domestica",
+    "prevencao-primaria"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-005",
+   "subtema": "Aplicativo SOS Mulher",
+   "artigo": "POP 2.09.00 — Conceito",
+   "enunciado": "O aplicativo SOS Mulher, do Governo de São Paulo, permite que solicite atendimento emergencial da PM",
+   "alternativas": [
+    "a mulher detentora de medida protetiva, quando o agressor descumpre a ordem judicial",
+    "qualquer mulher em situação de violência, independentemente de medida protetiva",
+    "o familiar da vítima que presencie a violência doméstica em curso",
+    "o funcionário de farmácia que identifique o sinal da campanha Sinal Vermelho"
+   ],
+   "correta": 0,
+   "explicacao": "O aplicativo destina-se à mulher detentora de medida protetiva concedida por autoridade competente, para acionar a PM quando o agressor descumpre a ordem judicial, durante ou na iminência de violência doméstica e familiar.",
+   "tags": [
+    "violencia-domestica",
+    "sos-mulher"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-006",
+   "subtema": "Medidas protetivas",
+   "artigo": "POP 2.09.00 — Conceito",
+   "enunciado": "Medida protetiva de urgência, segundo o processo, é ato da autoridade judicial ou policial que visa salvaguardar a vida e a integridade física da mulher e de sua família,",
+   "alternativas": [
+    "estabelecendo obrigações exclusivamente ao agressor",
+    "estabelecendo obrigações ao agressor ou à própria ofendida",
+    "estabelecendo obrigações exclusivamente à ofendida",
+    "estabelecendo obrigações ao agressor e ao Estado"
+   ],
+   "correta": 1,
+   "explicacao": "O conceito do processo abrange obrigações ao agressor ou à própria ofendida, em consonância com a Lei Maria da Penha, que prevê medidas que obrigam o agressor e medidas destinadas à ofendida.",
+   "tags": [
+    "violencia-domestica",
+    "medidas-protetivas"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-007",
+   "subtema": "Afastamento do lar",
+   "artigo": "Lei 11.340/06 — Legitimados",
+   "enunciado": "Verificado risco atual ou iminente à vida ou à integridade da mulher, o agressor será imediatamente afastado do lar pelo policial quando",
+   "alternativas": [
+    "o município não for sede de comarca e não houver delegado disponível no momento",
+    "o município não for sede de comarca, ainda que haja delegado disponível",
+    "não houver juiz de plantão, independentemente de o município ser sede de comarca",
+    "a vítima o requerer expressamente, dispensada a verificação de outras condições"
+   ],
+   "correta": 0,
+   "explicacao": "O afastamento cabe ao juiz; ao delegado, quando o município não for sede de comarca; e ao policial, quando o município não for sede de comarca e não houver delegado disponível no momento da denúncia.",
+   "tags": [
+    "violencia-domestica",
+    "afastamento",
+    "legitimados"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-008",
+   "subtema": "Afastamento do lar",
+   "artigo": "Lei 11.340/06 — Comunicação ao juiz",
+   "enunciado": "Aplicado o afastamento do lar pelo delegado ou pelo policial, o juiz será comunicado",
+   "alternativas": [
+    "imediatamente e decidirá em até setenta e duas horas, após manifestação do MP",
+    "em até quarenta e oito horas e decidirá em igual prazo, com ciência posterior ao MP",
+    "em até vinte e quatro horas e decidirá em quarenta e oito horas, sem ciência ao MP",
+    "em até vinte e quatro horas e decidirá em igual prazo, com ciência concomitante ao MP"
+   ],
+   "correta": 3,
+   "explicacao": "O juiz é comunicado no prazo máximo de vinte e quatro horas e decide, em igual prazo, sobre a manutenção ou revogação da medida, dando ciência ao Ministério Público concomitantemente.",
+   "tags": [
+    "violencia-domestica",
+    "afastamento",
+    "prazo"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-009",
+   "subtema": "Afastamento do lar",
+   "artigo": "Lei 11.340/06 — Liberdade provisória",
+   "enunciado": "Havendo risco à integridade física da ofendida ou à efetividade da medida protetiva de urgência, quanto ao preso,",
+   "alternativas": [
+    "a liberdade provisória dependerá de fiança judicial",
+    "não será concedida liberdade provisória ao preso",
+    "a liberdade provisória será concedida com monitoração",
+    "a liberdade provisória dependerá de manifestação do MP"
+   ],
+   "correta": 1,
+   "explicacao": "A Lei Maria da Penha determina que, havendo risco à integridade física da ofendida ou à efetividade da medida protetiva, não será concedida liberdade provisória ao preso.",
+   "tags": [
+    "violencia-domestica",
+    "liberdade-provisoria"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-010",
+   "subtema": "Patrulha Maria da Penha",
+   "artigo": "POP 2.09.01 — Conceito",
+   "enunciado": "A Patrulha Maria da Penha caracteriza-se por ser",
+   "alternativas": [
+    "US de programa de policiamento, com PM capacitados, preferencialmente com policial feminina",
+    "contato de policial com vítima previamente identificada, para demonstrar solidariedade e orientar",
+    "campanha do CNJ, com apoio de farmácias e drogarias, como canal silencioso de denúncia",
+    "unidade especializada da Polícia Civil destinada ao atendimento de mulheres vítimas"
+   ],
+   "correta": 0,
+   "explicacao": "A Patrulha Maria da Penha é US de programa, tipo, modalidade ou processo de policiamento, composta por PM capacitados pela Sistemática, preferencialmente com uma policial feminina, que realiza visitas solidárias e atende ocorrências de violência doméstica.",
+   "tags": [
+    "violencia-domestica",
+    "patrulha-maria-penha"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-011",
+   "subtema": "Visita Solidária",
+   "artigo": "POP 2.09.01 — Conceito",
+   "enunciado": "A Visita Solidária consiste no contato do policial militar com vítima de delito previamente identificada, objetivando, além de demonstrar solidariedade,",
+   "alternativas": [
+    "fiscalizar o cumprimento da medida protetiva pelo agressor na residência da vítima",
+    "colher o depoimento formal da vítima para instruir o inquérito policial em curso",
+    "orientar sobre prevenção primária, coletar dados e evidenciar os esforços da PM",
+    "promover a mediação entre vítima e agressor para evitar a reincidência da violência"
+   ],
+   "correta": 2,
+   "explicacao": "A visita orienta sobre medidas de prevenção primária, coleta dados de interesse e evidencia os esforços da PM para garantir a segurança das partes e preservar a ordem pública na localidade.",
+   "tags": [
+    "violencia-domestica",
+    "visita-solidaria"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-012",
+   "subtema": "Campanha Sinal Vermelho",
+   "artigo": "POP 2.09.01 — Conceito",
+   "enunciado": "A Campanha Sinal Vermelho Contra a Violência Doméstica, promovida pelo CNJ, consiste em",
+   "alternativas": [
+    "a vítima exibir um X na mão ou em papel a funcionário de farmácia, que aciona a PM",
+    "a vítima acionar botão de pânico em aplicativo, com envio de sua localização à PM",
+    "a vítima comparecer a posto de saúde e relatar a violência a profissional capacitado",
+    "a vítima afixar sinal vermelho na janela da residência, visível às viaturas"
+   ],
+   "correta": 0,
+   "explicacao": "A vítima faz um sinal X, com batom vermelho ou outro material, na palma da mão ou em papel, exibindo-o a funcionário de farmácia ou drogaria, que aciona a PM pelo 190 ou outro serviço disponível.",
+   "tags": [
+    "violencia-domestica",
+    "sinal-vermelho"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-013",
+   "subtema": "Serviços de referência",
+   "artigo": "POP 2.09.01 — Conceito",
+   "enunciado": "Serviços de referência, no contexto do processo, são",
+   "alternativas": [
+    "entidades privadas conveniadas para a assistência jurídica gratuita das vítimas",
+    "unidades policiais especializadas no registro de ocorrências de violência doméstica",
+    "órgãos municipais de assistência social responsáveis pelo abrigamento das vítimas",
+    "serviços qualificados de atendimento a vítimas de violência sexual, conforme normas técnicas"
+   ],
+   "correta": 3,
+   "explicacao": "Serviços de referência são serviços qualificados para atender vítimas de violência sexual, observados os níveis de assistência e os profissionais de cada unidade, segundo normas técnicas e protocolos do Ministério da Saúde e do Ministério da Justiça.",
+   "tags": [
+    "violencia-domestica",
+    "servicos-referencia"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-014",
+   "subtema": "Tabela de risco",
+   "artigo": "POP 2.09.01 — Fatores de risco",
+   "enunciado": "Quanto à Tabela de Risco de Violência Doméstica, nas ocorrências sem agressão propriamente dita, é correto afirmar que",
+   "alternativas": [
+    "basta um fator de risco, após análise do CFP ou CGP, para apresentar a ocorrência no DP",
+    "exigem-se ao menos dois fatores de risco para a apresentação da ocorrência no DP",
+    "a análise é feita pela própria US, dispensada a avaliação do supervisor de serviço",
+    "a tabela só é aplicável quando o suspeito tiver sido localizado pela unidade"
+   ],
+   "correta": 0,
+   "explicacao": "Identificada ao menos uma das situações da tabela, após análise minuciosa do CFP ou CGP, a ocorrência é apresentada no DP para imposição de medida protetiva de afastamento; o procedimento é o mesmo se o suspeito não for localizado.",
+   "tags": [
+    "violencia-domestica",
+    "tabela-risco"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-015",
+   "subtema": "Tabela de risco",
+   "artigo": "POP 2.09.01 — Finalidade",
+   "enunciado": "Apresentada a ocorrência sem agressão ao DP em razão de fator de risco identificado, a finalidade é",
+   "alternativas": [
+    "a imposição de medida protetiva de afastamento do lar ou local de convivência",
+    "a lavratura de termo circunstanciado por ameaça contra a mulher",
+    "a instauração de inquérito para apurar eventual crime de perseguição",
+    "a notificação formal do suspeito para comparecer ao juizado especializado"
+   ],
+   "correta": 0,
+   "explicacao": "O POP vincula a apresentação à devida imposição de medida protetiva de urgência destinada ao afastamento do agressor do lar, domicílio ou local de convivência com a ofendida.",
+   "tags": [
+    "violencia-domestica",
+    "tabela-risco",
+    "finalidade"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-016",
+   "subtema": "Atividades críticas",
+   "artigo": "POP 2.09.01 — Atividades críticas",
+   "enunciado": "Figura entre as atividades críticas do atendimento de ocorrência de violência doméstica ou descumprimento de medida protetiva",
+   "alternativas": [
+    "certificar-se de que se trata de violência doméstica ou de descumprimento de medida",
+    "definir a tipificação penal da conduta antes da condução das partes ao distrito",
+    "promover o afastamento do agressor do lar independentemente de outras providências",
+    "colher o termo de representação da vítima para instrução do procedimento"
+   ],
+   "correta": 0,
+   "explicacao": "São atividades críticas o estabelecimento de vínculo de confiança, o atendimento imediato e humanizado, a coleta de dados e a certificação de que se trata de violência doméstica ou descumprimento de medida protetiva.",
+   "tags": [
+    "violencia-domestica",
+    "atividades-criticas"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-017",
+   "subtema": "Sequência de ações",
+   "artigo": "POP 2.09.01 — Origem do acionamento",
+   "enunciado": "A primeira ação da sequência do POP 2.09.01 consiste em identificar se a ocorrência foi gerada",
+   "alternativas": [
+    "pela Delegacia de Defesa da Mulher, pelo Poder Judiciário ou pelo Ministério Público",
+    "pelo aplicativo SOS Mulher, pelo telefone 190 ou pela Campanha Sinal Vermelho",
+    "pela própria vítima, por familiar ou por vizinho da residência",
+    "pelo aplicativo SOS Mulher ou por determinação do centro de operações"
+   ],
+   "correta": 1,
+   "explicacao": "Identifica-se se a ocorrência foi gerada pelo SOS Mulher, pelo 190 ou pela Campanha Sinal Vermelho, pois cada origem implica providências específicas, como a verificação da medida protetiva e a não condução do funcionário de farmácia.",
+   "tags": [
+    "violencia-domestica",
+    "sequencia",
+    "origem"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-018",
+   "subtema": "Sequência de ações",
+   "artigo": "POP 2.09.01 — Composição da US",
+   "enunciado": "O atendimento à vítima de violência doméstica será realizado por integrante da Patrulha Maria da Penha ou, na impossibilidade, por US capacitada, constituída",
+   "alternativas": [
+    "preferencialmente por, no mínimo, uma policial feminina",
+    "obrigatoriamente por, no mínimo, uma policial feminina",
+    "exclusivamente por policiais femininas capacitadas",
+    "preferencialmente por, no mínimo, duas policiais femininas"
+   ],
+   "correta": 0,
+   "explicacao": "A composição com ao menos uma policial feminina é preferencial, não obrigatória; a troca por obrigatoriamente foi a assertiva incorreta da questão do MFN.",
+   "tags": [
+    "violencia-domestica",
+    "sequencia",
+    "composicao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-019",
+   "subtema": "Sequência de ações",
+   "artigo": "POP 2.09.01 — Vínculo de confiança",
+   "enunciado": "O policial militar que iniciar o atendimento à vítima de violência doméstica deverá prosseguir nessa missão até o término porque",
+   "alternativas": [
+    "a norma veda a substituição de policiais durante o atendimento de qualquer ocorrência",
+    "estabelece vínculo de confiança e diminui a exposição que geraria revitimização",
+    "é o único policial habilitado a assinar o boletim eletrônico da ocorrência",
+    "será o condutor da ocorrência perante a autoridade policial no distrito"
+   ],
+   "correta": 1,
+   "explicacao": "A continuidade do mesmo policial estabelece vínculo de confiança e diminui a exposição da vítima a outras pessoas, o que resultaria em revitimização ou vitimização secundária.",
+   "tags": [
+    "violencia-domestica",
+    "sequencia",
+    "vinculo"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-020",
+   "subtema": "Sequência de ações",
+   "artigo": "POP 2.09.01 — Área de segurança",
+   "enunciado": "Localizado o suspeito e constatada infração penal, o POP orienta conduzir o infrator à área de segurança",
+   "alternativas": [
+    "preferencialmente fora do local onde se encontra, para minimizar eventual reação ofensiva",
+    "obrigatoriamente no interior da residência, para evitar exposição da vítima a vizinhos",
+    "preferencialmente no interior da viatura, antes de qualquer busca pessoal",
+    "obrigatoriamente na presença da vítima, para confirmação da autoria"
+   ],
+   "correta": 0,
+   "explicacao": "O infrator é conduzido à área de segurança, preferencialmente fora do local onde se encontra, para minimizar eventual reação ofensiva, seguindo-se abordagem e busca pessoal conforme os POP 1.01.05 e 1.01.06.",
+   "tags": [
+    "violencia-domestica",
+    "sequencia",
+    "area-seguranca"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-021",
+   "subtema": "Medida protetiva",
+   "artigo": "POP 2.09.01 — Verificação",
+   "enunciado": "Não tendo sido o acionamento feito pelo aplicativo SOS Mulher, para verificar eventual descumprimento de medida protetiva o policial deverá",
+   "alternativas": [
+    "pedir à vítima o documento comprobatório da existência da determinação judicial",
+    "consultar o juízo que deferiu a medida antes de qualquer providência",
+    "presumir a existência da medida com base na declaração verbal da vítima",
+    "solicitar ao centro de operações a certidão da medida protetiva expedida"
+   ],
+   "correta": 0,
+   "explicacao": "Fora do SOS Mulher, verifica-se o descumprimento pedindo ao solicitante ou à vítima o documento comprobatório da determinação judicial; conduzir por medida expirada ou revogada é possibilidade de erro.",
+   "tags": [
+    "violencia-domestica",
+    "medida-protetiva",
+    "verificacao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-022",
+   "subtema": "Medida protetiva",
+   "artigo": "POP 2.09.01 — Condução obrigatória",
+   "enunciado": "Identificada medida protetiva vigente imposta ao agressor, as partes deverão ser conduzidas ao distrito policial",
+   "alternativas": [
+    "somente após análise do CFP ou do CGP em serviço",
+    "somente se houver ao menos um fator da Tabela de Risco",
+    "somente se o agressor tiver praticado nova agressão física",
+    "independentemente da existência de qualquer fator de risco"
+   ],
+   "correta": 3,
+   "explicacao": "Havendo medida protetiva imposta ao agressor, a condução ao DP independe de fator de risco; a análise da tabela pelo CFP ou CGP aplica-se às ocorrências sem agressão e sem medida protetiva.",
+   "tags": [
+    "violencia-domestica",
+    "medida-protetiva",
+    "conducao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-023",
+   "subtema": "Campanha Sinal Vermelho",
+   "artigo": "POP 2.09.01 — Funcionário de farmácia",
+   "enunciado": "Na ocorrência gerada pela Campanha Sinal Vermelho, o funcionário da farmácia ou drogaria que acionou a PM",
+   "alternativas": [
+    "não será arrolado como testemunha nem conduzido ao DP, salvo se presenciou a infração",
+    "será arrolado como testemunha e conduzido ao DP, por ter recebido o pedido de socorro",
+    "será conduzido ao DP apenas para qualificação, sem ser arrolado como testemunha",
+    "será arrolado como testemunha, mas dispensado da condução ao distrito policial"
+   ],
+   "correta": 0,
+   "explicacao": "O funcionário figura apenas como meio de acionamento da PM; não é arrolado como testemunha nem conduzido ao DP, exceto se presenciou a infração penal, preservando-se sua identidade.",
+   "tags": [
+    "violencia-domestica",
+    "sinal-vermelho",
+    "funcionario"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-024",
+   "subtema": "Orientações à vítima",
+   "artigo": "POP 2.09.01 — SOS Mulher",
+   "enunciado": "Sendo a vítima detentora de medida protetiva e não possuindo o aplicativo SOS Mulher, o policial deverá",
+   "alternativas": [
+    "encaminhá-la à delegacia especializada para cadastramento no aplicativo",
+    "cadastrá-la no aplicativo por meio do terminal da viatura, no próprio local",
+    "comunicar o juízo para inclusão da vítima no sistema do aplicativo",
+    "orientá-la sobre como efetuar o download e a instalação do aplicativo no celular"
+   ],
+   "correta": 3,
+   "explicacao": "O policial orienta a vítima sobre como baixar, instalar e usar o aplicativo SOS Mulher; deixar de fazê-lo é possibilidade de erro expressa do POP.",
+   "tags": [
+    "violencia-domestica",
+    "sos-mulher",
+    "orientacao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-025",
+   "subtema": "Orientações à vítima",
+   "artigo": "POP 2.09.01 — Rede de apoio",
+   "enunciado": "Quanto às informações fornecidas à vítima de violência doméstica, o POP determina que o policial",
+   "alternativas": [
+    "forneça relação de órgãos e telefones de apoio existentes no município",
+    "forneça seu contato telefônico pessoal para acionamentos futuros",
+    "forneça cópia do boletim eletrônico lavrado no local da ocorrência",
+    "forneça o endereço do agressor para eventual pedido de medida protetiva"
+   ],
+   "correta": 0,
+   "explicacao": "Deve-se fornecer relação dos órgãos e telefones de apoio e atendimento existentes no município; a inclusão do contato pessoal do policial foi o elemento incorreto da questão do MFN.",
+   "tags": [
+    "violencia-domestica",
+    "orientacao",
+    "rede-apoio"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-026",
+   "subtema": "Registro",
+   "artigo": "POP 2.09.01 — Visita Solidária no registro",
+   "enunciado": "No registro da ocorrência de violência doméstica, o campo Versão da Pessoa Qualificada deve indicar",
+   "alternativas": [
+    "se a vítima deseja receber a Visita Solidária e a forma mais adequada",
+    "se a vítima deseja representar criminalmente contra o agressor",
+    "se a vítima autoriza a divulgação de seus dados à rede de apoio",
+    "se a vítima pretende requerer medidas protetivas patrimoniais"
+   ],
+   "correta": 0,
+   "explicacao": "Aponta-se se a vítima deseja ou não receber a Visita Solidária e qual a forma mais adequada, presencial ou por telefone, pois a presença da PM na residência pode induzir o agressor a novas ofensas.",
+   "tags": [
+    "violencia-domestica",
+    "registro",
+    "visita-solidaria"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-027",
+   "subtema": "Registro",
+   "artigo": "POP 2.09.01 — BOe",
+   "enunciado": "O registro da ocorrência de violência doméstica pela Polícia Militar será efetuado",
+   "alternativas": [
+    "exclusivamente no BOe, vedado o uso de formulário físico",
+    "no BOe ou, na sua indisponibilidade, no Formulário PM O-58",
+    "no Formulário PM O-31, destinado a incidentes de ordem pública",
+    "no relatório de serviço operacional, com cópia ao distrito"
+   ],
+   "correta": 1,
+   "explicacao": "Registra-se no Boletim de Ocorrência Eletrônico ou, na indisponibilidade, no Formulário PM O-58, anotando-se o número identificador do vídeo quando houver gravação por COP.",
+   "tags": [
+    "violencia-domestica",
+    "registro",
+    "boe"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-028",
+   "subtema": "Resultados esperados",
+   "artigo": "POP 2.09.01 — Identidade do solicitante",
+   "enunciado": "Entre os resultados esperados do POP 2.09.01 está a preservação da identidade",
+   "alternativas": [
+    "do agressor, até a confirmação da autoria pela autoridade policial competente",
+    "da vítima perante a autoridade policial, até a decisão sobre a medida protetiva",
+    "do solicitante que não seja a vítima ou do funcionário de farmácia que acionou a PM",
+    "dos policiais que atenderam a ocorrência, perante o agressor e seus familiares"
+   ],
+   "correta": 2,
+   "explicacao": "Espera-se que seja preservada a identidade do solicitante, quando não for a vítima, ou do funcionário de farmácia ou drogaria que acionou a PM pela Campanha Sinal Vermelho.",
+   "tags": [
+    "violencia-domestica",
+    "resultados",
+    "identidade"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-029",
+   "subtema": "Resultados esperados",
+   "artigo": "POP 2.09.01 — Laudo médico",
+   "enunciado": "Não sendo possível encaminhar a vítima ao DP ou ao IML no decorrer da ocorrência, o POP prevê orientá-la a fazê-lo e a apresentar laudo médico, se houver, pois",
+   "alternativas": [
+    "dispensa a representação da vítima nos crimes de lesão corporal leve",
+    "substitui integralmente o exame de corpo de delito em qualquer hipótese",
+    "é requisito para o deferimento de medidas protetivas pelo juiz competente",
+    "pode servir como meio indireto de perícia, o que fotos das lesões podem não suprir"
+   ],
+   "correta": 3,
+   "explicacao": "O laudo médico pode servir como meio indireto de perícia para o exame de corpo de delito; os registros fotográficos das lesões podem não servir para essa finalidade.",
+   "tags": [
+    "violencia-domestica",
+    "resultados",
+    "laudo"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-030",
+   "subtema": "Possibilidades de erro",
+   "artigo": "POP 2.09.01 — Medida expirada",
+   "enunciado": "Constitui possibilidade de erro prevista no POP 2.09.01",
+   "alternativas": [
+    "conduzir as partes ao DP havendo medida protetiva vigente sem fator de risco",
+    "conduzir o suspeito ao DP por descumprimento de medida protetiva expirada ou revogada",
+    "cobrir a vítima que esteja sem vestes ou com as vestes rasgadas",
+    "fornecer à vítima a relação de órgãos de apoio existentes no município"
+   ],
+   "correta": 1,
+   "explicacao": "Conduzir o suspeito por medida expirada ou revogada é erro expresso; as demais condutas integram a sequência de ações, inclusive a condução com medida vigente independentemente de fator de risco.",
+   "tags": [
+    "violencia-domestica",
+    "erros",
+    "medida-expirada"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-031",
+   "subtema": "Possibilidades de erro",
+   "artigo": "POP 2.09.01 — Revitimização",
+   "enunciado": "Exigir que a vítima relate o fato, sem necessidade, a várias autoridades constitui, segundo o POP,",
+   "alternativas": [
+    "ação corretiva aplicável quando houver divergência entre vítima e testemunhas",
+    "providência recomendada para confirmar a coerência das versões da vítima",
+    "atividade crítica necessária à coleta de dados para o registro da ocorrência",
+    "possibilidade de erro que resulta em revitimização ou vitimização secundária"
+   ],
+   "correta": 3,
+   "explicacao": "A exigência desnecessária de múltiplos relatos é possibilidade de erro, pois resulta em revitimização ou vitimização secundária, o que a sistemática busca evitar.",
+   "tags": [
+    "violencia-domestica",
+    "erros",
+    "revitimizacao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-032",
+   "subtema": "Conceito de violência doméstica",
+   "artigo": "Lei 11.340/06 — Conceito",
+   "enunciado": "Violência doméstica e familiar contra a mulher, conforme o conceito reproduzido no processo, é toda ação ou omissão que cause morte, lesão, sofrimento ou dano, ocorrida no contexto familiar, na unidade doméstica ou em relação íntima de afeto,",
+   "alternativas": [
+    "desde que o agressor coabite com a ofendida",
+    "tendo o agressor convivido ou não com a ofendida",
+    "desde que haja vínculo formal de casamento ou união",
+    "desde que a relação de afeto seja atual"
+   ],
+   "correta": 1,
+   "explicacao": "O conceito dispensa coabitação, vínculo formal ou atualidade da relação: basta o contexto familiar, doméstico ou de relação íntima de afeto, tendo o agressor convivido ou não com a ofendida.",
+   "tags": [
+    "violencia-domestica",
+    "conceito"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-033",
+   "subtema": "Conceito de violência doméstica",
+   "artigo": "Lei 11.340/06 — Formas",
+   "enunciado": "Segundo o processo, a violência doméstica não se limita à agressão física, abrangendo também",
+   "alternativas": [
+    "apenas a violência sexual praticada pelo cônjuge",
+    "apenas o sofrimento psicológico decorrente de ameaça",
+    "apenas o dano patrimonial praticado com violência",
+    "sofrimento sexual ou psicológico e dano moral ou patrimonial"
+   ],
+   "correta": 3,
+   "explicacao": "A violência doméstica abrange ação ou omissão que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial.",
+   "tags": [
+    "violencia-domestica",
+    "formas"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-034",
+   "subtema": "Atendimento pela autoridade policial",
+   "artigo": "Lei 11.340/06 — Inquirição",
+   "enunciado": "Entre as diretrizes da inquirição de mulher em situação de violência doméstica figura a garantia de que, em nenhuma hipótese, a vítima, familiares e testemunhas",
+   "alternativas": [
+    "serão ouvidos fora das dependências da unidade policial competente",
+    "serão ouvidos sem a presença de advogado ou defensor público constituído",
+    "terão contato direto com investigados ou suspeitos e pessoas a eles relacionadas",
+    "prestarão depoimento sem gravação em áudio e vídeo do ato"
+   ],
+   "correta": 2,
+   "explicacao": "As diretrizes incluem a salvaguarda da integridade física, psíquica e emocional da depoente, a garantia de não contato com investigados ou suspeitos e pessoas a eles relacionadas e a não revitimização.",
+   "tags": [
+    "violencia-domestica",
+    "inquiricao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-035",
+   "subtema": "Atendimento pela autoridade policial",
+   "artigo": "Lei 11.340/06 — Não revitimização",
+   "enunciado": "A diretriz de não revitimização da depoente, na inquirição de mulher em situação de violência doméstica, compreende evitar",
+   "alternativas": [
+    "a inquirição da vítima por autoridade policial do sexo masculino",
+    "a oitiva da vítima antes da conclusão do exame de corpo de delito",
+    "sucessivas inquirições sobre o mesmo fato e perguntas sobre a vida privada",
+    "a oitiva de testemunhas que mantenham vínculo com o investigado"
+   ],
+   "correta": 2,
+   "explicacao": "A não revitimização implica evitar sucessivas inquirições sobre o mesmo fato nos âmbitos criminal, cível e administrativo, bem como questionamentos sobre a vida privada.",
+   "tags": [
+    "violencia-domestica",
+    "inquiricao",
+    "revitimizacao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-036",
+   "subtema": "Atendimento pela autoridade policial",
+   "artigo": "Lei 11.340/06 — Descumprimento",
+   "enunciado": "As providências legais cabíveis diante da iminência ou prática de violência doméstica, como flagrante e requerimento de prisão preventiva,",
+   "alternativas": [
+    "dependem de representação da vítima quando se tratar de descumprimento",
+    "não se aplicam ao descumprimento de medida protetiva, que tem rito próprio",
+    "aplicam-se apenas quando o descumprimento envolver nova agressão física",
+    "aplicam-se também ao descumprimento de medida protetiva de urgência deferida"
+   ],
+   "correta": 3,
+   "explicacao": "O processo destaca que as providências de flagrante e de requerimento de prisão preventiva ao juiz são aplicáveis também ao descumprimento de medida protetiva de urgência deferida.",
+   "tags": [
+    "violencia-domestica",
+    "descumprimento",
+    "providencias"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-037",
+   "subtema": "Descumprimento de medida protetiva",
+   "artigo": "Lei 11.340/06 — Art. 24-A, §§ 1º e 2º",
+   "enunciado": "Quanto ao crime de descumprimento de medida protetiva, conforme reproduzido no processo, é correto afirmar que",
+   "alternativas": [
+    "a fiança pode ser arbitrada pelo delegado se a pena máxima não exceder quatro anos",
+    "a configuração exige que a medida tenha sido deferida por juízo criminal",
+    "a aplicação do tipo exclui as demais sanções cabíveis ao mesmo fato",
+    "no flagrante, o delegado não pode conceder fiança, cabendo apenas à autoridade judicial"
+   ],
+   "correta": 3,
+   "explicacao": "No flagrante, somente a autoridade judicial concede fiança; a configuração independe da competência civil ou criminal do juiz, e o crime aplica-se sem prejuízo de outras sanções.",
+   "tags": [
+    "violencia-domestica",
+    "art-24a"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-038",
+   "subtema": "Direitos do preso",
+   "artigo": "POP 2.09.01 — Prisão em flagrante",
+   "enunciado": "Nas prisões em flagrante decorrentes de violência doméstica, os direitos do preso reproduzidos no processo têm fundamento",
+   "alternativas": [
+    "exclusivamente no Código de Processo Penal",
+    "exclusivamente na Lei Maria da Penha",
+    "no Código Penal e na Lei Maria da Penha",
+    "na Constituição Federal e na Lei de Execução Penal"
+   ],
+   "correta": 3,
+   "explicacao": "O processo menciona que o preso tem assegurados pela Constituição Federal e pela LEP o respeito à integridade física e moral, sem tortura ou tratamento desumano ou degradante.",
+   "tags": [
+    "violencia-domestica",
+    "direitos-preso"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-039",
+   "subtema": "Patrulha Maria da Penha",
+   "artigo": "NI PM3-001/02/21 — Designação",
+   "enunciado": "Nos termos da NI PM3-001/02/21, o Comandante de Companhia territorial deverá designar, para atuar como Patrulha Maria da Penha,",
+   "alternativas": [
+    "no mínimo uma US por turno de serviço",
+    "no mínimo duas US por turno de serviço",
+    "uma US por dia, no turno de maior incidência",
+    "uma US por semana, em escala especial"
+   ],
+   "correta": 0,
+   "explicacao": "O Cmt Cia territorial designa no mínimo uma US por turno de serviço para a função de Patrulha Maria da Penha, a qual rotineiramente se dedica às suas atribuições originárias.",
+   "tags": [
+    "violencia-domestica",
+    "ni-pm3-001-21",
+    "designacao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-040",
+   "subtema": "Patrulha Maria da Penha",
+   "artigo": "NI PM3-001/02/21 — Rotina",
+   "enunciado": "Rotineiramente, a US designada como Patrulha Maria da Penha",
+   "alternativas": [
+    "realiza exclusivamente as visitas solidárias programadas pela companhia",
+    "dedica-se exclusivamente ao atendimento de ocorrências de violência doméstica",
+    "permanece em base fixa aguardando acionamentos pelo aplicativo SOS Mulher",
+    "dedica-se às suas atribuições originárias, atuando quando necessário na função"
+   ],
+   "correta": 3,
+   "explicacao": "A US dedica-se às atribuições originárias e, quando necessário, realiza visitas solidárias e atende ocorrências de violência doméstica e familiar, com tratamento humanizado e prioridade à proteção e ao socorro.",
+   "tags": [
+    "violencia-domestica",
+    "ni-pm3-001-21",
+    "rotina"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-041",
+   "subtema": "Visita Solidária",
+   "artigo": "NI PM3-001/02/21 — Número mínimo",
+   "enunciado": "As visitas solidárias, após o registro da ocorrência e conforme a concordância da vítima, ocorrerão",
+   "alternativas": [
+    "em no mínimo três oportunidades",
+    "em uma única oportunidade, presencial",
+    "em no mínimo duas oportunidades",
+    "semanalmente, até o arquivamento do inquérito"
+   ],
+   "correta": 2,
+   "explicacao": "Verificada a concordância da vítima na Versão da Pessoa Qualificada, a visita ocorre após o registro da ocorrência e em no mínimo duas oportunidades.",
+   "tags": [
+    "violencia-domestica",
+    "visita-solidaria",
+    "numero"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-042",
+   "subtema": "Visita Solidária",
+   "artigo": "NI PM3-001/02/21 — Primeira visita",
+   "enunciado": "A primeira Visita Solidária será, obrigatoriamente,",
+   "alternativas": [
+    "por telefone, em até vinte dias após a ocorrência",
+    "presencial, em até dez dias após a ocorrência",
+    "por telefone, em até dez dias após a ocorrência",
+    "presencial, em até quarenta e oito horas da ocorrência"
+   ],
+   "correta": 2,
+   "explicacao": "A primeira visita é obrigatoriamente telefônica, em até dez dias após a ocorrência, para permitir avaliar a conveniência da presença da Patrulha Maria da Penha na residência.",
+   "tags": [
+    "violencia-domestica",
+    "visita-solidaria",
+    "primeira"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-043",
+   "subtema": "Visita Solidária",
+   "artigo": "NI PM3-001/02/21 — Finalidade da primeira visita",
+   "enunciado": "A realização da primeira Visita Solidária por telefone tem por finalidade",
+   "alternativas": [
+    "verificar se o agressor cumpriu a medida protetiva de afastamento do lar",
+    "confirmar a versão dos fatos apresentada pela vítima no registro da ocorrência",
+    "permitir avaliar a conveniência da presença da Patrulha Maria da Penha na residência",
+    "agendar o comparecimento da vítima à delegacia de defesa da mulher"
+   ],
+   "correta": 2,
+   "explicacao": "Como a presença da PM na residência pode induzir o agressor a novas ofensas, o contato telefônico inicial permite avaliar corretamente a conveniência da visita presencial.",
+   "tags": [
+    "violencia-domestica",
+    "visita-solidaria",
+    "finalidade"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-044",
+   "subtema": "Visita Solidária",
+   "artigo": "NI PM3-001/02/21 — Segunda visita",
+   "enunciado": "A segunda Visita Solidária deverá acontecer em período",
+   "alternativas": [
+    "não superior a vinte dias da primeira visita, abreviado se houver risco iminente",
+    "não superior a dez dias da primeira visita, prorrogável a pedido da vítima",
+    "não superior a trinta dias da ocorrência, abreviado se houver risco iminente",
+    "não inferior a vinte dias da primeira visita, para não induzir novas ofensas"
+   ],
+   "correta": 0,
+   "explicacao": "A segunda visita ocorre em período não superior a vinte dias contados da primeira, devendo ser abreviada se houver risco iminente à mulher e à família.",
+   "tags": [
+    "violencia-domestica",
+    "visita-solidaria",
+    "segunda"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-045",
+   "subtema": "Visita Solidária",
+   "artigo": "NI PM3-001/02/21 — Executores",
+   "enunciado": "A Visita Solidária presencial será realizada",
+   "alternativas": [
+    "pela Patrulha Maria da Penha ou, na falta, por PM capacitado no programa",
+    "exclusivamente pela Patrulha Maria da Penha, vedada a substituição",
+    "pelo CGP em serviço, acompanhado de policial feminina capacitada",
+    "pela equipe da DPCDH, com apoio da US da área da residência"
+   ],
+   "correta": 0,
+   "explicacao": "A visita presencial é feita pela Patrulha Maria da Penha ou, na impossibilidade, por PM capacitado pelo Programa Lar Mais Seguro; a telefônica, preferencialmente por PM capacitado e designado para esse fim.",
+   "tags": [
+    "violencia-domestica",
+    "visita-solidaria",
+    "executores"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-046",
+   "subtema": "Sequência de ações",
+   "artigo": "POP 2.09.01 — Atendimento médico",
+   "enunciado": "Avaliado o estado físico e psíquico da vítima e havendo necessidade de atendimento médico, o policial deverá",
+   "alternativas": [
+    "aguardar o registro da ocorrência para então providenciar o atendimento",
+    "conduzi-la a estabelecimento de saúde ou acionar o Corpo de Bombeiros ou o SAMU",
+    "encaminhá-la ao IML para exame de corpo de delito antes do socorro",
+    "orientá-la a procurar atendimento após o encerramento da ocorrência"
+   ],
+   "correta": 1,
+   "explicacao": "Se necessário, providencia-se atendimento médico conduzindo a vítima diretamente a estabelecimento de saúde ou acionando o Corpo de Bombeiros ou o SAMU, conforme o caso.",
+   "tags": [
+    "violencia-domestica",
+    "sequencia",
+    "atendimento-medico"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-047",
+   "subtema": "Sequência de ações",
+   "artigo": "POP 2.09.01 — Qualificação",
+   "enunciado": "Na sequência de ações do POP 2.09.01, após a verificação de eventual medida protetiva, o policial deverá",
+   "alternativas": [
+    "promover a oitiva formal das partes e reduzi-la a termo no local",
+    "colher a representação da vítima e liberar o suspeito mediante compromisso",
+    "qualificar infratores e vítimas, arrolar testemunhas e pesquisar antecedentes",
+    "encaminhar o suspeito diretamente ao juízo que deferiu a medida"
+   ],
+   "correta": 2,
+   "explicacao": "Seguem-se a qualificação de infratores e vítimas, o arrolamento de testemunhas e a pesquisa de antecedentes criminais, antes da condução das partes ao DP.",
+   "tags": [
+    "violencia-domestica",
+    "sequencia",
+    "qualificacao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-048",
+   "subtema": "Sequência de ações",
+   "artigo": "POP 2.09.01 — Vestes",
+   "enunciado": "Encontrando-se a vítima sem vestes ou com as vestes rasgadas, o POP determina",
+   "alternativas": [
+    "aguardar policial feminina antes de qualquer contato com a vítima",
+    "preservar as vestes rasgadas no corpo para exame pericial",
+    "providenciar que ela seja coberta, evitando constrangimento",
+    "fotografar a vítima para registro das lesões e das vestes"
+   ],
+   "correta": 2,
+   "explicacao": "A providência é cobrir a vítima para evitar constrangimento, medida comum aos POP de violência doméstica e de crime sexual.",
+   "tags": [
+    "violencia-domestica",
+    "sequencia",
+    "vestes"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-049",
+   "subtema": "Câmeras operacionais portáteis",
+   "artigo": "POP 2.09.00 — Gravação",
+   "enunciado": "Quanto à gravação por câmera operacional portátil nas ocorrências de violência doméstica, é correto afirmar que",
+   "alternativas": [
+    "sempre e obrigatoriamente toda ação deve ser gravada, ainda que sem equipamento",
+    "quando disponível, toda ação PM deve ser gravada e o número do vídeo registrado no BOe",
+    "a gravação é vedada, para preservar a intimidade da vítima de violência doméstica",
+    "a gravação depende de autorização expressa da vítima no início do atendimento"
+   ],
+   "correta": 1,
+   "explicacao": "A gravação ocorre quando o equipamento estiver disponível, e o número identificador do vídeo deve constar do BOe; a expressão sempre e obrigatoriamente foi o erro da questão do MFN.",
+   "tags": [
+    "violencia-domestica",
+    "cop"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-050",
+   "subtema": "Orientações à vítima",
+   "artigo": "POP 2.09.01 — Direitos",
+   "enunciado": "O POP determina que o policial oriente a vítima de violência doméstica quanto aos direitos conferidos",
+   "alternativas": [
+    "pela Lei federal nº 13.641, de 03ABR18",
+    "pela Lei federal nº 13.869, de 05SET19",
+    "pela Lei federal nº 14.344, de 24MAI22",
+    "pela Lei federal nº 11.340, de 07AGO06"
+   ],
+   "correta": 3,
+   "explicacao": "A orientação refere-se aos direitos da Lei Maria da Penha, Lei federal nº 11.340, de 07AGO06; deixar de orientar é possibilidade de erro do POP.",
+   "tags": [
+    "violencia-domestica",
+    "orientacao",
+    "lei-maria-penha"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-051",
+   "subtema": "Possibilidades de erro",
+   "artigo": "POP 2.09.01 — Supervisão",
+   "enunciado": "É possibilidade de erro atribuída ao CFP ou CGP no POP 2.09.01",
+   "alternativas": [
+    "deixar de designar policial feminina para todas as ocorrências de sua área",
+    "deixar de acompanhar pessoalmente todas as ocorrências de violência doméstica",
+    "deixar de observar o enquadramento na Tabela de Risco nas ocorrências sem agressão",
+    "deixar de realizar pessoalmente a primeira Visita Solidária por telefone"
+   ],
+   "correta": 2,
+   "explicacao": "O erro atribuído ao supervisor é deixar de observar se há enquadramento na Tabela de Risco de Violência Doméstica, nas ocorrências sem agressão, para a decorrente condução ao DP.",
+   "tags": [
+    "violencia-domestica",
+    "erros",
+    "supervisao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-052",
+   "subtema": "Crime sexual — Conceitos",
+   "artigo": "POP 2.09.02 — Atendimento humanizado",
+   "enunciado": "Atendimento humanizado, no POP de atendimento de ocorrência de crime sexual, é a observância dos princípios",
+   "alternativas": [
+    "da celeridade, da oralidade, da informalidade e da economia processual",
+    "da legalidade, da impessoalidade, da moralidade e da publicidade",
+    "da dignidade da pessoa, da não discriminação, do sigilo e da privacidade",
+    "da proporcionalidade, da necessidade, da legalidade e da conveniência"
+   ],
+   "correta": 2,
+   "explicacao": "O atendimento humanizado observa os princípios do respeito à dignidade da pessoa, da não discriminação, do sigilo e da privacidade.",
+   "tags": [
+    "crime-sexual",
+    "atendimento-humanizado"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-053",
+   "subtema": "Crime sexual — Conceitos",
+   "artigo": "POP 2.09.02 — Vitimização secundária",
+   "enunciado": "Vitimização secundária é conceituada no processo como o efeito ou dano que o sujeito passivo sofre com o delito e suas consequências quando ocorre",
+   "alternativas": [
+    "a divulgação do fato pelos meios de comunicação",
+    "a reiteração da conduta pelo mesmo agressor",
+    "uma ineficiente intervenção estatal",
+    "a impunidade do autor por falta de provas"
+   ],
+   "correta": 2,
+   "explicacao": "A vitimização secundária decorre de ineficiente intervenção estatal, agravando o dano sofrido pela vítima com o delito e suas consequências.",
+   "tags": [
+    "crime-sexual",
+    "vitimizacao-secundaria"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-054",
+   "subtema": "Crime sexual — Revitimização",
+   "artigo": "POP 2.09.02 — Contato com a vítima",
+   "enunciado": "Para evitar a revitimização da vítima de crime sexual, recomenda-se que",
+   "alternativas": [
+    "apenas um policial mantenha contato, anote os relatos e colha a assinatura no boletim",
+    "cada integrante da US colha separadamente o relato, para confrontar as versões",
+    "a vítima relate o fato na presença de todos os policiais, evitando repetições",
+    "o relato seja colhido apenas pela autoridade policial civil no distrito"
+   ],
+   "correta": 0,
+   "explicacao": "Como o questionamento reativa as estruturas cerebrais ligadas ao trauma, recomenda-se que apenas um PM mantenha contato, anote os relatos e colha a assinatura, para que a vítima não relate o fato várias vezes.",
+   "tags": [
+    "crime-sexual",
+    "revitimizacao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-055",
+   "subtema": "Crime sexual — Criança e adolescente",
+   "artigo": "POP 2.09.02 — Acionamentos",
+   "enunciado": "Sendo a vítima de crime sexual criança ou adolescente, o policial deverá acionar",
+   "alternativas": [
+    "a Vara da Infância e Juventude, que designará acompanhante para a vítima",
+    "exclusivamente o Conselho Tutelar, dispensada a presença dos pais ou responsáveis",
+    "os pais ou responsáveis e o Ministério Público, antes de qualquer atendimento",
+    "os pais ou responsáveis, se não suspeitos, e o Conselho Tutelar para acompanharem os atos"
+   ],
+   "correta": 3,
+   "explicacao": "Aciona-se os pais ou responsáveis, se não houver suspeita de envolvimento ou condescendência, e o Conselho Tutelar, para acompanharem todos os atos do atendimento.",
+   "tags": [
+    "crime-sexual",
+    "crianca-adolescente"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-056",
+   "subtema": "Crime sexual — Criança e adolescente",
+   "artigo": "POP 2.09.02 — Possibilidade de erro",
+   "enunciado": "Havendo suspeita de envolvimento ou condescendência dos pais com o crime sexual contra criança, constitui possibilidade de erro o policial deixar de",
+   "alternativas": [
+    "comunicar o fato à escola frequentada pela vítima",
+    "conduzir os pais ao distrito policial como suspeitos",
+    "acionar parente próximo que possa acompanhar a vítima",
+    "solicitar a presença de psicólogo antes do atendimento"
+   ],
+   "correta": 2,
+   "explicacao": "Nessa hipótese, o erro previsto é deixar de acionar um parente próximo que possa acompanhar a vítima, já que os pais suspeitos não devem cumprir essa função.",
+   "tags": [
+    "crime-sexual",
+    "erros",
+    "parente"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-057",
+   "subtema": "Crime sexual — Sequência",
+   "artigo": "POP 2.09.02 — Contato inicial",
+   "enunciado": "No contato inicial com a vítima de crime sexual, o policial deverá",
+   "alternativas": [
+    "aguardar a chegada de profissional de saúde antes de dirigir-se à vítima",
+    "colher de imediato os detalhes do fato, para transmitir as características do autor",
+    "evitar contato visual, para não constranger a vítima durante o relato",
+    "estabelecer contato verbal e visual acolhedor, esclarecendo que sua presença visa protegê-la"
+   ],
+   "correta": 3,
+   "explicacao": "O POP determina contato verbal e visual tranquilo e acolhedor, com postura empática, esclarecendo que a presença policial tem o objetivo de proteger e auxiliar a vítima.",
+   "tags": [
+    "crime-sexual",
+    "sequencia",
+    "contato"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-058",
+   "subtema": "Crime sexual — Resultados",
+   "artigo": "POP 2.09.02 — Questionamentos",
+   "enunciado": "Entre os resultados esperados no atendimento de crime sexual está envolver os agentes dos demais atendimentos para preservar a integridade emocional da vítima,",
+   "alternativas": [
+    "questionando-a em ambiente reservado, em tantas oportunidades quanto preciso",
+    "questionando-a somente quando e sobre o estritamente necessário",
+    "questionando-a apenas na presença de representante do Ministério Público",
+    "questionando-a somente após a realização do exame de corpo de delito"
+   ],
+   "correta": 1,
+   "explicacao": "Espera-se que a vítima seja questionada somente quando e sobre o estritamente necessário, evitando revitimização ou vitimização secundária.",
+   "tags": [
+    "crime-sexual",
+    "resultados"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-059",
+   "subtema": "Crime sexual — Erros",
+   "artigo": "POP 2.09.02 — Conduta antiética",
+   "enunciado": "Constitui possibilidade de erro no atendimento de ocorrência de crime sexual",
+   "alternativas": [
+    "agir de forma antiética, fazer comentários ou demonstrar falta de empatia com a vítima",
+    "orientar a vítima sobre os serviços de referência para vítimas de violência sexual",
+    "cobrir a vítima que se encontre sem vestes, evitando constrangimento",
+    "acionar o Conselho Tutelar quando a vítima for adolescente"
+   ],
+   "correta": 0,
+   "explicacao": "Agir de forma antiética, fazer comentários, demonstrar desrespeito e falta de empatia são erros que ocasionam revitimização; as demais condutas integram a sequência de ações.",
+   "tags": [
+    "crime-sexual",
+    "erros"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-060",
+   "subtema": "Medidas protetivas — Agressor",
+   "artigo": "Lei 11.340/06 — Medidas que obrigam o agressor",
+   "enunciado": "Figura entre as medidas protetivas de urgência que obrigam o agressor",
+   "alternativas": [
+    "a matrícula dos dependentes da ofendida em escola próxima",
+    "a recondução da ofendida ao domicílio após o afastamento",
+    "o comparecimento a programas de recuperação e reeducação",
+    "o encaminhamento da ofendida a programa oficial de proteção"
+   ],
+   "correta": 2,
+   "explicacao": "O comparecimento do agressor a programas de recuperação e reeducação obriga o agressor; recondução, matrícula dos dependentes e encaminhamento a programa são medidas destinadas à ofendida.",
+   "tags": [
+    "medidas-protetivas",
+    "agressor"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-061",
+   "subtema": "Medidas protetivas — Agressor",
+   "artigo": "Lei 11.340/06 — Proibição de condutas",
+   "enunciado": "A proibição de aproximação imposta ao agressor abrange",
+   "alternativas": [
+    "a ofendida e seus dependentes menores, vedado o contato por qualquer meio",
+    "exclusivamente a ofendida, com limite mínimo de distância fixado pela autoridade",
+    "a ofendida, seus familiares e as testemunhas, com limite mínimo de distância",
+    "a ofendida e as testemunhas, dispensada a fixação de distância mínima"
+   ],
+   "correta": 2,
+   "explicacao": "A proibição alcança a aproximação da ofendida, de seus familiares e das testemunhas, com fixação de limite mínimo de distância, ao lado das proibições de contato e de frequentação de lugares.",
+   "tags": [
+    "medidas-protetivas",
+    "aproximacao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-062",
+   "subtema": "Medidas protetivas — Agressor",
+   "artigo": "Lei 11.340/06 — Visitas aos dependentes",
+   "enunciado": "A restrição ou suspensão de visitas do agressor aos dependentes menores exige",
+   "alternativas": [
+    "a oitiva da equipe de atendimento multidisciplinar ou serviço similar",
+    "a prévia manifestação do Ministério Público e do Conselho Tutelar",
+    "o trânsito em julgado de condenação por violência doméstica",
+    "a comprovação de agressão direta contra os dependentes"
+   ],
+   "correta": 0,
+   "explicacao": "A restrição ou suspensão de visitas aos dependentes menores é aplicada ouvida a equipe de atendimento multidisciplinar ou serviço similar.",
+   "tags": [
+    "medidas-protetivas",
+    "visitas"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-063",
+   "subtema": "Medidas protetivas — Ofendida",
+   "artigo": "Lei 11.340/06 — Afastamento da ofendida",
+   "enunciado": "O juiz poderá determinar o afastamento da ofendida do lar",
+   "alternativas": [
+    "desde que a ofendida renuncie à partilha dos bens do casal",
+    "com perda provisória do direito à guarda dos filhos menores",
+    "sem prejuízo dos direitos a bens, guarda dos filhos e alimentos",
+    "somente após a separação judicial de corpos do casal"
+   ],
+   "correta": 2,
+   "explicacao": "O afastamento da ofendida do lar ocorre sem prejuízo dos direitos relativos a bens, guarda dos filhos e alimentos, ao lado de medidas como separação de corpos e recondução ao domicílio.",
+   "tags": [
+    "medidas-protetivas",
+    "ofendida"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-064",
+   "subtema": "Medidas protetivas — Ofendida",
+   "artigo": "Lei 11.340/06 — Matrícula dos dependentes",
+   "enunciado": "A matrícula ou transferência dos dependentes da ofendida para instituição de educação básica próxima de seu domicílio será determinada",
+   "alternativas": [
+    "após manifestação da secretaria de educação",
+    "desde que haja vaga disponível na instituição",
+    "somente em instituição da rede estadual",
+    "independentemente da existência de vaga"
+   ],
+   "correta": 3,
+   "explicacao": "A lei autoriza a matrícula ou transferência dos dependentes para a instituição de educação básica mais próxima do domicílio, independentemente da existência de vaga.",
+   "tags": [
+    "medidas-protetivas",
+    "matricula"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-065",
+   "subtema": "Medidas protetivas — Patrimoniais",
+   "artigo": "Lei 11.340/06 — Proteção patrimonial",
+   "enunciado": "Nas medidas patrimoniais de proibição temporária de atos sobre propriedade comum e de suspensão de procurações conferidas ao agressor, o juiz deve",
+   "alternativas": [
+    "intimar o agressor para averbar a restrição em cartório",
+    "comunicar o Ministério Público, que requererá o registro",
+    "oficiar o cartório competente, atualizando os ônus",
+    "determinar à ofendida que promova o registro das restrições"
+   ],
+   "correta": 2,
+   "explicacao": "Nos casos de proibição temporária de compra, venda e locação de propriedade comum e de suspensão de procurações, o juiz deve oficiar o cartório, atualizando os ônus.",
+   "tags": [
+    "medidas-protetivas",
+    "patrimoniais"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-066",
+   "subtema": "Medidas protetivas — Patrimoniais",
+   "artigo": "Lei 11.340/06 — Caução",
+   "enunciado": "Para a proteção patrimonial dos bens da sociedade conjugal ou da mulher, o juiz poderá determinar liminarmente",
+   "alternativas": [
+    "a transferência definitiva à ofendida dos bens adquiridos na constância da união",
+    "o bloqueio integral dos bens do agressor até o trânsito em julgado da ação penal",
+    "a prestação de caução provisória, mediante depósito judicial, por perdas e danos materiais",
+    "a alienação judicial dos bens comuns para garantir o pagamento de alimentos"
+   ],
+   "correta": 2,
+   "explicacao": "Entre as medidas patrimoniais liminares está a caução provisória, mediante depósito judicial, por perdas e danos materiais decorrentes da violência, além da restituição de bens subtraídos.",
+   "tags": [
+    "medidas-protetivas",
+    "caucao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-067",
+   "subtema": "Violência institucional",
+   "artigo": "Lei 13.869/19, art. 15-A — Origem",
+   "enunciado": "O crime de violência institucional, previsto no art. 15-A da Lei de Abuso de Autoridade, foi introduzido",
+   "alternativas": [
+    "pela Lei nº 14.321/2022, com pena de reclusão de um a quatro anos e multa",
+    "pela Lei nº 14.321/2022, com pena de detenção de três meses a um ano e multa",
+    "pela redação original da Lei nº 13.869/2019, com detenção de seis meses a dois anos",
+    "pela Lei nº 14.344/2022, com pena de detenção de três meses a dois anos"
+   ],
+   "correta": 1,
+   "explicacao": "O art. 15-A foi introduzido pela Lei nº 14.321, de 31 de março de 2022, com pena de detenção de três meses a um ano e multa.",
+   "tags": [
+    "violencia-institucional",
+    "origem"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-068",
+   "subtema": "Violência institucional",
+   "artigo": "Lei 13.869/19, art. 15-A — Sujeito passivo",
+   "enunciado": "O tipo de violência institucional protege, quanto aos sujeitos passivos,",
+   "alternativas": [
+    "apenas a vítima de crimes violentos, excluídas as testemunhas",
+    "a vítima e a testemunha de qualquer infração penal",
+    "a vítima de crimes violentos e a testemunha de qualquer crime",
+    "a vítima de infração penal e a testemunha de crimes violentos"
+   ],
+   "correta": 3,
+   "explicacao": "O caput alcança a vítima de infração penal, crime ou contravenção, com ou sem violência, e a testemunha de crimes violentos; a exigência de violência recai apenas sobre o crime testemunhado.",
+   "tags": [
+    "violencia-institucional",
+    "sujeito-passivo"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-069",
+   "subtema": "Violência institucional",
+   "artigo": "Lei 13.869/19, art. 15-A — Testemunhas abrangidas",
+   "enunciado": "Para o crime de violência institucional, o conceito de testemunha abrange",
+   "alternativas": [
+    "todas as testemunhas, inclusive instrumentárias e indiretas",
+    "numerárias, referidas e informantes, sem instrumentárias e indiretas",
+    "apenas as testemunhas compromissadas ouvidas em juízo",
+    "apenas as testemunhas presenciais ouvidas no processo penal"
+   ],
+   "correta": 1,
+   "explicacao": "Abrange testemunhas numerárias, referidas e as não compromissadas, informantes ou declarantes, em inquérito ou processo, mas não as instrumentárias nem as indiretas.",
+   "tags": [
+    "violencia-institucional",
+    "testemunhas"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-070",
+   "subtema": "Violência institucional",
+   "artigo": "Lei 13.869/19, art. 15-A — Procedimentos",
+   "enunciado": "A conduta típica consiste em submeter vítima ou testemunha a procedimentos desnecessários, repetitivos ou invasivos, sendo invasivo o procedimento que",
+   "alternativas": [
+    "agride a intimidade da pessoa, sem respeitar sua privacidade",
+    "é adotado mais de uma vez na mesma persecução penal",
+    "não tem utilidade para o fim da investigação ou do processo",
+    "é realizado sem prévia autorização judicial fundamentada"
+   ],
+   "correta": 0,
+   "explicacao": "Invasivo é o procedimento que agride a intimidade e não respeita a privacidade; repetitivo é o adotado mais de uma vez; desnecessário é o inútil para a investigação ou o processo.",
+   "tags": [
+    "violencia-institucional",
+    "procedimentos"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-071",
+   "subtema": "Violência institucional",
+   "artigo": "Lei 13.869/19, art. 15-A — Resultado",
+   "enunciado": "Para a configuração da violência institucional, além do procedimento desnecessário, repetitivo ou invasivo, exige-se que ele",
+   "alternativas": [
+    "seja praticado com a finalidade específica de obter confissão do investigado",
+    "leve a vítima ou testemunha a reviver, sem estrita necessidade, a violência",
+    "seja reiterado ao menos três vezes no curso da mesma persecução penal",
+    "cause lesão corporal ou dano psicológico atestado por perícia oficial"
+   ],
+   "correta": 1,
+   "explicacao": "É indispensável que o procedimento leve a vítima ou testemunha a reviver, sem estrita necessidade, a situação de violência ou outras situações geradoras de sofrimento ou estigmatização; se o procedimento era necessário, não há crime.",
+   "tags": [
+    "violencia-institucional",
+    "resultado"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-072",
+   "subtema": "Violência institucional",
+   "artigo": "Lei 13.869/19, art. 15-A — Classificação",
+   "enunciado": "Quanto à classificação do crime de violência institucional, é correto afirmar, conforme o material, que se trata de crime",
+   "alternativas": [
+    "formal, consumado com a simples submissão ao procedimento, sem admitir tentativa",
+    "material, consumado quando a vítima ou testemunha revive a situação, admitindo tentativa",
+    "de mera conduta, consumado com a instauração do procedimento, sem tentativa",
+    "material, consumado com a conclusão do procedimento, sem admitir tentativa"
+   ],
+   "correta": 1,
+   "explicacao": "É crime material: consuma-se quando a vítima ou testemunha revive a situação; admite tentativa se o procedimento desnecessário for interrompido por circunstâncias alheias à vontade do agente.",
+   "tags": [
+    "violencia-institucional",
+    "classificacao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-073",
+   "subtema": "Violência institucional",
+   "artigo": "Lei 13.869/19, art. 15-A, §§ 1º e 2º — Majorantes",
+   "enunciado": "Nas formas majoradas da violência institucional, se o agente público permitir que terceiro intimide a vítima de crimes violentos, gerando revitimização,",
+   "alternativas": [
+    "a pena é aplicada em dobro; se ele próprio intimidar, é aumentada de dois terços",
+    "a pena é aumentada de dois terços; se ele próprio intimidar, é aplicada em dobro",
+    "a pena é aumentada de um terço; se ele próprio intimidar, de metade",
+    "a pena é aumentada de metade; se ele próprio intimidar, é aplicada em triplo"
+   ],
+   "correta": 1,
+   "explicacao": "A forma omissiva, permitir que terceiro intimide, aumenta a pena de dois terços; a comissiva, o próprio agente intimidar, aplica a pena em dobro.",
+   "tags": [
+    "violencia-institucional",
+    "majorantes"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-074",
+   "subtema": "Violência institucional",
+   "artigo": "Lei 13.869/19, art. 15-A — Majorantes",
+   "enunciado": "Sobre as formas majoradas da violência institucional, NÃO se pode afirmar que",
+   "alternativas": [
+    "podem ocorrer nas formas comissiva e omissiva, conforme a conduta do agente",
+    "abrangem a vítima de infrações penais e a testemunha de crimes violentos revitimizadas",
+    "mesmo com a pena em dobro, configuram infração de menor potencial ofensivo",
+    "ocorrem com a intimidação de vítimas de crimes violentos, gerando revitimização"
+   ],
+   "correta": 1,
+   "explicacao": "As majorantes referem-se apenas a vítimas de crimes violentos, excluindo testemunhas e vítimas de infrações sem violência; mesmo em dobro, a pena máxima de dois anos mantém o menor potencial ofensivo.",
+   "tags": [
+    "violencia-institucional",
+    "majorantes",
+    "pegadinha"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-075",
+   "subtema": "Violência institucional",
+   "artigo": "Lei 13.869/19, art. 15-A — Violência presumida",
+   "enunciado": "Quanto aos crimes com violência presumida, em relação à violência institucional, o material sustenta que",
+   "alternativas": [
+    "nem vítima nem testemunha são abrangidas, por ausência de violência real",
+    "somente a vítima pode sofrer violência institucional, excluída a testemunha",
+    "vítima e testemunha são abrangidas, pois a presunção equipara-se à violência",
+    "somente a testemunha é abrangida, pois a vítima já está protegida pelo caput"
+   ],
+   "correta": 2,
+   "explicacao": "Nos crimes com violência presumida, o legislador equiparou a presunção à violência física, de modo que vítima e testemunha podem sofrer violência institucional.",
+   "tags": [
+    "violencia-institucional",
+    "violencia-presumida"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-076",
+   "subtema": "Violência institucional",
+   "artigo": "Lei 13.869/19, art. 15-A — Vítima em sentido amplo",
+   "enunciado": "Na concussão, cujo sujeito passivo imediato é a Administração Pública, a submissão da pessoa de quem se exigiu a vantagem a procedimentos desnecessários",
+   "alternativas": [
+    "não configura violência institucional, pois ela é apenas sujeito passivo mediato",
+    "configura violência institucional, pois vítima deve ser entendida em sentido amplo",
+    "configura violência institucional apenas se houver grave ameaça na exigência",
+    "não configura violência institucional, por se tratar de crime sem violência"
+   ],
+   "correta": 1,
+   "explicacao": "Vítima deve ser entendida em sentido amplo; embora a pessoa física seja sujeito passivo mediato na concussão, sua submissão a procedimentos desnecessários configura o crime, que no caput não exige violência no crime sofrido pela vítima.",
+   "tags": [
+    "violencia-institucional",
+    "sentido-amplo"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-077",
+   "subtema": "CPPM",
+   "artigo": "CPPM — Art. 400-A",
+   "enunciado": "Nas audiências de instrução e julgamento, em especial nas que apurem crimes contra a dignidade sexual, o art. 400-A do CPPM veda",
+   "alternativas": [
+    "a presença do acusado na sala durante o depoimento da vítima em qualquer hipótese",
+    "manifestação sobre elementos alheios aos fatos e linguagem ofensiva à vítima",
+    "a formulação de perguntas diretamente pelas partes à vítima ou às testemunhas",
+    "a gravação audiovisual do depoimento da vítima de crime contra a dignidade sexual"
+   ],
+   "correta": 1,
+   "explicacao": "O dispositivo impõe a todos zelar pela integridade física e psicológica da vítima, vedando manifestação sobre circunstâncias alheias aos fatos e uso de linguagem, informações ou material que ofendam a dignidade da vítima ou de testemunhas.",
+   "tags": [
+    "violencia-institucional",
+    "cppm-400a"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-078",
+   "subtema": "Mandado judicial — Conceitos",
+   "artigo": "POP 4.04.00 — Mandado judicial",
+   "enunciado": "Segundo o Processo 4.04.00, mandado judicial é",
+   "alternativas": [
+    "ordem verbal da autoridade judiciária, reduzida a termo pelo oficial de justiça",
+    "ordem escrita de autoridade judicial com finalidade específica, como citação, intimação ou despejo",
+    "requisição do Ministério Público para a prática de diligência pela Polícia Militar",
+    "ato escrito de autoridade judicial competente que determina diligência cujo cumprimento pode caber à PM"
+   ],
+   "correta": 3,
+   "explicacao": "Mandado judicial é o ato escrito de autoridade judicial competente determinando ato ou diligência cujo cumprimento poderá ser executado pela PM; a ordem com finalidade específica, como citação ou despejo, corresponde ao conceito de determinação judicial.",
+   "tags": [
+    "mandado",
+    "conceitos"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-079",
+   "subtema": "Planejamento",
+   "artigo": "POP 4.04.01 — Atividades críticas",
+   "enunciado": "São atividades críticas do planejamento do cumprimento de mandado judicial",
+   "alternativas": [
+    "levantar informações, estabelecer efetivo, recursos materiais e cronograma",
+    "levantar informações, prelecionar o efetivo, vistoriar o imóvel e apreender bens",
+    "contatar o morador, ler o mandado, vistoriar compartimentos e conduzir as partes",
+    "definir o comandante, acionar o GATE, cercar o imóvel e arrolar testemunhas"
+   ],
+   "correta": 0,
+   "explicacao": "O POP 4.04.01 tem como atividades críticas levantar informações, estabelecer efetivo, recursos materiais e cronograma; preleção, contato com morador e vistoria são atividades críticas do POP 4.04.02.",
+   "tags": [
+    "mandado",
+    "planejamento",
+    "atividades-criticas"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-080",
+   "subtema": "Planejamento",
+   "artigo": "POP 4.04.01 — Dúvida sobre o mandado",
+   "enunciado": "Havendo dúvida quanto ao conteúdo do mandado judicial, a ação corretiva prevista é",
+   "alternativas": [
+    "interpretar o mandado em favor do morador",
+    "consultar o P/2 da OPM",
+    "esclarecer com a autoridade judiciária",
+    "devolver o mandado sem cumprimento"
+   ],
+   "correta": 2,
+   "explicacao": "A dúvida quanto ao conteúdo é esclarecida com a autoridade judiciária; faltando informação e não sabendo ela informar, ratifica-se com a autoridade o cumprimento da ordem.",
+   "tags": [
+    "mandado",
+    "planejamento",
+    "duvida"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-081",
+   "subtema": "Planejamento",
+   "artigo": "POP 4.04.01 — Quantidade de objetos",
+   "enunciado": "Não especificando o mandado a quantidade de objetos a apreender, os policiais militares deverão",
+   "alternativas": [
+    "apreender apenas os objetos apresentados espontaneamente",
+    "limitar-se à apreensão de um exemplar de cada objeto descrito",
+    "devolver o mandado para complementação pela autoridade judicial",
+    "realizar vistoria no local e as buscas pessoais necessárias"
+   ],
+   "correta": 3,
+   "explicacao": "Sem especificação da quantidade, os policiais realizam vistoria no local e as buscas pessoais necessárias, conforme a ação corretiva do POP 4.04.01.",
+   "tags": [
+    "mandado",
+    "planejamento",
+    "quantidade"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-082",
+   "subtema": "Planejamento",
+   "artigo": "POP 4.04.01 — Material",
+   "enunciado": "Não dispondo a OPM do material necessário para o cumprimento do mandado, a ação corretiva determina",
+   "alternativas": [
+    "verificar a possibilidade de obtê-lo junto a OPM especializadas",
+    "adiar o cumprimento até a aquisição do material pela unidade",
+    "solicitar o material ao oficial de justiça responsável pela diligência",
+    "cumprir o mandado com o material disponível, registrando a falta"
+   ],
+   "correta": 0,
+   "explicacao": "A OPM que não dispõe do material deve verificar a possibilidade de obtê-lo junto a OPM especializadas, sem prejuízo da confirmação de apoio especializado quando necessário.",
+   "tags": [
+    "mandado",
+    "planejamento",
+    "material"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-083",
+   "subtema": "Planejamento",
+   "artigo": "POP 4.04.01 — COP",
+   "enunciado": "A revisão de 2022 incluiu no planejamento do cumprimento do mandado a garantia de que",
+   "alternativas": [
+    "a gravação seja entregue ao juiz expedidor em até vinte e quatro horas",
+    "todos os PM escalados portem COP, vedado o cumprimento sem gravação integral",
+    "o oficial de justiça grave a diligência com equipamento fornecido pela PM",
+    "ao menos um PM escalado porte COP ou meio de gravação da ação policial"
+   ],
+   "correta": 3,
+   "explicacao": "Deve-se garantir que pelo menos um PM escalado porte COP ou outro meio de gravação, para coletar provas que atestem a legalidade da ação; deixar de prever esse efetivo passou a ser possibilidade de erro.",
+   "tags": [
+    "mandado",
+    "planejamento",
+    "cop"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-084",
+   "subtema": "Planejamento",
+   "artigo": "POP 4.04.01 — Informações",
+   "enunciado": "No planejamento, a verificação de informações que contribuam para o cumprimento do mandado será feita junto",
+   "alternativas": [
+    "à Polícia Civil, por meio de requisição formal ao distrito policial da área",
+    "ao P/2 da OPM, inclusive por sistemas como Infocrim, Infoseg e Fotocrim",
+    "ao oficial de justiça, que detém as informações sobre o local e as pessoas",
+    "ao Ministério Público, que acompanha a execução do mandado judicial"
+   ],
+   "correta": 1,
+   "explicacao": "Verifica-se junto ao P/2 da OPM a disponibilidade de informações, o que pode ser feito pelos sistemas inteligentes, como COPOM On-Line, Infocrim, Infoseg e Fotocrim.",
+   "tags": [
+    "mandado",
+    "planejamento",
+    "p2"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-085",
+   "subtema": "Planejamento",
+   "artigo": "POP 4.04.01 — Funções",
+   "enunciado": "Na definição das funções para o cumprimento do mandado, o POP inclui, entre outras,",
+   "alternativas": [
+    "comandante da equipe, negociador, atirador de precisão e equipe de assalto tático",
+    "comandante, segurança, anotações e comunicações, vistoria e segurança do oficial",
+    "encarregado da preleção, motorista, rádio-operador e responsável pela imprensa",
+    "comandante da operação, perito, escrivão ad hoc e responsável pela custódia"
+   ],
+   "correta": 1,
+   "explicacao": "Definem-se o comandante da equipe, os responsáveis pela segurança, pelas anotações e comunicações, pela vistoria interna e pela segurança do oficial de justiça, entre outros.",
+   "tags": [
+    "mandado",
+    "planejamento",
+    "funcoes"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-086",
+   "subtema": "Planejamento",
+   "artigo": "POP 4.04.01 — Apoio especializado",
+   "enunciado": "Entre os apoios especializados a confirmar no planejamento, o POP menciona",
+   "alternativas": [
+    "Bombeiro, SAMU, Conselho Tutelar, Canil e oficial de justiça",
+    "GATE, COE, Força Tática, ROCAM e Polícia Federal",
+    "Canil, GRPAe, Polícia Civil, Guarda Municipal e Defesa Civil",
+    "GATE, Bombeiro, sistema Olho de Águia, Canil e equipe de zoonoses"
+   ],
+   "correta": 3,
+   "explicacao": "O POP cita GATE, Bombeiro, sistema Olho de Águia para imagens em tempo real, Canil e apoio de outros órgãos, como a equipe de zoonoses para captura de animais.",
+   "tags": [
+    "mandado",
+    "planejamento",
+    "apoio"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-087",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Oficial de justiça",
+   "enunciado": "Solicitando o oficial de justiça apoio diretamente a uma US, a ação corretiva prevista é",
+   "alternativas": [
+    "prestar o apoio imediatamente, por se tratar de ordem judicial em execução",
+    "solicitar a presença do superior para comunicar o CFP, que avaliará os meios",
+    "recusar o apoio e orientar o oficial de justiça a oficiar o comando da OPM",
+    "prestar o apoio após consulta ao centro de operações sobre a disponibilidade"
+   ],
+   "correta": 1,
+   "explicacao": "A US solicita imediatamente a presença do superior para comunicar o CFP, que avaliará se há meios para atender à solicitação.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "oficial-justica"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-088",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Período noturno",
+   "enunciado": "Sendo à noite o momento do cumprimento do mandado de busca domiciliar, o POP orienta",
+   "alternativas": [
+    "buscar autorização do morador, com testemunha, ou aguardar o dia cercando o imóvel",
+    "ingressar imediatamente, por se tratar de ordem judicial com prazo determinado",
+    "ingressar apenas com a presença do oficial de justiça, dispensada a autorização",
+    "suspender a diligência e devolver o mandado à autoridade judicial expedidora"
+   ],
+   "correta": 0,
+   "explicacao": "À noite, busca-se a autorização do morador, com testemunha; não havendo, aguarda-se o horário diurno para realizar a busca, cercando os pontos vulneráveis.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "noturno"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-089",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.00 — Duração",
+   "enunciado": "Quanto ao horário das buscas domiciliares, é correto afirmar, segundo o processo, que",
+   "alternativas": [
+    "podem ser executadas a qualquer hora, desde que o mandado seja lido ao morador",
+    "são executadas durante o dia, não podendo prosseguir após esse período em nenhuma hipótese",
+    "são executadas durante o dia, podendo prosseguir após esse período pelo estrito tempo necessário",
+    "são executadas durante o dia, podendo prosseguir à noite com autorização verbal do juiz"
+   ],
+   "correta": 2,
+   "explicacao": "As buscas são executadas de dia, podendo permanecer após esse período o estrito tempo para o término da diligência; a vedação absoluta foi a assertiva incorreta da questão do MFN.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "horario"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-090",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Elevadores",
+   "enunciado": "Havendo elevadores no local da diligência, os policiais militares deverão",
+   "alternativas": [
+    "posicionar um policial em cada andar para vigiar as portas dos elevadores",
+    "utilizá-los para acesso rápido ao andar do imóvel objeto do mandado",
+    "desligá-los por meio do quadro de energia do edifício antes da ação",
+    "mantê-los parados no térreo e sob controle policial antes de iniciar as buscas"
+   ],
+   "correta": 3,
+   "explicacao": "A ação corretiva manda manter os elevadores parados no andar térreo e sob controle policial antes do início das buscas, evitando fuga ou surpresa.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "elevadores"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-091",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Local de trabalho",
+   "enunciado": "Tratando-se de habitação coletiva ou de compartimento não aberto ao público onde se exerça profissão, o POP determina",
+   "alternativas": [
+    "adotar os procedimentos de busca em local público",
+    "adotar os mesmos procedimentos da busca em domicílio",
+    "dispensar o mandado, por não se tratar de domicílio",
+    "exigir a presença de representante do conselho profissional"
+   ],
+   "correta": 1,
+   "explicacao": "Habitação coletiva e compartimento não aberto ao público onde se exerce profissão recebem os mesmos procedimentos da busca em domicílio.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "domicilio"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-092",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Nada encontrado",
+   "enunciado": "Não sendo encontrada a pessoa ou o objeto previsto no mandado, o POP determina",
+   "alternativas": [
+    "apreender objetos similares para posterior conferência pela autoridade",
+    "lavrar auto de busca negativa assinado pelo morador e por duas testemunhas",
+    "permanecer no local até o fim do período diurno aguardando o alvo",
+    "comunicar ao proprietário ou morador, de maneira clara, que nada está sendo levado"
+   ],
+   "correta": 3,
+   "explicacao": "Nada sendo encontrado, comunica-se ao proprietário ou morador, de maneira clara, que nada está sendo levado.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "negativo"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-093",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Outros objetos",
+   "enunciado": "Localizados durante a diligência objetos não constantes do mandado, mas que sejam produto de crime, os policiais deverão",
+   "alternativas": [
+    "mantê-los no local, restringindo-se ao que consta do mandado",
+    "apreendê-los e prender as pessoas que estavam em sua posse",
+    "comunicar o juiz e aguardar autorização para a apreensão",
+    "registrá-los em relatório para nova diligência posterior"
+   ],
+   "correta": 1,
+   "explicacao": "Objetos produto de crime, ainda que não constantes do mandado, devem ser apreendidos, com prisão de quem os possuía; já os objetos lícitos verificados e não relacionados permanecem no local.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "outros-objetos"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-094",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Materiais eletrônicos",
+   "enunciado": "Quanto a computadores, celulares, chips e pen drives encontrados na vistoria, o POP orienta",
+   "alternativas": [
+    "desconsiderá-los, por exigirem mandado específico de apreensão de dados",
+    "apreender todos, por poderem conter informações de interesse da investigação",
+    "atentar para sua existência, restringindo a apreensão ao que consta do mandado",
+    "apreendê-los somente com autorização verbal do morador, registrada em vídeo"
+   ],
+   "correta": 2,
+   "explicacao": "O policial deve atentar para materiais que possam conter informações importantes, restringindo-se a apreender somente o relacionado no mandado; objetos não visados permanecem no local de origem.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "eletronicos"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-095",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Preservação",
+   "enunciado": "Para possibilitar exame pericial posterior, os objetos apreendidos no cumprimento do mandado devem ser",
+   "alternativas": [
+    "limpos e acondicionados em caixas lacradas pelo comandante da operação",
+    "preservados, com luvas descartáveis e invólucros plásticos, quando possível",
+    "manuseados apenas pelo oficial de justiça, que os entregará ao perito",
+    "fotografados no local e entregues ao morador como fiel depositário"
+   ],
+   "correta": 1,
+   "explicacao": "Os objetos devem ser preservados com luvas descartáveis e sacos plásticos, quando possível, e conduzidos ao DP para BO e AEA; alterar a forma de recolhimento do corpo de delito é possibilidade de erro.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "preservacao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-096",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Resistência do morador",
+   "enunciado": "Não acatando o morador a determinação judicial, a sequência prevista é",
+   "alternativas": [
+    "suspender a diligência e comunicar a recusa à autoridade judicial expedidora",
+    "usar de imediato a força necessária, dispensada a negociação por haver ordem judicial",
+    "negociar alertando sobre o uso da força e, persistindo, usar a força necessária",
+    "prender o morador por desobediência e aguardar ordem de arrombamento"
+   ],
+   "correta": 2,
+   "explicacao": "Negocia-se alertando sobre o uso da força, arrolando testemunhas da negativa se possível; não atendendo, usa-se a força necessária para transpor obstáculo, vencer resistência ou impedir a fuga.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "resistencia"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-097",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Morador ausente",
+   "enunciado": "Estando o morador ausente, ou havendo apenas pessoa incapaz de compreender o fato, o POP orienta",
+   "alternativas": [
+    "aguardar o retorno do morador, vedado o ingresso na sua ausência",
+    "arrolar testemunha, de preferência vizinho, e franquear a entrada para a vistoria",
+    "ingressar sem testemunhas, registrando a ausência do morador no BOPM",
+    "solicitar ao oficial de justiça a nomeação de curador para acompanhar a busca"
+   ],
+   "correta": 1,
+   "explicacao": "Arrola-se testemunha, preferencialmente vizinho, para acompanhar a diligência, buscando-se os materiais necessários para franquear a entrada e prosseguindo conforme as regras de vistoria.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "ausente"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-098",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Abertura de portas",
+   "enunciado": "Durante a vistoria dos compartimentos, ao abrir portas, o policial deverá",
+   "alternativas": [
+    "posicionar-se do lado das dobradiças, abrindo-a rapidamente",
+    "posicionar-se do lado da fechadura, abrindo-a lentamente",
+    "posicionar-se em frente à porta, com a arma em terceiro olho",
+    "determinar ao morador que abra as portas à frente do policial"
+   ],
+   "correta": 1,
+   "explicacao": "Ao abrir portas, o policial posiciona-se do lado da fechadura, abrindo-a lentamente, e vistoria os compartimentos sem importunar os moradores mais que o indispensável.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "portas"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-099",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Sem oficial de justiça",
+   "enunciado": "Cumprido o mandado somente pela Polícia Militar, sem oficial de justiça, o comandante da operação deverá",
+   "alternativas": [
+    "comunicar o cumprimento ao Ministério Público em até quarenta e oito horas",
+    "encaminhar o próprio mandado cumprido diretamente ao cartório judicial",
+    "confeccionar relatório ao juiz expedidor, encaminhado via comandante imediato",
+    "registrar o cumprimento apenas no BOPM, dispensado qualquer relatório"
+   ],
+   "correta": 2,
+   "explicacao": "Sem oficial de justiça, o Cmt da Operação confecciona relatório sobre o cumprimento, endereçado ao juiz expedidor, via comandante imediato; sendo o oficial de justiça o executor, a PM o acompanha e resguarda.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "relatorio"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-100",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Sequência inicial",
+   "enunciado": "Antes do deslocamento para o local, a sequência do POP 4.04.02 prevê",
+   "alternativas": [
+    "reunir e prelecionar a equipe, com leitura do mandado, e informar o COPOM ou CAD",
+    "comunicar o morador sobre o horário previsto para o cumprimento do mandado",
+    "requisitar a presença de representante do Ministério Público no local",
+    "obter nova autorização judicial para o emprego de força, se necessário"
+   ],
+   "correta": 0,
+   "explicacao": "Reúne-se a equipe e realiza-se a preleção, inclusive com leitura do documento judicial, e informa-se o COPOM ou CAD sobre o cumprimento e as equipes envolvidas.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "prelecao"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-101",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Contato com o morador",
+   "enunciado": "Chegando à entrada do imóvel, o responsável pelo cumprimento do mandado deverá",
+   "alternativas": [
+    "ler o mandado em voz alta na via pública, na presença de testemunhas",
+    "ingressar imediatamente, lendo o mandado apenas após a vistoria completa",
+    "entregar cópia do mandado ao morador e aguardar sua manifestação por escrito",
+    "informar a ordem, intimar a abrir e ficar em local seguro, mostrar e ler o mandado"
+   ],
+   "correta": 3,
+   "explicacao": "Aciona-se o morador, informando a ordem judicial e intimando-o a abrir a porta e ficar em local seguro; em seguida mostra-se e lê-se o mandado e determina-se a apresentação das pessoas ou objetos.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "contato"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-102",
+   "subtema": "Disciplina de ruído",
+   "artigo": "POP 4.04.00 — Disciplina de ruído",
+   "enunciado": "Não corresponde à disciplina de ruído no cumprimento de mandado de busca domiciliar",
+   "alternativas": [
+    "pisar de modo a fazer o mínimo ruído, atentando para o tipo de piso",
+    "inspecionar vestes e aparelhos antes da ação, como celular e chaves",
+    "imobilizar e amordaçar a pessoa alvo que insista em falar",
+    "combinar previamente sinais ou gestos para a comunicação entre policiais"
+   ],
+   "correta": 2,
+   "explicacao": "A disciplina de ruído reduz ou elimina sons para manter anônimo o posicionamento; imobilizar e amordaçar quem insiste em falar configuraria abuso e não integra o conceito, sendo a alternativa incorreta da questão do MFN.",
+   "tags": [
+    "mandado",
+    "disciplina-ruido"
+   ]
+  },
+  {
+   "id": "vdmandado-elab-103",
+   "subtema": "Cumprimento",
+   "artigo": "POP 4.04.02 — Acautelar-se",
+   "enunciado": "Ao percorrer as dependências do imóvel, o POP orienta empregar",
+   "alternativas": [
+    "o fatiamento ou tomada de ângulo e a olhada rápida, com espelho se disponível",
+    "a entrada dinâmica em todos os cômodos, reduzindo o tempo de exposição",
+    "a progressão em coluna pelo centro dos cômodos, com arma em posição sul",
+    "a varredura com lanterna acesa, anunciando a presença policial em cada cômodo"
+   ],
+   "correta": 0,
+   "explicacao": "Empregam-se as técnicas de fatiamento ou tomada de ângulo e olhada rápida, evitando exposição desnecessária, com uso de espelho se houver, inclusive ao vistoriar sob camas e subir escadas.",
+   "tags": [
+    "mandado",
+    "cumprimento",
+    "tecnicas"
+   ]
+  }
+ ]
+}

@@ -223,6 +223,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "vdmandado-elab",
+      "nome": "Violência doméstica, crime sexual e mandado judicial",
+      "nomeCompleto": "Processos 2.09.00 e 4.04.00 — violência doméstica, medidas protetivas, crime sexual, violência institucional e cumprimento de mandado judicial (103 questões)",
+      "norma": "POP 2.09.00 e 4.04.00 (rev. 2022), NI PM3-001/02/21, Lei 11.340/06 e Lei 14.321/22",
+      "arquivo": "data/vdmandado-elab.json",
+      "cor": "#8a2f4a",
+      "ativo": true,
+      "ordem": 21,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
