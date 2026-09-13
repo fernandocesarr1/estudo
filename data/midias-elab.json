@@ -1,0 +1,2016 @@
+{
+ "materia": "midias-elab",
+ "versao": "1.5.0",
+ "atualizadoEm": "2026-09-13",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Aplicação prática",
+  "Atribuições",
+  "Boas práticas",
+  "Canais oficiais",
+  "Candidatos a cargos eletivos",
+  "Conceitos",
+  "Faculdades",
+  "Grupos funcionais",
+  "Objetivos",
+  "Responsabilização",
+  "Síntese",
+  "Vedações",
+  "Âmbito de aplicação"
+ ],
+ "questoes": [
+  {
+   "id": "midias-elab-001",
+   "subtema": "Objetivos",
+   "artigo": "Dtz PM3-006/02/21 — Objetivos",
+   "enunciado": "Entre os objetivos declarados da Diretriz que disciplina o uso de mídias sociais e aplicativos mensageiros por policiais militares inclui-se obstar",
+   "alternativas": [
+    "o uso de mídias sociais por policiais militares em qualquer circunstância da vida privada",
+    "a exposição que possa prejudicar a segurança pessoal do policial, de familiares e amigos",
+    "a criação de perfis pessoais por policiais militares da ativa, agregados e veteranos",
+    "o acesso a aplicativos mensageiros durante o horário de expediente administrativo"
+   ],
+   "correta": 1,
+   "explicacao": "A Diretriz busca obstar a exposição que prejudique a segurança pessoal, de familiares e amigos, a exposição de instalações, fardamentos, viaturas, armamentos e equipamentos, conteúdos depreciativos e a publicidade de ocorrências sem o filtro dos canais oficiais. A criação de perfis pessoais permanece de livre arbítrio.",
+   "tags": [
+    "midias",
+    "objetivos"
+   ]
+  },
+  {
+   "id": "midias-elab-002",
+   "subtema": "Objetivos",
+   "artigo": "Dtz PM3-006/02/21 — Publicidade de ocorrências",
+   "enunciado": "A Diretriz objetiva obstar a publicidade de ocorrências, missões, ações, operações, apurações ou investigações policiais-militares",
+   "alternativas": [
+    "somente nos casos em que houver emprego de arma de fogo pelo policial",
+    "em qualquer hipótese, inclusive pelos canais oficiais da Instituição",
+    "apenas quando houver imagens de pessoas detidas na ocorrência",
+    "sem o filtro dos canais oficiais de comunicação social da Instituição"
+   ],
+   "correta": 3,
+   "explicacao": "A norma veda a publicidade sem o filtro dos canais oficiais de comunicação social, preservando a avaliação institucional sobre conveniência e oportunidade da divulgação, o que não impede a difusão pelos canais oficiais.",
+   "tags": [
+    "midias",
+    "objetivos",
+    "canais-oficiais"
+   ]
+  },
+  {
+   "id": "midias-elab-003",
+   "subtema": "Objetivos",
+   "artigo": "Dtz PM3-006/02/21 — Conteúdos depreciativos",
+   "enunciado": "A Diretriz busca obstar imagens, vídeos, áudios, comentários e opiniões depreciativos",
+   "alternativas": [
+    "apenas a autoridades constituídas dos Poderes Executivo e Judiciário",
+    "exclusivamente à Polícia Militar do Estado de São Paulo e a seus comandantes",
+    "à PMESP, a demais órgãos públicos, a autoridades ou a outros policiais militares",
+    "somente quando dirigidos a superiores hierárquicos do próprio policial"
+   ],
+   "correta": 2,
+   "explicacao": "O alcance é amplo: conteúdos depreciativos à PMESP, a demais órgãos públicos, a autoridades ou a outros policiais militares, criados, editados, postados ou compartilhados por meio de contas pessoais.",
+   "tags": [
+    "midias",
+    "objetivos",
+    "depreciativos"
+   ]
+  },
+  {
+   "id": "midias-elab-004",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-006/02/21 — Redes sociais",
+   "enunciado": "Agrupamentos humanos instituídos por interações e laços sociais, apoiados ou não em tecnologias digitais de comunicação, correspondem ao conceito de",
+   "alternativas": [
+    "mídias sociais",
+    "redes sociais",
+    "aplicativos mensageiros",
+    "plataformas digitais de relacionamento"
+   ],
+   "correta": 1,
+   "explicacao": "As redes sociais são os agrupamentos humanos formados por interações e laços sociais, apoiados ou não em tecnologia; as mídias sociais são as tecnologias e plataformas on-line de disseminação de conteúdos, e os aplicativos mensageiros, os softwares de envio e recebimento de mensagens em tempo real.",
+   "tags": [
+    "midias",
+    "conceitos",
+    "redes"
+   ]
+  },
+  {
+   "id": "midias-elab-005",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-006/02/21 — Mídias sociais",
+   "enunciado": "Tecnologias e plataformas on-line utilizadas para disseminar conteúdos diversos, permitindo o compartilhamento de opiniões, ideias, experiências e perspectivas, definem",
+   "alternativas": [
+    "as redes sociais, que independem de suporte tecnológico digital",
+    "as mídias sociais, que englobam textos, imagens, áudios e vídeos",
+    "os aplicativos mensageiros, voltados à comunicação em tempo real",
+    "os canais oficiais de comunicação social da Polícia Militar do Estado"
+   ],
+   "correta": 1,
+   "explicacao": "As mídias sociais englobam textos, imagens, áudios e vídeos, tendo como exemplos o Instagram, o Facebook, o Tik Tok e o YouTube, entre outros citados pela norma.",
+   "tags": [
+    "midias",
+    "conceitos",
+    "midias-sociais"
+   ]
+  },
+  {
+   "id": "midias-elab-006",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-006/02/21 — Aplicativos mensageiros",
+   "enunciado": "Softwares desenvolvidos para envio e recebimento de mensagens em tempo real correspondem",
+   "alternativas": [
+    "às mídias sociais, como Instagram, Facebook e Tik Tok",
+    "aos aplicativos mensageiros, como WhatsApp, Telegram e Signal",
+    "às redes sociais, que independem de tecnologia digital",
+    "aos canais funcionais de rádio comunicação da Instituição"
+   ],
+   "correta": 1,
+   "explicacao": "A norma exemplifica os aplicativos mensageiros com WhatsApp, Telegram, Signal, WeChat, Facebook Messenger e Google Allo, destinados à troca de mensagens em tempo real.",
+   "tags": [
+    "midias",
+    "conceitos",
+    "aplicativos"
+   ]
+  },
+  {
+   "id": "midias-elab-007",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-006/02/21 — Criação de perfis",
+   "enunciado": "O cadastramento de usuário, com fornecimento de dados pessoais e personalização de preferências, imprescindível ao acesso às plataformas digitais de relacionamento, corresponde",
+   "alternativas": [
+    "à criação de perfis, páginas e canais em mídias sociais",
+    "à criação de conteúdos destinados a informar ou entreter",
+    "à postagem de conteúdos por meio de mensagens e links",
+    "ao compartilhamento de conteúdos publicados por terceiros"
+   ],
+   "correta": 0,
+   "explicacao": "A criação de perfis, páginas e canais é o cadastramento do usuário nas plataformas digitais de relacionamento, ambientes on-line que conectam pessoas para fins de trabalho, lazer ou entretenimento.",
+   "tags": [
+    "midias",
+    "conceitos",
+    "perfis"
+   ]
+  },
+  {
+   "id": "midias-elab-008",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-006/02/21 — Criação de conteúdos",
+   "enunciado": "A produção de textos, artigos, imagens, vídeos e áudios, isolados ou combinados, com o objetivo de informar, entreter ou influenciar interessados, define",
+   "alternativas": [
+    "o compartilhamento de conteúdos",
+    "a edição de conteúdos",
+    "a postagem de conteúdos",
+    "a criação de conteúdos"
+   ],
+   "correta": 3,
+   "explicacao": "A criação de conteúdos é a produção do material; a edição é a alteração, correção, aprimoramento ou transformação; a postagem é o ato de dar publicidade; e o compartilhamento é a divulgação de conteúdo já publicado por outro usuário.",
+   "tags": [
+    "midias",
+    "conceitos",
+    "criacao"
+   ]
+  },
+  {
+   "id": "midias-elab-009",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-006/02/21 — Edição de conteúdos",
+   "enunciado": "A atividade realizada para alterar, corrigir, aprimorar ou transformar conteúdos ou o formato de produtos corresponde",
+   "alternativas": [
+    "à postagem de conteúdos",
+    "à criação de conteúdos",
+    "à edição de conteúdos",
+    "à monetização de conteúdos"
+   ],
+   "correta": 2,
+   "explicacao": "A edição alcança textos, fotos, artes e vídeos, e distingue-se da criação, que é a produção original, e da postagem, que é o ato de dar publicidade ao material.",
+   "tags": [
+    "midias",
+    "conceitos",
+    "edicao"
+   ]
+  },
+  {
+   "id": "midias-elab-010",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-006/02/21 — Postagem e compartilhamento",
+   "enunciado": "Comparados os conceitos de postagem e de compartilhamento de conteúdos, é correto afirmar que",
+   "alternativas": [
+    "a postagem e o compartilhamento são expressões sinônimas na Diretriz",
+    "a postagem se restringe a conteúdos produzidos por outros usuários da plataforma",
+    "o compartilhamento pressupõe edição prévia do conteúdo divulgado pelo usuário",
+    "o compartilhamento preserva integralmente formato, conteúdo e fonte originais"
+   ],
+   "correta": 3,
+   "explicacao": "O compartilhamento é a divulgação de conteúdo já publicado por outro usuário, preservando integralmente o formato, o conteúdo e a fonte originais, para ampliar visibilidade e alcance; a postagem é o ato de dar publicidade a algo por meio de mensagens, comentários, fotos, artes, vídeos e links.",
+   "tags": [
+    "midias",
+    "conceitos",
+    "compartilhamento"
+   ]
+  },
+  {
+   "id": "midias-elab-011",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-006/02/21 — Monetização",
+   "enunciado": "A obtenção de remuneração ou qualquer vantagem em decorrência da visualização de conteúdos, próprios ou patrocinados, bem como da interação de seguidores, define",
+   "alternativas": [
+    "a capitalização",
+    "a monetização",
+    "a lucratividade",
+    "o patrocínio digital"
+   ],
+   "correta": 1,
+   "explicacao": "A monetização é vedada quando decorrente de conteúdos virtuais ligados, direta ou indiretamente, à Polícia Militar, sendo esse o núcleo da proibição prevista na Diretriz.",
+   "tags": [
+    "midias",
+    "conceitos",
+    "monetizacao"
+   ]
+  },
+  {
+   "id": "midias-elab-012",
+   "subtema": "Conceitos",
+   "artigo": "Dtz PM3-006/02/21 — Perfis públicos e privados",
+   "enunciado": "Quanto à configuração dos perfis em mídias sociais, a Diretriz adverte que",
+   "alternativas": [
+    "a configuração privada dispensa a observância das vedações da Diretriz",
+    "o perfil privado impede juridicamente a difusão do conteúdo por terceiros",
+    "o perfil público é vedado aos policiais militares da ativa e agregados",
+    "nenhuma configuração garante totalmente a restrição de divulgação do conteúdo"
+   ],
+   "correta": 3,
+   "explicacao": "A norma distingue perfil público, que permite visualização e compartilhamento sem autorização, e perfil privado, que exige permissão prévia, advertindo que nenhuma configuração garante totalmente a restrição de divulgação, razão pela qual as vedações valem em qualquer caso.",
+   "tags": [
+    "midias",
+    "conceitos",
+    "privacidade"
+   ]
+  },
+  {
+   "id": "midias-elab-013",
+   "subtema": "Âmbito de aplicação",
+   "artigo": "Dtz PM3-006/02/21 — Destinatários",
+   "enunciado": "A Diretriz disciplina o uso de mídias sociais e de aplicativos mensageiros",
+   "alternativas": [
+    "por policiais militares da ativa e veteranos, excluídos os agregados",
+    "apenas por policiais militares do serviço ativo da Instituição",
+    "por policiais militares da ativa e agregados, excluídos os veteranos",
+    "por policiais militares da ativa, agregados e veteranos"
+   ],
+   "correta": 3,
+   "explicacao": "O alcance é expresso: policiais militares da ativa, agregados e veteranos, naquilo que tiver correspondência direta ou indireta com a Polícia Militar ou com a condição de militar do Estado.",
+   "tags": [
+    "midias",
+    "ambito",
+    "destinatarios"
+   ]
+  },
+  {
+   "id": "midias-elab-014",
+   "subtema": "Âmbito de aplicação",
+   "artigo": "Dtz PM3-006/02/21 — Vigência e adequação",
+   "enunciado": "Publicada a Diretriz, os policiais militares tiveram prazo para adequar seus perfis, páginas, canais e aplicativos às previsões nela contidas, fixado em",
+   "alternativas": [
+    "trinta dias contados da publicação da norma",
+    "vinte dias contados da publicação da norma",
+    "sessenta dias contados da publicação da norma",
+    "noventa dias contados da publicação da norma"
+   ],
+   "correta": 1,
+   "explicacao": "A Diretriz entrou em vigor na data de sua publicação e concedeu o prazo de vinte dias para que os policiais da ativa, agregados e veteranos adequassem totalmente seus perfis, páginas, canais e aplicativos ao cumprimento irrestrito de suas previsões.",
+   "tags": [
+    "midias",
+    "ambito",
+    "prazo"
+   ]
+  },
+  {
+   "id": "midias-elab-015",
+   "subtema": "Âmbito de aplicação",
+   "artigo": "Dtz PM3-006/02/21 — Liberdade e limites",
+   "enunciado": "Quanto à criação e utilização de perfis pessoais, a Diretriz estabelece que",
+   "alternativas": [
+    "dependem de autorização prévia do Comandante da unidade de lotação",
+    "são de livre arbítrio, mas o conteúdo ligado à PM deve ser regrado",
+    "são vedadas aos policiais militares da ativa durante o estágio probatório",
+    "devem ser comunicadas à Seção de Comunicação Social do Batalhão"
+   ],
+   "correta": 1,
+   "explicacao": "A criação e a utilização de perfis pessoais são de livre arbítrio; o que se regra criteriosamente é o conteúdo de cunho visual ou textual associado direta ou indiretamente à Instituição, devendo-se recorrer aos canais oficiais quando houver conveniência de exposição.",
+   "tags": [
+    "midias",
+    "ambito",
+    "liberdade"
+   ]
+  },
+  {
+   "id": "midias-elab-016",
+   "subtema": "Âmbito de aplicação",
+   "artigo": "Dtz PM3-006/02/21 — Dever das OPM",
+   "enunciado": "Quanto à atuação das unidades, a Diretriz determina que",
+   "alternativas": [
+    "somente os Grandes Comandos fiscalizem o uso das mídias pelos subordinados",
+    "apenas as unidades com seção de comunicação social orientem seus efetivos",
+    "todas as OPM adotem medidas para orientar e fiscalizar o uso pelos policiais",
+    "a fiscalização seja centralizada exclusivamente na Corregedoria da Instituição"
+   ],
+   "correta": 2,
+   "explicacao": "Todas as OPM devem adotar as medidas que lhes competem para orientar e fiscalizar o uso das mídias digitais e dos aplicativos mensageiros pelos policiais militares, incluindo agregados e veteranos, naquilo que guardar correspondência com a Instituição.",
+   "tags": [
+    "midias",
+    "ambito",
+    "opm"
+   ]
+  },
+  {
+   "id": "midias-elab-017",
+   "subtema": "Vedações",
+   "artigo": "Dtz PM3-006/02/21 — Regra geral",
+   "enunciado": "A regra geral de vedação prevista na Diretriz alcança, por meio de contas pessoais,",
+   "alternativas": [
+    "a criação, edição, postagem ou compartilhamento de conteúdos ligados à PM",
+    "apenas a criação de conteúdos originais relacionados à atividade policial",
+    "somente a postagem de imagens e vídeos captados durante o serviço",
+    "exclusivamente o compartilhamento de conteúdos produzidos por terceiros"
+   ],
+   "correta": 0,
+   "explicacao": "A vedação abrange as quatro condutas, criação, edição, postagem e compartilhamento, sempre que o conteúdo se relacione direta ou indiretamente com a Polícia Militar, seja em vídeos, imagens, áudios, textos, mensagens ou links.",
+   "tags": [
+    "midias",
+    "vedacoes",
+    "regra-geral"
+   ]
+  },
+  {
+   "id": "midias-elab-018",
+   "subtema": "Vedações",
+   "artigo": "Dtz PM3-006/02/21 — Monetização",
+   "enunciado": "Policial militar veterano mantém canal em plataforma de vídeos no qual comenta ocorrências policiais e recebe remuneração por visualizações. Nos termos da Diretriz,",
+   "alternativas": [
+    "não há vedação, pois a monetização somente é proibida ao policial da ativa",
+    "não há vedação, pois a norma não alcança policiais militares veteranos",
+    "há vedação, pois é proibida a monetização ligada direta ou indiretamente à PM",
+    "há vedação apenas se o canal exibir imagens de fardamento ou viaturas"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz alcança da ativa, agregados e veteranos e veda expressamente a monetização advinda de conteúdos virtuais que se liguem direta ou indiretamente à Polícia Militar, independentemente da exibição de elementos visuais institucionais.",
+   "tags": [
+    "midias",
+    "vedacoes",
+    "monetizacao"
+   ]
+  },
+  {
+   "id": "midias-elab-019",
+   "subtema": "Vedações",
+   "artigo": "Dtz PM3-006/02/21 — Identificação institucional",
+   "enunciado": "É vedado ao policial militar, em contas pessoais, o uso de",
+   "alternativas": [
+    "apelidos e nomes de guerra empregados no ambiente de trabalho da unidade",
+    "nomes e siglas de OPM, brasões, insígnias, símbolos, cargos e e-mail corporativo",
+    "fotografias pessoais em ambientes públicos, ainda que trajando civil",
+    "referências genéricas à profissão, sem identificação da unidade de lotação"
+   ],
+   "correta": 1,
+   "explicacao": "A vedação alcança nomes e siglas de OPM, brasões, insígnias, símbolos, logomarcas, cargos ou funções desempenhadas, endereços das unidades e indicação de e-mail corporativo em contas pessoais.",
+   "tags": [
+    "midias",
+    "vedacoes",
+    "identificacao"
+   ]
+  },
+  {
+   "id": "midias-elab-020",
+   "subtema": "Vedações",
+   "artigo": "Dtz PM3-006/02/21 — Instalações e meios",
+   "enunciado": "Policial militar publica em rede social vídeo gravado no interior da garagem de sua unidade, exibindo viaturas estacionadas. Essa conduta",
+   "alternativas": [
+    "é permitida, por não revelar dados de ocorrência policial em andamento",
+    "é permitida, desde que não haja identificação de outros policiais",
+    "é vedada, por expor instalações físicas e viaturas da Instituição",
+    "é vedada apenas se o policial estiver fardado nas imagens divulgadas"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz veda conteúdos que exponham o interior das instalações físicas da PM ou utilizadas para fins policiais-militares e viaturas, bem como os que façam alusão a fardamentos, armamentos e equipamentos de proteção individual.",
+   "tags": [
+    "midias",
+    "vedacoes",
+    "instalacoes"
+   ]
+  },
+  {
+   "id": "midias-elab-021",
+   "subtema": "Vedações",
+   "artigo": "Dtz PM3-006/02/21 — Sigilo profissional",
+   "enunciado": "A vedação relativa a informações, dados ou resultados associados a ocorrências, missões, ações, operações, apurações ou investigações policiais-militares",
+   "alternativas": [
+    "não se aplica quando os fatos já tiverem sido noticiados pela imprensa",
+    "restringe-se às investigações em curso, liberada a divulgação após a conclusão",
+    "alcança apenas os conteúdos classificados formalmente como reservados",
+    "abrange também os conteúdos que mereçam sigilo profissional de qualquer espécie"
+   ],
+   "correta": 3,
+   "explicacao": "Além das informações sobre ocorrências, missões, ações, operações, apurações e investigações, a vedação alcança tudo o que mereça sigilo profissional de qualquer espécie, independentemente de classificação formal ou de repercussão prévia na imprensa.",
+   "tags": [
+    "midias",
+    "vedacoes",
+    "sigilo"
+   ]
+  },
+  {
+   "id": "midias-elab-022",
+   "subtema": "Vedações",
+   "artigo": "Dtz PM3-006/02/21 — Pessoas abordadas",
+   "enunciado": "Policial militar publica em rede social imagem de pessoa detida durante abordagem realizada por sua guarnição. Essa conduta",
+   "alternativas": [
+    "é vedada, por envolver pessoa objeto de intervenção ou interação com a PM",
+    "é permitida, desde que o rosto da pessoa seja adequadamente pixelizado",
+    "é permitida, por se tratar de fato ocorrido em via pública e de acesso geral",
+    "é vedada apenas quando a pessoa for adolescente ou criança"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz veda conteúdos envolvendo pessoas que tenham sido objeto de intervenção ou interação com a Polícia Militar, vedação que independe de edição da imagem ou do local em que os fatos ocorreram.",
+   "tags": [
+    "midias",
+    "vedacoes",
+    "abordados"
+   ]
+  },
+  {
+   "id": "midias-elab-023",
+   "subtema": "Vedações",
+   "artigo": "Dtz PM3-006/02/21 — Doutrina institucional",
+   "enunciado": "É igualmente vedada, em contas pessoais, a menção",
+   "alternativas": [
+    "a legislação de trânsito de aplicação geral, disponível a qualquer cidadão",
+    "a temas de segurança pública tratados em publicações acadêmicas nacionais",
+    "à doutrina PM, como procedimentos operacionais, treinamentos e instruções",
+    "a normas constitucionais sobre segurança pública e ordem administrativa"
+   ],
+   "correta": 2,
+   "explicacao": "A vedação alcança a menção à doutrina institucional, a exemplo dos POP, videotreinamentos e instruções, cuja difusão fora dos canais próprios pode comprometer a segurança operacional.",
+   "tags": [
+    "midias",
+    "vedacoes",
+    "doutrina"
+   ]
+  },
+  {
+   "id": "midias-elab-024",
+   "subtema": "Vedações",
+   "artigo": "Dtz PM3-006/02/21 — Concursos e exames",
+   "enunciado": "Policial militar da ativa mantém perfil em que publica dicas para candidatos a concursos da Instituição. Segundo a Diretriz,",
+   "alternativas": [
+    "a conduta é permitida, por se tratar de atividade de natureza educacional",
+    "a conduta é vedada, pois dicas sobre exames e concursos PM são proibidas",
+    "a conduta é permitida se não houver monetização do conteúdo publicado",
+    "a conduta é vedada apenas se o policial integrar a comissão do concurso"
+   ],
+   "correta": 1,
+   "explicacao": "A Diretriz veda expressamente dicas e conteúdos relativos a exames e concursos da Polícia Militar em contas pessoais, vedação autônoma em relação à proibição de monetização.",
+   "tags": [
+    "midias",
+    "vedacoes",
+    "concursos"
+   ]
+  },
+  {
+   "id": "midias-elab-025",
+   "subtema": "Vedações",
+   "artigo": "Dtz PM3-006/02/21 — Críticas e reivindicações",
+   "enunciado": "São vedadas, em contas pessoais de policiais militares, considerações",
+   "alternativas": [
+    "sobre atos de superiores, de caráter reivindicatório ou político-partidário",
+    "sobre temas culturais e esportivos sem relação com a atividade policial",
+    "sobre a vida familiar do policial militar e de seus parentes próximos",
+    "sobre assuntos jurídicos gerais divulgados em veículos de imprensa"
+   ],
+   "correta": 0,
+   "explicacao": "A vedação abrange considerações sobre atos de superiores, de caráter reivindicatório e de cunho político-partidário, ou depreciativas a outros órgãos públicos, autoridades e demais militares do Estado.",
+   "tags": [
+    "midias",
+    "vedacoes",
+    "criticas"
+   ]
+  },
+  {
+   "id": "midias-elab-026",
+   "subtema": "Vedações",
+   "artigo": "Dtz PM3-006/02/21 — Fake news",
+   "enunciado": "Quanto a informações ou dados não comprovados ou inverídicos, a Diretriz",
+   "alternativas": [
+    "veda apenas a criação original, sendo livre o compartilhamento de terceiros",
+    "veda sua divulgação, inclusive por compartilhamento de publicação alheia",
+    "permite a divulgação quando a fonte original for autoridade pública",
+    "permite a divulgação desde que acompanhada de ressalva sobre a veracidade"
+   ],
+   "correta": 1,
+   "explicacao": "A vedação alcança informações ou dados não comprovados ou inverídicos, as chamadas fake news, e incide sobre criação, edição, postagem e compartilhamento, sem exceção fundada na autoridade da fonte original.",
+   "tags": [
+    "midias",
+    "vedacoes",
+    "fake-news"
+   ]
+  },
+  {
+   "id": "midias-elab-027",
+   "subtema": "Vedações",
+   "artigo": "Dtz PM3-006/02/21 — Foto de perfil",
+   "enunciado": "Quanto à foto de perfil que se relacione, direta ou indiretamente, com a condição de policial militar, a Diretriz veda sua aposição, excetuando",
+   "alternativas": [
+    "os aparelhos intercomunicadores funcionais",
+    "o fardamento de gala usado em solenidades",
+    "as insígnias de posto ou graduação do titular",
+    "as viaturas caracterizadas da Instituição"
+   ],
+   "correta": 0,
+   "explicacao": "A vedação alcança insígnias, brasões, símbolos, logomarcas, fardamento, armamento, viatura e equipamento de proteção individual na foto de perfil, com exceção feita aos aparelhos intercomunicadores funcionais.",
+   "tags": [
+    "midias",
+    "vedacoes",
+    "foto-perfil"
+   ]
+  },
+  {
+   "id": "midias-elab-028",
+   "subtema": "Vedações",
+   "artigo": "Dtz PM3-006/02/21 — Decoro",
+   "enunciado": "A Diretriz veda ainda publicações que exponham",
+   "alternativas": [
+    "opiniões pessoais sobre temas de política internacional",
+    "caráter íntimo atentatório às relações de respeito e decoro",
+    "imagens de viagens e atividades de lazer do policial militar",
+    "manifestações religiosas realizadas fora do horário de serviço"
+   ],
+   "correta": 1,
+   "explicacao": "A vedação alcança publicações que exponham caráter íntimo atentatório às relações de respeito e decoro, cláusula que dialoga com os valores e deveres éticos policiais-militares e não se confunde com a livre manifestação sobre temas alheios à Instituição.",
+   "tags": [
+    "midias",
+    "vedacoes",
+    "decoro"
+   ]
+  },
+  {
+   "id": "midias-elab-029",
+   "subtema": "Faculdades",
+   "artigo": "Dtz PM3-006/02/21 — Conteúdos autorizados",
+   "enunciado": "É facultado ao policial militar dar publicidade, em mídias sociais e aplicativos mensageiros, a conteúdos relacionados a",
+   "alternativas": [
+    "procedimentos operacionais padrão adotados pela Instituição em abordagens",
+    "ocorrências policiais de repercussão atendidas por sua própria guarnição",
+    "solenidades e formaturas policiais-militares, observado o regulamento",
+    "dicas e orientações a candidatos aos concursos de ingresso na Instituição"
+   ],
+   "correta": 2,
+   "explicacao": "São facultados os conteúdos sobre solenidades e formaturas, casamentos com uso de uniforme na forma do R-5-PM e campanhas humanitárias, solidárias ou filantrópicas com participação da PM, estas últimas desde que previamente tramitadas e aprovadas pelos canais oficiais.",
+   "tags": [
+    "midias",
+    "faculdades",
+    "solenidades"
+   ]
+  },
+  {
+   "id": "midias-elab-030",
+   "subtema": "Faculdades",
+   "artigo": "Dtz PM3-006/02/21 — Casamentos",
+   "enunciado": "A publicidade de casamento com uso de uniforme por policial militar é facultada",
+   "alternativas": [
+    "desde que as imagens não exibam insígnias de posto ou graduação",
+    "somente quando ambos os nubentes forem militares do Estado",
+    "apenas mediante autorização prévia da Seção de Comunicação Social",
+    "observadas as previsões do regulamento de uniformes da Instituição"
+   ],
+   "correta": 3,
+   "explicacao": "A faculdade existe observadas as previsões do R-5-PM sobre o uso de uniformes, não se exigindo que ambos os nubentes sejam militares nem autorização prévia da comunicação social, exigida apenas para campanhas humanitárias.",
+   "tags": [
+    "midias",
+    "faculdades",
+    "casamento"
+   ]
+  },
+  {
+   "id": "midias-elab-031",
+   "subtema": "Faculdades",
+   "artigo": "Dtz PM3-006/02/21 — Campanhas humanitárias",
+   "enunciado": "A divulgação de campanhas humanitárias, solidárias ou filantrópicas com participação da Polícia Militar é facultada desde que os conteúdos",
+   "alternativas": [
+    "sejam acompanhados de menção expressa à unidade organizadora da campanha",
+    "sejam publicados exclusivamente em perfis configurados como privados",
+    "não contenham imagens de policiais militares fardados nos eventos",
+    "tenham sido previamente tramitados e aprovados pelos canais oficiais"
+   ],
+   "correta": 3,
+   "explicacao": "A faculdade é condicionada à prévia tramitação e aprovação dos conteúdos pelos canais oficiais de comunicação social institucionais, exigência que distingue essa hipótese das solenidades e casamentos.",
+   "tags": [
+    "midias",
+    "faculdades",
+    "campanhas"
+   ]
+  },
+  {
+   "id": "midias-elab-032",
+   "subtema": "Faculdades",
+   "artigo": "Dtz PM3-006/02/21 — Aparelhos funcionais",
+   "enunciado": "Aos policiais militares que, em razão da função, utilizem aparelhos intercomunicadores funcionais para comunicações profissionais, é permitida",
+   "alternativas": [
+    "a divulgação de imagens de ocorrências atendidas, desde que sem identificação de terceiros",
+    "a publicação de conteúdos institucionais em perfis pessoais de mídias sociais",
+    "a identificação e o trâmite de mensagens de caráter policial-militar e interesse institucional",
+    "a monetização de conteúdos produzidos com o uso do aparelho funcional"
+   ],
+   "correta": 2,
+   "explicacao": "A permissão alcança a identificação e o trâmite de mensagens de caráter policial-militar e de interesse institucional, conforme as normas em vigor, os deveres éticos, o respeito e o decoro, e explica a exceção quanto à foto de perfil com aparelho funcional.",
+   "tags": [
+    "midias",
+    "faculdades",
+    "aparelhos"
+   ]
+  },
+  {
+   "id": "midias-elab-033",
+   "subtema": "Faculdades",
+   "artigo": "Dtz PM3-006/02/21 — Grupos profissionais",
+   "enunciado": "A composição de grupos em aplicativos mensageiros para tratar de temas e assuntos profissionais, estudos, pareceres e aperfeiçoamentos",
+   "alternativas": [
+    "é facultada, inclusive com interveniência de civis ou de outros órgãos",
+    "é vedada sempre que houver participação de pessoas estranhas à Instituição",
+    "depende de autorização prévia do Comandante do Batalhão de lotação",
+    "somente é admitida entre policiais militares da mesma unidade operacional"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz faculta a composição desses grupos, inclusive com a interveniência de civis ou representantes de outros órgãos, podendo os policiais identificar-se e manifestar-se conforme sua condição e função, representando suas OPM, estritamente para discorrer sobre o tema em debate.",
+   "tags": [
+    "midias",
+    "faculdades",
+    "grupos"
+   ]
+  },
+  {
+   "id": "midias-elab-034",
+   "subtema": "Faculdades",
+   "artigo": "Dtz PM3-006/02/21 — Limites da manifestação",
+   "enunciado": "Nos grupos profissionais admitidos pela Diretriz, a manifestação do policial militar identificado por sua condição e função deve limitar-se",
+   "alternativas": [
+    "estritamente ao tema em debate, representando sua organização policial-militar",
+    "aos assuntos de interesse da categoria, inclusive reivindicações funcionais",
+    "às orientações recebidas previamente do comando de sua unidade de lotação",
+    "aos temas autorizados pelo Centro de Comunicação Social da Instituição"
+   ],
+   "correta": 0,
+   "explicacao": "A identificação e a manifestação conforme a condição de militar do Estado e a função desempenhada são admitidas representando a OPM e estritamente para discorrer sobre o tema em debate, o que exclui reivindicações e considerações estranhas ao objeto do grupo.",
+   "tags": [
+    "midias",
+    "faculdades",
+    "manifestacao"
+   ]
+  },
+  {
+   "id": "midias-elab-035",
+   "subtema": "Faculdades",
+   "artigo": "Dtz PM3-006/02/21 — Outros grupos virtuais",
+   "enunciado": "Em grupos virtuais compostos essencialmente por policiais militares, com finalidades diversas, caberá o estabelecimento de regras que assegurem o cumprimento da Diretriz",
+   "alternativas": [
+    "à Seção de Comunicação Social do Batalhão, mediante orientação formal",
+    "ao administrador do grupo, ainda que seja o policial mais moderno",
+    "ao Comandante da unidade a que pertencerem os integrantes do grupo",
+    "ao policial militar de maior posto ou graduação integrante do grupo"
+   ],
+   "correta": 3,
+   "explicacao": "A norma atribui ao policial militar de maior posto ou graduação o estabelecimento de regras, de modo que todos os integrantes adotem postura ético-moral, zelo e moderação em relação aos conteúdos e mensagens circuladas.",
+   "tags": [
+    "midias",
+    "faculdades",
+    "grupos-virtuais"
+   ]
+  },
+  {
+   "id": "midias-elab-036",
+   "subtema": "Faculdades",
+   "artigo": "Dtz PM3-006/02/21 — Compartilhamento de conteúdo oficial",
+   "enunciado": "Uma vez publicados conteúdos nas páginas oficiais da Polícia Militar, os policiais militares",
+   "alternativas": [
+    "poderão compartilhá-los em contas pessoais, preservando formato, conteúdo e fonte",
+    "estão proibidos de compartilhá-los em contas pessoais, sob pena de sanção",
+    "poderão compartilhá-los desde que editem as imagens para remover identificações",
+    "somente poderão compartilhá-los com autorização da Seção de Comunicação Social"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz permite o compartilhamento de vídeos, imagens, áudios, textos e mensagens oficiais da PMESP em contas pessoais, preservando integralmente formato, conteúdo e fonte originais, devendo eventuais comentários observar as vedações, faculdades e boas práticas da norma.",
+   "tags": [
+    "midias",
+    "faculdades",
+    "compartilhamento"
+   ]
+  },
+  {
+   "id": "midias-elab-037",
+   "subtema": "Faculdades",
+   "artigo": "Dtz PM3-006/02/21 — Comentários",
+   "enunciado": "Eventuais comentários feitos pelo policial militar às publicações oficiais compartilhadas",
+   "alternativas": [
+    "deverão atentar para as vedações, faculdades e boas práticas da Diretriz",
+    "são livres, por se tratar de manifestação sobre conteúdo já divulgado",
+    "dependem de aprovação prévia do Centro de Comunicação Social",
+    "somente são admitidos em perfis configurados como privados"
+   ],
+   "correta": 0,
+   "explicacao": "A permissão de compartilhar conteúdo oficial não afasta o regime da Diretriz quanto aos comentários, que devem observar as vedações, as faculdades e as boas práticas nela previstas.",
+   "tags": [
+    "midias",
+    "faculdades",
+    "comentarios"
+   ]
+  },
+  {
+   "id": "midias-elab-038",
+   "subtema": "Candidatos a cargos eletivos",
+   "artigo": "Dtz PM3-006/02/21 — Atividade político-partidária",
+   "enunciado": "Quanto aos policiais militares candidatos a cargos eletivos, a Diretriz lembra que, nos termos do regulamento disciplinar,",
+   "alternativas": [
+    "podem divulgar imagens fardados, desde que sem identificação da unidade",
+    "estão impedidos de qualquer menção à condição de militar do Estado",
+    "devem obter autorização do Comando Geral para a divulgação eleitoral",
+    "podem usar designações hierárquicas próprias em atividades político-partidárias"
+   ],
+   "correta": 3,
+   "explicacao": "A norma ressalva que, considerado o disposto no regulamento disciplinar, os policiais militares candidatos a cargos eletivos podem usar das designações hierárquicas próprias em atividades político-partidárias, inclusive em mídias sociais e aplicativos mensageiros, para divulgação.",
+   "tags": [
+    "midias",
+    "eleicoes",
+    "candidatos"
+   ]
+  },
+  {
+   "id": "midias-elab-039",
+   "subtema": "Canais oficiais",
+   "artigo": "Dtz PM3-006/02/21 — Uso dos canais oficiais",
+   "enunciado": "O policial militar que pretenda dar publicidade a conteúdo relacionado direta ou indiretamente com a Instituição deverá, em regra,",
+   "alternativas": [
+    "valer-se dos canais oficiais, por intermédio da Seção de Comunicação Social do Batalhão",
+    "publicar em perfil pessoal privado, comunicando previamente o Comandante da unidade",
+    "encaminhar o material diretamente ao Centro de Comunicação Social da Instituição",
+    "submeter o conteúdo à Corregedoria, que avaliará a conveniência da divulgação"
+   ],
+   "correta": 0,
+   "explicacao": "A regra é valer-se dos canais oficiais de comunicação social por intermédio da Seção de Comunicação Social do Batalhão, excetuadas as hipóteses expressamente facultadas, como solenidades, casamentos, grupos profissionais e uso de aparelhos funcionais.",
+   "tags": [
+    "midias",
+    "canais-oficiais",
+    "regra"
+   ]
+  },
+  {
+   "id": "midias-elab-040",
+   "subtema": "Responsabilização",
+   "artigo": "Dtz PM3-006/02/21 — Descumprimento",
+   "enunciado": "O policial militar que descumprir a Diretriz, violando valores e deveres previstos em lei,",
+   "alternativas": [
+    "responderá apenas administrativamente, vedada a apuração na esfera criminal",
+    "será apurado à luz do regulamento disciplinar e, conforme o caso, do CP e do CPM",
+    "será responsabilizado exclusivamente pela Corregedoria, em procedimento próprio",
+    "sofrerá apenas orientação verbal do comando, dado o caráter educativo da norma"
+   ],
+   "correta": 1,
+   "explicacao": "Os descumprimentos que configurem violação de valores e deveres previstos em lei devem ser apurados à luz do regulamento disciplinar e, conforme o caso, do Código Penal e do Código Penal Militar, sem prejuízo das orientações institucionais.",
+   "tags": [
+    "midias",
+    "responsabilizacao"
+   ]
+  },
+  {
+   "id": "midias-elab-041",
+   "subtema": "Grupos funcionais",
+   "artigo": "OS PM3-004/02/22 — Participação exclusiva",
+   "enunciado": "A Ordem de Serviço que trata dos grupos funcionais em aplicativos mensageiros estabelece a participação",
+   "alternativas": [
+    "exclusiva de policiais militares da ativa nesses grupos",
+    "de policiais da ativa e veteranos, vedada a de agregados",
+    "de todos os integrantes da Instituição, inclusive inativos",
+    "de policiais da ativa e de civis conveniados, quando necessário"
+   ],
+   "correta": 0,
+   "explicacao": "A Ordem de Serviço trata da participação exclusiva de policiais militares da ativa em grupos funcionais de aplicativos mensageiros, dedicados a assuntos institucionais nos níveis estratégico, tático e operacional.",
+   "tags": [
+    "midias",
+    "grupos-funcionais",
+    "exclusividade"
+   ]
+  },
+  {
+   "id": "midias-elab-042",
+   "subtema": "Grupos funcionais",
+   "artigo": "OS PM3-004/02/22 — Dever de retirada",
+   "enunciado": "O policial militar que passe à condição de veterano, agregado ou desincompatibilizado para eleições deverá retirar-se dos grupos funcionais de que fizer parte",
+   "alternativas": [
+    "ao término do processo eleitoral ou do período de agregação, conforme o caso",
+    "no prazo de vinte dias contados da publicação do respectivo ato administrativo",
+    "somente quando solicitado pela autoridade coordenadora do grupo funcional",
+    "imediatamente após a publicação do ato que o coloque em uma dessas condições"
+   ],
+   "correta": 3,
+   "explicacao": "A retirada deve ocorrer imediatamente após a publicação do ato que o coloque em uma dessas condições, alcançando todos os grupos funcionais de que participe.",
+   "tags": [
+    "midias",
+    "grupos-funcionais",
+    "retirada"
+   ]
+  },
+  {
+   "id": "midias-elab-043",
+   "subtema": "Grupos funcionais",
+   "artigo": "OS PM3-004/02/22 — Retirada de ofício",
+   "enunciado": "Não se retirando espontaneamente o veterano, agregado ou desincompatibilizado, caberá à autoridade de maior posto ou graduação, integrante e coordenadora do grupo,",
+   "alternativas": [
+    "providenciar sua retirada, observados os preceitos éticos e disciplinares",
+    "mantê-lo no grupo até deliberação do Comandante da unidade responsável",
+    "providenciar sua retirada e instaurar de imediato procedimento disciplinar",
+    "encerrar o grupo funcional e recriá-lo apenas com policiais da ativa"
+   ],
+   "correta": 0,
+   "explicacao": "A autoridade coordenadora deve providenciar a retirada do ambiente digital, observando os preceitos éticos e disciplinares da Polícia Militar, sem que a norma imponha, por si, a instauração de procedimento disciplinar.",
+   "tags": [
+    "midias",
+    "grupos-funcionais",
+    "coordenador"
+   ]
+  },
+  {
+   "id": "midias-elab-044",
+   "subtema": "Grupos funcionais",
+   "artigo": "OS PM3-004/02/22 — Conceito",
+   "enunciado": "Não são considerados grupos funcionais, para os fins da Ordem de Serviço,",
+   "alternativas": [
+    "os grupos destinados a assuntos institucionais de nível estratégico e tático",
+    "os grupos criados por comandantes de unidade para tratar de escalas de serviço",
+    "os grupos que reúnam policiais da ativa de diferentes unidades operacionais",
+    "os ambientes virtuais com interveniência de civis ou de representantes de outros órgãos"
+   ],
+   "correta": 3,
+   "explicacao": "Não são grupos funcionais os ambientes virtuais em que haja interveniência de civis ou representantes de outros órgãos, nem os grupos com finalidades diversas e acesso restrito ou não a determinadas pessoas; os grupos funcionais tratam de assuntos institucionais nos níveis estratégico, tático e operacional.",
+   "tags": [
+    "midias",
+    "grupos-funcionais",
+    "conceito"
+   ]
+  },
+  {
+   "id": "midias-elab-045",
+   "subtema": "Grupos funcionais",
+   "artigo": "OS PM3-004/02/22 — Fundamento",
+   "enunciado": "A Ordem de Serviço justifica a restrição nos grupos funcionais porque tais ambientes",
+   "alternativas": [
+    "são regidos pela hierarquia, pela disciplina e pelos valores da PM",
+    "substituem integralmente os canais formais de comunicação da Instituição",
+    "possuem natureza informal, dispensando qualquer controle institucional",
+    "destinam-se prioritariamente à difusão de conteúdos de comunicação social"
+   ],
+   "correta": 0,
+   "explicacao": "A norma destaca que os grupos virtuais funcionais são regidos pelos princípios basilares da hierarquia e disciplina e pelos valores fundamentais policiais-militares, devendo a segurança das informações institucionais abranger tanto os canais formais quanto os meios informais e espontâneos.",
+   "tags": [
+    "midias",
+    "grupos-funcionais",
+    "fundamento"
+   ]
+  },
+  {
+   "id": "midias-elab-046",
+   "subtema": "Boas práticas",
+   "artigo": "Dtz PM3-006/02/21 — Cartilha de boas práticas",
+   "enunciado": "As recomendações de boas práticas digitais adotadas pela Diretriz têm por base",
+   "alternativas": [
+    "manual de conduta editado pelo Conselho Nacional de Justiça para servidores",
+    "cartilha da Secretaria Especial de Comunicação, fundada no código de ética estadual",
+    "resolução do Comando Geral sobre segurança da informação institucional",
+    "norma da Corregedoria sobre apuração de faltas praticadas em ambiente digital"
+   ],
+   "correta": 1,
+   "explicacao": "As recomendações baseiam-se na Cartilha de Boas Práticas Digitais da Secretaria Especial de Comunicação do Governo do Estado de São Paulo, apoiada no Código de Ética da Administração Pública Estadual, além de outras publicações similares.",
+   "tags": [
+    "midias",
+    "boas-praticas",
+    "cartilha"
+   ]
+  },
+  {
+   "id": "midias-elab-047",
+   "subtema": "Boas práticas",
+   "artigo": "Dtz PM3-006/02/21 — Conduta digital",
+   "enunciado": "Entre as boas práticas digitais recomendadas aos policiais militares inclui-se",
+   "alternativas": [
+    "responder publicamente às críticas dirigidas à Instituição nas redes sociais",
+    "manter perfis públicos para ampliar o alcance de conteúdos institucionais",
+    "não publicar fotos ou comentários de colegas de trabalho sem as devidas anuências",
+    "divulgar rotinas de serviço para aproximar a comunidade da atividade policial"
+   ],
+   "correta": 2,
+   "explicacao": "A norma recomenda não publicar fotos, conteúdos ou comentários de colegas sem anuência, não publicar conteúdo pessoal durante o horário de serviço, evitar o ambiente virtual como alternativa ao que não se deve praticar no real e optar por perfis privados.",
+   "tags": [
+    "midias",
+    "boas-praticas",
+    "conduta"
+   ]
+  },
+  {
+   "id": "midias-elab-048",
+   "subtema": "Boas práticas",
+   "artigo": "Dtz PM3-006/02/21 — Perfis privados",
+   "enunciado": "Quanto à configuração de privacidade, a recomendação de boas práticas orienta o policial militar a",
+   "alternativas": [
+    "optar por perfis privados, tendo mais controle sobre quem visualiza os conteúdos",
+    "manter perfis públicos, para transparência da atuação profissional",
+    "alternar periodicamente entre perfis públicos e privados, conforme o conteúdo",
+    "excluir permanentemente seus perfis em mídias sociais durante o serviço ativo"
+   ],
+   "correta": 0,
+   "explicacao": "Recomenda-se optar pela utilização de perfis privados ou fechados, de modo a ter mais controle acerca do público visualizador, sem prejuízo da advertência de que nenhuma configuração garante integralmente a restrição da divulgação.",
+   "tags": [
+    "midias",
+    "boas-praticas",
+    "privacidade"
+   ]
+  },
+  {
+   "id": "midias-elab-049",
+   "subtema": "Boas práticas",
+   "artigo": "Dtz PM3-006/02/21 — Dúvida sobre publicação",
+   "enunciado": "Havendo dúvida sobre a possibilidade de publicar determinado conteúdo, a recomendação é que o policial militar",
+   "alternativas": [
+    "submeta o conteúdo à apreciação do Coordenador de Operações do Batalhão",
+    "publique o conteúdo em perfil privado, restringindo o acesso a amigos",
+    "contate os canais oficiais de comunicação social da Polícia Militar",
+    "abstenha-se de publicar e exclua definitivamente o material produzido"
+   ],
+   "correta": 2,
+   "explicacao": "A boa prática indicada é contatar os canais oficiais de comunicação social da Instituição, que avaliarão a conveniência e a oportunidade da divulgação, solução coerente com a regra geral da Diretriz.",
+   "tags": [
+    "midias",
+    "boas-praticas",
+    "duvida"
+   ]
+  },
+  {
+   "id": "midias-elab-050",
+   "subtema": "Boas práticas",
+   "artigo": "Dtz PM3-006/02/21 — Reflexos institucionais",
+   "enunciado": "As boas práticas advertem que os comportamentos dos militares do Estado no ambiente digital",
+   "alternativas": [
+    "produzem efeitos apenas quando houver identificação expressa da unidade",
+    "somente repercutem na esfera privada, por se tratar de contas pessoais",
+    "são irrelevantes quando praticados fora do horário de serviço",
+    "podem afetar a credibilidade de seus trabalhos, da Instituição e do Estado"
+   ],
+   "correta": 3,
+   "explicacao": "A primeira recomendação da cartilha é a consciência de que os comportamentos no ambiente digital, principalmente nas redes sociais, podem afetar a credibilidade do trabalho do agente, da Instituição e do Estado.",
+   "tags": [
+    "midias",
+    "boas-praticas",
+    "credibilidade"
+   ]
+  },
+  {
+   "id": "midias-elab-051",
+   "subtema": "Boas práticas",
+   "artigo": "Dtz PM3-006/02/21 — Clareza",
+   "enunciado": "Ao opinar sobre assuntos diversos em mídias sociais, recomenda-se ao policial militar",
+   "alternativas": [
+    "ser claro, para evitar mal-entendidos e polêmicas que recaiam sobre si e sobre a PM",
+    "abster-se de qualquer opinião pública, ainda que sobre temas alheios à Instituição",
+    "identificar-se sempre como policial militar, para dar credibilidade ao argumento",
+    "restringir suas opiniões ao ambiente dos grupos funcionais da Instituição"
+   ],
+   "correta": 0,
+   "explicacao": "A recomendação é a clareza ao opinar, para evitar mal-entendidos e polêmicas que recaiam sobre a pessoa do policial e, por consequência, sobre a Polícia Militar, o que não equivale a proibir manifestações sobre temas alheios à Instituição.",
+   "tags": [
+    "midias",
+    "boas-praticas",
+    "clareza"
+   ]
+  },
+  {
+   "id": "midias-elab-052",
+   "subtema": "Boas práticas",
+   "artigo": "Dtz PM3-006/02/21 — Horário de serviço",
+   "enunciado": "Entre as boas práticas, a Diretriz recomenda não publicar",
+   "alternativas": [
+    "qualquer conteúdo em mídias sociais enquanto durar o vínculo com a Instituição",
+    "fotos, conteúdos ou comentários de caráter exclusivamente pessoal durante o serviço",
+    "conteúdos de terceiros, ainda que previamente autorizados por seus autores",
+    "conteúdos institucionais divulgados pelos canais oficiais da Instituição"
+   ],
+   "correta": 1,
+   "explicacao": "A recomendação alcança a publicação de conteúdo de caráter exclusivamente pessoal durante o horário de serviço, somando-se às demais boas práticas, como não utilizar o ambiente virtual como alternativa ao que não se deve praticar no ambiente real.",
+   "tags": [
+    "midias",
+    "boas-praticas",
+    "servico"
+   ]
+  },
+  {
+   "id": "midias-elab-053",
+   "subtema": "Boas práticas",
+   "artigo": "Dtz PM3-006/02/21 — Conteúdos incompatíveis",
+   "enunciado": "Ainda entre as boas práticas, orienta-se que o policial militar não publique",
+   "alternativas": [
+    "conteúdos sobre assuntos incompatíveis com a classe policial-militar",
+    "conteúdos sobre atividades esportivas praticadas em seu tempo livre",
+    "conteúdos sobre estudos acadêmicos realizados fora da Instituição",
+    "conteúdos sobre viagens realizadas durante o período de férias"
+   ],
+   "correta": 0,
+   "explicacao": "A recomendação veda conteúdos sobre assuntos incompatíveis com a classe policial-militar, cláusula aberta que se integra aos valores e deveres éticos e ao dever de decoro exigido do militar do Estado.",
+   "tags": [
+    "midias",
+    "boas-praticas",
+    "incompatibilidade"
+   ]
+  },
+  {
+   "id": "midias-elab-054",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-006/02/21 — CComSoc",
+   "enunciado": "Compete ao Centro de Comunicação Social, na sistemática da Diretriz,",
+   "alternativas": [
+    "sistematizar o acompanhamento do uso das mídias pelas OPM subordinadas",
+    "promover as apurações administrativas decorrentes do descumprimento da norma",
+    "formatar videotreinamentos e instruções continuadas de comando sobre o tema",
+    "desenvolver estratégia de divulgação das vedações, faculdades e boas práticas"
+   ],
+   "correta": 3,
+   "explicacao": "Ao CComSoc cabe desenvolver a estratégia de divulgação voltada aos policiais da ativa, agregados e veteranos, atuar como polo central de coleta e difusão de vídeos, imagens e áudios de interesse e auxiliar os Grandes Comandos na fiscalização, transmitindo-lhes descumprimentos.",
+   "tags": [
+    "midias",
+    "atribuicoes",
+    "ccomsoc"
+   ]
+  },
+  {
+   "id": "midias-elab-055",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-006/02/21 — Polo central de difusão",
+   "enunciado": "Como polo central de coleta e difusão de vídeos, imagens e áudios de interesse policial-militar, o CComSoc condiciona as divulgações",
+   "alternativas": [
+    "à anuência das pessoas que aparecem nas imagens a serem divulgadas",
+    "à autorização do Comandante da unidade onde ocorreu o fato registrado",
+    "estritamente à aprovação do próprio Centro, em especial nos fatos comunicáveis",
+    "à deliberação da Corregedoria quanto à regularidade da atuação policial"
+   ],
+   "correta": 2,
+   "explicacao": "O Centro atua como polo central de coleta e difusão, sobretudo de ocorrências que se enquadrem como fatos comunicáveis, condicionando as divulgações estritamente à sua aprovação, o que concretiza o filtro dos canais oficiais previsto entre os objetivos da norma.",
+   "tags": [
+    "midias",
+    "atribuicoes",
+    "difusao"
+   ]
+  },
+  {
+   "id": "midias-elab-056",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-006/02/21 — Fiscalização pelo CComSoc",
+   "enunciado": "Por meio de sua capilaridade nas mídias sociais, o CComSoc auxilia na fiscalização do efetivo",
+   "alternativas": [
+    "instaurando diretamente os procedimentos disciplinares cabíveis ao caso",
+    "transmitindo aos Grandes Comandos os descumprimentos à Diretriz detectados",
+    "determinando a exclusão dos conteúdos irregulares pelas plataformas digitais",
+    "aplicando advertência escrita aos policiais responsáveis pelas publicações"
+   ],
+   "correta": 1,
+   "explicacao": "O auxílio se dá pela transmissão dos descumprimentos aos Grandes Comandos, a quem cabe sistematizar o acompanhamento; a promoção de apurações administrativas ou penais é atribuição dos Batalhões, por meio de suas estruturas próprias.",
+   "tags": [
+    "midias",
+    "atribuicoes",
+    "fiscalizacao"
+   ]
+  },
+  {
+   "id": "midias-elab-057",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-006/02/21 — CIPM e Corregedoria",
+   "enunciado": "Ao CIPM e à Corregedoria PM incumbe, na sistemática da Diretriz,",
+   "alternativas": [
+    "selecionar e encaminhar ao CComSoc os conteúdos de interesse institucional",
+    "desenvolver a estratégia de divulgação das vedações e faculdades ao efetivo",
+    "subsidiar o Comando Geral na política de fiscalização, apuração e responsabilização",
+    "formatar os conteúdos programáticos dos cursos e estágios da Instituição"
+   ],
+   "correta": 2,
+   "explicacao": "O CIPM e a Corregedoria subsidiam o Comando Geral, conforme suas atribuições, na política de fiscalização, informação, avaliação, apuração e eventual responsabilização dos policiais que façam uso indevido das mídias sociais e dos aplicativos mensageiros.",
+   "tags": [
+    "midias",
+    "atribuicoes",
+    "cipm"
+   ]
+  },
+  {
+   "id": "midias-elab-058",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-006/02/21 — DEC",
+   "enunciado": "À Diretoria de Ensino e Cultura compete, quanto ao tema da Diretriz,",
+   "alternativas": [
+    "orientar diretamente os policiais veteranos sobre as vedações da Diretriz",
+    "auditar os perfis em mídias sociais mantidos pelos policiais militares da ativa",
+    "aprovar previamente os conteúdos institucionais divulgados nos canais oficiais",
+    "formatar videotreinamentos e instruções continuadas e inserir o tema nos currículos"
+   ],
+   "correta": 3,
+   "explicacao": "Cabe à DEC formatar videotreinamentos e instruções continuadas de comando em reforço às vedações, faculdades e boas práticas, e incluir o tema como conteúdo programático dos cursos e estágios, em especial os de formação.",
+   "tags": [
+    "midias",
+    "atribuicoes",
+    "dec"
+   ]
+  },
+  {
+   "id": "midias-elab-059",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-006/02/21 — Grandes Comandos",
+   "enunciado": "Aos Grandes Comandos compete, na sistemática da Diretriz,",
+   "alternativas": [
+    "promover as apurações administrativas e penais decorrentes dos descumprimentos",
+    "sistematizar o acompanhamento do uso das mídias pelas OPM e efetivos subordinados",
+    "desenvolver a estratégia institucional de divulgação das vedações e faculdades",
+    "atuar como polo central de coleta e difusão de imagens de interesse institucional"
+   ],
+   "correta": 1,
+   "explicacao": "Os Grandes Comandos sistematizam o acompanhamento com foco nas OPM e efetivos subordinados, verificando não conformidades que justifiquem orientação ou responsabilização, e selecionam e encaminham ao CComSoc conteúdos de interesse para eventual difusão como fatos comunicáveis.",
+   "tags": [
+    "midias",
+    "atribuicoes",
+    "grandes-comandos"
+   ]
+  },
+  {
+   "id": "midias-elab-060",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-006/02/21 — Batalhões",
+   "enunciado": "Aos Batalhões compete, entre outras atribuições previstas na Diretriz,",
+   "alternativas": [
+    "definir o conteúdo programático dos cursos de formação sobre o tema",
+    "aprovar a divulgação de fatos comunicáveis nos canais oficiais da Instituição",
+    "elaborar a estratégia de divulgação das boas práticas digitais no Estado",
+    "orientar e fiscalizar o efetivo e promover apurações administrativas ou penais"
+   ],
+   "correta": 3,
+   "explicacao": "Aos Batalhões cabe orientar e fiscalizar o efetivo quanto ao uso das mídias e aplicativos, estender a orientação a agregados e veteranos, promover apurações administrativas ou penais por descumprimentos e selecionar conteúdos de interesse para encaminhamento ao Grande Comando.",
+   "tags": [
+    "midias",
+    "atribuicoes",
+    "batalhao"
+   ]
+  },
+  {
+   "id": "midias-elab-061",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-006/02/21 — P/5 do Batalhão",
+   "enunciado": "A ampla divulgação ao efetivo quanto às vedações, faculdades e boas práticas, no âmbito do Batalhão, será realizada",
+   "alternativas": [
+    "pela Corregedoria PM, mediante instruções remetidas às unidades subordinadas",
+    "por meio da P/5, com base na estratégia do CComSoc e no material da DEC",
+    "pelo Grande Comando, que centraliza a comunicação com os efetivos locais",
+    "pelo próprio CComSoc, que dispensa a intermediação das unidades operacionais"
+   ],
+   "correta": 1,
+   "explicacao": "A divulgação no Batalhão é feita por meio da P/5, com base na estratégia desenvolvida pelo CComSoc e no material produzido pela DEC, aproximando a orientação do efetivo subordinado.",
+   "tags": [
+    "midias",
+    "atribuicoes",
+    "p5"
+   ]
+  },
+  {
+   "id": "midias-elab-062",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-006/02/21 — Seleção de conteúdos",
+   "enunciado": "A seleção de vídeos, imagens e áudios de interesse institucional captados por policiais militares, para eventual veiculação como fatos comunicáveis,",
+   "alternativas": [
+    "cabe ao Grande Comando, que os divulga diretamente em seus canais",
+    "cabe ao próprio policial que captou o material, que o remete ao CComSoc",
+    "cabe à Corregedoria, que avalia a regularidade da atuação registrada",
+    "cabe ao Batalhão, que os encaminha ao Grande Comando para análise"
+   ],
+   "correta": 3,
+   "explicacao": "O Batalhão seleciona os conteúdos, com especial atenção aos captados por policiais militares, e os encaminha ao respectivo Grande Comando para análise quanto à conveniência e oportunidade, seguindo-se o encaminhamento ao CComSoc.",
+   "tags": [
+    "midias",
+    "atribuicoes",
+    "selecao"
+   ]
+  },
+  {
+   "id": "midias-elab-063",
+   "subtema": "Atribuições",
+   "artigo": "Dtz PM3-006/02/21 — Agregados e veteranos",
+   "enunciado": "A orientação e a fiscalização a cargo dos Batalhões, quanto ao uso das mídias sociais,",
+   "alternativas": [
+    "restringem-se ao efetivo da ativa lotado na respectiva unidade",
+    "estendem-se aos policiais militares agregados e veteranos",
+    "alcançam apenas os policiais em estágio probatório na unidade",
+    "dependem de solicitação do Grande Comando em cada caso concreto"
+   ],
+   "correta": 1,
+   "explicacao": "A Diretriz determina expressamente que a orientação e a fiscalização se estendam a agregados e veteranos, coerentemente com o âmbito de aplicação da norma, que alcança essas três situações funcionais.",
+   "tags": [
+    "midias",
+    "atribuicoes",
+    "veteranos"
+   ]
+  },
+  {
+   "id": "midias-elab-064",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar da ativa cria perfil em rede social identificando-se pelo posto e pela unidade em que serve, publicando fotos fardado em frente à viatura. Segundo a Diretriz,",
+   "alternativas": [
+    "há vedação apenas se o perfil estiver configurado como público ou aberto",
+    "não há vedação, por se tratar de perfil pessoal de livre criação e utilização",
+    "há vedação apenas quanto à identificação da unidade, permitida a foto fardado",
+    "há dupla vedação: identificação institucional e exposição de fardamento e viatura"
+   ],
+   "correta": 3,
+   "explicacao": "São vedados o uso de nomes e siglas de OPM, cargos e funções em contas pessoais e os conteúdos que exponham viaturas ou façam alusão a fardamentos. A liberdade de criar o perfil não afasta o regramento do conteúdo associado à Instituição, qualquer que seja a configuração de privacidade.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "perfil"
+   ]
+  },
+  {
+   "id": "midias-elab-065",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar agregado publica vídeo comentando procedimento operacional padrão de abordagem, sem exibir imagens institucionais. A conduta",
+   "alternativas": [
+    "é permitida, pois não há exposição de fardamento, viatura ou instalação",
+    "é vedada, pois a menção à doutrina PM é proibida em contas pessoais",
+    "é permitida, pois a norma não alcança o policial militar agregado",
+    "é vedada apenas se houver monetização do vídeo publicado na plataforma"
+   ],
+   "correta": 1,
+   "explicacao": "A menção à doutrina policial-militar, a exemplo dos POP, videotreinamentos e instruções, é expressamente vedada, independentemente da exibição de elementos visuais e de eventual monetização, e a Diretriz alcança também os agregados.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "doutrina"
+   ]
+  },
+  {
+   "id": "midias-elab-066",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar compartilha, em seu perfil pessoal, publicação oficial da Polícia Militar sobre operação bem-sucedida, acrescentando comentário depreciativo a outro órgão público. Nessa hipótese,",
+   "alternativas": [
+    "o compartilhamento é vedado e o comentário, por ser opinião pessoal, é livre",
+    "tanto o compartilhamento quanto o comentário são vedados pela Diretriz",
+    "ambos são permitidos, pois o conteúdo original é oficial e já foi divulgado",
+    "o compartilhamento é permitido, mas o comentário viola vedação expressa da norma"
+   ],
+   "correta": 3,
+   "explicacao": "O compartilhamento de conteúdo oficial é admitido desde que preservados formato, conteúdo e fonte, mas os comentários devem observar as vedações da Diretriz, entre as quais a de considerações depreciativas a outros órgãos públicos.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "comentario"
+   ]
+  },
+  {
+   "id": "midias-elab-067",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar veterano é convidado a integrar grupo de aplicativo mensageiro criado pela Companhia para tratar de escalas e ordens de serviço. Conforme a Ordem de Serviço aplicável,",
+   "alternativas": [
+    "pode permanecer, desde que se abstenha de opinar sobre assuntos de serviço",
+    "não pode permanecer, por se tratar de grupo funcional exclusivo de policiais da ativa",
+    "pode permanecer enquanto mantiver vínculo de assistência com a Instituição",
+    "pode permanecer mediante autorização do Comandante de Companhia responsável"
+   ],
+   "correta": 1,
+   "explicacao": "Os grupos funcionais, dedicados a assuntos institucionais, são compostos exclusivamente por policiais da ativa, devendo o veterano retirar-se imediatamente; não o fazendo, a autoridade coordenadora providencia a retirada, observados os preceitos éticos e disciplinares.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "grupo-funcional"
+   ]
+  },
+  {
+   "id": "midias-elab-068",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Oficial participa, com professores universitários e representantes de outro órgão, de grupo virtual sobre gestão de segurança pública, identificando-se por posto e função. Essa conduta",
+   "alternativas": [
+    "é vedada, por haver interveniência de civis no grupo virtual formado",
+    "é facultada, devendo a manifestação limitar-se ao tema em debate",
+    "é vedada, por envolver identificação institucional em ambiente digital",
+    "é facultada apenas com autorização prévia do Comandante do Batalhão"
+   ],
+   "correta": 1,
+   "explicacao": "A Diretriz faculta a composição de grupos para temas profissionais, estudos, pareceres e aperfeiçoamentos, inclusive com civis ou representantes de outros órgãos, podendo o policial identificar-se conforme sua condição e função, representando sua OPM e restringindo-se ao tema em debate.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "grupo-profissional"
+   ]
+  },
+  {
+   "id": "midias-elab-069",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Sargento administra grupo de aplicativo mensageiro formado por policiais de sua unidade para assuntos recreativos, integrado também por um Capitão. Quanto às regras do grupo,",
+   "alternativas": [
+    "cabem ao Comandante da unidade, que deve homologar as regras adotadas",
+    "cabem ao administrador do grupo, independentemente do posto ou graduação",
+    "cabe ao policial de maior posto ou graduação estabelecê-las, no caso o Capitão",
+    "são dispensáveis, por se tratar de grupo com finalidade recreativa"
+   ],
+   "correta": 2,
+   "explicacao": "Em grupos virtuais compostos essencialmente por policiais militares, com finalidades diversas, cabe ao policial de maior posto ou graduação estabelecer regras que levem ao cumprimento da Diretriz, com postura ético-moral, zelo e moderação de todos os integrantes.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "regras-grupo"
+   ]
+  },
+  {
+   "id": "midias-elab-070",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar publica foto de formatura de sua turma, em solenidade oficial, com uniforme de gala. Essa publicação",
+   "alternativas": [
+    "somente é admitida em perfis configurados como privados ou fechados",
+    "é vedada, por expor fardamento da Instituição em conta pessoal",
+    "depende de aprovação prévia dos canais oficiais de comunicação",
+    "é facultada, observados os deveres éticos, o respeito e o decoro"
+   ],
+   "correta": 3,
+   "explicacao": "Solenidades e formaturas policiais-militares estão expressamente entre os conteúdos cuja publicidade é facultada, observadas as prescrições regulamentares, os deveres éticos, o respeito e o decoro, sem exigência de aprovação prévia.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "solenidade"
+   ]
+  },
+  {
+   "id": "midias-elab-071",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar registra, com aparelho funcional, imagens de ocorrência de grande repercussão e pretende divulgá-las. A conduta adequada é",
+   "alternativas": [
+    "entregar o material diretamente à imprensa local, preservando a identidade das vítimas",
+    "publicar imediatamente em perfil pessoal, dado o interesse público da informação",
+    "divulgar em grupo funcional da unidade, para conhecimento dos demais policiais",
+    "encaminhar o material pela cadeia prevista, para avaliação e eventual difusão oficial"
+   ],
+   "correta": 3,
+   "explicacao": "A divulgação em conta pessoal é vedada; o caminho é a seleção do material pelo Batalhão e o encaminhamento ao Grande Comando e ao CComSoc, que avalia e aprova a difusão como fato comunicável nos canais oficiais.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "fato-comunicavel"
+   ]
+  },
+  {
+   "id": "midias-elab-072",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar da ativa, candidato a vereador, divulga em rede social material eleitoral em que consta sua designação hierárquica. À luz da Diretriz e do regulamento disciplinar,",
+   "alternativas": [
+    "a conduta é admitida, pois candidatos podem usar designações hierárquicas próprias",
+    "a conduta é vedada, por configurar manifestação de cunho político-partidário",
+    "a conduta é admitida somente após o registro definitivo da candidatura",
+    "a conduta é vedada, salvo se o material for aprovado pelo CComSoc"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz ressalva que, considerado o disposto no regulamento disciplinar, os policiais candidatos a cargos eletivos podem usar das designações hierárquicas próprias em atividades político-partidárias, inclusive em mídias sociais, para divulgação.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "eleicoes"
+   ]
+  },
+  {
+   "id": "midias-elab-073",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar desincompatibilizado para concorrer a cargo eletivo permanece em grupo funcional da unidade. Nessa situação,",
+   "alternativas": [
+    "deveria ter se retirado logo após a publicação do ato respectivo",
+    "pode permanecer até o encerramento do período eleitoral, sem restrições",
+    "pode permanecer, desde que não se manifeste sobre temas político-partidários",
+    "deve ser mantido no grupo, para acompanhar as ordens de serviço da unidade"
+   ],
+   "correta": 0,
+   "explicacao": "A Ordem de Serviço impõe a retirada imediata dos grupos funcionais aos veteranos, agregados e desincompatibilizados, logo após a publicação do ato que os coloque nessa condição, cabendo à autoridade coordenadora providenciar a retirada caso não ocorra espontaneamente.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "desincompatibilizacao"
+   ]
+  },
+  {
+   "id": "midias-elab-074",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar recebe, em grupo de amigos, notícia não confirmada sobre suposta operação policial e a repassa em suas redes sociais. Essa conduta",
+   "alternativas": [
+    "é permitida, pois o policial apenas repassou conteúdo produzido por terceiro",
+    "viola a vedação de divulgar informações não comprovadas ou inverídicas",
+    "é permitida se o policial inserir ressalva sobre a origem não confirmada",
+    "somente é vedada se a notícia envolver unidade diversa da sua lotação"
+   ],
+   "correta": 1,
+   "explicacao": "A vedação alcança informações ou dados não comprovados ou inverídicos e incide sobre criação, edição, postagem e compartilhamento, não se admitindo a escusa de mera retransmissão nem a ressalva quanto à origem.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "fake-news"
+   ]
+  },
+  {
+   "id": "midias-elab-075",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar mantém perfil de treinamento físico e recebe patrocínio de loja de equipamentos, publicando conteúdos sem qualquer referência à Instituição. Segundo a Diretriz,",
+   "alternativas": [
+    "a monetização é vedada, pois qualquer remuneração digital é proibida ao policial",
+    "a monetização não é vedada, pois a proibição alcança conteúdos ligados à PM",
+    "a monetização depende de autorização prévia do Comandante do Batalhão",
+    "a monetização é vedada apenas para policiais militares da ativa e agregados"
+   ],
+   "correta": 1,
+   "explicacao": "A vedação é específica: monetização advinda de conteúdos virtuais que se liguem, direta ou indiretamente, à Polícia Militar. Conteúdos sem qualquer vínculo com a Instituição não atraem essa proibição, sem prejuízo dos deveres éticos gerais.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "monetizacao"
+   ]
+  },
+  {
+   "id": "midias-elab-076",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Comandante de Companhia identifica publicação irregular de policial de sua subunidade em rede social. A providência prevista na Diretriz é",
+   "alternativas": [
+    "encaminhar o caso diretamente à Corregedoria, aguardando sua deliberação",
+    "solicitar ao CComSoc a remoção do conteúdo junto à plataforma digital",
+    "orientar e fiscalizar o efetivo e promover a apuração administrativa cabível",
+    "registrar o fato em boletim interno, sem outras providências imediatas"
+   ],
+   "correta": 2,
+   "explicacao": "Aos Batalhões e suas subunidades cabe orientar e fiscalizar o efetivo e promover apurações administrativas ou penais por descumprimento, sem prejuízo do acompanhamento sistematizado pelo Grande Comando e do subsídio do CIPM e da Corregedoria ao Comando Geral.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "apuracao"
+   ]
+  },
+  {
+   "id": "midias-elab-077",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar pretende publicar foto em que aparece apenas com o aparelho intercomunicador funcional, sem fardamento ou insígnias, como imagem de perfil. Essa conduta",
+   "alternativas": [
+    "é vedada, por relacionar-se indiretamente com a condição de militar do Estado",
+    "está abrangida pela exceção expressa da Diretriz quanto à foto de perfil",
+    "depende de aprovação prévia da Seção de Comunicação Social do Batalhão",
+    "somente é admitida se o perfil estiver configurado como privado ou fechado"
+   ],
+   "correta": 1,
+   "explicacao": "A vedação relativa à foto de perfil que se relacione com a condição de policial militar abre exceção expressa para os aparelhos intercomunicadores funcionais, coerentemente com a permissão de identificação para comunicações profissionais.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "foto-perfil"
+   ]
+  },
+  {
+   "id": "midias-elab-078",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar publica em rede social imagem do interior do alojamento de sua unidade para mostrar melhorias realizadas na estrutura. A conduta",
+   "alternativas": [
+    "é permitida, por ter finalidade positiva de valorização institucional",
+    "é permitida, por não haver exposição de pessoas nem de dados operacionais",
+    "é vedada, por expor instalações físicas utilizadas para fins policiais-militares",
+    "é vedada apenas se houver identificação do endereço da unidade na publicação"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz veda conteúdos que exponham o interior das instalações físicas da PM ou utilizadas para fins policiais-militares, independentemente da intenção do autor; a divulgação positiva deve tramitar pelos canais oficiais de comunicação social.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "instalacoes"
+   ]
+  },
+  {
+   "id": "midias-elab-079",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Dois policiais militares discutem, em grupo de aplicativo mensageiro com dezenas de integrantes, decisão do comando sobre escalas, com críticas depreciativas ao superior. Essa conduta",
+   "alternativas": [
+    "viola a vedação relativa a considerações sobre atos de superiores",
+    "é permitida, por ocorrer em ambiente privado e restrito a policiais",
+    "é permitida, desde que o grupo não tenha finalidade funcional",
+    "somente é vedada se a crítica for publicada em rede social aberta"
+   ],
+   "correta": 0,
+   "explicacao": "A vedação sobre considerações a atos de superiores, de caráter reivindicatório ou depreciativas, alcança mídias sociais e aplicativos mensageiros, independentemente do caráter fechado do ambiente, cabendo ao policial de maior posto ou graduação zelar pelas regras do grupo.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "criticas"
+   ]
+  },
+  {
+   "id": "midias-elab-080",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar publica, em perfil pessoal, agradecimento a colegas de guarnição, com foto do grupo fardado no pátio da unidade após o serviço. Essa publicação",
+   "alternativas": [
+    "é permitida, por ter caráter afetivo e não revelar dados de ocorrência",
+    "é vedada, por aludir a fardamento e expor instalação policial-militar",
+    "é permitida, desde que haja anuência de todos os policiais retratados",
+    "é vedada apenas se a imagem exibir armamento ou equipamento de proteção"
+   ],
+   "correta": 1,
+   "explicacao": "A vedação alcança conteúdos que exponham instalações físicas utilizadas para fins policiais-militares e que façam alusão a fardamentos, independentemente da finalidade afetiva; a anuência dos retratados é boa prática, mas não supre a vedação.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "fardamento"
+   ]
+  },
+  {
+   "id": "midias-elab-081",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar mantém perfil privado com poucos seguidores e nele publica conteúdo vedado pela Diretriz. Quanto à responsabilização,",
+   "alternativas": [
+    "a responsabilização depende de o conteúdo ter sido efetivamente compartilhado",
+    "a configuração privada exclui a aplicação da Diretriz ao conteúdo publicado",
+    "a configuração privada não afasta a incidência das vedações da norma",
+    "a responsabilização depende do número de seguidores alcançados pela publicação"
+   ],
+   "correta": 2,
+   "explicacao": "A própria norma adverte que nenhuma configuração garante totalmente a restrição de divulgação, razão pela qual as vedações incidem independentemente de o perfil ser público ou privado e do alcance efetivo da publicação.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "privacidade"
+   ]
+  },
+  {
+   "id": "midias-elab-082",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar veterano cria página para vender cursos preparatórios para concursos da Polícia Militar, divulgando sua condição de ex-integrante. Nos termos da Diretriz,",
+   "alternativas": [
+    "não há vedação, pois o conteúdo é educacional e de interesse dos candidatos",
+    "não há vedação, pois a norma não alcança policiais militares veteranos",
+    "há vedação quanto a dicas sobre concursos PM e quanto à monetização",
+    "há vedação apenas quanto à menção à condição de ex-integrante da Instituição"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz alcança os veteranos e veda tanto dicas e conteúdos relativos a exames e concursos da PM quanto a monetização advinda de conteúdos ligados direta ou indiretamente à Instituição, hipóteses que se somam no caso descrito.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "concursos"
+   ]
+  },
+  {
+   "id": "midias-elab-083",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Comandante de Batalhão determina a criação de grupo de aplicativo mensageiro com policiais da ativa e representantes da prefeitura para tratar de ações integradas. Esse grupo",
+   "alternativas": [
+    "é vedado pela norma, que proíbe grupos com integrantes estranhos à Instituição",
+    "é grupo funcional, por tratar de assuntos institucionais de nível operacional",
+    "não é grupo funcional, por haver interveniência de representantes de outro órgão",
+    "somente é admitido mediante autorização do Comando de Policiamento de Área"
+   ],
+   "correta": 2,
+   "explicacao": "A Ordem de Serviço exclui do conceito de grupo funcional os ambientes com interveniência de civis ou representantes de outros órgãos, e a Diretriz faculta a composição desses grupos para temas profissionais, com manifestação restrita ao tema em debate.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "grupo-misto"
+   ]
+  },
+  {
+   "id": "midias-elab-084",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar divulga em rede social o resultado de investigação em andamento conduzida por sua unidade, com dados sobre suspeitos. Além da vedação específica sobre ocorrências e investigações, a conduta atrai",
+   "alternativas": [
+    "a vedação relativa a conteúdos que mereçam sigilo profissional de qualquer espécie",
+    "a vedação relativa à monetização de conteúdos ligados à Instituição",
+    "a vedação relativa a considerações sobre atos de superiores hierárquicos",
+    "a vedação relativa à aposição de foto institucional no perfil pessoal"
+   ],
+   "correta": 0,
+   "explicacao": "A norma veda informações, dados ou resultados associados a ocorrências, missões, ações, operações, apurações ou investigações, e também os conteúdos que mereçam sigilo profissional de qualquer espécie, hipóteses cumulativas no caso descrito.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "sigilo"
+   ]
+  },
+  {
+   "id": "midias-elab-085",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar da ativa é procurado por jornalista em aplicativo mensageiro para comentar ocorrência atendida por sua guarnição. A conduta correta é",
+   "alternativas": [
+    "responder por escrito, preservando cópia da conversa para eventual comprovação",
+    "responder às perguntas, desde que sem revelar dados sigilosos da ocorrência",
+    "encaminhar a demanda aos canais oficiais de comunicação social da Instituição",
+    "ignorar a solicitação e comunicar o fato imediatamente à Corregedoria PM"
+   ],
+   "correta": 2,
+   "explicacao": "A publicidade de ocorrências deve passar pelo filtro dos canais oficiais de comunicação social, por intermédio da Seção de Comunicação Social do Batalhão, a quem compete avaliar a conveniência e a oportunidade da divulgação.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "imprensa"
+   ]
+  },
+  {
+   "id": "midias-elab-086",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar publica vídeo de campanha de arrecadação de alimentos realizada com apoio de sua unidade, sem submissão prévia aos canais oficiais. Nessa hipótese,",
+   "alternativas": [
+    "não houve descumprimento, pois o conteúdo não expõe fardamento ou viatura",
+    "não houve descumprimento, pois campanhas humanitárias são de livre divulgação",
+    "houve descumprimento, pois campanhas exigem tramitação e aprovação prévias",
+    "houve descumprimento apenas se a publicação tiver gerado monetização"
+   ],
+   "correta": 2,
+   "explicacao": "A faculdade de divulgar campanhas humanitárias, solidárias ou filantrópicas com participação da PM é condicionada à prévia tramitação e aprovação dos conteúdos pelos canais oficiais de comunicação social institucionais.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "campanha"
+   ]
+  },
+  {
+   "id": "midias-elab-087",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar publica imagem de pessoa socorrida por sua guarnição, em agradecimento pela ação realizada. Quanto à Diretriz,",
+   "alternativas": [
+    "há vedação, por envolver pessoa objeto de interação com a Polícia Militar",
+    "não há vedação, pois a imagem tem conotação positiva para a Instituição",
+    "não há vedação, desde que a pessoa tenha autorizado a publicação",
+    "há vedação apenas se a imagem exibir a viatura empregada no socorro"
+   ],
+   "correta": 0,
+   "explicacao": "A vedação alcança conteúdos envolvendo pessoas que tenham sido objeto de intervenção ou interação com a Polícia Militar, sem distinção quanto ao caráter positivo ou negativo do registro; a divulgação institucional deve seguir os canais oficiais.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "pessoas"
+   ]
+  },
+  {
+   "id": "midias-elab-088",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar insere, na descrição de seu perfil pessoal, o e-mail corporativo institucional para facilitar contatos profissionais. Essa conduta",
+   "alternativas": [
+    "é vedada somente para policiais militares que exerçam função de comando",
+    "é permitida, por facilitar o contato do cidadão com a Instituição",
+    "é permitida, desde que não haja menção à unidade de lotação do policial",
+    "é vedada, pois a indicação de e-mail corporativo em conta pessoal é proibida"
+   ],
+   "correta": 3,
+   "explicacao": "A vedação alcança expressamente a indicação de e-mail corporativo, ao lado de nomes e siglas de OPM, brasões, insígnias, símbolos, logomarcas, cargos ou funções e endereços das unidades em contas pessoais.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "email"
+   ]
+  },
+  {
+   "id": "midias-elab-089",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Durante o horário de serviço, policial militar publica fotos pessoais de lazer em rede social. Considerada a orientação de boas práticas,",
+   "alternativas": [
+    "a conduta é permitida se a publicação ocorrer em perfil privado ou fechado",
+    "a conduta é indiferente à norma, por se tratar de conteúdo estritamente pessoal",
+    "a conduta somente é reprovável se o policial estiver fardado nas imagens",
+    "a conduta contraria recomendação expressa sobre publicações durante o serviço"
+   ],
+   "correta": 3,
+   "explicacao": "Entre as boas práticas recomendadas está não publicar fotos, conteúdos ou comentários de caráter exclusivamente pessoal durante o horário de serviço, orientação que se soma às vedações da Diretriz.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "horario"
+   ]
+  },
+  {
+   "id": "midias-elab-090",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar veterano mantém perfil em que publica reflexões sobre sua trajetória, sem uso de símbolos institucionais, fardamento ou menção a ocorrências. Nessa hipótese,",
+   "alternativas": [
+    "há violação, pois a Diretriz veda qualquer publicação por policiais veteranos",
+    "não há, em princípio, violação, pois inexiste vinculação direta ou indireta à PM",
+    "há violação, pois a condição de veterano vincula indiretamente o conteúdo à PM",
+    "há violação somente se o perfil estiver configurado como público ou aberto"
+   ],
+   "correta": 1,
+   "explicacao": "A Diretriz alcança o que se associe direta ou indiretamente à Instituição ou à condição de militar do Estado; conteúdos pessoais sem essa vinculação não atraem as vedações, ainda que o autor seja veterano, preservados os deveres éticos gerais.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "veterano"
+   ]
+  },
+  {
+   "id": "midias-elab-091",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar compartilha publicação oficial da Instituição alterando a legenda para acrescentar dados não divulgados sobre a ocorrência. Essa conduta",
+   "alternativas": [
+    "é vedada apenas se a publicação original tiver caráter reservado",
+    "é permitida, pois o conteúdo principal permanece o mesmo do original",
+    "é permitida, desde que a informação acrescentada seja verdadeira",
+    "extrapola o compartilhamento permitido, que exige preservar conteúdo e fonte"
+   ],
+   "correta": 3,
+   "explicacao": "O compartilhamento autorizado preserva integralmente formato, conteúdo e fonte originais; o acréscimo de dados não divulgados configura postagem de informações sobre ocorrência, vedada pela Diretriz.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "compartilhamento"
+   ]
+  },
+  {
+   "id": "midias-elab-092",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Grupo de policiais militares cria página em rede social para divulgar ações de sua companhia, com brasão da unidade e fotos de viaturas. Quanto à Diretriz,",
+   "alternativas": [
+    "a página é irregular apenas quanto ao uso do brasão da unidade",
+    "a página é regular, por ter finalidade institucional e não gerar monetização",
+    "a página é regular se administrada por oficial da própria companhia",
+    "a página viola as vedações, devendo a divulgação ocorrer pelos canais oficiais"
+   ],
+   "correta": 3,
+   "explicacao": "A criação de contas que utilizem brasões, símbolos e imagens de viaturas para divulgar ações institucionais contraria as vedações da norma; a publicidade deve dar-se pelos canais oficiais de comunicação social, por intermédio da Seção de Comunicação Social do Batalhão.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "pagina"
+   ]
+  },
+  {
+   "id": "midias-elab-093",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar agregado por licença publica críticas ao comando em rede social, alegando que, por não estar em atividade, não se submete à Diretriz. Essa alegação",
+   "alternativas": [
+    "é procedente apenas quanto às vedações, mantidas as boas práticas",
+    "é procedente, pois a agregação suspende os deveres funcionais do policial",
+    "é improcedente, pois a norma alcança expressamente os policiais agregados",
+    "é improcedente, mas a conduta não configura descumprimento à Diretriz"
+   ],
+   "correta": 2,
+   "explicacao": "A Diretriz disciplina o uso de mídias sociais e aplicativos por policiais da ativa, agregados e veteranos, e veda considerações depreciativas sobre atos de superiores, de modo que a alegação não afasta o descumprimento.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "agregado"
+   ]
+  },
+  {
+   "id": "midias-elab-094",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Sargento é designado para coordenar grupo funcional da Companhia. Ao verificar que um policial transferido para outra unidade permanece no grupo, deve",
+   "alternativas": [
+    "excluí-lo de imediato, sob pena de responder disciplinarmente pelo fato",
+    "mantê-lo indefinidamente, pois a norma só trata de veteranos e agregados",
+    "avaliar a pertinência da permanência, pois o grupo é próprio da unidade",
+    "solicitar autorização do Comandante do Batalhão para qualquer exclusão"
+   ],
+   "correta": 2,
+   "explicacao": "A Ordem de Serviço impõe a retirada obrigatória de veteranos, agregados e desincompatibilizados; nas demais situações, cabe ao policial de maior posto ou graduação, coordenador do grupo, estabelecer regras compatíveis com a finalidade institucional do ambiente.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "coordenacao"
+   ]
+  },
+  {
+   "id": "midias-elab-095",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar responde, em rede social, a comentário ofensivo de cidadão contra a Instituição, utilizando linguagem agressiva e identificando-se como policial. Essa conduta",
+   "alternativas": [
+    "é adequada, desde que o policial não mencione sua unidade de lotação",
+    "é adequada, pois o policial atuou em defesa da imagem da Instituição",
+    "contraria a Diretriz, pois a resposta institucional cabe aos canais oficiais",
+    "é irrelevante para a norma, por se tratar de reação a ofensa de terceiro"
+   ],
+   "correta": 2,
+   "explicacao": "A manifestação institucional cabe aos canais oficiais de comunicação social; a resposta pessoal com identificação e linguagem agressiva viola as vedações e as boas práticas, que exigem clareza, respeito e decoro.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "resposta"
+   ]
+  },
+  {
+   "id": "midias-elab-096",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar da ativa integra grupo de estudos sobre segurança pública com pesquisadores civis e, ao se apresentar, informa posto, função e unidade. Essa apresentação",
+   "alternativas": [
+    "depende de autorização prévia da Seção de Comunicação Social do Batalhão",
+    "é vedada, pois a identificação institucional em ambiente digital é sempre proibida",
+    "é admitida apenas se o grupo for composto exclusivamente por policiais militares",
+    "é admitida, pois nesses grupos o policial pode identificar-se e representar sua OPM"
+   ],
+   "correta": 3,
+   "explicacao": "Nos grupos facultados pela Diretriz, voltados a temas profissionais, estudos, pareceres e aperfeiçoamentos, os policiais podem identificar-se e manifestar-se conforme sua condição e função, representando suas OPM, restritos ao tema em debate.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "identificacao"
+   ]
+  },
+  {
+   "id": "midias-elab-097",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar publica foto de seu casamento, em que aparece com uniforme de gala, acompanhado de colegas também fardados. Quanto à Diretriz,",
+   "alternativas": [
+    "a publicação é facultada, observadas as previsões do regulamento de uniformes",
+    "a publicação é vedada, por exibir fardamento de policiais militares",
+    "a publicação depende da anuência prévia de todos os policiais retratados",
+    "a publicação é facultada somente se realizada por perfil privado ou fechado"
+   ],
+   "correta": 0,
+   "explicacao": "Casamentos com uso de uniforme estão expressamente entre os conteúdos cuja publicidade é facultada, observadas as previsões do R-5-PM, os deveres éticos, o respeito e o decoro, sem prejuízo da boa prática de obter anuência dos retratados.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "casamento"
+   ]
+  },
+  {
+   "id": "midias-elab-098",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar cria conteúdo humorístico em que encena abordagem policial, usando fardamento próprio, e o publica em plataforma de vídeos curtos. Essa conduta",
+   "alternativas": [
+    "é vedada, por aludir a fardamento e à atividade policial em conta pessoal",
+    "é permitida, por se tratar de encenação sem relação com ocorrência real",
+    "é permitida, desde que o conteúdo não seja monetizado pela plataforma",
+    "é vedada apenas se a encenação retratar procedimento operacional padrão"
+   ],
+   "correta": 0,
+   "explicacao": "A vedação alcança conteúdos que façam alusão a fardamentos e que se relacionem, direta ou indiretamente, com a Polícia Militar, independentemente do caráter ficcional da encenação ou da existência de monetização.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "encenacao"
+   ]
+  },
+  {
+   "id": "midias-elab-099",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Comandante de unidade pretende divulgar ação social realizada com apoio de empresas locais. A sequência correta, segundo a norma, é",
+   "alternativas": [
+    "encaminhar o material diretamente à imprensa local, com nota de agradecimento",
+    "autorizar que os policiais participantes publiquem o material em perfis pessoais",
+    "tramitar o conteúdo pelos canais oficiais para aprovação e posterior divulgação",
+    "publicar em grupo funcional da unidade e permitir o compartilhamento livre"
+   ],
+   "correta": 2,
+   "explicacao": "A divulgação de campanhas humanitárias, solidárias ou filantrópicas com participação da PM depende de prévia tramitação e aprovação pelos canais oficiais de comunicação social, que avaliam conveniência e oportunidade da publicação.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "divulgacao"
+   ]
+  },
+  {
+   "id": "midias-elab-100",
+   "subtema": "Aplicação prática",
+   "artigo": "Dtz PM3-006/02/21 — Caso concreto",
+   "enunciado": "Policial militar publica conteúdo que expõe aspectos íntimos de sua vida privada, com imagens incompatíveis com o decoro exigido. Segundo a Diretriz,",
+   "alternativas": [
+    "a conduta somente é vedada se houver identificação como policial militar",
+    "a conduta é irrelevante, por se referir exclusivamente à vida privada",
+    "a conduta é vedada, por atentar contra as relações de respeito e decoro",
+    "a conduta é vedada apenas quando praticada durante o horário de serviço"
+   ],
+   "correta": 2,
+   "explicacao": "A norma veda publicações que exponham caráter íntimo atentatório às relações de respeito e decoro, lembrando que a investidura policial-militar impõe responsabilidades e deveres inclusive na condução da vida particular.",
+   "tags": [
+    "midias",
+    "aplicacao",
+    "decoro"
+   ]
+  },
+  {
+   "id": "midias-elab-101",
+   "subtema": "Síntese",
+   "artigo": "Dtz PM3-006/02/21 — Estrutura da norma",
+   "enunciado": "A Diretriz organiza o tratamento do tema em torno de três eixos, quais sejam,",
+   "alternativas": [
+    "vedações, faculdades e boas práticas digitais",
+    "sanções, recursos e procedimentos de apuração",
+    "conceitos, competências e prazos de adequação",
+    "orientação, fiscalização e responsabilização disciplinar"
+   ],
+   "correta": 0,
+   "explicacao": "O corpo normativo estrutura-se em vedações ao policial da ativa, agregado e veterano, faculdades expressamente admitidas e boas práticas digitais recomendadas, além das atribuições institucionais e do regime de responsabilização.",
+   "tags": [
+    "midias",
+    "sintese",
+    "estrutura"
+   ]
+  },
+  {
+   "id": "midias-elab-102",
+   "subtema": "Síntese",
+   "artigo": "Dtz PM3-006/02/21 — Critério de incidência",
+   "enunciado": "O critério central que define a incidência das vedações da Diretriz é",
+   "alternativas": [
+    "a relação, direta ou indireta, do conteúdo com a PM ou com a condição de militar",
+    "a configuração de privacidade adotada no perfil em que se publica o conteúdo",
+    "a existência de monetização decorrente da publicação realizada pelo policial",
+    "a situação funcional do autor, alcançando apenas os policiais da ativa"
+   ],
+   "correta": 0,
+   "explicacao": "As vedações incidem sobre conteúdos que se relacionem, direta ou indiretamente, com a Polícia Militar ou com a condição de militar do Estado, critério que independe da privacidade do perfil, da monetização e da situação funcional do autor.",
+   "tags": [
+    "midias",
+    "sintese",
+    "criterio"
+   ]
+  },
+  {
+   "id": "midias-elab-103",
+   "subtema": "Síntese",
+   "artigo": "Dtz PM3-006/02/21 — Comparação de regimes",
+   "enunciado": "Comparadas as hipóteses de solenidades e de campanhas humanitárias, verifica-se que",
+   "alternativas": [
+    "apenas as solenidades exigem aprovação prévia, por envolverem uso de uniforme",
+    "ambas exigem prévia tramitação e aprovação pelos canais oficiais da Instituição",
+    "apenas as campanhas exigem prévia tramitação e aprovação pelos canais oficiais",
+    "nenhuma delas depende de autorização, por integrarem o rol de faculdades"
+   ],
+   "correta": 2,
+   "explicacao": "Solenidades, formaturas e casamentos com uso de uniforme são facultados observadas as prescrições regulamentares e os deveres éticos; já as campanhas humanitárias, solidárias ou filantrópicas exigem prévia tramitação e aprovação pelos canais oficiais.",
+   "tags": [
+    "midias",
+    "sintese",
+    "comparacao"
+   ]
+  },
+  {
+   "id": "midias-elab-104",
+   "subtema": "Síntese",
+   "artigo": "Dtz PM3-006/02/21 e OS PM3-004/02/22",
+   "enunciado": "Comparadas a Diretriz e a Ordem de Serviço sobre grupos funcionais, é correto afirmar que",
+   "alternativas": [
+    "a Diretriz regula o uso em geral e a Ordem de Serviço, a composição dos grupos funcionais",
+    "a Ordem de Serviço revogou as faculdades previstas na Diretriz quanto a grupos",
+    "ambas tratam exclusivamente do uso de mídias sociais por policiais da ativa",
+    "a Diretriz aplica-se apenas a mídias sociais e a Ordem de Serviço, a redes sociais"
+   ],
+   "correta": 0,
+   "explicacao": "A Diretriz disciplina de modo geral o uso de mídias sociais e aplicativos mensageiros por policiais da ativa, agregados e veteranos, e a Ordem de Serviço complementa o tema ao restringir a composição dos grupos funcionais aos policiais da ativa.",
+   "tags": [
+    "midias",
+    "sintese",
+    "normas"
+   ]
+  },
+  {
+   "id": "midias-elab-105",
+   "subtema": "Síntese",
+   "artigo": "Dtz PM3-006/02/21 — Fundamentos",
+   "enunciado": "Entre os fundamentos que motivaram a edição da Diretriz destaca-se que",
+   "alternativas": [
+    "o uso de aplicativos de relacionamento gerava atrasos e faltas ao serviço",
+    "a investidura policial-militar impõe responsabilidades inclusive na vida particular",
+    "as plataformas digitais passaram a exigir identificação funcional dos usuários",
+    "a legislação eleitoral proibiu qualquer manifestação digital por militares"
+   ],
+   "correta": 1,
+   "explicacao": "A norma parte da constatação de que a difusão das vias digitais alterou as relações sociais e de que a investidura policial-militar impõe responsabilidades e deveres inclusive na condução da vida particular, o que repercute na criação e no compartilhamento de conteúdos.",
+   "tags": [
+    "midias",
+    "sintese",
+    "fundamentos"
+   ]
+  }
+ ]
+}

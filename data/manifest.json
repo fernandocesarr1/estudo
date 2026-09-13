@@ -157,6 +157,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "midias-elab",
+      "nome": "Midias Sociais",
+      "nomeCompleto": "Uso de midias sociais e aplicativos mensageiros por policiais militares (105 questões)",
+      "norma": "Dtz PM3-006/02/21 e OS PM3-004/02/22",
+      "arquivo": "data/midias-elab.json",
+      "cor": "#1f4f6f",
+      "ativo": true,
+      "ordem": 15,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",
