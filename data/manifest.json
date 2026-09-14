@@ -278,6 +278,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "historia-elab",
+      "nome": "História da Polícia Militar",
+      "nomeCompleto": "História da Polícia Militar — \"Polícia Militar: Uma Crônica\" (Cel Luiz Eduardo Pesce de Arruda) (103 questões)",
+      "norma": "A Força Policial nº 13 (1997) e questões CSTAPM/CAO",
+      "arquivo": "data/historia-elab.json",
+      "cor": "#7a6a2f",
+      "ativo": true,
+      "ordem": 26,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",

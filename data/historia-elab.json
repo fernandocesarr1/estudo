@@ -1,0 +1,1975 @@
+{
+ "materia": "historia-elab",
+ "versao": "1.5.0",
+ "atualizadoEm": "2026-09-14",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Democracia pós-Vargas",
+  "Era Vargas",
+  "Governos militares",
+  "Período Regencial",
+  "Redemocratização",
+  "República",
+  "Segundo Império",
+  "Síntese"
+ ],
+ "questoes": [
+  {
+   "id": "historia-elab-001",
+   "subtema": "Período Regencial",
+   "artigo": "Polícia Militar: Uma Crônica — Contexto",
+   "enunciado": "O Período Regencial, em que surgiu a milícia paulista, é descrito na crônica do Cel Arruda como época",
+   "alternativas": [
+    "estável, marcada pela expansão do café e pela urbanização",
+    "instável, marcada por rebeliões e pelo receio do separatismo",
+    "de crise financeira, anseio por mudanças e classe média ativa",
+    "de polarização entre integralistas e comunistas nas capitais"
+   ],
+   "correta": 1,
+   "explicacao": "Com o fim do 1º Império, a Regência Trina governou até a maioridade de D. Pedro II, em época instável, marcada por rebeliões e pelo receio do separatismo.",
+   "tags": [
+    "historia",
+    "regencial",
+    "contexto"
+   ]
+  },
+  {
+   "id": "historia-elab-002",
+   "subtema": "Período Regencial",
+   "artigo": "Polícia Militar: Uma Crônica — Feijó",
+   "enunciado": "Em 10 de outubro de 1831, o Ministro da Justiça Padre Diogo Antônio Feijó decretou",
+   "alternativas": [
+    "a criação do Corpo de Guardas Municipais Voluntários da Província de São Paulo",
+    "a extinção dos vários corpos policiais existentes e a criação de um único corpo",
+    "a transformação das guardas municipais em Corpo Policial Permanente",
+    "a subordinação dos corpos policiais das províncias ao Exército de Linha"
+   ],
+   "correta": 1,
+   "explicacao": "Feijó decretou, em 10 de outubro de 1831, a extinção dos vários corpos policiais existentes, então frágeis, e a criação de um único corpo; a criação paulista coube a Tobias de Aguiar em dezembro.",
+   "tags": [
+    "historia",
+    "regencial",
+    "feijo"
+   ]
+  },
+  {
+   "id": "historia-elab-003",
+   "subtema": "Período Regencial",
+   "artigo": "Polícia Militar: Uma Crônica — Criação da milícia",
+   "enunciado": "Em 15 de dezembro de 1831, o Presidente da Província de São Paulo, Tobias de Aguiar, criou o Corpo de Guardas Municipais Voluntários, com",
+   "alternativas": [
+    "cem homens a pé e cinquenta a cavalo",
+    "cem homens a pé e trinta a cavalo",
+    "cento e trinta homens a pé",
+    "trinta homens a pé e cem a cavalo"
+   ],
+   "correta": 1,
+   "explicacao": "O Corpo de Guardas Municipais Voluntários foi criado com 100 homens a pé e 30 a cavalo.",
+   "tags": [
+    "historia",
+    "regencial",
+    "tobias"
+   ]
+  },
+  {
+   "id": "historia-elab-004",
+   "subtema": "Período Regencial",
+   "artigo": "Polícia Militar: Uma Crônica — Finalidade",
+   "enunciado": "Segundo a crônica, o Corpo de Guardas Municipais Voluntários foi criado para",
+   "alternativas": [
+    "a guarda pessoal do Presidente da Província",
+    "a defesa da integridade territorial do Império",
+    "a defesa das fronteiras e das costas da Província",
+    "a manutenção da ordem pública e o auxílio à Justiça"
+   ],
+   "correta": 3,
+   "explicacao": "O Corpo foi criado para a manutenção da ordem pública e para auxiliar a Justiça, finalidade cobrada na prova do CSTAPM 2019.",
+   "tags": [
+    "historia",
+    "regencial",
+    "finalidade"
+   ]
+  },
+  {
+   "id": "historia-elab-005",
+   "subtema": "Período Regencial",
+   "artigo": "Polícia Militar: Uma Crônica — Campo das Palmas",
+   "enunciado": "A atuação do Corpo no Campo das Palmas, no atual Paraná, teve por objetivo",
+   "alternativas": [
+    "liberar o caminho para o comércio com o Sul, atuando como verdadeira governança",
+    "combater os rebeldes farroupilhas que avançavam sobre a Província de São Paulo",
+    "garantir a posse do território contra invasões de tropas estrangeiras vizinhas",
+    "reprimir quilombos formados por escravos fugidos das fazendas de café"
+   ],
+   "correta": 0,
+   "explicacao": "No Campo das Palmas, o Corpo liberou o caminho para o comércio com o Sul; mais que missão policial, atuou como governança, levando urbanização e civilização.",
+   "tags": [
+    "historia",
+    "regencial",
+    "palmas"
+   ]
+  },
+  {
+   "id": "historia-elab-006",
+   "subtema": "Período Regencial",
+   "artigo": "Polícia Militar: Uma Crônica — Corpo Policial Permanente",
+   "enunciado": "Ainda no Período Regencial, após combater na Revolta dos Farroupilhas e atuar no Campo das Palmas, a milícia passou a ser denominada",
+   "alternativas": [
+    "Corpo Policial Permanente, e a tropa passou a receber instruções",
+    "Força Pública, e a tropa passou a receber salário do Estado",
+    "Guarda Urbana, e passou a exigir pessoas alfabetizadas",
+    "Força Policial, e passou a ser comandada por delegados"
+   ],
+   "correta": 0,
+   "explicacao": "A milícia passou a ser Corpo Policial Permanente e a tropa passou a receber instruções; Força Pública é denominação do período republicano.",
+   "tags": [
+    "historia",
+    "regencial",
+    "denominacao"
+   ]
+  },
+  {
+   "id": "historia-elab-007",
+   "subtema": "Segundo Império",
+   "artigo": "Polícia Militar: Uma Crônica — Contexto",
+   "enunciado": "O contexto histórico do Segundo Império, na crônica, é marcado",
+   "alternativas": [
+    "pela mineração de ouro",
+    "pelo ciclo da borracha",
+    "pela crise financeira de 1929",
+    "pela expansão do café"
+   ],
+   "correta": 3,
+   "explicacao": "O Segundo Império tem como contexto a expansão do café, com crescimento do Corpo Policial Permanente e capilarização de sua presença no Estado.",
+   "tags": [
+    "historia",
+    "segundo-imperio",
+    "contexto"
+   ]
+  },
+  {
+   "id": "historia-elab-008",
+   "subtema": "Segundo Império",
+   "artigo": "Polícia Militar: Uma Crônica — Revolução Liberal",
+   "enunciado": "No Segundo Império, o Corpo Policial Permanente combateu na Revolução Liberal de Sorocaba, movimento que tinha como líderes",
+   "alternativas": [
+    "Miguel Costa e Luís Carlos Prestes",
+    "Tobias de Aguiar e Diogo Antônio Feijó",
+    "Jorge Tibiriçá e Barão do Rio Branco",
+    "Pedro Dias de Campos e Tenente Galinha"
+   ],
+   "correta": 1,
+   "explicacao": "Tobias e Feijó se opuseram ao Imperador, e o Corpo Policial Permanente combateu na Revolução Liberal de Sorocaba contra ambos.",
+   "tags": [
+    "historia",
+    "segundo-imperio",
+    "sorocaba"
+   ]
+  },
+  {
+   "id": "historia-elab-009",
+   "subtema": "Segundo Império",
+   "artigo": "Polícia Militar: Uma Crônica — Guerra do Paraguai",
+   "enunciado": "Durante a Guerra do Paraguai, o Corpo Policial Permanente apoiou os Voluntários da Pátria no episódio conhecido como",
+   "alternativas": [
+    "Retirada da Laguna",
+    "Batalha do Riachuelo",
+    "Tomada de Humaitá",
+    "Batalha de Tuiuti"
+   ],
+   "correta": 0,
+   "explicacao": "A crônica registra o apoio do Corpo Policial Permanente aos Voluntários da Pátria na Retirada da Laguna.",
+   "tags": [
+    "historia",
+    "segundo-imperio",
+    "laguna"
+   ]
+  },
+  {
+   "id": "historia-elab-010",
+   "subtema": "Segundo Império",
+   "artigo": "Polícia Militar: Uma Crônica — Menores Artífices",
+   "enunciado": "A Companhia de Menores Artífices, criada para abrigar órfãos da Guerra do Paraguai, é destacada na crônica por constituir",
+   "alternativas": [
+    "a primeira banda de música militar do Brasil",
+    "a primeira escola profissionalizante do Brasil",
+    "o embrião do Colégio da Polícia Militar",
+    "a primeira escola de sargentos do Império"
+   ],
+   "correta": 1,
+   "explicacao": "A Companhia de Menores Artífices constituiu-se na 1ª Escola Profissionalizante do Brasil.",
+   "tags": [
+    "historia",
+    "segundo-imperio",
+    "artifices"
+   ]
+  },
+  {
+   "id": "historia-elab-011",
+   "subtema": "Segundo Império",
+   "artigo": "Polícia Militar: Uma Crônica — Corpo Musical",
+   "enunciado": "O Corpo Musical da milícia paulista foi criado em 7 de abril de 1857 com",
+   "alternativas": [
+    "doze componentes e um Sargento Mestre",
+    "vinte componentes e um Tenente Mestre",
+    "dezessete componentes e um Sargento Mestre",
+    "trinta componentes e um Capitão Mestre"
+   ],
+   "correta": 2,
+   "explicacao": "O Corpo Musical foi criado em 7 de abril de 1857 com 17 componentes e 1 Sargento Mestre; o Major Joaquim Antão Fernandes foi autor da Marcha Batida.",
+   "tags": [
+    "historia",
+    "segundo-imperio",
+    "musica"
+   ]
+  },
+  {
+   "id": "historia-elab-012",
+   "subtema": "Segundo Império",
+   "artigo": "Polícia Militar: Uma Crônica — Marcha Batida",
+   "enunciado": "É apontado na crônica como autor da Marcha Batida",
+   "alternativas": [
+    "o Sargento Mestre do Corpo Musical",
+    "o Tenente José Severino Dias",
+    "o Major Joaquim Antão Fernandes",
+    "o Capitão Pedro Dias de Campos"
+   ],
+   "correta": 2,
+   "explicacao": "O Major Joaquim Antão Fernandes foi o autor da Marcha Batida; o Tenente José Severino Dias assumiu o comando do Corpo de Bombeiros em 1880.",
+   "tags": [
+    "historia",
+    "segundo-imperio",
+    "marcha"
+   ]
+  },
+  {
+   "id": "historia-elab-013",
+   "subtema": "Segundo Império",
+   "artigo": "Polícia Militar: Uma Crônica — Corpo de Bombeiros",
+   "enunciado": "O Corpo de Bombeiros foi criado em 1880, após incêndio",
+   "alternativas": [
+    "no edifício Joelma, com comando do Tenente Affonso Luiz Cianciulli",
+    "na Faculdade de Direito, com comando do Tenente José Severino Dias",
+    "no Teatro São José, com comando do Capitão Paulo Marques Pereira",
+    "na Estação da Luz, com comando do Major Joaquim Antão Fernandes"
+   ],
+   "correta": 1,
+   "explicacao": "Após incêndio na Faculdade de Direito do Largo São Francisco, o Tenente José Severino Dias assumiu o comando em julho de 1880, com 20 praças.",
+   "tags": [
+    "historia",
+    "segundo-imperio",
+    "bombeiros"
+   ]
+  },
+  {
+   "id": "historia-elab-014",
+   "subtema": "Segundo Império",
+   "artigo": "Polícia Militar: Uma Crônica — Efetivo inicial dos bombeiros",
+   "enunciado": "Ao assumir o comando do Corpo de Bombeiros em julho de 1880, o Tenente José Severino Dias iniciou a organização do serviço de combate a incêndios contando com",
+   "alternativas": [
+    "cem praças",
+    "trinta praças",
+    "dezessete praças",
+    "vinte praças"
+   ],
+   "correta": 3,
+   "explicacao": "O Tenente José Severino Dias iniciou os trabalhos de organização e instrução contando com 20 praças.",
+   "tags": [
+    "historia",
+    "segundo-imperio",
+    "bombeiros-efetivo"
+   ]
+  },
+  {
+   "id": "historia-elab-015",
+   "subtema": "Segundo Império",
+   "artigo": "Polícia Militar: Uma Crônica — Luiz Gama",
+   "enunciado": "O Cabo Luiz Gama é lembrado na crônica como",
+   "alternativas": [
+    "intelectual que lutou pela abolição da escravatura",
+    "autor da Marcha Batida e fundador do Corpo Musical",
+    "fundador da Caixa Beneficente da milícia paulista",
+    "primeiro comandante do Corpo de Bombeiros paulista"
+   ],
+   "correta": 0,
+   "explicacao": "O Cabo Luiz Gama foi intelectual e lutou pela abolição da escravatura.",
+   "tags": [
+    "historia",
+    "segundo-imperio",
+    "luiz-gama"
+   ]
+  },
+  {
+   "id": "historia-elab-016",
+   "subtema": "Segundo Império",
+   "artigo": "Polícia Militar: Uma Crônica — Força repressiva",
+   "enunciado": "Segundo Heloisa Fernandes, em Política e Segurança (1973), no Segundo Império o Corpo Policial Permanente",
+   "alternativas": [
+    "foi transformado em guarda pessoal dos barões do café",
+    "tornou-se o pequeno exército paulista a serviço dos governantes",
+    "passou a agir preventivamente, com patrulhamento comunitário",
+    "passou a agir mais repressivamente, na expressão força repressiva"
+   ],
+   "correta": 3,
+   "explicacao": "A autora afirma que o Corpo Policial Permanente passou a agir mais repressivamente, usando a expressão força repressiva; pequeno exército paulista é expressão de Dallari sobre a Força Pública.",
+   "tags": [
+    "historia",
+    "segundo-imperio",
+    "heloisa"
+   ]
+  },
+  {
+   "id": "historia-elab-017",
+   "subtema": "Segundo Império",
+   "artigo": "Polícia Militar: Uma Crônica — Guarda Urbana",
+   "enunciado": "Quanto ao recrutamento, a crônica registra que no Segundo Império a Guarda Urbana passou a exigir",
+   "alternativas": [
+    "serviço prévio no Exército",
+    "altura mínima de 1,70 m",
+    "pessoas alfabetizadas",
+    "prova de ditado e de matemática"
+   ],
+   "correta": 2,
+   "explicacao": "A Guarda Urbana passou a exigir pessoas alfabetizadas; as provas de ditado e das quatro operações surgem apenas em 1943.",
+   "tags": [
+    "historia",
+    "segundo-imperio",
+    "alfabetizados"
+   ]
+  },
+  {
+   "id": "historia-elab-018",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Força Pública",
+   "enunciado": "Com a República, o Corpo Policial Permanente passou a denominar-se",
+   "alternativas": [
+    "Força Policial",
+    "Força Pública",
+    "Guarda Civil",
+    "Polícia Militar"
+   ],
+   "correta": 1,
+   "explicacao": "Na República, o Corpo Policial Permanente passou a chamar-se Força Pública, e a Guarda Imperial foi extinta por lei.",
+   "tags": [
+    "historia",
+    "republica",
+    "forca-publica"
+   ]
+  },
+  {
+   "id": "historia-elab-019",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Pequeno exército paulista",
+   "enunciado": "A expressão pequeno exército paulista, aplicada à Força Pública na política do Café com Leite, foi cunhada",
+   "alternativas": [
+    "por Heloisa Fernandes, em livro de 1973",
+    "por Dalmo de Abreu Dallari, em livro de 1977",
+    "pelo historiador Hernani Nonato",
+    "pelo Cel Luiz Eduardo Pesce de Arruda"
+   ],
+   "correta": 1,
+   "explicacao": "A expressão é de Dalmo de Abreu Dallari, em livro de 1977, que retrata São Paulo com grande força econômica e pouca força política, apoiada em forte dispositivo policial-militar.",
+   "tags": [
+    "historia",
+    "republica",
+    "dallari"
+   ]
+  },
+  {
+   "id": "historia-elab-020",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Delegados",
+   "enunciado": "Na República, oficiais e graduados eram nomeados honorificamente delegados no interior, até que o Governador Jorge Tibiriçá",
+   "alternativas": [
+    "criou a Guarda Civil para substituir a Força Pública no policiamento do interior",
+    "estruturou a carreira de delegado bacharel em direito e enfraqueceu os municípios",
+    "subordinou a Força Pública aos delegados de polícia nomeados pelos municípios",
+    "extinguiu os cargos de delegado e transferiu suas funções aos comandantes"
+   ],
+   "correta": 1,
+   "explicacao": "Jorge Tibiriçá estruturou a carreira de delegado bacharel em direito, enfraquecendo o poder local dos proprietários que nomeavam oficiais e graduados como delegados.",
+   "tags": [
+    "historia",
+    "republica",
+    "tibirica"
+   ]
+  },
+  {
+   "id": "historia-elab-021",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Salários",
+   "enunciado": "A crônica registra que, até 1905, apenas uma pequena parcela de policiais recebia salário do Estado, correspondente a",
+   "alternativas": [
+    "vinte praças",
+    "cento e trinta policiais",
+    "setenta e nove policiais",
+    "dezenove policiais"
+   ],
+   "correta": 3,
+   "explicacao": "Até 1905, apenas 19 policiais recebiam salário do Estado.",
+   "tags": [
+    "historia",
+    "republica",
+    "salario"
+   ]
+  },
+  {
+   "id": "historia-elab-022",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Serviço Médico",
+   "enunciado": "O Serviço Médico da Força Pública foi criado na República",
+   "alternativas": [
+    "por exigência da Missão Francesa, para seleção física dos candidatos",
+    "por necessidades de campanha, reunindo nomes expressivos da medicina brasileira",
+    "em razão da gripe espanhola, que vitimou o Presidente Rodrigues Alves",
+    "em razão da tuberculose, que atingia os policiais mal alimentados"
+   ],
+   "correta": 1,
+   "explicacao": "O Serviço Médico foi criado por necessidades de campanha e contou com nomes como João Alves de Lima, Flamínio Fávero, Jorge Americano e Carlos da Silva Lacaz.",
+   "tags": [
+    "historia",
+    "republica",
+    "servico-medico"
+   ]
+  },
+  {
+   "id": "historia-elab-023",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Flamínio Fávero",
+   "enunciado": "Médico nascido em São Paulo em 1895, formado na primeira turma da Faculdade de Medicina e Cirurgia de São Paulo, e citado entre os nomes do Serviço Médico da Força Pública:",
+   "alternativas": [
+    "Tiago Carnevale",
+    "Flamínio Fávero",
+    "Dr. Silvestre",
+    "Dr. Blandi"
+   ],
+   "correta": 1,
+   "explicacao": "A questão autoral do material refere-se ao Dr. Flamínio Fávero, um dos nomes expressivos que integraram o Serviço Médico da Força Pública.",
+   "tags": [
+    "historia",
+    "republica",
+    "favero"
+   ]
+  },
+  {
+   "id": "historia-elab-024",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Ramos de Azevedo",
+   "enunciado": "O arquiteto Ramos de Azevedo projetou, para a Força Pública,",
+   "alternativas": [
+    "o Regimento de Cavalaria e a Academia do Barro Branco",
+    "o Quartel do Barro Branco e o Hospital da Força Pública",
+    "a Escola de Educação Física e o Quartel da Luz (BTA)",
+    "o Quartel da Luz e o Regimento de Cavalaria, hoje 9 de Julho"
+   ],
+   "correta": 3,
+   "explicacao": "Ramos de Azevedo projetou o Quartel da Luz, do Batalhão Tobias de Aguiar, e o Regimento de Cavalaria, hoje Regimento 9 de Julho.",
+   "tags": [
+    "historia",
+    "republica",
+    "ramos-azevedo"
+   ]
+  },
+  {
+   "id": "historia-elab-025",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Dois de Ouro",
+   "enunciado": "Na Revolução Federalista, o batalhão da Força Pública que livrou Curitiba dos rebeldes e recebeu o apelido de Dois de Ouro foi o",
+   "alternativas": [
+    "2º Batalhão",
+    "1º Batalhão",
+    "4º Batalhão",
+    "Regimento de Cavalaria"
+   ],
+   "correta": 0,
+   "explicacao": "O 2º Batalhão livrou Curitiba dos rebeldes, devolvendo-a ao governo local, e recebeu o apelido de Dois de Ouro, fato cobrado no CSTAPM 2016.",
+   "tags": [
+    "historia",
+    "republica",
+    "dois-de-ouro"
+   ]
+  },
+  {
+   "id": "historia-elab-026",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Canudos",
+   "enunciado": "Ao assegurar a transmissão de poder de Floriano Peixoto para Prudente de Morais, a Força Pública teve participação ligada à",
+   "alternativas": [
+    "primeira expedição a Canudos, com mortes no 2º Batalhão",
+    "quarta e última expedição a Canudos, com mortes no 1º Batalhão",
+    "Revolta da Chibata, com mortes no Regimento de Cavalaria",
+    "Revolta da Vacina, com mortes no Batalhão de Guardas"
+   ],
+   "correta": 1,
+   "explicacao": "Prudente de Morais enviou a 4ª e última expedição a Canudos, registrando a crônica 12 mortes no 1º Batalhão.",
+   "tags": [
+    "historia",
+    "republica",
+    "canudos"
+   ]
+  },
+  {
+   "id": "historia-elab-027",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Guarda Cívica",
+   "enunciado": "Para patrulhar áreas nobres, criou-se na Força Pública um destacamento que inspirou a Guarda Civil, denominado",
+   "alternativas": [
+    "Guarda Cívica",
+    "Guarda Urbana",
+    "Guarda Noturna",
+    "Guarda Imperial"
+   ],
+   "correta": 0,
+   "explicacao": "A Guarda Cívica, destacamento da Força Pública para áreas nobres, inspirou a criação da Guarda Civil.",
+   "tags": [
+    "historia",
+    "republica",
+    "guarda-civica"
+   ]
+  },
+  {
+   "id": "historia-elab-028",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Tenente Galinha",
+   "enunciado": "João Antônio de Oliveira, o Tenente Galinha, destacou-se como",
+   "alternativas": [
+    "chefe da Secção de Capturas, levando a lei aos sertões paulistas",
+    "primeiro instrutor da Esquadrilha de Aviação da Força Pública",
+    "criador da primeira academia de ensino de esgrima do Brasil",
+    "fundador da Escola de Educação Física da Força Pública"
+   ],
+   "correta": 0,
+   "explicacao": "Com a expansão do café, o Tenente Galinha chefiou a Secção de Capturas, sendo o mais conhecido e temido portador da lei e da ordem nos sertões.",
+   "tags": [
+    "historia",
+    "republica",
+    "tenente-galinha"
+   ]
+  },
+  {
+   "id": "historia-elab-029",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Esgrima",
+   "enunciado": "Pedro Dias de Campos é apontado na crônica como criador",
+   "alternativas": [
+    "do primeiro serviço de pombo-correio da Força",
+    "da Escola de Educação Física da Força Pública",
+    "de academia para ensino de esgrima no Brasil",
+    "da Escola de Motoristas, primeira autoescola do país"
+   ],
+   "correta": 2,
+   "explicacao": "Pedro Dias de Campos criou academia para ensino de esgrima no Brasil; foi também criador da Cruz Azul e introdutor do escotismo.",
+   "tags": [
+    "historia",
+    "republica",
+    "esgrima"
+   ]
+  },
+  {
+   "id": "historia-elab-030",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — 1904 e 1905",
+   "enunciado": "Entre os fatos da República narrados na crônica, estão, em 1904 e 1905, respectivamente,",
+   "alternativas": [
+    "a participação na Revolta da Chibata e a criação do Gabinete de Munições",
+    "a primeira Missão Francesa e a criação da Escola de Educação Física",
+    "a Revolta da Vacina e a criação da Caixa Beneficente pelo Ten Cel Lobo",
+    "a criação da Esquadrilha da Aviação e a participação na Greve Operária"
+   ],
+   "correta": 2,
+   "explicacao": "Em 1904, a Força Pública participou da Revolta da Vacina no Rio de Janeiro; em 1905, o Ten Cel Lobo criou a Caixa Beneficente.",
+   "tags": [
+    "historia",
+    "republica",
+    "caixa-beneficente"
+   ]
+  },
+  {
+   "id": "historia-elab-031",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Primeira Missão Francesa",
+   "enunciado": "A 1ª Missão Francesa na Força Pública, em 1906, foi idealizada",
+   "alternativas": [
+    "pelo Presidente Rodrigues Alves e pelo Cel Paul Balagny",
+    "pelo Barão do Rio Branco e pelo Governador Jorge Tibiriçá",
+    "pelo Governador Washington Luís e pelo Gen François Nerel",
+    "pelo Barão do Rio Branco e pelo Presidente Floriano Peixoto"
+   ],
+   "correta": 1,
+   "explicacao": "A 1ª Missão Francesa, de 1906, foi idealizada pelo Barão do Rio Branco e por Jorge Tibiriçá; o Cel Paul Balagny e o Gen François Nerel permaneceram até 1924.",
+   "tags": [
+    "historia",
+    "republica",
+    "missao-francesa"
+   ]
+  },
+  {
+   "id": "historia-elab-032",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — EEF",
+   "enunciado": "Em 1910, o Capitão Balancier criou",
+   "alternativas": [
+    "a Escola de Educação Física",
+    "a Escola de Motoristas",
+    "o Gabinete de Munições",
+    "a Esquadrilha da Aviação"
+   ],
+   "correta": 0,
+   "explicacao": "Em 1910 o Capitão Balancier criou a EEF, que formou atletas de projeção olímpica; a Escola de Motoristas é de 1915 e o Gabinete de Munições de 1917.",
+   "tags": [
+    "historia",
+    "republica",
+    "eef"
+   ]
+  },
+  {
+   "id": "historia-elab-033",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Atletas",
+   "enunciado": "Tricampeão da corrida de São Silvestre (1942-44), formado na tradição esportiva da EEF, foi",
+   "alternativas": [
+    "Luiz Bento Ramos",
+    "Sebastião Monteiro da Silva",
+    "Luiz Gonzaga Rodrigues",
+    "Joaquim Gonçalves da Silva"
+   ],
+   "correta": 3,
+   "explicacao": "Joaquim Gonçalves da Silva foi tricampeão da São Silvestre (1942-44); Sebastião Monteiro da Silva foi bicampeão (1945-46) e Gonzaguinha, vice-campeão.",
+   "tags": [
+    "historia",
+    "republica",
+    "atletas"
+   ]
+  },
+  {
+   "id": "historia-elab-034",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Ginástica olímpica",
+   "enunciado": "Uma das mais respeitadas autoridades mundiais em ginástica olímpica e árbitro dos Jogos Olímpicos de Moscou, ligado à EEF, foi",
+   "alternativas": [
+    "Adauto Fernandes de Andrade",
+    "José Romão de Andrade",
+    "Chiquinho de Jesus",
+    "Nestor Soares Públio"
+   ],
+   "correta": 3,
+   "explicacao": "Nestor Soares Públio é citado como autoridade mundial em ginástica olímpica e árbitro dos Jogos Olímpicos de Moscou.",
+   "tags": [
+    "historia",
+    "republica",
+    "publio"
+   ]
+  },
+  {
+   "id": "historia-elab-035",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Tiro esportivo",
+   "enunciado": "Ao lado de Rubens Teixeira Branco e Álvaro Althman, destacou-se como atleta de nível internacional no tiro",
+   "alternativas": [
+    "Jorge Mesquita de Oliveira",
+    "Adauto Fernandes de Andrade",
+    "Sebastião Monteiro da Silva",
+    "José Romão de Andrade"
+   ],
+   "correta": 0,
+   "explicacao": "A crônica cita Rubens Teixeira Branco, Álvaro Althman e Jorge Mesquita de Oliveira entre os atletas de tiro de nível internacional.",
+   "tags": [
+    "historia",
+    "republica",
+    "tiro"
+   ]
+  },
+  {
+   "id": "historia-elab-036",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — 1910",
+   "enunciado": "Ainda em 1910, além da criação da EEF, a Força Pública atuou",
+   "alternativas": [
+    "no Movimento Tenentista",
+    "na Revolta da Vacina",
+    "na Greve Operária",
+    "na Revolta da Chibata"
+   ],
+   "correta": 3,
+   "explicacao": "Em 1910, a Força Pública atuou na Revolta da Chibata; a Revolta da Vacina é de 1904 e a Greve Operária de 1917.",
+   "tags": [
+    "historia",
+    "republica",
+    "chibata"
+   ]
+  },
+  {
+   "id": "historia-elab-037",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — CAES",
+   "enunciado": "A criação do CAES, registrada na crônica, deu origem",
+   "alternativas": [
+    "à EEF e ao CPOR",
+    "ao CMB e ao CSM/MTel",
+    "à APMBB e ao CFAP",
+    "à DPM e à Revista Militia"
+   ],
+   "correta": 2,
+   "explicacao": "O CAES originou a Academia de Polícia Militar do Barro Branco e o Centro de Formação e Aperfeiçoamento de Praças.",
+   "tags": [
+    "historia",
+    "republica",
+    "caes"
+   ]
+  },
+  {
+   "id": "historia-elab-038",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — 1912",
+   "enunciado": "O ano de 1912, chamado na crônica de ano dos animais, marca",
+   "alternativas": [
+    "o início do uso de cães no patrulhamento e o serviço de pombo-correio",
+    "a criação do Regimento de Cavalaria e do serviço veterinário",
+    "a criação do Canil e da Diretoria de Polícia Militar",
+    "a criação da Seção de Capturas com cavalos e cães"
+   ],
+   "correta": 0,
+   "explicacao": "Em 1912 iniciou-se o uso de cães no patrulhamento e a instalação do serviço de pombo-correio; o Canil como estrutura é registrado em 1950.",
+   "tags": [
+    "historia",
+    "republica",
+    "1912"
+   ]
+  },
+  {
+   "id": "historia-elab-039",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — 1911",
+   "enunciado": "Em 1911, a crônica registra a instalação",
+   "alternativas": [
+    "de caixas de aviso de incêndio e de ocorrências policiais",
+    "do primeiro serviço de radiopatrulha da Capital",
+    "do embrião do COPOM pelo Comandante-Geral",
+    "das primeiras estações telegráficas da Força"
+   ],
+   "correta": 0,
+   "explicacao": "Em 1911 instalaram-se caixas de aviso de incêndio e de ocorrências policiais; o embrião do COPOM é de 1968.",
+   "tags": [
+    "historia",
+    "republica",
+    "1911"
+   ]
+  },
+  {
+   "id": "historia-elab-040",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Aviação",
+   "enunciado": "A Esquadrilha da Aviação da Força Pública, de 1913, teve como primeiro instrutor",
+   "alternativas": [
+    "Dejanir Caldas",
+    "Cap Armond",
+    "Edu Chaves",
+    "Nataniel Prado"
+   ],
+   "correta": 2,
+   "explicacao": "Edu Chaves foi o primeiro instrutor da Esquadrilha da Aviação; o Tenente Antonio Pereira foi o primeiro paraquedista militar, em 1925.",
+   "tags": [
+    "historia",
+    "republica",
+    "aviacao"
+   ]
+  },
+  {
+   "id": "historia-elab-041",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Escola de Motoristas",
+   "enunciado": "Criada em 1915, a Escola de Motoristas da Força Pública é destacada por ter sido",
+   "alternativas": [
+    "a primeira escola profissionalizante do país",
+    "a primeira escola de pilotos do Brasil",
+    "a primeira autoescola do Brasil",
+    "a primeira escola de radiopatrulha do Brasil"
+   ],
+   "correta": 2,
+   "explicacao": "A Escola de Motoristas, de 1915, foi a primeira autoescola do Brasil; a primeira escola profissionalizante foi a Companhia de Menores Artífices.",
+   "tags": [
+    "historia",
+    "republica",
+    "motoristas"
+   ]
+  },
+  {
+   "id": "historia-elab-042",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — 1917",
+   "enunciado": "Em 1917, a crônica registra a criação do Gabinete de Munições, que originou",
+   "alternativas": [
+    "o CMB, no mesmo ano da Greve Operária e do CPOR",
+    "o CSM/MTel, no mesmo ano da Revolta da Chibata",
+    "a EEF, no mesmo ano da gripe espanhola",
+    "o COE, no mesmo ano do Movimento Tenentista"
+   ],
+   "correta": 0,
+   "explicacao": "O Gabinete de Munições de 1917 originou o CMB; no mesmo ano houve a Greve Operária, o uso do 1º carro blindado e a criação do CPOR.",
+   "tags": [
+    "historia",
+    "republica",
+    "1917"
+   ]
+  },
+  {
+   "id": "historia-elab-043",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — CPOR",
+   "enunciado": "O CPOR criado na Força Pública em 1917 destinava-se a",
+   "alternativas": [
+    "suprir a falta de oficiais enviados para a guerra",
+    "formar oficiais para a Esquadrilha da Aviação",
+    "preparar capitães para funções de Estado-Maior",
+    "capacitar condutores de viaturas do Corpo de Bombeiros"
+   ],
+   "correta": 0,
+   "explicacao": "O CPOR foi criado em 1917 para suprir a falta de oficiais que haviam sido enviados para a Guerra.",
+   "tags": [
+    "historia",
+    "republica",
+    "cpor"
+   ]
+  },
+  {
+   "id": "historia-elab-044",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Miguel Costa",
+   "enunciado": "Na Greve Operária de 1917, Miguel Costa teve participação fundamental ao",
+   "alternativas": [
+    "apoiar os grevistas com tropas, dando início ao Movimento Tenentista paulista",
+    "comandar a repressão armada aos grevistas com o emprego do primeiro carro blindado",
+    "prender as lideranças grevistas e entregá-las ao Exército de Linha",
+    "ouvir os grevistas, conhecer sua situação e intermediar negociação pacífica com o governo"
+   ],
+   "correta": 3,
+   "explicacao": "Miguel Costa ouviu os grevistas, conheceu seus lares e situação paupérrima e intermediou negociação pacífica junto ao governo, contribuindo para encerrar o movimento.",
+   "tags": [
+    "historia",
+    "republica",
+    "miguel-costa"
+   ]
+  },
+  {
+   "id": "historia-elab-045",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Gripe espanhola",
+   "enunciado": "Na pandemia de gripe espanhola de 1918, que vitimou o Presidente Rodrigues Alves, a crônica destaca a atuação",
+   "alternativas": [
+    "da Guarda Civil no isolamento dos bairros atingidos",
+    "do Corpo de Bombeiros na remoção dos cadáveres",
+    "do Hospital Militar nos esforços contra a pandemia",
+    "da Caixa Beneficente no amparo às viúvas"
+   ],
+   "correta": 2,
+   "explicacao": "A crônica registra que o HM atuou nos esforços contra a pandemia de gripe espanhola.",
+   "tags": [
+    "historia",
+    "republica",
+    "gripe"
+   ]
+  },
+  {
+   "id": "historia-elab-046",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Duas alas",
+   "enunciado": "Nos anos 1920, a crônica descreve a Força Pública dividida em duas alas: a revolucionária, de Miguel Costa, e a do governo, de",
+   "alternativas": [
+    "Júlio Marcondes Salgado, que comandou a Força em 1932",
+    "Herculano de Carvalho e Silva, que selou a paz em 1932",
+    "Milton de Freitas Almeida, que implantou a Justiça Militar",
+    "Pedro Dias de Campos, que criou o embrião do CSM/MTel"
+   ],
+   "correta": 3,
+   "explicacao": "A ala do governo era de Pedro Dias de Campos que, pela dificuldade de comunicação com a capital, criou o embrião do CSM/MTel com o Tenente Manoel de Jesus Trindade.",
+   "tags": [
+    "historia",
+    "republica",
+    "duas-alas"
+   ]
+  },
+  {
+   "id": "historia-elab-047",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Coluna",
+   "enunciado": "A ala revolucionária de Miguel Costa acolheu a Coluna Prestes no Rio Grande do Sul, formando",
+   "alternativas": [
+    "o Movimento 18 do Forte",
+    "a Coluna Paulista Constitucionalista",
+    "o Batalhão Tobias de Aguiar",
+    "a Coluna Miguel Costa-Prestes"
+   ],
+   "correta": 3,
+   "explicacao": "Miguel Costa acolheu a Coluna Prestes, do Tenentismo, no Rio Grande do Sul, formando a Coluna Miguel Costa-Prestes.",
+   "tags": [
+    "historia",
+    "republica",
+    "coluna"
+   ]
+  },
+  {
+   "id": "historia-elab-048",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Cruz Azul",
+   "enunciado": "Pedro Dias de Campos, além de introdutor do escotismo no Brasil, criou em 1925",
+   "alternativas": [
+    "a Cruz Azul",
+    "a Subsistência",
+    "a Guarda Civil",
+    "o Canil"
+   ],
+   "correta": 0,
+   "explicacao": "Em 1925 Pedro Dias de Campos criou a Cruz Azul; a Caixa Beneficente é de 1905, pelo Ten Cel Lobo.",
+   "tags": [
+    "historia",
+    "republica",
+    "cruz-azul"
+   ]
+  },
+  {
+   "id": "historia-elab-049",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Paraquedismo",
+   "enunciado": "Em 1925, a crônica registra o Tenente Antonio Pereira como",
+   "alternativas": [
+    "o primeiro capelão da Força",
+    "o primeiro instrutor de aviação",
+    "o primeiro paraquedista militar",
+    "o primeiro comandante do COE"
+   ],
+   "correta": 2,
+   "explicacao": "O Tenente Antonio Pereira foi o primeiro paraquedista militar, em 1925.",
+   "tags": [
+    "historia",
+    "republica",
+    "paraquedista"
+   ]
+  },
+  {
+   "id": "historia-elab-050",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Guarda Civil",
+   "enunciado": "A Guarda Civil foi criada em 1926 para suprir a falta da Força Pública, que combatia a Coluna; com seu retorno, a divisão do patrulhamento ficou",
+   "alternativas": [
+    "Guarda Civil na região metropolitana e interior e Força Pública na Capital",
+    "Força Pública na região metropolitana e interior e Guarda Civil na Capital",
+    "Força Pública apenas no interior e Guarda Civil na Capital e na região",
+    "Guarda Civil e Força Pública em conjunto em todo o território do Estado"
+   ],
+   "correta": 1,
+   "explicacao": "Com o retorno, a Força Pública fixou patrulhamento na região metropolitana e no interior, e a Guarda Civil na Capital; um decreto transferiu o planejamento do patrulhamento aos delegados.",
+   "tags": [
+    "historia",
+    "republica",
+    "guarda-civil"
+   ]
+  },
+  {
+   "id": "historia-elab-051",
+   "subtema": "República",
+   "artigo": "Polícia Militar: Uma Crônica — Movimento Tenentista",
+   "enunciado": "Em 1922, jovens do Exército promoveram o Movimento Tenentista, que culminou no episódio conhecido como",
+   "alternativas": [
+    "18 do Forte de Copacabana",
+    "Revolução Liberal de Sorocaba",
+    "Intentona Comunista de 1935",
+    "Retirada da Laguna"
+   ],
+   "correta": 0,
+   "explicacao": "O Movimento Tenentista de 1922 culminou no evento dos 18 do Forte de Copacabana.",
+   "tags": [
+    "historia",
+    "republica",
+    "tenentismo"
+   ]
+  },
+  {
+   "id": "historia-elab-052",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Contexto",
+   "enunciado": "O contexto histórico da Era Vargas, na crônica, é caracterizado por",
+   "alternativas": [
+    "rebeliões regionais e receio do separatismo",
+    "expansão do café, abolição e urbanização acelerada",
+    "crise financeira, anseio por mudanças e classe média ativa",
+    "regime militar e mobilização da administração pública"
+   ],
+   "correta": 2,
+   "explicacao": "A Era Vargas é marcada por crise financeira, anseio por mudanças e classe média ativa.",
+   "tags": [
+    "historia",
+    "vargas",
+    "contexto"
+   ]
+  },
+  {
+   "id": "historia-elab-053",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Revolução de 1930",
+   "enunciado": "Na Revolução de 1930, a crônica destaca que tombou heroicamente em Cananéia, admirado até pelos adversários,",
+   "alternativas": [
+    "o Cel Pedro Arbues",
+    "o Gen Miguel Costa",
+    "o Cel Herculano",
+    "o Cap Armond"
+   ],
+   "correta": 0,
+   "explicacao": "Na Revolução de 1930, o General Miguel Costa veio do Sul combater o poder constituído, e o Cel Pedro Arbues tombou heroicamente em Cananéia.",
+   "tags": [
+    "historia",
+    "vargas",
+    "1930"
+   ]
+  },
+  {
+   "id": "historia-elab-054",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — 1932",
+   "enunciado": "Na Revolução Constitucionalista de 1932, segundo a crônica, a Força Pública foi",
+   "alternativas": [
+    "a principal força de apoio ao governo Vargas",
+    "a espinha dorsal do Exército Constitucionalista",
+    "neutra, limitando-se ao policiamento da Capital",
+    "dividida entre ala revolucionária e ala governista"
+   ],
+   "correta": 1,
+   "explicacao": "Em 1932, com a elite voltada contra Vargas, a Força Pública foi a espinha dorsal do Exército Constitucionalista; após a derrota, a elite culpou a Força.",
+   "tags": [
+    "historia",
+    "vargas",
+    "1932"
+   ]
+  },
+  {
+   "id": "historia-elab-055",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Perdas de 1932",
+   "enunciado": "Ao narrar que a elite culpou a Força Pública pela derrota de 1932, a crônica ressalta as perdas sofridas, inclusive a do",
+   "alternativas": [
+    "General Miguel Costa",
+    "General Júlio Marcondes Salgado",
+    "Coronel Pedro Arbues",
+    "Coronel Milton de Freitas Almeida"
+   ],
+   "correta": 1,
+   "explicacao": "A crônica menciona que São Paulo perdeu a Revolução e a elite culpou a Força Pública, apesar das perdas, inclusive do General Júlio Marcondes Salgado.",
+   "tags": [
+    "historia",
+    "vargas",
+    "marcondes-salgado"
+   ]
+  },
+  {
+   "id": "historia-elab-056",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Rendição",
+   "enunciado": "Ao término da Revolução de 1932, selou a paz para evitar mortes, decisão que abalou o moral da Força Pública,",
+   "alternativas": [
+    "o Cel Milton de Freitas Almeida",
+    "o Gen Júlio Marcondes Salgado",
+    "o Cel Herculano de Carvalho e Silva",
+    "o Gen Euclides Figueiredo"
+   ],
+   "correta": 2,
+   "explicacao": "O Cel Herculano selou a paz para evitar mortes, e a Força Pública ficou com o moral baixo e humilhada, conforme cobrado no CAO 2018-2019.",
+   "tags": [
+    "historia",
+    "vargas",
+    "herculano"
+   ]
+  },
+  {
+   "id": "historia-elab-057",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Litoral Norte",
+   "enunciado": "Sensível ao isolamento do Litoral Norte, iniciou a construção da estrada ligando o Vale do Paraíba a Caraguatatuba, depois assumida pelo governo,",
+   "alternativas": [
+    "o Capitão Dejanir Caldas",
+    "o Major Nataniel Prado",
+    "o Tenente Manoel de Jesus Trindade",
+    "o Capitão Edgard Pereira Armond"
+   ],
+   "correta": 3,
+   "explicacao": "O Cap Armond iniciou a construção da estrada que, ao final, foi assumida pelo governo, origem da atual Rodovia dos Tamoios, fato cobrado no CSTAPM 2016.",
+   "tags": [
+    "historia",
+    "vargas",
+    "armond"
+   ]
+  },
+  {
+   "id": "historia-elab-058",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Constituição de 1934",
+   "enunciado": "Quanto à Constituição de 1934, a crônica registra que",
+   "alternativas": [
+    "a Polícia Militar foi nela inserida",
+    "a Força Pública foi extinta por ela",
+    "a Guarda Civil foi constitucionalizada",
+    "o patrulhamento passou aos delegados"
+   ],
+   "correta": 0,
+   "explicacao": "A crônica registra que em 1934, na Constituição feita por Vargas, a PM foi inserida.",
+   "tags": [
+    "historia",
+    "vargas",
+    "1934"
+   ]
+  },
+  {
+   "id": "historia-elab-059",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Freitas de Almeida",
+   "enunciado": "O Cel Milton de Freitas Almeida é lembrado por inovações como",
+   "alternativas": [
+    "a Escola de Motoristas, o CPOR e o carro blindado",
+    "o Brasão de Armas, a canção da PM e o embrião do COPOM",
+    "a Cruz Azul, o escotismo e o ensino de esgrima",
+    "o espadim, a farda de gala azulão e a implantação da JME"
+   ],
+   "correta": 3,
+   "explicacao": "O Cel Milton de Freitas Almeida criou o espadim, a farda de gala azulão, a contabilidade mecanizada, renovou o Batalhão de Guardas e implantou a JME.",
+   "tags": [
+    "historia",
+    "vargas",
+    "freitas-almeida"
+   ]
+  },
+  {
+   "id": "historia-elab-060",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — 1935",
+   "enunciado": "Em 1935, conforme a crônica, o patrulhamento na Capital era realizado",
+   "alternativas": [
+    "exclusivamente pela Força Pública",
+    "pela Guarda Civil e pela Força Pública",
+    "exclusivamente pela Guarda Civil",
+    "pela Força Policial e pelas Guardas Policiais"
+   ],
+   "correta": 1,
+   "explicacao": "Em 1935 o patrulhamento da Capital era feito pela Guarda Civil e pela Força Pública.",
+   "tags": [
+    "historia",
+    "vargas",
+    "1935"
+   ]
+  },
+  {
+   "id": "historia-elab-061",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Movimentos radicais",
+   "enunciado": "Diante da Intentona Comunista de 1935 e da polarização integralista de 1938, a Força Pública",
+   "alternativas": [
+    "apoiou os comunistas na tomada de quartéis",
+    "aderiu ao movimento integralista contra o governo",
+    "foi dissolvida e substituída pela Guarda Civil",
+    "agiu para manter a ordem frente aos movimentos radicais"
+   ],
+   "correta": 3,
+   "explicacao": "A crônica registra que a Força Pública agiu para manter a ordem frente a esses movimentos radicais.",
+   "tags": [
+    "historia",
+    "vargas",
+    "intentona"
+   ]
+  },
+  {
+   "id": "historia-elab-062",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Legislação",
+   "enunciado": "Na Era Vargas, a reorganização das Polícias Militares e o estabelecimento de seu papel policial decorreram, respectivamente,",
+   "alternativas": [
+    "do Decreto-Lei nº 667/69 e da Lei nº 192/1936",
+    "da Lei nº 2.905/37 e da Lei Federal nº 192/1936",
+    "da Lei Federal nº 192/1936 e da Lei nº 2.905/37",
+    "da Constituição de 1934 e do Decreto nº 5.796/75"
+   ],
+   "correta": 2,
+   "explicacao": "A Lei Federal 192 de 1936 reorganizou as PM, e a Lei 2.905/37 estabeleceu o papel policial.",
+   "tags": [
+    "historia",
+    "vargas",
+    "legislacao"
+   ]
+  },
+  {
+   "id": "historia-elab-063",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Força Policial",
+   "enunciado": "Em 1940, Vargas mudou o nome da Força Pública para",
+   "alternativas": [
+    "Guarda Nacional, subordinando-a diretamente ao Exército",
+    "Polícia Militar, unificando-a com a Guarda Civil da Capital",
+    "Força Policial, criando Guardas Policiais subordinadas a delegados",
+    "Corpo Policial Permanente, retomando a denominação imperial"
+   ],
+   "correta": 2,
+   "explicacao": "Em 1940 a Força Pública passou a Força Policial, criando-se Guardas Policiais sob comando da PM e subordinadas a delegados, com atrito entre as polícias.",
+   "tags": [
+    "historia",
+    "vargas",
+    "forca-policial"
+   ]
+  },
+  {
+   "id": "historia-elab-064",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Ingresso em 1943",
+   "enunciado": "Em 1943, o exame de ingresso na Força passou a aplicar",
+   "alternativas": [
+    "o teste psicológico PMK e a prova de redação dissertativa",
+    "provas de ditado e das quatro operações, vedado o analfabeto",
+    "exame de 1º grau completo e prova de conhecimentos gerais",
+    "prova de aptidão física e exame médico de tuberculose"
+   ],
+   "correta": 1,
+   "explicacao": "Em 1943 passaram a ser aplicadas provas de ditado e das quatro operações matemáticas; o teste PMK é da geração Freitas de Almeida, e o 1º grau completo, de 1990.",
+   "tags": [
+    "historia",
+    "vargas",
+    "ingresso"
+   ]
+  },
+  {
+   "id": "historia-elab-065",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — FEB",
+   "enunciado": "Em 1943, cedeu 79 homens à Força Expedicionária Brasileira, dos quais dois morreram,",
+   "alternativas": [
+    "a Guarda Civil",
+    "a Força Pública",
+    "o Corpo de Bombeiros",
+    "o BTA"
+   ],
+   "correta": 0,
+   "explicacao": "A Guarda Civil cedeu 79 homens à FEB; por isso, o primeiro pelotão de Polícia Militar da FEB, cobrado no CSTAPM 2019, foi formado com integrantes da Guarda Civil.",
+   "tags": [
+    "historia",
+    "vargas",
+    "feb"
+   ]
+  },
+  {
+   "id": "historia-elab-066",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Cubatão",
+   "enunciado": "Durante a Segunda Guerra, no Brasil, a Força Pública evitou",
+   "alternativas": [
+    "um ataque nazista para explodir a usina elétrica de Cubatão",
+    "a sabotagem do porto de Santos por submarinos alemães",
+    "a invasão da refinaria de Cubatão por integralistas",
+    "o bombardeio da Estrada de Ferro Santos-Jundiaí"
+   ],
+   "correta": 0,
+   "explicacao": "A crônica registra que a Força Pública evitou ataque nazista que tentou explodir a usina elétrica de Cubatão.",
+   "tags": [
+    "historia",
+    "vargas",
+    "cubatao"
+   ]
+  },
+  {
+   "id": "historia-elab-067",
+   "subtema": "Era Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — 1944 e 1945",
+   "enunciado": "Em 1944 e 1945, respectivamente, a crônica registra",
+   "alternativas": [
+    "a unificação com a Guarda Civil e a criação da ROTA",
+    "a criação da Polícia Rodoviária e a criação da Subsistência",
+    "a criação do Canil e a criação da Revista Militia",
+    "o Centro de Instrução Militar no Barro Branco e o 1º Capelão"
+   ],
+   "correta": 3,
+   "explicacao": "Em 1944 o Centro de Instrução Militar foi deslocado para o Barro Branco; em 1945 houve o 1º Capelão e a Polícia dos Portos foi incorporada à Guarda Civil.",
+   "tags": [
+    "historia",
+    "vargas",
+    "1944-1945"
+   ]
+  },
+  {
+   "id": "historia-elab-068",
+   "subtema": "Democracia pós-Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — 1946 e 1947",
+   "enunciado": "Com a Constituição democrática de 1946, um decreto instituiu Tiradentes como patrono das PM, e, em 1947, a corporação",
+   "alternativas": [
+    "voltou a ser denominada Força Pública",
+    "passou a denominar-se Polícia Militar",
+    "unificou-se com a Guarda Civil",
+    "foi subordinada à Polícia Civil"
+   ],
+   "correta": 0,
+   "explicacao": "Em 1946, Tiradentes foi instituído patrono das PM; em 1947 a corporação voltou a denominar-se Força Pública. A denominação Polícia Militar surge com a unificação de 1970.",
+   "tags": [
+    "historia",
+    "pos-vargas",
+    "tiradentes"
+   ]
+  },
+  {
+   "id": "historia-elab-069",
+   "subtema": "Democracia pós-Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Geração Freitas de Almeida",
+   "enunciado": "A chamada geração Freitas de Almeida caracterizou-se por",
+   "alternativas": [
+    "oficiais oriundos do Exército que comandaram a Força no regime militar",
+    "oficiais que buscavam protagonismo na segurança pública, com uso do teste PMK",
+    "praças que lutaram pela abolição e pela alfabetização da tropa",
+    "oficiais revolucionários que apoiaram a Coluna Prestes"
+   ],
+   "correta": 1,
+   "explicacao": "A geração Freitas de Almeida reuniu oficiais que buscavam protagonismo na segurança pública, adotando o teste PMK para ingresso.",
+   "tags": [
+    "historia",
+    "pos-vargas",
+    "geracao"
+   ]
+  },
+  {
+   "id": "historia-elab-070",
+   "subtema": "Democracia pós-Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Polícia Rodoviária",
+   "enunciado": "A Polícia Rodoviária foi criada em 1948 em razão",
+   "alternativas": [
+    "da Via Dutra, ligando São Paulo ao Rio de Janeiro",
+    "da Rodovia dos Tamoios, idealizada pelo Capitão Armond",
+    "da Rodovia Anchieta, originando depois o Vigilante Rodoviário",
+    "da Rodovia Anhanguera, com o aumento dos acidentes"
+   ],
+   "correta": 2,
+   "explicacao": "A Polícia Rodoviária surgiu em 1948 por conta da Rodovia Anchieta; dela derivou o Vigilante Rodoviário, de Carlos Miranda e seu cão Lobo.",
+   "tags": [
+    "historia",
+    "pos-vargas",
+    "rodoviaria"
+   ]
+  },
+  {
+   "id": "historia-elab-071",
+   "subtema": "Democracia pós-Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Subsistência",
+   "enunciado": "A Subsistência foi criada em 1949 porque",
+   "alternativas": [
+    "a Guarda Civil passou a controlar os ranchos dos quartéis da Capital",
+    "a Força Pública precisava abastecer as tropas deslocadas para a Revolução",
+    "o Governo cortou o fornecimento de víveres por empresas privadas",
+    "policiais adoeciam, com muita tuberculose, pelo clima e má alimentação"
+   ],
+   "correta": 3,
+   "explicacao": "A Subsistência foi criada porque vários policiais adoeciam, com alta incidência de tuberculose, em razão do clima e da má alimentação.",
+   "tags": [
+    "historia",
+    "pos-vargas",
+    "subsistencia"
+   ]
+  },
+  {
+   "id": "historia-elab-072",
+   "subtema": "Democracia pós-Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — 1950",
+   "enunciado": "Em 1950, a crônica registra a criação",
+   "alternativas": [
+    "do Canil, da DPM e da Revista Militia",
+    "do COE, da ROTA e do CComSoc",
+    "do Brasão de Armas e da canção da PM",
+    "do Colégio da PM e da Cruz Azul"
+   ],
+   "correta": 0,
+   "explicacao": "Em 1950 foram criados o Canil, a DPM e a Revista Militia.",
+   "tags": [
+    "historia",
+    "pos-vargas",
+    "1950"
+   ]
+  },
+  {
+   "id": "historia-elab-073",
+   "subtema": "Democracia pós-Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Congressos",
+   "enunciado": "Em 1970, na gestão do Cel Agenor Grohrnann, o novo Congresso Brasileiro das Polícias Militares, realizado pelo Clube dos Oficiais, fortaleceu a ideia de que",
+   "alternativas": [
+    "o policiamento da Capital deveria ser exclusivo da Guarda Civil",
+    "o planejamento e a direção do policiamento ostensivo eram inerentes às PM",
+    "as polícias militares deveriam ser subordinadas aos delegados",
+    "o Corpo de Bombeiros deveria ser separado das polícias militares"
+   ],
+   "correta": 1,
+   "explicacao": "O congresso fortaleceu que a responsabilidade pelo planejamento e direção do policiamento ostensivo era inerente às PM; esses estudos inspiraram o DL 667/69 e, depois, o art. 144 da CF/88.",
+   "tags": [
+    "historia",
+    "pos-vargas",
+    "congresso"
+   ]
+  },
+  {
+   "id": "historia-elab-074",
+   "subtema": "Democracia pós-Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Influência normativa",
+   "enunciado": "Os estudos promovidos pelo Clube dos Oficiais e difundidos pela Revista Militia, segundo a crônica,",
+   "alternativas": [
+    "inspiraram o DL 667/69 e evoluíram até a redação do art. 144 da CF/88",
+    "inspiraram a Lei Federal 192/1936 e a Constituição de 1934",
+    "inspiraram a criação da Guarda Civil e da Polícia Rodoviária",
+    "inspiraram a unificação das polícias civil e militar em 1970"
+   ],
+   "correta": 0,
+   "explicacao": "A crônica afirma que esses estudos inspiraram o Decreto-Lei 667/69 e a legislação que o regulamentou, evoluindo até a redação do art. 144 em 1988.",
+   "tags": [
+    "historia",
+    "pos-vargas",
+    "militia"
+   ]
+  },
+  {
+   "id": "historia-elab-075",
+   "subtema": "Democracia pós-Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Anos 1950",
+   "enunciado": "Em 1952, o Capitão Dejanir Caldas liderou grupo de paraquedistas que",
+   "alternativas": [
+    "atuou no deslizamento da Serra do Mar em Caraguatatuba",
+    "combateu o incêndio do edifício Andraus com resgate por helicóptero",
+    "resgatou 60 pessoas de acidente aéreo com aeronave da Pan Am no Amazonas",
+    "apoiou a FEB na Itália nas missões de trânsito e polícia"
+   ],
+   "correta": 2,
+   "explicacao": "Em 1952, o Capitão Dejanir Caldas liderou paraquedistas que resgataram 60 pessoas do acidente aéreo com aeronave da Pan Am no Amazonas.",
+   "tags": [
+    "historia",
+    "pos-vargas",
+    "dejanir"
+   ]
+  },
+  {
+   "id": "historia-elab-076",
+   "subtema": "Democracia pós-Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Policiamento feminino",
+   "enunciado": "O Corpo Policial Especial, voltado a mulheres, crianças e idosos, foi criado em 1955",
+   "alternativas": [
+    "por Laudo Natel, anexo à Casa Militar, integrando a PM em 1975",
+    "por Adhemar de Barros, anexo à Força Pública, desde logo integrado a ela",
+    "por Jânio Quadros, anexo à Guarda Civil, integrando a Força Pública só em 1970",
+    "por Jânio Quadros, anexo à Força Pública, integrando a SSP em 1970"
+   ],
+   "correta": 2,
+   "explicacao": "Jânio Quadros criou o Corpo Policial Especial anexo à Guarda Civil até 1959; de 1959 a 1969 subordinou-se à SSP e, em 1970, à Força Pública (Cel Hilda Macedo).",
+   "tags": [
+    "historia",
+    "pos-vargas",
+    "feminino"
+   ]
+  },
+  {
+   "id": "historia-elab-077",
+   "subtema": "Democracia pós-Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — Fuvest",
+   "enunciado": "Formado engenheiro na Politécnica da USP, criou a Fuvest e foi seu coordenador até 1985",
+   "alternativas": [
+    "o Capitão Dejanir Caldas",
+    "o Tenente Moyses Szajanbok",
+    "o Capitão Hermes Bittencourt Cruz",
+    "o Tenente Manoel de Jesus Trindade"
+   ],
+   "correta": 1,
+   "explicacao": "O Tenente Moyses Szajanbok formou-se engenheiro na Politécnica, criou a Fuvest e foi seu coordenador até 1985.",
+   "tags": [
+    "historia",
+    "pos-vargas",
+    "fuvest"
+   ]
+  },
+  {
+   "id": "historia-elab-078",
+   "subtema": "Democracia pós-Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — 1958 e 1959",
+   "enunciado": "Entre 1958 e 1959, a crônica registra",
+   "alternativas": [
+    "a unificação com a Guarda Civil e o apoio contra a tuberculose",
+    "a canção da PM e o apoio contra a gripe espanhola e a febre amarela",
+    "o embrião do COPOM e o apoio contra a febre amarela e a varíola",
+    "o Brasão de Armas e o apoio contra o cancro cítrico e a Doença de Chagas"
+   ],
+   "correta": 3,
+   "explicacao": "Em 1958 foi criado o Brasão de Armas; em 1959 houve o 2º Congresso PM e a Força Pública auxiliou no combate ao cancro cítrico e à Doença de Chagas.",
+   "tags": [
+    "historia",
+    "pos-vargas",
+    "1958-1959"
+   ]
+  },
+  {
+   "id": "historia-elab-079",
+   "subtema": "Democracia pós-Vargas",
+   "artigo": "Polícia Militar: Uma Crônica — 1953 e 1954",
+   "enunciado": "A crônica registra, em 1953 e 1954, respectivamente,",
+   "alternativas": [
+    "a absorção da Polícia dos Portos pela Guarda Civil e a criação da Polícia Rodoviária",
+    "a recusa da FP em subordinar-se à PC e a absorção da Guarda Noturna pela Guarda Civil",
+    "a organização do policiamento por Garces e a criação do Brasão de Armas",
+    "a criação do Canil pela FP e a cessão de homens da Guarda Civil à FEB"
+   ],
+   "correta": 1,
+   "explicacao": "Em 1953 a Força Pública não quis mais se subordinar à PC; em 1954 a Guarda Civil absorveu a Guarda Noturna, que era uma autarquia.",
+   "tags": [
+    "historia",
+    "pos-vargas",
+    "1953-1954"
+   ]
+  },
+  {
+   "id": "historia-elab-080",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — COPOM",
+   "enunciado": "O embrião do COPOM foi criado em 1968 pelo",
+   "alternativas": [
+    "Ten Cel Celso Feliciano, criador do CComSoc",
+    "Cel Ralph Solimeo, defensor do patrulhamento fora dos quartéis",
+    "Cel Antonio Ferreira Marques, Comandante-Geral oriundo do Exército",
+    "Cel Agenor Grohrnann, organizador do Congresso das PM"
+   ],
+   "correta": 2,
+   "explicacao": "Em 1968 o Cel Antonio Ferreira Marques, Comandante-Geral oriundo do Exército, criou o embrião do COPOM.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "copom"
+   ]
+  },
+  {
+   "id": "historia-elab-081",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — CComSoc",
+   "enunciado": "O CComSoc foi criado em 1969 pelo Ten Cel Celso Feliciano, por ocasião",
+   "alternativas": [
+    "da aproximação com a sociedade no Vale do Ribeira",
+    "da unificação da Força Pública com a Guarda Civil",
+    "dos incêndios dos edifícios Joelma e Andraus",
+    "da invasão da PUC durante o regime militar"
+   ],
+   "correta": 0,
+   "explicacao": "O CComSoc surgiu em 1969 por ocasião da aproximação com a sociedade nas ações do Vale do Ribeira.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "ccomsoc"
+   ]
+  },
+  {
+   "id": "historia-elab-082",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — Solimeo",
+   "enunciado": "O Cel Ralph Solimeo é lembrado na crônica por lutar para que a Força Pública",
+   "alternativas": [
+    "fosse unificada com a Polícia Civil do Estado",
+    "voltasse a ser subordinada à Secretaria da Justiça",
+    "saísse do aquartelamento e passasse a fazer patrulhamento",
+    "mantivesse a exclusividade do policiamento do interior"
+   ],
+   "correta": 2,
+   "explicacao": "O Cel Ralph Solimeo lutou para que a Força Pública saísse do aquartelamento e passasse a fazer patrulhamento.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "solimeo"
+   ]
+  },
+  {
+   "id": "historia-elab-083",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — Unificação",
+   "enunciado": "A Polícia Militar do Estado de São Paulo, com essa denominação, surgiu em 1970 com",
+   "alternativas": [
+    "a fusão da Força Policial com a Guarda Noturna",
+    "a unificação da Força Pública e da Guarda Civil",
+    "a transformação da Força Pública por decreto de Vargas",
+    "a incorporação do Corpo de Bombeiros à Força Pública"
+   ],
+   "correta": 1,
+   "explicacao": "Em 1970 ocorreu a unificação da Força Pública e da Guarda Civil, criando a PM.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "unificacao"
+   ]
+  },
+  {
+   "id": "historia-elab-084",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — ROTA",
+   "enunciado": "A ROTA foi criada em 1970 pelo BTA com a finalidade de",
+   "alternativas": [
+    "combater roubos a banco",
+    "combater o tráfico de drogas",
+    "gerenciar crises com reféns",
+    "patrulhar as rodovias estaduais"
+   ],
+   "correta": 0,
+   "explicacao": "Em 1970 o BTA criou a ROTA para combater roubo a banco; no mesmo ano ocorreu a morte do Capitão Mendes Jr.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "rota"
+   ]
+  },
+  {
+   "id": "historia-elab-085",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — COE",
+   "enunciado": "Criado em 1971, o COE atuou em 1972 no gerenciamento de crise ocorrida",
+   "alternativas": [
+    "no interior do avião Elektra",
+    "no edifício Grande Avenida",
+    "no presídio do Carandiru",
+    "na Universidade PUC de São Paulo"
+   ],
+   "correta": 0,
+   "explicacao": "O COE, criado em 1971, atuou em 1972 no gerenciamento de crise no interior do avião Elektra; o GATE só seria criado em 1990.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "coe"
+   ]
+  },
+  {
+   "id": "historia-elab-086",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — Mendes Júnior",
+   "enunciado": "Na operação do Vale do Ribeira em que foi morto o Tenente Alberto Mendes Júnior, o alvo era o ex-capitão Carlos Lamarca, que pertencia",
+   "alternativas": [
+    "à Aliança Nacional Libertadora (ANL)",
+    "à Aliança Libertadora Nacional (ALN)",
+    "ao Movimento Revolucionário 8 de Outubro",
+    "à Vanguarda Popular Revolucionária (VPR)"
+   ],
+   "correta": 3,
+   "explicacao": "O material anota que o alvo era Lamarca, integrante da VPR; atribuí-lo à ALN tornava incorreta a alternativa cobrada no CSTAPM 2019.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "mendes-junior"
+   ]
+  },
+  {
+   "id": "historia-elab-087",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — Álcool",
+   "enunciado": "Nos governos militares, a crônica registra que o Cel Nilton Viana",
+   "alternativas": [
+    "organizou a Defesa Civil do Estado",
+    "criou o Colégio da Polícia Militar",
+    "implantou a Justiça Militar Estadual",
+    "converteu parte da frota para o álcool"
+   ],
+   "correta": 3,
+   "explicacao": "O Cel Nilton Viana fez a conversão de parte da frota para abastecimento a álcool.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "alcool"
+   ]
+  },
+  {
+   "id": "historia-elab-088",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — IGPM",
+   "enunciado": "Instalado o regime militar, com a mobilização da administração pública a serviço da revolução, a crônica registra a criação",
+   "alternativas": [
+    "da EEF",
+    "da DPM",
+    "do CMB",
+    "da IGPM"
+   ],
+   "correta": 3,
+   "explicacao": "Com o regime militar, toda a administração, inclusive a Força e a Guarda Civil, foi mobilizada, registrando-se a criação da IGPM.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "igpm"
+   ]
+  },
+  {
+   "id": "historia-elab-089",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — Lei de Organização Básica",
+   "enunciado": "Em 1975, a edição da Lei de Organização Básica promoveu sensível modernização, criando estruturas descentralizadas como",
+   "alternativas": [
+    "Delegacias de Polícia Militar, Guardas Policiais e Corpos Especiais",
+    "Batalhões de Choque, Companhias Independentes e Grupamentos de Bombeiros",
+    "Diretorias, Centros de Suprimento e Manutenção e Comandos de Policiamento de Área",
+    "Secretarias Regionais, Conselhos Comunitários e Núcleos de Inteligência"
+   ],
+   "correta": 2,
+   "explicacao": "A Lei de Organização Básica de 1975 criou estruturas descentralizadas, representadas por Diretorias, Centros de Suprimento e Manutenção e Comandos de Policiamento de Área e especializados.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "organizacao-basica"
+   ]
+  },
+  {
+   "id": "historia-elab-090",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — Bombeiros",
+   "enunciado": "A modernização do Corpo de Bombeiros, com forte impulso tecnológico nos anos 1970, foi motivada, segundo a crônica,",
+   "alternativas": [
+    "pelo incêndio do Grand Circus Oberdan",
+    "pelo incêndio da Faculdade de Direito",
+    "pelos incêndios dos edifícios Joelma e Andraus",
+    "pelo incêndio da Vila Socó em Cubatão"
+   ],
+   "correta": 2,
+   "explicacao": "Os incêndios dos edifícios Joelma e Andraus levaram o Governo, pressionado pela opinião pública, a modernizar o Corpo de Bombeiros.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "bombeiros"
+   ]
+  },
+  {
+   "id": "historia-elab-091",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — Defesa Civil",
+   "enunciado": "A criação da Defesa Civil em 1975, no governo Laudo Natel, teve entre suas motivações",
+   "alternativas": [
+    "o incêndio do edifício Grande Avenida e as enchentes na Capital",
+    "o incêndio da Vila Socó e a queda de avião na Vila Santa Catarina",
+    "os incêndios do Joelma e do Andraus e os deslizamentos em Caraguatatuba",
+    "a invasão da PUC e os incêndios de indústrias em Cubatão"
+   ],
+   "correta": 2,
+   "explicacao": "A Defesa Civil de 1975 foi motivada pelos dois incêndios e pelos deslizamentos em Caraguatatuba, contando com o Major Antônio Nogueira Cézar e o Capitão Celso Feliciano de Oliveira.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "defesa-civil"
+   ]
+  },
+  {
+   "id": "historia-elab-092",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — Grande Avenida",
+   "enunciado": "Ao citar o incêndio do edifício Grande Avenida, na Avenida Paulista, em 1981, a crônica destaca a atuação conjunta",
+   "alternativas": [
+    "da ROTA e do Resgate, que evacuou todo o quarteirão",
+    "do Corpo de Bombeiros e do GATE, que salvou inúmeras vidas",
+    "do Corpo de Bombeiros e do COE, que salvou inúmeras vidas",
+    "da Defesa Civil e da Guarda Civil, que isolou a avenida"
+   ],
+   "correta": 2,
+   "explicacao": "A crônica destaca, em 1981, a atuação do Corpo de Bombeiros e do COE no incêndio do edifício Grande Avenida.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "grande-avenida"
+   ]
+  },
+  {
+   "id": "historia-elab-093",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — Colégio da PM",
+   "enunciado": "O Colégio da Polícia Militar, criado em 1978, teve como primeiro Diretor",
+   "alternativas": [
+    "o Coronel Jonas Flores Ribeiro Júnior",
+    "o Capitão Hermes Bittencourt Cruz",
+    "o Coronel Hélio Guaycurú de Carvalho",
+    "o Coronel Bruno Éboli Bello"
+   ],
+   "correta": 1,
+   "explicacao": "O Colégio da PM foi criado em 1978 pelos Coronéis Hélio Guaycurú de Carvalho, Bruno Éboli Bello e Jonas Flores Ribeiro Júnior; o primeiro Diretor foi o Capitão Hermes Bittencourt Cruz.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "colegio"
+   ]
+  },
+  {
+   "id": "historia-elab-094",
+   "subtema": "Governos militares",
+   "artigo": "Polícia Militar: Uma Crônica — Pensionistas",
+   "enunciado": "Em 1976, para defender os interesses de viúvas e dependentes de policiais, foi criada a União das Pensionistas da Caixa Beneficente, que teve como presidente",
+   "alternativas": [
+    "a Cap Maria Bittencourt Cruz",
+    "a Cel Hilda Macedo",
+    "D. Hilda Guaycurú de Carvalho",
+    "D. Hortência D'Asti de Lima"
+   ],
+   "correta": 3,
+   "explicacao": "A União das Pensionistas da Caixa Beneficente da PM teve em D. Hortência D'Asti de Lima a personificação de seus ideais.",
+   "tags": [
+    "historia",
+    "governos-militares",
+    "pensionistas"
+   ]
+  },
+  {
+   "id": "historia-elab-095",
+   "subtema": "Redemocratização",
+   "artigo": "Polícia Militar: Uma Crônica — Governo Montoro",
+   "enunciado": "Na redemocratização, o Governo Montoro destacou-se, quanto ao comando da corporação, por",
+   "alternativas": [
+    "extinguir o cargo de Subcomandante da Polícia Militar",
+    "nomear um Oficial do Exército como Comandante-Geral",
+    "colocar novamente um Oficial da PM como Comandante-Geral",
+    "subordinar o Comandante-Geral à Polícia Civil"
+   ],
+   "correta": 2,
+   "explicacao": "O Governo Montoro recolocou um Oficial da PM como Comandante-Geral, após o período em que o comando coube a oficiais oriundos do Exército.",
+   "tags": [
+    "historia",
+    "redemocratizacao",
+    "montoro"
+   ]
+  },
+  {
+   "id": "historia-elab-096",
+   "subtema": "Redemocratização",
+   "artigo": "Polícia Militar: Uma Crônica — PM voltada à sociedade",
+   "enunciado": "Entre as iniciativas de uma PM voltada para a sociedade, na redemocratização, a crônica cita",
+   "alternativas": [
+    "Canil, DPM e Revista Militia",
+    "COE, ROTA e CComSoc",
+    "IGPM, COPOM e Colégio da PM",
+    "Conseg, Proerd e CFSd"
+   ],
+   "correta": 3,
+   "explicacao": "A crônica cita Conseg, Proerd e CFSd como marcas de uma PM voltada para a sociedade.",
+   "tags": [
+    "historia",
+    "redemocratizacao",
+    "sociedade"
+   ]
+  },
+  {
+   "id": "historia-elab-097",
+   "subtema": "Redemocratização",
+   "artigo": "Polícia Militar: Uma Crônica — Mulheres",
+   "enunciado": "Segundo a crônica, as primeiras Alunas Oficiais da PM ingressaram em",
+   "alternativas": [
+    "1990",
+    "1970",
+    "1955",
+    "1987"
+   ],
+   "correta": 3,
+   "explicacao": "A crônica registra 1987 como o ano das primeiras Alunas Oficiais; o material anota que essa foi a primeira admissão, tornando incorreta a alternativa que falava em retorno após 1955.",
+   "tags": [
+    "historia",
+    "redemocratizacao",
+    "alunas"
+   ]
+  },
+  {
+   "id": "historia-elab-098",
+   "subtema": "Redemocratização",
+   "artigo": "Polícia Militar: Uma Crônica — 1990",
+   "enunciado": "Em 1990, a crônica registra a criação",
+   "alternativas": [
+    "do Conseg e do Proerd, além do teste PMK para ingresso",
+    "do COE e da ROTA, além da exigência de 2º grau para Soldado",
+    "do GATE e do Resgate, além da exigência de 1º grau para Soldado",
+    "do Colégio da PM e da União dos Evangélicos"
+   ],
+   "correta": 2,
+   "explicacao": "Em 1990 foram criados o GATE e o Resgate, e passou-se a exigir 1º grau completo para Soldado.",
+   "tags": [
+    "historia",
+    "redemocratizacao",
+    "1990"
+   ]
+  },
+  {
+   "id": "historia-elab-099",
+   "subtema": "Redemocratização",
+   "artigo": "Polícia Militar: Uma Crônica — 1986",
+   "enunciado": "Na redemocratização, a crônica registra, em 1986, a edição",
+   "alternativas": [
+    "do Decreto-Lei nº 667, de 1969",
+    "da Lei de Organização Básica da PM",
+    "do Decreto do Brasão de Armas",
+    "do Decreto de Acidente em serviço"
+   ],
+   "correta": 3,
+   "explicacao": "Em 1986 foi editado o Decreto de Acidente em serviço; a Lei de Organização Básica é de 1975.",
+   "tags": [
+    "historia",
+    "redemocratizacao",
+    "1986"
+   ]
+  },
+  {
+   "id": "historia-elab-100",
+   "subtema": "Redemocratização",
+   "artigo": "Polícia Militar: Uma Crônica — 1992",
+   "enunciado": "Em 1992, ao lado do episódio do Carandiru, a crônica registra a criação",
+   "alternativas": [
+    "da União das Pensionistas e da Caixa Beneficente da PM",
+    "da União dos Evangélicos da PM e da Associação dos Deficientes",
+    "do GATE e do Resgate pelo Corpo de Bombeiros do Estado",
+    "do Conseg e do Proerd em todos os municípios do Estado"
+   ],
+   "correta": 1,
+   "explicacao": "Em 1992 registram-se o Carandiru, a União dos Evangélicos da PM e a criação da Associação dos Deficientes Físicos.",
+   "tags": [
+    "historia",
+    "redemocratizacao",
+    "1992"
+   ]
+  },
+  {
+   "id": "historia-elab-101",
+   "subtema": "Redemocratização",
+   "artigo": "Polícia Militar: Uma Crônica — Hernani Nonato",
+   "enunciado": "Para o historiador Hernani Nonato, citado na crônica, a Polícia Militar é",
+   "alternativas": [
+    "força repressiva do Império",
+    "o pequeno exército paulista",
+    "reserva moral do Estado",
+    "espinha dorsal da Revolução"
+   ],
+   "correta": 2,
+   "explicacao": "Hernani Nonato qualifica a PM como reserva moral do Estado; pequeno exército paulista é de Dallari e força repressiva, de Heloisa Fernandes.",
+   "tags": [
+    "historia",
+    "redemocratizacao",
+    "nonato"
+   ]
+  },
+  {
+   "id": "historia-elab-102",
+   "subtema": "Síntese",
+   "artigo": "Polícia Militar: Uma Crônica — Denominações",
+   "enunciado": "A sequência correta das denominações da milícia paulista ao longo da crônica é",
+   "alternativas": [
+    "Guarda Urbana, Corpo Policial Permanente, Força Pública, Força Policial, Guarda Civil e PM",
+    "Corpo Policial Permanente, Guardas Municipais, Força Policial, Força Pública, Guarda Civil e PM",
+    "Guardas Municipais, Força Pública, Corpo Policial Permanente, Força Policial, Força Pública e PM",
+    "Guardas Municipais, Corpo Policial Permanente, Força Pública, Força Policial, Força Pública e PM"
+   ],
+   "correta": 3,
+   "explicacao": "Guardas Municipais Voluntários (1831), Corpo Policial Permanente (Regência), Força Pública (República), Força Policial (1940), Força Pública novamente (1947) e Polícia Militar (1970).",
+   "tags": [
+    "historia",
+    "sintese",
+    "denominacoes"
+   ]
+  },
+  {
+   "id": "historia-elab-103",
+   "subtema": "Síntese",
+   "artigo": "Polícia Militar: Uma Crônica — Autoria",
+   "enunciado": "A crônica Polícia Militar: Uma Crônica, base do material de história, foi publicada na revista A Força Policial em 1997 e é de autoria",
+   "alternativas": [
+    "do historiador Hernani Nonato",
+    "do Cel Luiz Eduardo Pesce de Arruda",
+    "do Cel Milton de Freitas Almeida",
+    "de Dalmo de Abreu Dallari"
+   ],
+   "correta": 1,
+   "explicacao": "A obra é do Cel Luiz Eduardo Pesce de Arruda, publicada em A Força Policial nº 13, jan/fev/mar de 1997.",
+   "tags": [
+    "historia",
+    "sintese",
+    "autoria"
+   ]
+  }
+ ]
+}
