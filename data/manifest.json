@@ -256,6 +256,17 @@
       "origem": "elaborada"
     },
     {
+      "id": "cintoresgate-elab",
+      "nome": "Cinto de segurança e resgate tático",
+      "nomeCompleto": "Processos 5.17.00 (ICC 301) e 5.19.00 (ICC 239) — uso do cinto de segurança e resgate tático ao policial militar ferido (95 questões)",
+      "norma": "POP 5.17.00, ICC 301, POP 5.19.00 e ICC 239",
+      "arquivo": "data/cintoresgate-elab.json",
+      "cor": "#6b3d2f",
+      "ativo": true,
+      "ordem": 24,
+      "origem": "elaborada"
+    },
+    {
       "id": "progpol",
       "nome": "Programas de Policiamento",
       "nomeCompleto": "RP, Força Tática, Escolar, Trânsito, Rural, Comunitário, PVS (51 questões)",

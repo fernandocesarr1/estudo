@@ -1,0 +1,1853 @@
+{
+ "materia": "cintoresgate-elab",
+ "versao": "1.5.0",
+ "atualizadoEm": "2026-09-14",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Aproximação — Atividades críticas",
+  "Aproximação — Ações corretivas",
+  "Aproximação — Deslocamento",
+  "Aproximação — Erros",
+  "Aproximação — Resultados",
+  "Arrasto — Riscos",
+  "Arrasto — Técnicas",
+  "Bandagem — Ações corretivas",
+  "Bandagem — Erros",
+  "Bandagem — Pescoço",
+  "Bandagem — Sequência",
+  "Cinto — Ajuste",
+  "Cinto — Ativação",
+  "Cinto — Atividades críticas",
+  "Cinto — Ações corretivas",
+  "Cinto — Conceitos",
+  "Cinto — Desativação",
+  "Cinto — Erros",
+  "Cinto — Resultados",
+  "Cinto — Sequência",
+  "Condução em viatura",
+  "Equipamentos — Bandagem",
+  "Equipamentos — Tempo",
+  "Equipamentos — Torniquete",
+  "ICC 239 — Caso",
+  "ICC 239 — Deslocamento",
+  "ICC 239 — Etapas",
+  "ICC 301 — Consequências",
+  "ICC 301 — Dados",
+  "ICC 301 — Finalidade",
+  "ICC 301 — Mitos",
+  "ICC 301 — Obrigatoriedade",
+  "ICC 301 — Resistência",
+  "Resgate tático — Cabimento",
+  "Resgate tático — Conceitos",
+  "Resgate tático — Estrutura",
+  "Resgate tático — Questão MFN",
+  "Torniquete — Acondicionamento",
+  "Torniquete — Amputação",
+  "Torniquete — Aplicação",
+  "Torniquete — Atividades críticas",
+  "Torniquete — Ações corretivas",
+  "Torniquete — Erros",
+  "Torniquete — Registro",
+  "Torniquete — Sequência",
+  "Torniquete — Tipo"
+ ],
+ "questoes": [
+  {
+   "id": "cintoresgate-elab-001",
+   "subtema": "Cinto — Ativação",
+   "artigo": "POP 5.17.01 — Condutor",
+   "enunciado": "Na ativação do cinto pelo condutor, a fivela deve ser segurada",
+   "alternativas": [
+    "com a mão esquerda, à frente, alinhada ao encosto de cabeça do banco",
+    "com a mão esquerda, à frente, alinhada à parte superior do volante",
+    "com a mão direita, à frente, alinhada à parte central do porta-luvas",
+    "com a mão direita, à frente, alinhada à parte superior do volante"
+   ],
+   "correta": 3,
+   "explicacao": "O condutor segura a fivela com a mão direita, levando-a à frente no alinhamento da parte superior do volante, e faz os ajustes com a mão esquerda.",
+   "tags": [
+    "cinto",
+    "ativacao",
+    "condutor"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-002",
+   "subtema": "Cinto — Ativação",
+   "artigo": "POP 5.17.01 — Encarregado",
+   "enunciado": "Na ativação do cinto pelo encarregado, a fivela deve ser segurada",
+   "alternativas": [
+    "com a mão direita, à frente, até o alinhamento com o encosto do banco do motorista",
+    "com a mão direita, em direção ao painel, até o alinhamento com o centro do porta-luvas",
+    "com a mão esquerda, à frente, até o alinhamento com a parte superior do volante",
+    "com a mão esquerda, em direção ao painel, até o alinhamento com o centro do porta-luvas"
+   ],
+   "correta": 3,
+   "explicacao": "O encarregado segura a fivela com a mão esquerda, levando-a em direção à parte superior do painel até o alinhamento com a parte central do porta-luvas, e ajusta com a mão direita.",
+   "tags": [
+    "cinto",
+    "ativacao",
+    "encarregado"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-003",
+   "subtema": "Cinto — Ativação",
+   "artigo": "POP 5.17.01 — Terceiro homem",
+   "enunciado": "O terceiro homem, sentado no banco traseiro atrás do motorista, ativa o cinto segurando a fivela",
+   "alternativas": [
+    "com a mão direita, alinhada ao encosto de cabeça do banco do encarregado",
+    "com a mão esquerda, alinhada ao encosto de cabeça do banco do motorista",
+    "com a mão direita, alinhada ao encosto de cabeça do banco do motorista",
+    "com a mão esquerda, alinhada à parte central do porta-luvas da viatura"
+   ],
+   "correta": 2,
+   "explicacao": "O terceiro homem, atrás do motorista, usa a mão direita, levando a fivela no alinhamento do encosto de cabeça do banco do motorista.",
+   "tags": [
+    "cinto",
+    "ativacao",
+    "terceiro-homem"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-004",
+   "subtema": "Cinto — Ativação",
+   "artigo": "POP 5.17.01 — Quarto homem",
+   "enunciado": "O quarto homem, sentado atrás do encarregado, ativa o cinto segurando a fivela",
+   "alternativas": [
+    "com a mão esquerda, alinhada ao encosto de cabeça do banco do motorista",
+    "com a mão direita, alinhada ao encosto de cabeça do banco do encarregado",
+    "com a mão esquerda, alinhada ao encosto de cabeça do banco do encarregado",
+    "com a mão direita, alinhada à parte superior do volante da viatura"
+   ],
+   "correta": 2,
+   "explicacao": "O quarto homem, atrás do encarregado, usa a mão esquerda, levando a fivela no alinhamento do encosto de cabeça do banco do encarregado.",
+   "tags": [
+    "cinto",
+    "ativacao",
+    "quarto-homem"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-005",
+   "subtema": "Cinto — Ativação",
+   "artigo": "POP 5.17.01 — Trava de ancoragem",
+   "enunciado": "Em todas as posições da viatura, a fivela do cinto é conduzida até o ponto de ativação e fixada à trava de ancoragem localizada",
+   "alternativas": [
+    "na coluna central da porta",
+    "na lateral do assento do banco",
+    "no console entre os bancos",
+    "no assoalho sob o banco"
+   ],
+   "correta": 1,
+   "explicacao": "A trava de ancoragem está localizada na lateral do assento do banco, ponto de fixação comum a todas as posições descritas no POP.",
+   "tags": [
+    "cinto",
+    "ativacao",
+    "ancoragem"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-006",
+   "subtema": "Cinto — Ativação",
+   "artigo": "POP 5.17.01 — Caso",
+   "enunciado": "Policial que segura a fivela com a mão esquerda, leva-a em direção ao painel até o centro do porta-luvas e faz os ajustes com a mão direita está realizando a ativação do cinto na posição de",
+   "alternativas": [
+    "quarto homem",
+    "condutor",
+    "terceiro homem",
+    "encarregado"
+   ],
+   "correta": 3,
+   "explicacao": "A referência ao porta-luvas e a combinação mão esquerda na ativação e mão direita nos ajustes identificam o encarregado.",
+   "tags": [
+    "cinto",
+    "ativacao",
+    "caso"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-007",
+   "subtema": "Cinto — Desativação",
+   "artigo": "POP 5.17.01 — Travamento por indução",
+   "enunciado": "Na desativação do cinto, posiciona-se a mão com a palma e os dedos estendidos voltados para o corpo, por baixo da faixa torácica, e imprime-se leve pressão à frente, o que provoca",
+   "alternativas": [
+    "o afrouxamento da faixa abdominal",
+    "a soltura automática da fivela",
+    "o recolhimento rápido do cadarço",
+    "o travamento por indução do retrator"
+   ],
+   "correta": 3,
+   "explicacao": "A leve pressão à frente com a mão sob a faixa torácica provoca o travamento por indução do retrator, facilitando a desativação com a outra mão.",
+   "tags": [
+    "cinto",
+    "desativacao",
+    "inducao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-008",
+   "subtema": "Cinto — Desativação",
+   "artigo": "POP 5.17.01 — Condutor coldre direito",
+   "enunciado": "Na desativação do cinto pelo condutor que usa coldre do lado direito, após o travamento por indução com a mão esquerda e a soltura com a direita,",
+   "alternativas": [
+    "a mão esquerda que leva o cinto abre a porta, e o saque ocorre com a mão direita",
+    "a mão direita abre a porta, e o saque ocorre com a mão esquerda",
+    "a mão esquerda abre a porta, e o saque ocorre também com a mão esquerda",
+    "a mão direita abre a porta, e o saque ocorre também com a mão direita"
+   ],
+   "correta": 0,
+   "explicacao": "O condutor com coldre à direita leva a fivela pelo lado externo do braço esquerdo; a mesma mão esquerda abre a porta para o semidesembarque, e o saque, se necessário, é com a mão direita.",
+   "tags": [
+    "cinto",
+    "desativacao",
+    "condutor"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-009",
+   "subtema": "Cinto — Desativação",
+   "artigo": "POP 5.17.01 — Condutor coldre esquerdo",
+   "enunciado": "Em relação ao condutor que usa coldre à direita, o condutor com coldre do lado esquerdo diferencia-se na desativação por",
+   "alternativas": [
+    "fazer o travamento por indução com a mão direita e soltar com a esquerda",
+    "abrir a porta com a mão direita e sacar a arma com a mão esquerda",
+    "levar a fivela pelo lado externo do braço direito antes de abrir a porta",
+    "abrir a porta com a mão esquerda e sacar a arma com a mão esquerda"
+   ],
+   "correta": 1,
+   "explicacao": "Os passos 1 e 2 são idênticos para ambos; varia apenas a sequência final: o condutor com coldre à esquerda abre a porta com a mão direita e saca com a mão esquerda.",
+   "tags": [
+    "cinto",
+    "desativacao",
+    "condutor-esquerdo"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-010",
+   "subtema": "Cinto — Desativação",
+   "artigo": "POP 5.17.01 — Encarregado",
+   "enunciado": "Na desativação do cinto pelo encarregado, o travamento por indução e a soltura da fivela são feitos, respectivamente,",
+   "alternativas": [
+    "com a mão direita e com a mão esquerda, levando a fivela pelo braço direito",
+    "com a mão esquerda e com a mão direita, levando a fivela pelo braço esquerdo",
+    "com a mão direita e com a mão direita, levando a fivela pelo braço direito",
+    "com a mão esquerda e com a mão esquerda, levando a fivela pelo braço esquerdo"
+   ],
+   "correta": 0,
+   "explicacao": "O encarregado posiciona a mão direita sob a faixa torácica para o travamento por indução, solta a fivela com a mão esquerda e a leva à frente pelo lado externo do braço direito.",
+   "tags": [
+    "cinto",
+    "desativacao",
+    "encarregado"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-011",
+   "subtema": "Cinto — Desativação",
+   "artigo": "POP 5.17.01 — Encarregado coldre direito",
+   "enunciado": "O encarregado que usa coldre do lado direito, após desativar o cinto, deverá",
+   "alternativas": [
+    "abrir a porta com a mão direita e sacar a arma com a mão esquerda",
+    "abrir a porta com a mão esquerda e sacar a arma com a mão direita",
+    "abrir a porta com a mão direita e sacar a arma com a mão direita",
+    "abrir a porta com a mão esquerda e sacar a arma com a mão esquerda"
+   ],
+   "correta": 1,
+   "explicacao": "O encarregado com coldre à direita abre a porta com a mão esquerda para o semidesembarque e saca a arma com a mão direita; com coldre à esquerda, inverte-se.",
+   "tags": [
+    "cinto",
+    "desativacao",
+    "encarregado-direito"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-012",
+   "subtema": "Cinto — Desativação",
+   "artigo": "POP 5.17.01 — Terceiro homem",
+   "enunciado": "Na desativação do cinto pelo terceiro homem com coldre à direita, a mão que leva a fivela à frente pelo braço esquerdo",
+   "alternativas": [
+    "é a mesma que realiza o saque, sendo a porta aberta com a mão direita",
+    "é a mesma que abre a porta, sendo o saque feito com a mão direita",
+    "permanece segurando o cinto, sendo a porta aberta pelo quarto homem",
+    "solta o cinto, sendo a porta e o saque executados com a mão direita"
+   ],
+   "correta": 1,
+   "explicacao": "O terceiro homem com coldre à direita leva a fivela pelo lado externo do braço esquerdo, e a mesma mão esquerda abre a porta; o saque, se necessário, é com a mão direita.",
+   "tags": [
+    "cinto",
+    "desativacao",
+    "terceiro-homem"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-013",
+   "subtema": "Cinto — Desativação",
+   "artigo": "POP 5.17.01 — Quarto homem",
+   "enunciado": "Na desativação do cinto pelo quarto homem com coldre à direita, a sequência correta é",
+   "alternativas": [
+    "indução com a esquerda, soltura com a esquerda, fivela pelo braço direito e porta com a direita",
+    "indução com a esquerda, soltura com a direita, fivela pelo braço esquerdo e porta com a esquerda",
+    "indução com a direita, soltura com a esquerda, fivela pelo braço esquerdo e porta com a direita",
+    "indução com a direita, soltura com a esquerda, fivela pelo braço direito e porta com a esquerda"
+   ],
+   "correta": 3,
+   "explicacao": "O quarto homem com coldre à direita usa a mão direita para o travamento por indução, solta com a esquerda, leva a fivela pelo braço direito, abre a porta com a esquerda e saca com a direita.",
+   "tags": [
+    "cinto",
+    "desativacao",
+    "quarto-homem"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-014",
+   "subtema": "Cinto — Desativação",
+   "artigo": "POP 5.17.01 — Padrão lógico",
+   "enunciado": "Analisando as desativações descritas no POP, a mão utilizada para o saque da arma corresponde, em todas as posições,",
+   "alternativas": [
+    "ao lado da porta pela qual o policial desembarca",
+    "à mão que realizou o travamento por indução",
+    "à mão que conduziu a fivela à frente",
+    "ao lado em que o policial usa o coldre"
+   ],
+   "correta": 3,
+   "explicacao": "Em todas as posições, o saque é feito com a mão do lado do coldre, e a porta é aberta com a mão oposta, o que explica as variações entre coldre à direita e à esquerda.",
+   "tags": [
+    "cinto",
+    "desativacao",
+    "padrao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-015",
+   "subtema": "Cinto — Desativação",
+   "artigo": "POP 5.17.01 — Caso",
+   "enunciado": "Policial posiciona a mão esquerda sob a faixa torácica, solta a fivela com a direita, leva-a pelo braço esquerdo, abre a porta com a mão direita e saca com a esquerda. Trata-se de",
+   "alternativas": [
+    "condutor com coldre do lado direito",
+    "condutor com coldre do lado esquerdo",
+    "encarregado com coldre do lado esquerdo",
+    "quarto homem com coldre do lado esquerdo"
+   ],
+   "correta": 1,
+   "explicacao": "Mão esquerda sob a faixa e fivela pelo braço esquerdo indicam posição do lado esquerdo da viatura; abrir a porta com a direita e sacar com a esquerda indica coldre à esquerda, compatível com o condutor.",
+   "tags": [
+    "cinto",
+    "desativacao",
+    "caso"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-016",
+   "subtema": "Cinto — Desativação",
+   "artigo": "POP 5.17.01 — Caso",
+   "enunciado": "Policial posiciona a mão direita sob a faixa torácica, solta a fivela com a esquerda, leva-a pelo braço direito, abre a porta com a mão direita e saca com a esquerda. Trata-se de",
+   "alternativas": [
+    "encarregado ou quarto homem com coldre do lado direito",
+    "condutor ou terceiro homem com coldre do lado esquerdo",
+    "encarregado ou quarto homem com coldre do lado esquerdo",
+    "condutor ou terceiro homem com coldre do lado direito"
+   ],
+   "correta": 2,
+   "explicacao": "Mão direita sob a faixa e fivela pelo braço direito caracterizam o lado direito da viatura, encarregado ou quarto homem; porta com a direita e saque com a esquerda indicam coldre à esquerda.",
+   "tags": [
+    "cinto",
+    "desativacao",
+    "caso"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-017",
+   "subtema": "Cinto — Ajuste",
+   "artigo": "POP 5.17.01 — Retrator na coluna",
+   "enunciado": "No ajuste da faixa torácica, além da compleição física do usuário, deve-se observar",
+   "alternativas": [
+    "a altura do encosto de cabeça em relação à nuca do ocupante",
+    "a distância entre a fivela e o coldre, que deve ser de um palmo",
+    "a inclinação do encosto do banco, que deve ser de noventa graus",
+    "o ponto de regulagem do retrator junto à coluna da porta"
+   ],
+   "correta": 3,
+   "explicacao": "No ajuste, observa-se a compleição física do usuário e o ponto de regulagem em que estiver afixado o retrator do cinto junto à coluna da porta.",
+   "tags": [
+    "cinto",
+    "ajuste",
+    "regulagem"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-018",
+   "subtema": "Cinto — Erros",
+   "artigo": "POP 5.17.01 — Cinto torcido",
+   "enunciado": "Entre as possibilidades de erro do POP do cinto está",
+   "alternativas": [
+    "fixar a fivela na lateral do assento",
+    "posicionar a faixa sobre o cinturão",
+    "ajustar a faixa entre pescoço e ombro",
+    "utilizar o cinto de segurança torcido"
+   ],
+   "correta": 3,
+   "explicacao": "Usar o cinto torcido é possibilidade de erro; posicionar o cinto sobre o cinturão, ajustar a faixa entre pescoço e ombro e fixar a fivela na lateral do assento são condutas corretas.",
+   "tags": [
+    "cinto",
+    "erros",
+    "torcido"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-019",
+   "subtema": "Cinto — Ações corretivas",
+   "artigo": "POP 5.17.01 — Defeito",
+   "enunciado": "Apresentando o cinto de segurança defeito, a ação corretiva prevista no POP é",
+   "alternativas": [
+    "trocar de assento na viatura",
+    "dispensar seu uso no turno",
+    "providenciar sua manutenção",
+    "registrar o defeito e seguir"
+   ],
+   "correta": 2,
+   "explicacao": "A primeira ação corretiva do POP determina providenciar a manutenção do cinto que apresentar defeito.",
+   "tags": [
+    "cinto",
+    "acoes-corretivas",
+    "defeito"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-020",
+   "subtema": "ICC 301 — Mitos",
+   "artigo": "ICC 301 — Incêndio e submersão",
+   "enunciado": "Sobre veículos que pegam fogo ou caem em rios, a ICC 301 afirma que, com o cinto de segurança,",
+   "alternativas": [
+    "há maior risco de o ocupante ficar preso pelo travamento do retrator",
+    "há mais chances de se permanecer consciente e escapar do veículo",
+    "a saída do veículo depende do corte do cadarço pelo socorrista",
+    "o ocupante deve soltar o cinto antes de qualquer tentativa de saída"
+   ],
+   "correta": 1,
+   "explicacao": "A ICC sustenta que, com o cinto, há mais chances de permanecer consciente e escapar do veículo em caso de incêndio ou queda em rio.",
+   "tags": [
+    "cinto",
+    "icc301",
+    "mitos"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-021",
+   "subtema": "Resgate tático — Estrutura",
+   "artigo": "Processo 5.19.00 — POP",
+   "enunciado": "O Processo 5.19.00, Resgate Tático ao Policial Militar Ferido, compreende os POP de",
+   "alternativas": [
+    "aproximação, reanimação cardiopulmonar, imobilização de fraturas e transporte",
+    "aproximação do local de alto risco, torniquete, bandagem israelense e arrasto e condução",
+    "isolamento do local, triagem de vítimas, torniquete e acionamento do resgate",
+    "cobertura de fogo, contenção do agressor, primeiros socorros e registro da ocorrência"
+   ],
+   "correta": 1,
+   "explicacao": "O processo reúne os POP 5.19.01 (aproximação do local de alto risco), 5.19.02 (torniquete), 5.19.03 (bandagem israelense) e 5.19.04 (técnicas de arrasto e condução).",
+   "tags": [
+    "resgate",
+    "estrutura"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-022",
+   "subtema": "Resgate tático — Conceitos",
+   "artigo": "Processo 5.19.00 — Extricação",
+   "enunciado": "Extricação, no processo de resgate tático, é",
+   "alternativas": [
+    "avaliar o nível de consciência da vítima por meio de estímulos verbais",
+    "estancar a hemorragia de membro atingido por projétil antes do deslocamento",
+    "conduzir a vítima consciente até a viatura operacional ou de resgate",
+    "retirar a vítima de local do qual ela não pode, ou não deve, sair por meios próprios"
+   ],
+   "correta": 3,
+   "explicacao": "Extricação é retirar uma vítima de um local do qual ela não pode, ou não deve, sair por meios próprios.",
+   "tags": [
+    "resgate",
+    "conceitos",
+    "extricacao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-023",
+   "subtema": "Resgate tático — Conceitos",
+   "artigo": "Processo 5.19.00 — Hemorragia",
+   "enunciado": "Hemorragia é a perda de sangue em grande quantidade, sendo correto afirmar, segundo o processo, que",
+   "alternativas": [
+    "pode ocorrer por orifício natural, ferimento cortante ou perfurocortante",
+    "somente se configura quando o sangue é visível a olho nu fora do corpo",
+    "sangramentos por orifícios naturais do corpo nunca configuram hemorragia",
+    "somente se configura quando decorre de ferimento por arma de fogo"
+   ],
+   "correta": 0,
+   "explicacao": "A hemorragia pode ocorrer por orifício natural, ferimento cortante ou perfurocortante e pode ser interna, quando o sangue não é observado fora do corpo; negar hemorragia por orifícios naturais foi a assertiva incorreta da questão do MFN.",
+   "tags": [
+    "resgate",
+    "conceitos",
+    "hemorragia"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-024",
+   "subtema": "Resgate tático — Conceitos",
+   "artigo": "Processo 5.19.00 — Arterial e venosa",
+   "enunciado": "O sangramento em jatos ou pulsos, de coloração vermelha mais forte, indica grande probabilidade de hemorragia",
+   "alternativas": [
+    "arterial, menos grave, sendo a origem o fator mais importante",
+    "venosa, mais grave, sendo a coloração o fator mais importante",
+    "arterial, mais grave, sendo a quantidade o fator mais importante",
+    "capilar, superficial, sendo a pulsação o fator mais importante"
+   ],
+   "correta": 2,
+   "explicacao": "Jatos ou pulsos e cor vermelha mais forte indicam origem arterial, mais grave; o sangramento contínuo, não pulsante e mais escuro sugere veias. Independentemente da origem, o mais importante é a quantidade.",
+   "tags": [
+    "resgate",
+    "conceitos",
+    "arterial"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-025",
+   "subtema": "Resgate tático — Conceitos",
+   "artigo": "Processo 5.19.00 — Estado de choque",
+   "enunciado": "Entre os sinais de estado de choque descritos no processo estão",
+   "alternativas": [
+    "hipertensão arterial, febre, rubor facial e respiração profunda",
+    "pele corada e quente, bradicardia, respiração lenta e pupilas contraídas",
+    "pele pálida, fria e úmida, taquipneia, taquicardia e perfusão capilar lenta",
+    "pele seca e quente, bradipneia, pressão elevada e euforia"
+   ],
+   "correta": 2,
+   "explicacao": "O estado de choque apresenta pele pálida, fria e úmida, taquipneia, taquicardia, sudorese, perfusão capilar lenta ou nula, confusão mental, alteração visual, inconsciência e hipotensão no choque descompensado.",
+   "tags": [
+    "resgate",
+    "conceitos",
+    "choque"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-026",
+   "subtema": "Equipamentos — Torniquete",
+   "artigo": "Processo 5.19.00 — Torniquete",
+   "enunciado": "Quanto ao uso do torniquete, o processo esclarece que",
+   "alternativas": [
+    "pode ser feito por qualquer pessoa, independentemente de habilitação ou treinamento",
+    "é procedimento exclusivo do profissional de saúde, vedado ao policial militar",
+    "deve ser feito por pessoa habilitada, não sendo exclusivo do profissional de saúde",
+    "somente pode ser aplicado pela equipe do Corpo de Bombeiros ou do SAMU"
+   ],
+   "correta": 2,
+   "explicacao": "É interessante que o torniquete seja usado por pessoa devidamente habilitada, não sendo um procedimento exclusivo do profissional da saúde.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "habilitacao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-027",
+   "subtema": "Equipamentos — Torniquete",
+   "artigo": "Processo 5.19.00 — Cores",
+   "enunciado": "O torniquete é confeccionado nas cores preta, cinza ou compatível com o uniforme para uso operacional, sendo reservada ao treinamento a cor",
+   "alternativas": [
+    "a verde",
+    "a azul",
+    "a branca",
+    "a laranja"
+   ],
+   "correta": 1,
+   "explicacao": "A cor azul é específica para o treinamento; verde e branca são as cores da bandagem israelense de 15 cm.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "cores"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-028",
+   "subtema": "Equipamentos — Torniquete",
+   "artigo": "Processo 5.19.00 — Barra de estabilização",
+   "enunciado": "A barra de estabilização do torniquete tem por finalidade",
+   "alternativas": [
+    "manter sua integridade e diminuir o pinçamento da pele",
+    "marcar o horário de aplicação para fins médicos",
+    "permitir o afrouxamento periódico do equipamento",
+    "fixar a bandagem israelense sobre o ferimento"
+   ],
+   "correta": 0,
+   "explicacao": "O torniquete deve possuir barra de estabilização que mantém sua integridade e diminui o pinçamento da pele.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "barra"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-029",
+   "subtema": "Equipamentos — Tempo",
+   "artigo": "Processo 5.19.00 — Torniquete e bandagem",
+   "enunciado": "Segundo o processo, a correta colocação do torniquete e da bandagem israelense tratam adequadamente o ferimento, respectivamente, por",
+   "alternativas": [
+    "algumas horas e até duas horas",
+    "até duas horas e algumas horas",
+    "até uma hora e até duas horas",
+    "até duas horas e até seis horas"
+   ],
+   "correta": 1,
+   "explicacao": "O torniquete trata o ferimento sangrante nos membros por até duas horas; a bandagem israelense trata o ferimento pequeno ou moderado por algumas horas.",
+   "tags": [
+    "resgate",
+    "tempo",
+    "comparativo"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-030",
+   "subtema": "Equipamentos — Bandagem",
+   "artigo": "Processo 5.19.00 — Composição",
+   "enunciado": "A bandagem do tipo israelense de 15 cm é composta de atadura elástica",
+   "alternativas": [
+    "de 20% algodão e 80% poliamida, estéril por raio gama e livre de látex",
+    "de 80% algodão e 20% poliamida, estéril por autoclave e com látex",
+    "de 50% algodão e 50% poliamida, estéril por raio gama e livre de látex",
+    "de 100% poliamida, estéril por óxido de etileno e com curativo aderente"
+   ],
+   "correta": 0,
+   "explicacao": "A atadura é de 20% algodão e 80% poliamida, estéril por raio gama, embalada a vácuo, livre de látex e com curativo não aderente.",
+   "tags": [
+    "resgate",
+    "bandagem",
+    "composicao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-031",
+   "subtema": "Equipamentos — Bandagem",
+   "artigo": "Processo 5.19.00 — Versões",
+   "enunciado": "Quanto às versões da bandagem israelense, é correto afirmar que",
+   "alternativas": [
+    "a de 15 cm é azul para treinamento, e a de 30 cm é verde para uso operacional",
+    "a de 15 cm existe apenas na cor verde, e a de 30 cm nas cores verde ou branca",
+    "ambas existem nas cores verde ou branca, conforme o uso operacional",
+    "a de 15 cm existe nas cores verde ou branca, e a de 30 cm apenas na verde"
+   ],
+   "correta": 3,
+   "explicacao": "A versão de 15 cm é verde ou branca; a de 30 cm, com as demais características, existe apenas na cor verde.",
+   "tags": [
+    "resgate",
+    "bandagem",
+    "versoes"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-032",
+   "subtema": "Equipamentos — Bandagem",
+   "artigo": "Processo 5.19.00 — Aplicação",
+   "enunciado": "Quanto às partes do corpo em que pode ser aplicada, a bandagem israelense",
+   "alternativas": [
+    "pode ser usada em membros inferiores, superiores ou outras partes do corpo",
+    "somente pode ser usada em membros inferiores e superiores, como o torniquete",
+    "somente pode ser usada no tronco, sendo os membros tratados com torniquete",
+    "somente pode ser usada na cabeça e no pescoço, onde o torniquete é vedado"
+   ],
+   "correta": 0,
+   "explicacao": "Diferentemente do torniquete, restrito às extremidades, a bandagem israelense pode ser usada nos membros e em outras partes do corpo, como cabeça e pescoço.",
+   "tags": [
+    "resgate",
+    "bandagem",
+    "aplicacao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-033",
+   "subtema": "Resgate tático — Cabimento",
+   "artigo": "Processo 5.19.00 — Destinatários",
+   "enunciado": "Os cuidados emergenciais do processo de resgate tático deverão ser realizados somente em",
+   "alternativas": [
+    "PM vítimas de lesão traumática de membros com sangramento que comprometa a vida",
+    "qualquer pessoa ferida em confronto armado com a participação da Polícia Militar",
+    "PM vítimas de qualquer lesão ocorrida durante o serviço operacional",
+    "civis feridos em locais de alto risco onde o socorro especializado não chegue"
+   ],
+   "correta": 0,
+   "explicacao": "Os cuidados emergenciais do POP destinam-se somente a PM vítimas de algum tipo de lesão traumática de membros com sangramento que possa comprometer suas vidas.",
+   "tags": [
+    "resgate",
+    "cabimento"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-034",
+   "subtema": "Aproximação — Atividades críticas",
+   "artigo": "POP 5.19.01 — Atividades críticas",
+   "enunciado": "Figura entre as atividades críticas do POP de aproximação do local de alto risco para o socorro ao PM vítima",
+   "alternativas": [
+    "o acionamento prévio de tropa especializada",
+    "a aplicação imediata da bandagem israelense",
+    "a obtenção de superioridade tática de fogo",
+    "a comunicação do fato à imprensa da PMESP"
+   ],
+   "correta": 2,
+   "explicacao": "As atividades críticas incluem coleta de dados, avaliação do ambiente e da necessidade de progressão, escolha da técnica, obtenção de superioridade tática de fogo, identificação e remoção imediata do policial vítima.",
+   "tags": [
+    "resgate",
+    "aproximacao",
+    "atividades-criticas"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-035",
+   "subtema": "Aproximação — Deslocamento",
+   "artigo": "POP 5.19.01 — Plano de gerenciamento",
+   "enunciado": "Todo deslocamento em ambiente hostil, onde já houve disparos contra os policiais, será realizado",
+   "alternativas": [
+    "preferencialmente por, no mínimo, dois policiais militares",
+    "obrigatoriamente por, no mínimo, quatro policiais militares",
+    "exclusivamente por tropa especializada em resgate tático",
+    "por um único policial, reduzindo a exposição da equipe"
+   ],
+   "correta": 0,
+   "explicacao": "O deslocamento em ambiente hostil é feito preferencialmente por no mínimo dois PM, atentos aos pontos de perigo e sem perder o contato visual com a equipe e com o ferido.",
+   "tags": [
+    "resgate",
+    "aproximacao",
+    "deslocamento"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-036",
+   "subtema": "Aproximação — Deslocamento",
+   "artigo": "POP 5.19.01 — Progressão",
+   "enunciado": "No plano de gerenciamento básico do socorro sob fogo, a escolha da forma de progressão e dos equipamentos deve considerar",
+   "alternativas": [
+    "a distância entre a viatura e o hospital",
+    "o cenário e o poderio bélico dos agressores",
+    "o posto ou graduação do policial ferido",
+    "o tempo decorrido desde o primeiro disparo"
+   ],
+   "correta": 1,
+   "explicacao": "Os policiais observam o cenário e o poderio bélico dos agressores para verificar a melhor forma de progressão e os equipamentos que aumentem sua segurança.",
+   "tags": [
+    "resgate",
+    "aproximacao",
+    "progressao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-037",
+   "subtema": "Aproximação — Ações corretivas",
+   "artigo": "POP 5.19.01 — Local inseguro",
+   "enunciado": "Percebendo a equipe que o local não está seguro para a aproximação até o policial vítima, deverá",
+   "alternativas": [
+    "aproximar-se somente após obter superioridade numérica de quatro policiais",
+    "aproximar-se rapidamente, pois a demora agrava o risco de morte do policial ferido",
+    "aguardar em silêncio a chegada de tropa especializada, sem contato com o ferido",
+    "não se aproximar e verbalizar para que o ferido busque local seguro e aplique o torniquete"
+   ],
+   "correta": 3,
+   "explicacao": "Se o local não está seguro, a aproximação não é realizada; a equipe verbaliza com o ferido para que procure local seguro e, se necessário, coloque em si o torniquete.",
+   "tags": [
+    "resgate",
+    "aproximacao",
+    "local-inseguro"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-038",
+   "subtema": "Aproximação — Ações corretivas",
+   "artigo": "POP 5.19.01 — Torniquete aplicado pelo ferido",
+   "enunciado": "Controlado o ambiente, se o torniquete aplicado pelo próprio ferido não tiver contido o sangramento, a equipe deverá",
+   "alternativas": [
+    "retirar o torniquete aplicado pelo ferido e reposicioná-lo corretamente",
+    "aplicar outro torniquete acima do que foi colocado pelo ferido, sem retirá-lo",
+    "afrouxar o torniquete do ferido para permitir a circulação e reaplicá-lo",
+    "substituir o torniquete do ferido por bandagem israelense no mesmo ponto"
+   ],
+   "correta": 1,
+   "explicacao": "O torniquete aplicado pelo ferido é reavaliado; persistindo o sangramento, outro torniquete é colocado acima daquele, sem prejuízo da análise continuada de novas lesões.",
+   "tags": [
+    "resgate",
+    "aproximacao",
+    "segundo-torniquete"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-039",
+   "subtema": "Aproximação — Ações corretivas",
+   "artigo": "POP 5.19.01 — Vítima imóvel e irresponsiva",
+   "enunciado": "Estando o policial vítima imóvel e irresponsivo, a orientação do POP é que",
+   "alternativas": [
+    "se considere a possibilidade de óbito e se pondere o risco de atendimento abreviado",
+    "se inicie de imediato a aproximação, independentemente do risco à equipe",
+    "se aguarde a chegada do socorro especializado sem qualquer tentativa de contato",
+    "se aplique imediatamente o torniquete em ambos os membros do policial"
+   ],
+   "correta": 0,
+   "explicacao": "Com a vítima imóvel e irresponsiva, considera-se a possibilidade de óbito e pondera-se o risco de realizar o atendimento de forma abreviada, para não expor outros policiais sem real chance de sobrevivência.",
+   "tags": [
+    "resgate",
+    "aproximacao",
+    "irresponsivo"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-040",
+   "subtema": "Aproximação — Ações corretivas",
+   "artigo": "POP 5.19.01 — Vítima responsiva incapaz de mover-se",
+   "enunciado": "Estando o policial vítima responsivo, mas incapaz de se mover até área abrigada,",
+   "alternativas": [
+    "orienta-se a vítima a aplicar em si a bandagem israelense antes da aproximação",
+    "orienta-se a vítima a permanecer imóvel até o encerramento do confronto armado",
+    "aguarda-se a chegada da unidade de resgate para qualquer procedimento de socorro",
+    "com superioridade de fogo, contém-se o sangramento e remove-se a vítima"
+   ],
+   "correta": 3,
+   "explicacao": "Nesse caso, utiliza-se plano de resgate conforme a conduta de patrulha: obtida a superioridade tática de fogo, contém-se o sangramento com torniquete e remove-se a vítima para área protegida.",
+   "tags": [
+    "resgate",
+    "aproximacao",
+    "plano-resgate"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-041",
+   "subtema": "Aproximação — Ações corretivas",
+   "artigo": "POP 5.19.01 — Capacidades do ferido",
+   "enunciado": "Quanto ao policial ferido, o POP orienta a equipe a",
+   "alternativas": [
+    "mantê-lo deitado no local até a chegada do socorro especializado",
+    "desarmá-lo em qualquer hipótese, para evitar disparos acidentais",
+    "carregá-lo sempre, para poupar suas forças durante o deslocamento",
+    "analisar se ele pode colaborar e verificar sua capacidade de andar"
+   ],
+   "correta": 3,
+   "explicacao": "O ferido é indivíduo treinado; a equipe analisa se pode colaborar, explorando suas capacidades, e verifica se consegue andar, para não empenhar outros policiais na condução.",
+   "tags": [
+    "resgate",
+    "aproximacao",
+    "capacidades"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-042",
+   "subtema": "Aproximação — Erros",
+   "artigo": "POP 5.19.01 — Possibilidades de erro",
+   "enunciado": "Constitui possibilidade de erro do POP de aproximação ao policial vítima",
+   "alternativas": [
+    "aproximar-se o mais rápido possível sem observar o cenário e as ameaças",
+    "verbalizar com o ferido para que busque local seguro enquanto não há aproximação",
+    "manter contato visual com a equipe e com o policial ferido durante o deslocamento",
+    "avaliar a capacidade de locomoção do ferido antes de elaborar o plano de extricação"
+   ],
+   "correta": 0,
+   "explicacao": "É erro tentar se aproximar o mais rápido possível sem observar o cenário, a ameaça inicial e outras ameaças, podendo causar novos feridos ou mortes.",
+   "tags": [
+    "resgate",
+    "aproximacao",
+    "erros"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-043",
+   "subtema": "Aproximação — Resultados",
+   "artigo": "POP 5.19.01 — Resultados esperados",
+   "enunciado": "É resultado esperado do POP de aproximação que a extricação do policial vítima do ambiente hostil seja realizada",
+   "alternativas": [
+    "somente após a neutralização completa de todos os agressores do local",
+    "sempre com a presença de profissional de saúde acompanhando a equipe",
+    "sempre com cobertura de fogo, com uso devido das técnicas de condução",
+    "somente com o emprego de viatura blindada até o ponto em que está a vítima"
+   ],
+   "correta": 2,
+   "explicacao": "Espera-se a correta extricação do policial vítima sempre com cobertura de fogo, atentando para o uso devido das técnicas de condução e retirada.",
+   "tags": [
+    "resgate",
+    "aproximacao",
+    "resultados"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-044",
+   "subtema": "Aproximação — Ações corretivas",
+   "artigo": "POP 5.19.01 — Compressão local",
+   "enunciado": "Não conseguindo a equipe aproximar-se do policial vítima, deverá verbalizar com ele para que continue consciente e",
+   "alternativas": [
+    "faça compressão local para estancar hemorragias e, se possível, coloque o torniquete",
+    "permaneça imóvel, evitando qualquer movimento que agrave o sangramento",
+    "retire o colete balístico para facilitar a respiração até a chegada da equipe",
+    "desloque-se em direção à equipe mesmo sob fogo, para abreviar o resgate"
+   ],
+   "correta": 0,
+   "explicacao": "A equipe verbaliza para manter o ferido consciente e orientá-lo a realizar os procedimentos iniciais, com compressão local e, se possível e adequado, colocação do torniquete.",
+   "tags": [
+    "resgate",
+    "aproximacao",
+    "compressao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-045",
+   "subtema": "Resgate tático — Questão MFN",
+   "artigo": "Processo 5.19.00 — Assertivas",
+   "enunciado": "Sobre o resgate tático ao policial ferido, é INCORRETO afirmar que",
+   "alternativas": [
+    "sangramentos por orifícios naturais do corpo nunca serão considerados hemorragia",
+    "os policiais vítimas em condições operacionais deverão permanecer atuantes",
+    "todos os policiais têm a mesma importância no cenário, provendo cobertura de fogo",
+    "a correta colocação do torniquete trata o sangramento nos membros por até duas horas"
+   ],
+   "correta": 0,
+   "explicacao": "O conceito de hemorragia inclui a perda de sangue por orifício natural; as demais assertivas correspondem ao conteúdo do processo.",
+   "tags": [
+    "resgate",
+    "pegadinha"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-046",
+   "subtema": "Torniquete — Atividades críticas",
+   "artigo": "POP 5.19.02 — Atividades críticas",
+   "enunciado": "São atividades críticas do POP de uso do torniquete",
+   "alternativas": [
+    "coleta de dados, torniquete ou remoção para abrigo, identificação da lesão e prevenção do choque",
+    "coleta de dados, afrouxamento periódico do torniquete, identificação da lesão e transporte",
+    "identificação da lesão, sutura do ferimento, aplicação da bandagem e prevenção do choque",
+    "cobertura de fogo, reanimação cardiopulmonar, torniquete e acionamento do SAMU"
+   ],
+   "correta": 0,
+   "explicacao": "O POP 5.19.02 prevê coleta de dados, uso do torniquete ou remoção imediata para área abrigada, identificação do tipo de lesão e atenção para que o resgatado não entre em estado de choque.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "atividades-criticas"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-047",
+   "subtema": "Torniquete — Sequência",
+   "artigo": "POP 5.19.02 — Estado mental alterado",
+   "enunciado": "Apresentando o policial vítima estado mental alterado, a equipe deverá, se for o caso,",
+   "alternativas": [
+    "algemá-lo para impedir que retire o torniquete durante o transporte",
+    "sedá-lo com medicação disponível no kit de primeiros socorros da viatura",
+    "aguardar que recobre a consciência antes de aplicar o torniquete",
+    "desarmá-lo, evitando ferimentos nele próprio, na equipe ou em civis"
+   ],
+   "correta": 3,
+   "explicacao": "A equipe observa se o policial vítima apresenta estado mental alterado e, se for o caso, realiza seu desarmamento, evitando ferimentos no próprio ferido, na equipe ou em civis nas imediações.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "desarmamento"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-048",
+   "subtema": "Torniquete — Aplicação",
+   "artigo": "POP 5.19.02 — Sobre o uniforme",
+   "enunciado": "Quanto ao local de aplicação do torniquete em relação ao uniforme, o POP determina",
+   "alternativas": [
+    "aplicar sobre o uniforme, tensionando apenas até reduzir o fluxo",
+    "cortar o uniforme e aplicar diretamente sobre a pele do membro",
+    "aplicar e tensionar sobre o uniforme até interromper o sangramento",
+    "retirar o uniforme do membro antes de posicionar o equipamento"
+   ],
+   "correta": 2,
+   "explicacao": "O torniquete é aplicado sobre o uniforme e tensionado até que o sangramento seja interrompido; não tensionar o suficiente é possibilidade de erro.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "uniforme"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-049",
+   "subtema": "Torniquete — Aplicação",
+   "artigo": "POP 5.19.02 e ICC 239 — Posição",
+   "enunciado": "O torniquete deve ser posicionado",
+   "alternativas": [
+    "imediatamente acima da lesão, junto a ela",
+    "no limite superior do membro, na sua raiz",
+    "imediatamente abaixo da lesão, junto a ela",
+    "sobre a própria lesão, comprimindo-a"
+   ],
+   "correta": 1,
+   "explicacao": "O torniquete é aplicado sempre no limite superior do membro, na raiz do membro atingido; posicioná-lo de forma inadequada, próximo à lesão, é possibilidade de erro.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "posicao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-050",
+   "subtema": "Torniquete — Tipo",
+   "artigo": "POP 5.19.02 — CAT",
+   "enunciado": "O torniquete indicado no POP para o correto controle do sangramento é o do tipo",
+   "alternativas": [
+    "pneumático de uso hospitalar",
+    "SOF-T, Torniquete de Forças Especiais",
+    "improvisado com cinto de guarnição",
+    "CAT, Torniquete de Aplicação em Combate"
+   ],
+   "correta": 3,
+   "explicacao": "O POP e a ICC 239 indicam o torniquete do tipo CAT, Torniquete de Aplicação em Combate; meios de fortuna inadequados são possibilidade de erro.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "cat"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-051",
+   "subtema": "Torniquete — Aplicação",
+   "artigo": "POP 5.19.02 — Sequência de aplicação",
+   "enunciado": "Posicionado o torniquete, a sequência correta de aplicação é",
+   "alternativas": [
+    "fixar com o velcro, girar a haste até reduzir o fluxo e afrouxar a cada cinco minutos",
+    "travar a haste no suporte, fixar com o velcro e girar a haste até conter",
+    "girar a haste até conter o sangramento, travá-la no suporte e fixar com o velcro",
+    "girar a haste até conter, afrouxar periodicamente e marcar o horário de cada ajuste"
+   ],
+   "correta": 2,
+   "explicacao": "Gira-se a haste até pressionar o suficiente para conter o sangramento, trava-se a haste no suporte e trava-se o sistema com o velcro sobre o suporte.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "sequencia"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-052",
+   "subtema": "Torniquete — Registro",
+   "artigo": "POP 5.19.02 — Horário",
+   "enunciado": "Após a aplicação do torniquete, o horário de aplicação deve ser marcado",
+   "alternativas": [
+    "no campo específico do torniquete ou em lugar visível do corpo, para fins médicos",
+    "no boletim de ocorrência, para instruir eventual procedimento apuratório",
+    "no relatório de serviço, pelo comandante da equipe que prestou o socorro",
+    "na mão do socorrista, para controle do afrouxamento periódico do equipamento"
+   ],
+   "correta": 0,
+   "explicacao": "Marca-se o horário no campo específico do próprio torniquete ou em lugar visível do corpo do policial vítima, para fins médicos.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "horario"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-053",
+   "subtema": "Torniquete — Erros",
+   "artigo": "POP 5.19.02 — Afrouxamento",
+   "enunciado": "Quanto ao afrouxamento periódico do torniquete para permitir fluxo sanguíneo ao membro ferido, o POP o considera",
+   "alternativas": [
+    "ação corretiva obrigatória",
+    "possibilidade de erro",
+    "providência a cada cinco minutos",
+    "providência a cada duas horas"
+   ],
+   "correta": 1,
+   "explicacao": "Afrouxar periodicamente o torniquete é possibilidade de erro expressa; a alternativa que previa liberar a pressão a cada cinco minutos foi distratora da questão do CAO 2020.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "afrouxamento"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-054",
+   "subtema": "Torniquete — Erros",
+   "artigo": "POP 5.19.02 — Sangramento superficial",
+   "enunciado": "Constitui possibilidade de erro no uso do torniquete",
+   "alternativas": [
+    "aplicar um segundo torniquete quando necessário",
+    "realizar a técnica para sangramentos superficiais",
+    "marcar o horário de aplicação no próprio torniquete",
+    "aplicá-lo no limite superior do membro atingido"
+   ],
+   "correta": 1,
+   "explicacao": "Usar o torniquete em sangramentos superficiais é erro; aplicar segundo torniquete quando necessário, marcar o horário e posicioná-lo no limite superior do membro são condutas corretas.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "erros"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-055",
+   "subtema": "Torniquete — Ações corretivas",
+   "artigo": "POP 5.19.02 — Sinais vitais",
+   "enunciado": "Durante os deslocamentos com o policial vítima, a equipe deverá observar os sinais vitais do socorrido por meio",
+   "alternativas": [
+    "da coloração das extremidades abaixo do torniquete",
+    "da aferição da pressão arterial com aparelho portátil",
+    "da contagem da frequência cardíaca a cada cinco minutos",
+    "do nível de consciência e da capacidade de verbalização"
+   ],
+   "correta": 3,
+   "explicacao": "A observação dos sinais vitais durante os deslocamentos é feita pelo nível de consciência e pela capacidade de verbalização do socorrido.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "sinais-vitais"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-056",
+   "subtema": "Torniquete — Acondicionamento",
+   "artigo": "POP 5.19.02 — Sequência de acondicionamento",
+   "enunciado": "No acondicionamento do torniquete, após passar a ponta pela fivela, o velcro retorna sobre o velcro por cerca de",
+   "alternativas": [
+    "trinta centímetros, deixando aproximadamente dez centímetros livres",
+    "vinte centímetros, deixando aproximadamente quinze centímetros ou um palmo",
+    "dez centímetros, deixando aproximadamente trinta centímetros livres",
+    "quinze centímetros, deixando aproximadamente vinte centímetros ou um palmo"
+   ],
+   "correta": 3,
+   "explicacao": "Retorna-se o velcro sobre o velcro por cerca de 15 cm, deixando aproximadamente 20 cm ou um palmo, com a haste no mesmo sentido da fita e o velcro aberto.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "acondicionamento"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-057",
+   "subtema": "Torniquete — Amputação",
+   "artigo": "POP 5.19.02 — Munições de alto impacto",
+   "enunciado": "Em amputações causadas por munições de alto impacto, o POP determina",
+   "alternativas": [
+    "aplicar a bandagem israelense sobre o coto e aguardar o socorro especializado",
+    "aplicar de imediato o torniquete e, se possível, recolher o membro em recipiente limpo",
+    "recolher primeiro o membro amputado e depois aplicar o torniquete no coto",
+    "evitar o torniquete, pela ausência de membro abaixo do ponto de aplicação"
+   ],
+   "correta": 1,
+   "explicacao": "Aplica-se imediatamente o torniquete e, se possível, recolhe-se o membro amputado em recipiente ou saco plástico limpos, mantendo contato para acalmar o ferido.",
+   "tags": [
+    "resgate",
+    "torniquete",
+    "amputacao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-058",
+   "subtema": "Bandagem — Sequência",
+   "artigo": "POP 5.19.03 — Aplicação",
+   "enunciado": "Na aplicação da bandagem israelense, após colocar a almofada sobre a lesão e envolver a bandagem, o policial deve",
+   "alternativas": [
+    "fixar a bandagem com esparadrapo e marcar o horário de aplicação no curativo",
+    "inserir a bandagem na barra de pressão e puxá-la, forçando a almofada para baixo",
+    "girar a haste até conter o sangramento e travá-la com o velcro do suporte",
+    "afrouxar a bandagem sobre a almofada para permitir a circulação local"
+   ],
+   "correta": 1,
+   "explicacao": "Insere-se a bandagem elástica na barra de pressão e puxa-se a barra forçando a almofada para baixo, envolvendo depois firmemente as bordas e fechando com a barra do fecho.",
+   "tags": [
+    "resgate",
+    "bandagem",
+    "aplicacao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-059",
+   "subtema": "Bandagem — Pescoço",
+   "artigo": "POP 5.19.03 — Ferimento no pescoço",
+   "enunciado": "Em ferimentos no pescoço, durante a aplicação da bandagem israelense, o policial ferido deve",
+   "alternativas": [
+    "manter levantado o braço do mesmo lado, abaixando-o ao final para reduzir a pressão",
+    "manter levantado o braço contralateral, abaixando-o ao final para aumentar a pressão",
+    "manter os dois braços abaixados, para evitar a compressão das vias aéreas",
+    "manter a cabeça inclinada para o lado da lesão durante toda a aplicação"
+   ],
+   "correta": 1,
+   "explicacao": "O ferido permanece com o braço contralateral ao ferimento levantado; ao abaixá-lo, após a aplicação, aumenta-se a pressão da bandagem sobre a lesão.",
+   "tags": [
+    "resgate",
+    "bandagem",
+    "pescoco"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-060",
+   "subtema": "Bandagem — Erros",
+   "artigo": "POP 5.19.03 — Almofada",
+   "enunciado": "Constitui possibilidade de erro no uso da bandagem israelense",
+   "alternativas": [
+    "não posicionar a almofada da bandagem no local do ferimento",
+    "usar a bandagem na cabeça ou no pescoço do policial ferido",
+    "apertar a bandagem até deter o sangramento pela pressão",
+    "complementar a bandagem com torniquete quando necessário"
+   ],
+   "correta": 0,
+   "explicacao": "Não posicionar a almofada sobre o ferimento é erro; o uso em cabeça e pescoço é previsto, e apertar ou complementar com torniquete são condutas corretas.",
+   "tags": [
+    "resgate",
+    "bandagem",
+    "erros"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-061",
+   "subtema": "Bandagem — Ações corretivas",
+   "artigo": "POP 5.19.03 — Sangramento persistente",
+   "enunciado": "Persistindo o sangramento após a bandagem israelense, os policiais poderão",
+   "alternativas": [
+    "afrouxá-la para reposicionar a almofada e reaplicá-la com menor tensão",
+    "retirá-la e aplicar nova bandagem sobre o mesmo ferimento, sem almofada",
+    "apertá-la mais no tórax, cabeça ou abdômen, ou pôr torniquete acima nos membros",
+    "substituí-la por tecido improvisado que permita maior compressão local"
+   ],
+   "correta": 2,
+   "explicacao": "Podem apertar ainda mais a bandagem, no tórax, cabeça ou abdômen, ou aplicar torniquete imediatamente acima nos membros, a fim de estancar o sangramento.",
+   "tags": [
+    "resgate",
+    "bandagem",
+    "correcao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-062",
+   "subtema": "Arrasto — Riscos",
+   "artigo": "POP 5.19.04 — Sequência de ações",
+   "enunciado": "Para conduzir o policial ferido até área segura, a equipe deve atentar para riscos como",
+   "alternativas": [
+    "distância, peso do ferido, capacidade de arrasto e cobertura ao longo do trajeto",
+    "tipo sanguíneo do ferido, horário do torniquete e distância até o hospital",
+    "posto do ferido, número de agressores presos e tempo de resposta do SAMU",
+    "condição do uniforme, munição remanescente do ferido e clima no local"
+   ],
+   "correta": 0,
+   "explicacao": "A equipe avalia distância a ser coberta, peso do policial vítima, capacidade de arrasto, possibilidades de cobertura no trajeto e técnicas auxiliares de arrasto e condução.",
+   "tags": [
+    "resgate",
+    "arrasto",
+    "riscos"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-063",
+   "subtema": "Arrasto — Técnicas",
+   "artigo": "POP 5.19.04 — PM inconsciente",
+   "enunciado": "Na técnica de arrasto de policial inconsciente, o socorrista levanta o ferido pelo colete ou farda e o trava com o joelho, na posição",
+   "alternativas": [
+    "torre",
+    "cadeira",
+    "ponte",
+    "coluna"
+   ],
+   "correta": 0,
+   "explicacao": "O ferido é levantado pelo colete ou farda e travado com o joelho na posição torre; o socorrista faz força com as pernas, e não com as costas.",
+   "tags": [
+    "resgate",
+    "arrasto",
+    "torre"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-064",
+   "subtema": "Arrasto — Técnicas",
+   "artigo": "POP 5.19.04 — Um policial",
+   "enunciado": "No arrasto de policial inconsciente por um único policial, o socorrista deverá arrastá-lo pelo colete, farda ou braço,",
+   "alternativas": [
+    "com as duas mãos no colete do ferido",
+    "com a arma no coldre abotoado",
+    "após entregar sua arma ao ferido",
+    "sempre empunhando sua arma de fogo"
+   ],
+   "correta": 3,
+   "explicacao": "Em todas as técnicas descritas, o socorrista mantém, sempre que possível, a arma empunhada; no arrasto por um policial, arrasta pelo colete, farda ou braço empunhando a arma.",
+   "tags": [
+    "resgate",
+    "arrasto",
+    "um-policial"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-065",
+   "subtema": "Arrasto — Técnicas",
+   "artigo": "POP 5.19.04 — Dois policiais",
+   "enunciado": "No arrasto com dois policiais, a divisão de funções prevê que",
+   "alternativas": [
+    "um carregue o ferido nas costas e o outro conduza suas armas",
+    "ambos arrastem o ferido, cada um segurando um dos braços",
+    "um realize o arrasto enquanto o outro permanece na cobertura",
+    "ambos permaneçam na cobertura até a chegada da unidade de resgate"
+   ],
+   "correta": 2,
+   "explicacao": "Os policiais estabelecem perímetro de segurança: enquanto um realiza o arrasto, o outro permanece na cobertura.",
+   "tags": [
+    "resgate",
+    "arrasto",
+    "dois-policiais"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-066",
+   "subtema": "Condução em viatura",
+   "artigo": "POP 5.19.04 e ICC 239 — Extrema urgência",
+   "enunciado": "O transporte do policial ferido em viatura PM ocorrerá",
+   "alternativas": [
+    "nunca, devendo a equipe aguardar a viatura do SAMU ou a Unidade de Resgate",
+    "em qualquer caso, por ser mais rápido que o acionamento da unidade de resgate",
+    "somente em extrema urgência, sem socorro adequado imediato e sem risco ao ferido",
+    "somente com autorização do COPOM, após avaliação por médico regulador"
+   ],
+   "correta": 2,
+   "explicacao": "A viatura PM é utilizada somente em extrema urgência, quando não disponível transporte de socorro adequado e imediato (UR ou SAMU), desde que não comprometa a integridade do ferido.",
+   "tags": [
+    "resgate",
+    "viatura",
+    "extrema-urgencia"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-067",
+   "subtema": "Condução em viatura",
+   "artigo": "POP 5.19.04 — Guarda-preso",
+   "enunciado": "Transportado o policial ferido em viatura, ele deve ser conduzido no banco traseiro, evitando o guarda-preso, porque",
+   "alternativas": [
+    "o banco traseiro permite manter o ferido sentado, facilitando a respiração",
+    "o guarda-preso impede o acesso da equipe ao torniquete durante o deslocamento",
+    "o guarda-preso expõe a condução inadequada e degradante e a contaminação infecciosa",
+    "o banco traseiro dispensa o uso do cinto de segurança pelo ferido"
+   ],
+   "correta": 2,
+   "explicacao": "O banco traseiro evita o uso do guarda-preso, cuja utilização é condução inadequada e degradante e pode gerar contaminação eventualmente infecciosa.",
+   "tags": [
+    "resgate",
+    "viatura",
+    "guarda-preso"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-068",
+   "subtema": "Condução em viatura",
+   "artigo": "POP 5.19.04 — Colocação por dois PM",
+   "enunciado": "Na colocação do policial vítima na viatura por dois policiais, o socorrista deverá",
+   "alternativas": [
+    "entrar primeiro puxando o ferido, sair pelo outro lado e depois ajeitar as pernas",
+    "empurrar o ferido pelo lado de fora, deitando-o no banco traseiro de bruços",
+    "acomodar o ferido sentado no banco dianteiro, com o encosto reclinado",
+    "colocar primeiro as pernas do ferido e depois puxar o tronco pela outra porta"
+   ],
+   "correta": 0,
+   "explicacao": "O socorrista entra primeiro puxando o ferido, sai pelo outro lado e fecha a porta; depois dá a volta, coloca as pernas para dentro e fecha a porta, mantendo as vias aéreas livres.",
+   "tags": [
+    "resgate",
+    "viatura",
+    "colocacao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-069",
+   "subtema": "Condução em viatura",
+   "artigo": "POP 5.19.04 — Três policiais",
+   "enunciado": "Sendo a equipe composta por três policiais, na colocação do ferido na viatura, o segundo policial",
+   "alternativas": [
+    "conduz a viatura, mantendo o motor ligado para saída imediata",
+    "fica na segurança e, se o local estiver seguro, auxilia a colocação",
+    "acompanha o ferido no banco traseiro, observando o torniquete",
+    "comunica o COPOM, sem participar da colocação do ferido"
+   ],
+   "correta": 1,
+   "explicacao": "Com três policiais, o 2º policial permanece na segurança da equipe e, se o local estiver seguro, auxilia na colocação do policial vítima na viatura.",
+   "tags": [
+    "resgate",
+    "viatura",
+    "tres-policiais"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-070",
+   "subtema": "Condução em viatura",
+   "artigo": "POP 5.19.04 — Ausência de viatura",
+   "enunciado": "Não dispondo os policiais de viatura operacional ou de resgate no momento crítico, deverão",
+   "alternativas": [
+    "solicitar ao ferido que se desloque a pé até a unidade de saúde mais próxima",
+    "aguardar a chegada de viatura, vedado o uso de veículos particulares",
+    "requisitar veículos civis com base no poder de polícia para o transporte ao hospital",
+    "acionar a Polícia Civil para requisição formal de veículo ao proprietário"
+   ],
+   "correta": 2,
+   "explicacao": "Sem viatura, os policiais atêm-se ao poder de polícia e requisitam veículos civis para transportar o ferido ao hospital com maior capacidade de atendimento.",
+   "tags": [
+    "resgate",
+    "viatura",
+    "requisicao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-071",
+   "subtema": "ICC 239 — Etapas",
+   "artigo": "ICC 239 — Três etapas",
+   "enunciado": "Segundo a ICC 239, as três etapas do resgate tático do PM ferido são",
+   "alternativas": [
+    "isolamento, triagem e transporte hospitalar",
+    "aproximação, atendimento e retirada com socorro",
+    "contenção, estabilização e comunicação ao COPOM",
+    "avaliação, reanimação e condução ao hospital"
+   ],
+   "correta": 1,
+   "explicacao": "A ICC 239 estrutura o resgate em aproximação ao PM ferido, atendimento ao PM ferido e retirada do local de risco ou zona quente com socorro.",
+   "tags": [
+    "resgate",
+    "icc239",
+    "etapas"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-072",
+   "subtema": "ICC 239 — Caso",
+   "artigo": "ICC 239 — CAO 2020",
+   "enunciado": "Em ambiente hostil, policial apresenta sangramento de alto fluxo em membro inferior. À luz da ICC 239, é correto afirmar que",
+   "alternativas": [
+    "nunca se socorre em viatura PM, usando-se apenas a bandagem israelense, vedado o CAT",
+    "deve-se aplicar o CAT e liberar a pressão a cada cinco minutos até a chegada do socorro",
+    "pode-se usar o CAT como último recurso e, fora de extrema urgência, providenciar SAMU ou UR",
+    "usa-se a bandagem israelense como último recurso e socorre-se de imediato em viatura PM"
+   ],
+   "correta": 2,
+   "explicacao": "Com alto fluxo, o CAT pode ser usado como último recurso; não sendo extrema urgência, providencia-se o transporte adequado e imediato (SAMU ou UR), conforme gabarito da questão do CAO 2020.",
+   "tags": [
+    "resgate",
+    "icc239",
+    "cao2020"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-073",
+   "subtema": "ICC 239 — Deslocamento",
+   "artigo": "ICC 239 — ICC 233",
+   "enunciado": "No deslocamento de socorro ao PM ferido, a ICC 239 remete à ICC 233, determinando",
+   "alternativas": [
+    "transmitir ao COPOM o quadro clínico e pedir orientação sobre o local de socorro",
+    "comunicar à Corregedoria o fato para instauração imediata de procedimento apuratório",
+    "acionar a imprensa institucional para divulgação do atendimento prestado ao policial",
+    "registrar o fato em BOe antes do início do deslocamento ao hospital de referência"
+   ],
+   "correta": 0,
+   "explicacao": "A equipe atenta à ICC 233, Providências em ocorrências com PM ferido, transmitindo ao COPOM o quadro clínico e solicitando orientação sobre o local de socorro; na ausência de determinação, deve conhecer os locais adequados.",
+   "tags": [
+    "resgate",
+    "icc239",
+    "icc233"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-074",
+   "subtema": "Cinto — Atividades críticas",
+   "artigo": "POP 5.17.01 — Atividades críticas",
+   "enunciado": "Figura entre as atividades críticas do POP de ativação e desativação do cinto de segurança",
+   "alternativas": [
+    "a ativação do cinto com o cuidado de não acionar a trava do retrator",
+    "a verificação do funcionamento do airbag antes do início do patrulhamento",
+    "a regulagem do encosto de cabeça conforme a estatura do encarregado",
+    "a inspeção da fivela de ancoragem pelo comandante de grupo de patrulha"
+   ],
+   "correta": 0,
+   "explicacao": "São atividades críticas a ergonomia veicular, a ativação sem acionar a trava do retrator, a regulagem da altura do cinto, a ativação com atenção à área de segurança e a desativação rápida e eficiente.",
+   "tags": [
+    "cinto",
+    "atividades-criticas"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-075",
+   "subtema": "Cinto — Conceitos",
+   "artigo": "POP 5.17.01 — Ergonomia veicular",
+   "enunciado": "No processo de uso do cinto de segurança, a expressão ergonomia veicular designa",
+   "alternativas": [
+    "a técnica de desembarque rápido da viatura com o cinto de segurança já desativado",
+    "a disposição dos equipamentos policiais no porta-malas para acesso rápido em ocorrências",
+    "o ajuste dos acessórios e do compartimento da viatura às compleições físicas dos ocupantes",
+    "a distribuição dos policiais nos assentos da viatura conforme a função de cada um"
+   ],
+   "correta": 2,
+   "explicacao": "Ergonomia veicular é o ajuste e a adequação dos acessórios e da dimensão do compartimento às estruturas e compleições físicas dos ocupantes, proporcionando conforto e aplicação técnico-segura dos procedimentos.",
+   "tags": [
+    "cinto",
+    "ergonomia"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-076",
+   "subtema": "Cinto — Conceitos",
+   "artigo": "POP 5.17.01 — Retrator",
+   "enunciado": "No processo de uso do cinto de segurança, retrator é",
+   "alternativas": [
+    "o regulador de altura da faixa torácica fixado na coluna da porta",
+    "a peça de ancoragem localizada na lateral do assento onde se fixa a fivela",
+    "o botão de soltura rápida da fivela acionado na desativação do cinto",
+    "o dispositivo de enrolamento que aloja parcial ou totalmente o cadarço do cinto"
+   ],
+   "correta": 3,
+   "explicacao": "Retrator é o dispositivo de enrolamento destinado a alojar parcial ou totalmente o cadarço do cinto; a ativação é a colocação da fivela na trava de ancoragem.",
+   "tags": [
+    "cinto",
+    "retrator"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-077",
+   "subtema": "Cinto — Conceitos",
+   "artigo": "POP 5.17.01 — Ativação e desativação",
+   "enunciado": "Segundo o POP, ativação e desativação do cinto correspondem, respectivamente, à",
+   "alternativas": [
+    "regulagem da faixa torácica e à liberação do travamento por indução",
+    "extensão do cadarço até o limite do retrator e ao seu recolhimento integral",
+    "colocação intuitiva da fivela na trava de ancoragem e à sua soltura rápida",
+    "fixação da faixa abdominal e à abertura da porta para o semidesembarque"
+   ],
+   "correta": 2,
+   "explicacao": "Ativação é a colocação intuitiva da fivela na trava de ancoragem; desativação é a soltura rápida da fivela dessa trava.",
+   "tags": [
+    "cinto",
+    "conceitos"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-078",
+   "subtema": "Cinto — Sequência",
+   "artigo": "POP 5.17.01 — COP",
+   "enunciado": "Antes da ergonomia veicular, a sequência de ações do POP do cinto determina verificar",
+   "alternativas": [
+    "o funcionamento do retrator, puxando o cadarço bruscamente até o travamento",
+    "o posicionamento da COP, para não prejudicar a passagem da faixa superior do cinto",
+    "o acondicionamento do armamento longo no suporte do painel da viatura",
+    "a posição do rádio portátil, que deve ficar sob a faixa abdominal do cinto"
+   ],
+   "correta": 1,
+   "explicacao": "O primeiro passo é verificar o posicionamento da COP, conforme o POP 5.16.01, de modo a não prejudicar a passagem da faixa superior do cinto; em seguida realiza-se a ergonomia veicular.",
+   "tags": [
+    "cinto",
+    "sequencia",
+    "cop"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-079",
+   "subtema": "Cinto — Ajuste",
+   "artigo": "POP 5.17.01 — Faixa torácica",
+   "enunciado": "Após fixado o cinto, a faixa superior da parte torácica deve ficar",
+   "alternativas": [
+    "sobre o ombro, alinhada verticalmente com a coluna da porta da viatura",
+    "sobre o pescoço, formando ângulo aproximado de 90º com a coluna da porta",
+    "abaixo do ombro, formando ângulo aproximado de 30º com o encosto do banco",
+    "entre o pescoço e o ombro, formando ângulo aproximado de 45º com a coluna da porta"
+   ],
+   "correta": 3,
+   "explicacao": "A faixa torácica é posicionada na região entre o pescoço e o ombro, formando ângulo aproximado de 45º com a coluna da respectiva porta, observada a compleição física e o ponto de regulagem do retrator.",
+   "tags": [
+    "cinto",
+    "ajuste",
+    "faixa-toracica"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-080",
+   "subtema": "Cinto — Ajuste",
+   "artigo": "POP 5.17.01 — Cinturão",
+   "enunciado": "Quanto ao cinturão e seus complementos, como coldre e porta-algemas, o cinto de segurança deve ficar",
+   "alternativas": [
+    "por baixo do cinturão, afastado do coldre",
+    "por baixo do cinturão, junto ao corpo do policial",
+    "por cima do cinturão, mas por baixo do coldre",
+    "por cima do cinturão e de seus complementos"
+   ],
+   "correta": 3,
+   "explicacao": "O cinto deve ficar por cima do cinturão e de seus complementos; prendê-lo ou enroscá-lo no cinturão, coldre ou porta-algemas é possibilidade de erro.",
+   "tags": [
+    "cinto",
+    "ajuste",
+    "cinturao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-081",
+   "subtema": "Cinto — Erros",
+   "artigo": "POP 5.17.01 — Mão",
+   "enunciado": "Constitui possibilidade de erro realizar o acionamento do cinto sem manter",
+   "alternativas": [
+    "o braço flexionado junto ao corpo para evitar o travamento do retrator",
+    "a mão fechada sobre a fivela até o completo recolhimento do cadarço",
+    "a outra mão apoiada no volante durante toda a ativação do cinto",
+    "a palma da mão estendida voltada para o corpo e os dedos unidos e estendidos"
+   ],
+   "correta": 3,
+   "explicacao": "É erro acionar o cinto sem a palma da mão estendida voltada para o corpo e com dedos unidos e estendidos.",
+   "tags": [
+    "cinto",
+    "erros",
+    "mao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-082",
+   "subtema": "Cinto — Erros",
+   "artigo": "POP 5.17.01 — Objetos",
+   "enunciado": "Entre as possibilidades de erro do POP do cinto de segurança está",
+   "alternativas": [
+    "guardar objetos como pranchetas ou rádios onde dificultem ativar o cinto",
+    "realizar a ergonomia veicular antes de iniciar o deslocamento da viatura",
+    "ajustar a faixa abdominal com o auxílio da mão oposta à da ativação",
+    "fixar a fivela na trava de ancoragem localizada na lateral do assento"
+   ],
+   "correta": 0,
+   "explicacao": "Acondicionar objetos em locais que dificultem ou impeçam a ativação e desativação adequadas é erro; as demais condutas integram a sequência correta.",
+   "tags": [
+    "cinto",
+    "erros",
+    "objetos"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-083",
+   "subtema": "Cinto — Erros",
+   "artigo": "POP 5.17.01 — Retrator",
+   "enunciado": "Ativar bruscamente o cinto de segurança constitui possibilidade de erro porque",
+   "alternativas": [
+    "danifica a fivela de ancoragem",
+    "aciona a trava do retrator",
+    "desregula a altura da faixa",
+    "solta o cadarço do retrator"
+   ],
+   "correta": 1,
+   "explicacao": "A ativação brusca aciona a trava do retrator; por isso a fivela deve ser levada à frente de modo suave, evitando o travamento.",
+   "tags": [
+    "cinto",
+    "erros",
+    "retrator"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-084",
+   "subtema": "Cinto — Ações corretivas",
+   "artigo": "POP 5.17.01 — Travamento",
+   "enunciado": "Havendo travamento do retrator ao acionar o cinto de segurança, a ação corretiva determina",
+   "alternativas": [
+    "prosseguir sem o cinto, registrando no RSO",
+    "forçar o cadarço até vencer o travamento",
+    "providenciar a manutenção imediata do cinto",
+    "soltá-lo a fim de refazer o procedimento"
+   ],
+   "correta": 3,
+   "explicacao": "Com o travamento do retrator, solta-se o cinto para refazer o procedimento; a manutenção é providência para o cinto que apresente defeito.",
+   "tags": [
+    "cinto",
+    "acoes-corretivas",
+    "travamento"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-085",
+   "subtema": "Cinto — Ações corretivas",
+   "artigo": "POP 5.17.01 — Extensão insuficiente",
+   "enunciado": "Não sendo a extensão do cinto suficiente para a fixação, a ação corretiva orienta",
+   "alternativas": [
+    "retirar o colete de proteção para reduzir o volume do tronco",
+    "estender a mão mais à frente, utilizando a outra mão para auxiliar",
+    "fixar o cinto apenas na faixa abdominal, dispensada a torácica",
+    "substituir o cinto por outro assento com cadarço mais longo"
+   ],
+   "correta": 1,
+   "explicacao": "Se a extensão não for suficiente, o policial estende a mão mais à frente, conforme a situação, usando a outra mão para auxiliar.",
+   "tags": [
+    "cinto",
+    "acoes-corretivas",
+    "extensao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-086",
+   "subtema": "Cinto — Ações corretivas",
+   "artigo": "POP 5.17.01 — Quinto homem",
+   "enunciado": "Havendo o emprego do quinto homem na viatura, quanto ao cinto de segurança, o POP determina que",
+   "alternativas": [
+    "adote o mesmo procedimento do terceiro homem, independentemente do equipamento",
+    "fique dispensado do uso do cinto, por ocupar assento sem trava de ancoragem",
+    "adapte a ativação e a desativação conforme a especificação do equipamento utilizado",
+    "utilize o cinto apenas em deslocamentos de emergência com sinais acionados"
+   ],
+   "correta": 2,
+   "explicacao": "O quinto homem deve adaptar a ativação e a desativação do cinto de acordo com a especificação do equipamento utilizado.",
+   "tags": [
+    "cinto",
+    "acoes-corretivas",
+    "quinto-homem"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-087",
+   "subtema": "Cinto — Resultados",
+   "artigo": "POP 5.17.01 — Resultados esperados",
+   "enunciado": "É resultado esperado do POP do cinto de segurança que a ativação e a desativação sejam realizadas",
+   "alternativas": [
+    "sempre pelo encarregado, que confere os demais ocupantes",
+    "somente com a viatura parada e o motor desligado",
+    "mantendo a atenção para o ambiente externo à viatura",
+    "com a porta entreaberta, para agilizar o desembarque"
+   ],
+   "correta": 2,
+   "explicacao": "Espera-se que a ativação e a desativação ocorram sem acionar o retrator, mantendo a atenção ao ambiente externo e com rapidez e eficiência, inclusive no semidesembarque e desembarque de emergência.",
+   "tags": [
+    "cinto",
+    "resultados"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-088",
+   "subtema": "ICC 301 — Obrigatoriedade",
+   "artigo": "ICC 301 — Uso obrigatório",
+   "enunciado": "Quanto ao uso do cinto de segurança em viaturas da PMESP, a ICC 301 esclarece que",
+   "alternativas": [
+    "é obrigatório apenas ao condutor, dispensados os demais ocupantes da viatura",
+    "é facultativo em patrulhamento, para não prejudicar a pronta reação do policial",
+    "é obrigatório, pois o CTB o impõe em todo o território e não isenta o policial",
+    "é dispensado em deslocamentos de emergência com dispositivos sonoros acionados"
+   ],
+   "correta": 2,
+   "explicacao": "O uso na PMESP é obrigatório: o CTB prevê a obrigatoriedade em todo o território nacional, sem isenção legal para o policial militar.",
+   "tags": [
+    "cinto",
+    "icc301",
+    "obrigatoriedade"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-089",
+   "subtema": "ICC 301 — Finalidade",
+   "artigo": "ICC 301 — Função principal",
+   "enunciado": "Segundo a ICC 301, a principal função do cinto de segurança é",
+   "alternativas": [
+    "impedir a fuga do preso conduzido no banco traseiro da viatura",
+    "manter o policial na posição correta de tiro embarcado durante o patrulhamento",
+    "reduzir o cansaço do motorista em viagens longas e deslocamentos noturnos",
+    "evitar que os ocupantes sejam projetados contra partes fixas ou arremessados para fora"
+   ],
+   "correta": 3,
+   "explicacao": "A principal função é evitar que os ocupantes sejam projetados contra as partes fixas do veículo ou arremessados para fora; a firmeza e a redução do cansaço são benefícios acessórios.",
+   "tags": [
+    "cinto",
+    "icc301",
+    "funcao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-090",
+   "subtema": "ICC 301 — Resistência",
+   "artigo": "ICC 301 — Principal resistência",
+   "enunciado": "A principal resistência dos policiais ao uso do cinto em viaturas, apontada pela ICC 301, é o receio de",
+   "alternativas": [
+    "sofrer lesões no tórax causadas pelo cinto em frenagens bruscas da viatura",
+    "perder tempo para reagir a injusta agressão ou dar vantagem ao infrator em fuga",
+    "danificar o uniforme e os equipamentos presos ao cinturão de guarnição",
+    "ficar preso ao veículo em caso de incêndio ou submersão da viatura"
+   ],
+   "correta": 1,
+   "explicacao": "A resistência é o receio de perder tempo para reação imediata a injusta agressão ou de dar ao delinquente oportunidade de ganhar distância em fuga, ideia que a ICC qualifica como falsa.",
+   "tags": [
+    "cinto",
+    "icc301",
+    "resistencia"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-091",
+   "subtema": "ICC 301 — Dados",
+   "artigo": "ICC 301 — Sobrevivência",
+   "enunciado": "Segundo a ICC 301, com o uso do cinto de segurança, a probabilidade de sobreviver a um acidente de trânsito é",
+   "alternativas": [
+    "três vezes maior",
+    "duas vezes maior",
+    "cinco vezes maior",
+    "dez vezes maior"
+   ],
+   "correta": 2,
+   "explicacao": "A ICC informa que a probabilidade de sobreviver é cinco vezes maior se o ocupante utilizar o cinto de segurança.",
+   "tags": [
+    "cinto",
+    "icc301",
+    "sobrevivencia"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-092",
+   "subtema": "ICC 301 — Dados",
+   "artigo": "ICC 301 — Colisão",
+   "enunciado": "Numa colisão a 20 km/h, segundo a ICC 301, o corpo é arremessado contra volante e para-brisa com força equivalente a",
+   "alternativas": [
+    "dez vezes o próprio peso",
+    "duas vezes o próprio peso",
+    "seis vezes o próprio peso",
+    "vinte vezes o próprio peso"
+   ],
+   "correta": 2,
+   "explicacao": "A força equivale a seis vezes o peso do corpo; com para-brisa blindado, o impacto equivale a ser arremessado contra uma parede, por não haver absorção pelo vidro.",
+   "tags": [
+    "cinto",
+    "icc301",
+    "colisao"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-093",
+   "subtema": "ICC 301 — Mitos",
+   "artigo": "ICC 301 — Retirada do acidentado",
+   "enunciado": "Quanto à retirada do acidentado do veículo, a ICC 301 sustenta que o que mais a dificulta são",
+   "alternativas": [
+    "as ferragens retorcidas, pois o fecho do cinto é acionado com extrema facilidade",
+    "os cintos travados pelo retrator, que exigem corte do cadarço pelos bombeiros",
+    "os equipamentos presos ao cinturão, que se enroscam no cadarço do cinto",
+    "as portas travadas pelo impacto, que impedem o acesso à fivela do cinto"
+   ],
+   "correta": 0,
+   "explicacao": "A ICC afirma que o que mais dificulta a retirada são as ferragens retorcidas, e não o cinto, cujo fecho é acionado com extrema facilidade.",
+   "tags": [
+    "cinto",
+    "icc301",
+    "mitos"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-094",
+   "subtema": "ICC 301 — Dados",
+   "artigo": "ICC 301 — Mausoléu",
+   "enunciado": "A ICC 301 destaca, com base em dados da Corregedoria, que dos policiais militares sepultados no Mausoléu da PM foram vitimados por acidente de trânsito",
+   "alternativas": [
+    "sessenta por cento",
+    "vinte por cento",
+    "quarenta por cento",
+    "oitenta por cento"
+   ],
+   "correta": 0,
+   "explicacao": "A ICC registra que sessenta por cento dos policiais militares sepultados no Mausoléu da PM foram vitimados por acidente de trânsito.",
+   "tags": [
+    "cinto",
+    "icc301",
+    "mausoleu"
+   ]
+  },
+  {
+   "id": "cintoresgate-elab-095",
+   "subtema": "ICC 301 — Consequências",
+   "artigo": "ICC 301 — Viatura desativada",
+   "enunciado": "Ao tratar das consequências dos acidentes, a ICC 301 lembra que uma viatura desativada por qualquer motivo significa",
+   "alternativas": [
+    "responsabilização disciplinar automática do condutor da viatura",
+    "dificuldade ou atraso no socorro a um companheiro em ocorrência grave",
+    "redução imediata do efetivo disponível na companhia territorial",
+    "suspensão do programa de policiamento no setor atendido"
+   ],
+   "correta": 1,
+   "explicacao": "A ICC observa que uma viatura desativada significa dificuldades ou atraso no socorro a um companheiro em ocorrência de gravidade.",
+   "tags": [
+    "cinto",
+    "icc301",
+    "consequencias"
+   ]
+  }
+ ]
+}
