@@ -1,6 +1,6 @@
 {
   "version": "3.1.0",
-  "lastUpdated": "2026-09-13",
+  "lastUpdated": "2026-09-14",
   "materias": [
     {
       "id": "rdpm",
@@ -264,6 +264,17 @@
       "cor": "#6b3d2f",
       "ativo": true,
       "ordem": 24,
+      "origem": "elaborada"
+    },
+    {
+      "id": "lei18442-elab",
+      "nome": "Lei 18.442/26 — efetivo e carreira",
+      "nomeCompleto": "Lei Estadual nº 18.442/26 — efetivo, regime jurídico, Quadros e regras gerais de promoção dos militares do Estado (102 questões)",
+      "norma": "Lei Estadual 18.442/26",
+      "arquivo": "data/lei18442-elab.json",
+      "cor": "#2f4a8a",
+      "ativo": true,
+      "ordem": 25,
       "origem": "elaborada"
     },
     {

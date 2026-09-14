@@ -1,0 +1,1975 @@
+{
+ "materia": "lei18442-elab",
+ "versao": "1.5.0",
+ "atualizadoEm": "2026-09-14",
+ "origem": "Questões redigidas a partir dos slides do curso e da norma vigente",
+ "subtemas": [
+  "Antiguidade e interstício",
+  "Cargos privativos",
+  "Comando",
+  "Condição transitória",
+  "Delegação",
+  "Disposições gerais",
+  "Disposições transitórias",
+  "Distribuição do efetivo",
+  "Efetivo",
+  "Escalonamento",
+  "Exclusão da relação",
+  "Hierarquia",
+  "LONPMCBM",
+  "Limites do efetivo",
+  "Merecimento",
+  "Natureza da PM",
+  "Nomenclatura dos Quadros",
+  "Promoção QOE/QOM",
+  "Promoção — QOE e QOM",
+  "Promoção — QOEM",
+  "Promoção — QOS",
+  "Promoção — Quadro de Praças",
+  "Promoção — Regra geral",
+  "Promoção — Subtenente",
+  "Quadros",
+  "Requisitos",
+  "Retroação",
+  "Síntese de competências",
+  "Síntese de datas",
+  "Turma do QOEM",
+  "Vagas",
+  "Vedação à promoção"
+ ],
+ "questoes": [
+  {
+   "id": "lei18442-elab-001",
+   "subtema": "Nomenclatura dos Quadros",
+   "artigo": "Lei 18.442/26 — Nova nomenclatura",
+   "enunciado": "Com a Lei nº 18.442/26, os Oficiais do antigo Quadro de Oficiais Policiais Militares (QOPM) passaram a integrar o",
+   "alternativas": [
+    "Quadro de Oficiais Especialistas (QOE)",
+    "Quadro de Oficiais de Estado-Maior (QOEM)",
+    "Quadro de Oficiais de Comando (QOC)",
+    "Quadro de Oficiais Combatentes (QOCB)"
+   ],
+   "correta": 1,
+   "explicacao": "O QOPM passou a QOEM; o QAOPM passou a QOE; e o QPPM passou a QP. Trocar QOEM por QOE é a pegadinha mais comum.",
+   "tags": [
+    "lei18442",
+    "nomenclatura",
+    "qoem"
+   ]
+  },
+  {
+   "id": "lei18442-elab-002",
+   "subtema": "Nomenclatura dos Quadros",
+   "artigo": "Lei 18.442/26 — Nova nomenclatura",
+   "enunciado": "Os Oficiais do antigo Quadro Auxiliar de Oficiais da Polícia Militar (QAOPM) passaram a integrar, com a Lei nº 18.442/26, o",
+   "alternativas": [
+    "Quadro de Oficiais Especialistas (QOE)",
+    "Quadro de Oficiais de Estado-Maior (QOEM)",
+    "Quadro de Oficiais Auxiliares (QOA)",
+    "Quadro de Oficiais Técnicos (QOT)"
+   ],
+   "correta": 0,
+   "explicacao": "O QAOPM, formado por oficiais oriundos das praças, passou a denominar-se Quadro de Oficiais Especialistas (QOE).",
+   "tags": [
+    "lei18442",
+    "nomenclatura",
+    "qoe"
+   ]
+  },
+  {
+   "id": "lei18442-elab-003",
+   "subtema": "Nomenclatura dos Quadros",
+   "artigo": "CESP/89, art. 141, § 1º — Releitura",
+   "enunciado": "Após a Lei nº 18.442/26, o art. 141, § 1º, da Constituição Estadual deve ser lido no sentido de que o Comandante-Geral será nomeado pelo Governador dentre oficiais da ativa",
+   "alternativas": [
+    "ocupantes do último posto do Quadro de Oficiais de Estado-Maior",
+    "ocupantes do último posto do Quadro de Oficiais Policiais Militares",
+    "ocupantes do último posto de qualquer Quadro de Oficiais da PM",
+    "ocupantes dos dois últimos postos do Quadro de Oficiais de Estado-Maior"
+   ],
+   "correta": 0,
+   "explicacao": "Onde se lia último posto do QOPM, leia-se último posto do QOEM, mantida a declaração pública de bens na posse e na exoneração.",
+   "tags": [
+    "lei18442",
+    "cesp",
+    "comandante-geral"
+   ]
+  },
+  {
+   "id": "lei18442-elab-004",
+   "subtema": "Disposições gerais",
+   "artigo": "Lei 18.442/26 — Arts. 18 e 20",
+   "enunciado": "Quanto aos postos e graduações não previstos na Lei nº 18.442/26, a lei determina que",
+   "alternativas": [
+    "são mantidos por dez anos",
+    "ficam extintos de imediato",
+    "ficam extintos na vacância",
+    "são transformados em Quadro próprio"
+   ],
+   "correta": 2,
+   "explicacao": "O art. 20 extingue, na vacância, os postos e graduações não previstos; o art. 18 atribui ao Comandante-Geral disciplinar a organização dos Quadros e das relações de acesso.",
+   "tags": [
+    "lei18442",
+    "extincao"
+   ]
+  },
+  {
+   "id": "lei18442-elab-005",
+   "subtema": "Disposições gerais",
+   "artigo": "Lei 18.442/26 — Art. 18",
+   "enunciado": "As demais providências necessárias à organização dos Quadros e das relações de acesso de que trata a Lei nº 18.442/26 serão disciplinadas",
+   "alternativas": [
+    "por decreto do Governador do Estado",
+    "pelo Comandante-Geral da Polícia Militar",
+    "pelo Secretário da Segurança Pública",
+    "pela Comissão de Promoções de Oficiais"
+   ],
+   "correta": 1,
+   "explicacao": "O art. 18 comete ao Comandante-Geral PM disciplinar as demais providências para a organização dos Quadros e das relações de acesso.",
+   "tags": [
+    "lei18442",
+    "comandante-geral"
+   ]
+  },
+  {
+   "id": "lei18442-elab-006",
+   "subtema": "Natureza da PM",
+   "artigo": "Lei 18.442/26 — Sistemas integrados",
+   "enunciado": "Segundo a Lei nº 18.442/26, a Polícia Militar, força auxiliar e reserva do Exército, integra",
+   "alternativas": [
+    "o SUSP e os Sistemas Nacionais de Meio Ambiente, Trânsito e Proteção e Defesa Civil",
+    "o SUSP, o Sistema Brasileiro de Inteligência e o Sistema Nacional de Trânsito",
+    "o SUSP e os Sistemas Nacionais de Políticas sobre Drogas e de Defesa Civil",
+    "o Sistema Nacional do Meio Ambiente, o Sistema Prisional e o SUSP"
+   ],
+   "correta": 0,
+   "explicacao": "A lei menciona quatro sistemas: Sistema Único de Segurança Pública, Sistema Nacional do Meio Ambiente, Sistema Nacional de Trânsito e Sistema Nacional de Proteção e Defesa Civil.",
+   "tags": [
+    "lei18442",
+    "natureza",
+    "sistemas"
+   ]
+  },
+  {
+   "id": "lei18442-elab-007",
+   "subtema": "Natureza da PM",
+   "artigo": "Lei 18.442/26 — Atributos",
+   "enunciado": "A Lei nº 18.442/26 qualifica a Polícia Militar como instituição",
+   "alternativas": [
+    "temporária, típica de Estado, auxiliar do Poder Judiciário e indispensável à segurança pública",
+    "permanente, típica de Estado, essencial à Justiça Militar e indispensável à polícia ostensiva",
+    "permanente, subordinada ao Exército, essencial à Justiça comum e à polícia judiciária",
+    "permanente, típica de governo, essencial à defesa nacional e à preservação da ordem"
+   ],
+   "correta": 1,
+   "explicacao": "É instituição permanente, típica de Estado, essencial à Justiça Militar e indispensável à atividade de polícia ostensiva e de preservação da ordem pública.",
+   "tags": [
+    "lei18442",
+    "natureza",
+    "atributos"
+   ]
+  },
+  {
+   "id": "lei18442-elab-008",
+   "subtema": "Natureza da PM",
+   "artigo": "Lei 18.442/26 — Incumbências",
+   "enunciado": "Entre as incumbências atribuídas à Polícia Militar pela Lei nº 18.442/26 está",
+   "alternativas": [
+    "a apuração das infrações penais comuns",
+    "a salvaguarda do regime democrático de direito",
+    "a execução das penas privativas de liberdade",
+    "a defesa das fronteiras terrestres do Estado"
+   ],
+   "correta": 1,
+   "explicacao": "A PM é incumbida da proteção dos direitos fundamentais, da incolumidade pública e da salvaguarda do regime democrático de direito, além da defesa civil e do combate a incêndios.",
+   "tags": [
+    "lei18442",
+    "natureza",
+    "incumbencias"
+   ]
+  },
+  {
+   "id": "lei18442-elab-009",
+   "subtema": "Comando",
+   "artigo": "Lei 18.442/26 — Comando da PM",
+   "enunciado": "Segundo a Lei nº 18.442/26, a Polícia Militar é comandada exclusivamente por Oficial PM",
+   "alternativas": [
+    "da ativa, de qualquer Quadro, no posto de Coronel",
+    "da ativa ou da reserva, do último posto do QOEM",
+    "da ativa, de carreira e do último posto do QOEM",
+    "de carreira, com curso superior de polícia, do QOEM"
+   ],
+   "correta": 2,
+   "explicacao": "O comando é exclusivo de Oficial PM da ativa, de carreira e do último posto do Quadro de Oficiais de Estado-Maior.",
+   "tags": [
+    "lei18442",
+    "comando"
+   ]
+  },
+  {
+   "id": "lei18442-elab-010",
+   "subtema": "Cargos privativos",
+   "artigo": "Lei 18.442/26 — Cargos em comissão",
+   "enunciado": "Os cargos de Secretário-Chefe da Casa Militar, Comandante-Geral e Subcomandante da PM são",
+   "alternativas": [
+    "de livre nomeação, podendo recair sobre oficiais da reserva do QOEM",
+    "de provimento efetivo, exercidos por oficiais da ativa do último posto do QOEM",
+    "de provimento em comissão, exercidos por oficiais da ativa de qualquer Quadro",
+    "de provimento em comissão, exercidos por oficiais da ativa do último posto do QOEM"
+   ],
+   "correta": 3,
+   "explicacao": "Os três cargos são de provimento em comissão e exercidos por Oficiais PM do serviço ativo ocupantes do último posto do QOEM.",
+   "tags": [
+    "lei18442",
+    "cargos",
+    "comissao"
+   ]
+  },
+  {
+   "id": "lei18442-elab-011",
+   "subtema": "Efetivo",
+   "artigo": "Lei 18.442/26 — Art. 3º, composição",
+   "enunciado": "O efetivo da Polícia Militar, nos termos do art. 3º da Lei nº 18.442/26, é composto pelos",
+   "alternativas": [
+    "militares do Estado de carreira e alunos dos cursos de formação",
+    "militares do Estado da ativa e da reserva remunerada",
+    "militares do Estado de carreira e temporários em serviço",
+    "militares do Estado de carreira, nos termos do art. 42 da CF/88"
+   ],
+   "correta": 3,
+   "explicacao": "O efetivo é composto pelos militares do Estado de carreira, nos termos do art. 42 da CF/88; temporários, alunos e revertidos não entram nos limites.",
+   "tags": [
+    "lei18442",
+    "efetivo",
+    "composicao"
+   ]
+  },
+  {
+   "id": "lei18442-elab-012",
+   "subtema": "Efetivo",
+   "artigo": "Lei 18.442/26 — Art. 3º, critérios",
+   "enunciado": "Para a definição do efetivo, a Lei nº 18.442/26 considera, entre outros critérios,",
+   "alternativas": [
+    "riscos de desastres, número de rodovias, IDH e quantidade de eventos públicos",
+    "número de municípios, frota de veículos, PIB estadual e índices de criminalidade",
+    "extensão territorial, número de presídios, população e arrecadação tributária",
+    "extensão territorial, riscos de desastres, IDH, população e índices de criminalidade"
+   ],
+   "correta": 3,
+   "explicacao": "Os critérios são território, riscos potenciais de desastres, índice de desenvolvimento humano, população, condições socioeconômicas e índices de criminalidade (T-D-H + P-I-S).",
+   "tags": [
+    "lei18442",
+    "efetivo",
+    "criterios"
+   ]
+  },
+  {
+   "id": "lei18442-elab-013",
+   "subtema": "Efetivo",
+   "artigo": "Lei 18.442/26 — Art. 3º, total",
+   "enunciado": "O efetivo da Polícia Militar é fixado pela Lei nº 18.442/26 em",
+   "alternativas": [
+    "92.803 cargos",
+    "93.208 cargos",
+    "98.302 cargos",
+    "93.802 cargos"
+   ],
+   "correta": 3,
+   "explicacao": "O total é de 93.802 cargos: 74 Coronéis, 6.229 Oficiais, 1.734 Subtenentes, 11.870 Sargentos e 73.895 Cabos e Soldados.",
+   "tags": [
+    "lei18442",
+    "efetivo",
+    "total"
+   ]
+  },
+  {
+   "id": "lei18442-elab-014",
+   "subtema": "Efetivo",
+   "artigo": "Lei 18.442/26 — Art. 3º, distribuição",
+   "enunciado": "Na distribuição do efetivo fixado pelo art. 3º, a quantidade de Coronéis PM e de Subtenentes PM é, respectivamente, de",
+   "alternativas": [
+    "84 e 1.743",
+    "47 e 1.734",
+    "74 e 1.437",
+    "74 e 1.734"
+   ],
+   "correta": 3,
+   "explicacao": "São 74 Coronéis PM e 1.734 Subtenentes PM, ao lado de 6.229 Oficiais, 11.870 Sargentos e 73.895 Cabos e Soldados.",
+   "tags": [
+    "lei18442",
+    "efetivo",
+    "numeros"
+   ]
+  },
+  {
+   "id": "lei18442-elab-015",
+   "subtema": "Efetivo",
+   "artigo": "Lei 18.442/26 — Art. 3º, oficiais",
+   "enunciado": "Quanto aos 6.229 Oficiais PM previstos no art. 3º, é correto afirmar que",
+   "alternativas": [
+    "incluem os 74 Coronéis, somando-se a eles os demais postos",
+    "não incluem os 74 Coronéis, que constam de linha própria",
+    "incluem os Aspirantes a Oficial, por serem praças especiais",
+    "correspondem apenas aos oficiais do Quadro de Estado-Maior"
+   ],
+   "correta": 1,
+   "explicacao": "Os 6.229 Oficiais correspondem a Tenentes-Coronéis, Majores, Capitães e Tenentes; os 74 Coronéis têm linha própria, e a soma de todas as linhas resulta em 93.802.",
+   "tags": [
+    "lei18442",
+    "efetivo",
+    "pegadinha"
+   ]
+  },
+  {
+   "id": "lei18442-elab-016",
+   "subtema": "Efetivo",
+   "artigo": "Lei 18.442/26 — Art. 3º, praças",
+   "enunciado": "Pelo art. 3º da Lei nº 18.442/26, os Sargentos PM e os Cabos e Soldados PM somam, respectivamente,",
+   "alternativas": [
+    "18.170 e 73.895 cargos",
+    "11.780 e 73.985 cargos",
+    "11.870 e 73.895 cargos",
+    "11.870 e 78.395 cargos"
+   ],
+   "correta": 2,
+   "explicacao": "O art. 3º prevê 11.870 Sargentos PM e 73.895 Cabos e Soldados PM.",
+   "tags": [
+    "lei18442",
+    "efetivo",
+    "pracas"
+   ]
+  },
+  {
+   "id": "lei18442-elab-017",
+   "subtema": "Distribuição do efetivo",
+   "artigo": "Lei 18.442/26 — Decreto de distribuição",
+   "enunciado": "A distribuição do efetivo nos postos e graduações será realizada",
+   "alternativas": [
+    "anualmente, por decreto do Governador, observada a disponibilidade orçamentária",
+    "anualmente, por ato do Comandante-Geral, observada a disponibilidade orçamentária",
+    "a cada dois anos, por decreto do Governador, após aprovação legislativa",
+    "a cada quatro anos, por resolução do Secretário da Segurança Pública"
+   ],
+   "correta": 0,
+   "explicacao": "A distribuição é anual, por decreto do Governador, observados os limites do art. 3º e a disponibilidade orçamentária e financeira.",
+   "tags": [
+    "lei18442",
+    "distribuicao",
+    "decreto"
+   ]
+  },
+  {
+   "id": "lei18442-elab-018",
+   "subtema": "Distribuição do efetivo",
+   "artigo": "Lei 18.442/26 — Alteração pelo Comandante-Geral",
+   "enunciado": "O quantitativo distribuído por decreto poderá ser alterado pelo Comandante-Geral PM, observados os limites do art. 3º, em até",
+   "alternativas": [
+    "dez por cento",
+    "vinte por cento",
+    "quinze por cento",
+    "vinte e cinco por cento"
+   ],
+   "correta": 1,
+   "explicacao": "A lei faculta ao Comandante-Geral alterar em até 20% o quantitativo distribuído, sempre dentro dos limites do art. 3º.",
+   "tags": [
+    "lei18442",
+    "distribuicao",
+    "vinte-por-cento"
+   ]
+  },
+  {
+   "id": "lei18442-elab-019",
+   "subtema": "Distribuição do efetivo",
+   "artigo": "Lei 18.442/26 — Momento do decreto",
+   "enunciado": "O decreto anual de distribuição do efetivo será editado",
+   "alternativas": [
+    "até trinta dias antes da primeira promoção do ano de vigência",
+    "no segundo semestre do ano antecedente ao de sua entrada em vigor",
+    "no primeiro trimestre do próprio ano de sua entrada em vigor",
+    "no primeiro semestre do ano antecedente ao de sua entrada em vigor"
+   ],
+   "correta": 3,
+   "explicacao": "O decreto é editado no 1º semestre do ano antecedente ao da sua entrada em vigor.",
+   "tags": [
+    "lei18442",
+    "distribuicao",
+    "prazo"
+   ]
+  },
+  {
+   "id": "lei18442-elab-020",
+   "subtema": "Distribuição do efetivo",
+   "artigo": "Lei 18.442/26 — Excedente",
+   "enunciado": "Sendo o número de promovidos em um posto diferente do montante distribuído em Quadro de Organização, respeitados os limites do art. 3º, o eventual excedente será considerado",
+   "alternativas": [
+    "provisório, até ajuste por ato do Comandante-Geral PM",
+    "definitivo, incorporando-se ao Quadro no exercício seguinte",
+    "irregular, devendo as promoções excedentes ser anuladas",
+    "provisório, até nova distribuição por decreto do Governador"
+   ],
+   "correta": 3,
+   "explicacao": "O excedente é provisório até que haja nova distribuição de efetivo por decreto do Governador; a alteração por ato do Comandante-Geral limita-se aos 20% do quantitativo distribuído.",
+   "tags": [
+    "lei18442",
+    "distribuicao",
+    "excedente"
+   ]
+  },
+  {
+   "id": "lei18442-elab-021",
+   "subtema": "Distribuição do efetivo",
+   "artigo": "Lei 18.442/26 — Detalhamento",
+   "enunciado": "O decreto de distribuição deve detalhar a distribuição dos Oficiais PM",
+   "alternativas": [
+    "por turmas de formação e antiguidade",
+    "por unidades operacionais do Estado",
+    "por regiões de comando de policiamento",
+    "por postos, em seus respectivos Quadros"
+   ],
+   "correta": 3,
+   "explicacao": "O decreto detalha os Oficiais por postos em seus Quadros, os Subtenentes e Sargentos em suas graduações e os Cabos e Soldados em suas graduações.",
+   "tags": [
+    "lei18442",
+    "distribuicao",
+    "detalhamento"
+   ]
+  },
+  {
+   "id": "lei18442-elab-022",
+   "subtema": "Limites do efetivo",
+   "artigo": "Lei 18.442/26 — Exclusões dos limites",
+   "enunciado": "Não são considerados nos limites do efetivo fixado pela Lei nº 18.442/26",
+   "alternativas": [
+    "os Coronéis, o Aspirante, os alunos dos cursos e o PM temporário",
+    "o Aspirante, o Subtenente em curso de habilitação e o PM agregado",
+    "o Aspirante, os alunos dos cursos, o revertido da reserva e o PM temporário",
+    "o Cadete, o Soldado em estágio probatório e o PM da reserva designado"
+   ],
+   "correta": 2,
+   "explicacao": "Ficam fora dos limites o Aspirante a Oficial; o Cadete, o Aluno-Oficial, o Aluno-Sargento e o Aluno-Soldado; o militar da reserva revertido ao serviço ativo; e o PM temporário.",
+   "tags": [
+    "lei18442",
+    "limites",
+    "exclusoes"
+   ]
+  },
+  {
+   "id": "lei18442-elab-023",
+   "subtema": "Limites do efetivo",
+   "artigo": "Lei 18.442/26 — Quantitativo de alunos",
+   "enunciado": "O quantitativo de Cadetes, Alunos-Oficiais, Alunos-Sargentos e Alunos-Soldados será regulado",
+   "alternativas": [
+    "por ato do Comandante-Geral, para suprir cargos vagos, observado o orçamento",
+    "por decreto do Governador, na mesma oportunidade da distribuição anual do efetivo",
+    "por edital da Diretoria de Ensino, conforme a capacidade das escolas de formação",
+    "por lei específica, aprovada anualmente pela Assembleia Legislativa do Estado"
+   ],
+   "correta": 0,
+   "explicacao": "O quantitativo de alunos é regulado por ato do Comandante-Geral PM, de modo a suprir os cargos vagos, observado o limite do art. 3º e a disponibilidade orçamentária e financeira.",
+   "tags": [
+    "lei18442",
+    "limites",
+    "alunos"
+   ]
+  },
+  {
+   "id": "lei18442-elab-024",
+   "subtema": "Limites do efetivo",
+   "artigo": "Lei 18.442/26 — PM temporário",
+   "enunciado": "Quanto ao policial militar temporário, a Lei nº 18.442/26 estabelece que",
+   "alternativas": [
+    "integra os limites do efetivo na linha de Cabos e Soldados PM",
+    "não integra os limites do efetivo e terá regime jurídico em legislação específica",
+    "não integra os limites do efetivo e segue o mesmo regime dos militares de carreira",
+    "integra os limites do efetivo até completar cinco anos de serviço"
+   ],
+   "correta": 1,
+   "explicacao": "O PM temporário não é considerado nos limites do efetivo e terá seu regime jurídico disciplinado em legislação específica.",
+   "tags": [
+    "lei18442",
+    "limites",
+    "temporario"
+   ]
+  },
+  {
+   "id": "lei18442-elab-025",
+   "subtema": "Vagas",
+   "artigo": "Lei 18.442/26 — Vagas fixas e cambiáveis",
+   "enunciado": "Segundo a leitura do art. 3º apresentada no material, as vagas fixas, não cambiáveis, correspondem às de",
+   "alternativas": [
+    "Coronéis PM e Capitães PM",
+    "Coronéis PM e Subtenentes PM",
+    "Tenentes-Coronéis PM e Sargentos PM",
+    "Subtenentes PM e Cabos PM"
+   ],
+   "correta": 1,
+   "explicacao": "Coronéis e Subtenentes têm quantidade fixa; as vagas dos demais oficiais são cambiáveis, inclusive entre Quadros, assim como as de Sargentos e as de Cabos e Soldados.",
+   "tags": [
+    "lei18442",
+    "vagas",
+    "fixas"
+   ]
+  },
+  {
+   "id": "lei18442-elab-026",
+   "subtema": "Vagas",
+   "artigo": "Lei 18.442/26 — Promoção por turma",
+   "enunciado": "Para garantir a promoção de uma turma inteira de oficiais do QOEM, o material aponta que o decreto anual pode",
+   "alternativas": [
+    "retirar vagas de Coronel e aumentar as de Tenente-Coronel, conforme a turma",
+    "retirar vagas de Capitão e aumentar as de Major, adequando-as ao tamanho da turma",
+    "criar vagas além do limite do art. 3º, desde que haja disponibilidade orçamentária",
+    "transferir vagas de Subtenente para o posto de Segundo-Tenente do QOEM"
+   ],
+   "correta": 1,
+   "explicacao": "Como as vagas de oficiais abaixo de Coronel são cambiáveis, o decreto pode amoldá-las ao tamanho das turmas, por exemplo retirando vagas de Capitão e aumentando as de Major.",
+   "tags": [
+    "lei18442",
+    "vagas",
+    "turma"
+   ]
+  },
+  {
+   "id": "lei18442-elab-027",
+   "subtema": "Hierarquia",
+   "artigo": "Lei 18.442/26 — Ordenação hierárquica",
+   "enunciado": "Na estrutura básica da ordenação hierárquica prevista na Lei nº 18.442/26, são Oficiais Superiores",
+   "alternativas": [
+    "Coronel PM, Tenente-Coronel PM, Major PM e Capitão PM",
+    "Coronel PM, Tenente-Coronel PM e Major PM",
+    "Coronel PM e Tenente-Coronel PM, apenas",
+    "Tenente-Coronel PM, Major PM e Capitão PM"
+   ],
+   "correta": 1,
+   "explicacao": "Oficiais Superiores: Coronel, Tenente-Coronel e Major; Oficial Intermediário: Capitão; Oficiais Subalternos: Primeiro e Segundo-Tenente.",
+   "tags": [
+    "lei18442",
+    "hierarquia",
+    "superiores"
+   ]
+  },
+  {
+   "id": "lei18442-elab-028",
+   "subtema": "Hierarquia",
+   "artigo": "Lei 18.442/26 — Praças Especiais",
+   "enunciado": "Integram o círculo das Praças Especiais, segundo a Lei nº 18.442/26,",
+   "alternativas": [
+    "o Subtenente, o Aspirante a Oficial e o Cadete",
+    "o Aspirante a Oficial, o Cadete e o Aluno-Sargento (CFS)",
+    "o Cadete, o Aluno-Oficial e o Aluno-Soldado",
+    "o Aspirante a Oficial, o Cadete (CFO) e o Aluno-Oficial (CHOE)"
+   ],
+   "correta": 3,
+   "explicacao": "São Praças Especiais o Aspirante a Oficial PM, o Cadete PM (CFO) e o Aluno-Oficial PM (CHOE); o Aluno-Sargento e o Aluno-Soldado figuram entre as Praças.",
+   "tags": [
+    "lei18442",
+    "hierarquia",
+    "pracas-especiais"
+   ]
+  },
+  {
+   "id": "lei18442-elab-029",
+   "subtema": "Hierarquia",
+   "artigo": "Lei 18.442/26 — Praças",
+   "enunciado": "Na relação das Praças prevista na Lei nº 18.442/26, figuram, entre outros,",
+   "alternativas": [
+    "o Aluno-Oficial PM e o Aluno-Soldado PM",
+    "o Cadete PM e o Aluno-Oficial PM (CHOE)",
+    "o Aspirante a Oficial PM e o Aluno-Sargento PM",
+    "o Aluno-Sargento PM (CFS) e o Aluno-Soldado PM"
+   ],
+   "correta": 3,
+   "explicacao": "As Praças são Subtenente, 1º, 2º e 3º Sargentos, Aluno-Sargento (CFS), Cabo, Soldado e Aluno-Soldado.",
+   "tags": [
+    "lei18442",
+    "hierarquia",
+    "pracas"
+   ]
+  },
+  {
+   "id": "lei18442-elab-030",
+   "subtema": "Condição transitória",
+   "artigo": "Lei 18.442/26 — Alunos em curso",
+   "enunciado": "Encontram-se em condição especial e transitória, durante a frequência aos cursos de habilitação e formação, respectivamente,",
+   "alternativas": [
+    "o Cadete PM e o Aluno-Sargento PM",
+    "o Aluno-Oficial PM e o Aluno-Sargento PM",
+    "o Aspirante a Oficial PM e o Cadete PM",
+    "o Aluno-Oficial PM e o Aluno-Soldado PM"
+   ],
+   "correta": 1,
+   "explicacao": "A condição especial e transitória alcança o Aluno-Oficial e o Aluno-Sargento; a lei não incluiu o Cadete nessa situação.",
+   "tags": [
+    "lei18442",
+    "transitoria"
+   ]
+  },
+  {
+   "id": "lei18442-elab-031",
+   "subtema": "Condição transitória",
+   "artigo": "Lei 18.442/26 — Conservação do status",
+   "enunciado": "Durante os cursos CFS, CHOE e CHO-Mus, o Aluno-Oficial e o Aluno-Sargento PM conservarão as prerrogativas, direitos e deveres",
+   "alternativas": [
+    "da graduação ocupada antes da matrícula, exceto os remuneratórios",
+    "do posto ou graduação a que serão promovidos ao concluir o curso",
+    "da graduação ocupada antes da matrícula, inclusive os remuneratórios",
+    "de praça especial, com remuneração fixada por ato do Comandante-Geral"
+   ],
+   "correta": 2,
+   "explicacao": "Conservam as prerrogativas, direitos e deveres da graduação ocupada antes da matrícula no curso, inclusive os de natureza remuneratória.",
+   "tags": [
+    "lei18442",
+    "transitoria",
+    "status"
+   ]
+  },
+  {
+   "id": "lei18442-elab-032",
+   "subtema": "Condição transitória",
+   "artigo": "Lei 18.442/26 — Cadete",
+   "enunciado": "Quanto ao Cadete PM, a Lei nº 18.442/26",
+   "alternativas": [
+    "incluiu-o tanto na condição transitória quanto na conservação do status",
+    "incluiu-o na condição transitória, mas não na conservação do status de origem",
+    "incluiu-o na conservação do status de origem, mas não na condição transitória",
+    "não o incluiu na condição transitória nem na conservação do status de origem"
+   ],
+   "correta": 3,
+   "explicacao": "Embora seja Praça Especial, o Cadete ficou fora da condição especial e transitória e da conservação do status da graduação de origem.",
+   "tags": [
+    "lei18442",
+    "transitoria",
+    "cadete"
+   ]
+  },
+  {
+   "id": "lei18442-elab-033",
+   "subtema": "LONPMCBM",
+   "artigo": "LONPMCBM — Art. 16, § 1º, I, a",
+   "enunciado": "Segundo a Lei Orgânica Nacional das PM e CBM, citada no material, o CFO destina-se aos aprovados em concurso público para o QOEM, com ingresso na condição de",
+   "alternativas": [
+    "aluno-oficial e habilitação à promoção a segundo-tenente",
+    "cadete e habilitação à promoção a aspirante a oficial",
+    "aspirante a oficial e habilitação à promoção a primeiro-tenente",
+    "cadete e habilitação à promoção a segundo-tenente"
+   ],
+   "correta": 1,
+   "explicacao": "O CFO destina-se aos aprovados no concurso para o QOEM, com ingresso como cadete e habilitação à promoção a aspirante; CHOS e CHOE ingressam como aluno-oficial, com habilitação a segundo-tenente.",
+   "tags": [
+    "lei18442",
+    "lonpmcbm",
+    "cfo"
+   ]
+  },
+  {
+   "id": "lei18442-elab-034",
+   "subtema": "Quadros",
+   "artigo": "Lei 18.442/26 — Estrutura dos Quadros",
+   "enunciado": "O efetivo de carreira da Polícia Militar será estruturado, segundo a Lei nº 18.442/26, nos Quadros",
+   "alternativas": [
+    "QOEM, QOE, QOS, QOM, QP, QORR e QPRR",
+    "QOEM, QOE, QOS, QOM, QP e QOA",
+    "QOPM, QAOPM, QOS, QOM, QPPM e QORR",
+    "QOEM, QOE, QOS, QP, QPE e QPRR"
+   ],
+   "correta": 0,
+   "explicacao": "Os Quadros são QOEM, QOE, QOS, QOM, QP, QORR (oficiais da reserva e reformados) e QPRR (praças da reserva e reformadas).",
+   "tags": [
+    "lei18442",
+    "quadros",
+    "estrutura"
+   ]
+  },
+  {
+   "id": "lei18442-elab-035",
+   "subtema": "Quadros",
+   "artigo": "Lei 18.442/26 — QOEM",
+   "enunciado": "O Quadro de Oficiais de Estado-Maior é destinado às funções",
+   "alternativas": [
+    "de comando, chefia e direção, composto por oficiais que concluíram o CFO",
+    "complementares, composto por oficiais oriundos das praças com CHOE",
+    "de supervisão operacional, composto por oficiais que concluíram o CFO",
+    "de assessoramento técnico, composto por oficiais com curso superior"
+   ],
+   "correta": 0,
+   "explicacao": "O QOEM destina-se às funções de comando, chefia e direção dos órgãos da PM e é composto por oficiais que concluíram o Curso de Formação de Oficiais.",
+   "tags": [
+    "lei18442",
+    "quadros",
+    "qoem"
+   ]
+  },
+  {
+   "id": "lei18442-elab-036",
+   "subtema": "Quadros",
+   "artigo": "Lei 18.442/26 — QOE",
+   "enunciado": "Os oficiais do Quadro de Oficiais Especialistas serão empregados em funções complementares às dos oficiais do QOEM, principalmente",
+   "alternativas": [
+    "na chefia de estados-maiores",
+    "no comando de unidades",
+    "na direção de órgãos de apoio",
+    "na supervisão operacional"
+   ],
+   "correta": 3,
+   "explicacao": "O QOE destina-se a atividades complementares às do QOEM e é composto por militares oriundos do QP que concluíram o CHOE, sendo empregado principalmente na supervisão operacional.",
+   "tags": [
+    "lei18442",
+    "quadros",
+    "qoe"
+   ]
+  },
+  {
+   "id": "lei18442-elab-037",
+   "subtema": "Quadros",
+   "artigo": "Lei 18.442/26 — QOS",
+   "enunciado": "O Quadro de Oficiais de Saúde é composto por oficiais que concluíram graduação superior nas áreas de saúde",
+   "alternativas": [
+    "médica, odontológica, de fisioterapia e de nutrição",
+    "médica, de enfermagem, odontológica e de psicologia",
+    "médica, odontológica, de medicina veterinária e farmacêutica",
+    "médica, farmacêutica, de enfermagem e de medicina veterinária"
+   ],
+   "correta": 2,
+   "explicacao": "O QOS é composto por oficiais com graduação superior nas áreas médica, odontológica, de medicina veterinária e farmacêutica, destinados a atividades de saúde e assessoramento técnico.",
+   "tags": [
+    "lei18442",
+    "quadros",
+    "qos"
+   ]
+  },
+  {
+   "id": "lei18442-elab-038",
+   "subtema": "Quadros",
+   "artigo": "Lei 18.442/26 — QOM",
+   "enunciado": "Compõem o Quadro de Oficiais Músicos os militares do Estado oriundos do QP que",
+   "alternativas": [
+    "detenham licenciatura ou bacharelado em música e concluam o CHO-MUS",
+    "integrem a banda de música há pelo menos dez anos e concluam o CHOE",
+    "detenham curso técnico de música e sejam aprovados em concurso externo",
+    "concluam o CFO com especialização em regência de banda militar"
+   ],
+   "correta": 0,
+   "explicacao": "O QOM é composto por militares oriundos do QP, detentores de licenciatura ou bacharelado em música, que concluíram o CHO-MUS, destinado a atividades musicais e culturais.",
+   "tags": [
+    "lei18442",
+    "quadros",
+    "qom"
+   ]
+  },
+  {
+   "id": "lei18442-elab-039",
+   "subtema": "Quadros",
+   "artigo": "Lei 18.442/26 — QP",
+   "enunciado": "Quanto ao Quadro de Praças, a Lei nº 18.442/26 estabelece que se destina",
+   "alternativas": [
+    "exclusivamente às atividades operacionais de policiamento ostensivo",
+    "às atividades operacionais e administrativas da Polícia Militar",
+    "às atividades de supervisão operacional complementares ao QOEM",
+    "às atividades dos órgãos de apoio, vedado o emprego operacional"
+   ],
+   "correta": 1,
+   "explicacao": "O QP é composto por militares destinados à execução das atividades operacionais e administrativas da PM; a lei não traz outras especificações sobre o emprego das praças.",
+   "tags": [
+    "lei18442",
+    "quadros",
+    "qp"
+   ]
+  },
+  {
+   "id": "lei18442-elab-040",
+   "subtema": "Quadros",
+   "artigo": "Lei 18.442/26 — Reserva e reformados",
+   "enunciado": "Os Oficiais PM da reserva remunerada e reformados integram o",
+   "alternativas": [
+    "QORR",
+    "QPRR",
+    "QOEM",
+    "QOE"
+   ],
+   "correta": 0,
+   "explicacao": "O QORR é integrado pelos Oficiais PM da reserva remunerada e reformados; o QPRR, pelas Praças da reserva remunerada e reformadas.",
+   "tags": [
+    "lei18442",
+    "quadros",
+    "qorr"
+   ]
+  },
+  {
+   "id": "lei18442-elab-041",
+   "subtema": "Quadros",
+   "artigo": "Lei 18.442/26 — Emprego dos oficiais",
+   "enunciado": "O emprego dos Oficiais PM nos respectivos Quadros será disciplinado",
+   "alternativas": [
+    "por ato do Comandante-Geral PM",
+    "por decreto do Governador",
+    "por resolução da SSP",
+    "pela própria lei, de forma exaustiva"
+   ],
+   "correta": 0,
+   "explicacao": "O emprego dos Oficiais será disciplinado por ato do Comandante-Geral PM, obedecidos os critérios de destinação de cada Quadro.",
+   "tags": [
+    "lei18442",
+    "quadros",
+    "emprego"
+   ]
+  },
+  {
+   "id": "lei18442-elab-042",
+   "subtema": "Promoção — Regra geral",
+   "artigo": "Lei 18.442/26 — Condicionamento",
+   "enunciado": "Em qualquer hipótese, o acesso e a promoção nos Quadros da Polícia Militar são condicionados",
+   "alternativas": [
+    "ao interstício mínimo e à antiguidade, independentemente da existência de vagas",
+    "a vagas e ao parecer favorável da Comissão de Promoções, dispensado o orçamento",
+    "a vagas, disponibilidade orçamentária e cumprimento da legislação de promoções e ensino",
+    "a disponibilidade orçamentária e à aprovação em avaliação de desempenho anual"
+   ],
+   "correta": 2,
+   "explicacao": "O acesso e a promoção dependem, em qualquer hipótese, de vagas e disponibilidade orçamentária e financeira, na forma do Decreto de Distribuição, e do cumprimento da legislação de promoções e do Sistema de Ensino.",
+   "tags": [
+    "lei18442",
+    "promocao",
+    "regra-geral"
+   ]
+  },
+  {
+   "id": "lei18442-elab-043",
+   "subtema": "Promoção — QOEM",
+   "artigo": "Lei 18.442/26 — Art. 8º, I",
+   "enunciado": "Para o Oficial do QOEM, a Lei nº 18.442/26 prevê que se processará",
+   "alternativas": [
+    "no mínimo a promoção de uma turma por ano-base, para cada posto do Quadro",
+    "no máximo a promoção de uma turma por ano-base, para cada posto do Quadro",
+    "a promoção de duas turmas por ano-base, nos postos de Capitão e Major",
+    "a promoção individual por antiguidade, vedada a promoção por turma"
+   ],
+   "correta": 0,
+   "explicacao": "O art. 8º, I, determina, no mínimo, a promoção de uma turma por ano-base para cada posto do QOEM, desde que atendidos vaga, orçamento e requisitos de promoção.",
+   "tags": [
+    "lei18442",
+    "promocao",
+    "turma"
+   ]
+  },
+  {
+   "id": "lei18442-elab-044",
+   "subtema": "Promoção — QOEM",
+   "artigo": "Lei 18.442/26 — Requisitos da turma",
+   "enunciado": "Para que a turma toda do QOEM seja promovida, o material aponta a necessidade de atender a três requisitos:",
+   "alternativas": [
+    "vaga, orçamento e requisitos de promoção, como o CAO",
+    "vaga, antiguidade e aprovação da Comissão de Promoções",
+    "orçamento, interstício e avaliação médica favorável",
+    "vaga, merecimento intelectual e comportamento excepcional"
+   ],
+   "correta": 0,
+   "explicacao": "A promoção da turma exige vaga, orçamento e cumprimento dos requisitos para promoção, como o CAO.",
+   "tags": [
+    "lei18442",
+    "promocao",
+    "requisitos-turma"
+   ]
+  },
+  {
+   "id": "lei18442-elab-045",
+   "subtema": "Promoção — QOEM",
+   "artigo": "Lei 18.442/26 — Cadete",
+   "enunciado": "O Cadete PM será promovido à graduação de Aspirante a Oficial PM",
+   "alternativas": [
+    "após aprovação em concurso interno de habilitação",
+    "após um ano de estágio administrativo-operacional",
+    "após cumprir, com aproveitamento, os requisitos do CFO",
+    "após dois anos de efetivo exercício na graduação"
+   ],
+   "correta": 2,
+   "explicacao": "O Cadete é promovido a Aspirante após cumprir, com aproveitamento, os requisitos do CFO; o estágio e o interstício de um ano são exigidos do Aspirante.",
+   "tags": [
+    "lei18442",
+    "promocao",
+    "cadete"
+   ]
+  },
+  {
+   "id": "lei18442-elab-046",
+   "subtema": "Promoção — QOEM",
+   "artigo": "Lei 18.442/26 — Aspirante",
+   "enunciado": "O Aspirante a Oficial PM que cumprir o estágio administrativo-operacional e possuir no mínimo um ano na graduação será promovido",
+   "alternativas": [
+    "por merecimento intelectual ao posto de Segundo-Tenente PM do QOEM",
+    "por antiguidade ao posto de Segundo-Tenente PM do QOEM",
+    "por merecimento intelectual ao posto de Primeiro-Tenente PM do QOEM",
+    "por antiguidade ao posto de Primeiro-Tenente PM do QOEM"
+   ],
+   "correta": 2,
+   "explicacao": "O Aspirante, cumprido o estágio e com no mínimo um ano na graduação, é promovido por merecimento intelectual diretamente a Primeiro-Tenente do QOEM.",
+   "tags": [
+    "lei18442",
+    "promocao",
+    "aspirante"
+   ]
+  },
+  {
+   "id": "lei18442-elab-047",
+   "subtema": "Promoção — QOE e QOM",
+   "artigo": "Lei 18.442/26 — Segundo-Tenente",
+   "enunciado": "O Segundo-Tenente PM do QOE ou do QOM será promovido a Primeiro-Tenente PM do respectivo Quadro ao possuir",
+   "alternativas": [
+    "três anos no posto",
+    "dois anos no posto",
+    "um ano no posto",
+    "seis meses no posto"
+   ],
+   "correta": 2,
+   "explicacao": "O 2º Tenente do QOE ou do QOM que possuir um ano no posto será promovido a 1º Tenente do respectivo Quadro.",
+   "tags": [
+    "lei18442",
+    "promocao",
+    "segundo-tenente"
+   ]
+  },
+  {
+   "id": "lei18442-elab-048",
+   "subtema": "Promoção — QOS",
+   "artigo": "Lei 18.442/26 — Curso de adaptação",
+   "enunciado": "Quanto ao Oficial do Quadro de Oficiais de Saúde, a Lei nº 18.442/26 prevê que realizará o curso de adaptação",
+   "alternativas": [
+    "no posto de Segundo-Tenente PM",
+    "no posto de Primeiro-Tenente PM",
+    "na condição de Aluno-Oficial PM",
+    "na graduação de Aspirante a Oficial"
+   ],
+   "correta": 1,
+   "explicacao": "A lei estabelece que o Oficial do QOS realizará o curso de adaptação no posto de Primeiro-Tenente PM.",
+   "tags": [
+    "lei18442",
+    "promocao",
+    "qos"
+   ]
+  },
+  {
+   "id": "lei18442-elab-049",
+   "subtema": "Promoção — Quadro de Praças",
+   "artigo": "Lei 18.442/26 — Aluno-Soldado",
+   "enunciado": "O Aluno-Soldado PM será promovido à graduação de Soldado PM após concluir, com aproveitamento,",
+   "alternativas": [
+    "o Curso de Formação de Praças (CFP)",
+    "o Curso de Formação de Soldados (CFSd)",
+    "o estágio probatório de três anos",
+    "o Curso de Habilitação de Praças (CHP)"
+   ],
+   "correta": 0,
+   "explicacao": "A lei vincula a promoção a Soldado à conclusão, com aproveitamento, do Curso de Formação de Praças (CFP).",
+   "tags": [
+    "lei18442",
+    "promocao",
+    "aluno-soldado"
+   ]
+  },
+  {
+   "id": "lei18442-elab-050",
+   "subtema": "Promoção — Quadro de Praças",
+   "artigo": "Lei 18.442/26 — Soldado a Cabo",
+   "enunciado": "O Soldado PM será promovido à graduação de Cabo PM ao contar, no mínimo, com",
+   "alternativas": [
+    "três anos na graduação",
+    "cinco anos na graduação",
+    "quatro anos na graduação",
+    "dez anos na graduação"
+   ],
+   "correta": 1,
+   "explicacao": "O interstício de Soldado a Cabo é de, no mínimo, cinco anos na graduação.",
+   "tags": [
+    "lei18442",
+    "promocao",
+    "soldado"
+   ]
+  },
+  {
+   "id": "lei18442-elab-051",
+   "subtema": "Promoção — Quadro de Praças",
+   "artigo": "Lei 18.442/26 — Interstícios dos Sargentos",
+   "enunciado": "Os interstícios mínimos previstos para promoção de 3º Sargento a 2º Sargento e de 2º Sargento a 1º Sargento são, respectivamente, de",
+   "alternativas": [
+    "dois e três anos",
+    "três e dois anos",
+    "dois e quatro anos",
+    "três e cinco anos"
+   ],
+   "correta": 0,
+   "explicacao": "O 3º Sargento com dois anos na graduação é promovido a 2º Sargento; o 2º Sargento com três anos, a 1º Sargento.",
+   "tags": [
+    "lei18442",
+    "promocao",
+    "sargentos"
+   ]
+  },
+  {
+   "id": "lei18442-elab-052",
+   "subtema": "Promoção — Quadro de Praças",
+   "artigo": "Lei 18.442/26 — Interstícios não previstos",
+   "enunciado": "Na relação de critérios de promoção do Quadro de Praças apresentada na Lei nº 18.442/26, não se fixa interstício para as passagens de",
+   "alternativas": [
+    "Cabo a 3º Sargento e de 1º Sargento a Subtenente",
+    "Soldado a Cabo e de 3º Sargento a 2º Sargento",
+    "2º Sargento a 1º Sargento e de Subtenente a 2º Tenente",
+    "Aluno-Soldado a Soldado e de Soldado a Cabo"
+   ],
+   "correta": 0,
+   "explicacao": "A relação fixa critérios para Aluno-Sd→Sd, Sd→Cb, 3º→2º Sgt, 2º→1º Sgt e Subten→2º Ten do QOE/QOM, sem prazo para Cabo→3º Sargento nem 1º Sargento→Subtenente.",
+   "tags": [
+    "lei18442",
+    "promocao",
+    "pegadinha"
+   ]
+  },
+  {
+   "id": "lei18442-elab-053",
+   "subtema": "Promoção — Subtenente",
+   "artigo": "Lei 18.442/26 — Subtenente a 2º Tenente",
+   "enunciado": "O Subtenente PM será promovido ao posto de Segundo-Tenente PM do QOE ou do QOM ao contar, no mínimo, com",
+   "alternativas": [
+    "quatro anos na graduação e conclusão do CFO adaptado",
+    "três anos na graduação e conclusão do CHOE ou do CHO-Mus",
+    "cinco anos na graduação e aprovação em concurso interno",
+    "quatro anos na graduação e conclusão do CHOE ou do CHO-Mus"
+   ],
+   "correta": 3,
+   "explicacao": "O Subtenente com no mínimo quatro anos na graduação e conclusão, com aproveitamento, do CHOE ou do CHO-Mus é promovido a 2º Tenente do QOE ou do QOM, respectivamente.",
+   "tags": [
+    "lei18442",
+    "subtenente",
+    "promocao"
+   ]
+  },
+  {
+   "id": "lei18442-elab-054",
+   "subtema": "Turma do QOEM",
+   "artigo": "Lei 18.442/26 — Formação da turma",
+   "enunciado": "Os Cadetes declarados Aspirantes a Oficial no ato de conclusão do CFO constituem uma turma de formação de oficiais do QOEM",
+   "alternativas": [
+    "na ordem do merecimento intelectual",
+    "na ordem da antiguidade de ingresso",
+    "na ordem alfabética dos concluintes",
+    "na ordem da idade dos concluintes"
+   ],
+   "correta": 0,
+   "explicacao": "A turma de formação é constituída na ordem do merecimento intelectual dos Cadetes declarados Aspirantes.",
+   "tags": [
+    "lei18442",
+    "turma",
+    "formacao"
+   ]
+  },
+  {
+   "id": "lei18442-elab-055",
+   "subtema": "Turma do QOEM",
+   "artigo": "Lei 18.442/26 — Fim de turma",
+   "enunciado": "Assinala o fim de turma o Oficial PM ou Aspirante que, na turma de formação,",
+   "alternativas": [
+    "for o primeiro a ser ultrapassado por militar de outra turma",
+    "for o mais moderno em data de nascimento entre os concluintes",
+    "for o último classificado na ordem do merecimento intelectual",
+    "tiver obtido a menor nota no estágio administrativo-operacional"
+   ],
+   "correta": 2,
+   "explicacao": "O fim de turma é assinalado pelo último classificado na ordem do merecimento intelectual.",
+   "tags": [
+    "lei18442",
+    "turma",
+    "fim-turma"
+   ]
+  },
+  {
+   "id": "lei18442-elab-056",
+   "subtema": "Turma do QOEM",
+   "artigo": "Lei 18.442/26 — Ultrapassagem",
+   "enunciado": "O Oficial PM ou Aspirante ultrapassado hierarquicamente por militar de outra turma passará a pertencer",
+   "alternativas": [
+    "à turma do ultrapassante mais antigo ou à anterior, se este assinalar o fim de turma",
+    "à turma do ultrapassante mais moderno ou à posterior, se este assinalar o fim de turma",
+    "à última posição da turma subsequente, qualquer que seja a posição do ultrapassante",
+    "à turma de origem, mantida sua posição relativa aos demais integrantes"
+   ],
+   "correta": 1,
+   "explicacao": "O ultrapassado passa à turma do ultrapassante mais moderno ou, quando este assinalar o fim da sua turma, à turma imediatamente posterior.",
+   "tags": [
+    "lei18442",
+    "turma",
+    "ultrapassagem"
+   ]
+  },
+  {
+   "id": "lei18442-elab-057",
+   "subtema": "Turma do QOEM",
+   "artigo": "Lei 18.442/26 — Caso de ultrapassagem",
+   "enunciado": "Oficial da turma de 2005 é ultrapassado por todos os integrantes da turma de 2006. Segundo a regra da ultrapassagem, ele passará a pertencer",
+   "alternativas": [
+    "à turma de 2007, a imediatamente posterior",
+    "à turma de 2006, como último colocado",
+    "à turma de 2005, mantida a posição",
+    "à turma de 2006, na posição do ultrapassante"
+   ],
+   "correta": 0,
+   "explicacao": "Como o ultrapassante mais moderno assinala o fim da turma de 2006, o oficial não a integra como último, mas passa à turma imediatamente posterior, a de 2007, evitando acréscimo de integrantes.",
+   "tags": [
+    "lei18442",
+    "turma",
+    "caso"
+   ]
+  },
+  {
+   "id": "lei18442-elab-058",
+   "subtema": "Turma do QOEM",
+   "artigo": "Lei 18.442/26 — Deslocamento do último",
+   "enunciado": "O deslocamento do último componente de uma turma, por melhoria ou perda de posição hierárquica por força legal, acarreta",
+   "alternativas": [
+    "a extinção da condição de fim de turma até nova formação de turma",
+    "a manutenção do fim da turma com o militar deslocado, para fins históricos",
+    "a transferência do fim da turma ao primeiro da turma subsequente",
+    "a ocupação do fim da turma pelo militar que o antecede imediatamente"
+   ],
+   "correta": 3,
+   "explicacao": "O militar que antecede imediatamente o deslocado passa a ocupar o fim da turma, como ocorre quando o último frui LSV, passa à inatividade ou ultrapassa o penúltimo.",
+   "tags": [
+    "lei18442",
+    "turma",
+    "deslocamento"
+   ]
+  },
+  {
+   "id": "lei18442-elab-059",
+   "subtema": "Turma do QOEM",
+   "artigo": "Lei 18.442/26 — Inatividade do último",
+   "enunciado": "Passando à inatividade o último colocado de uma turma de formação do QOEM,",
+   "alternativas": [
+    "a turma passa a não ter militar em fim de turma",
+    "o fim de turma permanece vinculado ao inativado",
+    "o primeiro da turma seguinte assume o fim de turma",
+    "o penúltimo colocado passa a ser o último da turma"
+   ],
+   "correta": 3,
+   "explicacao": "Se o último colocado frui LSV ou passa à inatividade, o penúltimo passa a ser o último da turma.",
+   "tags": [
+    "lei18442",
+    "turma",
+    "inatividade"
+   ]
+  },
+  {
+   "id": "lei18442-elab-060",
+   "subtema": "Promoção QOE/QOM",
+   "artigo": "Lei 18.442/26 — Preparo das promoções",
+   "enunciado": "Para o preparo das promoções ao QOE e ao QOM, as informações dos Subtenentes que participarão do processo serão remetidas",
+   "alternativas": [
+    "pela Diretoria de Pessoal à Comissão de Promoções de Oficiais",
+    "pelos Comandantes de Companhia à Comissão de Promoções de Oficiais",
+    "pelos Comandantes de Unidades à Comissão de Promoções de Praças",
+    "pelos próprios Subtenentes à Diretoria de Ensino e Cultura"
+   ],
+   "correta": 2,
+   "explicacao": "Os Comandantes de Unidades remetem à Comissão de Promoções de Praças as informações dos Subtenentes que participarão do processo de promoção.",
+   "tags": [
+    "lei18442",
+    "qoe",
+    "preparo"
+   ]
+  },
+  {
+   "id": "lei18442-elab-061",
+   "subtema": "Promoção QOE/QOM",
+   "artigo": "Lei 18.442/26 — Quantidade cogitada",
+   "enunciado": "A quantidade de Subtenentes a serem cogitados no processo de promoção ao QOE e ao QOM será definida",
+   "alternativas": [
+    "pelo Governador do Estado, no decreto anual de distribuição do efetivo",
+    "pelo Comandante-Geral PM, no ato que regulamenta o processo seletivo interno",
+    "pelo Presidente da Comissão de Promoções de Praças, na deflagração do processo",
+    "pelo Diretor de Pessoal, conforme a quantidade de vagas do semestre anterior"
+   ],
+   "correta": 2,
+   "explicacao": "O Presidente da CPP define a quantidade quando da deflagração do processo, de modo suficiente para prover as vagas em aberto no período de vigência do certame.",
+   "tags": [
+    "lei18442",
+    "qoe",
+    "quantidade"
+   ]
+  },
+  {
+   "id": "lei18442-elab-062",
+   "subtema": "Promoção QOE/QOM",
+   "artigo": "Lei 18.442/26 — Relações complementares",
+   "enunciado": "Para a organização das relações de acesso complementares ao QOE e ao QOM,",
+   "alternativas": [
+    "podem ser cogitados novos Subtenentes, com informações atualizadas na data da complementação",
+    "somente podem figurar os Subtenentes já constantes das relações de acesso ordinárias",
+    "podem ser cogitados novos Subtenentes, com informações atualizadas nas mesmas datas das ordinárias",
+    "podem ser cogitados 1º Sargentos que venham a completar o interstício no semestre"
+   ],
+   "correta": 2,
+   "explicacao": "Novos Subtenentes podem ser cogitados, mas as informações usadas pela CPP devem estar atualizadas nas mesmas datas daquelas utilizadas nas relações ordinárias.",
+   "tags": [
+    "lei18442",
+    "qoe",
+    "complementares"
+   ]
+  },
+  {
+   "id": "lei18442-elab-063",
+   "subtema": "Promoção QOE/QOM",
+   "artigo": "Lei 18.442/26 — Periodicidade",
+   "enunciado": "A relação de acesso de Subtenente para Segundo-Tenente do QOE e do QOM será organizada",
+   "alternativas": [
+    "quatro vezes por ano, na véspera de cada data de promoção",
+    "uma vez por ano, na 2ª quinzena de março, para todas as promoções",
+    "duas vezes por ano, na 1ª quinzena de abril e na 1ª quinzena de setembro",
+    "duas vezes por ano, na 2ª quinzena de março e na 2ª quinzena de agosto"
+   ],
+   "correta": 3,
+   "explicacao": "A relação é organizada duas vezes por ano: na 2ª quinzena de março, para as promoções de 21 de abril e 9 de julho, e na 2ª quinzena de agosto, para as de 7 de setembro e 15 de dezembro.",
+   "tags": [
+    "lei18442",
+    "qoe",
+    "periodicidade"
+   ]
+  },
+  {
+   "id": "lei18442-elab-064",
+   "subtema": "Promoção QOE/QOM",
+   "artigo": "Lei 18.442/26 — Datas de promoção",
+   "enunciado": "A relação de acesso organizada na 2ª quinzena de agosto destina-se às promoções de",
+   "alternativas": [
+    "7 de setembro e 15 de dezembro",
+    "21 de abril e 9 de julho",
+    "9 de julho e 7 de setembro",
+    "15 de novembro e 15 de dezembro"
+   ],
+   "correta": 0,
+   "explicacao": "A relação de agosto atende às promoções de 7 de setembro e 15 de dezembro; a de março, às de 21 de abril e 9 de julho.",
+   "tags": [
+    "lei18442",
+    "qoe",
+    "datas"
+   ]
+  },
+  {
+   "id": "lei18442-elab-065",
+   "subtema": "Promoção QOE/QOM",
+   "artigo": "Lei 18.442/26 — Critérios",
+   "enunciado": "A promoção ao posto de Segundo-Tenente do QOE e do QOM caberá ao Subtenente da ativa que atingir, na relação de acesso, lugar correspondente às vagas existentes",
+   "alternativas": [
+    "por merecimento intelectual",
+    "exclusivamente por antiguidade",
+    "exclusivamente por merecimento",
+    "por antiguidade e merecimento"
+   ],
+   "correta": 3,
+   "explicacao": "A promoção dá-se por antiguidade e merecimento, observados os requisitos; merecimento intelectual é o critério da promoção do Aspirante do QOEM.",
+   "tags": [
+    "lei18442",
+    "qoe",
+    "criterios"
+   ]
+  },
+  {
+   "id": "lei18442-elab-066",
+   "subtema": "Requisitos",
+   "artigo": "Lei 18.442/26 — CIPÓ + QAS",
+   "enunciado": "Entre os requisitos para promoção do Subtenente a Segundo-Tenente do QOE ou QOM está",
+   "alternativas": [
+    "estar, no mínimo, no comportamento excepcional",
+    "integrar a primeira metade do almanaque",
+    "integrar a primeira terça parte do almanaque",
+    "ter concluído curso superior reconhecido pelo MEC"
+   ],
+   "correta": 2,
+   "explicacao": "Os requisitos são CHOE ou CHO-MUS, idoneidade moral, primeira terça parte do almanaque, comportamento pelo menos ótimo, quatro anos de interstício, não estar agregado e saúde apta sem restrições.",
+   "tags": [
+    "lei18442",
+    "requisitos",
+    "almanaque"
+   ]
+  },
+  {
+   "id": "lei18442-elab-067",
+   "subtema": "Requisitos",
+   "artigo": "Lei 18.442/26 — Comportamento",
+   "enunciado": "Quanto ao comportamento, o Subtenente candidato à promoção a Segundo-Tenente do QOE ou QOM deve estar",
+   "alternativas": [
+    "no comportamento excepcional",
+    "pelo menos no comportamento bom",
+    "pelo menos no comportamento ótimo",
+    "em qualquer comportamento, salvo mau"
+   ],
+   "correta": 2,
+   "explicacao": "O requisito é estar, pelo menos, no comportamento ótimo, integrante do mnemônico CIPÓ + QAS.",
+   "tags": [
+    "lei18442",
+    "requisitos",
+    "comportamento"
+   ]
+  },
+  {
+   "id": "lei18442-elab-068",
+   "subtema": "Requisitos",
+   "artigo": "Lei 18.442/26 — Saúde e agregação",
+   "enunciado": "Completam os requisitos à promoção do Subtenente ao QOE ou QOM, além do curso, idoneidade, almanaque, comportamento e interstício,",
+   "alternativas": [
+    "não estar agregado e ser apto, sem restrições, em inspeção de saúde",
+    "não estar agregado e ser aprovado em teste de aptidão física específico",
+    "estar em efetivo exercício e ser apto, ainda que com restrições, em saúde",
+    "não responder a sindicância e ser aprovado em avaliação psicológica"
+   ],
+   "correta": 0,
+   "explicacao": "Os requisitos incluem não estar agregado e ser considerado apto, sem restrições, em inspeção de saúde.",
+   "tags": [
+    "lei18442",
+    "requisitos",
+    "saude"
+   ]
+  },
+  {
+   "id": "lei18442-elab-069",
+   "subtema": "Requisitos",
+   "artigo": "Lei 18.442/26 — Processo seletivo interno",
+   "enunciado": "O ingresso no CHOE ou no CHO-MUS, como requisito de promoção a Segundo-Tenente do QOE ou QOM, dar-se-á",
+   "alternativas": [
+    "mediante concurso público externo regulamentado por decreto do Governador",
+    "mediante processo seletivo interno regulamentado por ato do Comandante-Geral",
+    "por indicação do Comandante de Unidade, homologada pela Comissão de Promoções",
+    "automaticamente, pela ordem de antiguidade dos Subtenentes no almanaque"
+   ],
+   "correta": 1,
+   "explicacao": "O ingresso ocorre por processo seletivo interno, cujos critérios, estrutura curricular, carga horária e avaliações são regulamentados por ato do Comandante-Geral PM.",
+   "tags": [
+    "lei18442",
+    "requisitos",
+    "seletivo"
+   ]
+  },
+  {
+   "id": "lei18442-elab-070",
+   "subtema": "Requisitos",
+   "artigo": "Lei 18.442/26 — Idoneidade moral",
+   "enunciado": "A idoneidade moral do Subtenente candidato será aferida pela Comissão de Promoções de Praças, que utilizará como subsídios",
+   "alternativas": [
+    "a investigação social realizada pela Corregedoria e o parecer do Diretor de Pessoal",
+    "a certidão de antecedentes criminais e a avaliação psicológica do candidato",
+    "o conceito emitido pelo Comandante do candidato e seus registros disciplinares",
+    "a declaração de bens do candidato e as referências de dois oficiais superiores"
+   ],
+   "correta": 2,
+   "explicacao": "A CPP afere a idoneidade moral com base no conceito emitido pelo respectivo Comandante do candidato e em seus registros disciplinares.",
+   "tags": [
+    "lei18442",
+    "requisitos",
+    "idoneidade"
+   ]
+  },
+  {
+   "id": "lei18442-elab-071",
+   "subtema": "Antiguidade e interstício",
+   "artigo": "Lei 18.442/26 — Marco inicial",
+   "enunciado": "A antiguidade e o interstício para promoção a Segundo-Tenente do QOE e do QOM serão contados",
+   "alternativas": [
+    "a partir da data de promoção à graduação de Subtenente, conforme o almanaque",
+    "a partir da data de ingresso na Polícia Militar, descontados os afastamentos",
+    "a partir da conclusão do CHOE ou do CHO-MUS, conforme a média final",
+    "a partir da data de inclusão na relação de acesso ordinária do semestre"
+   ],
+   "correta": 0,
+   "explicacao": "Contam-se a partir da data de promoção a Subtenente, de acordo com a posição aferida em almanaque, efetuados os descontos legais.",
+   "tags": [
+    "lei18442",
+    "antiguidade",
+    "marco"
+   ]
+  },
+  {
+   "id": "lei18442-elab-072",
+   "subtema": "Antiguidade e interstício",
+   "artigo": "Lei 18.442/26 — Descontos",
+   "enunciado": "Na contagem da antiguidade e do interstício do Subtenente, quanto à licença para tratar de saúde de pessoa da família, desconta-se",
+   "alternativas": [
+    "todo o tempo de fruição, independentemente da duração",
+    "o tempo que ultrapassar doze meses, consecutivos ou não",
+    "o tempo que ultrapassar seis meses consecutivos",
+    "nenhum tempo, por se tratar de licença legalmente prevista"
+   ],
+   "correta": 1,
+   "explicacao": "Desconta-se o tempo que ultrapassar doze meses, consecutivos ou não; na licença para tratar de interesse particular, desconta-se todo o tempo de fruição.",
+   "tags": [
+    "lei18442",
+    "antiguidade",
+    "descontos"
+   ]
+  },
+  {
+   "id": "lei18442-elab-073",
+   "subtema": "Antiguidade e interstício",
+   "artigo": "Lei 18.442/26 — Descontos",
+   "enunciado": "Figura entre os descontos na contagem da antiguidade e do interstício do Subtenente",
+   "alternativas": [
+    "o tempo de afastamento para frequentar o CHOE ou o CHO-MUS na própria Corporação",
+    "o tempo de cumprimento de pena privativa de liberdade por sentença transitada em julgado",
+    "o tempo de férias e de licença-prêmio fruídas no período aquisitivo",
+    "o tempo de licença para tratamento da própria saúde, qualquer que seja a duração"
+   ],
+   "correta": 1,
+   "explicacao": "Descontam-se LTIP, o excedente de 12 meses de licença para saúde de familiar, ausência ilegal ou deserção, pena privativa de liberdade e suspensão do exercício por sentença transitada em julgado.",
+   "tags": [
+    "lei18442",
+    "antiguidade",
+    "descontos"
+   ]
+  },
+  {
+   "id": "lei18442-elab-074",
+   "subtema": "Antiguidade e interstício",
+   "artigo": "Lei 18.442/26 — Datas-bases",
+   "enunciado": "As datas-bases para a aferição de antiguidade e interstício nas relações de acesso do primeiro e do segundo semestres são, respectivamente,",
+   "alternativas": [
+    "31 de março e 31 de agosto",
+    "21 de abril e 7 de setembro",
+    "15 de março e 15 de agosto",
+    "30 de abril e 30 de setembro"
+   ],
+   "correta": 0,
+   "explicacao": "As datas-bases são 31 de março e 31 de agosto, distintas das quinzenas de organização das relações e das datas das promoções.",
+   "tags": [
+    "lei18442",
+    "antiguidade",
+    "datas-bases"
+   ]
+  },
+  {
+   "id": "lei18442-elab-075",
+   "subtema": "Antiguidade e interstício",
+   "artigo": "Lei 18.442/26 — Função da antiguidade",
+   "enunciado": "Na apuração do merecimento do Subtenente para promoção ao QOE ou QOM, a antiguidade funciona como",
+   "alternativas": [
+    "critério de exclusão da relação",
+    "requisito de admissão",
+    "fator de pontuação positiva",
+    "critério de desempate"
+   ],
+   "correta": 3,
+   "explicacao": "A antiguidade do Subtenente é utilizada como critério de desempate na apuração do merecimento.",
+   "tags": [
+    "lei18442",
+    "antiguidade",
+    "desempate"
+   ]
+  },
+  {
+   "id": "lei18442-elab-076",
+   "subtema": "Merecimento",
+   "artigo": "Lei 18.442/26 — Base de aferição",
+   "enunciado": "O merecimento para promoção a Segundo-Tenente do QOE e do QOM será aferido",
+   "alternativas": [
+    "exclusivamente pela média final obtida no CHOE ou no CHO-MUS",
+    "pelo conjunto de informações pessoais e funcionais, conforme ato do Cmt G",
+    "pela avaliação de desempenho anual e pelo resultado do teste de aptidão física",
+    "pelo conceito do Comandante de Unidade, dispensados outros elementos"
+   ],
+   "correta": 1,
+   "explicacao": "O merecimento é aferido pelo conjunto de informações pessoais e funcionais, de acordo com os critérios fixados por ato do Comandante-Geral PM.",
+   "tags": [
+    "lei18442",
+    "merecimento",
+    "base"
+   ]
+  },
+  {
+   "id": "lei18442-elab-077",
+   "subtema": "Merecimento",
+   "artigo": "Lei 18.442/26 — Quesitos",
+   "enunciado": "Entre os quesitos mínimos do merecimento, aos quais se atribuem pontos positivos ou negativos, estão",
+   "alternativas": [
+    "elogios, TAF, tempo na graduação e avaliação psicológica do candidato",
+    "tempo de serviço, idade, número de dependentes e punições disciplinares",
+    "avaliação de desempenho, elogios, TAF, média do CHOE e punições disciplinares",
+    "avaliação de desempenho, tempo de serviço, cursos e declaração de bens"
+   ],
+   "correta": 2,
+   "explicacao": "São quesitos mínimos avaliação de desempenho, elogios, cursos na PMESP e em outras instituições oficiais, TAF, média final no CHOE ou CHO-MUS, punições e condenações penais transitadas em julgado.",
+   "tags": [
+    "lei18442",
+    "merecimento",
+    "quesitos"
+   ]
+  },
+  {
+   "id": "lei18442-elab-078",
+   "subtema": "Merecimento",
+   "artigo": "Lei 18.442/26 — Conceito e grau",
+   "enunciado": "O conceito emitido pelo Comandante e o grau de merecimento atribuído pela Comissão de Promoções de Praças serão graduados",
+   "alternativas": [
+    "de zero a dez pontos, considerando aspectos como caráter e capacidade de supervisão",
+    "de zero a cem pontos, considerando aspectos como antiguidade e tempo de serviço",
+    "de um a cinco pontos, considerando aspectos como elogios e cursos realizados",
+    "em conceitos de A a E, considerando aspectos como conduta militar e civil"
+   ],
+   "correta": 0,
+   "explicacao": "São graduados de 0 a 10 pontos, considerando caráter, capacidade de ação e de trabalho, cultura profissional e geral, conduta militar e civil e capacidade de supervisão.",
+   "tags": [
+    "lei18442",
+    "merecimento",
+    "conceito"
+   ]
+  },
+  {
+   "id": "lei18442-elab-079",
+   "subtema": "Merecimento",
+   "artigo": "Lei 18.442/26 — Classificação final",
+   "enunciado": "A ordem de classificação final do merecimento do Subtenente resultará",
+   "alternativas": [
+    "exclusivamente da nota de zero a dez atribuída pela Comissão de Promoções",
+    "da média aritmética entre a nota do CHOE e o conceito emitido pelo Comandante",
+    "do somatório dos pontos dos quesitos e aspectos com a nota de zero a dez",
+    "da soma do tempo na graduação com os pontos positivos atribuídos aos elogios"
+   ],
+   "correta": 2,
+   "explicacao": "A classificação final resulta do somatório dos pontos atribuídos aos aspectos e quesitos, positivos e negativos, e da nota de 0 a 10, nos termos de ato do Comandante-Geral PM.",
+   "tags": [
+    "lei18442",
+    "merecimento",
+    "classificacao"
+   ]
+  },
+  {
+   "id": "lei18442-elab-080",
+   "subtema": "Merecimento",
+   "artigo": "Lei 18.442/26 — Aspectos",
+   "enunciado": "NÃO figura entre os aspectos considerados na graduação de zero a dez do conceito e do grau de merecimento",
+   "alternativas": [
+    "a conduta militar e civil",
+    "a capacidade de supervisão",
+    "o tempo de serviço na graduação",
+    "a cultura profissional e geral"
+   ],
+   "correta": 2,
+   "explicacao": "Os aspectos são caráter, capacidade de ação e de trabalho, cultura profissional e geral, conduta militar e civil e capacidade de supervisão; o tempo na graduação relaciona-se ao interstício e à antiguidade.",
+   "tags": [
+    "lei18442",
+    "merecimento",
+    "aspectos"
+   ]
+  },
+  {
+   "id": "lei18442-elab-081",
+   "subtema": "Exclusão da relação",
+   "artigo": "Lei 18.442/26 — Art. 15",
+   "enunciado": "O Subtenente PM será excluído da relação de acesso para ingresso no QOE e no QOM quando",
+   "alternativas": [
+    "figurar como acusado em processo regular",
+    "estiver em gozo de licença-prêmio regular",
+    "for designado para curso de especialização",
+    "responder a sindicância ainda não concluída"
+   ],
+   "correta": 0,
+   "explicacao": "O art. 15 prevê exclusão por falecimento, promoção, inatividade, demissão, expulsão ou exoneração, descumprimento dos requisitos, figurar como acusado em processo regular, processo por infração penal sem trânsito em julgado e cumprimento de pena em regime aberto ou sursis.",
+   "tags": [
+    "lei18442",
+    "exclusao",
+    "art15"
+   ]
+  },
+  {
+   "id": "lei18442-elab-082",
+   "subtema": "Exclusão da relação",
+   "artigo": "Lei 18.442/26 — Art. 15, processo penal",
+   "enunciado": "Estando o Subtenente sendo processado por infração penal, sua exclusão da relação de acesso ao QOE ou QOM perdura",
+   "alternativas": [
+    "até o recebimento da denúncia pelo juízo competente",
+    "somente até a decisão de primeira instância sobre o mérito",
+    "somente se a denúncia imputar crime militar próprio",
+    "enquanto a sentença final não houver transitado em julgado"
+   ],
+   "correta": 3,
+   "explicacao": "É causa de exclusão estar sendo processado por infração penal, enquanto a sentença final não houver transitado em julgado.",
+   "tags": [
+    "lei18442",
+    "exclusao",
+    "processo-penal"
+   ]
+  },
+  {
+   "id": "lei18442-elab-083",
+   "subtema": "Exclusão da relação",
+   "artigo": "Lei 18.442/26 — Art. 15, suspensão condicional",
+   "enunciado": "No caso de suspensão condicional da pena, para fins de exclusão do Subtenente da relação de acesso,",
+   "alternativas": [
+    "a exclusão não se aplica, por não haver cumprimento efetivo de pena",
+    "computa-se o tempo acrescido à pena original para fins da suspensão",
+    "a exclusão perdura até o dobro do período de prova fixado na sentença",
+    "não se computa o tempo acrescido à pena original para fins da suspensão"
+   ],
+   "correta": 3,
+   "explicacao": "A exclusão perdura enquanto durar o cumprimento da pena em regime aberto ou a suspensão condicional, não se computando o tempo acrescido à pena original para fins da suspensão.",
+   "tags": [
+    "lei18442",
+    "exclusao",
+    "sursis"
+   ]
+  },
+  {
+   "id": "lei18442-elab-084",
+   "subtema": "Vedação à promoção",
+   "artigo": "Lei 18.442/26 — Art. 16",
+   "enunciado": "Mesmo incluído em relação de acesso, não será promovido o Subtenente PM que",
+   "alternativas": [
+    "tiver sido transferido de unidade no período da relação",
+    "for punido com repreensão no semestre anterior à promoção",
+    "estiver respondendo a sindicância por falta disciplinar leve",
+    "for submetido a processo administrativo de caráter demissório"
+   ],
+   "correta": 3,
+   "explicacao": "O art. 16 veda a promoção do Subtenente submetido a processo administrativo de caráter demissório ou que tiver constatada a perda da idoneidade moral.",
+   "tags": [
+    "lei18442",
+    "vedacao",
+    "art16"
+   ]
+  },
+  {
+   "id": "lei18442-elab-085",
+   "subtema": "Retroação",
+   "artigo": "Lei 18.442/26 — Preterição",
+   "enunciado": "O Subtenente preterido da promoção por antiguidade em razão de processo regular e depois declarado sem culpa",
+   "alternativas": [
+    "será promovido de ofício, sem direito à retroação",
+    "será promovido, a seu requerimento, com direito à retroação",
+    "concorrerá na relação seguinte, sem direito à retroação",
+    "será indenizado, vedada a promoção com efeito retroativo"
+   ],
+   "correta": 1,
+   "explicacao": "O preterido por antiguidade em decorrência de processo regular, posteriormente declarado sem culpa, é promovido a seu requerimento, com direito à retroação.",
+   "tags": [
+    "lei18442",
+    "retroacao",
+    "pretericao"
+   ]
+  },
+  {
+   "id": "lei18442-elab-086",
+   "subtema": "Retroação",
+   "artigo": "Lei 18.442/26 — Agregado por prisão",
+   "enunciado": "A promoção com retroação aplica-se também ao Subtenente agregado por prisão ou deserção que, ao final,",
+   "alternativas": [
+    "tiver a punibilidade extinta pela prescrição da pretensão punitiva",
+    "for condenado a pena inferior a dois anos com suspensão condicional",
+    "for absolvido por insuficiência de provas para a condenação",
+    "tiver o IPM arquivado ou for absolvido por negativa de autoria"
+   ],
+   "correta": 3,
+   "explicacao": "Aplica-se se houver arquivamento do IPM ou inquérito, ou absolvição por negativa de autoria, inexistência do fato, atipicidade ou excludente de ilicitude, culpabilidade ou imputabilidade.",
+   "tags": [
+    "lei18442",
+    "retroacao",
+    "agregado"
+   ]
+  },
+  {
+   "id": "lei18442-elab-087",
+   "subtema": "Retroação",
+   "artigo": "Lei 18.442/26 — Hipóteses de absolvição",
+   "enunciado": "NÃO está entre as hipóteses de absolvição que asseguram promoção com retroação ao Subtenente agregado",
+   "alternativas": [
+    "a absolvição por não constituir o fato infração penal",
+    "a absolvição por inexistência do fato",
+    "a absolvição por não existir prova suficiente para a condenação",
+    "a absolvição por circunstância que exclua a ilicitude do fato"
+   ],
+   "correta": 2,
+   "explicacao": "As hipóteses são arquivamento, negativa de autoria, inexistência do fato, atipicidade e excludentes de ilicitude, culpabilidade ou imputabilidade; a insuficiência de provas não consta do rol.",
+   "tags": [
+    "lei18442",
+    "retroacao",
+    "pegadinha"
+   ]
+  },
+  {
+   "id": "lei18442-elab-088",
+   "subtema": "Retroação",
+   "artigo": "Lei 18.442/26 — Merecimento",
+   "enunciado": "Quanto ao ressarcimento de promoção pelo princípio do merecimento, o material estabelece que",
+   "alternativas": [
+    "não cabe ressarcimento de promoção pelo princípio de merecimento",
+    "cabe ressarcimento, a requerimento, com direito à retroação",
+    "cabe ressarcimento de ofício, sem direito à retroação",
+    "cabe ressarcimento apenas se houver absolvição por negativa de autoria"
+   ],
+   "correta": 0,
+   "explicacao": "A retroação alcança a preterição por antiguidade; não cabe ressarcimento de promoção pelo princípio de merecimento.",
+   "tags": [
+    "lei18442",
+    "retroacao",
+    "merecimento"
+   ]
+  },
+  {
+   "id": "lei18442-elab-089",
+   "subtema": "Delegação",
+   "artigo": "Lei 18.442/26 — Art. 19",
+   "enunciado": "Quanto à promoção do Subtenente PM a Segundo-Tenente PM nos Quadros QOE e QOM, o Governador do Estado",
+   "alternativas": [
+    "deverá praticá-la pessoalmente, vedada a delegação",
+    "poderá delegá-la ao Comandante-Geral da Polícia Militar",
+    "poderá delegá-la ao Secretário da Segurança Pública",
+    "poderá delegá-la ao Presidente da Comissão de Promoções"
+   ],
+   "correta": 1,
+   "explicacao": "O art. 19 permite ao Governador delegar ao Comandante-Geral PM a promoção do Subtenente ao posto de 2º Tenente nos Quadros QOE e QOM.",
+   "tags": [
+    "lei18442",
+    "delegacao",
+    "art19"
+   ]
+  },
+  {
+   "id": "lei18442-elab-090",
+   "subtema": "Disposições transitórias",
+   "artigo": "Lei 18.442/26 — Art. 1º transitório",
+   "enunciado": "O efetivo fixado no art. 3º da Lei nº 18.442/26, cuja distribuição será regulamentada por decreto, entrará em vigor em",
+   "alternativas": [
+    "2 de abril de 2026",
+    "1º de dezembro de 2026",
+    "1º de janeiro de 2027",
+    "15 de dezembro de 2026"
+   ],
+   "correta": 1,
+   "explicacao": "A lei é de 2 de abril de 2026, mas o efetivo do art. 3º só entra em vigor em 1º de dezembro de 2026.",
+   "tags": [
+    "lei18442",
+    "transitorias",
+    "vigencia"
+   ]
+  },
+  {
+   "id": "lei18442-elab-091",
+   "subtema": "Disposições transitórias",
+   "artigo": "Lei 18.442/26 — Art. 2º transitório",
+   "enunciado": "Os artigos 5º a 9º da LC nº 419/85 (CHQAOPM) aplicar-se-ão aos concursos cujos editais de abertura forem publicados",
+   "alternativas": [
+    "nos cinco primeiros anos subsequentes à edição da lei",
+    "no primeiro ano subsequente à edição da lei",
+    "nos dois primeiros anos subsequentes à edição da lei",
+    "até a entrada em vigor do efetivo do art. 3º"
+   ],
+   "correta": 2,
+   "explicacao": "A regra de transição mantém os arts. 5º a 9º da LC 419/85 para os concursos com edital publicado nos dois primeiros anos subsequentes à edição da lei.",
+   "tags": [
+    "lei18442",
+    "transitorias",
+    "lc419"
+   ]
+  },
+  {
+   "id": "lei18442-elab-092",
+   "subtema": "Disposições transitórias",
+   "artigo": "Lei 18.442/26 — Art. 2º, parágrafo único",
+   "enunciado": "Os Oficiais participantes dos concursos regidos transitoriamente pela LC nº 419/85 que concluírem o curso de habilitação serão incorporados, após a nomeação,",
+   "alternativas": [
+    "ao Quadro Auxiliar de Oficiais da PM",
+    "ao Quadro de Oficiais de Estado-Maior",
+    "ao Quadro de Oficiais Especialistas",
+    "ao Quadro de Oficiais Músicos"
+   ],
+   "correta": 2,
+   "explicacao": "Concluído o curso de habilitação do art. 5º da LC 419/85, esses oficiais são incorporados ao QOE, sucessor do antigo QAOPM, após a nomeação.",
+   "tags": [
+    "lei18442",
+    "transitorias",
+    "qoe"
+   ]
+  },
+  {
+   "id": "lei18442-elab-093",
+   "subtema": "Disposições transitórias",
+   "artigo": "Lei 18.442/26 — Art. 3º transitório",
+   "enunciado": "A organização do almanaque de Oficiais do QOE e do QOM terá por base",
+   "alternativas": [
+    "a data de conclusão do curso de habilitação",
+    "a data de ingresso na Polícia Militar do Estado",
+    "a data de promoção no respectivo Quadro de origem",
+    "a data de publicação da Lei nº 18.442/26"
+   ],
+   "correta": 2,
+   "explicacao": "O art. 3º das disposições transitórias fixa como base a data de promoção no respectivo Quadro de origem.",
+   "tags": [
+    "lei18442",
+    "transitorias",
+    "almanaque"
+   ]
+  },
+  {
+   "id": "lei18442-elab-094",
+   "subtema": "Escalonamento",
+   "artigo": "Lei 18.442/26 — Art. 4º transitório, finalidade",
+   "enunciado": "A promoção escalonada do Soldado PM com no mínimo cinco anos de efetivo exercício tem por finalidade",
+   "alternativas": [
+    "reduzir o impacto orçamentário das promoções no primeiro exercício da lei",
+    "preservar a hierarquia e garantir o fluxo regular da carreira das praças",
+    "privilegiar os soldados com melhor avaliação de desempenho na graduação",
+    "compensar os soldados que não obtiveram vaga no Curso de Formação de Sargentos"
+   ],
+   "correta": 1,
+   "explicacao": "O art. 4º declara que o escalonamento visa preservar o princípio da hierarquia e garantir o fluxo regular da carreira das praças.",
+   "tags": [
+    "lei18442",
+    "escalonamento",
+    "finalidade"
+   ]
+  },
+  {
+   "id": "lei18442-elab-095",
+   "subtema": "Escalonamento",
+   "artigo": "Lei 18.442/26 — Art. 4º, I",
+   "enunciado": "Pelo escalonamento, a primeira promoção de Soldados com cinco anos de efetivo exercício ocorrerá em",
+   "alternativas": [
+    "1º de dezembro de 2026, para os que ingressaram até 31 de dezembro de 2014",
+    "15 de dezembro de 2026, para os que ingressaram até 31 de dezembro de 2014",
+    "15 de dezembro de 2026, para os que ingressaram até 31 de dezembro de 2015",
+    "21 de abril de 2027, para os que ingressaram até 31 de dezembro de 2014"
+   ],
+   "correta": 1,
+   "explicacao": "O inciso I prevê a promoção em 15 de dezembro de 2026 para os ingressos até 31 de dezembro de 2014; o inciso II, em 21 de abril de 2027, para ingressos até 2015.",
+   "tags": [
+    "lei18442",
+    "escalonamento",
+    "inciso-i"
+   ]
+  },
+  {
+   "id": "lei18442-elab-096",
+   "subtema": "Escalonamento",
+   "artigo": "Lei 18.442/26 — Art. 4º, IX",
+   "enunciado": "O último inciso do escalonamento prevê a promoção em 15 de dezembro de 2028 dos Soldados que ingressaram até",
+   "alternativas": [
+    "31 de dezembro de 2024",
+    "31 de dezembro de 2022",
+    "31 de dezembro de 2023",
+    "31 de dezembro de 2021"
+   ],
+   "correta": 2,
+   "explicacao": "O inciso IX refere-se aos ingressos até 31 de dezembro de 2023, com promoção em 15 de dezembro de 2028.",
+   "tags": [
+    "lei18442",
+    "escalonamento",
+    "inciso-ix"
+   ]
+  },
+  {
+   "id": "lei18442-elab-097",
+   "subtema": "Escalonamento",
+   "artigo": "Lei 18.442/26 — Art. 4º, VI e VII",
+   "enunciado": "Observando os incisos VI e VII do escalonamento, verifica-se que",
+   "alternativas": [
+    "o VI alcança ingressos até 2018 e o VII alcança ingressos até 2019",
+    "o VI alcança ingressos até 2020 e o VII alcança ingressos até 2021",
+    "o VI alcança ingressos até 2019 e o VII alcança ingressos até 2020",
+    "o VI alcança ingressos até 2019 e o VII salta para ingressos até 2021"
+   ],
+   "correta": 3,
+   "explicacao": "O inciso VI (21 de abril de 2028) vai até 31/12/2019 e o VII (9 de julho de 2028) salta para 31/12/2021, sem linha própria para o ingresso de 2020.",
+   "tags": [
+    "lei18442",
+    "escalonamento",
+    "pegadinha"
+   ]
+  },
+  {
+   "id": "lei18442-elab-098",
+   "subtema": "Escalonamento",
+   "artigo": "Lei 18.442/26 — Art. 4º, datas",
+   "enunciado": "Os Soldados que ingressaram até 31 de dezembro de 2017 serão promovidos, segundo o escalonamento, em",
+   "alternativas": [
+    "7 de setembro de 2027",
+    "9 de julho de 2027",
+    "15 de dezembro de 2027",
+    "21 de abril de 2027"
+   ],
+   "correta": 0,
+   "explicacao": "O inciso IV fixa 7 de setembro de 2027 para ingressos até 31/12/2017; 2016 é 9 de julho de 2027 e 2018 é 15 de dezembro de 2027.",
+   "tags": [
+    "lei18442",
+    "escalonamento",
+    "inciso-iv"
+   ]
+  },
+  {
+   "id": "lei18442-elab-099",
+   "subtema": "Escalonamento",
+   "artigo": "Lei 18.442/26 — Art. 4º, parágrafo único",
+   "enunciado": "Aos Soldados abrangidos pelo escalonamento que contem com cinco anos de tempo de serviço fica assegurada",
+   "alternativas": [
+    "a contagem em dobro do tempo de espera para fins de interstício na graduação de Cabo",
+    "a matrícula automática no Curso de Formação de Sargentos, independentemente de seleção",
+    "a promoção imediata a Cabo, antecipando a data prevista no escalonamento",
+    "a possibilidade de concorrer ao processo seletivo interno para o CFS, preenchidos os requisitos"
+   ],
+   "correta": 3,
+   "explicacao": "Fica assegurada a possibilidade de concorrer ao processo seletivo interno para o Curso de Formação de Sargentos, nos termos do art. 5º da LC nº 892/01, desde que preenchidos os requisitos.",
+   "tags": [
+    "lei18442",
+    "escalonamento",
+    "cfs"
+   ]
+  },
+  {
+   "id": "lei18442-elab-100",
+   "subtema": "Síntese de competências",
+   "artigo": "Lei 18.442/26 — Quem faz o quê",
+   "enunciado": "Considerando as competências previstas na Lei nº 18.442/26, é correto afirmar que",
+   "alternativas": [
+    "o Comandante-Geral distribui o efetivo por ato e o Governador pode alterá-lo em até 20%",
+    "o Governador distribui o efetivo por decreto e o Comandante-Geral pode alterá-lo em até 20%",
+    "a Assembleia Legislativa distribui o efetivo e o Governador pode alterá-lo em até 20%",
+    "o Secretário da Segurança distribui o efetivo e o Comandante-Geral o homologa"
+   ],
+   "correta": 1,
+   "explicacao": "A lei fixa o teto; o Governador distribui por decreto anual; o Comandante-Geral ajusta em até 20% o quantitativo distribuído, sempre dentro dos limites do art. 3º.",
+   "tags": [
+    "lei18442",
+    "competencias"
+   ]
+  },
+  {
+   "id": "lei18442-elab-101",
+   "subtema": "Síntese de datas",
+   "artigo": "Lei 18.442/26 — Datas do processo",
+   "enunciado": "No processo de promoção de Subtenente ao QOE e QOM, as datas de organização da relação, de aferição e de promoção do primeiro semestre são, respectivamente,",
+   "alternativas": [
+    "1ª quinzena de março, 15 de março e 21 de abril ou 9 de julho",
+    "31 de março, 2ª quinzena de março e 21 de abril ou 9 de julho",
+    "2ª quinzena de abril, 30 de abril e 9 de julho ou 7 de setembro",
+    "2ª quinzena de março, 31 de março e 21 de abril ou 9 de julho"
+   ],
+   "correta": 3,
+   "explicacao": "No 1º semestre, a relação é organizada na 2ª quinzena de março, a data-base de antiguidade e interstício é 31 de março, e as promoções ocorrem em 21 de abril e 9 de julho.",
+   "tags": [
+    "lei18442",
+    "datas",
+    "sintese"
+   ]
+  },
+  {
+   "id": "lei18442-elab-102",
+   "subtema": "Exclusão da relação",
+   "artigo": "Lei 18.442/26 — Art. 15, requisitos",
+   "enunciado": "O Subtenente que, integrando a relação de acesso, passa ao comportamento bom em razão de punição",
+   "alternativas": [
+    "permanece na relação, mas perde pontos no merecimento",
+    "permanece na relação até a data da promoção seguinte",
+    "será excluído da relação por deixar de cumprir requisito",
+    "será excluído apenas se a punição for de detenção"
+   ],
+   "correta": 2,
+   "explicacao": "Estar pelo menos no comportamento ótimo é requisito; deixar de cumprir requisito é causa de exclusão da relação de acesso prevista no art. 15.",
+   "tags": [
+    "lei18442",
+    "exclusao",
+    "comportamento"
+   ]
+  }
+ ]
+}
